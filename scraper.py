@@ -41,18 +41,19 @@ def scrape_form(election_id, race_id):
 
 if __name__ == "__main__":
     csvfile = open('mo_elections.csv', 'rU').readlines()
-    output = open('20141104__mo__general.csv', 'wb')
+    output = open('20140805__mo__primary.csv', 'wb')
     w = csv.writer(output)
     w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
-    reader = csv.DictReader(csvfile, fieldnames = ['slug', 'election_id', 'race_id', 'office', 'district'])
+    reader = csv.DictReader(csvfile, fieldnames = ['slug', 'election_id', 'race_id', 'office', 'district', 'special'])
     reader.next()
     for row in reader:
-        time.sleep(2)
-        results = scrape_form(row['election_id'], row['race_id'])
-        for line in results:
-            county = line[0][1]
-            for result in line[1:]:
-                cp, votes = result
-                votes = votes.replace(',','')
-                candidate, party = cp.split(", ")
-                w.writerow([county, row['office'], row['district'], party, candidate, votes])
+        if row['slug'] == '20140805__mo__primary':
+            time.sleep(2)
+            results = scrape_form(row['election_id'], row['race_id'])
+            for line in results:
+                county = line[0][1]
+                for result in line[1:]:
+                    cp, votes = result
+                    votes = votes.replace(',','')
+                    candidate, party = cp.split(", ")
+                    w.writerow([county, row['office'], row['district'], party, candidate, votes])
