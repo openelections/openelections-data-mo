@@ -11,6 +11,8 @@ def scrape_form(election_id, race_id):
     # Fill out the form
     br.select_form(nr=0)
     br.form['ctl00$MainContent$cboElectionNames'] = [election_id]
+    br.submit('ctl00$MainContent$btnElectionType')
+    br.select_form(nr=0)
     br.form['ctl00$MainContent$cboRaces'] = [race_id]
 
     # Submit the form
@@ -41,19 +43,23 @@ def scrape_form(election_id, race_id):
 
 if __name__ == "__main__":
     csvfile = open('mo_elections.csv', 'rU').readlines()
-    output = open('20140805__mo__primary.csv', 'wb')
+    output = open('20140805__mo__special__general__state_house__151.csv', 'wb')
     w = csv.writer(output)
     w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
     reader = csv.DictReader(csvfile, fieldnames = ['slug', 'election_id', 'race_id', 'office', 'district', 'special'])
     reader.next()
     for row in reader:
-        if row['slug'] == '20140805__mo__primary':
+        if row['slug'] == '20140805__mo__special__general__state_house__151':
             time.sleep(2)
-            results = scrape_form(row['election_id'], row['race_id'])
-            for line in results:
-                county = line[0][1]
-                for result in line[1:]:
-                    cp, votes = result
-                    votes = votes.replace(',','')
-                    candidate, party = cp.split(", ")
-                    w.writerow([county, row['office'], row['district'], party, candidate, votes])
+            try:
+                results = scrape_form(row['election_id'], row['race_id'])
+                for line in results:
+                    county = line[0][1]
+                    for result in line[1:]:
+                        cp, votes = result
+                        votes = votes.replace(',','')
+                        candidate, party = cp.split(", ")
+                        w.writerow([county, row['office'], row['district'], party, candidate, votes])
+            except:
+                print "can't scrape " + row['office'] + ' ' + row['district']
+                pass
