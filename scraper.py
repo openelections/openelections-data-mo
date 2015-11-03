@@ -43,13 +43,13 @@ def scrape_form(election_id, race_id):
 
 if __name__ == "__main__":
     csvfile = open('mo_elections.csv', 'rU').readlines()
-    output = open('20120807__mo__primary.csv', 'wb')
+    output = open('20130402__mo__special__general__state_house__76.csv', 'wb')
     w = csv.writer(output)
     w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
     reader = csv.DictReader(csvfile, fieldnames = ['slug', 'election_id', 'race_id', 'office', 'district', 'special'])
     reader.next()
     for row in reader:
-        if row['slug'] == '20120807__mo__primary':
+        if row['slug'] == '20130402__mo__special__general__state_house__76':
             time.sleep(2)
             try:
                 results = scrape_form(row['election_id'], row['race_id'])
