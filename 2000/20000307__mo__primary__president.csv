@@ -1,0 +1,2205 @@
+county,precinct,office,district,party,candidate,votes
+ADAIR,President,,DEM,"Bradley, Bill",316
+ADAIR,President,,DEM,"Gore, Al",541
+ADAIR,President,,DEM,"LaRouche Jr., Lyndon",2
+ADAIR,President,,DEM,"Price, Pat",2
+ADAIR,President,,DEM,"Uncommitted,",15
+ADAIR,President,,REP,"Forbes, Steve",22
+ADAIR,President,,REP,"Bush, George",1191
+ADAIR,President,,REP,"McCain, John",591
+ADAIR,President,,REP,"Bauer, Gary",4
+ADAIR,President,,REP,"Keyes, Alan",88
+ADAIR,President,,REP,"Hornung, Lawrence",0
+ADAIR,President,,REP,"Hatch, Orrin",2
+ADAIR,President,,REP,"Uncommitted,",11
+ADAIR,President,,LIB,"Browne, Harry",5
+ADAIR,President,,LIB,"Hollist, David",1
+ADAIR,President,,LIB,"Hines, Larry",1
+ADAIR,President,,LIB,"Uncommitted,",1
+ADAIR,President,,CST,"Phillips, Howard",2
+ADAIR,President,,CST,"Uncommitted,",0
+ANDREW,President,,DEM,"Bradley, Bill",158
+ANDREW,President,,DEM,"Gore, Al",352
+ANDREW,President,,DEM,"LaRouche Jr., Lyndon",3
+ANDREW,President,,DEM,"Price, Pat",1
+ANDREW,President,,DEM,"Uncommitted,",8
+ANDREW,President,,REP,"Forbes, Steve",8
+ANDREW,President,,REP,"Bush, George",897
+ANDREW,President,,REP,"McCain, John",454
+ANDREW,President,,REP,"Bauer, Gary",4
+ANDREW,President,,REP,"Keyes, Alan",58
+ANDREW,President,,REP,"Hornung, Lawrence",0
+ANDREW,President,,REP,"Hatch, Orrin",1
+ANDREW,President,,REP,"Uncommitted,",9
+ANDREW,President,,LIB,"Browne, Harry",5
+ANDREW,President,,LIB,"Hollist, David",0
+ANDREW,President,,LIB,"Hines, Larry",1
+ANDREW,President,,LIB,"Uncommitted,",0
+ANDREW,President,,CST,"Phillips, Howard",0
+ANDREW,President,,CST,"Uncommitted,",0
+ATCHISON,President,,DEM,"Bradley, Bill",79
+ATCHISON,President,,DEM,"Gore, Al",142
+ATCHISON,President,,DEM,"LaRouche Jr., Lyndon",1
+ATCHISON,President,,DEM,"Price, Pat",0
+ATCHISON,President,,DEM,"Uncommitted,",3
+ATCHISON,President,,REP,"Forbes, Steve",4
+ATCHISON,President,,REP,"Bush, George",373
+ATCHISON,President,,REP,"McCain, John",161
+ATCHISON,President,,REP,"Bauer, Gary",2
+ATCHISON,President,,REP,"Keyes, Alan",25
+ATCHISON,President,,REP,"Hornung, Lawrence",0
+ATCHISON,President,,REP,"Hatch, Orrin",1
+ATCHISON,President,,REP,"Uncommitted,",2
+ATCHISON,President,,LIB,"Browne, Harry",0
+ATCHISON,President,,LIB,"Hollist, David",0
+ATCHISON,President,,LIB,"Hines, Larry",0
+ATCHISON,President,,LIB,"Uncommitted,",0
+ATCHISON,President,,CST,"Phillips, Howard",0
+ATCHISON,President,,CST,"Uncommitted,",0
+AUDRAIN,President,,DEM,"Bradley, Bill",418
+AUDRAIN,President,,DEM,"Gore, Al",687
+AUDRAIN,President,,DEM,"LaRouche Jr., Lyndon",5
+AUDRAIN,President,,DEM,"Price, Pat",1
+AUDRAIN,President,,DEM,"Uncommitted,",13
+AUDRAIN,President,,REP,"Forbes, Steve",8
+AUDRAIN,President,,REP,"Bush, George",1184
+AUDRAIN,President,,REP,"McCain, John",762
+AUDRAIN,President,,REP,"Bauer, Gary",3
+AUDRAIN,President,,REP,"Keyes, Alan",95
+AUDRAIN,President,,REP,"Hornung, Lawrence",1
+AUDRAIN,President,,REP,"Hatch, Orrin",4
+AUDRAIN,President,,REP,"Uncommitted,",4
+AUDRAIN,President,,LIB,"Browne, Harry",2
+AUDRAIN,President,,LIB,"Hollist, David",0
+AUDRAIN,President,,LIB,"Hines, Larry",0
+AUDRAIN,President,,LIB,"Uncommitted,",1
+AUDRAIN,President,,CST,"Phillips, Howard",1
+AUDRAIN,President,,CST,"Uncommitted,",0
+BARRY,President,,DEM,"Bradley, Bill",179
+BARRY,President,,DEM,"Gore, Al",572
+BARRY,President,,DEM,"LaRouche Jr., Lyndon",9
+BARRY,President,,DEM,"Price, Pat",4
+BARRY,President,,DEM,"Uncommitted,",15
+BARRY,President,,REP,"Forbes, Steve",13
+BARRY,President,,REP,"Bush, George",2060
+BARRY,President,,REP,"McCain, John",1018
+BARRY,President,,REP,"Bauer, Gary",7
+BARRY,President,,REP,"Keyes, Alan",186
+BARRY,President,,REP,"Hornung, Lawrence",1
+BARRY,President,,REP,"Hatch, Orrin",1
+BARRY,President,,REP,"Uncommitted,",10
+BARRY,President,,LIB,"Browne, Harry",3
+BARRY,President,,LIB,"Hollist, David",0
+BARRY,President,,LIB,"Hines, Larry",1
+BARRY,President,,LIB,"Uncommitted,",0
+BARRY,President,,CST,"Phillips, Howard",0
+BARRY,President,,CST,"Uncommitted,",0
+BARTON,President,,DEM,"Bradley, Bill",84
+BARTON,President,,DEM,"Gore, Al",191
+BARTON,President,,DEM,"LaRouche Jr., Lyndon",0
+BARTON,President,,DEM,"Price, Pat",2
+BARTON,President,,DEM,"Uncommitted,",7
+BARTON,President,,REP,"Forbes, Steve",6
+BARTON,President,,REP,"Bush, George",1036
+BARTON,President,,REP,"McCain, John",402
+BARTON,President,,REP,"Bauer, Gary",2
+BARTON,President,,REP,"Keyes, Alan",79
+BARTON,President,,REP,"Hornung, Lawrence",0
+BARTON,President,,REP,"Hatch, Orrin",1
+BARTON,President,,REP,"Uncommitted,",6
+BARTON,President,,LIB,"Browne, Harry",0
+BARTON,President,,LIB,"Hollist, David",0
+BARTON,President,,LIB,"Hines, Larry",0
+BARTON,President,,LIB,"Uncommitted,",0
+BARTON,President,,CST,"Phillips, Howard",0
+BARTON,President,,CST,"Uncommitted,",0
+BATES,President,,DEM,"Bradley, Bill",184
+BATES,President,,DEM,"Gore, Al",472
+BATES,President,,DEM,"LaRouche Jr., Lyndon",5
+BATES,President,,DEM,"Price, Pat",3
+BATES,President,,DEM,"Uncommitted,",11
+BATES,President,,REP,"Forbes, Steve",12
+BATES,President,,REP,"Bush, George",723
+BATES,President,,REP,"McCain, John",428
+BATES,President,,REP,"Bauer, Gary",7
+BATES,President,,REP,"Keyes, Alan",61
+BATES,President,,REP,"Hornung, Lawrence",0
+BATES,President,,REP,"Hatch, Orrin",6
+BATES,President,,REP,"Uncommitted,",4
+BATES,President,,LIB,"Browne, Harry",3
+BATES,President,,LIB,"Hollist, David",1
+BATES,President,,LIB,"Hines, Larry",1
+BATES,President,,LIB,"Uncommitted,",0
+BATES,President,,CST,"Phillips, Howard",2
+BATES,President,,CST,"Uncommitted,",2
+BENTON,President,,DEM,"Bradley, Bill",106
+BENTON,President,,DEM,"Gore, Al",523
+BENTON,President,,DEM,"LaRouche Jr., Lyndon",3
+BENTON,President,,DEM,"Price, Pat",4
+BENTON,President,,DEM,"Uncommitted,",6
+BENTON,President,,REP,"Forbes, Steve",9
+BENTON,President,,REP,"Bush, George",890
+BENTON,President,,REP,"McCain, John",597
+BENTON,President,,REP,"Bauer, Gary",0
+BENTON,President,,REP,"Keyes, Alan",48
+BENTON,President,,REP,"Hornung, Lawrence",0
+BENTON,President,,REP,"Hatch, Orrin",0
+BENTON,President,,REP,"Uncommitted,",5
+BENTON,President,,LIB,"Browne, Harry",4
+BENTON,President,,LIB,"Hollist, David",0
+BENTON,President,,LIB,"Hines, Larry",0
+BENTON,President,,LIB,"Uncommitted,",0
+BENTON,President,,CST,"Phillips, Howard",0
+BENTON,President,,CST,"Uncommitted,",0
+BOLLINGER,President,,DEM,"Bradley, Bill",117
+BOLLINGER,President,,DEM,"Gore, Al",211
+BOLLINGER,President,,DEM,"LaRouche Jr., Lyndon",1
+BOLLINGER,President,,DEM,"Price, Pat",4
+BOLLINGER,President,,DEM,"Uncommitted,",7
+BOLLINGER,President,,REP,"Forbes, Steve",5
+BOLLINGER,President,,REP,"Bush, George",824
+BOLLINGER,President,,REP,"McCain, John",278
+BOLLINGER,President,,REP,"Bauer, Gary",2
+BOLLINGER,President,,REP,"Keyes, Alan",42
+BOLLINGER,President,,REP,"Hornung, Lawrence",0
+BOLLINGER,President,,REP,"Hatch, Orrin",2
+BOLLINGER,President,,REP,"Uncommitted,",0
+BOLLINGER,President,,LIB,"Browne, Harry",4
+BOLLINGER,President,,LIB,"Hollist, David",0
+BOLLINGER,President,,LIB,"Hines, Larry",0
+BOLLINGER,President,,LIB,"Uncommitted,",0
+BOLLINGER,President,,CST,"Phillips, Howard",2
+BOLLINGER,President,,CST,"Uncommitted,",0
+BOONE,President,,DEM,"Bradley, Bill",2760
+BOONE,President,,DEM,"Gore, Al",3402
+BOONE,President,,DEM,"LaRouche Jr., Lyndon",10
+BOONE,President,,DEM,"Price, Pat",8
+BOONE,President,,DEM,"Uncommitted,",69
+BOONE,President,,REP,"Forbes, Steve",31
+BOONE,President,,REP,"Bush, George",6988
+BOONE,President,,REP,"McCain, John",5074
+BOONE,President,,REP,"Bauer, Gary",14
+BOONE,President,,REP,"Keyes, Alan",550
+BOONE,President,,REP,"Hornung, Lawrence",0
+BOONE,President,,REP,"Hatch, Orrin",9
+BOONE,President,,REP,"Uncommitted,",29
+BOONE,President,,LIB,"Browne, Harry",36
+BOONE,President,,LIB,"Hollist, David",5
+BOONE,President,,LIB,"Hines, Larry",9
+BOONE,President,,LIB,"Uncommitted,",10
+BOONE,President,,CST,"Phillips, Howard",5
+BOONE,President,,CST,"Uncommitted,",2
+BUCHANAN,President,,DEM,"Bradley, Bill",1104
+BUCHANAN,President,,DEM,"Gore, Al",2488
+BUCHANAN,President,,DEM,"LaRouche Jr., Lyndon",11
+BUCHANAN,President,,DEM,"Price, Pat",21
+BUCHANAN,President,,DEM,"Uncommitted,",76
+BUCHANAN,President,,REP,"Forbes, Steve",35
+BUCHANAN,President,,REP,"Bush, George",3203
+BUCHANAN,President,,REP,"McCain, John",2307
+BUCHANAN,President,,REP,"Bauer, Gary",18
+BUCHANAN,President,,REP,"Keyes, Alan",350
+BUCHANAN,President,,REP,"Hornung, Lawrence",1
+BUCHANAN,President,,REP,"Hatch, Orrin",4
+BUCHANAN,President,,REP,"Uncommitted,",25
+BUCHANAN,President,,LIB,"Browne, Harry",20
+BUCHANAN,President,,LIB,"Hollist, David",2
+BUCHANAN,President,,LIB,"Hines, Larry",6
+BUCHANAN,President,,LIB,"Uncommitted,",5
+BUCHANAN,President,,CST,"Phillips, Howard",8
+BUCHANAN,President,,CST,"Uncommitted,",0
+BUTLER,President,,DEM,"Bradley, Bill",299
+BUTLER,President,,DEM,"Gore, Al",638
+BUTLER,President,,DEM,"LaRouche Jr., Lyndon",4
+BUTLER,President,,DEM,"Price, Pat",2
+BUTLER,President,,DEM,"Uncommitted,",17
+BUTLER,President,,REP,"Forbes, Steve",7
+BUTLER,President,,REP,"Bush, George",2059
+BUTLER,President,,REP,"McCain, John",699
+BUTLER,President,,REP,"Bauer, Gary",8
+BUTLER,President,,REP,"Keyes, Alan",59
+BUTLER,President,,REP,"Hornung, Lawrence",0
+BUTLER,President,,REP,"Hatch, Orrin",0
+BUTLER,President,,REP,"Uncommitted,",2
+BUTLER,President,,LIB,"Browne, Harry",1
+BUTLER,President,,LIB,"Hollist, David",0
+BUTLER,President,,LIB,"Hines, Larry",0
+BUTLER,President,,LIB,"Uncommitted,",1
+BUTLER,President,,CST,"Phillips, Howard",0
+BUTLER,President,,CST,"Uncommitted,",0
+CALDWELL,President,,DEM,"Bradley, Bill",75
+CALDWELL,President,,DEM,"Gore, Al",156
+CALDWELL,President,,DEM,"LaRouche Jr., Lyndon",2
+CALDWELL,President,,DEM,"Price, Pat",1
+CALDWELL,President,,DEM,"Uncommitted,",3
+CALDWELL,President,,REP,"Forbes, Steve",5
+CALDWELL,President,,REP,"Bush, George",415
+CALDWELL,President,,REP,"McCain, John",233
+CALDWELL,President,,REP,"Bauer, Gary",2
+CALDWELL,President,,REP,"Keyes, Alan",35
+CALDWELL,President,,REP,"Hornung, Lawrence",0
+CALDWELL,President,,REP,"Hatch, Orrin",0
+CALDWELL,President,,REP,"Uncommitted,",3
+CALDWELL,President,,LIB,"Browne, Harry",2
+CALDWELL,President,,LIB,"Hollist, David",0
+CALDWELL,President,,LIB,"Hines, Larry",0
+CALDWELL,President,,LIB,"Uncommitted,",0
+CALDWELL,President,,CST,"Phillips, Howard",3
+CALDWELL,President,,CST,"Uncommitted,",0
+CALLAWAY,President,,DEM,"Bradley, Bill",557
+CALLAWAY,President,,DEM,"Gore, Al",873
+CALLAWAY,President,,DEM,"LaRouche Jr., Lyndon",7
+CALLAWAY,President,,DEM,"Price, Pat",4
+CALLAWAY,President,,DEM,"Uncommitted,",36
+CALLAWAY,President,,REP,"Forbes, Steve",12
+CALLAWAY,President,,REP,"Bush, George",1768
+CALLAWAY,President,,REP,"McCain, John",1062
+CALLAWAY,President,,REP,"Bauer, Gary",10
+CALLAWAY,President,,REP,"Keyes, Alan",133
+CALLAWAY,President,,REP,"Hornung, Lawrence",1
+CALLAWAY,President,,REP,"Hatch, Orrin",3
+CALLAWAY,President,,REP,"Uncommitted,",12
+CALLAWAY,President,,LIB,"Browne, Harry",2
+CALLAWAY,President,,LIB,"Hollist, David",2
+CALLAWAY,President,,LIB,"Hines, Larry",0
+CALLAWAY,President,,LIB,"Uncommitted,",0
+CALLAWAY,President,,CST,"Phillips, Howard",3
+CALLAWAY,President,,CST,"Uncommitted,",0
+CAMDEN,President,,DEM,"Bradley, Bill",267
+CAMDEN,President,,DEM,"Gore, Al",755
+CAMDEN,President,,DEM,"LaRouche Jr., Lyndon",1
+CAMDEN,President,,DEM,"Price, Pat",1
+CAMDEN,President,,DEM,"Uncommitted,",7
+CAMDEN,President,,REP,"Forbes, Steve",21
+CAMDEN,President,,REP,"Bush, George",2495
+CAMDEN,President,,REP,"McCain, John",1709
+CAMDEN,President,,REP,"Bauer, Gary",4
+CAMDEN,President,,REP,"Keyes, Alan",179
+CAMDEN,President,,REP,"Hornung, Lawrence",1
+CAMDEN,President,,REP,"Hatch, Orrin",4
+CAMDEN,President,,REP,"Uncommitted,",12
+CAMDEN,President,,LIB,"Browne, Harry",0
+CAMDEN,President,,LIB,"Hollist, David",0
+CAMDEN,President,,LIB,"Hines, Larry",1
+CAMDEN,President,,LIB,"Uncommitted,",4
+CAMDEN,President,,CST,"Phillips, Howard",2
+CAMDEN,President,,CST,"Uncommitted,",0
+CAPE GIRARDEAU,President,,DEM,"Bradley, Bill",798
+CAPE GIRARDEAU,President,,DEM,"Gore, Al",1206
+CAPE GIRARDEAU,President,,DEM,"LaRouche Jr., Lyndon",18
+CAPE GIRARDEAU,President,,DEM,"Price, Pat",5
+CAPE GIRARDEAU,President,,DEM,"Uncommitted,",18
+CAPE GIRARDEAU,President,,REP,"Forbes, Steve",24
+CAPE GIRARDEAU,President,,REP,"Bush, George",5458
+CAPE GIRARDEAU,President,,REP,"McCain, John",1708
+CAPE GIRARDEAU,President,,REP,"Bauer, Gary",26
+CAPE GIRARDEAU,President,,REP,"Keyes, Alan",242
+CAPE GIRARDEAU,President,,REP,"Hornung, Lawrence",1
+CAPE GIRARDEAU,President,,REP,"Hatch, Orrin",2
+CAPE GIRARDEAU,President,,REP,"Uncommitted,",8
+CAPE GIRARDEAU,President,,LIB,"Browne, Harry",20
+CAPE GIRARDEAU,President,,LIB,"Hollist, David",6
+CAPE GIRARDEAU,President,,LIB,"Hines, Larry",3
+CAPE GIRARDEAU,President,,LIB,"Uncommitted,",1
+CAPE GIRARDEAU,President,,CST,"Phillips, Howard",4
+CAPE GIRARDEAU,President,,CST,"Uncommitted,",0
+CARROLL,President,,DEM,"Bradley, Bill",101
+CARROLL,President,,DEM,"Gore, Al",233
+CARROLL,President,,DEM,"LaRouche Jr., Lyndon",4
+CARROLL,President,,DEM,"Price, Pat",2
+CARROLL,President,,DEM,"Uncommitted,",13
+CARROLL,President,,REP,"Forbes, Steve",8
+CARROLL,President,,REP,"Bush, George",601
+CARROLL,President,,REP,"McCain, John",295
+CARROLL,President,,REP,"Bauer, Gary",6
+CARROLL,President,,REP,"Keyes, Alan",25
+CARROLL,President,,REP,"Hornung, Lawrence",0
+CARROLL,President,,REP,"Hatch, Orrin",1
+CARROLL,President,,REP,"Uncommitted,",6
+CARROLL,President,,LIB,"Browne, Harry",1
+CARROLL,President,,LIB,"Hollist, David",1
+CARROLL,President,,LIB,"Hines, Larry",0
+CARROLL,President,,LIB,"Uncommitted,",0
+CARROLL,President,,CST,"Phillips, Howard",0
+CARROLL,President,,CST,"Uncommitted,",0
+CARTER,President,,DEM,"Bradley, Bill",96
+CARTER,President,,DEM,"Gore, Al",159
+CARTER,President,,DEM,"LaRouche Jr., Lyndon",1
+CARTER,President,,DEM,"Price, Pat",0
+CARTER,President,,DEM,"Uncommitted,",7
+CARTER,President,,REP,"Forbes, Steve",0
+CARTER,President,,REP,"Bush, George",333
+CARTER,President,,REP,"McCain, John",145
+CARTER,President,,REP,"Bauer, Gary",0
+CARTER,President,,REP,"Keyes, Alan",23
+CARTER,President,,REP,"Hornung, Lawrence",0
+CARTER,President,,REP,"Hatch, Orrin",0
+CARTER,President,,REP,"Uncommitted,",2
+CARTER,President,,LIB,"Browne, Harry",0
+CARTER,President,,LIB,"Hollist, David",0
+CARTER,President,,LIB,"Hines, Larry",0
+CARTER,President,,LIB,"Uncommitted,",0
+CARTER,President,,CST,"Phillips, Howard",1
+CARTER,President,,CST,"Uncommitted,",0
+CASS,President,,DEM,"Bradley, Bill",666
+CASS,President,,DEM,"Gore, Al",1821
+CASS,President,,DEM,"LaRouche Jr., Lyndon",14
+CASS,President,,DEM,"Price, Pat",11
+CASS,President,,DEM,"Uncommitted,",48
+CASS,President,,REP,"Forbes, Steve",24
+CASS,President,,REP,"Bush, George",3523
+CASS,President,,REP,"McCain, John",2045
+CASS,President,,REP,"Bauer, Gary",27
+CASS,President,,REP,"Keyes, Alan",414
+CASS,President,,REP,"Hornung, Lawrence",2
+CASS,President,,REP,"Hatch, Orrin",2
+CASS,President,,REP,"Uncommitted,",15
+CASS,President,,LIB,"Browne, Harry",17
+CASS,President,,LIB,"Hollist, David",0
+CASS,President,,LIB,"Hines, Larry",2
+CASS,President,,LIB,"Uncommitted,",1
+CASS,President,,CST,"Phillips, Howard",1
+CASS,President,,CST,"Uncommitted,",1
+CEDAR,President,,DEM,"Bradley, Bill",97
+CEDAR,President,,DEM,"Gore, Al",313
+CEDAR,President,,DEM,"LaRouche Jr., Lyndon",1
+CEDAR,President,,DEM,"Price, Pat",1
+CEDAR,President,,DEM,"Uncommitted,",5
+CEDAR,President,,REP,"Forbes, Steve",6
+CEDAR,President,,REP,"Bush, George",928
+CEDAR,President,,REP,"McCain, John",598
+CEDAR,President,,REP,"Bauer, Gary",1
+CEDAR,President,,REP,"Keyes, Alan",100
+CEDAR,President,,REP,"Hornung, Lawrence",0
+CEDAR,President,,REP,"Hatch, Orrin",1
+CEDAR,President,,REP,"Uncommitted,",4
+CEDAR,President,,LIB,"Browne, Harry",1
+CEDAR,President,,LIB,"Hollist, David",0
+CEDAR,President,,LIB,"Hines, Larry",0
+CEDAR,President,,LIB,"Uncommitted,",1
+CEDAR,President,,CST,"Phillips, Howard",0
+CEDAR,President,,CST,"Uncommitted,",0
+CHARITON,President,,DEM,"Bradley, Bill",167
+CHARITON,President,,DEM,"Gore, Al",279
+CHARITON,President,,DEM,"LaRouche Jr., Lyndon",3
+CHARITON,President,,DEM,"Price, Pat",2
+CHARITON,President,,DEM,"Uncommitted,",10
+CHARITON,President,,REP,"Forbes, Steve",5
+CHARITON,President,,REP,"Bush, George",446
+CHARITON,President,,REP,"McCain, John",238
+CHARITON,President,,REP,"Bauer, Gary",3
+CHARITON,President,,REP,"Keyes, Alan",27
+CHARITON,President,,REP,"Hornung, Lawrence",0
+CHARITON,President,,REP,"Hatch, Orrin",1
+CHARITON,President,,REP,"Uncommitted,",1
+CHARITON,President,,LIB,"Browne, Harry",2
+CHARITON,President,,LIB,"Hollist, David",0
+CHARITON,President,,LIB,"Hines, Larry",0
+CHARITON,President,,LIB,"Uncommitted,",0
+CHARITON,President,,CST,"Phillips, Howard",0
+CHARITON,President,,CST,"Uncommitted,",0
+CHRISTIAN,President,,DEM,"Bradley, Bill",299
+CHRISTIAN,President,,DEM,"Gore, Al",870
+CHRISTIAN,President,,DEM,"LaRouche Jr., Lyndon",2
+CHRISTIAN,President,,DEM,"Price, Pat",3
+CHRISTIAN,President,,DEM,"Uncommitted,",10
+CHRISTIAN,President,,REP,"Forbes, Steve",27
+CHRISTIAN,President,,REP,"Bush, George",3493
+CHRISTIAN,President,,REP,"McCain, John",1986
+CHRISTIAN,President,,REP,"Bauer, Gary",3
+CHRISTIAN,President,,REP,"Keyes, Alan",566
+CHRISTIAN,President,,REP,"Hornung, Lawrence",0
+CHRISTIAN,President,,REP,"Hatch, Orrin",4
+CHRISTIAN,President,,REP,"Uncommitted,",19
+CHRISTIAN,President,,LIB,"Browne, Harry",6
+CHRISTIAN,President,,LIB,"Hollist, David",0
+CHRISTIAN,President,,LIB,"Hines, Larry",2
+CHRISTIAN,President,,LIB,"Uncommitted,",1
+CHRISTIAN,President,,CST,"Phillips, Howard",4
+CHRISTIAN,President,,CST,"Uncommitted,",1
+CLARK,President,,DEM,"Bradley, Bill",109
+CLARK,President,,DEM,"Gore, Al",285
+CLARK,President,,DEM,"LaRouche Jr., Lyndon",5
+CLARK,President,,DEM,"Price, Pat",1
+CLARK,President,,DEM,"Uncommitted,",5
+CLARK,President,,REP,"Forbes, Steve",6
+CLARK,President,,REP,"Bush, George",344
+CLARK,President,,REP,"McCain, John",207
+CLARK,President,,REP,"Bauer, Gary",1
+CLARK,President,,REP,"Keyes, Alan",32
+CLARK,President,,REP,"Hornung, Lawrence",0
+CLARK,President,,REP,"Hatch, Orrin",1
+CLARK,President,,REP,"Uncommitted,",1
+CLARK,President,,LIB,"Browne, Harry",0
+CLARK,President,,LIB,"Hollist, David",0
+CLARK,President,,LIB,"Hines, Larry",0
+CLARK,President,,LIB,"Uncommitted,",0
+CLARK,President,,CST,"Phillips, Howard",1
+CLARK,President,,CST,"Uncommitted,",0
+CLAY,President,,DEM,"Bradley, Bill",1639
+CLAY,President,,DEM,"Gore, Al",4244
+CLAY,President,,DEM,"LaRouche Jr., Lyndon",12
+CLAY,President,,DEM,"Price, Pat",9
+CLAY,President,,DEM,"Uncommitted,",84
+CLAY,President,,REP,"Forbes, Steve",55
+CLAY,President,,REP,"Bush, George",6854
+CLAY,President,,REP,"McCain, John",4990
+CLAY,President,,REP,"Bauer, Gary",34
+CLAY,President,,REP,"Keyes, Alan",817
+CLAY,President,,REP,"Hornung, Lawrence",1
+CLAY,President,,REP,"Hatch, Orrin",7
+CLAY,President,,REP,"Uncommitted,",31
+CLAY,President,,LIB,"Browne, Harry",24
+CLAY,President,,LIB,"Hollist, David",1
+CLAY,President,,LIB,"Hines, Larry",3
+CLAY,President,,LIB,"Uncommitted,",12
+CLAY,President,,CST,"Phillips, Howard",4
+CLAY,President,,CST,"Uncommitted,",2
+CLINTON,President,,DEM,"Bradley, Bill",234
+CLINTON,President,,DEM,"Gore, Al",468
+CLINTON,President,,DEM,"LaRouche Jr., Lyndon",3
+CLINTON,President,,DEM,"Price, Pat",2
+CLINTON,President,,DEM,"Uncommitted,",20
+CLINTON,President,,REP,"Forbes, Steve",1
+CLINTON,President,,REP,"Bush, George",638
+CLINTON,President,,REP,"McCain, John",493
+CLINTON,President,,REP,"Bauer, Gary",1
+CLINTON,President,,REP,"Keyes, Alan",75
+CLINTON,President,,REP,"Hornung, Lawrence",0
+CLINTON,President,,REP,"Hatch, Orrin",5
+CLINTON,President,,REP,"Uncommitted,",3
+CLINTON,President,,LIB,"Browne, Harry",4
+CLINTON,President,,LIB,"Hollist, David",0
+CLINTON,President,,LIB,"Hines, Larry",2
+CLINTON,President,,LIB,"Uncommitted,",1
+CLINTON,President,,CST,"Phillips, Howard",4
+CLINTON,President,,CST,"Uncommitted,",1
+COLE,President,,DEM,"Bradley, Bill",1251
+COLE,President,,DEM,"Gore, Al",1481
+COLE,President,,DEM,"LaRouche Jr., Lyndon",6
+COLE,President,,DEM,"Price, Pat",4
+COLE,President,,DEM,"Uncommitted,",31
+COLE,President,,REP,"Forbes, Steve",21
+COLE,President,,REP,"Bush, George",5263
+COLE,President,,REP,"McCain, John",2408
+COLE,President,,REP,"Bauer, Gary",8
+COLE,President,,REP,"Keyes, Alan",274
+COLE,President,,REP,"Hornung, Lawrence",0
+COLE,President,,REP,"Hatch, Orrin",7
+COLE,President,,REP,"Uncommitted,",17
+COLE,President,,LIB,"Browne, Harry",8
+COLE,President,,LIB,"Hollist, David",1
+COLE,President,,LIB,"Hines, Larry",1
+COLE,President,,LIB,"Uncommitted,",5
+COLE,President,,CST,"Phillips, Howard",2
+COLE,President,,CST,"Uncommitted,",1
+COOPER,President,,DEM,"Bradley, Bill",186
+COOPER,President,,DEM,"Gore, Al",353
+COOPER,President,,DEM,"LaRouche Jr., Lyndon",2
+COOPER,President,,DEM,"Price, Pat",0
+COOPER,President,,DEM,"Uncommitted,",5
+COOPER,President,,REP,"Forbes, Steve",10
+COOPER,President,,REP,"Bush, George",986
+COOPER,President,,REP,"McCain, John",638
+COOPER,President,,REP,"Bauer, Gary",1
+COOPER,President,,REP,"Keyes, Alan",61
+COOPER,President,,REP,"Hornung, Lawrence",0
+COOPER,President,,REP,"Hatch, Orrin",2
+COOPER,President,,REP,"Uncommitted,",6
+COOPER,President,,LIB,"Browne, Harry",2
+COOPER,President,,LIB,"Hollist, David",0
+COOPER,President,,LIB,"Hines, Larry",0
+COOPER,President,,LIB,"Uncommitted,",0
+COOPER,President,,CST,"Phillips, Howard",0
+COOPER,President,,CST,"Uncommitted,",0
+CRAWFORD,President,,DEM,"Bradley, Bill",273
+CRAWFORD,President,,DEM,"Gore, Al",396
+CRAWFORD,President,,DEM,"LaRouche Jr., Lyndon",4
+CRAWFORD,President,,DEM,"Price, Pat",4
+CRAWFORD,President,,DEM,"Uncommitted,",9
+CRAWFORD,President,,REP,"Forbes, Steve",8
+CRAWFORD,President,,REP,"Bush, George",962
+CRAWFORD,President,,REP,"McCain, John",529
+CRAWFORD,President,,REP,"Bauer, Gary",2
+CRAWFORD,President,,REP,"Keyes, Alan",67
+CRAWFORD,President,,REP,"Hornung, Lawrence",0
+CRAWFORD,President,,REP,"Hatch, Orrin",0
+CRAWFORD,President,,REP,"Uncommitted,",3
+CRAWFORD,President,,LIB,"Browne, Harry",2
+CRAWFORD,President,,LIB,"Hollist, David",0
+CRAWFORD,President,,LIB,"Hines, Larry",1
+CRAWFORD,President,,LIB,"Uncommitted,",2
+CRAWFORD,President,,CST,"Phillips, Howard",0
+CRAWFORD,President,,CST,"Uncommitted,",0
+DADE,President,,DEM,"Bradley, Bill",66
+DADE,President,,DEM,"Gore, Al",159
+DADE,President,,DEM,"LaRouche Jr., Lyndon",0
+DADE,President,,DEM,"Price, Pat",2
+DADE,President,,DEM,"Uncommitted,",0
+DADE,President,,REP,"Forbes, Steve",6
+DADE,President,,REP,"Bush, George",731
+DADE,President,,REP,"McCain, John",438
+DADE,President,,REP,"Bauer, Gary",1
+DADE,President,,REP,"Keyes, Alan",79
+DADE,President,,REP,"Hornung, Lawrence",0
+DADE,President,,REP,"Hatch, Orrin",7
+DADE,President,,REP,"Uncommitted,",0
+DADE,President,,LIB,"Browne, Harry",1
+DADE,President,,LIB,"Hollist, David",0
+DADE,President,,LIB,"Hines, Larry",0
+DADE,President,,LIB,"Uncommitted,",0
+DADE,President,,CST,"Phillips, Howard",1
+DADE,President,,CST,"Uncommitted,",0
+DALLAS,President,,DEM,"Bradley, Bill",121
+DALLAS,President,,DEM,"Gore, Al",332
+DALLAS,President,,DEM,"LaRouche Jr., Lyndon",1
+DALLAS,President,,DEM,"Price, Pat",1
+DALLAS,President,,DEM,"Uncommitted,",8
+DALLAS,President,,REP,"Forbes, Steve",4
+DALLAS,President,,REP,"Bush, George",1004
+DALLAS,President,,REP,"McCain, John",673
+DALLAS,President,,REP,"Bauer, Gary",1
+DALLAS,President,,REP,"Keyes, Alan",122
+DALLAS,President,,REP,"Hornung, Lawrence",0
+DALLAS,President,,REP,"Hatch, Orrin",1
+DALLAS,President,,REP,"Uncommitted,",4
+DALLAS,President,,LIB,"Browne, Harry",1
+DALLAS,President,,LIB,"Hollist, David",1
+DALLAS,President,,LIB,"Hines, Larry",0
+DALLAS,President,,LIB,"Uncommitted,",4
+DALLAS,President,,CST,"Phillips, Howard",3
+DALLAS,President,,CST,"Uncommitted,",1
+DAVIESS,President,,DEM,"Bradley, Bill",76
+DAVIESS,President,,DEM,"Gore, Al",216
+DAVIESS,President,,DEM,"LaRouche Jr., Lyndon",1
+DAVIESS,President,,DEM,"Price, Pat",0
+DAVIESS,President,,DEM,"Uncommitted,",8
+DAVIESS,President,,REP,"Forbes, Steve",3
+DAVIESS,President,,REP,"Bush, George",368
+DAVIESS,President,,REP,"McCain, John",232
+DAVIESS,President,,REP,"Bauer, Gary",1
+DAVIESS,President,,REP,"Keyes, Alan",25
+DAVIESS,President,,REP,"Hornung, Lawrence",0
+DAVIESS,President,,REP,"Hatch, Orrin",1
+DAVIESS,President,,REP,"Uncommitted,",0
+DAVIESS,President,,LIB,"Browne, Harry",0
+DAVIESS,President,,LIB,"Hollist, David",0
+DAVIESS,President,,LIB,"Hines, Larry",0
+DAVIESS,President,,LIB,"Uncommitted,",0
+DAVIESS,President,,CST,"Phillips, Howard",0
+DAVIESS,President,,CST,"Uncommitted,",0
+DEKALB,President,,DEM,"Bradley, Bill",135
+DEKALB,President,,DEM,"Gore, Al",202
+DEKALB,President,,DEM,"LaRouche Jr., Lyndon",0
+DEKALB,President,,DEM,"Price, Pat",1
+DEKALB,President,,DEM,"Uncommitted,",11
+DEKALB,President,,REP,"Forbes, Steve",2
+DEKALB,President,,REP,"Bush, George",450
+DEKALB,President,,REP,"McCain, John",222
+DEKALB,President,,REP,"Bauer, Gary",3
+DEKALB,President,,REP,"Keyes, Alan",36
+DEKALB,President,,REP,"Hornung, Lawrence",0
+DEKALB,President,,REP,"Hatch, Orrin",1
+DEKALB,President,,REP,"Uncommitted,",7
+DEKALB,President,,LIB,"Browne, Harry",0
+DEKALB,President,,LIB,"Hollist, David",0
+DEKALB,President,,LIB,"Hines, Larry",1
+DEKALB,President,,LIB,"Uncommitted,",0
+DEKALB,President,,CST,"Phillips, Howard",1
+DEKALB,President,,CST,"Uncommitted,",0
+DENT,President,,DEM,"Bradley, Bill",234
+DENT,President,,DEM,"Gore, Al",318
+DENT,President,,DEM,"LaRouche Jr., Lyndon",2
+DENT,President,,DEM,"Price, Pat",1
+DENT,President,,DEM,"Uncommitted,",14
+DENT,President,,REP,"Forbes, Steve",7
+DENT,President,,REP,"Bush, George",888
+DENT,President,,REP,"McCain, John",337
+DENT,President,,REP,"Bauer, Gary",8
+DENT,President,,REP,"Keyes, Alan",65
+DENT,President,,REP,"Hornung, Lawrence",1
+DENT,President,,REP,"Hatch, Orrin",0
+DENT,President,,REP,"Uncommitted,",3
+DENT,President,,LIB,"Browne, Harry",1
+DENT,President,,LIB,"Hollist, David",0
+DENT,President,,LIB,"Hines, Larry",0
+DENT,President,,LIB,"Uncommitted,",0
+DENT,President,,CST,"Phillips, Howard",1
+DENT,President,,CST,"Uncommitted,",0
+DOUGLAS,President,,DEM,"Bradley, Bill",84
+DOUGLAS,President,,DEM,"Gore, Al",177
+DOUGLAS,President,,DEM,"LaRouche Jr., Lyndon",2
+DOUGLAS,President,,DEM,"Price, Pat",1
+DOUGLAS,President,,DEM,"Uncommitted,",3
+DOUGLAS,President,,REP,"Forbes, Steve",7
+DOUGLAS,President,,REP,"Bush, George",958
+DOUGLAS,President,,REP,"McCain, John",519
+DOUGLAS,President,,REP,"Bauer, Gary",5
+DOUGLAS,President,,REP,"Keyes, Alan",82
+DOUGLAS,President,,REP,"Hornung, Lawrence",2
+DOUGLAS,President,,REP,"Hatch, Orrin",2
+DOUGLAS,President,,REP,"Uncommitted,",2
+DOUGLAS,President,,LIB,"Browne, Harry",1
+DOUGLAS,President,,LIB,"Hollist, David",0
+DOUGLAS,President,,LIB,"Hines, Larry",0
+DOUGLAS,President,,LIB,"Uncommitted,",0
+DOUGLAS,President,,CST,"Phillips, Howard",0
+DOUGLAS,President,,CST,"Uncommitted,",0
+DUNKLIN,President,,DEM,"Bradley, Bill",203
+DUNKLIN,President,,DEM,"Gore, Al",693
+DUNKLIN,President,,DEM,"LaRouche Jr., Lyndon",9
+DUNKLIN,President,,DEM,"Price, Pat",8
+DUNKLIN,President,,DEM,"Uncommitted,",12
+DUNKLIN,President,,REP,"Forbes, Steve",24
+DUNKLIN,President,,REP,"Bush, George",999
+DUNKLIN,President,,REP,"McCain, John",315
+DUNKLIN,President,,REP,"Bauer, Gary",6
+DUNKLIN,President,,REP,"Keyes, Alan",53
+DUNKLIN,President,,REP,"Hornung, Lawrence",2
+DUNKLIN,President,,REP,"Hatch, Orrin",3
+DUNKLIN,President,,REP,"Uncommitted,",9
+DUNKLIN,President,,LIB,"Browne, Harry",24
+DUNKLIN,President,,LIB,"Hollist, David",9
+DUNKLIN,President,,LIB,"Hines, Larry",6
+DUNKLIN,President,,LIB,"Uncommitted,",6
+DUNKLIN,President,,CST,"Phillips, Howard",21
+DUNKLIN,President,,CST,"Uncommitted,",20
+FRANKLIN,President,,DEM,"Bradley, Bill",1647
+FRANKLIN,President,,DEM,"Gore, Al",2414
+FRANKLIN,President,,DEM,"LaRouche Jr., Lyndon",10
+FRANKLIN,President,,DEM,"Price, Pat",8
+FRANKLIN,President,,DEM,"Uncommitted,",55
+FRANKLIN,President,,REP,"Forbes, Steve",25
+FRANKLIN,President,,REP,"Bush, George",5014
+FRANKLIN,President,,REP,"McCain, John",3305
+FRANKLIN,President,,REP,"Bauer, Gary",20
+FRANKLIN,President,,REP,"Keyes, Alan",503
+FRANKLIN,President,,REP,"Hornung, Lawrence",1
+FRANKLIN,President,,REP,"Hatch, Orrin",4
+FRANKLIN,President,,REP,"Uncommitted,",21
+FRANKLIN,President,,LIB,"Browne, Harry",12
+FRANKLIN,President,,LIB,"Hollist, David",2
+FRANKLIN,President,,LIB,"Hines, Larry",3
+FRANKLIN,President,,LIB,"Uncommitted,",10
+FRANKLIN,President,,CST,"Phillips, Howard",13
+FRANKLIN,President,,CST,"Uncommitted,",4
+GASCONADE,President,,DEM,"Bradley, Bill",165
+GASCONADE,President,,DEM,"Gore, Al",259
+GASCONADE,President,,DEM,"LaRouche Jr., Lyndon",1
+GASCONADE,President,,DEM,"Price, Pat",0
+GASCONADE,President,,DEM,"Uncommitted,",10
+GASCONADE,President,,REP,"Forbes, Steve",9
+GASCONADE,President,,REP,"Bush, George",1033
+GASCONADE,President,,REP,"McCain, John",571
+GASCONADE,President,,REP,"Bauer, Gary",2
+GASCONADE,President,,REP,"Keyes, Alan",58
+GASCONADE,President,,REP,"Hornung, Lawrence",0
+GASCONADE,President,,REP,"Hatch, Orrin",2
+GASCONADE,President,,REP,"Uncommitted,",10
+GASCONADE,President,,LIB,"Browne, Harry",2
+GASCONADE,President,,LIB,"Hollist, David",1
+GASCONADE,President,,LIB,"Hines, Larry",0
+GASCONADE,President,,LIB,"Uncommitted,",0
+GASCONADE,President,,CST,"Phillips, Howard",0
+GASCONADE,President,,CST,"Uncommitted,",0
+GENTRY,President,,DEM,"Bradley, Bill",127
+GENTRY,President,,DEM,"Gore, Al",178
+GENTRY,President,,DEM,"LaRouche Jr., Lyndon",1
+GENTRY,President,,DEM,"Price, Pat",0
+GENTRY,President,,DEM,"Uncommitted,",3
+GENTRY,President,,REP,"Forbes, Steve",3
+GENTRY,President,,REP,"Bush, George",347
+GENTRY,President,,REP,"McCain, John",180
+GENTRY,President,,REP,"Bauer, Gary",17
+GENTRY,President,,REP,"Keyes, Alan",11
+GENTRY,President,,REP,"Hornung, Lawrence",0
+GENTRY,President,,REP,"Hatch, Orrin",0
+GENTRY,President,,REP,"Uncommitted,",4
+GENTRY,President,,LIB,"Browne, Harry",0
+GENTRY,President,,LIB,"Hollist, David",0
+GENTRY,President,,LIB,"Hines, Larry",0
+GENTRY,President,,LIB,"Uncommitted,",0
+GENTRY,President,,CST,"Phillips, Howard",0
+GENTRY,President,,CST,"Uncommitted,",0
+GREENE,President,,DEM,"Bradley, Bill",1892
+GREENE,President,,DEM,"Gore, Al",6287
+GREENE,President,,DEM,"LaRouche Jr., Lyndon",26
+GREENE,President,,DEM,"Price, Pat",14
+GREENE,President,,DEM,"Uncommitted,",118
+GREENE,President,,REP,"Forbes, Steve",65
+GREENE,President,,REP,"Bush, George",17617
+GREENE,President,,REP,"McCain, John",9486
+GREENE,President,,REP,"Bauer, Gary",35
+GREENE,President,,REP,"Keyes, Alan",2641
+GREENE,President,,REP,"Hornung, Lawrence",12
+GREENE,President,,REP,"Hatch, Orrin",8
+GREENE,President,,REP,"Uncommitted,",75
+GREENE,President,,LIB,"Browne, Harry",37
+GREENE,President,,LIB,"Hollist, David",7
+GREENE,President,,LIB,"Hines, Larry",7
+GREENE,President,,LIB,"Uncommitted,",12
+GREENE,President,,CST,"Phillips, Howard",15
+GREENE,President,,CST,"Uncommitted,",3
+GRUNDY,President,,DEM,"Bradley, Bill",90
+GRUNDY,President,,DEM,"Gore, Al",226
+GRUNDY,President,,DEM,"LaRouche Jr., Lyndon",0
+GRUNDY,President,,DEM,"Price, Pat",0
+GRUNDY,President,,DEM,"Uncommitted,",6
+GRUNDY,President,,REP,"Forbes, Steve",3
+GRUNDY,President,,REP,"Bush, George",514
+GRUNDY,President,,REP,"McCain, John",324
+GRUNDY,President,,REP,"Bauer, Gary",1
+GRUNDY,President,,REP,"Keyes, Alan",58
+GRUNDY,President,,REP,"Hornung, Lawrence",0
+GRUNDY,President,,REP,"Hatch, Orrin",2
+GRUNDY,President,,REP,"Uncommitted,",6
+GRUNDY,President,,LIB,"Browne, Harry",0
+GRUNDY,President,,LIB,"Hollist, David",0
+GRUNDY,President,,LIB,"Hines, Larry",1
+GRUNDY,President,,LIB,"Uncommitted,",0
+GRUNDY,President,,CST,"Phillips, Howard",3
+GRUNDY,President,,CST,"Uncommitted,",0
+HARRISON,President,,DEM,"Bradley, Bill",80
+HARRISON,President,,DEM,"Gore, Al",167
+HARRISON,President,,DEM,"LaRouche Jr., Lyndon",0
+HARRISON,President,,DEM,"Price, Pat",1
+HARRISON,President,,DEM,"Uncommitted,",5
+HARRISON,President,,REP,"Forbes, Steve",6
+HARRISON,President,,REP,"Bush, George",547
+HARRISON,President,,REP,"McCain, John",292
+HARRISON,President,,REP,"Bauer, Gary",0
+HARRISON,President,,REP,"Keyes, Alan",38
+HARRISON,President,,REP,"Hornung, Lawrence",0
+HARRISON,President,,REP,"Hatch, Orrin",1
+HARRISON,President,,REP,"Uncommitted,",4
+HARRISON,President,,LIB,"Browne, Harry",2
+HARRISON,President,,LIB,"Hollist, David",0
+HARRISON,President,,LIB,"Hines, Larry",0
+HARRISON,President,,LIB,"Uncommitted,",1
+HARRISON,President,,CST,"Phillips, Howard",0
+HARRISON,President,,CST,"Uncommitted,",0
+HENRY,President,,DEM,"Bradley, Bill",349
+HENRY,President,,DEM,"Gore, Al",737
+HENRY,President,,DEM,"LaRouche Jr., Lyndon",8
+HENRY,President,,DEM,"Price, Pat",2
+HENRY,President,,DEM,"Uncommitted,",21
+HENRY,President,,REP,"Forbes, Steve",7
+HENRY,President,,REP,"Bush, George",886
+HENRY,President,,REP,"McCain, John",598
+HENRY,President,,REP,"Bauer, Gary",12
+HENRY,President,,REP,"Keyes, Alan",61
+HENRY,President,,REP,"Hornung, Lawrence",1
+HENRY,President,,REP,"Hatch, Orrin",0
+HENRY,President,,REP,"Uncommitted,",5
+HENRY,President,,LIB,"Browne, Harry",3
+HENRY,President,,LIB,"Hollist, David",2
+HENRY,President,,LIB,"Hines, Larry",0
+HENRY,President,,LIB,"Uncommitted,",2
+HENRY,President,,CST,"Phillips, Howard",1
+HENRY,President,,CST,"Uncommitted,",0
+HICKORY,President,,DEM,"Bradley, Bill",80
+HICKORY,President,,DEM,"Gore, Al",410
+HICKORY,President,,DEM,"LaRouche Jr., Lyndon",2
+HICKORY,President,,DEM,"Price, Pat",0
+HICKORY,President,,DEM,"Uncommitted,",8
+HICKORY,President,,REP,"Forbes, Steve",6
+HICKORY,President,,REP,"Bush, George",602
+HICKORY,President,,REP,"McCain, John",606
+HICKORY,President,,REP,"Bauer, Gary",1
+HICKORY,President,,REP,"Keyes, Alan",65
+HICKORY,President,,REP,"Hornung, Lawrence",0
+HICKORY,President,,REP,"Hatch, Orrin",0
+HICKORY,President,,REP,"Uncommitted,",3
+HICKORY,President,,LIB,"Browne, Harry",2
+HICKORY,President,,LIB,"Hollist, David",0
+HICKORY,President,,LIB,"Hines, Larry",0
+HICKORY,President,,LIB,"Uncommitted,",0
+HICKORY,President,,CST,"Phillips, Howard",0
+HICKORY,President,,CST,"Uncommitted,",0
+HOLT,President,,DEM,"Bradley, Bill",45
+HOLT,President,,DEM,"Gore, Al",116
+HOLT,President,,DEM,"LaRouche Jr., Lyndon",0
+HOLT,President,,DEM,"Price, Pat",1
+HOLT,President,,DEM,"Uncommitted,",1
+HOLT,President,,REP,"Forbes, Steve",3
+HOLT,President,,REP,"Bush, George",403
+HOLT,President,,REP,"McCain, John",156
+HOLT,President,,REP,"Bauer, Gary",0
+HOLT,President,,REP,"Keyes, Alan",18
+HOLT,President,,REP,"Hornung, Lawrence",0
+HOLT,President,,REP,"Hatch, Orrin",0
+HOLT,President,,REP,"Uncommitted,",6
+HOLT,President,,LIB,"Browne, Harry",0
+HOLT,President,,LIB,"Hollist, David",0
+HOLT,President,,LIB,"Hines, Larry",0
+HOLT,President,,LIB,"Uncommitted,",0
+HOLT,President,,CST,"Phillips, Howard",0
+HOLT,President,,CST,"Uncommitted,",0
+HOWARD,President,,DEM,"Bradley, Bill",197
+HOWARD,President,,DEM,"Gore, Al",295
+HOWARD,President,,DEM,"LaRouche Jr., Lyndon",0
+HOWARD,President,,DEM,"Price, Pat",1
+HOWARD,President,,DEM,"Uncommitted,",9
+HOWARD,President,,REP,"Forbes, Steve",2
+HOWARD,President,,REP,"Bush, George",488
+HOWARD,President,,REP,"McCain, John",336
+HOWARD,President,,REP,"Bauer, Gary",0
+HOWARD,President,,REP,"Keyes, Alan",46
+HOWARD,President,,REP,"Hornung, Lawrence",0
+HOWARD,President,,REP,"Hatch, Orrin",0
+HOWARD,President,,REP,"Uncommitted,",3
+HOWARD,President,,LIB,"Browne, Harry",1
+HOWARD,President,,LIB,"Hollist, David",0
+HOWARD,President,,LIB,"Hines, Larry",0
+HOWARD,President,,LIB,"Uncommitted,",1
+HOWARD,President,,CST,"Phillips, Howard",1
+HOWARD,President,,CST,"Uncommitted,",0
+HOWELL,President,,DEM,"Bradley, Bill",188
+HOWELL,President,,DEM,"Gore, Al",625
+HOWELL,President,,DEM,"LaRouche Jr., Lyndon",3
+HOWELL,President,,DEM,"Price, Pat",1
+HOWELL,President,,DEM,"Uncommitted,",9
+HOWELL,President,,REP,"Forbes, Steve",11
+HOWELL,President,,REP,"Bush, George",2178
+HOWELL,President,,REP,"McCain, John",1192
+HOWELL,President,,REP,"Bauer, Gary",5
+HOWELL,President,,REP,"Keyes, Alan",237
+HOWELL,President,,REP,"Hornung, Lawrence",0
+HOWELL,President,,REP,"Hatch, Orrin",2
+HOWELL,President,,REP,"Uncommitted,",9
+HOWELL,President,,LIB,"Browne, Harry",7
+HOWELL,President,,LIB,"Hollist, David",3
+HOWELL,President,,LIB,"Hines, Larry",1
+HOWELL,President,,LIB,"Uncommitted,",1
+HOWELL,President,,CST,"Phillips, Howard",3
+HOWELL,President,,CST,"Uncommitted,",0
+IRON,President,,DEM,"Bradley, Bill",237
+IRON,President,,DEM,"Gore, Al",336
+IRON,President,,DEM,"LaRouche Jr., Lyndon",0
+IRON,President,,DEM,"Price, Pat",3
+IRON,President,,DEM,"Uncommitted,",6
+IRON,President,,REP,"Forbes, Steve",4
+IRON,President,,REP,"Bush, George",405
+IRON,President,,REP,"McCain, John",232
+IRON,President,,REP,"Bauer, Gary",1
+IRON,President,,REP,"Keyes, Alan",43
+IRON,President,,REP,"Hornung, Lawrence",0
+IRON,President,,REP,"Hatch, Orrin",0
+IRON,President,,REP,"Uncommitted,",1
+IRON,President,,LIB,"Browne, Harry",2
+IRON,President,,LIB,"Hollist, David",0
+IRON,President,,LIB,"Hines, Larry",0
+IRON,President,,LIB,"Uncommitted,",0
+IRON,President,,CST,"Phillips, Howard",0
+IRON,President,,CST,"Uncommitted,",0
+JACKSON,President,,DEM,"Bradley, Bill",4039
+JACKSON,President,,DEM,"Gore, Al",11177
+JACKSON,President,,DEM,"LaRouche Jr., Lyndon",43
+JACKSON,President,,DEM,"Price, Pat",37
+JACKSON,President,,DEM,"Uncommitted,",311
+JACKSON,President,,REP,"Forbes, Steve",191
+JACKSON,President,,REP,"Bush, George",16961
+JACKSON,President,,REP,"McCain, John",10471
+JACKSON,President,,REP,"Bauer, Gary",99
+JACKSON,President,,REP,"Keyes, Alan",1746
+JACKSON,President,,REP,"Hornung, Lawrence",2
+JACKSON,President,,REP,"Hatch, Orrin",38
+JACKSON,President,,REP,"Uncommitted,",106
+JACKSON,President,,LIB,"Browne, Harry",87
+JACKSON,President,,LIB,"Hollist, David",15
+JACKSON,President,,LIB,"Hines, Larry",17
+JACKSON,President,,LIB,"Uncommitted,",54
+JACKSON,President,,CST,"Phillips, Howard",23
+JACKSON,President,,CST,"Uncommitted,",16
+JASPER,President,,DEM,"Bradley, Bill",476
+JASPER,President,,DEM,"Gore, Al",1342
+JASPER,President,,DEM,"LaRouche Jr., Lyndon",8
+JASPER,President,,DEM,"Price, Pat",3
+JASPER,President,,DEM,"Uncommitted,",37
+JASPER,President,,REP,"Forbes, Steve",35
+JASPER,President,,REP,"Bush, George",6143
+JASPER,President,,REP,"McCain, John",2830
+JASPER,President,,REP,"Bauer, Gary",13
+JASPER,President,,REP,"Keyes, Alan",512
+JASPER,President,,REP,"Hornung, Lawrence",2
+JASPER,President,,REP,"Hatch, Orrin",11
+JASPER,President,,REP,"Uncommitted,",31
+JASPER,President,,LIB,"Browne, Harry",8
+JASPER,President,,LIB,"Hollist, David",1
+JASPER,President,,LIB,"Hines, Larry",1
+JASPER,President,,LIB,"Uncommitted,",4
+JASPER,President,,CST,"Phillips, Howard",3
+JASPER,President,,CST,"Uncommitted,",0
+JEFFERSON,President,,DEM,"Bradley, Bill",7361
+JEFFERSON,President,,DEM,"Gore, Al",4969
+JEFFERSON,President,,DEM,"LaRouche Jr., Lyndon",20
+JEFFERSON,President,,DEM,"Price, Pat",16
+JEFFERSON,President,,DEM,"Uncommitted,",92
+JEFFERSON,President,,REP,"Forbes, Steve",43
+JEFFERSON,President,,REP,"Bush, George",7466
+JEFFERSON,President,,REP,"McCain, John",4443
+JEFFERSON,President,,REP,"Bauer, Gary",52
+JEFFERSON,President,,REP,"Keyes, Alan",870
+JEFFERSON,President,,REP,"Hornung, Lawrence",5
+JEFFERSON,President,,REP,"Hatch, Orrin",14
+JEFFERSON,President,,REP,"Uncommitted,",31
+JEFFERSON,President,,LIB,"Browne, Harry",25
+JEFFERSON,President,,LIB,"Hollist, David",4
+JEFFERSON,President,,LIB,"Hines, Larry",4
+JEFFERSON,President,,LIB,"Uncommitted,",9
+JEFFERSON,President,,CST,"Phillips, Howard",29
+JEFFERSON,President,,CST,"Uncommitted,",2
+JOHNSON,President,,DEM,"Bradley, Bill",403
+JOHNSON,President,,DEM,"Gore, Al",853
+JOHNSON,President,,DEM,"LaRouche Jr., Lyndon",5
+JOHNSON,President,,DEM,"Price, Pat",3
+JOHNSON,President,,DEM,"Uncommitted,",23
+JOHNSON,President,,REP,"Forbes, Steve",11
+JOHNSON,President,,REP,"Bush, George",1519
+JOHNSON,President,,REP,"McCain, John",1113
+JOHNSON,President,,REP,"Bauer, Gary",7
+JOHNSON,President,,REP,"Keyes, Alan",128
+JOHNSON,President,,REP,"Hornung, Lawrence",0
+JOHNSON,President,,REP,"Hatch, Orrin",6
+JOHNSON,President,,REP,"Uncommitted,",13
+JOHNSON,President,,LIB,"Browne, Harry",14
+JOHNSON,President,,LIB,"Hollist, David",3
+JOHNSON,President,,LIB,"Hines, Larry",1
+JOHNSON,President,,LIB,"Uncommitted,",1
+JOHNSON,President,,CST,"Phillips, Howard",5
+JOHNSON,President,,CST,"Uncommitted,",5
+JOHNSON,President,,DEM,"Bradley, Bill",4397
+JOHNSON,President,,DEM,"Gore, Al",14055
+JOHNSON,President,,DEM,"LaRouche Jr., Lyndon",42
+JOHNSON,President,,DEM,"Price, Pat",31
+JOHNSON,President,,DEM,"Uncommitted,",219
+JOHNSON,President,,REP,"Forbes, Steve",62
+JOHNSON,President,,REP,"Bush, George",6949
+JOHNSON,President,,REP,"McCain, John",7085
+JOHNSON,President,,REP,"Bauer, Gary",26
+JOHNSON,President,,REP,"Keyes, Alan",914
+JOHNSON,President,,REP,"Hornung, Lawrence",1
+JOHNSON,President,,REP,"Hatch, Orrin",11
+JOHNSON,President,,REP,"Uncommitted,",44
+JOHNSON,President,,LIB,"Browne, Harry",54
+JOHNSON,President,,LIB,"Hollist, David",8
+JOHNSON,President,,LIB,"Hines, Larry",7
+JOHNSON,President,,LIB,"Uncommitted,",33
+JOHNSON,President,,CST,"Phillips, Howard",12
+JOHNSON,President,,CST,"Uncommitted,",7
+KNOX,President,,DEM,"Bradley, Bill",69
+KNOX,President,,DEM,"Gore, Al",154
+KNOX,President,,DEM,"LaRouche Jr., Lyndon",0
+KNOX,President,,DEM,"Price, Pat",1
+KNOX,President,,DEM,"Uncommitted,",5
+KNOX,President,,REP,"Forbes, Steve",7
+KNOX,President,,REP,"Bush, George",286
+KNOX,President,,REP,"McCain, John",96
+KNOX,President,,REP,"Bauer, Gary",1
+KNOX,President,,REP,"Keyes, Alan",18
+KNOX,President,,REP,"Hornung, Lawrence",0
+KNOX,President,,REP,"Hatch, Orrin",0
+KNOX,President,,REP,"Uncommitted,",1
+KNOX,President,,LIB,"Browne, Harry",0
+KNOX,President,,LIB,"Hollist, David",0
+KNOX,President,,LIB,"Hines, Larry",0
+KNOX,President,,LIB,"Uncommitted,",0
+KNOX,President,,CST,"Phillips, Howard",0
+KNOX,President,,CST,"Uncommitted,",0
+LACLEDE,President,,DEM,"Bradley, Bill",198
+LACLEDE,President,,DEM,"Gore, Al",602
+LACLEDE,President,,DEM,"LaRouche Jr., Lyndon",6
+LACLEDE,President,,DEM,"Price, Pat",2
+LACLEDE,President,,DEM,"Uncommitted,",20
+LACLEDE,President,,REP,"Forbes, Steve",8
+LACLEDE,President,,REP,"Bush, George",2213
+LACLEDE,President,,REP,"McCain, John",1103
+LACLEDE,President,,REP,"Bauer, Gary",5
+LACLEDE,President,,REP,"Keyes, Alan",207
+LACLEDE,President,,REP,"Hornung, Lawrence",0
+LACLEDE,President,,REP,"Hatch, Orrin",2
+LACLEDE,President,,REP,"Uncommitted,",19
+LACLEDE,President,,LIB,"Browne, Harry",4
+LACLEDE,President,,LIB,"Hollist, David",2
+LACLEDE,President,,LIB,"Hines, Larry",2
+LACLEDE,President,,LIB,"Uncommitted,",2
+LACLEDE,President,,CST,"Phillips, Howard",4
+LACLEDE,President,,CST,"Uncommitted,",1
+LAFAYETTE,President,,DEM,"Bradley, Bill",275
+LAFAYETTE,President,,DEM,"Gore, Al",825
+LAFAYETTE,President,,DEM,"LaRouche Jr., Lyndon",2
+LAFAYETTE,President,,DEM,"Price, Pat",4
+LAFAYETTE,President,,DEM,"Uncommitted,",23
+LAFAYETTE,President,,REP,"Forbes, Steve",16
+LAFAYETTE,President,,REP,"Bush, George",1546
+LAFAYETTE,President,,REP,"McCain, John",851
+LAFAYETTE,President,,REP,"Bauer, Gary",10
+LAFAYETTE,President,,REP,"Keyes, Alan",137
+LAFAYETTE,President,,REP,"Hornung, Lawrence",0
+LAFAYETTE,President,,REP,"Hatch, Orrin",2
+LAFAYETTE,President,,REP,"Uncommitted,",11
+LAFAYETTE,President,,LIB,"Browne, Harry",1
+LAFAYETTE,President,,LIB,"Hollist, David",0
+LAFAYETTE,President,,LIB,"Hines, Larry",0
+LAFAYETTE,President,,LIB,"Uncommitted,",1
+LAFAYETTE,President,,CST,"Phillips, Howard",0
+LAFAYETTE,President,,CST,"Uncommitted,",0
+LAWRENCE,President,,DEM,"Bradley, Bill",217
+LAWRENCE,President,,DEM,"Gore, Al",568
+LAWRENCE,President,,DEM,"LaRouche Jr., Lyndon",4
+LAWRENCE,President,,DEM,"Price, Pat",7
+LAWRENCE,President,,DEM,"Uncommitted,",8
+LAWRENCE,President,,REP,"Forbes, Steve",11
+LAWRENCE,President,,REP,"Bush, George",2121
+LAWRENCE,President,,REP,"McCain, John",1280
+LAWRENCE,President,,REP,"Bauer, Gary",9
+LAWRENCE,President,,REP,"Keyes, Alan",324
+LAWRENCE,President,,REP,"Hornung, Lawrence",1
+LAWRENCE,President,,REP,"Hatch, Orrin",8
+LAWRENCE,President,,REP,"Uncommitted,",7
+LAWRENCE,President,,LIB,"Browne, Harry",6
+LAWRENCE,President,,LIB,"Hollist, David",0
+LAWRENCE,President,,LIB,"Hines, Larry",1
+LAWRENCE,President,,LIB,"Uncommitted,",3
+LAWRENCE,President,,CST,"Phillips, Howard",3
+LAWRENCE,President,,CST,"Uncommitted,",0
+LEWIS,President,,DEM,"Bradley, Bill",195
+LEWIS,President,,DEM,"Gore, Al",395
+LEWIS,President,,DEM,"LaRouche Jr., Lyndon",1
+LEWIS,President,,DEM,"Price, Pat",0
+LEWIS,President,,DEM,"Uncommitted,",10
+LEWIS,President,,REP,"Forbes, Steve",7
+LEWIS,President,,REP,"Bush, George",439
+LEWIS,President,,REP,"McCain, John",194
+LEWIS,President,,REP,"Bauer, Gary",0
+LEWIS,President,,REP,"Keyes, Alan",23
+LEWIS,President,,REP,"Hornung, Lawrence",0
+LEWIS,President,,REP,"Hatch, Orrin",1
+LEWIS,President,,REP,"Uncommitted,",3
+LEWIS,President,,LIB,"Browne, Harry",1
+LEWIS,President,,LIB,"Hollist, David",0
+LEWIS,President,,LIB,"Hines, Larry",0
+LEWIS,President,,LIB,"Uncommitted,",0
+LEWIS,President,,CST,"Phillips, Howard",0
+LEWIS,President,,CST,"Uncommitted,",0
+LINCOLN,President,,DEM,"Bradley, Bill",579
+LINCOLN,President,,DEM,"Gore, Al",1015
+LINCOLN,President,,DEM,"LaRouche Jr., Lyndon",6
+LINCOLN,President,,DEM,"Price, Pat",7
+LINCOLN,President,,DEM,"Uncommitted,",29
+LINCOLN,President,,REP,"Forbes, Steve",7
+LINCOLN,President,,REP,"Bush, George",1579
+LINCOLN,President,,REP,"McCain, John",853
+LINCOLN,President,,REP,"Bauer, Gary",2
+LINCOLN,President,,REP,"Keyes, Alan",188
+LINCOLN,President,,REP,"Hornung, Lawrence",0
+LINCOLN,President,,REP,"Hatch, Orrin",1
+LINCOLN,President,,REP,"Uncommitted,",12
+LINCOLN,President,,LIB,"Browne, Harry",2
+LINCOLN,President,,LIB,"Hollist, David",3
+LINCOLN,President,,LIB,"Hines, Larry",4
+LINCOLN,President,,LIB,"Uncommitted,",0
+LINCOLN,President,,CST,"Phillips, Howard",4
+LINCOLN,President,,CST,"Uncommitted,",0
+LINN,President,,DEM,"Bradley, Bill",219
+LINN,President,,DEM,"Gore, Al",470
+LINN,President,,DEM,"LaRouche Jr., Lyndon",4
+LINN,President,,DEM,"Price, Pat",2
+LINN,President,,DEM,"Uncommitted,",13
+LINN,President,,REP,"Forbes, Steve",10
+LINN,President,,REP,"Bush, George",631
+LINN,President,,REP,"McCain, John",285
+LINN,President,,REP,"Bauer, Gary",3
+LINN,President,,REP,"Keyes, Alan",44
+LINN,President,,REP,"Hornung, Lawrence",1
+LINN,President,,REP,"Hatch, Orrin",1
+LINN,President,,REP,"Uncommitted,",3
+LINN,President,,LIB,"Browne, Harry",0
+LINN,President,,LIB,"Hollist, David",0
+LINN,President,,LIB,"Hines, Larry",1
+LINN,President,,LIB,"Uncommitted,",0
+LINN,President,,CST,"Phillips, Howard",1
+LINN,President,,CST,"Uncommitted,",1
+LIVINGSTON,President,,DEM,"Bradley, Bill",132
+LIVINGSTON,President,,DEM,"Gore, Al",279
+LIVINGSTON,President,,DEM,"LaRouche Jr., Lyndon",4
+LIVINGSTON,President,,DEM,"Price, Pat",1
+LIVINGSTON,President,,DEM,"Uncommitted,",12
+LIVINGSTON,President,,REP,"Forbes, Steve",3
+LIVINGSTON,President,,REP,"Bush, George",571
+LIVINGSTON,President,,REP,"McCain, John",319
+LIVINGSTON,President,,REP,"Bauer, Gary",5
+LIVINGSTON,President,,REP,"Keyes, Alan",43
+LIVINGSTON,President,,REP,"Hornung, Lawrence",0
+LIVINGSTON,President,,REP,"Hatch, Orrin",2
+LIVINGSTON,President,,REP,"Uncommitted,",1
+LIVINGSTON,President,,LIB,"Browne, Harry",0
+LIVINGSTON,President,,LIB,"Hollist, David",0
+LIVINGSTON,President,,LIB,"Hines, Larry",0
+LIVINGSTON,President,,LIB,"Uncommitted,",0
+LIVINGSTON,President,,CST,"Phillips, Howard",0
+LIVINGSTON,President,,CST,"Uncommitted,",0
+MACON,President,,DEM,"Bradley, Bill",189
+MACON,President,,DEM,"Gore, Al",420
+MACON,President,,DEM,"LaRouche Jr., Lyndon",1
+MACON,President,,DEM,"Price, Pat",1
+MACON,President,,DEM,"Uncommitted,",9
+MACON,President,,REP,"Forbes, Steve",9
+MACON,President,,REP,"Bush, George",741
+MACON,President,,REP,"McCain, John",344
+MACON,President,,REP,"Bauer, Gary",4
+MACON,President,,REP,"Keyes, Alan",57
+MACON,President,,REP,"Hornung, Lawrence",0
+MACON,President,,REP,"Hatch, Orrin",3
+MACON,President,,REP,"Uncommitted,",3
+MACON,President,,LIB,"Browne, Harry",2
+MACON,President,,LIB,"Hollist, David",0
+MACON,President,,LIB,"Hines, Larry",0
+MACON,President,,LIB,"Uncommitted,",1
+MACON,President,,CST,"Phillips, Howard",0
+MACON,President,,CST,"Uncommitted,",0
+MADISON,President,,DEM,"Bradley, Bill",211
+MADISON,President,,DEM,"Gore, Al",313
+MADISON,President,,DEM,"LaRouche Jr., Lyndon",2
+MADISON,President,,DEM,"Price, Pat",2
+MADISON,President,,DEM,"Uncommitted,",11
+MADISON,President,,REP,"Forbes, Steve",5
+MADISON,President,,REP,"Bush, George",488
+MADISON,President,,REP,"McCain, John",262
+MADISON,President,,REP,"Bauer, Gary",0
+MADISON,President,,REP,"Keyes, Alan",20
+MADISON,President,,REP,"Hornung, Lawrence",0
+MADISON,President,,REP,"Hatch, Orrin",0
+MADISON,President,,REP,"Uncommitted,",2
+MADISON,President,,LIB,"Browne, Harry",1
+MADISON,President,,LIB,"Hollist, David",0
+MADISON,President,,LIB,"Hines, Larry",1
+MADISON,President,,LIB,"Uncommitted,",0
+MADISON,President,,CST,"Phillips, Howard",0
+MADISON,President,,CST,"Uncommitted,",0
+MARIES,President,,DEM,"Bradley, Bill",124
+MARIES,President,,DEM,"Gore, Al",270
+MARIES,President,,DEM,"LaRouche Jr., Lyndon",2
+MARIES,President,,DEM,"Price, Pat",4
+MARIES,President,,DEM,"Uncommitted,",10
+MARIES,President,,REP,"Forbes, Steve",1
+MARIES,President,,REP,"Bush, George",519
+MARIES,President,,REP,"McCain, John",298
+MARIES,President,,REP,"Bauer, Gary",0
+MARIES,President,,REP,"Keyes, Alan",39
+MARIES,President,,REP,"Hornung, Lawrence",0
+MARIES,President,,REP,"Hatch, Orrin",1
+MARIES,President,,REP,"Uncommitted,",2
+MARIES,President,,LIB,"Browne, Harry",2
+MARIES,President,,LIB,"Hollist, David",0
+MARIES,President,,LIB,"Hines, Larry",0
+MARIES,President,,LIB,"Uncommitted,",0
+MARIES,President,,CST,"Phillips, Howard",2
+MARIES,President,,CST,"Uncommitted,",0
+MARION,President,,DEM,"Bradley, Bill",631
+MARION,President,,DEM,"Gore, Al",938
+MARION,President,,DEM,"LaRouche Jr., Lyndon",10
+MARION,President,,DEM,"Price, Pat",7
+MARION,President,,DEM,"Uncommitted,",21
+MARION,President,,REP,"Forbes, Steve",8
+MARION,President,,REP,"Bush, George",1603
+MARION,President,,REP,"McCain, John",481
+MARION,President,,REP,"Bauer, Gary",2
+MARION,President,,REP,"Keyes, Alan",127
+MARION,President,,REP,"Hornung, Lawrence",1
+MARION,President,,REP,"Hatch, Orrin",3
+MARION,President,,REP,"Uncommitted,",1
+MARION,President,,LIB,"Browne, Harry",3
+MARION,President,,LIB,"Hollist, David",0
+MARION,President,,LIB,"Hines, Larry",1
+MARION,President,,LIB,"Uncommitted,",1
+MARION,President,,CST,"Phillips, Howard",0
+MARION,President,,CST,"Uncommitted,",1
+MCDONALD,President,,DEM,"Bradley, Bill",109
+MCDONALD,President,,DEM,"Gore, Al",300
+MCDONALD,President,,DEM,"LaRouche Jr., Lyndon",7
+MCDONALD,President,,DEM,"Price, Pat",0
+MCDONALD,President,,DEM,"Uncommitted,",10
+MCDONALD,President,,REP,"Forbes, Steve",10
+MCDONALD,President,,REP,"Bush, George",1012
+MCDONALD,President,,REP,"McCain, John",457
+MCDONALD,President,,REP,"Bauer, Gary",11
+MCDONALD,President,,REP,"Keyes, Alan",63
+MCDONALD,President,,REP,"Hornung, Lawrence",1
+MCDONALD,President,,REP,"Hatch, Orrin",0
+MCDONALD,President,,REP,"Uncommitted,",2
+MCDONALD,President,,LIB,"Browne, Harry",1
+MCDONALD,President,,LIB,"Hollist, David",0
+MCDONALD,President,,LIB,"Hines, Larry",1
+MCDONALD,President,,LIB,"Uncommitted,",1
+MCDONALD,President,,CST,"Phillips, Howard",0
+MCDONALD,President,,CST,"Uncommitted,",0
+MERCER,President,,DEM,"Bradley, Bill",28
+MERCER,President,,DEM,"Gore, Al",59
+MERCER,President,,DEM,"LaRouche Jr., Lyndon",0
+MERCER,President,,DEM,"Price, Pat",0
+MERCER,President,,DEM,"Uncommitted,",3
+MERCER,President,,REP,"Forbes, Steve",10
+MERCER,President,,REP,"Bush, George",240
+MERCER,President,,REP,"McCain, John",128
+MERCER,President,,REP,"Bauer, Gary",2
+MERCER,President,,REP,"Keyes, Alan",14
+MERCER,President,,REP,"Hornung, Lawrence",0
+MERCER,President,,REP,"Hatch, Orrin",0
+MERCER,President,,REP,"Uncommitted,",1
+MERCER,President,,LIB,"Browne, Harry",1
+MERCER,President,,LIB,"Hollist, David",0
+MERCER,President,,LIB,"Hines, Larry",0
+MERCER,President,,LIB,"Uncommitted,",0
+MERCER,President,,CST,"Phillips, Howard",0
+MERCER,President,,CST,"Uncommitted,",0
+MILLER,President,,DEM,"Bradley, Bill",163
+MILLER,President,,DEM,"Gore, Al",358
+MILLER,President,,DEM,"LaRouche Jr., Lyndon",1
+MILLER,President,,DEM,"Price, Pat",1
+MILLER,President,,DEM,"Uncommitted,",7
+MILLER,President,,REP,"Forbes, Steve",13
+MILLER,President,,REP,"Bush, George",1564
+MILLER,President,,REP,"McCain, John",790
+MILLER,President,,REP,"Bauer, Gary",2
+MILLER,President,,REP,"Keyes, Alan",67
+MILLER,President,,REP,"Hornung, Lawrence",0
+MILLER,President,,REP,"Hatch, Orrin",0
+MILLER,President,,REP,"Uncommitted,",5
+MILLER,President,,LIB,"Browne, Harry",4
+MILLER,President,,LIB,"Hollist, David",1
+MILLER,President,,LIB,"Hines, Larry",0
+MILLER,President,,LIB,"Uncommitted,",1
+MILLER,President,,CST,"Phillips, Howard",1
+MILLER,President,,CST,"Uncommitted,",0
+MISSISSIPPI,President,,DEM,"Bradley, Bill",121
+MISSISSIPPI,President,,DEM,"Gore, Al",432
+MISSISSIPPI,President,,DEM,"LaRouche Jr., Lyndon",3
+MISSISSIPPI,President,,DEM,"Price, Pat",3
+MISSISSIPPI,President,,DEM,"Uncommitted,",13
+MISSISSIPPI,President,,REP,"Forbes, Steve",1
+MISSISSIPPI,President,,REP,"Bush, George",542
+MISSISSIPPI,President,,REP,"McCain, John",203
+MISSISSIPPI,President,,REP,"Bauer, Gary",0
+MISSISSIPPI,President,,REP,"Keyes, Alan",22
+MISSISSIPPI,President,,REP,"Hornung, Lawrence",0
+MISSISSIPPI,President,,REP,"Hatch, Orrin",1
+MISSISSIPPI,President,,REP,"Uncommitted,",3
+MISSISSIPPI,President,,LIB,"Browne, Harry",0
+MISSISSIPPI,President,,LIB,"Hollist, David",0
+MISSISSIPPI,President,,LIB,"Hines, Larry",0
+MISSISSIPPI,President,,LIB,"Uncommitted,",1
+MISSISSIPPI,President,,CST,"Phillips, Howard",0
+MISSISSIPPI,President,,CST,"Uncommitted,",0
+MONITEAU,President,,DEM,"Bradley, Bill",130
+MONITEAU,President,,DEM,"Gore, Al",298
+MONITEAU,President,,DEM,"LaRouche Jr., Lyndon",1
+MONITEAU,President,,DEM,"Price, Pat",1
+MONITEAU,President,,DEM,"Uncommitted,",5
+MONITEAU,President,,REP,"Forbes, Steve",8
+MONITEAU,President,,REP,"Bush, George",989
+MONITEAU,President,,REP,"McCain, John",481
+MONITEAU,President,,REP,"Bauer, Gary",1
+MONITEAU,President,,REP,"Keyes, Alan",33
+MONITEAU,President,,REP,"Hornung, Lawrence",1
+MONITEAU,President,,REP,"Hatch, Orrin",0
+MONITEAU,President,,REP,"Uncommitted,",7
+MONITEAU,President,,LIB,"Browne, Harry",2
+MONITEAU,President,,LIB,"Hollist, David",0
+MONITEAU,President,,LIB,"Hines, Larry",0
+MONITEAU,President,,LIB,"Uncommitted,",1
+MONITEAU,President,,CST,"Phillips, Howard",2
+MONITEAU,President,,CST,"Uncommitted,",0
+MONROE,President,,DEM,"Bradley, Bill",185
+MONROE,President,,DEM,"Gore, Al",342
+MONROE,President,,DEM,"LaRouche Jr., Lyndon",3
+MONROE,President,,DEM,"Price, Pat",1
+MONROE,President,,DEM,"Uncommitted,",10
+MONROE,President,,REP,"Forbes, Steve",2
+MONROE,President,,REP,"Bush, George",360
+MONROE,President,,REP,"McCain, John",211
+MONROE,President,,REP,"Bauer, Gary",3
+MONROE,President,,REP,"Keyes, Alan",22
+MONROE,President,,REP,"Hornung, Lawrence",0
+MONROE,President,,REP,"Hatch, Orrin",0
+MONROE,President,,REP,"Uncommitted,",0
+MONROE,President,,LIB,"Browne, Harry",1
+MONROE,President,,LIB,"Hollist, David",0
+MONROE,President,,LIB,"Hines, Larry",0
+MONROE,President,,LIB,"Uncommitted,",0
+MONROE,President,,CST,"Phillips, Howard",0
+MONROE,President,,CST,"Uncommitted,",0
+MONTGOMERY,President,,DEM,"Bradley, Bill",140
+MONTGOMERY,President,,DEM,"Gore, Al",275
+MONTGOMERY,President,,DEM,"LaRouche Jr., Lyndon",2
+MONTGOMERY,President,,DEM,"Price, Pat",3
+MONTGOMERY,President,,DEM,"Uncommitted,",5
+MONTGOMERY,President,,REP,"Forbes, Steve",6
+MONTGOMERY,President,,REP,"Bush, George",694
+MONTGOMERY,President,,REP,"McCain, John",622
+MONTGOMERY,President,,REP,"Bauer, Gary",1
+MONTGOMERY,President,,REP,"Keyes, Alan",56
+MONTGOMERY,President,,REP,"Hornung, Lawrence",1
+MONTGOMERY,President,,REP,"Hatch, Orrin",2
+MONTGOMERY,President,,REP,"Uncommitted,",2
+MONTGOMERY,President,,LIB,"Browne, Harry",0
+MONTGOMERY,President,,LIB,"Hollist, David",2
+MONTGOMERY,President,,LIB,"Hines, Larry",1
+MONTGOMERY,President,,LIB,"Uncommitted,",0
+MONTGOMERY,President,,CST,"Phillips, Howard",0
+MONTGOMERY,President,,CST,"Uncommitted,",0
+MORGAN,President,,DEM,"Bradley, Bill",153
+MORGAN,President,,DEM,"Gore, Al",510
+MORGAN,President,,DEM,"LaRouche Jr., Lyndon",5
+MORGAN,President,,DEM,"Price, Pat",2
+MORGAN,President,,DEM,"Uncommitted,",8
+MORGAN,President,,REP,"Forbes, Steve",17
+MORGAN,President,,REP,"Bush, George",1151
+MORGAN,President,,REP,"McCain, John",658
+MORGAN,President,,REP,"Bauer, Gary",1
+MORGAN,President,,REP,"Keyes, Alan",63
+MORGAN,President,,REP,"Hornung, Lawrence",0
+MORGAN,President,,REP,"Hatch, Orrin",2
+MORGAN,President,,REP,"Uncommitted,",7
+MORGAN,President,,LIB,"Browne, Harry",0
+MORGAN,President,,LIB,"Hollist, David",0
+MORGAN,President,,LIB,"Hines, Larry",0
+MORGAN,President,,LIB,"Uncommitted,",2
+MORGAN,President,,CST,"Phillips, Howard",1
+MORGAN,President,,CST,"Uncommitted,",0
+NEW MADRID,President,,DEM,"Bradley, Bill",201
+NEW MADRID,President,,DEM,"Gore, Al",566
+NEW MADRID,President,,DEM,"LaRouche Jr., Lyndon",2
+NEW MADRID,President,,DEM,"Price, Pat",7
+NEW MADRID,President,,DEM,"Uncommitted,",14
+NEW MADRID,President,,REP,"Forbes, Steve",6
+NEW MADRID,President,,REP,"Bush, George",608
+NEW MADRID,President,,REP,"McCain, John",256
+NEW MADRID,President,,REP,"Bauer, Gary",1
+NEW MADRID,President,,REP,"Keyes, Alan",37
+NEW MADRID,President,,REP,"Hornung, Lawrence",0
+NEW MADRID,President,,REP,"Hatch, Orrin",1
+NEW MADRID,President,,REP,"Uncommitted,",2
+NEW MADRID,President,,LIB,"Browne, Harry",0
+NEW MADRID,President,,LIB,"Hollist, David",0
+NEW MADRID,President,,LIB,"Hines, Larry",0
+NEW MADRID,President,,LIB,"Uncommitted,",0
+NEW MADRID,President,,CST,"Phillips, Howard",1
+NEW MADRID,President,,CST,"Uncommitted,",1
+NEWTON,President,,DEM,"Bradley, Bill",259
+NEWTON,President,,DEM,"Gore, Al",752
+NEWTON,President,,DEM,"LaRouche Jr., Lyndon",9
+NEWTON,President,,DEM,"Price, Pat",1
+NEWTON,President,,DEM,"Uncommitted,",15
+NEWTON,President,,REP,"Forbes, Steve",19
+NEWTON,President,,REP,"Bush, George",3489
+NEWTON,President,,REP,"McCain, John",1654
+NEWTON,President,,REP,"Bauer, Gary",6
+NEWTON,President,,REP,"Keyes, Alan",245
+NEWTON,President,,REP,"Hornung, Lawrence",0
+NEWTON,President,,REP,"Hatch, Orrin",2
+NEWTON,President,,REP,"Uncommitted,",13
+NEWTON,President,,LIB,"Browne, Harry",4
+NEWTON,President,,LIB,"Hollist, David",0
+NEWTON,President,,LIB,"Hines, Larry",2
+NEWTON,President,,LIB,"Uncommitted,",0
+NEWTON,President,,CST,"Phillips, Howard",3
+NEWTON,President,,CST,"Uncommitted,",1
+NODAWAY,President,,DEM,"Bradley, Bill",214
+NODAWAY,President,,DEM,"Gore, Al",354
+NODAWAY,President,,DEM,"LaRouche Jr., Lyndon",3
+NODAWAY,President,,DEM,"Price, Pat",3
+NODAWAY,President,,DEM,"Uncommitted,",6
+NODAWAY,President,,REP,"Forbes, Steve",11
+NODAWAY,President,,REP,"Bush, George",734
+NODAWAY,President,,REP,"McCain, John",427
+NODAWAY,President,,REP,"Bauer, Gary",2
+NODAWAY,President,,REP,"Keyes, Alan",48
+NODAWAY,President,,REP,"Hornung, Lawrence",0
+NODAWAY,President,,REP,"Hatch, Orrin",1
+NODAWAY,President,,REP,"Uncommitted,",4
+NODAWAY,President,,LIB,"Browne, Harry",1
+NODAWAY,President,,LIB,"Hollist, David",1
+NODAWAY,President,,LIB,"Hines, Larry",0
+NODAWAY,President,,LIB,"Uncommitted,",1
+NODAWAY,President,,CST,"Phillips, Howard",0
+NODAWAY,President,,CST,"Uncommitted,",0
+OREGON,President,,DEM,"Bradley, Bill",135
+OREGON,President,,DEM,"Gore, Al",325
+OREGON,President,,DEM,"LaRouche Jr., Lyndon",2
+OREGON,President,,DEM,"Price, Pat",3
+OREGON,President,,DEM,"Uncommitted,",19
+OREGON,President,,REP,"Forbes, Steve",4
+OREGON,President,,REP,"Bush, George",460
+OREGON,President,,REP,"McCain, John",281
+OREGON,President,,REP,"Bauer, Gary",3
+OREGON,President,,REP,"Keyes, Alan",57
+OREGON,President,,REP,"Hornung, Lawrence",0
+OREGON,President,,REP,"Hatch, Orrin",0
+OREGON,President,,REP,"Uncommitted,",4
+OREGON,President,,LIB,"Browne, Harry",2
+OREGON,President,,LIB,"Hollist, David",0
+OREGON,President,,LIB,"Hines, Larry",0
+OREGON,President,,LIB,"Uncommitted,",0
+OREGON,President,,CST,"Phillips, Howard",1
+OREGON,President,,CST,"Uncommitted,",1
+OSAGE,President,,DEM,"Bradley, Bill",194
+OSAGE,President,,DEM,"Gore, Al",300
+OSAGE,President,,DEM,"LaRouche Jr., Lyndon",2
+OSAGE,President,,DEM,"Price, Pat",2
+OSAGE,President,,DEM,"Uncommitted,",5
+OSAGE,President,,REP,"Forbes, Steve",5
+OSAGE,President,,REP,"Bush, George",900
+OSAGE,President,,REP,"McCain, John",517
+OSAGE,President,,REP,"Bauer, Gary",1
+OSAGE,President,,REP,"Keyes, Alan",44
+OSAGE,President,,REP,"Hornung, Lawrence",1
+OSAGE,President,,REP,"Hatch, Orrin",0
+OSAGE,President,,REP,"Uncommitted,",2
+OSAGE,President,,LIB,"Browne, Harry",0
+OSAGE,President,,LIB,"Hollist, David",0
+OSAGE,President,,LIB,"Hines, Larry",0
+OSAGE,President,,LIB,"Uncommitted,",0
+OSAGE,President,,CST,"Phillips, Howard",0
+OSAGE,President,,CST,"Uncommitted,",0
+OZARK,President,,DEM,"Bradley, Bill",43
+OZARK,President,,DEM,"Gore, Al",233
+OZARK,President,,DEM,"LaRouche Jr., Lyndon",2
+OZARK,President,,DEM,"Price, Pat",0
+OZARK,President,,DEM,"Uncommitted,",2
+OZARK,President,,REP,"Forbes, Steve",5
+OZARK,President,,REP,"Bush, George",669
+OZARK,President,,REP,"McCain, John",495
+OZARK,President,,REP,"Bauer, Gary",1
+OZARK,President,,REP,"Keyes, Alan",54
+OZARK,President,,REP,"Hornung, Lawrence",0
+OZARK,President,,REP,"Hatch, Orrin",1
+OZARK,President,,REP,"Uncommitted,",5
+OZARK,President,,LIB,"Browne, Harry",0
+OZARK,President,,LIB,"Hollist, David",0
+OZARK,President,,LIB,"Hines, Larry",0
+OZARK,President,,LIB,"Uncommitted,",1
+OZARK,President,,CST,"Phillips, Howard",1
+OZARK,President,,CST,"Uncommitted,",0
+PEMISCOT,President,,DEM,"Bradley, Bill",121
+PEMISCOT,President,,DEM,"Gore, Al",382
+PEMISCOT,President,,DEM,"LaRouche Jr., Lyndon",1
+PEMISCOT,President,,DEM,"Price, Pat",4
+PEMISCOT,President,,DEM,"Uncommitted,",10
+PEMISCOT,President,,REP,"Forbes, Steve",1
+PEMISCOT,President,,REP,"Bush, George",413
+PEMISCOT,President,,REP,"McCain, John",163
+PEMISCOT,President,,REP,"Bauer, Gary",0
+PEMISCOT,President,,REP,"Keyes, Alan",14
+PEMISCOT,President,,REP,"Hornung, Lawrence",0
+PEMISCOT,President,,REP,"Hatch, Orrin",1
+PEMISCOT,President,,REP,"Uncommitted,",3
+PEMISCOT,President,,LIB,"Browne, Harry",0
+PEMISCOT,President,,LIB,"Hollist, David",0
+PEMISCOT,President,,LIB,"Hines, Larry",0
+PEMISCOT,President,,LIB,"Uncommitted,",0
+PEMISCOT,President,,CST,"Phillips, Howard",0
+PEMISCOT,President,,CST,"Uncommitted,",0
+PERRY,President,,DEM,"Bradley, Bill",151
+PERRY,President,,DEM,"Gore, Al",294
+PERRY,President,,DEM,"LaRouche Jr., Lyndon",1
+PERRY,President,,DEM,"Price, Pat",0
+PERRY,President,,DEM,"Uncommitted,",9
+PERRY,President,,REP,"Forbes, Steve",14
+PERRY,President,,REP,"Bush, George",1141
+PERRY,President,,REP,"McCain, John",566
+PERRY,President,,REP,"Bauer, Gary",2
+PERRY,President,,REP,"Keyes, Alan",54
+PERRY,President,,REP,"Hornung, Lawrence",0
+PERRY,President,,REP,"Hatch, Orrin",1
+PERRY,President,,REP,"Uncommitted,",2
+PERRY,President,,LIB,"Browne, Harry",0
+PERRY,President,,LIB,"Hollist, David",0
+PERRY,President,,LIB,"Hines, Larry",1
+PERRY,President,,LIB,"Uncommitted,",1
+PERRY,President,,CST,"Phillips, Howard",0
+PERRY,President,,CST,"Uncommitted,",0
+PETTIS,President,,DEM,"Bradley, Bill",381
+PETTIS,President,,DEM,"Gore, Al",832
+PETTIS,President,,DEM,"LaRouche Jr., Lyndon",4
+PETTIS,President,,DEM,"Price, Pat",3
+PETTIS,President,,DEM,"Uncommitted,",24
+PETTIS,President,,REP,"Forbes, Steve",18
+PETTIS,President,,REP,"Bush, George",2089
+PETTIS,President,,REP,"McCain, John",1008
+PETTIS,President,,REP,"Bauer, Gary",3
+PETTIS,President,,REP,"Keyes, Alan",81
+PETTIS,President,,REP,"Hornung, Lawrence",0
+PETTIS,President,,REP,"Hatch, Orrin",1
+PETTIS,President,,REP,"Uncommitted,",10
+PETTIS,President,,LIB,"Browne, Harry",6
+PETTIS,President,,LIB,"Hollist, David",1
+PETTIS,President,,LIB,"Hines, Larry",0
+PETTIS,President,,LIB,"Uncommitted,",0
+PETTIS,President,,CST,"Phillips, Howard",0
+PETTIS,President,,CST,"Uncommitted,",1
+PHELPS,President,,DEM,"Bradley, Bill",693
+PHELPS,President,,DEM,"Gore, Al",943
+PHELPS,President,,DEM,"LaRouche Jr., Lyndon",1
+PHELPS,President,,DEM,"Price, Pat",2
+PHELPS,President,,DEM,"Uncommitted,",40
+PHELPS,President,,REP,"Forbes, Steve",11
+PHELPS,President,,REP,"Bush, George",2287
+PHELPS,President,,REP,"McCain, John",1281
+PHELPS,President,,REP,"Bauer, Gary",8
+PHELPS,President,,REP,"Keyes, Alan",210
+PHELPS,President,,REP,"Hornung, Lawrence",2
+PHELPS,President,,REP,"Hatch, Orrin",2
+PHELPS,President,,REP,"Uncommitted,",6
+PHELPS,President,,LIB,"Browne, Harry",5
+PHELPS,President,,LIB,"Hollist, David",0
+PHELPS,President,,LIB,"Hines, Larry",0
+PHELPS,President,,LIB,"Uncommitted,",0
+PHELPS,President,,CST,"Phillips, Howard",3
+PHELPS,President,,CST,"Uncommitted,",1
+PIKE,President,,DEM,"Bradley, Bill",334
+PIKE,President,,DEM,"Gore, Al",584
+PIKE,President,,DEM,"LaRouche Jr., Lyndon",4
+PIKE,President,,DEM,"Price, Pat",2
+PIKE,President,,DEM,"Uncommitted,",16
+PIKE,President,,REP,"Forbes, Steve",0
+PIKE,President,,REP,"Bush, George",662
+PIKE,President,,REP,"McCain, John",462
+PIKE,President,,REP,"Bauer, Gary",2
+PIKE,President,,REP,"Keyes, Alan",96
+PIKE,President,,REP,"Hornung, Lawrence",0
+PIKE,President,,REP,"Hatch, Orrin",0
+PIKE,President,,REP,"Uncommitted,",3
+PIKE,President,,LIB,"Browne, Harry",1
+PIKE,President,,LIB,"Hollist, David",0
+PIKE,President,,LIB,"Hines, Larry",1
+PIKE,President,,LIB,"Uncommitted,",0
+PIKE,President,,CST,"Phillips, Howard",5
+PIKE,President,,CST,"Uncommitted,",2
+PLATTE,President,,DEM,"Bradley, Bill",675
+PLATTE,President,,DEM,"Gore, Al",1624
+PLATTE,President,,DEM,"LaRouche Jr., Lyndon",8
+PLATTE,President,,DEM,"Price, Pat",0
+PLATTE,President,,DEM,"Uncommitted,",27
+PLATTE,President,,REP,"Forbes, Steve",19
+PLATTE,President,,REP,"Bush, George",3030
+PLATTE,President,,REP,"McCain, John",2377
+PLATTE,President,,REP,"Bauer, Gary",14
+PLATTE,President,,REP,"Keyes, Alan",362
+PLATTE,President,,REP,"Hornung, Lawrence",2
+PLATTE,President,,REP,"Hatch, Orrin",3
+PLATTE,President,,REP,"Uncommitted,",26
+PLATTE,President,,LIB,"Browne, Harry",12
+PLATTE,President,,LIB,"Hollist, David",2
+PLATTE,President,,LIB,"Hines, Larry",2
+PLATTE,President,,LIB,"Uncommitted,",4
+PLATTE,President,,CST,"Phillips, Howard",7
+PLATTE,President,,CST,"Uncommitted,",1
+POLK,President,,DEM,"Bradley, Bill",134
+POLK,President,,DEM,"Gore, Al",480
+POLK,President,,DEM,"LaRouche Jr., Lyndon",1
+POLK,President,,DEM,"Price, Pat",2
+POLK,President,,DEM,"Uncommitted,",5
+POLK,President,,REP,"Forbes, Steve",13
+POLK,President,,REP,"Bush, George",1727
+POLK,President,,REP,"McCain, John",939
+POLK,President,,REP,"Bauer, Gary",12
+POLK,President,,REP,"Keyes, Alan",215
+POLK,President,,REP,"Hornung, Lawrence",0
+POLK,President,,REP,"Hatch, Orrin",4
+POLK,President,,REP,"Uncommitted,",13
+POLK,President,,LIB,"Browne, Harry",2
+POLK,President,,LIB,"Hollist, David",0
+POLK,President,,LIB,"Hines, Larry",1
+POLK,President,,LIB,"Uncommitted,",0
+POLK,President,,CST,"Phillips, Howard",4
+POLK,President,,CST,"Uncommitted,",1
+PULASKI,President,,DEM,"Bradley, Bill",309
+PULASKI,President,,DEM,"Gore, Al",686
+PULASKI,President,,DEM,"LaRouche Jr., Lyndon",10
+PULASKI,President,,DEM,"Price, Pat",4
+PULASKI,President,,DEM,"Uncommitted,",25
+PULASKI,President,,REP,"Forbes, Steve",7
+PULASKI,President,,REP,"Bush, George",1433
+PULASKI,President,,REP,"McCain, John",813
+PULASKI,President,,REP,"Bauer, Gary",3
+PULASKI,President,,REP,"Keyes, Alan",115
+PULASKI,President,,REP,"Hornung, Lawrence",2
+PULASKI,President,,REP,"Hatch, Orrin",0
+PULASKI,President,,REP,"Uncommitted,",7
+PULASKI,President,,LIB,"Browne, Harry",0
+PULASKI,President,,LIB,"Hollist, David",1
+PULASKI,President,,LIB,"Hines, Larry",0
+PULASKI,President,,LIB,"Uncommitted,",3
+PULASKI,President,,CST,"Phillips, Howard",0
+PULASKI,President,,CST,"Uncommitted,",1
+PUTNAM,President,,DEM,"Bradley, Bill",52
+PUTNAM,President,,DEM,"Gore, Al",97
+PUTNAM,President,,DEM,"LaRouche Jr., Lyndon",0
+PUTNAM,President,,DEM,"Price, Pat",1
+PUTNAM,President,,DEM,"Uncommitted,",0
+PUTNAM,President,,REP,"Forbes, Steve",14
+PUTNAM,President,,REP,"Bush, George",433
+PUTNAM,President,,REP,"McCain, John",122
+PUTNAM,President,,REP,"Bauer, Gary",4
+PUTNAM,President,,REP,"Keyes, Alan",22
+PUTNAM,President,,REP,"Hornung, Lawrence",0
+PUTNAM,President,,REP,"Hatch, Orrin",0
+PUTNAM,President,,REP,"Uncommitted,",5
+PUTNAM,President,,LIB,"Browne, Harry",0
+PUTNAM,President,,LIB,"Hollist, David",0
+PUTNAM,President,,LIB,"Hines, Larry",0
+PUTNAM,President,,LIB,"Uncommitted,",0
+PUTNAM,President,,CST,"Phillips, Howard",0
+PUTNAM,President,,CST,"Uncommitted,",0
+RALLS,President,,DEM,"Bradley, Bill",228
+RALLS,President,,DEM,"Gore, Al",339
+RALLS,President,,DEM,"LaRouche Jr., Lyndon",1
+RALLS,President,,DEM,"Price, Pat",0
+RALLS,President,,DEM,"Uncommitted,",8
+RALLS,President,,REP,"Forbes, Steve",3
+RALLS,President,,REP,"Bush, George",422
+RALLS,President,,REP,"McCain, John",185
+RALLS,President,,REP,"Bauer, Gary",1
+RALLS,President,,REP,"Keyes, Alan",34
+RALLS,President,,REP,"Hornung, Lawrence",0
+RALLS,President,,REP,"Hatch, Orrin",1
+RALLS,President,,REP,"Uncommitted,",0
+RALLS,President,,LIB,"Browne, Harry",0
+RALLS,President,,LIB,"Hollist, David",0
+RALLS,President,,LIB,"Hines, Larry",1
+RALLS,President,,LIB,"Uncommitted,",0
+RALLS,President,,CST,"Phillips, Howard",0
+RALLS,President,,CST,"Uncommitted,",0
+RANDOLPH,President,,DEM,"Bradley, Bill",412
+RANDOLPH,President,,DEM,"Gore, Al",593
+RANDOLPH,President,,DEM,"LaRouche Jr., Lyndon",6
+RANDOLPH,President,,DEM,"Price, Pat",3
+RANDOLPH,President,,DEM,"Uncommitted,",22
+RANDOLPH,President,,REP,"Forbes, Steve",10
+RANDOLPH,President,,REP,"Bush, George",983
+RANDOLPH,President,,REP,"McCain, John",493
+RANDOLPH,President,,REP,"Bauer, Gary",2
+RANDOLPH,President,,REP,"Keyes, Alan",65
+RANDOLPH,President,,REP,"Hornung, Lawrence",1
+RANDOLPH,President,,REP,"Hatch, Orrin",0
+RANDOLPH,President,,REP,"Uncommitted,",3
+RANDOLPH,President,,LIB,"Browne, Harry",0
+RANDOLPH,President,,LIB,"Hollist, David",0
+RANDOLPH,President,,LIB,"Hines, Larry",1
+RANDOLPH,President,,LIB,"Uncommitted,",0
+RANDOLPH,President,,CST,"Phillips, Howard",0
+RANDOLPH,President,,CST,"Uncommitted,",0
+RAY,President,,DEM,"Bradley, Bill",233
+RAY,President,,DEM,"Gore, Al",581
+RAY,President,,DEM,"LaRouche Jr., Lyndon",3
+RAY,President,,DEM,"Price, Pat",1
+RAY,President,,DEM,"Uncommitted,",25
+RAY,President,,REP,"Forbes, Steve",5
+RAY,President,,REP,"Bush, George",614
+RAY,President,,REP,"McCain, John",373
+RAY,President,,REP,"Bauer, Gary",5
+RAY,President,,REP,"Keyes, Alan",80
+RAY,President,,REP,"Hornung, Lawrence",0
+RAY,President,,REP,"Hatch, Orrin",3
+RAY,President,,REP,"Uncommitted,",3
+RAY,President,,LIB,"Browne, Harry",3
+RAY,President,,LIB,"Hollist, David",0
+RAY,President,,LIB,"Hines, Larry",1
+RAY,President,,LIB,"Uncommitted,",2
+RAY,President,,CST,"Phillips, Howard",0
+RAY,President,,CST,"Uncommitted,",0
+REYNOLDS,President,,DEM,"Bradley, Bill",195
+REYNOLDS,President,,DEM,"Gore, Al",258
+REYNOLDS,President,,DEM,"LaRouche Jr., Lyndon",3
+REYNOLDS,President,,DEM,"Price, Pat",1
+REYNOLDS,President,,DEM,"Uncommitted,",16
+REYNOLDS,President,,REP,"Forbes, Steve",4
+REYNOLDS,President,,REP,"Bush, George",276
+REYNOLDS,President,,REP,"McCain, John",163
+REYNOLDS,President,,REP,"Bauer, Gary",0
+REYNOLDS,President,,REP,"Keyes, Alan",27
+REYNOLDS,President,,REP,"Hornung, Lawrence",0
+REYNOLDS,President,,REP,"Hatch, Orrin",0
+REYNOLDS,President,,REP,"Uncommitted,",2
+REYNOLDS,President,,LIB,"Browne, Harry",1
+REYNOLDS,President,,LIB,"Hollist, David",0
+REYNOLDS,President,,LIB,"Hines, Larry",0
+REYNOLDS,President,,LIB,"Uncommitted,",0
+REYNOLDS,President,,CST,"Phillips, Howard",0
+REYNOLDS,President,,CST,"Uncommitted,",0
+RIPLEY,President,,DEM,"Bradley, Bill",112
+RIPLEY,President,,DEM,"Gore, Al",277
+RIPLEY,President,,DEM,"LaRouche Jr., Lyndon",1
+RIPLEY,President,,DEM,"Price, Pat",1
+RIPLEY,President,,DEM,"Uncommitted,",6
+RIPLEY,President,,REP,"Forbes, Steve",1
+RIPLEY,President,,REP,"Bush, George",536
+RIPLEY,President,,REP,"McCain, John",214
+RIPLEY,President,,REP,"Bauer, Gary",0
+RIPLEY,President,,REP,"Keyes, Alan",38
+RIPLEY,President,,REP,"Hornung, Lawrence",0
+RIPLEY,President,,REP,"Hatch, Orrin",0
+RIPLEY,President,,REP,"Uncommitted,",4
+RIPLEY,President,,LIB,"Browne, Harry",0
+RIPLEY,President,,LIB,"Hollist, David",1
+RIPLEY,President,,LIB,"Hines, Larry",0
+RIPLEY,President,,LIB,"Uncommitted,",0
+RIPLEY,President,,CST,"Phillips, Howard",0
+RIPLEY,President,,CST,"Uncommitted,",0
+SALINE,President,,DEM,"Bradley, Bill",336
+SALINE,President,,DEM,"Gore, Al",726
+SALINE,President,,DEM,"LaRouche Jr., Lyndon",6
+SALINE,President,,DEM,"Price, Pat",1
+SALINE,President,,DEM,"Uncommitted,",13
+SALINE,President,,REP,"Forbes, Steve",3
+SALINE,President,,REP,"Bush, George",848
+SALINE,President,,REP,"McCain, John",579
+SALINE,President,,REP,"Bauer, Gary",4
+SALINE,President,,REP,"Keyes, Alan",49
+SALINE,President,,REP,"Hornung, Lawrence",0
+SALINE,President,,REP,"Hatch, Orrin",1
+SALINE,President,,REP,"Uncommitted,",3
+SALINE,President,,LIB,"Browne, Harry",1
+SALINE,President,,LIB,"Hollist, David",0
+SALINE,President,,LIB,"Hines, Larry",0
+SALINE,President,,LIB,"Uncommitted,",0
+SALINE,President,,CST,"Phillips, Howard",0
+SALINE,President,,CST,"Uncommitted,",0
+SCHUYLER,President,,DEM,"Bradley, Bill",74
+SCHUYLER,President,,DEM,"Gore, Al",175
+SCHUYLER,President,,DEM,"LaRouche Jr., Lyndon",2
+SCHUYLER,President,,DEM,"Price, Pat",4
+SCHUYLER,President,,DEM,"Uncommitted,",4
+SCHUYLER,President,,REP,"Forbes, Steve",12
+SCHUYLER,President,,REP,"Bush, George",238
+SCHUYLER,President,,REP,"McCain, John",91
+SCHUYLER,President,,REP,"Bauer, Gary",2
+SCHUYLER,President,,REP,"Keyes, Alan",8
+SCHUYLER,President,,REP,"Hornung, Lawrence",0
+SCHUYLER,President,,REP,"Hatch, Orrin",0
+SCHUYLER,President,,REP,"Uncommitted,",0
+SCHUYLER,President,,LIB,"Browne, Harry",0
+SCHUYLER,President,,LIB,"Hollist, David",1
+SCHUYLER,President,,LIB,"Hines, Larry",0
+SCHUYLER,President,,LIB,"Uncommitted,",0
+SCHUYLER,President,,CST,"Phillips, Howard",0
+SCHUYLER,President,,CST,"Uncommitted,",0
+SCOTLAND,President,,DEM,"Bradley, Bill",122
+SCOTLAND,President,,DEM,"Gore, Al",174
+SCOTLAND,President,,DEM,"LaRouche Jr., Lyndon",1
+SCOTLAND,President,,DEM,"Price, Pat",1
+SCOTLAND,President,,DEM,"Uncommitted,",4
+SCOTLAND,President,,REP,"Forbes, Steve",10
+SCOTLAND,President,,REP,"Bush, George",291
+SCOTLAND,President,,REP,"McCain, John",108
+SCOTLAND,President,,REP,"Bauer, Gary",1
+SCOTLAND,President,,REP,"Keyes, Alan",26
+SCOTLAND,President,,REP,"Hornung, Lawrence",0
+SCOTLAND,President,,REP,"Hatch, Orrin",1
+SCOTLAND,President,,REP,"Uncommitted,",2
+SCOTLAND,President,,LIB,"Browne, Harry",0
+SCOTLAND,President,,LIB,"Hollist, David",0
+SCOTLAND,President,,LIB,"Hines, Larry",0
+SCOTLAND,President,,LIB,"Uncommitted,",0
+SCOTLAND,President,,CST,"Phillips, Howard",0
+SCOTLAND,President,,CST,"Uncommitted,",0
+SCOTT,President,,DEM,"Bradley, Bill",452
+SCOTT,President,,DEM,"Gore, Al",1046
+SCOTT,President,,DEM,"LaRouche Jr., Lyndon",6
+SCOTT,President,,DEM,"Price, Pat",4
+SCOTT,President,,DEM,"Uncommitted,",39
+SCOTT,President,,REP,"Forbes, Steve",7
+SCOTT,President,,REP,"Bush, George",2106
+SCOTT,President,,REP,"McCain, John",735
+SCOTT,President,,REP,"Bauer, Gary",2
+SCOTT,President,,REP,"Keyes, Alan",66
+SCOTT,President,,REP,"Hornung, Lawrence",0
+SCOTT,President,,REP,"Hatch, Orrin",0
+SCOTT,President,,REP,"Uncommitted,",2
+SCOTT,President,,LIB,"Browne, Harry",2
+SCOTT,President,,LIB,"Hollist, David",4
+SCOTT,President,,LIB,"Hines, Larry",1
+SCOTT,President,,LIB,"Uncommitted,",0
+SCOTT,President,,CST,"Phillips, Howard",1
+SCOTT,President,,CST,"Uncommitted,",0
+SHANNON,President,,DEM,"Bradley, Bill",109
+SHANNON,President,,DEM,"Gore, Al",276
+SHANNON,President,,DEM,"LaRouche Jr., Lyndon",3
+SHANNON,President,,DEM,"Price, Pat",2
+SHANNON,President,,DEM,"Uncommitted,",8
+SHANNON,President,,REP,"Forbes, Steve",6
+SHANNON,President,,REP,"Bush, George",335
+SHANNON,President,,REP,"McCain, John",255
+SHANNON,President,,REP,"Bauer, Gary",1
+SHANNON,President,,REP,"Keyes, Alan",53
+SHANNON,President,,REP,"Hornung, Lawrence",0
+SHANNON,President,,REP,"Hatch, Orrin",0
+SHANNON,President,,REP,"Uncommitted,",2
+SHANNON,President,,LIB,"Browne, Harry",0
+SHANNON,President,,LIB,"Hollist, David",0
+SHANNON,President,,LIB,"Hines, Larry",0
+SHANNON,President,,LIB,"Uncommitted,",0
+SHANNON,President,,CST,"Phillips, Howard",0
+SHANNON,President,,CST,"Uncommitted,",0
+SHELBY,President,,DEM,"Bradley, Bill",211
+SHELBY,President,,DEM,"Gore, Al",290
+SHELBY,President,,DEM,"LaRouche Jr., Lyndon",0
+SHELBY,President,,DEM,"Price, Pat",3
+SHELBY,President,,DEM,"Uncommitted,",6
+SHELBY,President,,REP,"Forbes, Steve",7
+SHELBY,President,,REP,"Bush, George",360
+SHELBY,President,,REP,"McCain, John",155
+SHELBY,President,,REP,"Bauer, Gary",0
+SHELBY,President,,REP,"Keyes, Alan",26
+SHELBY,President,,REP,"Hornung, Lawrence",0
+SHELBY,President,,REP,"Hatch, Orrin",0
+SHELBY,President,,REP,"Uncommitted,",3
+SHELBY,President,,LIB,"Browne, Harry",1
+SHELBY,President,,LIB,"Hollist, David",0
+SHELBY,President,,LIB,"Hines, Larry",0
+SHELBY,President,,LIB,"Uncommitted,",0
+SHELBY,President,,CST,"Phillips, Howard",0
+SHELBY,President,,CST,"Uncommitted,",0
+ST CHARLES,President,,DEM,"Bradley, Bill",4403
+ST CHARLES,President,,DEM,"Gore, Al",7706
+ST CHARLES,President,,DEM,"LaRouche Jr., Lyndon",110
+ST CHARLES,President,,DEM,"Price, Pat",17
+ST CHARLES,President,,DEM,"Uncommitted,",114
+ST CHARLES,President,,REP,"Forbes, Steve",113
+ST CHARLES,President,,REP,"Bush, George",16881
+ST CHARLES,President,,REP,"McCain, John",10269
+ST CHARLES,President,,REP,"Bauer, Gary",153
+ST CHARLES,President,,REP,"Keyes, Alan",1709
+ST CHARLES,President,,REP,"Hornung, Lawrence",16
+ST CHARLES,President,,REP,"Hatch, Orrin",30
+ST CHARLES,President,,REP,"Uncommitted,",78
+ST CHARLES,President,,LIB,"Browne, Harry",43
+ST CHARLES,President,,LIB,"Hollist, David",10
+ST CHARLES,President,,LIB,"Hines, Larry",9
+ST CHARLES,President,,LIB,"Uncommitted,",20
+ST CHARLES,President,,CST,"Phillips, Howard",24
+ST CHARLES,President,,CST,"Uncommitted,",3
+ST CLAIR,President,,DEM,"Bradley, Bill",127
+ST CLAIR,President,,DEM,"Gore, Al",423
+ST CLAIR,President,,DEM,"LaRouche Jr., Lyndon",3
+ST CLAIR,President,,DEM,"Price, Pat",2
+ST CLAIR,President,,DEM,"Uncommitted,",17
+ST CLAIR,President,,REP,"Forbes, Steve",12
+ST CLAIR,President,,REP,"Bush, George",764
+ST CLAIR,President,,REP,"McCain, John",418
+ST CLAIR,President,,REP,"Bauer, Gary",1
+ST CLAIR,President,,REP,"Keyes, Alan",45
+ST CLAIR,President,,REP,"Hornung, Lawrence",0
+ST CLAIR,President,,REP,"Hatch, Orrin",1
+ST CLAIR,President,,REP,"Uncommitted,",4
+ST CLAIR,President,,LIB,"Browne, Harry",3
+ST CLAIR,President,,LIB,"Hollist, David",0
+ST CLAIR,President,,LIB,"Hines, Larry",0
+ST CLAIR,President,,LIB,"Uncommitted,",2
+ST CLAIR,President,,CST,"Phillips, Howard",1
+ST CLAIR,President,,CST,"Uncommitted,",0
+ST FRANCOIS,President,,DEM,"Bradley, Bill",1147
+ST FRANCOIS,President,,DEM,"Gore, Al",1316
+ST FRANCOIS,President,,DEM,"LaRouche Jr., Lyndon",13
+ST FRANCOIS,President,,DEM,"Price, Pat",7
+ST FRANCOIS,President,,DEM,"Uncommitted,",24
+ST FRANCOIS,President,,REP,"Forbes, Steve",14
+ST FRANCOIS,President,,REP,"Bush, George",1923
+ST FRANCOIS,President,,REP,"McCain, John",1061
+ST FRANCOIS,President,,REP,"Bauer, Gary",6
+ST FRANCOIS,President,,REP,"Keyes, Alan",152
+ST FRANCOIS,President,,REP,"Hornung, Lawrence",1
+ST FRANCOIS,President,,REP,"Hatch, Orrin",3
+ST FRANCOIS,President,,REP,"Uncommitted,",3
+ST FRANCOIS,President,,LIB,"Browne, Harry",2
+ST FRANCOIS,President,,LIB,"Hollist, David",2
+ST FRANCOIS,President,,LIB,"Hines, Larry",0
+ST FRANCOIS,President,,LIB,"Uncommitted,",2
+ST FRANCOIS,President,,CST,"Phillips, Howard",2
+ST FRANCOIS,President,,CST,"Uncommitted,",0
+ST LOUIS,President,,DEM,"Bradley, Bill",8525
+ST LOUIS,President,,DEM,"Gore, Al",23136
+ST LOUIS,President,,DEM,"LaRouche Jr., Lyndon",117
+ST LOUIS,President,,DEM,"Price, Pat",92
+ST LOUIS,President,,DEM,"Uncommitted,",254
+ST LOUIS,President,,REP,"Forbes, Steve",59
+ST LOUIS,President,,REP,"Bush, George",6109
+ST LOUIS,President,,REP,"McCain, John",6244
+ST LOUIS,President,,REP,"Bauer, Gary",22
+ST LOUIS,President,,REP,"Keyes, Alan",1004
+ST LOUIS,President,,REP,"Hornung, Lawrence",6
+ST LOUIS,President,,REP,"Hatch, Orrin",13
+ST LOUIS,President,,REP,"Uncommitted,",38
+ST LOUIS,President,,LIB,"Browne, Harry",30
+ST LOUIS,President,,LIB,"Hollist, David",4
+ST LOUIS,President,,LIB,"Hines, Larry",7
+ST LOUIS,President,,LIB,"Uncommitted,",25
+ST LOUIS,President,,CST,"Phillips, Howard",8
+ST LOUIS,President,,CST,"Uncommitted,",7
+ST LOUIS,President,,DEM,"Bradley, Bill",26116
+ST LOUIS,President,,DEM,"Gore, Al",39951
+ST LOUIS,President,,DEM,"LaRouche Jr., Lyndon",136
+ST LOUIS,President,,DEM,"Price, Pat",80
+ST LOUIS,President,,DEM,"Uncommitted,",624
+ST LOUIS,President,,REP,"Forbes, Steve",418
+ST LOUIS,President,,REP,"Bush, George",56978
+ST LOUIS,President,,REP,"McCain, John",38832
+ST LOUIS,President,,REP,"Bauer, Gary",145
+ST LOUIS,President,,REP,"Keyes, Alan",6059
+ST LOUIS,President,,REP,"Hornung, Lawrence",15
+ST LOUIS,President,,REP,"Hatch, Orrin",66
+ST LOUIS,President,,REP,"Uncommitted,",281
+ST LOUIS,President,,LIB,"Browne, Harry",138
+ST LOUIS,President,,LIB,"Hollist, David",33
+ST LOUIS,President,,LIB,"Hines, Larry",40
+ST LOUIS,President,,LIB,"Uncommitted,",97
+ST LOUIS,President,,CST,"Phillips, Howard",111
+ST LOUIS,President,,CST,"Uncommitted,",21
+STE GENEVIEVE,President,,DEM,"Bradley, Bill",563
+STE GENEVIEVE,President,,DEM,"Gore, Al",496
+STE GENEVIEVE,President,,DEM,"LaRouche Jr., Lyndon",16
+STE GENEVIEVE,President,,DEM,"Price, Pat",3
+STE GENEVIEVE,President,,DEM,"Uncommitted,",7
+STE GENEVIEVE,President,,REP,"Forbes, Steve",12
+STE GENEVIEVE,President,,REP,"Bush, George",525
+STE GENEVIEVE,President,,REP,"McCain, John",329
+STE GENEVIEVE,President,,REP,"Bauer, Gary",9
+STE GENEVIEVE,President,,REP,"Keyes, Alan",50
+STE GENEVIEVE,President,,REP,"Hornung, Lawrence",1
+STE GENEVIEVE,President,,REP,"Hatch, Orrin",0
+STE GENEVIEVE,President,,REP,"Uncommitted,",2
+STE GENEVIEVE,President,,LIB,"Browne, Harry",1
+STE GENEVIEVE,President,,LIB,"Hollist, David",1
+STE GENEVIEVE,President,,LIB,"Hines, Larry",0
+STE GENEVIEVE,President,,LIB,"Uncommitted,",0
+STE GENEVIEVE,President,,CST,"Phillips, Howard",3
+STE GENEVIEVE,President,,CST,"Uncommitted,",1
+STODDARD,President,,DEM,"Bradley, Bill",298
+STODDARD,President,,DEM,"Gore, Al",675
+STODDARD,President,,DEM,"LaRouche Jr., Lyndon",2
+STODDARD,President,,DEM,"Price, Pat",2
+STODDARD,President,,DEM,"Uncommitted,",12
+STODDARD,President,,REP,"Forbes, Steve",3
+STODDARD,President,,REP,"Bush, George",1495
+STODDARD,President,,REP,"McCain, John",492
+STODDARD,President,,REP,"Bauer, Gary",1
+STODDARD,President,,REP,"Keyes, Alan",50
+STODDARD,President,,REP,"Hornung, Lawrence",0
+STODDARD,President,,REP,"Hatch, Orrin",2
+STODDARD,President,,REP,"Uncommitted,",4
+STODDARD,President,,LIB,"Browne, Harry",0
+STODDARD,President,,LIB,"Hollist, David",0
+STODDARD,President,,LIB,"Hines, Larry",0
+STODDARD,President,,LIB,"Uncommitted,",0
+STODDARD,President,,CST,"Phillips, Howard",0
+STODDARD,President,,CST,"Uncommitted,",0
+STONE,President,,DEM,"Bradley, Bill",160
+STONE,President,,DEM,"Gore, Al",512
+STONE,President,,DEM,"LaRouche Jr., Lyndon",3
+STONE,President,,DEM,"Price, Pat",0
+STONE,President,,DEM,"Uncommitted,",12
+STONE,President,,REP,"Forbes, Steve",8
+STONE,President,,REP,"Bush, George",2118
+STONE,President,,REP,"McCain, John",1248
+STONE,President,,REP,"Bauer, Gary",6
+STONE,President,,REP,"Keyes, Alan",198
+STONE,President,,REP,"Hornung, Lawrence",0
+STONE,President,,REP,"Hatch, Orrin",1
+STONE,President,,REP,"Uncommitted,",9
+STONE,President,,LIB,"Browne, Harry",3
+STONE,President,,LIB,"Hollist, David",0
+STONE,President,,LIB,"Hines, Larry",1
+STONE,President,,LIB,"Uncommitted,",0
+STONE,President,,CST,"Phillips, Howard",0
+STONE,President,,CST,"Uncommitted,",0
+SULLIVAN,President,,DEM,"Bradley, Bill",81
+SULLIVAN,President,,DEM,"Gore, Al",225
+SULLIVAN,President,,DEM,"LaRouche Jr., Lyndon",1
+SULLIVAN,President,,DEM,"Price, Pat",0
+SULLIVAN,President,,DEM,"Uncommitted,",9
+SULLIVAN,President,,REP,"Forbes, Steve",11
+SULLIVAN,President,,REP,"Bush, George",401
+SULLIVAN,President,,REP,"McCain, John",142
+SULLIVAN,President,,REP,"Bauer, Gary",1
+SULLIVAN,President,,REP,"Keyes, Alan",25
+SULLIVAN,President,,REP,"Hornung, Lawrence",0
+SULLIVAN,President,,REP,"Hatch, Orrin",0
+SULLIVAN,President,,REP,"Uncommitted,",1
+SULLIVAN,President,,LIB,"Browne, Harry",0
+SULLIVAN,President,,LIB,"Hollist, David",0
+SULLIVAN,President,,LIB,"Hines, Larry",0
+SULLIVAN,President,,LIB,"Uncommitted,",1
+SULLIVAN,President,,CST,"Phillips, Howard",0
+SULLIVAN,President,,CST,"Uncommitted,",1
+TANEY,President,,DEM,"Bradley, Bill",205
+TANEY,President,,DEM,"Gore, Al",631
+TANEY,President,,DEM,"LaRouche Jr., Lyndon",7
+TANEY,President,,DEM,"Price, Pat",1
+TANEY,President,,DEM,"Uncommitted,",13
+TANEY,President,,REP,"Forbes, Steve",23
+TANEY,President,,REP,"Bush, George",2458
+TANEY,President,,REP,"McCain, John",1340
+TANEY,President,,REP,"Bauer, Gary",8
+TANEY,President,,REP,"Keyes, Alan",320
+TANEY,President,,REP,"Hornung, Lawrence",1
+TANEY,President,,REP,"Hatch, Orrin",2
+TANEY,President,,REP,"Uncommitted,",11
+TANEY,President,,LIB,"Browne, Harry",6
+TANEY,President,,LIB,"Hollist, David",0
+TANEY,President,,LIB,"Hines, Larry",0
+TANEY,President,,LIB,"Uncommitted,",1
+TANEY,President,,CST,"Phillips, Howard",4
+TANEY,President,,CST,"Uncommitted,",0
+TEXAS,President,,DEM,"Bradley, Bill",317
+TEXAS,President,,DEM,"Gore, Al",675
+TEXAS,President,,DEM,"LaRouche Jr., Lyndon",6
+TEXAS,President,,DEM,"Price, Pat",6
+TEXAS,President,,DEM,"Uncommitted,",23
+TEXAS,President,,REP,"Forbes, Steve",9
+TEXAS,President,,REP,"Bush, George",1375
+TEXAS,President,,REP,"McCain, John",874
+TEXAS,President,,REP,"Bauer, Gary",5
+TEXAS,President,,REP,"Keyes, Alan",151
+TEXAS,President,,REP,"Hornung, Lawrence",0
+TEXAS,President,,REP,"Hatch, Orrin",2
+TEXAS,President,,REP,"Uncommitted,",11
+TEXAS,President,,LIB,"Browne, Harry",1
+TEXAS,President,,LIB,"Hollist, David",0
+TEXAS,President,,LIB,"Hines, Larry",0
+TEXAS,President,,LIB,"Uncommitted,",2
+TEXAS,President,,CST,"Phillips, Howard",1
+TEXAS,President,,CST,"Uncommitted,",1
+VERNON,President,,DEM,"Bradley, Bill",250
+VERNON,President,,DEM,"Gore, Al",676
+VERNON,President,,DEM,"LaRouche Jr., Lyndon",7
+VERNON,President,,DEM,"Price, Pat",2
+VERNON,President,,DEM,"Uncommitted,",35
+VERNON,President,,REP,"Forbes, Steve",8
+VERNON,President,,REP,"Bush, George",1078
+VERNON,President,,REP,"McCain, John",629
+VERNON,President,,REP,"Bauer, Gary",3
+VERNON,President,,REP,"Keyes, Alan",81
+VERNON,President,,REP,"Hornung, Lawrence",0
+VERNON,President,,REP,"Hatch, Orrin",3
+VERNON,President,,REP,"Uncommitted,",5
+VERNON,President,,LIB,"Browne, Harry",1
+VERNON,President,,LIB,"Hollist, David",0
+VERNON,President,,LIB,"Hines, Larry",1
+VERNON,President,,LIB,"Uncommitted,",1
+VERNON,President,,CST,"Phillips, Howard",2
+VERNON,President,,CST,"Uncommitted,",0
+WARREN,President,,DEM,"Bradley, Bill",308
+WARREN,President,,DEM,"Gore, Al",466
+WARREN,President,,DEM,"LaRouche Jr., Lyndon",2
+WARREN,President,,DEM,"Price, Pat",0
+WARREN,President,,DEM,"Uncommitted,",9
+WARREN,President,,REP,"Forbes, Steve",10
+WARREN,President,,REP,"Bush, George",1239
+WARREN,President,,REP,"McCain, John",850
+WARREN,President,,REP,"Bauer, Gary",5
+WARREN,President,,REP,"Keyes, Alan",143
+WARREN,President,,REP,"Hornung, Lawrence",1
+WARREN,President,,REP,"Hatch, Orrin",1
+WARREN,President,,REP,"Uncommitted,",5
+WARREN,President,,LIB,"Browne, Harry",4
+WARREN,President,,LIB,"Hollist, David",1
+WARREN,President,,LIB,"Hines, Larry",1
+WARREN,President,,LIB,"Uncommitted,",1
+WARREN,President,,CST,"Phillips, Howard",3
+WARREN,President,,CST,"Uncommitted,",0
+WASHINGTON,President,,DEM,"Bradley, Bill",373
+WASHINGTON,President,,DEM,"Gore, Al",612
+WASHINGTON,President,,DEM,"LaRouche Jr., Lyndon",1
+WASHINGTON,President,,DEM,"Price, Pat",2
+WASHINGTON,President,,DEM,"Uncommitted,",19
+WASHINGTON,President,,REP,"Forbes, Steve",5
+WASHINGTON,President,,REP,"Bush, George",726
+WASHINGTON,President,,REP,"McCain, John",420
+WASHINGTON,President,,REP,"Bauer, Gary",2
+WASHINGTON,President,,REP,"Keyes, Alan",56
+WASHINGTON,President,,REP,"Hornung, Lawrence",0
+WASHINGTON,President,,REP,"Hatch, Orrin",0
+WASHINGTON,President,,REP,"Uncommitted,",5
+WASHINGTON,President,,LIB,"Browne, Harry",4
+WASHINGTON,President,,LIB,"Hollist, David",0
+WASHINGTON,President,,LIB,"Hines, Larry",1
+WASHINGTON,President,,LIB,"Uncommitted,",2
+WASHINGTON,President,,CST,"Phillips, Howard",2
+WASHINGTON,President,,CST,"Uncommitted,",0
+WAYNE,President,,DEM,"Bradley, Bill",204
+WAYNE,President,,DEM,"Gore, Al",453
+WAYNE,President,,DEM,"LaRouche Jr., Lyndon",4
+WAYNE,President,,DEM,"Price, Pat",6
+WAYNE,President,,DEM,"Uncommitted,",11
+WAYNE,President,,REP,"Forbes, Steve",8
+WAYNE,President,,REP,"Bush, George",778
+WAYNE,President,,REP,"McCain, John",304
+WAYNE,President,,REP,"Bauer, Gary",1
+WAYNE,President,,REP,"Keyes, Alan",35
+WAYNE,President,,REP,"Hornung, Lawrence",0
+WAYNE,President,,REP,"Hatch, Orrin",0
+WAYNE,President,,REP,"Uncommitted,",3
+WAYNE,President,,LIB,"Browne, Harry",0
+WAYNE,President,,LIB,"Hollist, David",0
+WAYNE,President,,LIB,"Hines, Larry",0
+WAYNE,President,,LIB,"Uncommitted,",0
+WAYNE,President,,CST,"Phillips, Howard",2
+WAYNE,President,,CST,"Uncommitted,",0
+WEBSTER,President,,DEM,"Bradley, Bill",144
+WEBSTER,President,,DEM,"Gore, Al",589
+WEBSTER,President,,DEM,"LaRouche Jr., Lyndon",1
+WEBSTER,President,,DEM,"Price, Pat",2
+WEBSTER,President,,DEM,"Uncommitted,",24
+WEBSTER,President,,REP,"Forbes, Steve",10
+WEBSTER,President,,REP,"Bush, George",1994
+WEBSTER,President,,REP,"McCain, John",973
+WEBSTER,President,,REP,"Bauer, Gary",6
+WEBSTER,President,,REP,"Keyes, Alan",213
+WEBSTER,President,,REP,"Hornung, Lawrence",1
+WEBSTER,President,,REP,"Hatch, Orrin",2
+WEBSTER,President,,REP,"Uncommitted,",9
+WEBSTER,President,,LIB,"Browne, Harry",3
+WEBSTER,President,,LIB,"Hollist, David",0
+WEBSTER,President,,LIB,"Hines, Larry",0
+WEBSTER,President,,LIB,"Uncommitted,",0
+WEBSTER,President,,CST,"Phillips, Howard",2
+WEBSTER,President,,CST,"Uncommitted,",0
+WORTH,President,,DEM,"Bradley, Bill",38
+WORTH,President,,DEM,"Gore, Al",101
+WORTH,President,,DEM,"LaRouche Jr., Lyndon",4
+WORTH,President,,DEM,"Price, Pat",0
+WORTH,President,,DEM,"Uncommitted,",4
+WORTH,President,,REP,"Forbes, Steve",2
+WORTH,President,,REP,"Bush, George",168
+WORTH,President,,REP,"McCain, John",89
+WORTH,President,,REP,"Bauer, Gary",1
+WORTH,President,,REP,"Keyes, Alan",4
+WORTH,President,,REP,"Hornung, Lawrence",0
+WORTH,President,,REP,"Hatch, Orrin",0
+WORTH,President,,REP,"Uncommitted,",0
+WORTH,President,,LIB,"Browne, Harry",0
+WORTH,President,,LIB,"Hollist, David",0
+WORTH,President,,LIB,"Hines, Larry",0
+WORTH,President,,LIB,"Uncommitted,",0
+WORTH,President,,CST,"Phillips, Howard",0
+WORTH,President,,CST,"Uncommitted,",0
+WRIGHT,President,,DEM,"Bradley, Bill",74
+WRIGHT,President,,DEM,"Gore, Al",255
+WRIGHT,President,,DEM,"LaRouche Jr., Lyndon",4
+WRIGHT,President,,DEM,"Price, Pat",2
+WRIGHT,President,,DEM,"Uncommitted,",6
+WRIGHT,President,,REP,"Forbes, Steve",13
+WRIGHT,President,,REP,"Bush, George",1578
+WRIGHT,President,,REP,"McCain, John",678
+WRIGHT,President,,REP,"Bauer, Gary",5
+WRIGHT,President,,REP,"Keyes, Alan",172
+WRIGHT,President,,REP,"Hornung, Lawrence",0
+WRIGHT,President,,REP,"Hatch, Orrin",0
+WRIGHT,President,,REP,"Uncommitted,",8
+WRIGHT,President,,LIB,"Browne, Harry",1
+WRIGHT,President,,LIB,"Hollist, David",0
+WRIGHT,President,,LIB,"Hines, Larry",0
+WRIGHT,President,,LIB,"Uncommitted,",1
+WRIGHT,President,,CST,"Phillips, Howard",3
+WRIGHT,President,,CST,"Uncommitted,",0
