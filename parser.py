@@ -4,6 +4,12 @@ headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'vo
 
 party_abbrevs = ['REP', 'DEM', 'CST', 'LIB', 'WI', 'WI2', 'WI3', 'WI4', 'WI5', 'WI6']
 
+office_lookup = {'U.S. President And Vice President': 'President', 'Governor': 'Governor',
+    'Lieutenant Governor': 'Lieutenant Governor', 'Secretary Of State': 'Secretary of State',
+    'State Treasurer': 'State Treasurer', 'Attorney General': 'Attorney General', 'U.S. Representative':
+    'U.S. House', 'State Representative': 'State House', 'State Senator': 'State Senate',
+    'U.S. Senator': 'U.S. Senate', 'State Auditor': 'State Auditor'}
+
 counties = ['ADAIR','ANDREW','ATCHISON','AUDRAIN','BARRY','BARTON','BATES','BENTON','BOLLINGER','BOONE',
     'BUCHANAN','BUTLER','CALDWELL','CALLAWAY','CAMDEN','CAPE GIRARDEAU','CARROLL','CARTER','CASS','CEDAR',
     'CHARITON','CHRISTIAN','CLARK','CLAY','CLINTON','COLE','COOPER','CRAWFORD','DADE','DALLAS','DAVIESS',
@@ -18,9 +24,13 @@ counties = ['ADAIR','ANDREW','ATCHISON','AUDRAIN','BARRY','BARTON','BATES','BENT
 
 def skip_check(line):
     p = False
-    if line.strip() == 'General Election':
+    if 'General Election' in line:
         p = True
-    elif line.strip() == 'Tuesday, November 02, 2010':
+    elif line.strip() == 'Primary':
+        p = True
+    elif 'enrweb' in line:
+        p = True
+    elif line.strip() == 'Tuesday, November 02, 2004':
         p = True
     elif line.strip() == '\n':
         p = True
@@ -34,9 +44,9 @@ def skip_check(line):
         p = True
     elif 'Board on State Canvassers' in line:
         p = True
-    elif 'on Tuesday, November 30, 2010' in line:
+    elif 'on Wednesday, December 01, 2004' in line:
         p = True
-    elif 'Office   Candidate' in line:
+    elif 'Office Candidate' in line:
         p = True
     elif 'Total Votes' in line:
         p = True
@@ -56,11 +66,11 @@ def skip_check(line):
         p = True
     return p
 
-with open('20101102__mo__general.csv', 'wb') as csvfile:
+with open('20041102__mo__general.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open("/Users/derekwillis/Downloads/CountyGeneral2010.txt").readlines()
+    lines = open("/Users/derekwillis/Downloads/CountyGeneral2004.txt").readlines()
     keys = []
     for line in lines:
         if skip_check(line):
@@ -73,11 +83,14 @@ with open('20101102__mo__general.csv', 'wb') as csvfile:
             if 'District' in office:
                 try:
                     office, district = office.split(' District ')
-                    office = office.strip()
                 except:
                     continue
             else:
                 district = None
+            try:
+                office = office_lookup[office.strip()]
+            except:
+                office = office
             keys = []
         else:
             candidate_bits = [x.strip() for x in line.split('   ') if x.strip() != '']
