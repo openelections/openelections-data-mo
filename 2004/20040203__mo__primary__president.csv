@@ -1,0 +1,2260 @@
+county,precinct,office,district,party,candidate,votes
+ADAIR,President,,DEM,"Lieberman, Joe",49
+ADAIR,President,,DEM,"Kucinich, Dennis J.",29
+ADAIR,President,,DEM,"Gephardt, Dick",20
+ADAIR,President,,DEM,"Clark, Wesley K.",72
+ADAIR,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+ADAIR,President,,DEM,"Edwards, John",567
+ADAIR,President,,DEM,"Kerry, John F.",721
+ADAIR,President,,DEM,"Dean, Howard",218
+ADAIR,President,,DEM,"Penna, Fern",1
+ADAIR,President,,DEM,"Sharpton, Al",17
+ADAIR,President,,DEM,"Moseley Braun, Carol",3
+ADAIR,President,,DEM,Uncommitted,15
+ADAIR,President,,REP,"Bush, George W.",478
+ADAIR,President,,REP,"Wyatt, Bill",3
+ADAIR,President,,REP,"Ashby, Blake",1
+ADAIR,President,,REP,Uncommitted,22
+ADAIR,President,,LIB,"Nolan, Gary",2
+ADAIR,President,,LIB,"Perez, N. Ruben",0
+ADAIR,President,,LIB,"Diket, Jeffrey H.",0
+ADAIR,President,,LIB,Uncommitted,3
+ANDREW,President,,DEM,"Lieberman, Joe",20
+ANDREW,President,,DEM,"Kucinich, Dennis J.",2
+ANDREW,President,,DEM,"Gephardt, Dick",23
+ANDREW,President,,DEM,"Clark, Wesley K.",14
+ANDREW,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+ANDREW,President,,DEM,"Edwards, John",197
+ANDREW,President,,DEM,"Kerry, John F.",406
+ANDREW,President,,DEM,"Dean, Howard",62
+ANDREW,President,,DEM,"Penna, Fern",1
+ANDREW,President,,DEM,"Sharpton, Al",7
+ANDREW,President,,DEM,"Moseley Braun, Carol",1
+ANDREW,President,,DEM,Uncommitted,5
+ANDREW,President,,REP,"Bush, George W.",328
+ANDREW,President,,REP,"Wyatt, Bill",4
+ANDREW,President,,REP,"Ashby, Blake",3
+ANDREW,President,,REP,Uncommitted,8
+ANDREW,President,,LIB,"Nolan, Gary",2
+ANDREW,President,,LIB,"Perez, N. Ruben",0
+ANDREW,President,,LIB,"Diket, Jeffrey H.",1
+ANDREW,President,,LIB,Uncommitted,0
+ATCHISON,President,,DEM,"Lieberman, Joe",8
+ATCHISON,President,,DEM,"Kucinich, Dennis J.",3
+ATCHISON,President,,DEM,"Gephardt, Dick",7
+ATCHISON,President,,DEM,"Clark, Wesley K.",12
+ATCHISON,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+ATCHISON,President,,DEM,"Edwards, John",77
+ATCHISON,President,,DEM,"Kerry, John F.",177
+ATCHISON,President,,DEM,"Dean, Howard",16
+ATCHISON,President,,DEM,"Penna, Fern",0
+ATCHISON,President,,DEM,"Sharpton, Al",8
+ATCHISON,President,,DEM,"Moseley Braun, Carol",0
+ATCHISON,President,,DEM,Uncommitted,3
+ATCHISON,President,,REP,"Bush, George W.",139
+ATCHISON,President,,REP,"Wyatt, Bill",0
+ATCHISON,President,,REP,"Ashby, Blake",2
+ATCHISON,President,,REP,Uncommitted,2
+ATCHISON,President,,LIB,"Nolan, Gary",0
+ATCHISON,President,,LIB,"Perez, N. Ruben",0
+ATCHISON,President,,LIB,"Diket, Jeffrey H.",0
+ATCHISON,President,,LIB,Uncommitted,0
+AUDRAIN,President,,DEM,"Lieberman, Joe",43
+AUDRAIN,President,,DEM,"Kucinich, Dennis J.",12
+AUDRAIN,President,,DEM,"Gephardt, Dick",12
+AUDRAIN,President,,DEM,"Clark, Wesley K.",52
+AUDRAIN,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+AUDRAIN,President,,DEM,"Edwards, John",452
+AUDRAIN,President,,DEM,"Kerry, John F.",700
+AUDRAIN,President,,DEM,"Dean, Howard",104
+AUDRAIN,President,,DEM,"Penna, Fern",2
+AUDRAIN,President,,DEM,"Sharpton, Al",16
+AUDRAIN,President,,DEM,"Moseley Braun, Carol",3
+AUDRAIN,President,,DEM,Uncommitted,7
+AUDRAIN,President,,REP,"Bush, George W.",234
+AUDRAIN,President,,REP,"Wyatt, Bill",2
+AUDRAIN,President,,REP,"Ashby, Blake",0
+AUDRAIN,President,,REP,Uncommitted,5
+AUDRAIN,President,,LIB,"Nolan, Gary",2
+AUDRAIN,President,,LIB,"Perez, N. Ruben",0
+AUDRAIN,President,,LIB,"Diket, Jeffrey H.",0
+AUDRAIN,President,,LIB,Uncommitted,1
+BARRY,President,,DEM,"Lieberman, Joe",36
+BARRY,President,,DEM,"Kucinich, Dennis J.",4
+BARRY,President,,DEM,"Gephardt, Dick",27
+BARRY,President,,DEM,"Clark, Wesley K.",118
+BARRY,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+BARRY,President,,DEM,"Edwards, John",697
+BARRY,President,,DEM,"Kerry, John F.",762
+BARRY,President,,DEM,"Dean, Howard",90
+BARRY,President,,DEM,"Penna, Fern",2
+BARRY,President,,DEM,"Sharpton, Al",22
+BARRY,President,,DEM,"Moseley Braun, Carol",5
+BARRY,President,,DEM,Uncommitted,12
+BARRY,President,,REP,"Bush, George W.",928
+BARRY,President,,REP,"Wyatt, Bill",7
+BARRY,President,,REP,"Ashby, Blake",7
+BARRY,President,,REP,Uncommitted,20
+BARRY,President,,LIB,"Nolan, Gary",3
+BARRY,President,,LIB,"Perez, N. Ruben",2
+BARRY,President,,LIB,"Diket, Jeffrey H.",0
+BARRY,President,,LIB,Uncommitted,5
+BARTON,President,,DEM,"Lieberman, Joe",75
+BARTON,President,,DEM,"Kucinich, Dennis J.",5
+BARTON,President,,DEM,"Gephardt, Dick",37
+BARTON,President,,DEM,"Clark, Wesley K.",91
+BARTON,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+BARTON,President,,DEM,"Edwards, John",291
+BARTON,President,,DEM,"Kerry, John F.",579
+BARTON,President,,DEM,"Dean, Howard",80
+BARTON,President,,DEM,"Penna, Fern",4
+BARTON,President,,DEM,"Sharpton, Al",21
+BARTON,President,,DEM,"Moseley Braun, Carol",10
+BARTON,President,,DEM,Uncommitted,54
+BARTON,President,,REP,"Bush, George W.",1487
+BARTON,President,,REP,"Wyatt, Bill",7
+BARTON,President,,REP,"Ashby, Blake",2
+BARTON,President,,REP,Uncommitted,69
+BARTON,President,,LIB,"Nolan, Gary",0
+BARTON,President,,LIB,"Perez, N. Ruben",1
+BARTON,President,,LIB,"Diket, Jeffrey H.",1
+BARTON,President,,LIB,Uncommitted,12
+BATES,President,,DEM,"Lieberman, Joe",38
+BATES,President,,DEM,"Kucinich, Dennis J.",4
+BATES,President,,DEM,"Gephardt, Dick",28
+BATES,President,,DEM,"Clark, Wesley K.",62
+BATES,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+BATES,President,,DEM,"Edwards, John",352
+BATES,President,,DEM,"Kerry, John F.",615
+BATES,President,,DEM,"Dean, Howard",98
+BATES,President,,DEM,"Penna, Fern",1
+BATES,President,,DEM,"Sharpton, Al",4
+BATES,President,,DEM,"Moseley Braun, Carol",2
+BATES,President,,DEM,Uncommitted,12
+BATES,President,,REP,"Bush, George W.",329
+BATES,President,,REP,"Wyatt, Bill",3
+BATES,President,,REP,"Ashby, Blake",2
+BATES,President,,REP,Uncommitted,7
+BATES,President,,LIB,"Nolan, Gary",5
+BATES,President,,LIB,"Perez, N. Ruben",0
+BATES,President,,LIB,"Diket, Jeffrey H.",2
+BATES,President,,LIB,Uncommitted,3
+BENTON,President,,DEM,"Lieberman, Joe",21
+BENTON,President,,DEM,"Kucinich, Dennis J.",7
+BENTON,President,,DEM,"Gephardt, Dick",13
+BENTON,President,,DEM,"Clark, Wesley K.",34
+BENTON,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+BENTON,President,,DEM,"Edwards, John",438
+BENTON,President,,DEM,"Kerry, John F.",634
+BENTON,President,,DEM,"Dean, Howard",73
+BENTON,President,,DEM,"Penna, Fern",0
+BENTON,President,,DEM,"Sharpton, Al",8
+BENTON,President,,DEM,"Moseley Braun, Carol",1
+BENTON,President,,DEM,Uncommitted,8
+BENTON,President,,REP,"Bush, George W.",436
+BENTON,President,,REP,"Wyatt, Bill",3
+BENTON,President,,REP,"Ashby, Blake",4
+BENTON,President,,REP,Uncommitted,8
+BENTON,President,,LIB,"Nolan, Gary",3
+BENTON,President,,LIB,"Perez, N. Ruben",0
+BENTON,President,,LIB,"Diket, Jeffrey H.",0
+BENTON,President,,LIB,Uncommitted,3
+BOLLINGER,President,,DEM,"Lieberman, Joe",18
+BOLLINGER,President,,DEM,"Kucinich, Dennis J.",5
+BOLLINGER,President,,DEM,"Gephardt, Dick",1
+BOLLINGER,President,,DEM,"Clark, Wesley K.",20
+BOLLINGER,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+BOLLINGER,President,,DEM,"Edwards, John",175
+BOLLINGER,President,,DEM,"Kerry, John F.",249
+BOLLINGER,President,,DEM,"Dean, Howard",35
+BOLLINGER,President,,DEM,"Penna, Fern",0
+BOLLINGER,President,,DEM,"Sharpton, Al",6
+BOLLINGER,President,,DEM,"Moseley Braun, Carol",0
+BOLLINGER,President,,DEM,Uncommitted,1
+BOLLINGER,President,,REP,"Bush, George W.",235
+BOLLINGER,President,,REP,"Wyatt, Bill",1
+BOLLINGER,President,,REP,"Ashby, Blake",3
+BOLLINGER,President,,REP,Uncommitted,5
+BOLLINGER,President,,LIB,"Nolan, Gary",0
+BOLLINGER,President,,LIB,"Perez, N. Ruben",0
+BOLLINGER,President,,LIB,"Diket, Jeffrey H.",1
+BOLLINGER,President,,LIB,Uncommitted,0
+BOONE,President,,DEM,"Lieberman, Joe",539
+BOONE,President,,DEM,"Kucinich, Dennis J.",525
+BOONE,President,,DEM,"Gephardt, Dick",81
+BOONE,President,,DEM,"Clark, Wesley K.",783
+BOONE,President,,DEM,"LaRouche, Lyndon H. Jr.",11
+BOONE,President,,DEM,"Edwards, John",3049
+BOONE,President,,DEM,"Kerry, John F.",5756
+BOONE,President,,DEM,"Dean, Howard",1883
+BOONE,President,,DEM,"Penna, Fern",7
+BOONE,President,,DEM,"Sharpton, Al",215
+BOONE,President,,DEM,"Moseley Braun, Carol",22
+BOONE,President,,DEM,Uncommitted,103
+BOONE,President,,REP,"Bush, George W.",2491
+BOONE,President,,REP,"Wyatt, Bill",21
+BOONE,President,,REP,"Ashby, Blake",26
+BOONE,President,,REP,Uncommitted,58
+BOONE,President,,LIB,"Nolan, Gary",57
+BOONE,President,,LIB,"Perez, N. Ruben",12
+BOONE,President,,LIB,"Diket, Jeffrey H.",3
+BOONE,President,,LIB,Uncommitted,23
+BUCHANAN,President,,DEM,"Lieberman, Joe",697
+BUCHANAN,President,,DEM,"Kucinich, Dennis J.",63
+BUCHANAN,President,,DEM,"Gephardt, Dick",536
+BUCHANAN,President,,DEM,"Clark, Wesley K.",596
+BUCHANAN,President,,DEM,"LaRouche, Lyndon H. Jr.",15
+BUCHANAN,President,,DEM,"Edwards, John",2271
+BUCHANAN,President,,DEM,"Kerry, John F.",5643
+BUCHANAN,President,,DEM,"Dean, Howard",1119
+BUCHANAN,President,,DEM,"Penna, Fern",19
+BUCHANAN,President,,DEM,"Sharpton, Al",132
+BUCHANAN,President,,DEM,"Moseley Braun, Carol",47
+BUCHANAN,President,,DEM,Uncommitted,611
+BUCHANAN,President,,REP,"Bush, George W.",3886
+BUCHANAN,President,,REP,"Wyatt, Bill",46
+BUCHANAN,President,,REP,"Ashby, Blake",37
+BUCHANAN,President,,REP,Uncommitted,250
+BUCHANAN,President,,LIB,"Nolan, Gary",40
+BUCHANAN,President,,LIB,"Perez, N. Ruben",10
+BUCHANAN,President,,LIB,"Diket, Jeffrey H.",9
+BUCHANAN,President,,LIB,Uncommitted,75
+BUTLER,President,,DEM,"Lieberman, Joe",36
+BUTLER,President,,DEM,"Kucinich, Dennis J.",9
+BUTLER,President,,DEM,"Gephardt, Dick",10
+BUTLER,President,,DEM,"Clark, Wesley K.",67
+BUTLER,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+BUTLER,President,,DEM,"Edwards, John",418
+BUTLER,President,,DEM,"Kerry, John F.",664
+BUTLER,President,,DEM,"Dean, Howard",93
+BUTLER,President,,DEM,"Penna, Fern",0
+BUTLER,President,,DEM,"Sharpton, Al",16
+BUTLER,President,,DEM,"Moseley Braun, Carol",3
+BUTLER,President,,DEM,Uncommitted,12
+BUTLER,President,,REP,"Bush, George W.",361
+BUTLER,President,,REP,"Wyatt, Bill",2
+BUTLER,President,,REP,"Ashby, Blake",1
+BUTLER,President,,REP,Uncommitted,6
+BUTLER,President,,LIB,"Nolan, Gary",3
+BUTLER,President,,LIB,"Perez, N. Ruben",1
+BUTLER,President,,LIB,"Diket, Jeffrey H.",0
+BUTLER,President,,LIB,Uncommitted,2
+CALDWELL,President,,DEM,"Lieberman, Joe",9
+CALDWELL,President,,DEM,"Kucinich, Dennis J.",4
+CALDWELL,President,,DEM,"Gephardt, Dick",5
+CALDWELL,President,,DEM,"Clark, Wesley K.",12
+CALDWELL,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+CALDWELL,President,,DEM,"Edwards, John",137
+CALDWELL,President,,DEM,"Kerry, John F.",212
+CALDWELL,President,,DEM,"Dean, Howard",21
+CALDWELL,President,,DEM,"Penna, Fern",2
+CALDWELL,President,,DEM,"Sharpton, Al",1
+CALDWELL,President,,DEM,"Moseley Braun, Carol",0
+CALDWELL,President,,DEM,Uncommitted,2
+CALDWELL,President,,REP,"Bush, George W.",117
+CALDWELL,President,,REP,"Wyatt, Bill",1
+CALDWELL,President,,REP,"Ashby, Blake",2
+CALDWELL,President,,REP,Uncommitted,0
+CALDWELL,President,,LIB,"Nolan, Gary",0
+CALDWELL,President,,LIB,"Perez, N. Ruben",1
+CALDWELL,President,,LIB,"Diket, Jeffrey H.",0
+CALDWELL,President,,LIB,Uncommitted,0
+CALLAWAY,President,,DEM,"Lieberman, Joe",83
+CALLAWAY,President,,DEM,"Kucinich, Dennis J.",16
+CALLAWAY,President,,DEM,"Gephardt, Dick",23
+CALLAWAY,President,,DEM,"Clark, Wesley K.",71
+CALLAWAY,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+CALLAWAY,President,,DEM,"Edwards, John",728
+CALLAWAY,President,,DEM,"Kerry, John F.",928
+CALLAWAY,President,,DEM,"Dean, Howard",185
+CALLAWAY,President,,DEM,"Penna, Fern",0
+CALLAWAY,President,,DEM,"Sharpton, Al",39
+CALLAWAY,President,,DEM,"Moseley Braun, Carol",3
+CALLAWAY,President,,DEM,Uncommitted,10
+CALLAWAY,President,,REP,"Bush, George W.",362
+CALLAWAY,President,,REP,"Wyatt, Bill",3
+CALLAWAY,President,,REP,"Ashby, Blake",4
+CALLAWAY,President,,REP,Uncommitted,5
+CALLAWAY,President,,LIB,"Nolan, Gary",4
+CALLAWAY,President,,LIB,"Perez, N. Ruben",0
+CALLAWAY,President,,LIB,"Diket, Jeffrey H.",0
+CALLAWAY,President,,LIB,Uncommitted,1
+CAMDEN,President,,DEM,"Lieberman, Joe",53
+CAMDEN,President,,DEM,"Kucinich, Dennis J.",9
+CAMDEN,President,,DEM,"Gephardt, Dick",22
+CAMDEN,President,,DEM,"Clark, Wesley K.",103
+CAMDEN,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+CAMDEN,President,,DEM,"Edwards, John",670
+CAMDEN,President,,DEM,"Kerry, John F.",922
+CAMDEN,President,,DEM,"Dean, Howard",169
+CAMDEN,President,,DEM,"Penna, Fern",1
+CAMDEN,President,,DEM,"Sharpton, Al",21
+CAMDEN,President,,DEM,"Moseley Braun, Carol",4
+CAMDEN,President,,DEM,Uncommitted,6
+CAMDEN,President,,REP,"Bush, George W.",707
+CAMDEN,President,,REP,"Wyatt, Bill",13
+CAMDEN,President,,REP,"Ashby, Blake",8
+CAMDEN,President,,REP,Uncommitted,24
+CAMDEN,President,,LIB,"Nolan, Gary",5
+CAMDEN,President,,LIB,"Perez, N. Ruben",0
+CAMDEN,President,,LIB,"Diket, Jeffrey H.",0
+CAMDEN,President,,LIB,Uncommitted,2
+CAPE GIRARDEAU,President,,DEM,"Lieberman, Joe",99
+CAPE GIRARDEAU,President,,DEM,"Kucinich, Dennis J.",19
+CAPE GIRARDEAU,President,,DEM,"Gephardt, Dick",32
+CAPE GIRARDEAU,President,,DEM,"Clark, Wesley K.",143
+CAPE GIRARDEAU,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+CAPE GIRARDEAU,President,,DEM,"Edwards, John",760
+CAPE GIRARDEAU,President,,DEM,"Kerry, John F.",1436
+CAPE GIRARDEAU,President,,DEM,"Dean, Howard",253
+CAPE GIRARDEAU,President,,DEM,"Penna, Fern",4
+CAPE GIRARDEAU,President,,DEM,"Sharpton, Al",55
+CAPE GIRARDEAU,President,,DEM,"Moseley Braun, Carol",6
+CAPE GIRARDEAU,President,,DEM,Uncommitted,9
+CAPE GIRARDEAU,President,,REP,"Bush, George W.",824
+CAPE GIRARDEAU,President,,REP,"Wyatt, Bill",21
+CAPE GIRARDEAU,President,,REP,"Ashby, Blake",5
+CAPE GIRARDEAU,President,,REP,Uncommitted,13
+CAPE GIRARDEAU,President,,LIB,"Nolan, Gary",13
+CAPE GIRARDEAU,President,,LIB,"Perez, N. Ruben",1
+CAPE GIRARDEAU,President,,LIB,"Diket, Jeffrey H.",0
+CAPE GIRARDEAU,President,,LIB,Uncommitted,4
+CARROLL,President,,DEM,"Lieberman, Joe",17
+CARROLL,President,,DEM,"Kucinich, Dennis J.",4
+CARROLL,President,,DEM,"Gephardt, Dick",13
+CARROLL,President,,DEM,"Clark, Wesley K.",24
+CARROLL,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+CARROLL,President,,DEM,"Edwards, John",130
+CARROLL,President,,DEM,"Kerry, John F.",287
+CARROLL,President,,DEM,"Dean, Howard",41
+CARROLL,President,,DEM,"Penna, Fern",1
+CARROLL,President,,DEM,"Sharpton, Al",6
+CARROLL,President,,DEM,"Moseley Braun, Carol",1
+CARROLL,President,,DEM,Uncommitted,8
+CARROLL,President,,REP,"Bush, George W.",242
+CARROLL,President,,REP,"Wyatt, Bill",4
+CARROLL,President,,REP,"Ashby, Blake",2
+CARROLL,President,,REP,Uncommitted,7
+CARROLL,President,,LIB,"Nolan, Gary",2
+CARROLL,President,,LIB,"Perez, N. Ruben",2
+CARROLL,President,,LIB,"Diket, Jeffrey H.",0
+CARROLL,President,,LIB,Uncommitted,1
+CARTER,President,,DEM,"Lieberman, Joe",8
+CARTER,President,,DEM,"Kucinich, Dennis J.",14
+CARTER,President,,DEM,"Gephardt, Dick",3
+CARTER,President,,DEM,"Clark, Wesley K.",34
+CARTER,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+CARTER,President,,DEM,"Edwards, John",99
+CARTER,President,,DEM,"Kerry, John F.",184
+CARTER,President,,DEM,"Dean, Howard",15
+CARTER,President,,DEM,"Penna, Fern",0
+CARTER,President,,DEM,"Sharpton, Al",2
+CARTER,President,,DEM,"Moseley Braun, Carol",1
+CARTER,President,,DEM,Uncommitted,4
+CARTER,President,,REP,"Bush, George W.",74
+CARTER,President,,REP,"Wyatt, Bill",2
+CARTER,President,,REP,"Ashby, Blake",1
+CARTER,President,,REP,Uncommitted,0
+CARTER,President,,LIB,"Nolan, Gary",0
+CARTER,President,,LIB,"Perez, N. Ruben",0
+CARTER,President,,LIB,"Diket, Jeffrey H.",0
+CARTER,President,,LIB,Uncommitted,0
+CASS,President,,DEM,"Lieberman, Joe",202
+CASS,President,,DEM,"Kucinich, Dennis J.",29
+CASS,President,,DEM,"Gephardt, Dick",79
+CASS,President,,DEM,"Clark, Wesley K.",188
+CASS,President,,DEM,"LaRouche, Lyndon H. Jr.",5
+CASS,President,,DEM,"Edwards, John",1554
+CASS,President,,DEM,"Kerry, John F.",2586
+CASS,President,,DEM,"Dean, Howard",428
+CASS,President,,DEM,"Penna, Fern",4
+CASS,President,,DEM,"Sharpton, Al",49
+CASS,President,,DEM,"Moseley Braun, Carol",8
+CASS,President,,DEM,Uncommitted,46
+CASS,President,,REP,"Bush, George W.",924
+CASS,President,,REP,"Wyatt, Bill",11
+CASS,President,,REP,"Ashby, Blake",10
+CASS,President,,REP,Uncommitted,22
+CASS,President,,LIB,"Nolan, Gary",18
+CASS,President,,LIB,"Perez, N. Ruben",2
+CASS,President,,LIB,"Diket, Jeffrey H.",3
+CASS,President,,LIB,Uncommitted,8
+CEDAR,President,,DEM,"Lieberman, Joe",22
+CEDAR,President,,DEM,"Kucinich, Dennis J.",5
+CEDAR,President,,DEM,"Gephardt, Dick",13
+CEDAR,President,,DEM,"Clark, Wesley K.",47
+CEDAR,President,,DEM,"Edwards, John",338
+CEDAR,President,,DEM,"Kerry, John F.",442
+CEDAR,President,,DEM,"Dean, Howard",65
+CEDAR,President,,DEM,"Penna, Fern",0
+CEDAR,President,,DEM,"Sharpton, Al",7
+CEDAR,President,,DEM,"Moseley Braun, Carol",2
+CEDAR,President,,DEM,Uncommitted,9
+CEDAR,President,,REP,"Bush, George W.",418
+CEDAR,President,,REP,"Wyatt, Bill",9
+CEDAR,President,,REP,"Ashby, Blake",3
+CEDAR,President,,REP,Uncommitted,15
+CEDAR,President,,LIB,"Nolan, Gary",5
+CEDAR,President,,LIB,"Perez, N. Ruben",0
+CEDAR,President,,LIB,"Diket, Jeffrey H.",1
+CEDAR,President,,LIB,Uncommitted,2
+CHARITON,President,,DEM,"Lieberman, Joe",28
+CHARITON,President,,DEM,"Kucinich, Dennis J.",1
+CHARITON,President,,DEM,"Gephardt, Dick",12
+CHARITON,President,,DEM,"Clark, Wesley K.",38
+CHARITON,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+CHARITON,President,,DEM,"Edwards, John",214
+CHARITON,President,,DEM,"Kerry, John F.",360
+CHARITON,President,,DEM,"Dean, Howard",47
+CHARITON,President,,DEM,"Penna, Fern",0
+CHARITON,President,,DEM,"Sharpton, Al",3
+CHARITON,President,,DEM,"Moseley Braun, Carol",0
+CHARITON,President,,DEM,Uncommitted,11
+CHARITON,President,,REP,"Bush, George W.",149
+CHARITON,President,,REP,"Wyatt, Bill",2
+CHARITON,President,,REP,"Ashby, Blake",1
+CHARITON,President,,REP,Uncommitted,1
+CHARITON,President,,LIB,"Nolan, Gary",1
+CHARITON,President,,LIB,"Perez, N. Ruben",0
+CHARITON,President,,LIB,"Diket, Jeffrey H.",1
+CHARITON,President,,LIB,Uncommitted,1
+CHRISTIAN,President,,DEM,"Lieberman, Joe",164
+CHRISTIAN,President,,DEM,"Kucinich, Dennis J.",22
+CHRISTIAN,President,,DEM,"Gephardt, Dick",48
+CHRISTIAN,President,,DEM,"Clark, Wesley K.",258
+CHRISTIAN,President,,DEM,"LaRouche, Lyndon H. Jr.",5
+CHRISTIAN,President,,DEM,"Edwards, John",1689
+CHRISTIAN,President,,DEM,"Kerry, John F.",1734
+CHRISTIAN,President,,DEM,"Dean, Howard",271
+CHRISTIAN,President,,DEM,"Penna, Fern",3
+CHRISTIAN,President,,DEM,"Sharpton, Al",45
+CHRISTIAN,President,,DEM,"Moseley Braun, Carol",12
+CHRISTIAN,President,,DEM,Uncommitted,77
+CHRISTIAN,President,,REP,"Bush, George W.",3234
+CHRISTIAN,President,,REP,"Wyatt, Bill",21
+CHRISTIAN,President,,REP,"Ashby, Blake",16
+CHRISTIAN,President,,REP,Uncommitted,140
+CHRISTIAN,President,,LIB,"Nolan, Gary",11
+CHRISTIAN,President,,LIB,"Perez, N. Ruben",1
+CHRISTIAN,President,,LIB,"Diket, Jeffrey H.",1
+CHRISTIAN,President,,LIB,Uncommitted,16
+CLARK,President,,DEM,"Lieberman, Joe",7
+CLARK,President,,DEM,"Kucinich, Dennis J.",3
+CLARK,President,,DEM,"Gephardt, Dick",8
+CLARK,President,,DEM,"Clark, Wesley K.",15
+CLARK,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+CLARK,President,,DEM,"Edwards, John",134
+CLARK,President,,DEM,"Kerry, John F.",258
+CLARK,President,,DEM,"Dean, Howard",63
+CLARK,President,,DEM,"Penna, Fern",0
+CLARK,President,,DEM,"Sharpton, Al",4
+CLARK,President,,DEM,"Moseley Braun, Carol",1
+CLARK,President,,DEM,Uncommitted,1
+CLARK,President,,REP,"Bush, George W.",79
+CLARK,President,,REP,"Wyatt, Bill",1
+CLARK,President,,REP,"Ashby, Blake",2
+CLARK,President,,REP,Uncommitted,4
+CLARK,President,,LIB,"Nolan, Gary",0
+CLARK,President,,LIB,"Perez, N. Ruben",0
+CLARK,President,,LIB,"Diket, Jeffrey H.",0
+CLARK,President,,LIB,Uncommitted,0
+CLAY,President,,DEM,"Lieberman, Joe",459
+CLAY,President,,DEM,"Kucinich, Dennis J.",114
+CLAY,President,,DEM,"Gephardt, Dick",163
+CLAY,President,,DEM,"Clark, Wesley K.",481
+CLAY,President,,DEM,"LaRouche, Lyndon H. Jr.",7
+CLAY,President,,DEM,"Edwards, John",3040
+CLAY,President,,DEM,"Kerry, John F.",5741
+CLAY,President,,DEM,"Dean, Howard",966
+CLAY,President,,DEM,"Penna, Fern",3
+CLAY,President,,DEM,"Sharpton, Al",81
+CLAY,President,,DEM,"Moseley Braun, Carol",21
+CLAY,President,,DEM,Uncommitted,65
+CLAY,President,,REP,"Bush, George W.",1487
+CLAY,President,,REP,"Wyatt, Bill",28
+CLAY,President,,REP,"Ashby, Blake",23
+CLAY,President,,REP,Uncommitted,55
+CLAY,President,,LIB,"Nolan, Gary",12
+CLAY,President,,LIB,"Perez, N. Ruben",9
+CLAY,President,,LIB,"Diket, Jeffrey H.",4
+CLAY,President,,LIB,Uncommitted,14
+CLINTON,President,,DEM,"Lieberman, Joe",66
+CLINTON,President,,DEM,"Kucinich, Dennis J.",8
+CLINTON,President,,DEM,"Gephardt, Dick",46
+CLINTON,President,,DEM,"Clark, Wesley K.",75
+CLINTON,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+CLINTON,President,,DEM,"Edwards, John",458
+CLINTON,President,,DEM,"Kerry, John F.",830
+CLINTON,President,,DEM,"Dean, Howard",119
+CLINTON,President,,DEM,"Penna, Fern",5
+CLINTON,President,,DEM,"Sharpton, Al",24
+CLINTON,President,,DEM,"Moseley Braun, Carol",7
+CLINTON,President,,DEM,Uncommitted,50
+CLINTON,President,,REP,"Bush, George W.",409
+CLINTON,President,,REP,"Wyatt, Bill",4
+CLINTON,President,,REP,"Ashby, Blake",3
+CLINTON,President,,REP,Uncommitted,22
+CLINTON,President,,LIB,"Nolan, Gary",5
+CLINTON,President,,LIB,"Perez, N. Ruben",0
+CLINTON,President,,LIB,"Diket, Jeffrey H.",0
+CLINTON,President,,LIB,Uncommitted,4
+COLE,President,,DEM,"Lieberman, Joe",243
+COLE,President,,DEM,"Kucinich, Dennis J.",59
+COLE,President,,DEM,"Gephardt, Dick",35
+COLE,President,,DEM,"Clark, Wesley K.",158
+COLE,President,,DEM,"LaRouche, Lyndon H. Jr.",9
+COLE,President,,DEM,"Edwards, John",1304
+COLE,President,,DEM,"Kerry, John F.",1560
+COLE,President,,DEM,"Dean, Howard",402
+COLE,President,,DEM,"Penna, Fern",1
+COLE,President,,DEM,"Sharpton, Al",116
+COLE,President,,DEM,"Moseley Braun, Carol",9
+COLE,President,,DEM,Uncommitted,25
+COLE,President,,REP,"Bush, George W.",858
+COLE,President,,REP,"Wyatt, Bill",6
+COLE,President,,REP,"Ashby, Blake",1
+COLE,President,,REP,Uncommitted,19
+COLE,President,,LIB,"Nolan, Gary",8
+COLE,President,,LIB,"Perez, N. Ruben",1
+COLE,President,,LIB,"Diket, Jeffrey H.",2
+COLE,President,,LIB,Uncommitted,10
+COOPER,President,,DEM,"Lieberman, Joe",28
+COOPER,President,,DEM,"Kucinich, Dennis J.",9
+COOPER,President,,DEM,"Gephardt, Dick",11
+COOPER,President,,DEM,"Clark, Wesley K.",53
+COOPER,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+COOPER,President,,DEM,"Edwards, John",203
+COOPER,President,,DEM,"Kerry, John F.",365
+COOPER,President,,DEM,"Dean, Howard",72
+COOPER,President,,DEM,"Penna, Fern",2
+COOPER,President,,DEM,"Sharpton, Al",10
+COOPER,President,,DEM,"Moseley Braun, Carol",1
+COOPER,President,,DEM,Uncommitted,4
+COOPER,President,,REP,"Bush, George W.",218
+COOPER,President,,REP,"Wyatt, Bill",5
+COOPER,President,,REP,"Ashby, Blake",1
+COOPER,President,,REP,Uncommitted,6
+COOPER,President,,LIB,"Nolan, Gary",0
+COOPER,President,,LIB,"Perez, N. Ruben",0
+COOPER,President,,LIB,"Diket, Jeffrey H.",0
+COOPER,President,,LIB,Uncommitted,2
+CRAWFORD,President,,DEM,"Lieberman, Joe",21
+CRAWFORD,President,,DEM,"Kucinich, Dennis J.",6
+CRAWFORD,President,,DEM,"Gephardt, Dick",16
+CRAWFORD,President,,DEM,"Clark, Wesley K.",31
+CRAWFORD,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+CRAWFORD,President,,DEM,"Edwards, John",249
+CRAWFORD,President,,DEM,"Kerry, John F.",495
+CRAWFORD,President,,DEM,"Dean, Howard",62
+CRAWFORD,President,,DEM,"Penna, Fern",1
+CRAWFORD,President,,DEM,"Sharpton, Al",1
+CRAWFORD,President,,DEM,"Moseley Braun, Carol",0
+CRAWFORD,President,,DEM,Uncommitted,1
+CRAWFORD,President,,REP,"Bush, George W.",279
+CRAWFORD,President,,REP,"Wyatt, Bill",4
+CRAWFORD,President,,REP,"Ashby, Blake",7
+CRAWFORD,President,,REP,Uncommitted,10
+CRAWFORD,President,,LIB,"Nolan, Gary",1
+CRAWFORD,President,,LIB,"Perez, N. Ruben",0
+CRAWFORD,President,,LIB,"Diket, Jeffrey H.",0
+CRAWFORD,President,,LIB,Uncommitted,0
+DADE,President,,DEM,"Lieberman, Joe",14
+DADE,President,,DEM,"Kucinich, Dennis J.",1
+DADE,President,,DEM,"Gephardt, Dick",5
+DADE,President,,DEM,"Clark, Wesley K.",20
+DADE,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+DADE,President,,DEM,"Edwards, John",202
+DADE,President,,DEM,"Kerry, John F.",213
+DADE,President,,DEM,"Dean, Howard",19
+DADE,President,,DEM,"Penna, Fern",0
+DADE,President,,DEM,"Sharpton, Al",3
+DADE,President,,DEM,"Moseley Braun, Carol",1
+DADE,President,,DEM,Uncommitted,2
+DADE,President,,REP,"Bush, George W.",400
+DADE,President,,REP,"Wyatt, Bill",1
+DADE,President,,REP,"Ashby, Blake",5
+DADE,President,,REP,Uncommitted,9
+DADE,President,,LIB,"Nolan, Gary",1
+DADE,President,,LIB,"Perez, N. Ruben",0
+DADE,President,,LIB,"Diket, Jeffrey H.",0
+DADE,President,,LIB,Uncommitted,0
+DALLAS,President,,DEM,"Lieberman, Joe",16
+DALLAS,President,,DEM,"Kucinich, Dennis J.",6
+DALLAS,President,,DEM,"Gephardt, Dick",10
+DALLAS,President,,DEM,"Clark, Wesley K.",35
+DALLAS,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+DALLAS,President,,DEM,"Edwards, John",405
+DALLAS,President,,DEM,"Kerry, John F.",419
+DALLAS,President,,DEM,"Dean, Howard",63
+DALLAS,President,,DEM,"Penna, Fern",0
+DALLAS,President,,DEM,"Sharpton, Al",3
+DALLAS,President,,DEM,"Moseley Braun, Carol",5
+DALLAS,President,,DEM,Uncommitted,10
+DALLAS,President,,REP,"Bush, George W.",447
+DALLAS,President,,REP,"Wyatt, Bill",4
+DALLAS,President,,REP,"Ashby, Blake",1
+DALLAS,President,,REP,Uncommitted,16
+DALLAS,President,,LIB,"Nolan, Gary",5
+DALLAS,President,,LIB,"Perez, N. Ruben",2
+DALLAS,President,,LIB,"Diket, Jeffrey H.",1
+DALLAS,President,,LIB,Uncommitted,1
+DAVIESS,President,,DEM,"Lieberman, Joe",8
+DAVIESS,President,,DEM,"Kucinich, Dennis J.",3
+DAVIESS,President,,DEM,"Gephardt, Dick",11
+DAVIESS,President,,DEM,"Clark, Wesley K.",8
+DAVIESS,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+DAVIESS,President,,DEM,"Edwards, John",128
+DAVIESS,President,,DEM,"Kerry, John F.",232
+DAVIESS,President,,DEM,"Dean, Howard",29
+DAVIESS,President,,DEM,"Penna, Fern",0
+DAVIESS,President,,DEM,"Sharpton, Al",5
+DAVIESS,President,,DEM,"Moseley Braun, Carol",0
+DAVIESS,President,,DEM,Uncommitted,6
+DAVIESS,President,,REP,"Bush, George W.",145
+DAVIESS,President,,REP,"Wyatt, Bill",0
+DAVIESS,President,,REP,"Ashby, Blake",6
+DAVIESS,President,,REP,Uncommitted,5
+DAVIESS,President,,LIB,"Nolan, Gary",0
+DAVIESS,President,,LIB,"Perez, N. Ruben",0
+DAVIESS,President,,LIB,"Diket, Jeffrey H.",0
+DAVIESS,President,,LIB,Uncommitted,0
+DEKALB,President,,DEM,"Lieberman, Joe",24
+DEKALB,President,,DEM,"Kucinich, Dennis J.",4
+DEKALB,President,,DEM,"Gephardt, Dick",13
+DEKALB,President,,DEM,"Clark, Wesley K.",21
+DEKALB,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+DEKALB,President,,DEM,"Edwards, John",159
+DEKALB,President,,DEM,"Kerry, John F.",256
+DEKALB,President,,DEM,"Dean, Howard",42
+DEKALB,President,,DEM,"Penna, Fern",0
+DEKALB,President,,DEM,"Sharpton, Al",5
+DEKALB,President,,DEM,"Moseley Braun, Carol",5
+DEKALB,President,,DEM,Uncommitted,8
+DEKALB,President,,REP,"Bush, George W.",174
+DEKALB,President,,REP,"Wyatt, Bill",1
+DEKALB,President,,REP,"Ashby, Blake",2
+DEKALB,President,,REP,Uncommitted,5
+DEKALB,President,,LIB,"Nolan, Gary",1
+DEKALB,President,,LIB,"Perez, N. Ruben",0
+DEKALB,President,,LIB,"Diket, Jeffrey H.",0
+DEKALB,President,,LIB,Uncommitted,0
+DENT,President,,DEM,"Lieberman, Joe",16
+DENT,President,,DEM,"Kucinich, Dennis J.",1
+DENT,President,,DEM,"Gephardt, Dick",3
+DENT,President,,DEM,"Clark, Wesley K.",42
+DENT,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+DENT,President,,DEM,"Edwards, John",343
+DENT,President,,DEM,"Kerry, John F.",392
+DENT,President,,DEM,"Dean, Howard",45
+DENT,President,,DEM,"Penna, Fern",1
+DENT,President,,DEM,"Sharpton, Al",18
+DENT,President,,DEM,"Moseley Braun, Carol",2
+DENT,President,,DEM,Uncommitted,2
+DENT,President,,REP,"Bush, George W.",219
+DENT,President,,REP,"Wyatt, Bill",1
+DENT,President,,REP,"Ashby, Blake",1
+DENT,President,,REP,Uncommitted,2
+DENT,President,,LIB,"Nolan, Gary",0
+DENT,President,,LIB,"Perez, N. Ruben",1
+DENT,President,,LIB,"Diket, Jeffrey H.",0
+DENT,President,,LIB,Uncommitted,1
+DOUGLAS,President,,DEM,"Lieberman, Joe",11
+DOUGLAS,President,,DEM,"Kucinich, Dennis J.",21
+DOUGLAS,President,,DEM,"Gephardt, Dick",3
+DOUGLAS,President,,DEM,"Clark, Wesley K.",48
+DOUGLAS,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+DOUGLAS,President,,DEM,"Edwards, John",252
+DOUGLAS,President,,DEM,"Kerry, John F.",269
+DOUGLAS,President,,DEM,"Dean, Howard",62
+DOUGLAS,President,,DEM,"Penna, Fern",0
+DOUGLAS,President,,DEM,"Sharpton, Al",2
+DOUGLAS,President,,DEM,"Moseley Braun, Carol",3
+DOUGLAS,President,,DEM,Uncommitted,3
+DOUGLAS,President,,REP,"Bush, George W.",445
+DOUGLAS,President,,REP,"Wyatt, Bill",3
+DOUGLAS,President,,REP,"Ashby, Blake",3
+DOUGLAS,President,,REP,Uncommitted,15
+DOUGLAS,President,,LIB,"Nolan, Gary",0
+DOUGLAS,President,,LIB,"Perez, N. Ruben",2
+DOUGLAS,President,,LIB,"Diket, Jeffrey H.",0
+DOUGLAS,President,,LIB,Uncommitted,2
+DUNKLIN,President,,DEM,"Lieberman, Joe",30
+DUNKLIN,President,,DEM,"Kucinich, Dennis J.",5
+DUNKLIN,President,,DEM,"Gephardt, Dick",17
+DUNKLIN,President,,DEM,"Clark, Wesley K.",143
+DUNKLIN,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+DUNKLIN,President,,DEM,"Edwards, John",288
+DUNKLIN,President,,DEM,"Kerry, John F.",610
+DUNKLIN,President,,DEM,"Dean, Howard",76
+DUNKLIN,President,,DEM,"Penna, Fern",1
+DUNKLIN,President,,DEM,"Sharpton, Al",11
+DUNKLIN,President,,DEM,"Moseley Braun, Carol",0
+DUNKLIN,President,,DEM,Uncommitted,4
+DUNKLIN,President,,REP,"Bush, George W.",189
+DUNKLIN,President,,REP,"Wyatt, Bill",2
+DUNKLIN,President,,REP,"Ashby, Blake",2
+DUNKLIN,President,,REP,Uncommitted,4
+DUNKLIN,President,,LIB,"Nolan, Gary",1
+DUNKLIN,President,,LIB,"Perez, N. Ruben",0
+DUNKLIN,President,,LIB,"Diket, Jeffrey H.",0
+DUNKLIN,President,,LIB,Uncommitted,1
+FRANKLIN,President,,DEM,"Lieberman, Joe",135
+FRANKLIN,President,,DEM,"Kucinich, Dennis J.",38
+FRANKLIN,President,,DEM,"Gephardt, Dick",108
+FRANKLIN,President,,DEM,"Clark, Wesley K.",220
+FRANKLIN,President,,DEM,"LaRouche, Lyndon H. Jr.",37
+FRANKLIN,President,,DEM,"Edwards, John",1495
+FRANKLIN,President,,DEM,"Kerry, John F.",3533
+FRANKLIN,President,,DEM,"Dean, Howard",507
+FRANKLIN,President,,DEM,"Penna, Fern",3
+FRANKLIN,President,,DEM,"Sharpton, Al",54
+FRANKLIN,President,,DEM,"Moseley Braun, Carol",11
+FRANKLIN,President,,DEM,Uncommitted,27
+FRANKLIN,President,,REP,"Bush, George W.",1998
+FRANKLIN,President,,REP,"Wyatt, Bill",31
+FRANKLIN,President,,REP,"Ashby, Blake",21
+FRANKLIN,President,,REP,Uncommitted,49
+FRANKLIN,President,,LIB,"Nolan, Gary",15
+FRANKLIN,President,,LIB,"Perez, N. Ruben",3
+FRANKLIN,President,,LIB,"Diket, Jeffrey H.",2
+FRANKLIN,President,,LIB,Uncommitted,22
+GASCONADE,President,,DEM,"Lieberman, Joe",28
+GASCONADE,President,,DEM,"Kucinich, Dennis J.",7
+GASCONADE,President,,DEM,"Gephardt, Dick",14
+GASCONADE,President,,DEM,"Clark, Wesley K.",16
+GASCONADE,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+GASCONADE,President,,DEM,"Edwards, John",157
+GASCONADE,President,,DEM,"Kerry, John F.",368
+GASCONADE,President,,DEM,"Dean, Howard",49
+GASCONADE,President,,DEM,"Penna, Fern",0
+GASCONADE,President,,DEM,"Sharpton, Al",10
+GASCONADE,President,,DEM,"Moseley Braun, Carol",4
+GASCONADE,President,,DEM,Uncommitted,7
+GASCONADE,President,,REP,"Bush, George W.",302
+GASCONADE,President,,REP,"Wyatt, Bill",6
+GASCONADE,President,,REP,"Ashby, Blake",4
+GASCONADE,President,,REP,Uncommitted,12
+GASCONADE,President,,LIB,"Nolan, Gary",0
+GASCONADE,President,,LIB,"Perez, N. Ruben",0
+GASCONADE,President,,LIB,"Diket, Jeffrey H.",0
+GASCONADE,President,,LIB,Uncommitted,0
+GENTRY,President,,DEM,"Lieberman, Joe",15
+GENTRY,President,,DEM,"Kucinich, Dennis J.",3
+GENTRY,President,,DEM,"Gephardt, Dick",9
+GENTRY,President,,DEM,"Clark, Wesley K.",12
+GENTRY,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+GENTRY,President,,DEM,"Edwards, John",128
+GENTRY,President,,DEM,"Kerry, John F.",220
+GENTRY,President,,DEM,"Dean, Howard",32
+GENTRY,President,,DEM,"Penna, Fern",0
+GENTRY,President,,DEM,"Sharpton, Al",3
+GENTRY,President,,DEM,"Moseley Braun, Carol",1
+GENTRY,President,,DEM,Uncommitted,6
+GENTRY,President,,REP,"Bush, George W.",136
+GENTRY,President,,REP,"Wyatt, Bill",3
+GENTRY,President,,REP,"Ashby, Blake",2
+GENTRY,President,,REP,Uncommitted,2
+GENTRY,President,,LIB,"Nolan, Gary",1
+GENTRY,President,,LIB,"Perez, N. Ruben",0
+GENTRY,President,,LIB,"Diket, Jeffrey H.",2
+GENTRY,President,,LIB,Uncommitted,1
+GREENE,President,,DEM,"Lieberman, Joe",753
+GREENE,President,,DEM,"Kucinich, Dennis J.",160
+GREENE,President,,DEM,"Gephardt, Dick",194
+GREENE,President,,DEM,"Clark, Wesley K.",1387
+GREENE,President,,DEM,"LaRouche, Lyndon H. Jr.",18
+GREENE,President,,DEM,"Edwards, John",8066
+GREENE,President,,DEM,"Kerry, John F.",9058
+GREENE,President,,DEM,"Dean, Howard",1594
+GREENE,President,,DEM,"Penna, Fern",12
+GREENE,President,,DEM,"Sharpton, Al",228
+GREENE,President,,DEM,"Moseley Braun, Carol",28
+GREENE,President,,DEM,Uncommitted,158
+GREENE,President,,REP,"Bush, George W.",11768
+GREENE,President,,REP,"Wyatt, Bill",77
+GREENE,President,,REP,"Ashby, Blake",42
+GREENE,President,,REP,Uncommitted,320
+GREENE,President,,LIB,"Nolan, Gary",75
+GREENE,President,,LIB,"Perez, N. Ruben",6
+GREENE,President,,LIB,"Diket, Jeffrey H.",6
+GREENE,President,,LIB,Uncommitted,47
+GRUNDY,President,,DEM,"Lieberman, Joe",44
+GRUNDY,President,,DEM,"Kucinich, Dennis J.",7
+GRUNDY,President,,DEM,"Gephardt, Dick",44
+GRUNDY,President,,DEM,"Clark, Wesley K.",58
+GRUNDY,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+GRUNDY,President,,DEM,"Edwards, John",330
+GRUNDY,President,,DEM,"Kerry, John F.",591
+GRUNDY,President,,DEM,"Dean, Howard",103
+GRUNDY,President,,DEM,"Penna, Fern",1
+GRUNDY,President,,DEM,"Sharpton, Al",13
+GRUNDY,President,,DEM,"Moseley Braun, Carol",4
+GRUNDY,President,,DEM,Uncommitted,80
+GRUNDY,President,,REP,"Bush, George W.",998
+GRUNDY,President,,REP,"Wyatt, Bill",15
+GRUNDY,President,,REP,"Ashby, Blake",8
+GRUNDY,President,,REP,Uncommitted,99
+GRUNDY,President,,LIB,"Nolan, Gary",8
+GRUNDY,President,,LIB,"Perez, N. Ruben",0
+GRUNDY,President,,LIB,"Diket, Jeffrey H.",2
+GRUNDY,President,,LIB,Uncommitted,11
+HARRISON,President,,DEM,"Lieberman, Joe",13
+HARRISON,President,,DEM,"Kucinich, Dennis J.",4
+HARRISON,President,,DEM,"Gephardt, Dick",12
+HARRISON,President,,DEM,"Clark, Wesley K.",24
+HARRISON,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+HARRISON,President,,DEM,"Edwards, John",135
+HARRISON,President,,DEM,"Kerry, John F.",263
+HARRISON,President,,DEM,"Dean, Howard",34
+HARRISON,President,,DEM,"Penna, Fern",0
+HARRISON,President,,DEM,"Sharpton, Al",4
+HARRISON,President,,DEM,"Moseley Braun, Carol",1
+HARRISON,President,,DEM,Uncommitted,7
+HARRISON,President,,REP,"Bush, George W.",219
+HARRISON,President,,REP,"Wyatt, Bill",7
+HARRISON,President,,REP,"Ashby, Blake",4
+HARRISON,President,,REP,Uncommitted,12
+HARRISON,President,,LIB,"Nolan, Gary",0
+HARRISON,President,,LIB,"Perez, N. Ruben",0
+HARRISON,President,,LIB,"Diket, Jeffrey H.",0
+HARRISON,President,,LIB,Uncommitted,0
+HENRY,President,,DEM,"Lieberman, Joe",47
+HENRY,President,,DEM,"Kucinich, Dennis J.",5
+HENRY,President,,DEM,"Gephardt, Dick",21
+HENRY,President,,DEM,"Clark, Wesley K.",79
+HENRY,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+HENRY,President,,DEM,"Edwards, John",497
+HENRY,President,,DEM,"Kerry, John F.",897
+HENRY,President,,DEM,"Dean, Howard",91
+HENRY,President,,DEM,"Penna, Fern",0
+HENRY,President,,DEM,"Sharpton, Al",9
+HENRY,President,,DEM,"Moseley Braun, Carol",6
+HENRY,President,,DEM,Uncommitted,11
+HENRY,President,,REP,"Bush, George W.",328
+HENRY,President,,REP,"Wyatt, Bill",8
+HENRY,President,,REP,"Ashby, Blake",3
+HENRY,President,,REP,Uncommitted,5
+HENRY,President,,LIB,"Nolan, Gary",2
+HENRY,President,,LIB,"Perez, N. Ruben",0
+HENRY,President,,LIB,"Diket, Jeffrey H.",1
+HENRY,President,,LIB,Uncommitted,1
+HICKORY,President,,DEM,"Lieberman, Joe",14
+HICKORY,President,,DEM,"Kucinich, Dennis J.",7
+HICKORY,President,,DEM,"Gephardt, Dick",10
+HICKORY,President,,DEM,"Clark, Wesley K.",26
+HICKORY,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+HICKORY,President,,DEM,"Edwards, John",387
+HICKORY,President,,DEM,"Kerry, John F.",469
+HICKORY,President,,DEM,"Dean, Howard",47
+HICKORY,President,,DEM,"Penna, Fern",1
+HICKORY,President,,DEM,"Sharpton, Al",6
+HICKORY,President,,DEM,"Moseley Braun, Carol",0
+HICKORY,President,,DEM,Uncommitted,5
+HICKORY,President,,REP,"Bush, George W.",342
+HICKORY,President,,REP,"Wyatt, Bill",1
+HICKORY,President,,REP,"Ashby, Blake",5
+HICKORY,President,,REP,Uncommitted,7
+HICKORY,President,,LIB,"Nolan, Gary",2
+HICKORY,President,,LIB,"Perez, N. Ruben",0
+HICKORY,President,,LIB,"Diket, Jeffrey H.",0
+HICKORY,President,,LIB,Uncommitted,2
+HOLT,President,,DEM,"Lieberman, Joe",10
+HOLT,President,,DEM,"Kucinich, Dennis J.",0
+HOLT,President,,DEM,"Gephardt, Dick",9
+HOLT,President,,DEM,"Clark, Wesley K.",15
+HOLT,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+HOLT,President,,DEM,"Edwards, John",69
+HOLT,President,,DEM,"Kerry, John F.",119
+HOLT,President,,DEM,"Dean, Howard",15
+HOLT,President,,DEM,"Penna, Fern",0
+HOLT,President,,DEM,"Sharpton, Al",1
+HOLT,President,,DEM,"Moseley Braun, Carol",1
+HOLT,President,,DEM,Uncommitted,2
+HOLT,President,,REP,"Bush, George W.",152
+HOLT,President,,REP,"Wyatt, Bill",1
+HOLT,President,,REP,"Ashby, Blake",5
+HOLT,President,,REP,Uncommitted,5
+HOLT,President,,LIB,"Nolan, Gary",0
+HOLT,President,,LIB,"Perez, N. Ruben",0
+HOLT,President,,LIB,"Diket, Jeffrey H.",0
+HOLT,President,,LIB,Uncommitted,2
+HOWARD,President,,DEM,"Lieberman, Joe",36
+HOWARD,President,,DEM,"Kucinich, Dennis J.",10
+HOWARD,President,,DEM,"Gephardt, Dick",2
+HOWARD,President,,DEM,"Clark, Wesley K.",31
+HOWARD,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+HOWARD,President,,DEM,"Edwards, John",209
+HOWARD,President,,DEM,"Kerry, John F.",323
+HOWARD,President,,DEM,"Dean, Howard",70
+HOWARD,President,,DEM,"Penna, Fern",1
+HOWARD,President,,DEM,"Sharpton, Al",4
+HOWARD,President,,DEM,"Moseley Braun, Carol",0
+HOWARD,President,,DEM,Uncommitted,5
+HOWARD,President,,REP,"Bush, George W.",106
+HOWARD,President,,REP,"Wyatt, Bill",0
+HOWARD,President,,REP,"Ashby, Blake",0
+HOWARD,President,,REP,Uncommitted,0
+HOWARD,President,,LIB,"Nolan, Gary",2
+HOWARD,President,,LIB,"Perez, N. Ruben",0
+HOWARD,President,,LIB,"Diket, Jeffrey H.",1
+HOWARD,President,,LIB,Uncommitted,0
+HOWELL,President,,DEM,"Lieberman, Joe",45
+HOWELL,President,,DEM,"Kucinich, Dennis J.",21
+HOWELL,President,,DEM,"Gephardt, Dick",19
+HOWELL,President,,DEM,"Clark, Wesley K.",124
+HOWELL,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+HOWELL,President,,DEM,"Edwards, John",642
+HOWELL,President,,DEM,"Kerry, John F.",932
+HOWELL,President,,DEM,"Dean, Howard",125
+HOWELL,President,,DEM,"Penna, Fern",0
+HOWELL,President,,DEM,"Sharpton, Al",14
+HOWELL,President,,DEM,"Moseley Braun, Carol",3
+HOWELL,President,,DEM,Uncommitted,9
+HOWELL,President,,REP,"Bush, George W.",751
+HOWELL,President,,REP,"Wyatt, Bill",8
+HOWELL,President,,REP,"Ashby, Blake",5
+HOWELL,President,,REP,Uncommitted,16
+HOWELL,President,,LIB,"Nolan, Gary",9
+HOWELL,President,,LIB,"Perez, N. Ruben",2
+HOWELL,President,,LIB,"Diket, Jeffrey H.",0
+HOWELL,President,,LIB,Uncommitted,3
+IRON,President,,DEM,"Lieberman, Joe",26
+IRON,President,,DEM,"Kucinich, Dennis J.",11
+IRON,President,,DEM,"Gephardt, Dick",5
+IRON,President,,DEM,"Clark, Wesley K.",24
+IRON,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+IRON,President,,DEM,"Edwards, John",215
+IRON,President,,DEM,"Kerry, John F.",418
+IRON,President,,DEM,"Dean, Howard",43
+IRON,President,,DEM,"Penna, Fern",0
+IRON,President,,DEM,"Sharpton, Al",8
+IRON,President,,DEM,"Moseley Braun, Carol",2
+IRON,President,,DEM,Uncommitted,4
+IRON,President,,REP,"Bush, George W.",111
+IRON,President,,REP,"Wyatt, Bill",0
+IRON,President,,REP,"Ashby, Blake",2
+IRON,President,,REP,Uncommitted,3
+IRON,President,,LIB,"Nolan, Gary",0
+IRON,President,,LIB,"Perez, N. Ruben",0
+IRON,President,,LIB,"Diket, Jeffrey H.",0
+IRON,President,,LIB,Uncommitted,0
+JACKSON,President,,DEM,"Lieberman, Joe",1021
+JACKSON,President,,DEM,"Kucinich, Dennis J.",246
+JACKSON,President,,DEM,"Gephardt, Dick",438
+JACKSON,President,,DEM,"Clark, Wesley K.",1025
+JACKSON,President,,DEM,"LaRouche, Lyndon H. Jr.",46
+JACKSON,President,,DEM,"Edwards, John",6949
+JACKSON,President,,DEM,"Kerry, John F.",13225
+JACKSON,President,,DEM,"Dean, Howard",2136
+JACKSON,President,,DEM,"Penna, Fern",19
+JACKSON,President,,DEM,"Sharpton, Al",401
+JACKSON,President,,DEM,"Moseley Braun, Carol",63
+JACKSON,President,,DEM,Uncommitted,271
+JACKSON,President,,REP,"Bush, George W.",6170
+JACKSON,President,,REP,"Wyatt, Bill",87
+JACKSON,President,,REP,"Ashby, Blake",50
+JACKSON,President,,REP,Uncommitted,215
+JACKSON,President,,LIB,"Nolan, Gary",58
+JACKSON,President,,LIB,"Perez, N. Ruben",21
+JACKSON,President,,LIB,"Diket, Jeffrey H.",14
+JACKSON,President,,LIB,Uncommitted,60
+JASPER,President,,DEM,"Lieberman, Joe",128
+JASPER,President,,DEM,"Kucinich, Dennis J.",25
+JASPER,President,,DEM,"Gephardt, Dick",49
+JASPER,President,,DEM,"Clark, Wesley K.",228
+JASPER,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+JASPER,President,,DEM,"Edwards, John",949
+JASPER,President,,DEM,"Kerry, John F.",1851
+JASPER,President,,DEM,"Dean, Howard",296
+JASPER,President,,DEM,"Penna, Fern",2
+JASPER,President,,DEM,"Sharpton, Al",36
+JASPER,President,,DEM,"Moseley Braun, Carol",4
+JASPER,President,,DEM,Uncommitted,20
+JASPER,President,,REP,"Bush, George W.",1665
+JASPER,President,,REP,"Wyatt, Bill",15
+JASPER,President,,REP,"Ashby, Blake",10
+JASPER,President,,REP,Uncommitted,44
+JASPER,President,,LIB,"Nolan, Gary",14
+JASPER,President,,LIB,"Perez, N. Ruben",1
+JASPER,President,,LIB,"Diket, Jeffrey H.",1
+JASPER,President,,LIB,Uncommitted,9
+JEFFERSON,President,,DEM,"Lieberman, Joe",673
+JEFFERSON,President,,DEM,"Kucinich, Dennis J.",151
+JEFFERSON,President,,DEM,"Gephardt, Dick",1019
+JEFFERSON,President,,DEM,"Clark, Wesley K.",735
+JEFFERSON,President,,DEM,"LaRouche, Lyndon H. Jr.",108
+JEFFERSON,President,,DEM,"Edwards, John",4787
+JEFFERSON,President,,DEM,"Kerry, John F.",12362
+JEFFERSON,President,,DEM,"Dean, Howard",1693
+JEFFERSON,President,,DEM,"Penna, Fern",20
+JEFFERSON,President,,DEM,"Sharpton, Al",250
+JEFFERSON,President,,DEM,"Moseley Braun, Carol",74
+JEFFERSON,President,,DEM,Uncommitted,429
+JEFFERSON,President,,REP,"Bush, George W.",7177
+JEFFERSON,President,,REP,"Wyatt, Bill",86
+JEFFERSON,President,,REP,"Ashby, Blake",67
+JEFFERSON,President,,REP,Uncommitted,317
+JEFFERSON,President,,LIB,"Nolan, Gary",67
+JEFFERSON,President,,LIB,"Perez, N. Ruben",7
+JEFFERSON,President,,LIB,"Diket, Jeffrey H.",7
+JEFFERSON,President,,LIB,Uncommitted,82
+JOHNSON,President,,DEM,"Lieberman, Joe",73
+JOHNSON,President,,DEM,"Kucinich, Dennis J.",24
+JOHNSON,President,,DEM,"Gephardt, Dick",52
+JOHNSON,President,,DEM,"Clark, Wesley K.",121
+JOHNSON,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+JOHNSON,President,,DEM,"Edwards, John",739
+JOHNSON,President,,DEM,"Kerry, John F.",1227
+JOHNSON,President,,DEM,"Dean, Howard",232
+JOHNSON,President,,DEM,"Penna, Fern",1
+JOHNSON,President,,DEM,"Sharpton, Al",16
+JOHNSON,President,,DEM,"Moseley Braun, Carol",5
+JOHNSON,President,,DEM,Uncommitted,42
+JOHNSON,President,,REP,"Bush, George W.",893
+JOHNSON,President,,REP,"Wyatt, Bill",11
+JOHNSON,President,,REP,"Ashby, Blake",7
+JOHNSON,President,,REP,Uncommitted,26
+JOHNSON,President,,LIB,"Nolan, Gary",7
+JOHNSON,President,,LIB,"Perez, N. Ruben",1
+JOHNSON,President,,LIB,"Diket, Jeffrey H.",0
+JOHNSON,President,,LIB,Uncommitted,4
+JOHNSON,President,,DEM,"Lieberman, Joe",903
+JOHNSON,President,,DEM,"Kucinich, Dennis J.",569
+JOHNSON,President,,DEM,"Gephardt, Dick",342
+JOHNSON,President,,DEM,"Clark, Wesley K.",1045
+JOHNSON,President,,DEM,"LaRouche, Lyndon H. Jr.",19
+JOHNSON,President,,DEM,"Edwards, John",5194
+JOHNSON,President,,DEM,"Kerry, John F.",14176
+JOHNSON,President,,DEM,"Dean, Howard",3043
+JOHNSON,President,,DEM,"Penna, Fern",15
+JOHNSON,President,,DEM,"Sharpton, Al",1444
+JOHNSON,President,,DEM,"Moseley Braun, Carol",101
+JOHNSON,President,,DEM,Uncommitted,148
+JOHNSON,President,,REP,"Bush, George W.",1915
+JOHNSON,President,,REP,"Wyatt, Bill",38
+JOHNSON,President,,REP,"Ashby, Blake",35
+JOHNSON,President,,REP,Uncommitted,70
+JOHNSON,President,,LIB,"Nolan, Gary",52
+JOHNSON,President,,LIB,"Perez, N. Ruben",18
+JOHNSON,President,,LIB,"Diket, Jeffrey H.",10
+JOHNSON,President,,LIB,Uncommitted,53
+KNOX,President,,DEM,"Lieberman, Joe",8
+KNOX,President,,DEM,"Kucinich, Dennis J.",0
+KNOX,President,,DEM,"Gephardt, Dick",7
+KNOX,President,,DEM,"Clark, Wesley K.",8
+KNOX,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+KNOX,President,,DEM,"Edwards, John",144
+KNOX,President,,DEM,"Kerry, John F.",131
+KNOX,President,,DEM,"Dean, Howard",15
+KNOX,President,,DEM,"Penna, Fern",0
+KNOX,President,,DEM,"Sharpton, Al",2
+KNOX,President,,DEM,"Moseley Braun, Carol",0
+KNOX,President,,DEM,Uncommitted,5
+KNOX,President,,REP,"Bush, George W.",56
+KNOX,President,,REP,"Wyatt, Bill",0
+KNOX,President,,REP,"Ashby, Blake",0
+KNOX,President,,REP,Uncommitted,1
+KNOX,President,,LIB,"Nolan, Gary",2
+KNOX,President,,LIB,"Perez, N. Ruben",0
+KNOX,President,,LIB,"Diket, Jeffrey H.",0
+KNOX,President,,LIB,Uncommitted,0
+LACLEDE,President,,DEM,"Lieberman, Joe",72
+LACLEDE,President,,DEM,"Kucinich, Dennis J.",8
+LACLEDE,President,,DEM,"Gephardt, Dick",32
+LACLEDE,President,,DEM,"Clark, Wesley K.",100
+LACLEDE,President,,DEM,"LaRouche, Lyndon H. Jr.",5
+LACLEDE,President,,DEM,"Edwards, John",947
+LACLEDE,President,,DEM,"Kerry, John F.",1030
+LACLEDE,President,,DEM,"Dean, Howard",129
+LACLEDE,President,,DEM,"Penna, Fern",4
+LACLEDE,President,,DEM,"Sharpton, Al",18
+LACLEDE,President,,DEM,"Moseley Braun, Carol",5
+LACLEDE,President,,DEM,Uncommitted,24
+LACLEDE,President,,REP,"Bush, George W.",1963
+LACLEDE,President,,REP,"Wyatt, Bill",22
+LACLEDE,President,,REP,"Ashby, Blake",12
+LACLEDE,President,,REP,Uncommitted,63
+LACLEDE,President,,LIB,"Nolan, Gary",5
+LACLEDE,President,,LIB,"Perez, N. Ruben",0
+LACLEDE,President,,LIB,"Diket, Jeffrey H.",2
+LACLEDE,President,,LIB,Uncommitted,6
+LAFAYETTE,President,,DEM,"Lieberman, Joe",62
+LAFAYETTE,President,,DEM,"Kucinich, Dennis J.",10
+LAFAYETTE,President,,DEM,"Gephardt, Dick",38
+LAFAYETTE,President,,DEM,"Clark, Wesley K.",65
+LAFAYETTE,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+LAFAYETTE,President,,DEM,"Edwards, John",626
+LAFAYETTE,President,,DEM,"Kerry, John F.",963
+LAFAYETTE,President,,DEM,"Dean, Howard",158
+LAFAYETTE,President,,DEM,"Penna, Fern",1
+LAFAYETTE,President,,DEM,"Sharpton, Al",16
+LAFAYETTE,President,,DEM,"Moseley Braun, Carol",4
+LAFAYETTE,President,,DEM,Uncommitted,22
+LAFAYETTE,President,,REP,"Bush, George W.",494
+LAFAYETTE,President,,REP,"Wyatt, Bill",6
+LAFAYETTE,President,,REP,"Ashby, Blake",1
+LAFAYETTE,President,,REP,Uncommitted,8
+LAFAYETTE,President,,LIB,"Nolan, Gary",6
+LAFAYETTE,President,,LIB,"Perez, N. Ruben",0
+LAFAYETTE,President,,LIB,"Diket, Jeffrey H.",0
+LAFAYETTE,President,,LIB,Uncommitted,2
+LAWRENCE,President,,DEM,"Lieberman, Joe",44
+LAWRENCE,President,,DEM,"Kucinich, Dennis J.",8
+LAWRENCE,President,,DEM,"Gephardt, Dick",14
+LAWRENCE,President,,DEM,"Clark, Wesley K.",84
+LAWRENCE,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+LAWRENCE,President,,DEM,"Edwards, John",713
+LAWRENCE,President,,DEM,"Kerry, John F.",707
+LAWRENCE,President,,DEM,"Dean, Howard",112
+LAWRENCE,President,,DEM,"Penna, Fern",0
+LAWRENCE,President,,DEM,"Sharpton, Al",9
+LAWRENCE,President,,DEM,"Moseley Braun, Carol",3
+LAWRENCE,President,,DEM,Uncommitted,18
+LAWRENCE,President,,REP,"Bush, George W.",887
+LAWRENCE,President,,REP,"Wyatt, Bill",10
+LAWRENCE,President,,REP,"Ashby, Blake",8
+LAWRENCE,President,,REP,Uncommitted,28
+LAWRENCE,President,,LIB,"Nolan, Gary",2
+LAWRENCE,President,,LIB,"Perez, N. Ruben",2
+LAWRENCE,President,,LIB,"Diket, Jeffrey H.",1
+LAWRENCE,President,,LIB,Uncommitted,2
+LEWIS,President,,DEM,"Lieberman, Joe",35
+LEWIS,President,,DEM,"Kucinich, Dennis J.",1
+LEWIS,President,,DEM,"Gephardt, Dick",9
+LEWIS,President,,DEM,"Clark, Wesley K.",25
+LEWIS,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+LEWIS,President,,DEM,"Edwards, John",178
+LEWIS,President,,DEM,"Kerry, John F.",344
+LEWIS,President,,DEM,"Dean, Howard",78
+LEWIS,President,,DEM,"Penna, Fern",3
+LEWIS,President,,DEM,"Sharpton, Al",4
+LEWIS,President,,DEM,"Moseley Braun, Carol",0
+LEWIS,President,,DEM,Uncommitted,12
+LEWIS,President,,REP,"Bush, George W.",132
+LEWIS,President,,REP,"Wyatt, Bill",2
+LEWIS,President,,REP,"Ashby, Blake",0
+LEWIS,President,,REP,Uncommitted,2
+LEWIS,President,,LIB,"Nolan, Gary",1
+LEWIS,President,,LIB,"Perez, N. Ruben",0
+LEWIS,President,,LIB,"Diket, Jeffrey H.",0
+LEWIS,President,,LIB,Uncommitted,0
+LINCOLN,President,,DEM,"Lieberman, Joe",54
+LINCOLN,President,,DEM,"Kucinich, Dennis J.",20
+LINCOLN,President,,DEM,"Gephardt, Dick",21
+LINCOLN,President,,DEM,"Clark, Wesley K.",70
+LINCOLN,President,,DEM,"LaRouche, Lyndon H. Jr.",12
+LINCOLN,President,,DEM,"Edwards, John",523
+LINCOLN,President,,DEM,"Kerry, John F.",1217
+LINCOLN,President,,DEM,"Dean, Howard",145
+LINCOLN,President,,DEM,"Penna, Fern",3
+LINCOLN,President,,DEM,"Sharpton, Al",37
+LINCOLN,President,,DEM,"Moseley Braun, Carol",6
+LINCOLN,President,,DEM,Uncommitted,19
+LINCOLN,President,,REP,"Bush, George W.",357
+LINCOLN,President,,REP,"Wyatt, Bill",1
+LINCOLN,President,,REP,"Ashby, Blake",1
+LINCOLN,President,,REP,Uncommitted,7
+LINCOLN,President,,LIB,"Nolan, Gary",7
+LINCOLN,President,,LIB,"Perez, N. Ruben",0
+LINCOLN,President,,LIB,"Diket, Jeffrey H.",3
+LINCOLN,President,,LIB,Uncommitted,3
+LINN,President,,DEM,"Lieberman, Joe",21
+LINN,President,,DEM,"Kucinich, Dennis J.",1
+LINN,President,,DEM,"Gephardt, Dick",22
+LINN,President,,DEM,"Clark, Wesley K.",37
+LINN,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+LINN,President,,DEM,"Edwards, John",251
+LINN,President,,DEM,"Kerry, John F.",439
+LINN,President,,DEM,"Dean, Howard",78
+LINN,President,,DEM,"Penna, Fern",2
+LINN,President,,DEM,"Sharpton, Al",6
+LINN,President,,DEM,"Moseley Braun, Carol",2
+LINN,President,,DEM,Uncommitted,7
+LINN,President,,REP,"Bush, George W.",176
+LINN,President,,REP,"Wyatt, Bill",1
+LINN,President,,REP,"Ashby, Blake",3
+LINN,President,,REP,Uncommitted,3
+LINN,President,,LIB,"Nolan, Gary",1
+LINN,President,,LIB,"Perez, N. Ruben",0
+LINN,President,,LIB,"Diket, Jeffrey H.",1
+LINN,President,,LIB,Uncommitted,3
+LIVINGSTON,President,,DEM,"Lieberman, Joe",31
+LIVINGSTON,President,,DEM,"Kucinich, Dennis J.",6
+LIVINGSTON,President,,DEM,"Gephardt, Dick",13
+LIVINGSTON,President,,DEM,"Clark, Wesley K.",27
+LIVINGSTON,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+LIVINGSTON,President,,DEM,"Edwards, John",195
+LIVINGSTON,President,,DEM,"Kerry, John F.",406
+LIVINGSTON,President,,DEM,"Dean, Howard",56
+LIVINGSTON,President,,DEM,"Penna, Fern",0
+LIVINGSTON,President,,DEM,"Sharpton, Al",11
+LIVINGSTON,President,,DEM,"Moseley Braun, Carol",3
+LIVINGSTON,President,,DEM,Uncommitted,5
+LIVINGSTON,President,,REP,"Bush, George W.",164
+LIVINGSTON,President,,REP,"Wyatt, Bill",0
+LIVINGSTON,President,,REP,"Ashby, Blake",1
+LIVINGSTON,President,,REP,Uncommitted,3
+LIVINGSTON,President,,LIB,"Nolan, Gary",1
+LIVINGSTON,President,,LIB,"Perez, N. Ruben",0
+LIVINGSTON,President,,LIB,"Diket, Jeffrey H.",0
+LIVINGSTON,President,,LIB,Uncommitted,0
+MACON,President,,DEM,"Lieberman, Joe",28
+MACON,President,,DEM,"Kucinich, Dennis J.",8
+MACON,President,,DEM,"Gephardt, Dick",29
+MACON,President,,DEM,"Clark, Wesley K.",38
+MACON,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+MACON,President,,DEM,"Edwards, John",311
+MACON,President,,DEM,"Kerry, John F.",483
+MACON,President,,DEM,"Dean, Howard",76
+MACON,President,,DEM,"Penna, Fern",0
+MACON,President,,DEM,"Sharpton, Al",8
+MACON,President,,DEM,"Moseley Braun, Carol",1
+MACON,President,,DEM,Uncommitted,8
+MACON,President,,REP,"Bush, George W.",200
+MACON,President,,REP,"Wyatt, Bill",0
+MACON,President,,REP,"Ashby, Blake",3
+MACON,President,,REP,Uncommitted,5
+MACON,President,,LIB,"Nolan, Gary",0
+MACON,President,,LIB,"Perez, N. Ruben",2
+MACON,President,,LIB,"Diket, Jeffrey H.",0
+MACON,President,,LIB,Uncommitted,1
+MADISON,President,,DEM,"Lieberman, Joe",13
+MADISON,President,,DEM,"Kucinich, Dennis J.",3
+MADISON,President,,DEM,"Gephardt, Dick",10
+MADISON,President,,DEM,"Clark, Wesley K.",25
+MADISON,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+MADISON,President,,DEM,"Edwards, John",163
+MADISON,President,,DEM,"Kerry, John F.",366
+MADISON,President,,DEM,"Dean, Howard",39
+MADISON,President,,DEM,"Penna, Fern",1
+MADISON,President,,DEM,"Sharpton, Al",11
+MADISON,President,,DEM,"Moseley Braun, Carol",1
+MADISON,President,,DEM,Uncommitted,3
+MADISON,President,,REP,"Bush, George W.",150
+MADISON,President,,REP,"Wyatt, Bill",2
+MADISON,President,,REP,"Ashby, Blake",1
+MADISON,President,,REP,Uncommitted,5
+MADISON,President,,LIB,"Nolan, Gary",1
+MADISON,President,,LIB,"Perez, N. Ruben",0
+MADISON,President,,LIB,"Diket, Jeffrey H.",0
+MADISON,President,,LIB,Uncommitted,0
+MARIES,President,,DEM,"Lieberman, Joe",14
+MARIES,President,,DEM,"Kucinich, Dennis J.",2
+MARIES,President,,DEM,"Gephardt, Dick",8
+MARIES,President,,DEM,"Clark, Wesley K.",23
+MARIES,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+MARIES,President,,DEM,"Edwards, John",213
+MARIES,President,,DEM,"Kerry, John F.",302
+MARIES,President,,DEM,"Dean, Howard",31
+MARIES,President,,DEM,"Penna, Fern",3
+MARIES,President,,DEM,"Sharpton, Al",5
+MARIES,President,,DEM,"Moseley Braun, Carol",2
+MARIES,President,,DEM,Uncommitted,7
+MARIES,President,,REP,"Bush, George W.",153
+MARIES,President,,REP,"Wyatt, Bill",1
+MARIES,President,,REP,"Ashby, Blake",1
+MARIES,President,,REP,Uncommitted,3
+MARIES,President,,LIB,"Nolan, Gary",1
+MARIES,President,,LIB,"Perez, N. Ruben",0
+MARIES,President,,LIB,"Diket, Jeffrey H.",0
+MARIES,President,,LIB,Uncommitted,0
+MARION,President,,DEM,"Lieberman, Joe",77
+MARION,President,,DEM,"Kucinich, Dennis J.",8
+MARION,President,,DEM,"Gephardt, Dick",33
+MARION,President,,DEM,"Clark, Wesley K.",39
+MARION,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+MARION,President,,DEM,"Edwards, John",418
+MARION,President,,DEM,"Kerry, John F.",705
+MARION,President,,DEM,"Dean, Howard",103
+MARION,President,,DEM,"Penna, Fern",3
+MARION,President,,DEM,"Sharpton, Al",27
+MARION,President,,DEM,"Moseley Braun, Carol",5
+MARION,President,,DEM,Uncommitted,16
+MARION,President,,REP,"Bush, George W.",261
+MARION,President,,REP,"Wyatt, Bill",2
+MARION,President,,REP,"Ashby, Blake",1
+MARION,President,,REP,Uncommitted,6
+MARION,President,,LIB,"Nolan, Gary",1
+MARION,President,,LIB,"Perez, N. Ruben",0
+MARION,President,,LIB,"Diket, Jeffrey H.",1
+MARION,President,,LIB,Uncommitted,0
+MCDONALD,President,,DEM,"Lieberman, Joe",51
+MCDONALD,President,,DEM,"Kucinich, Dennis J.",5
+MCDONALD,President,,DEM,"Gephardt, Dick",16
+MCDONALD,President,,DEM,"Clark, Wesley K.",85
+MCDONALD,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+MCDONALD,President,,DEM,"Edwards, John",250
+MCDONALD,President,,DEM,"Kerry, John F.",483
+MCDONALD,President,,DEM,"Dean, Howard",56
+MCDONALD,President,,DEM,"Penna, Fern",2
+MCDONALD,President,,DEM,"Sharpton, Al",17
+MCDONALD,President,,DEM,"Moseley Braun, Carol",5
+MCDONALD,President,,DEM,Uncommitted,26
+MCDONALD,President,,REP,"Bush, George W.",693
+MCDONALD,President,,REP,"Wyatt, Bill",7
+MCDONALD,President,,REP,"Ashby, Blake",3
+MCDONALD,President,,REP,Uncommitted,40
+MCDONALD,President,,LIB,"Nolan, Gary",5
+MCDONALD,President,,LIB,"Perez, N. Ruben",1
+MCDONALD,President,,LIB,"Diket, Jeffrey H.",1
+MCDONALD,President,,LIB,Uncommitted,3
+MERCER,President,,DEM,"Lieberman, Joe",6
+MERCER,President,,DEM,"Kucinich, Dennis J.",1
+MERCER,President,,DEM,"Gephardt, Dick",7
+MERCER,President,,DEM,"Clark, Wesley K.",14
+MERCER,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+MERCER,President,,DEM,"Edwards, John",128
+MERCER,President,,DEM,"Kerry, John F.",195
+MERCER,President,,DEM,"Dean, Howard",27
+MERCER,President,,DEM,"Penna, Fern",0
+MERCER,President,,DEM,"Sharpton, Al",7
+MERCER,President,,DEM,"Moseley Braun, Carol",1
+MERCER,President,,DEM,Uncommitted,4
+MERCER,President,,REP,"Bush, George W.",273
+MERCER,President,,REP,"Wyatt, Bill",6
+MERCER,President,,REP,"Ashby, Blake",0
+MERCER,President,,REP,Uncommitted,13
+MERCER,President,,LIB,"Nolan, Gary",1
+MERCER,President,,LIB,"Perez, N. Ruben",0
+MERCER,President,,LIB,"Diket, Jeffrey H.",1
+MERCER,President,,LIB,Uncommitted,1
+MILLER,President,,DEM,"Lieberman, Joe",35
+MILLER,President,,DEM,"Kucinich, Dennis J.",7
+MILLER,President,,DEM,"Gephardt, Dick",11
+MILLER,President,,DEM,"Clark, Wesley K.",47
+MILLER,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+MILLER,President,,DEM,"Edwards, John",381
+MILLER,President,,DEM,"Kerry, John F.",477
+MILLER,President,,DEM,"Dean, Howard",58
+MILLER,President,,DEM,"Penna, Fern",0
+MILLER,President,,DEM,"Sharpton, Al",23
+MILLER,President,,DEM,"Moseley Braun, Carol",3
+MILLER,President,,DEM,Uncommitted,19
+MILLER,President,,REP,"Bush, George W.",1077
+MILLER,President,,REP,"Wyatt, Bill",12
+MILLER,President,,REP,"Ashby, Blake",7
+MILLER,President,,REP,Uncommitted,38
+MILLER,President,,LIB,"Nolan, Gary",3
+MILLER,President,,LIB,"Perez, N. Ruben",0
+MILLER,President,,LIB,"Diket, Jeffrey H.",0
+MILLER,President,,LIB,Uncommitted,3
+MISSISSIPPI,President,,DEM,"Lieberman, Joe",33
+MISSISSIPPI,President,,DEM,"Kucinich, Dennis J.",0
+MISSISSIPPI,President,,DEM,"Gephardt, Dick",14
+MISSISSIPPI,President,,DEM,"Clark, Wesley K.",22
+MISSISSIPPI,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+MISSISSIPPI,President,,DEM,"Edwards, John",176
+MISSISSIPPI,President,,DEM,"Kerry, John F.",343
+MISSISSIPPI,President,,DEM,"Dean, Howard",24
+MISSISSIPPI,President,,DEM,"Penna, Fern",0
+MISSISSIPPI,President,,DEM,"Sharpton, Al",23
+MISSISSIPPI,President,,DEM,"Moseley Braun, Carol",2
+MISSISSIPPI,President,,DEM,Uncommitted,9
+MISSISSIPPI,President,,REP,"Bush, George W.",113
+MISSISSIPPI,President,,REP,"Wyatt, Bill",1
+MISSISSIPPI,President,,REP,"Ashby, Blake",1
+MISSISSIPPI,President,,REP,Uncommitted,3
+MISSISSIPPI,President,,LIB,"Nolan, Gary",0
+MISSISSIPPI,President,,LIB,"Perez, N. Ruben",0
+MISSISSIPPI,President,,LIB,"Diket, Jeffrey H.",0
+MISSISSIPPI,President,,LIB,Uncommitted,2
+MONITEAU,President,,DEM,"Lieberman, Joe",19
+MONITEAU,President,,DEM,"Kucinich, Dennis J.",8
+MONITEAU,President,,DEM,"Gephardt, Dick",12
+MONITEAU,President,,DEM,"Clark, Wesley K.",26
+MONITEAU,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+MONITEAU,President,,DEM,"Edwards, John",235
+MONITEAU,President,,DEM,"Kerry, John F.",290
+MONITEAU,President,,DEM,"Dean, Howard",41
+MONITEAU,President,,DEM,"Penna, Fern",1
+MONITEAU,President,,DEM,"Sharpton, Al",4
+MONITEAU,President,,DEM,"Moseley Braun, Carol",0
+MONITEAU,President,,DEM,Uncommitted,2
+MONITEAU,President,,REP,"Bush, George W.",247
+MONITEAU,President,,REP,"Wyatt, Bill",2
+MONITEAU,President,,REP,"Ashby, Blake",1
+MONITEAU,President,,REP,Uncommitted,7
+MONITEAU,President,,LIB,"Nolan, Gary",2
+MONITEAU,President,,LIB,"Perez, N. Ruben",0
+MONITEAU,President,,LIB,"Diket, Jeffrey H.",0
+MONITEAU,President,,LIB,Uncommitted,0
+MONROE,President,,DEM,"Lieberman, Joe",23
+MONROE,President,,DEM,"Kucinich, Dennis J.",2
+MONROE,President,,DEM,"Gephardt, Dick",9
+MONROE,President,,DEM,"Clark, Wesley K.",26
+MONROE,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+MONROE,President,,DEM,"Edwards, John",166
+MONROE,President,,DEM,"Kerry, John F.",253
+MONROE,President,,DEM,"Dean, Howard",26
+MONROE,President,,DEM,"Penna, Fern",0
+MONROE,President,,DEM,"Sharpton, Al",5
+MONROE,President,,DEM,"Moseley Braun, Carol",0
+MONROE,President,,DEM,Uncommitted,5
+MONROE,President,,REP,"Bush, George W.",79
+MONROE,President,,REP,"Wyatt, Bill",0
+MONROE,President,,REP,"Ashby, Blake",0
+MONROE,President,,REP,Uncommitted,2
+MONROE,President,,LIB,"Nolan, Gary",0
+MONROE,President,,LIB,"Perez, N. Ruben",0
+MONROE,President,,LIB,"Diket, Jeffrey H.",0
+MONROE,President,,LIB,Uncommitted,0
+MONTGOMERY,President,,DEM,"Lieberman, Joe",15
+MONTGOMERY,President,,DEM,"Kucinich, Dennis J.",9
+MONTGOMERY,President,,DEM,"Gephardt, Dick",5
+MONTGOMERY,President,,DEM,"Clark, Wesley K.",19
+MONTGOMERY,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+MONTGOMERY,President,,DEM,"Edwards, John",230
+MONTGOMERY,President,,DEM,"Kerry, John F.",326
+MONTGOMERY,President,,DEM,"Dean, Howard",52
+MONTGOMERY,President,,DEM,"Penna, Fern",1
+MONTGOMERY,President,,DEM,"Sharpton, Al",7
+MONTGOMERY,President,,DEM,"Moseley Braun, Carol",3
+MONTGOMERY,President,,DEM,Uncommitted,5
+MONTGOMERY,President,,REP,"Bush, George W.",208
+MONTGOMERY,President,,REP,"Wyatt, Bill",8
+MONTGOMERY,President,,REP,"Ashby, Blake",0
+MONTGOMERY,President,,REP,Uncommitted,3
+MONTGOMERY,President,,LIB,"Nolan, Gary",6
+MONTGOMERY,President,,LIB,"Perez, N. Ruben",0
+MONTGOMERY,President,,LIB,"Diket, Jeffrey H.",0
+MONTGOMERY,President,,LIB,Uncommitted,1
+MORGAN,President,,DEM,"Lieberman, Joe",34
+MORGAN,President,,DEM,"Kucinich, Dennis J.",4
+MORGAN,President,,DEM,"Gephardt, Dick",13
+MORGAN,President,,DEM,"Clark, Wesley K.",45
+MORGAN,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+MORGAN,President,,DEM,"Edwards, John",316
+MORGAN,President,,DEM,"Kerry, John F.",512
+MORGAN,President,,DEM,"Dean, Howard",65
+MORGAN,President,,DEM,"Penna, Fern",1
+MORGAN,President,,DEM,"Sharpton, Al",11
+MORGAN,President,,DEM,"Moseley Braun, Carol",2
+MORGAN,President,,DEM,Uncommitted,5
+MORGAN,President,,REP,"Bush, George W.",365
+MORGAN,President,,REP,"Wyatt, Bill",7
+MORGAN,President,,REP,"Ashby, Blake",4
+MORGAN,President,,REP,Uncommitted,4
+MORGAN,President,,LIB,"Nolan, Gary",2
+MORGAN,President,,LIB,"Perez, N. Ruben",0
+MORGAN,President,,LIB,"Diket, Jeffrey H.",0
+MORGAN,President,,LIB,Uncommitted,1
+NEW MADRID,President,,DEM,"Lieberman, Joe",34
+NEW MADRID,President,,DEM,"Kucinich, Dennis J.",5
+NEW MADRID,President,,DEM,"Gephardt, Dick",12
+NEW MADRID,President,,DEM,"Clark, Wesley K.",69
+NEW MADRID,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+NEW MADRID,President,,DEM,"Edwards, John",318
+NEW MADRID,President,,DEM,"Kerry, John F.",518
+NEW MADRID,President,,DEM,"Dean, Howard",53
+NEW MADRID,President,,DEM,"Penna, Fern",2
+NEW MADRID,President,,DEM,"Sharpton, Al",25
+NEW MADRID,President,,DEM,"Moseley Braun, Carol",2
+NEW MADRID,President,,DEM,Uncommitted,10
+NEW MADRID,President,,REP,"Bush, George W.",170
+NEW MADRID,President,,REP,"Wyatt, Bill",1
+NEW MADRID,President,,REP,"Ashby, Blake",1
+NEW MADRID,President,,REP,Uncommitted,3
+NEW MADRID,President,,LIB,"Nolan, Gary",2
+NEW MADRID,President,,LIB,"Perez, N. Ruben",1
+NEW MADRID,President,,LIB,"Diket, Jeffrey H.",0
+NEW MADRID,President,,LIB,Uncommitted,2
+NEWTON,President,,DEM,"Lieberman, Joe",66
+NEWTON,President,,DEM,"Kucinich, Dennis J.",21
+NEWTON,President,,DEM,"Gephardt, Dick",22
+NEWTON,President,,DEM,"Clark, Wesley K.",153
+NEWTON,President,,DEM,"LaRouche, Lyndon H. Jr.",9
+NEWTON,President,,DEM,"Edwards, John",539
+NEWTON,President,,DEM,"Kerry, John F.",1028
+NEWTON,President,,DEM,"Dean, Howard",173
+NEWTON,President,,DEM,"Penna, Fern",3
+NEWTON,President,,DEM,"Sharpton, Al",17
+NEWTON,President,,DEM,"Moseley Braun, Carol",2
+NEWTON,President,,DEM,Uncommitted,10
+NEWTON,President,,REP,"Bush, George W.",924
+NEWTON,President,,REP,"Wyatt, Bill",7
+NEWTON,President,,REP,"Ashby, Blake",6
+NEWTON,President,,REP,Uncommitted,21
+NEWTON,President,,LIB,"Nolan, Gary",5
+NEWTON,President,,LIB,"Perez, N. Ruben",0
+NEWTON,President,,LIB,"Diket, Jeffrey H.",2
+NEWTON,President,,LIB,Uncommitted,5
+NODAWAY,President,,DEM,"Lieberman, Joe",28
+NODAWAY,President,,DEM,"Kucinich, Dennis J.",13
+NODAWAY,President,,DEM,"Gephardt, Dick",23
+NODAWAY,President,,DEM,"Clark, Wesley K.",31
+NODAWAY,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+NODAWAY,President,,DEM,"Edwards, John",219
+NODAWAY,President,,DEM,"Kerry, John F.",452
+NODAWAY,President,,DEM,"Dean, Howard",74
+NODAWAY,President,,DEM,"Penna, Fern",0
+NODAWAY,President,,DEM,"Sharpton, Al",7
+NODAWAY,President,,DEM,"Moseley Braun, Carol",3
+NODAWAY,President,,DEM,Uncommitted,14
+NODAWAY,President,,REP,"Bush, George W.",205
+NODAWAY,President,,REP,"Wyatt, Bill",4
+NODAWAY,President,,REP,"Ashby, Blake",3
+NODAWAY,President,,REP,Uncommitted,10
+NODAWAY,President,,LIB,"Nolan, Gary",3
+NODAWAY,President,,LIB,"Perez, N. Ruben",0
+NODAWAY,President,,LIB,"Diket, Jeffrey H.",1
+NODAWAY,President,,LIB,Uncommitted,0
+OREGON,President,,DEM,"Lieberman, Joe",15
+OREGON,President,,DEM,"Kucinich, Dennis J.",3
+OREGON,President,,DEM,"Gephardt, Dick",8
+OREGON,President,,DEM,"Clark, Wesley K.",101
+OREGON,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+OREGON,President,,DEM,"Edwards, John",278
+OREGON,President,,DEM,"Kerry, John F.",353
+OREGON,President,,DEM,"Dean, Howard",55
+OREGON,President,,DEM,"Penna, Fern",1
+OREGON,President,,DEM,"Sharpton, Al",9
+OREGON,President,,DEM,"Moseley Braun, Carol",3
+OREGON,President,,DEM,Uncommitted,7
+OREGON,President,,REP,"Bush, George W.",169
+OREGON,President,,REP,"Wyatt, Bill",1
+OREGON,President,,REP,"Ashby, Blake",2
+OREGON,President,,REP,Uncommitted,2
+OREGON,President,,LIB,"Nolan, Gary",4
+OREGON,President,,LIB,"Perez, N. Ruben",0
+OREGON,President,,LIB,"Diket, Jeffrey H.",2
+OREGON,President,,LIB,Uncommitted,0
+OZARK,President,,DEM,"Lieberman, Joe",9
+OZARK,President,,DEM,"Kucinich, Dennis J.",8
+OZARK,President,,DEM,"Gephardt, Dick",8
+OZARK,President,,DEM,"Clark, Wesley K.",34
+OZARK,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+OZARK,President,,DEM,"Edwards, John",239
+OZARK,President,,DEM,"Kerry, John F.",313
+OZARK,President,,DEM,"Dean, Howard",42
+OZARK,President,,DEM,"Penna, Fern",0
+OZARK,President,,DEM,"Sharpton, Al",8
+OZARK,President,,DEM,"Moseley Braun, Carol",4
+OZARK,President,,DEM,Uncommitted,7
+OZARK,President,,REP,"Bush, George W.",311
+OZARK,President,,REP,"Wyatt, Bill",8
+OZARK,President,,REP,"Ashby, Blake",5
+OZARK,President,,REP,Uncommitted,10
+OZARK,President,,LIB,"Nolan, Gary",3
+OZARK,President,,LIB,"Perez, N. Ruben",0
+OZARK,President,,LIB,"Diket, Jeffrey H.",1
+OZARK,President,,LIB,Uncommitted,1
+PEMISCOT,President,,DEM,"Lieberman, Joe",19
+PEMISCOT,President,,DEM,"Kucinich, Dennis J.",2
+PEMISCOT,President,,DEM,"Gephardt, Dick",15
+PEMISCOT,President,,DEM,"Clark, Wesley K.",84
+PEMISCOT,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+PEMISCOT,President,,DEM,"Edwards, John",152
+PEMISCOT,President,,DEM,"Kerry, John F.",264
+PEMISCOT,President,,DEM,"Dean, Howard",29
+PEMISCOT,President,,DEM,"Penna, Fern",1
+PEMISCOT,President,,DEM,"Sharpton, Al",22
+PEMISCOT,President,,DEM,"Moseley Braun, Carol",2
+PEMISCOT,President,,DEM,Uncommitted,15
+PEMISCOT,President,,REP,"Bush, George W.",74
+PEMISCOT,President,,REP,"Wyatt, Bill",0
+PEMISCOT,President,,REP,"Ashby, Blake",1
+PEMISCOT,President,,REP,Uncommitted,0
+PEMISCOT,President,,LIB,"Nolan, Gary",1
+PEMISCOT,President,,LIB,"Perez, N. Ruben",0
+PEMISCOT,President,,LIB,"Diket, Jeffrey H.",0
+PEMISCOT,President,,LIB,Uncommitted,0
+PERRY,President,,DEM,"Lieberman, Joe",15
+PERRY,President,,DEM,"Kucinich, Dennis J.",4
+PERRY,President,,DEM,"Gephardt, Dick",11
+PERRY,President,,DEM,"Clark, Wesley K.",29
+PERRY,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+PERRY,President,,DEM,"Edwards, John",201
+PERRY,President,,DEM,"Kerry, John F.",378
+PERRY,President,,DEM,"Dean, Howard",40
+PERRY,President,,DEM,"Penna, Fern",1
+PERRY,President,,DEM,"Sharpton, Al",10
+PERRY,President,,DEM,"Moseley Braun, Carol",2
+PERRY,President,,DEM,Uncommitted,7
+PERRY,President,,REP,"Bush, George W.",307
+PERRY,President,,REP,"Wyatt, Bill",8
+PERRY,President,,REP,"Ashby, Blake",3
+PERRY,President,,REP,Uncommitted,2
+PERRY,President,,LIB,"Nolan, Gary",0
+PERRY,President,,LIB,"Perez, N. Ruben",0
+PERRY,President,,LIB,"Diket, Jeffrey H.",0
+PERRY,President,,LIB,Uncommitted,1
+PETTIS,President,,DEM,"Lieberman, Joe",67
+PETTIS,President,,DEM,"Kucinich, Dennis J.",7
+PETTIS,President,,DEM,"Gephardt, Dick",21
+PETTIS,President,,DEM,"Clark, Wesley K.",54
+PETTIS,President,,DEM,"LaRouche, Lyndon H. Jr.",6
+PETTIS,President,,DEM,"Edwards, John",497
+PETTIS,President,,DEM,"Kerry, John F.",890
+PETTIS,President,,DEM,"Dean, Howard",122
+PETTIS,President,,DEM,"Penna, Fern",3
+PETTIS,President,,DEM,"Sharpton, Al",30
+PETTIS,President,,DEM,"Moseley Braun, Carol",3
+PETTIS,President,,DEM,Uncommitted,10
+PETTIS,President,,REP,"Bush, George W.",563
+PETTIS,President,,REP,"Wyatt, Bill",4
+PETTIS,President,,REP,"Ashby, Blake",6
+PETTIS,President,,REP,Uncommitted,18
+PETTIS,President,,LIB,"Nolan, Gary",3
+PETTIS,President,,LIB,"Perez, N. Ruben",0
+PETTIS,President,,LIB,"Diket, Jeffrey H.",0
+PETTIS,President,,LIB,Uncommitted,1
+PHELPS,President,,DEM,"Lieberman, Joe",89
+PHELPS,President,,DEM,"Kucinich, Dennis J.",22
+PHELPS,President,,DEM,"Gephardt, Dick",24
+PHELPS,President,,DEM,"Clark, Wesley K.",130
+PHELPS,President,,DEM,"LaRouche, Lyndon H. Jr.",6
+PHELPS,President,,DEM,"Edwards, John",644
+PHELPS,President,,DEM,"Kerry, John F.",1079
+PHELPS,President,,DEM,"Dean, Howard",210
+PHELPS,President,,DEM,"Penna, Fern",1
+PHELPS,President,,DEM,"Sharpton, Al",29
+PHELPS,President,,DEM,"Moseley Braun, Carol",3
+PHELPS,President,,DEM,Uncommitted,18
+PHELPS,President,,REP,"Bush, George W.",620
+PHELPS,President,,REP,"Wyatt, Bill",7
+PHELPS,President,,REP,"Ashby, Blake",3
+PHELPS,President,,REP,Uncommitted,14
+PHELPS,President,,LIB,"Nolan, Gary",6
+PHELPS,President,,LIB,"Perez, N. Ruben",0
+PHELPS,President,,LIB,"Diket, Jeffrey H.",4
+PHELPS,President,,LIB,Uncommitted,4
+PIKE,President,,DEM,"Lieberman, Joe",40
+PIKE,President,,DEM,"Kucinich, Dennis J.",10
+PIKE,President,,DEM,"Gephardt, Dick",19
+PIKE,President,,DEM,"Clark, Wesley K.",38
+PIKE,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+PIKE,President,,DEM,"Edwards, John",284
+PIKE,President,,DEM,"Kerry, John F.",585
+PIKE,President,,DEM,"Dean, Howard",79
+PIKE,President,,DEM,"Penna, Fern",1
+PIKE,President,,DEM,"Sharpton, Al",14
+PIKE,President,,DEM,"Moseley Braun, Carol",4
+PIKE,President,,DEM,Uncommitted,7
+PIKE,President,,REP,"Bush, George W.",149
+PIKE,President,,REP,"Wyatt, Bill",3
+PIKE,President,,REP,"Ashby, Blake",7
+PIKE,President,,REP,Uncommitted,3
+PIKE,President,,LIB,"Nolan, Gary",3
+PIKE,President,,LIB,"Perez, N. Ruben",0
+PIKE,President,,LIB,"Diket, Jeffrey H.",0
+PIKE,President,,LIB,Uncommitted,0
+PLATTE,President,,DEM,"Lieberman, Joe",123
+PLATTE,President,,DEM,"Kucinich, Dennis J.",55
+PLATTE,President,,DEM,"Gephardt, Dick",73
+PLATTE,President,,DEM,"Clark, Wesley K.",213
+PLATTE,President,,DEM,"LaRouche, Lyndon H. Jr.",6
+PLATTE,President,,DEM,"Edwards, John",1275
+PLATTE,President,,DEM,"Kerry, John F.",2278
+PLATTE,President,,DEM,"Dean, Howard",435
+PLATTE,President,,DEM,"Penna, Fern",0
+PLATTE,President,,DEM,"Sharpton, Al",44
+PLATTE,President,,DEM,"Moseley Braun, Carol",8
+PLATTE,President,,DEM,Uncommitted,31
+PLATTE,President,,REP,"Bush, George W.",570
+PLATTE,President,,REP,"Wyatt, Bill",3
+PLATTE,President,,REP,"Ashby, Blake",6
+PLATTE,President,,REP,Uncommitted,29
+PLATTE,President,,LIB,"Nolan, Gary",7
+PLATTE,President,,LIB,"Perez, N. Ruben",1
+PLATTE,President,,LIB,"Diket, Jeffrey H.",0
+PLATTE,President,,LIB,Uncommitted,1
+POLK,President,,DEM,"Lieberman, Joe",38
+POLK,President,,DEM,"Kucinich, Dennis J.",10
+POLK,President,,DEM,"Gephardt, Dick",11
+POLK,President,,DEM,"Clark, Wesley K.",87
+POLK,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+POLK,President,,DEM,"Edwards, John",596
+POLK,President,,DEM,"Kerry, John F.",762
+POLK,President,,DEM,"Dean, Howard",96
+POLK,President,,DEM,"Penna, Fern",0
+POLK,President,,DEM,"Sharpton, Al",13
+POLK,President,,DEM,"Moseley Braun, Carol",2
+POLK,President,,DEM,Uncommitted,10
+POLK,President,,REP,"Bush, George W.",722
+POLK,President,,REP,"Wyatt, Bill",7
+POLK,President,,REP,"Ashby, Blake",4
+POLK,President,,REP,Uncommitted,20
+POLK,President,,LIB,"Nolan, Gary",3
+POLK,President,,LIB,"Perez, N. Ruben",0
+POLK,President,,LIB,"Diket, Jeffrey H.",0
+POLK,President,,LIB,Uncommitted,5
+PULASKI,President,,DEM,"Lieberman, Joe",44
+PULASKI,President,,DEM,"Kucinich, Dennis J.",2
+PULASKI,President,,DEM,"Gephardt, Dick",33
+PULASKI,President,,DEM,"Clark, Wesley K.",104
+PULASKI,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+PULASKI,President,,DEM,"Edwards, John",511
+PULASKI,President,,DEM,"Kerry, John F.",577
+PULASKI,President,,DEM,"Dean, Howard",75
+PULASKI,President,,DEM,"Penna, Fern",3
+PULASKI,President,,DEM,"Sharpton, Al",17
+PULASKI,President,,DEM,"Moseley Braun, Carol",2
+PULASKI,President,,DEM,Uncommitted,9
+PULASKI,President,,REP,"Bush, George W.",517
+PULASKI,President,,REP,"Wyatt, Bill",8
+PULASKI,President,,REP,"Ashby, Blake",2
+PULASKI,President,,REP,Uncommitted,12
+PULASKI,President,,LIB,"Nolan, Gary",1
+PULASKI,President,,LIB,"Perez, N. Ruben",0
+PULASKI,President,,LIB,"Diket, Jeffrey H.",0
+PULASKI,President,,LIB,Uncommitted,1
+PUTNAM,President,,DEM,"Lieberman, Joe",10
+PUTNAM,President,,DEM,"Kucinich, Dennis J.",1
+PUTNAM,President,,DEM,"Gephardt, Dick",4
+PUTNAM,President,,DEM,"Clark, Wesley K.",9
+PUTNAM,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+PUTNAM,President,,DEM,"Edwards, John",102
+PUTNAM,President,,DEM,"Kerry, John F.",122
+PUTNAM,President,,DEM,"Dean, Howard",11
+PUTNAM,President,,DEM,"Penna, Fern",0
+PUTNAM,President,,DEM,"Sharpton, Al",3
+PUTNAM,President,,DEM,"Moseley Braun, Carol",0
+PUTNAM,President,,DEM,Uncommitted,1
+PUTNAM,President,,REP,"Bush, George W.",140
+PUTNAM,President,,REP,"Wyatt, Bill",0
+PUTNAM,President,,REP,"Ashby, Blake",3
+PUTNAM,President,,REP,Uncommitted,6
+PUTNAM,President,,LIB,"Nolan, Gary",0
+PUTNAM,President,,LIB,"Perez, N. Ruben",0
+PUTNAM,President,,LIB,"Diket, Jeffrey H.",0
+PUTNAM,President,,LIB,Uncommitted,0
+RALLS,President,,DEM,"Lieberman, Joe",37
+RALLS,President,,DEM,"Kucinich, Dennis J.",2
+RALLS,President,,DEM,"Gephardt, Dick",8
+RALLS,President,,DEM,"Clark, Wesley K.",17
+RALLS,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+RALLS,President,,DEM,"Edwards, John",257
+RALLS,President,,DEM,"Kerry, John F.",314
+RALLS,President,,DEM,"Dean, Howard",63
+RALLS,President,,DEM,"Penna, Fern",0
+RALLS,President,,DEM,"Sharpton, Al",4
+RALLS,President,,DEM,"Moseley Braun, Carol",0
+RALLS,President,,DEM,Uncommitted,11
+RALLS,President,,REP,"Bush, George W.",74
+RALLS,President,,REP,"Wyatt, Bill",0
+RALLS,President,,REP,"Ashby, Blake",1
+RALLS,President,,REP,Uncommitted,1
+RALLS,President,,LIB,"Nolan, Gary",0
+RALLS,President,,LIB,"Perez, N. Ruben",0
+RALLS,President,,LIB,"Diket, Jeffrey H.",0
+RALLS,President,,LIB,Uncommitted,0
+RANDOLPH,President,,DEM,"Lieberman, Joe",47
+RANDOLPH,President,,DEM,"Kucinich, Dennis J.",5
+RANDOLPH,President,,DEM,"Gephardt, Dick",19
+RANDOLPH,President,,DEM,"Clark, Wesley K.",53
+RANDOLPH,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+RANDOLPH,President,,DEM,"Edwards, John",305
+RANDOLPH,President,,DEM,"Kerry, John F.",489
+RANDOLPH,President,,DEM,"Dean, Howard",61
+RANDOLPH,President,,DEM,"Penna, Fern",1
+RANDOLPH,President,,DEM,"Sharpton, Al",17
+RANDOLPH,President,,DEM,"Moseley Braun, Carol",2
+RANDOLPH,President,,DEM,Uncommitted,9
+RANDOLPH,President,,REP,"Bush, George W.",178
+RANDOLPH,President,,REP,"Wyatt, Bill",1
+RANDOLPH,President,,REP,"Ashby, Blake",1
+RANDOLPH,President,,REP,Uncommitted,2
+RANDOLPH,President,,LIB,"Nolan, Gary",1
+RANDOLPH,President,,LIB,"Perez, N. Ruben",0
+RANDOLPH,President,,LIB,"Diket, Jeffrey H.",0
+RANDOLPH,President,,LIB,Uncommitted,1
+RAY,President,,DEM,"Lieberman, Joe",42
+RAY,President,,DEM,"Kucinich, Dennis J.",10
+RAY,President,,DEM,"Gephardt, Dick",19
+RAY,President,,DEM,"Clark, Wesley K.",44
+RAY,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+RAY,President,,DEM,"Edwards, John",468
+RAY,President,,DEM,"Kerry, John F.",771
+RAY,President,,DEM,"Dean, Howard",114
+RAY,President,,DEM,"Penna, Fern",1
+RAY,President,,DEM,"Sharpton, Al",17
+RAY,President,,DEM,"Moseley Braun, Carol",1
+RAY,President,,DEM,Uncommitted,14
+RAY,President,,REP,"Bush, George W.",127
+RAY,President,,REP,"Wyatt, Bill",3
+RAY,President,,REP,"Ashby, Blake",3
+RAY,President,,REP,Uncommitted,2
+RAY,President,,LIB,"Nolan, Gary",2
+RAY,President,,LIB,"Perez, N. Ruben",1
+RAY,President,,LIB,"Diket, Jeffrey H.",2
+RAY,President,,LIB,Uncommitted,2
+REYNOLDS,President,,DEM,"Lieberman, Joe",11
+REYNOLDS,President,,DEM,"Kucinich, Dennis J.",5
+REYNOLDS,President,,DEM,"Gephardt, Dick",20
+REYNOLDS,President,,DEM,"Clark, Wesley K.",21
+REYNOLDS,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+REYNOLDS,President,,DEM,"Edwards, John",208
+REYNOLDS,President,,DEM,"Kerry, John F.",361
+REYNOLDS,President,,DEM,"Dean, Howard",34
+REYNOLDS,President,,DEM,"Penna, Fern",0
+REYNOLDS,President,,DEM,"Sharpton, Al",2
+REYNOLDS,President,,DEM,"Moseley Braun, Carol",0
+REYNOLDS,President,,DEM,Uncommitted,1
+REYNOLDS,President,,REP,"Bush, George W.",84
+REYNOLDS,President,,REP,"Wyatt, Bill",0
+REYNOLDS,President,,REP,"Ashby, Blake",0
+REYNOLDS,President,,REP,Uncommitted,0
+REYNOLDS,President,,LIB,"Nolan, Gary",2
+REYNOLDS,President,,LIB,"Perez, N. Ruben",0
+REYNOLDS,President,,LIB,"Diket, Jeffrey H.",1
+REYNOLDS,President,,LIB,Uncommitted,1
+RIPLEY,President,,DEM,"Lieberman, Joe",55
+RIPLEY,President,,DEM,"Kucinich, Dennis J.",7
+RIPLEY,President,,DEM,"Gephardt, Dick",41
+RIPLEY,President,,DEM,"Clark, Wesley K.",130
+RIPLEY,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+RIPLEY,President,,DEM,"Edwards, John",296
+RIPLEY,President,,DEM,"Kerry, John F.",645
+RIPLEY,President,,DEM,"Dean, Howard",108
+RIPLEY,President,,DEM,"Penna, Fern",3
+RIPLEY,President,,DEM,"Sharpton, Al",20
+RIPLEY,President,,DEM,"Moseley Braun, Carol",6
+RIPLEY,President,,DEM,Uncommitted,48
+RIPLEY,President,,REP,"Bush, George W.",775
+RIPLEY,President,,REP,"Wyatt, Bill",3
+RIPLEY,President,,REP,"Ashby, Blake",4
+RIPLEY,President,,REP,Uncommitted,22
+RIPLEY,President,,LIB,"Nolan, Gary",4
+RIPLEY,President,,LIB,"Perez, N. Ruben",1
+RIPLEY,President,,LIB,"Diket, Jeffrey H.",4
+RIPLEY,President,,LIB,Uncommitted,8
+SALINE,President,,DEM,"Lieberman, Joe",54
+SALINE,President,,DEM,"Kucinich, Dennis J.",12
+SALINE,President,,DEM,"Gephardt, Dick",26
+SALINE,President,,DEM,"Clark, Wesley K.",60
+SALINE,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+SALINE,President,,DEM,"Edwards, John",508
+SALINE,President,,DEM,"Kerry, John F.",734
+SALINE,President,,DEM,"Dean, Howard",177
+SALINE,President,,DEM,"Penna, Fern",5
+SALINE,President,,DEM,"Sharpton, Al",16
+SALINE,President,,DEM,"Moseley Braun, Carol",2
+SALINE,President,,DEM,Uncommitted,15
+SALINE,President,,REP,"Bush, George W.",218
+SALINE,President,,REP,"Wyatt, Bill",3
+SALINE,President,,REP,"Ashby, Blake",5
+SALINE,President,,REP,Uncommitted,5
+SALINE,President,,LIB,"Nolan, Gary",2
+SALINE,President,,LIB,"Perez, N. Ruben",0
+SALINE,President,,LIB,"Diket, Jeffrey H.",0
+SALINE,President,,LIB,Uncommitted,1
+SCHUYLER,President,,DEM,"Lieberman, Joe",4
+SCHUYLER,President,,DEM,"Kucinich, Dennis J.",1
+SCHUYLER,President,,DEM,"Gephardt, Dick",5
+SCHUYLER,President,,DEM,"Clark, Wesley K.",5
+SCHUYLER,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+SCHUYLER,President,,DEM,"Edwards, John",136
+SCHUYLER,President,,DEM,"Kerry, John F.",172
+SCHUYLER,President,,DEM,"Dean, Howard",31
+SCHUYLER,President,,DEM,"Penna, Fern",0
+SCHUYLER,President,,DEM,"Sharpton, Al",0
+SCHUYLER,President,,DEM,"Moseley Braun, Carol",0
+SCHUYLER,President,,DEM,Uncommitted,4
+SCHUYLER,President,,REP,"Bush, George W.",73
+SCHUYLER,President,,REP,"Wyatt, Bill",1
+SCHUYLER,President,,REP,"Ashby, Blake",4
+SCHUYLER,President,,REP,Uncommitted,2
+SCHUYLER,President,,LIB,"Nolan, Gary",0
+SCHUYLER,President,,LIB,"Perez, N. Ruben",0
+SCHUYLER,President,,LIB,"Diket, Jeffrey H.",1
+SCHUYLER,President,,LIB,Uncommitted,0
+SCOTLAND,President,,DEM,"Lieberman, Joe",16
+SCOTLAND,President,,DEM,"Kucinich, Dennis J.",9
+SCOTLAND,President,,DEM,"Gephardt, Dick",3
+SCOTLAND,President,,DEM,"Clark, Wesley K.",8
+SCOTLAND,President,,DEM,"LaRouche, Lyndon H. Jr.",0
+SCOTLAND,President,,DEM,"Edwards, John",114
+SCOTLAND,President,,DEM,"Kerry, John F.",152
+SCOTLAND,President,,DEM,"Dean, Howard",39
+SCOTLAND,President,,DEM,"Penna, Fern",0
+SCOTLAND,President,,DEM,"Sharpton, Al",4
+SCOTLAND,President,,DEM,"Moseley Braun, Carol",0
+SCOTLAND,President,,DEM,Uncommitted,2
+SCOTLAND,President,,REP,"Bush, George W.",70
+SCOTLAND,President,,REP,"Wyatt, Bill",3
+SCOTLAND,President,,REP,"Ashby, Blake",0
+SCOTLAND,President,,REP,Uncommitted,2
+SCOTLAND,President,,LIB,"Nolan, Gary",0
+SCOTLAND,President,,LIB,"Perez, N. Ruben",0
+SCOTLAND,President,,LIB,"Diket, Jeffrey H.",0
+SCOTLAND,President,,LIB,Uncommitted,1
+SCOTT,President,,DEM,"Lieberman, Joe",156
+SCOTT,President,,DEM,"Kucinich, Dennis J.",14
+SCOTT,President,,DEM,"Gephardt, Dick",64
+SCOTT,President,,DEM,"Clark, Wesley K.",148
+SCOTT,President,,DEM,"LaRouche, Lyndon H. Jr.",5
+SCOTT,President,,DEM,"Edwards, John",697
+SCOTT,President,,DEM,"Kerry, John F.",1177
+SCOTT,President,,DEM,"Dean, Howard",205
+SCOTT,President,,DEM,"Penna, Fern",11
+SCOTT,President,,DEM,"Sharpton, Al",74
+SCOTT,President,,DEM,"Moseley Braun, Carol",12
+SCOTT,President,,DEM,Uncommitted,60
+SCOTT,President,,REP,"Bush, George W.",1066
+SCOTT,President,,REP,"Wyatt, Bill",5
+SCOTT,President,,REP,"Ashby, Blake",3
+SCOTT,President,,REP,Uncommitted,23
+SCOTT,President,,LIB,"Nolan, Gary",6
+SCOTT,President,,LIB,"Perez, N. Ruben",1
+SCOTT,President,,LIB,"Diket, Jeffrey H.",4
+SCOTT,President,,LIB,Uncommitted,1
+SHANNON,President,,DEM,"Lieberman, Joe",21
+SHANNON,President,,DEM,"Kucinich, Dennis J.",6
+SHANNON,President,,DEM,"Gephardt, Dick",8
+SHANNON,President,,DEM,"Clark, Wesley K.",41
+SHANNON,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+SHANNON,President,,DEM,"Edwards, John",287
+SHANNON,President,,DEM,"Kerry, John F.",327
+SHANNON,President,,DEM,"Dean, Howard",30
+SHANNON,President,,DEM,"Penna, Fern",1
+SHANNON,President,,DEM,"Sharpton, Al",7
+SHANNON,President,,DEM,"Moseley Braun, Carol",1
+SHANNON,President,,DEM,Uncommitted,10
+SHANNON,President,,REP,"Bush, George W.",144
+SHANNON,President,,REP,"Wyatt, Bill",3
+SHANNON,President,,REP,"Ashby, Blake",6
+SHANNON,President,,REP,Uncommitted,1
+SHANNON,President,,LIB,"Nolan, Gary",0
+SHANNON,President,,LIB,"Perez, N. Ruben",0
+SHANNON,President,,LIB,"Diket, Jeffrey H.",0
+SHANNON,President,,LIB,Uncommitted,0
+SHELBY,President,,DEM,"Lieberman, Joe",26
+SHELBY,President,,DEM,"Kucinich, Dennis J.",2
+SHELBY,President,,DEM,"Gephardt, Dick",9
+SHELBY,President,,DEM,"Clark, Wesley K.",31
+SHELBY,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+SHELBY,President,,DEM,"Edwards, John",169
+SHELBY,President,,DEM,"Kerry, John F.",259
+SHELBY,President,,DEM,"Dean, Howard",31
+SHELBY,President,,DEM,"Penna, Fern",0
+SHELBY,President,,DEM,"Sharpton, Al",2
+SHELBY,President,,DEM,"Moseley Braun, Carol",1
+SHELBY,President,,DEM,Uncommitted,9
+SHELBY,President,,REP,"Bush, George W.",148
+SHELBY,President,,REP,"Wyatt, Bill",0
+SHELBY,President,,REP,"Ashby, Blake",0
+SHELBY,President,,REP,Uncommitted,1
+SHELBY,President,,LIB,"Nolan, Gary",1
+SHELBY,President,,LIB,"Perez, N. Ruben",0
+SHELBY,President,,LIB,"Diket, Jeffrey H.",0
+SHELBY,President,,LIB,Uncommitted,0
+ST CHARLES,President,,DEM,"Lieberman, Joe",598
+ST CHARLES,President,,DEM,"Kucinich, Dennis J.",172
+ST CHARLES,President,,DEM,"Gephardt, Dick",353
+ST CHARLES,President,,DEM,"Clark, Wesley K.",859
+ST CHARLES,President,,DEM,"LaRouche, Lyndon H. Jr.",75
+ST CHARLES,President,,DEM,"Edwards, John",4748
+ST CHARLES,President,,DEM,"Kerry, John F.",11753
+ST CHARLES,President,,DEM,"Dean, Howard",1597
+ST CHARLES,President,,DEM,"Penna, Fern",11
+ST CHARLES,President,,DEM,"Sharpton, Al",304
+ST CHARLES,President,,DEM,"Moseley Braun, Carol",26
+ST CHARLES,President,,DEM,Uncommitted,100
+ST CHARLES,President,,REP,"Bush, George W.",6612
+ST CHARLES,President,,REP,"Wyatt, Bill",65
+ST CHARLES,President,,REP,"Ashby, Blake",58
+ST CHARLES,President,,REP,Uncommitted,144
+ST CHARLES,President,,LIB,"Nolan, Gary",60
+ST CHARLES,President,,LIB,"Perez, N. Ruben",3
+ST CHARLES,President,,LIB,"Diket, Jeffrey H.",8
+ST CHARLES,President,,LIB,Uncommitted,36
+ST CLAIR,President,,DEM,"Lieberman, Joe",18
+ST CLAIR,President,,DEM,"Kucinich, Dennis J.",0
+ST CLAIR,President,,DEM,"Gephardt, Dick",17
+ST CLAIR,President,,DEM,"Clark, Wesley K.",37
+ST CLAIR,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+ST CLAIR,President,,DEM,"Edwards, John",339
+ST CLAIR,President,,DEM,"Kerry, John F.",366
+ST CLAIR,President,,DEM,"Dean, Howard",51
+ST CLAIR,President,,DEM,"Penna, Fern",1
+ST CLAIR,President,,DEM,"Sharpton, Al",7
+ST CLAIR,President,,DEM,"Moseley Braun, Carol",0
+ST CLAIR,President,,DEM,Uncommitted,13
+ST CLAIR,President,,REP,"Bush, George W.",351
+ST CLAIR,President,,REP,"Wyatt, Bill",2
+ST CLAIR,President,,REP,"Ashby, Blake",2
+ST CLAIR,President,,REP,Uncommitted,6
+ST CLAIR,President,,LIB,"Nolan, Gary",2
+ST CLAIR,President,,LIB,"Perez, N. Ruben",0
+ST CLAIR,President,,LIB,"Diket, Jeffrey H.",1
+ST CLAIR,President,,LIB,Uncommitted,1
+ST FRANCOIS,President,,DEM,"Lieberman, Joe",75
+ST FRANCOIS,President,,DEM,"Kucinich, Dennis J.",10
+ST FRANCOIS,President,,DEM,"Gephardt, Dick",73
+ST FRANCOIS,President,,DEM,"Clark, Wesley K.",91
+ST FRANCOIS,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+ST FRANCOIS,President,,DEM,"Edwards, John",709
+ST FRANCOIS,President,,DEM,"Kerry, John F.",1715
+ST FRANCOIS,President,,DEM,"Dean, Howard",187
+ST FRANCOIS,President,,DEM,"Penna, Fern",0
+ST FRANCOIS,President,,DEM,"Sharpton, Al",8
+ST FRANCOIS,President,,DEM,"Moseley Braun, Carol",5
+ST FRANCOIS,President,,DEM,Uncommitted,31
+ST FRANCOIS,President,,REP,"Bush, George W.",494
+ST FRANCOIS,President,,REP,"Wyatt, Bill",11
+ST FRANCOIS,President,,REP,"Ashby, Blake",4
+ST FRANCOIS,President,,REP,Uncommitted,24
+ST FRANCOIS,President,,LIB,"Nolan, Gary",7
+ST FRANCOIS,President,,LIB,"Perez, N. Ruben",2
+ST FRANCOIS,President,,LIB,"Diket, Jeffrey H.",0
+ST FRANCOIS,President,,LIB,Uncommitted,2
+ST LOUIS,President,,DEM,"Lieberman, Joe",838
+ST LOUIS,President,,DEM,"Kucinich, Dennis J.",696
+ST LOUIS,President,,DEM,"Gephardt, Dick",975
+ST LOUIS,President,,DEM,"Clark, Wesley K.",1145
+ST LOUIS,President,,DEM,"LaRouche, Lyndon H. Jr.",104
+ST LOUIS,President,,DEM,"Edwards, John",4274
+ST LOUIS,President,,DEM,"Kerry, John F.",15929
+ST LOUIS,President,,DEM,"Dean, Howard",3035
+ST LOUIS,President,,DEM,"Penna, Fern",27
+ST LOUIS,President,,DEM,"Sharpton, Al",4670
+ST LOUIS,President,,DEM,"Moseley Braun, Carol",174
+ST LOUIS,President,,DEM,Uncommitted,250
+ST LOUIS,President,,REP,"Bush, George W.",1902
+ST LOUIS,President,,REP,"Wyatt, Bill",45
+ST LOUIS,President,,REP,"Ashby, Blake",57
+ST LOUIS,President,,REP,Uncommitted,61
+ST LOUIS,President,,LIB,"Nolan, Gary",30
+ST LOUIS,President,,LIB,"Perez, N. Ruben",11
+ST LOUIS,President,,LIB,"Diket, Jeffrey H.",8
+ST LOUIS,President,,LIB,Uncommitted,21
+ST LOUIS,President,,DEM,"Lieberman, Joe",3740
+ST LOUIS,President,,DEM,"Kucinich, Dennis J.",1240
+ST LOUIS,President,,DEM,"Gephardt, Dick",2040
+ST LOUIS,President,,DEM,"Clark, Wesley K.",3669
+ST LOUIS,President,,DEM,"LaRouche, Lyndon H. Jr.",300
+ST LOUIS,President,,DEM,"Edwards, John",17587
+ST LOUIS,President,,DEM,"Kerry, John F.",50433
+ST LOUIS,President,,DEM,"Dean, Howard",9017
+ST LOUIS,President,,DEM,"Penna, Fern",75
+ST LOUIS,President,,DEM,"Sharpton, Al",5011
+ST LOUIS,President,,DEM,"Moseley Braun, Carol",242
+ST LOUIS,President,,DEM,Uncommitted,743
+ST LOUIS,President,,REP,"Bush, George W.",24415
+ST LOUIS,President,,REP,"Wyatt, Bill",252
+ST LOUIS,President,,REP,"Ashby, Blake",221
+ST LOUIS,President,,REP,Uncommitted,862
+ST LOUIS,President,,LIB,"Nolan, Gary",126
+ST LOUIS,President,,LIB,"Perez, N. Ruben",27
+ST LOUIS,President,,LIB,"Diket, Jeffrey H.",19
+ST LOUIS,President,,LIB,Uncommitted,95
+STE GENEVIEVE,President,,DEM,"Lieberman, Joe",25
+STE GENEVIEVE,President,,DEM,"Kucinich, Dennis J.",9
+STE GENEVIEVE,President,,DEM,"Gephardt, Dick",26
+STE GENEVIEVE,President,,DEM,"Clark, Wesley K.",38
+STE GENEVIEVE,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+STE GENEVIEVE,President,,DEM,"Edwards, John",228
+STE GENEVIEVE,President,,DEM,"Kerry, John F.",668
+STE GENEVIEVE,President,,DEM,"Dean, Howard",48
+STE GENEVIEVE,President,,DEM,"Penna, Fern",0
+STE GENEVIEVE,President,,DEM,"Sharpton, Al",11
+STE GENEVIEVE,President,,DEM,"Moseley Braun, Carol",0
+STE GENEVIEVE,President,,DEM,Uncommitted,2
+STE GENEVIEVE,President,,REP,"Bush, George W.",127
+STE GENEVIEVE,President,,REP,"Wyatt, Bill",6
+STE GENEVIEVE,President,,REP,"Ashby, Blake",2
+STE GENEVIEVE,President,,REP,Uncommitted,4
+STE GENEVIEVE,President,,LIB,"Nolan, Gary",1
+STE GENEVIEVE,President,,LIB,"Perez, N. Ruben",0
+STE GENEVIEVE,President,,LIB,"Diket, Jeffrey H.",0
+STE GENEVIEVE,President,,LIB,Uncommitted,2
+STODDARD,President,,DEM,"Lieberman, Joe",58
+STODDARD,President,,DEM,"Kucinich, Dennis J.",5
+STODDARD,President,,DEM,"Gephardt, Dick",24
+STODDARD,President,,DEM,"Clark, Wesley K.",58
+STODDARD,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+STODDARD,President,,DEM,"Edwards, John",434
+STODDARD,President,,DEM,"Kerry, John F.",665
+STODDARD,President,,DEM,"Dean, Howard",92
+STODDARD,President,,DEM,"Penna, Fern",1
+STODDARD,President,,DEM,"Sharpton, Al",21
+STODDARD,President,,DEM,"Moseley Braun, Carol",10
+STODDARD,President,,DEM,Uncommitted,11
+STODDARD,President,,REP,"Bush, George W.",282
+STODDARD,President,,REP,"Wyatt, Bill",1
+STODDARD,President,,REP,"Ashby, Blake",1
+STODDARD,President,,REP,Uncommitted,1
+STODDARD,President,,LIB,"Nolan, Gary",1
+STODDARD,President,,LIB,"Perez, N. Ruben",1
+STODDARD,President,,LIB,"Diket, Jeffrey H.",0
+STODDARD,President,,LIB,Uncommitted,1
+STONE,President,,DEM,"Lieberman, Joe",46
+STONE,President,,DEM,"Kucinich, Dennis J.",9
+STONE,President,,DEM,"Gephardt, Dick",10
+STONE,President,,DEM,"Clark, Wesley K.",84
+STONE,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+STONE,President,,DEM,"Edwards, John",706
+STONE,President,,DEM,"Kerry, John F.",809
+STONE,President,,DEM,"Dean, Howard",105
+STONE,President,,DEM,"Penna, Fern",0
+STONE,President,,DEM,"Sharpton, Al",13
+STONE,President,,DEM,"Moseley Braun, Carol",2
+STONE,President,,DEM,Uncommitted,5
+STONE,President,,REP,"Bush, George W.",926
+STONE,President,,REP,"Wyatt, Bill",7
+STONE,President,,REP,"Ashby, Blake",6
+STONE,President,,REP,Uncommitted,26
+STONE,President,,LIB,"Nolan, Gary",3
+STONE,President,,LIB,"Perez, N. Ruben",2
+STONE,President,,LIB,"Diket, Jeffrey H.",1
+STONE,President,,LIB,Uncommitted,5
+SULLIVAN,President,,DEM,"Lieberman, Joe",14
+SULLIVAN,President,,DEM,"Kucinich, Dennis J.",1
+SULLIVAN,President,,DEM,"Gephardt, Dick",3
+SULLIVAN,President,,DEM,"Clark, Wesley K.",17
+SULLIVAN,President,,DEM,"LaRouche, Lyndon H. Jr.",2
+SULLIVAN,President,,DEM,"Edwards, John",114
+SULLIVAN,President,,DEM,"Kerry, John F.",212
+SULLIVAN,President,,DEM,"Dean, Howard",33
+SULLIVAN,President,,DEM,"Penna, Fern",0
+SULLIVAN,President,,DEM,"Sharpton, Al",3
+SULLIVAN,President,,DEM,"Moseley Braun, Carol",1
+SULLIVAN,President,,DEM,Uncommitted,4
+SULLIVAN,President,,REP,"Bush, George W.",146
+SULLIVAN,President,,REP,"Wyatt, Bill",1
+SULLIVAN,President,,REP,"Ashby, Blake",3
+SULLIVAN,President,,REP,Uncommitted,8
+SULLIVAN,President,,LIB,"Nolan, Gary",0
+SULLIVAN,President,,LIB,"Perez, N. Ruben",0
+SULLIVAN,President,,LIB,"Diket, Jeffrey H.",1
+SULLIVAN,President,,LIB,Uncommitted,2
+TANEY,President,,DEM,"Lieberman, Joe",61
+TANEY,President,,DEM,"Kucinich, Dennis J.",16
+TANEY,President,,DEM,"Gephardt, Dick",17
+TANEY,President,,DEM,"Clark, Wesley K.",133
+TANEY,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+TANEY,President,,DEM,"Edwards, John",754
+TANEY,President,,DEM,"Kerry, John F.",1016
+TANEY,President,,DEM,"Dean, Howard",132
+TANEY,President,,DEM,"Penna, Fern",2
+TANEY,President,,DEM,"Sharpton, Al",11
+TANEY,President,,DEM,"Moseley Braun, Carol",0
+TANEY,President,,DEM,Uncommitted,24
+TANEY,President,,REP,"Bush, George W.",1241
+TANEY,President,,REP,"Wyatt, Bill",13
+TANEY,President,,REP,"Ashby, Blake",5
+TANEY,President,,REP,Uncommitted,35
+TANEY,President,,LIB,"Nolan, Gary",3
+TANEY,President,,LIB,"Perez, N. Ruben",2
+TANEY,President,,LIB,"Diket, Jeffrey H.",4
+TANEY,President,,LIB,Uncommitted,9
+TEXAS,President,,DEM,"Lieberman, Joe",63
+TEXAS,President,,DEM,"Kucinich, Dennis J.",10
+TEXAS,President,,DEM,"Gephardt, Dick",31
+TEXAS,President,,DEM,"Clark, Wesley K.",98
+TEXAS,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+TEXAS,President,,DEM,"Edwards, John",763
+TEXAS,President,,DEM,"Kerry, John F.",853
+TEXAS,President,,DEM,"Dean, Howard",115
+TEXAS,President,,DEM,"Penna, Fern",4
+TEXAS,President,,DEM,"Sharpton, Al",15
+TEXAS,President,,DEM,"Moseley Braun, Carol",2
+TEXAS,President,,DEM,Uncommitted,28
+TEXAS,President,,REP,"Bush, George W.",701
+TEXAS,President,,REP,"Wyatt, Bill",3
+TEXAS,President,,REP,"Ashby, Blake",5
+TEXAS,President,,REP,Uncommitted,32
+TEXAS,President,,LIB,"Nolan, Gary",15
+TEXAS,President,,LIB,"Perez, N. Ruben",0
+TEXAS,President,,LIB,"Diket, Jeffrey H.",2
+TEXAS,President,,LIB,Uncommitted,7
+VERNON,President,,DEM,"Lieberman, Joe",56
+VERNON,President,,DEM,"Kucinich, Dennis J.",10
+VERNON,President,,DEM,"Gephardt, Dick",40
+VERNON,President,,DEM,"Clark, Wesley K.",89
+VERNON,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+VERNON,President,,DEM,"Edwards, John",389
+VERNON,President,,DEM,"Kerry, John F.",687
+VERNON,President,,DEM,"Dean, Howard",150
+VERNON,President,,DEM,"Penna, Fern",1
+VERNON,President,,DEM,"Sharpton, Al",10
+VERNON,President,,DEM,"Moseley Braun, Carol",1
+VERNON,President,,DEM,Uncommitted,18
+VERNON,President,,REP,"Bush, George W.",404
+VERNON,President,,REP,"Wyatt, Bill",4
+VERNON,President,,REP,"Ashby, Blake",2
+VERNON,President,,REP,Uncommitted,6
+VERNON,President,,LIB,"Nolan, Gary",5
+VERNON,President,,LIB,"Perez, N. Ruben",1
+VERNON,President,,LIB,"Diket, Jeffrey H.",0
+VERNON,President,,LIB,Uncommitted,0
+WARREN,President,,DEM,"Lieberman, Joe",40
+WARREN,President,,DEM,"Kucinich, Dennis J.",7
+WARREN,President,,DEM,"Gephardt, Dick",13
+WARREN,President,,DEM,"Clark, Wesley K.",49
+WARREN,President,,DEM,"LaRouche, Lyndon H. Jr.",3
+WARREN,President,,DEM,"Edwards, John",361
+WARREN,President,,DEM,"Kerry, John F.",797
+WARREN,President,,DEM,"Dean, Howard",89
+WARREN,President,,DEM,"Penna, Fern",2
+WARREN,President,,DEM,"Sharpton, Al",16
+WARREN,President,,DEM,"Moseley Braun, Carol",0
+WARREN,President,,DEM,Uncommitted,6
+WARREN,President,,REP,"Bush, George W.",369
+WARREN,President,,REP,"Wyatt, Bill",6
+WARREN,President,,REP,"Ashby, Blake",1
+WARREN,President,,REP,Uncommitted,8
+WARREN,President,,LIB,"Nolan, Gary",3
+WARREN,President,,LIB,"Perez, N. Ruben",0
+WARREN,President,,LIB,"Diket, Jeffrey H.",1
+WARREN,President,,LIB,Uncommitted,2
+WASHINGTON,President,,DEM,"Lieberman, Joe",26
+WASHINGTON,President,,DEM,"Kucinich, Dennis J.",6
+WASHINGTON,President,,DEM,"Gephardt, Dick",21
+WASHINGTON,President,,DEM,"Clark, Wesley K.",36
+WASHINGTON,President,,DEM,"LaRouche, Lyndon H. Jr.",4
+WASHINGTON,President,,DEM,"Edwards, John",291
+WASHINGTON,President,,DEM,"Kerry, John F.",699
+WASHINGTON,President,,DEM,"Dean, Howard",62
+WASHINGTON,President,,DEM,"Penna, Fern",0
+WASHINGTON,President,,DEM,"Sharpton, Al",14
+WASHINGTON,President,,DEM,"Moseley Braun, Carol",2
+WASHINGTON,President,,DEM,Uncommitted,3
+WASHINGTON,President,,REP,"Bush, George W.",220
+WASHINGTON,President,,REP,"Wyatt, Bill",1
+WASHINGTON,President,,REP,"Ashby, Blake",2
+WASHINGTON,President,,REP,Uncommitted,7
+WASHINGTON,President,,LIB,"Nolan, Gary",2
+WASHINGTON,President,,LIB,"Perez, N. Ruben",1
+WASHINGTON,President,,LIB,"Diket, Jeffrey H.",0
+WASHINGTON,President,,LIB,Uncommitted,0
+WAYNE,President,,DEM,"Lieberman, Joe",22
+WAYNE,President,,DEM,"Kucinich, Dennis J.",5
+WAYNE,President,,DEM,"Gephardt, Dick",15
+WAYNE,President,,DEM,"Clark, Wesley K.",54
+WAYNE,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+WAYNE,President,,DEM,"Edwards, John",320
+WAYNE,President,,DEM,"Kerry, John F.",480
+WAYNE,President,,DEM,"Dean, Howard",47
+WAYNE,President,,DEM,"Penna, Fern",0
+WAYNE,President,,DEM,"Sharpton, Al",10
+WAYNE,President,,DEM,"Moseley Braun, Carol",5
+WAYNE,President,,DEM,Uncommitted,17
+WAYNE,President,,REP,"Bush, George W.",314
+WAYNE,President,,REP,"Wyatt, Bill",2
+WAYNE,President,,REP,"Ashby, Blake",0
+WAYNE,President,,REP,Uncommitted,3
+WAYNE,President,,LIB,"Nolan, Gary",1
+WAYNE,President,,LIB,"Perez, N. Ruben",0
+WAYNE,President,,LIB,"Diket, Jeffrey H.",1
+WAYNE,President,,LIB,Uncommitted,0
+WEBSTER,President,,DEM,"Lieberman, Joe",51
+WEBSTER,President,,DEM,"Kucinich, Dennis J.",7
+WEBSTER,President,,DEM,"Gephardt, Dick",20
+WEBSTER,President,,DEM,"Clark, Wesley K.",126
+WEBSTER,President,,DEM,"LaRouche, Lyndon H. Jr.",1
+WEBSTER,President,,DEM,"Edwards, John",897
+WEBSTER,President,,DEM,"Kerry, John F.",950
+WEBSTER,President,,DEM,"Dean, Howard",121
+WEBSTER,President,,DEM,"Penna, Fern",3
+WEBSTER,President,,DEM,"Sharpton, Al",14
+WEBSTER,President,,DEM,"Moseley Braun, Carol",3
+WEBSTER,President,,DEM,Uncommitted,9
+WEBSTER,President,,REP,"Bush, George W.",1080
+WEBSTER,President,,REP,"Wyatt, Bill",10
+WEBSTER,President,,REP,"Ashby, Blake",4
+WEBSTER,President,,REP,Uncommitted,23
+WEBSTER,President,,LIB,"Nolan, Gary",5
+WEBSTER,President,,LIB,"Perez, N. Ruben",0
+WEBSTER,President,,LIB,"Diket, Jeffrey H.",1
+WEBSTER,President,,LIB,Uncommitted,1
