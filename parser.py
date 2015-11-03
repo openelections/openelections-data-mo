@@ -24,13 +24,13 @@ counties = ['ADAIR','ANDREW','ATCHISON','AUDRAIN','BARRY','BARTON','BATES','BENT
 
 def skip_check(line):
     p = False
-    if 'General Election' in line:
+    if 'Presidential Preference' in line:
         p = True
     elif line.strip() == 'Primary':
         p = True
     elif 'enrweb' in line:
         p = True
-    elif line.strip() == 'Tuesday, November 02, 2004':
+    elif line.strip() == 'Tuesday, February 03, 2004':
         p = True
     elif line.strip() == '\n':
         p = True
@@ -44,7 +44,7 @@ def skip_check(line):
         p = True
     elif 'Board on State Canvassers' in line:
         p = True
-    elif 'on Wednesday, December 01, 2004' in line:
+    elif 'on Monday, February 23, 2004' in line:
         p = True
     elif 'Office Candidate' in line:
         p = True
@@ -66,11 +66,11 @@ def skip_check(line):
         p = True
     return p
 
-with open('20041102__mo__general.csv', 'wb') as csvfile:
+with open('20040203__mo__primary__president.csv', 'wb') as csvfile:
     w = unicodecsv.writer(csvfile, encoding='utf-8')
     w.writerow(headers)
 
-    lines = open("/Users/derekwillis/Downloads/CountyGeneral2004.txt").readlines()
+    lines = open("/Users/derekwillis/Downloads/CountyPresidential2004.txt").readlines()
     keys = []
     for line in lines:
         if skip_check(line):
@@ -78,6 +78,7 @@ with open('20041102__mo__general.csv', 'wb') as csvfile:
         if any(county in line for county in counties):
             c = [county in line for county in counties].index(True)
             county = counties[c]
+        #elif line.strip() in office_lookup.keys():
         elif 'Precincts Reporting' in line:
             office = line.strip().split('Precincts Reporting')[0].strip()
             if 'District' in office:
