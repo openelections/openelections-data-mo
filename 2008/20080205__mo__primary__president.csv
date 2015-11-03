@@ -1,0 +1,3481 @@
+county,precinct,office,district,party,candidate,votes
+ADAIR,President,,REP,"Paul, Ron",158
+ADAIR,President,,REP,"Thompson, Fred",7
+ADAIR,President,,REP,"Romney, Mitt",451
+ADAIR,President,,REP,"Giuliani, Rudy",5
+ADAIR,President,,REP,"McCain, John",558
+ADAIR,President,,REP,"Huckabee, Mike",735
+ADAIR,President,,REP,"Wiles, Virgil L.R.",0
+ADAIR,President,,REP,"Tancredo, Thomas",0
+ADAIR,President,,REP,"Hunter, Duncan",1
+ADAIR,President,,REP,"Cort, Hugh",0
+ADAIR,President,,REP,"Keyes, Alan",1
+ADAIR,President,,REP,"Gilbert, Daniel",0
+ADAIR,President,,REP,UNCOMMITTED,8
+ADAIR,President,,DEM,"Clinton, Hillary",1284
+ADAIR,President,,DEM,"Obama, Barack",1216
+ADAIR,President,,DEM,"Edwards, John",71
+ADAIR,President,,DEM,"Spelbring, Ralph",2
+ADAIR,President,,DEM,"Kucinich, Dennis J.",6
+ADAIR,President,,DEM,"Richardson, Bill",9
+ADAIR,President,,DEM,"Biden, Joe",2
+ADAIR,President,,DEM,"Dodd, Christopher J.",0
+ADAIR,President,,DEM,"Gravel, Mike",1
+ADAIR,President,,DEM,UNCOMMITTED,3
+ADAIR,President,,LIB,"Root, Wayne A.",0
+ADAIR,President,,LIB,"Imperato, Daniel",0
+ADAIR,President,,LIB,"Phillies, George",0
+ADAIR,President,,LIB,"Jingozian, Michael P.",1
+ADAIR,President,,LIB,"Kubby, Steve",0
+ADAIR,President,,LIB,"Hollist, Dave",0
+ADAIR,President,,LIB,UNCOMMITTED,1
+ANDREW,President,,REP,"Paul, Ron",120
+ANDREW,President,,REP,"Thompson, Fred",10
+ANDREW,President,,REP,"Romney, Mitt",641
+ANDREW,President,,REP,"Giuliani, Rudy",16
+ANDREW,President,,REP,"McCain, John",501
+ANDREW,President,,REP,"Huckabee, Mike",484
+ANDREW,President,,REP,"Wiles, Virgil L.R.",1
+ANDREW,President,,REP,"Tancredo, Thomas",0
+ANDREW,President,,REP,"Hunter, Duncan",2
+ANDREW,President,,REP,"Cort, Hugh",0
+ANDREW,President,,REP,"Keyes, Alan",3
+ANDREW,President,,REP,"Gilbert, Daniel",3
+ANDREW,President,,REP,UNCOMMITTED,11
+ANDREW,President,,DEM,"Clinton, Hillary",1067
+ANDREW,President,,DEM,"Obama, Barack",746
+ANDREW,President,,DEM,"Edwards, John",39
+ANDREW,President,,DEM,"Spelbring, Ralph",0
+ANDREW,President,,DEM,"Kucinich, Dennis J.",1
+ANDREW,President,,DEM,"Richardson, Bill",2
+ANDREW,President,,DEM,"Biden, Joe",1
+ANDREW,President,,DEM,"Dodd, Christopher J.",1
+ANDREW,President,,DEM,"Gravel, Mike",1
+ANDREW,President,,DEM,UNCOMMITTED,16
+ANDREW,President,,LIB,"Root, Wayne A.",0
+ANDREW,President,,LIB,"Imperato, Daniel",0
+ANDREW,President,,LIB,"Phillies, George",1
+ANDREW,President,,LIB,"Jingozian, Michael P.",0
+ANDREW,President,,LIB,"Kubby, Steve",0
+ANDREW,President,,LIB,"Hollist, Dave",0
+ANDREW,President,,LIB,UNCOMMITTED,1
+ATCHISON,President,,REP,"Paul, Ron",25
+ATCHISON,President,,REP,"Thompson, Fred",9
+ATCHISON,President,,REP,"Romney, Mitt",230
+ATCHISON,President,,REP,"Giuliani, Rudy",3
+ATCHISON,President,,REP,"McCain, John",281
+ATCHISON,President,,REP,"Huckabee, Mike",189
+ATCHISON,President,,REP,"Wiles, Virgil L.R.",0
+ATCHISON,President,,REP,"Tancredo, Thomas",0
+ATCHISON,President,,REP,"Hunter, Duncan",0
+ATCHISON,President,,REP,"Cort, Hugh",0
+ATCHISON,President,,REP,"Keyes, Alan",2
+ATCHISON,President,,REP,"Gilbert, Daniel",0
+ATCHISON,President,,REP,UNCOMMITTED,2
+ATCHISON,President,,DEM,"Clinton, Hillary",347
+ATCHISON,President,,DEM,"Obama, Barack",262
+ATCHISON,President,,DEM,"Edwards, John",15
+ATCHISON,President,,DEM,"Spelbring, Ralph",0
+ATCHISON,President,,DEM,"Kucinich, Dennis J.",0
+ATCHISON,President,,DEM,"Richardson, Bill",3
+ATCHISON,President,,DEM,"Biden, Joe",0
+ATCHISON,President,,DEM,"Dodd, Christopher J.",0
+ATCHISON,President,,DEM,"Gravel, Mike",0
+ATCHISON,President,,DEM,UNCOMMITTED,7
+ATCHISON,President,,LIB,"Root, Wayne A.",0
+ATCHISON,President,,LIB,"Imperato, Daniel",0
+ATCHISON,President,,LIB,"Phillies, George",1
+ATCHISON,President,,LIB,"Jingozian, Michael P.",0
+ATCHISON,President,,LIB,"Kubby, Steve",0
+ATCHISON,President,,LIB,"Hollist, Dave",1
+ATCHISON,President,,LIB,UNCOMMITTED,0
+AUDRAIN,President,,REP,"Paul, Ron",99
+AUDRAIN,President,,REP,"Thompson, Fred",10
+AUDRAIN,President,,REP,"Romney, Mitt",649
+AUDRAIN,President,,REP,"Giuliani, Rudy",14
+AUDRAIN,President,,REP,"McCain, John",744
+AUDRAIN,President,,REP,"Huckabee, Mike",709
+AUDRAIN,President,,REP,"Wiles, Virgil L.R.",0
+AUDRAIN,President,,REP,"Tancredo, Thomas",1
+AUDRAIN,President,,REP,"Hunter, Duncan",3
+AUDRAIN,President,,REP,"Cort, Hugh",0
+AUDRAIN,President,,REP,"Keyes, Alan",1
+AUDRAIN,President,,REP,"Gilbert, Daniel",1
+AUDRAIN,President,,REP,UNCOMMITTED,7
+AUDRAIN,President,,DEM,"Clinton, Hillary",1575
+AUDRAIN,President,,DEM,"Obama, Barack",1079
+AUDRAIN,President,,DEM,"Edwards, John",69
+AUDRAIN,President,,DEM,"Spelbring, Ralph",1
+AUDRAIN,President,,DEM,"Kucinich, Dennis J.",3
+AUDRAIN,President,,DEM,"Richardson, Bill",2
+AUDRAIN,President,,DEM,"Biden, Joe",0
+AUDRAIN,President,,DEM,"Dodd, Christopher J.",2
+AUDRAIN,President,,DEM,"Gravel, Mike",2
+AUDRAIN,President,,DEM,UNCOMMITTED,10
+AUDRAIN,President,,LIB,"Root, Wayne A.",0
+AUDRAIN,President,,LIB,"Imperato, Daniel",0
+AUDRAIN,President,,LIB,"Phillies, George",0
+AUDRAIN,President,,LIB,"Jingozian, Michael P.",0
+AUDRAIN,President,,LIB,"Kubby, Steve",2
+AUDRAIN,President,,LIB,"Hollist, Dave",0
+AUDRAIN,President,,LIB,UNCOMMITTED,0
+BARRY,President,,REP,"Paul, Ron",266
+BARRY,President,,REP,"Thompson, Fred",12
+BARRY,President,,REP,"Romney, Mitt",739
+BARRY,President,,REP,"Giuliani, Rudy",14
+BARRY,President,,REP,"McCain, John",1365
+BARRY,President,,REP,"Huckabee, Mike",2396
+BARRY,President,,REP,"Wiles, Virgil L.R.",1
+BARRY,President,,REP,"Tancredo, Thomas",0
+BARRY,President,,REP,"Hunter, Duncan",4
+BARRY,President,,REP,"Cort, Hugh",0
+BARRY,President,,REP,"Keyes, Alan",6
+BARRY,President,,REP,"Gilbert, Daniel",0
+BARRY,President,,REP,UNCOMMITTED,19
+BARRY,President,,DEM,"Clinton, Hillary",1976
+BARRY,President,,DEM,"Obama, Barack",919
+BARRY,President,,DEM,"Edwards, John",93
+BARRY,President,,DEM,"Spelbring, Ralph",0
+BARRY,President,,DEM,"Kucinich, Dennis J.",2
+BARRY,President,,DEM,"Richardson, Bill",3
+BARRY,President,,DEM,"Biden, Joe",1
+BARRY,President,,DEM,"Dodd, Christopher J.",2
+BARRY,President,,DEM,"Gravel, Mike",4
+BARRY,President,,DEM,UNCOMMITTED,16
+BARRY,President,,LIB,"Root, Wayne A.",2
+BARRY,President,,LIB,"Imperato, Daniel",0
+BARRY,President,,LIB,"Phillies, George",1
+BARRY,President,,LIB,"Jingozian, Michael P.",1
+BARRY,President,,LIB,"Kubby, Steve",0
+BARRY,President,,LIB,"Hollist, Dave",1
+BARRY,President,,LIB,UNCOMMITTED,7
+BARTON,President,,REP,"Paul, Ron",45
+BARTON,President,,REP,"Thompson, Fred",5
+BARTON,President,,REP,"Romney, Mitt",344
+BARTON,President,,REP,"Giuliani, Rudy",12
+BARTON,President,,REP,"McCain, John",525
+BARTON,President,,REP,"Huckabee, Mike",1188
+BARTON,President,,REP,"Wiles, Virgil L.R.",0
+BARTON,President,,REP,"Tancredo, Thomas",0
+BARTON,President,,REP,"Hunter, Duncan",2
+BARTON,President,,REP,"Cort, Hugh",0
+BARTON,President,,REP,"Keyes, Alan",4
+BARTON,President,,REP,"Gilbert, Daniel",1
+BARTON,President,,REP,UNCOMMITTED,6
+BARTON,President,,DEM,"Clinton, Hillary",614
+BARTON,President,,DEM,"Obama, Barack",318
+BARTON,President,,DEM,"Edwards, John",29
+BARTON,President,,DEM,"Spelbring, Ralph",0
+BARTON,President,,DEM,"Kucinich, Dennis J.",0
+BARTON,President,,DEM,"Richardson, Bill",1
+BARTON,President,,DEM,"Biden, Joe",1
+BARTON,President,,DEM,"Dodd, Christopher J.",0
+BARTON,President,,DEM,"Gravel, Mike",1
+BARTON,President,,DEM,UNCOMMITTED,4
+BARTON,President,,LIB,"Root, Wayne A.",2
+BARTON,President,,LIB,"Imperato, Daniel",0
+BARTON,President,,LIB,"Phillies, George",1
+BARTON,President,,LIB,"Jingozian, Michael P.",0
+BARTON,President,,LIB,"Kubby, Steve",0
+BARTON,President,,LIB,"Hollist, Dave",0
+BARTON,President,,LIB,UNCOMMITTED,1
+BATES,President,,REP,"Paul, Ron",71
+BATES,President,,REP,"Thompson, Fred",11
+BATES,President,,REP,"Romney, Mitt",368
+BATES,President,,REP,"Giuliani, Rudy",13
+BATES,President,,REP,"McCain, John",594
+BATES,President,,REP,"Huckabee, Mike",503
+BATES,President,,REP,"Wiles, Virgil L.R.",0
+BATES,President,,REP,"Tancredo, Thomas",0
+BATES,President,,REP,"Hunter, Duncan",2
+BATES,President,,REP,"Cort, Hugh",0
+BATES,President,,REP,"Keyes, Alan",4
+BATES,President,,REP,"Gilbert, Daniel",1
+BATES,President,,REP,UNCOMMITTED,8
+BATES,President,,DEM,"Clinton, Hillary",1427
+BATES,President,,DEM,"Obama, Barack",676
+BATES,President,,DEM,"Edwards, John",106
+BATES,President,,DEM,"Spelbring, Ralph",2
+BATES,President,,DEM,"Kucinich, Dennis J.",3
+BATES,President,,DEM,"Richardson, Bill",7
+BATES,President,,DEM,"Biden, Joe",3
+BATES,President,,DEM,"Dodd, Christopher J.",2
+BATES,President,,DEM,"Gravel, Mike",5
+BATES,President,,DEM,UNCOMMITTED,16
+BATES,President,,LIB,"Root, Wayne A.",3
+BATES,President,,LIB,"Imperato, Daniel",0
+BATES,President,,LIB,"Phillies, George",1
+BATES,President,,LIB,"Jingozian, Michael P.",0
+BATES,President,,LIB,"Kubby, Steve",0
+BATES,President,,LIB,"Hollist, Dave",0
+BATES,President,,LIB,UNCOMMITTED,2
+BENTON,President,,REP,"Paul, Ron",75
+BENTON,President,,REP,"Thompson, Fred",11
+BENTON,President,,REP,"Romney, Mitt",580
+BENTON,President,,REP,"Giuliani, Rudy",16
+BENTON,President,,REP,"McCain, John",803
+BENTON,President,,REP,"Huckabee, Mike",824
+BENTON,President,,REP,"Wiles, Virgil L.R.",0
+BENTON,President,,REP,"Tancredo, Thomas",0
+BENTON,President,,REP,"Hunter, Duncan",0
+BENTON,President,,REP,"Cort, Hugh",0
+BENTON,President,,REP,"Keyes, Alan",2
+BENTON,President,,REP,"Gilbert, Daniel",1
+BENTON,President,,REP,UNCOMMITTED,4
+BENTON,President,,DEM,"Clinton, Hillary",1753
+BENTON,President,,DEM,"Obama, Barack",687
+BENTON,President,,DEM,"Edwards, John",80
+BENTON,President,,DEM,"Spelbring, Ralph",1
+BENTON,President,,DEM,"Kucinich, Dennis J.",1
+BENTON,President,,DEM,"Richardson, Bill",3
+BENTON,President,,DEM,"Biden, Joe",6
+BENTON,President,,DEM,"Dodd, Christopher J.",0
+BENTON,President,,DEM,"Gravel, Mike",0
+BENTON,President,,DEM,UNCOMMITTED,18
+BENTON,President,,LIB,"Root, Wayne A.",0
+BENTON,President,,LIB,"Imperato, Daniel",0
+BENTON,President,,LIB,"Phillies, George",1
+BENTON,President,,LIB,"Jingozian, Michael P.",0
+BENTON,President,,LIB,"Kubby, Steve",0
+BENTON,President,,LIB,"Hollist, Dave",0
+BENTON,President,,LIB,UNCOMMITTED,5
+BOLLINGER,President,,REP,"Paul, Ron",65
+BOLLINGER,President,,REP,"Thompson, Fred",10
+BOLLINGER,President,,REP,"Romney, Mitt",384
+BOLLINGER,President,,REP,"Giuliani, Rudy",7
+BOLLINGER,President,,REP,"McCain, John",518
+BOLLINGER,President,,REP,"Huckabee, Mike",657
+BOLLINGER,President,,REP,"Wiles, Virgil L.R.",0
+BOLLINGER,President,,REP,"Tancredo, Thomas",0
+BOLLINGER,President,,REP,"Hunter, Duncan",3
+BOLLINGER,President,,REP,"Cort, Hugh",0
+BOLLINGER,President,,REP,"Keyes, Alan",5
+BOLLINGER,President,,REP,"Gilbert, Daniel",0
+BOLLINGER,President,,REP,UNCOMMITTED,5
+BOLLINGER,President,,DEM,"Clinton, Hillary",971
+BOLLINGER,President,,DEM,"Obama, Barack",293
+BOLLINGER,President,,DEM,"Edwards, John",38
+BOLLINGER,President,,DEM,"Spelbring, Ralph",0
+BOLLINGER,President,,DEM,"Kucinich, Dennis J.",0
+BOLLINGER,President,,DEM,"Richardson, Bill",0
+BOLLINGER,President,,DEM,"Biden, Joe",1
+BOLLINGER,President,,DEM,"Dodd, Christopher J.",1
+BOLLINGER,President,,DEM,"Gravel, Mike",0
+BOLLINGER,President,,DEM,UNCOMMITTED,6
+BOLLINGER,President,,LIB,"Root, Wayne A.",2
+BOLLINGER,President,,LIB,"Imperato, Daniel",0
+BOLLINGER,President,,LIB,"Phillies, George",0
+BOLLINGER,President,,LIB,"Jingozian, Michael P.",0
+BOLLINGER,President,,LIB,"Kubby, Steve",0
+BOLLINGER,President,,LIB,"Hollist, Dave",1
+BOLLINGER,President,,LIB,UNCOMMITTED,1
+BOONE,President,,REP,"Paul, Ron",1047
+BOONE,President,,REP,"Thompson, Fred",64
+BOONE,President,,REP,"Romney, Mitt",5688
+BOONE,President,,REP,"Giuliani, Rudy",109
+BOONE,President,,REP,"McCain, John",4948
+BOONE,President,,REP,"Huckabee, Mike",3838
+BOONE,President,,REP,"Wiles, Virgil L.R.",1
+BOONE,President,,REP,"Tancredo, Thomas",5
+BOONE,President,,REP,"Hunter, Duncan",6
+BOONE,President,,REP,"Cort, Hugh",1
+BOONE,President,,REP,"Keyes, Alan",40
+BOONE,President,,REP,"Gilbert, Daniel",2
+BOONE,President,,REP,UNCOMMITTED,78
+BOONE,President,,DEM,"Clinton, Hillary",9601
+BOONE,President,,DEM,"Obama, Barack",15750
+BOONE,President,,DEM,"Edwards, John",396
+BOONE,President,,DEM,"Spelbring, Ralph",1
+BOONE,President,,DEM,"Kucinich, Dennis J.",53
+BOONE,President,,DEM,"Richardson, Bill",27
+BOONE,President,,DEM,"Biden, Joe",22
+BOONE,President,,DEM,"Dodd, Christopher J.",4
+BOONE,President,,DEM,"Gravel, Mike",23
+BOONE,President,,DEM,UNCOMMITTED,126
+BOONE,President,,LIB,"Root, Wayne A.",19
+BOONE,President,,LIB,"Imperato, Daniel",5
+BOONE,President,,LIB,"Phillies, George",5
+BOONE,President,,LIB,"Jingozian, Michael P.",3
+BOONE,President,,LIB,"Kubby, Steve",5
+BOONE,President,,LIB,"Hollist, Dave",5
+BOONE,President,,LIB,UNCOMMITTED,43
+BUCHANAN,President,,REP,"Paul, Ron",521
+BUCHANAN,President,,REP,"Thompson, Fred",48
+BUCHANAN,President,,REP,"Romney, Mitt",2216
+BUCHANAN,President,,REP,"Giuliani, Rudy",57
+BUCHANAN,President,,REP,"McCain, John",2194
+BUCHANAN,President,,REP,"Huckabee, Mike",1825
+BUCHANAN,President,,REP,"Wiles, Virgil L.R.",1
+BUCHANAN,President,,REP,"Tancredo, Thomas",1
+BUCHANAN,President,,REP,"Hunter, Duncan",5
+BUCHANAN,President,,REP,"Cort, Hugh",3
+BUCHANAN,President,,REP,"Keyes, Alan",9
+BUCHANAN,President,,REP,"Gilbert, Daniel",0
+BUCHANAN,President,,REP,UNCOMMITTED,57
+BUCHANAN,President,,DEM,"Clinton, Hillary",6689
+BUCHANAN,President,,DEM,"Obama, Barack",4427
+BUCHANAN,President,,DEM,"Edwards, John",413
+BUCHANAN,President,,DEM,"Spelbring, Ralph",8
+BUCHANAN,President,,DEM,"Kucinich, Dennis J.",15
+BUCHANAN,President,,DEM,"Richardson, Bill",11
+BUCHANAN,President,,DEM,"Biden, Joe",12
+BUCHANAN,President,,DEM,"Dodd, Christopher J.",13
+BUCHANAN,President,,DEM,"Gravel, Mike",10
+BUCHANAN,President,,DEM,UNCOMMITTED,119
+BUCHANAN,President,,LIB,"Root, Wayne A.",6
+BUCHANAN,President,,LIB,"Imperato, Daniel",1
+BUCHANAN,President,,LIB,"Phillies, George",3
+BUCHANAN,President,,LIB,"Jingozian, Michael P.",0
+BUCHANAN,President,,LIB,"Kubby, Steve",2
+BUCHANAN,President,,LIB,"Hollist, Dave",2
+BUCHANAN,President,,LIB,UNCOMMITTED,18
+BUTLER,President,,REP,"Paul, Ron",134
+BUTLER,President,,REP,"Thompson, Fred",27
+BUTLER,President,,REP,"Romney, Mitt",1007
+BUTLER,President,,REP,"Giuliani, Rudy",13
+BUTLER,President,,REP,"McCain, John",1117
+BUTLER,President,,REP,"Huckabee, Mike",2215
+BUTLER,President,,REP,"Wiles, Virgil L.R.",0
+BUTLER,President,,REP,"Tancredo, Thomas",3
+BUTLER,President,,REP,"Hunter, Duncan",1
+BUTLER,President,,REP,"Cort, Hugh",0
+BUTLER,President,,REP,"Keyes, Alan",2
+BUTLER,President,,REP,"Gilbert, Daniel",0
+BUTLER,President,,REP,UNCOMMITTED,15
+BUTLER,President,,DEM,"Clinton, Hillary",2490
+BUTLER,President,,DEM,"Obama, Barack",960
+BUTLER,President,,DEM,"Edwards, John",82
+BUTLER,President,,DEM,"Spelbring, Ralph",3
+BUTLER,President,,DEM,"Kucinich, Dennis J.",4
+BUTLER,President,,DEM,"Richardson, Bill",6
+BUTLER,President,,DEM,"Biden, Joe",0
+BUTLER,President,,DEM,"Dodd, Christopher J.",2
+BUTLER,President,,DEM,"Gravel, Mike",2
+BUTLER,President,,DEM,UNCOMMITTED,15
+BUTLER,President,,LIB,"Root, Wayne A.",2
+BUTLER,President,,LIB,"Imperato, Daniel",1
+BUTLER,President,,LIB,"Phillies, George",1
+BUTLER,President,,LIB,"Jingozian, Michael P.",0
+BUTLER,President,,LIB,"Kubby, Steve",0
+BUTLER,President,,LIB,"Hollist, Dave",0
+BUTLER,President,,LIB,UNCOMMITTED,0
+CALDWELL,President,,REP,"Paul, Ron",77
+CALDWELL,President,,REP,"Thompson, Fred",9
+CALDWELL,President,,REP,"Romney, Mitt",242
+CALDWELL,President,,REP,"Giuliani, Rudy",8
+CALDWELL,President,,REP,"McCain, John",363
+CALDWELL,President,,REP,"Huckabee, Mike",302
+CALDWELL,President,,REP,"Wiles, Virgil L.R.",0
+CALDWELL,President,,REP,"Tancredo, Thomas",0
+CALDWELL,President,,REP,"Hunter, Duncan",0
+CALDWELL,President,,REP,"Cort, Hugh",0
+CALDWELL,President,,REP,"Keyes, Alan",1
+CALDWELL,President,,REP,"Gilbert, Daniel",0
+CALDWELL,President,,REP,UNCOMMITTED,5
+CALDWELL,President,,DEM,"Clinton, Hillary",616
+CALDWELL,President,,DEM,"Obama, Barack",379
+CALDWELL,President,,DEM,"Edwards, John",37
+CALDWELL,President,,DEM,"Spelbring, Ralph",0
+CALDWELL,President,,DEM,"Kucinich, Dennis J.",0
+CALDWELL,President,,DEM,"Richardson, Bill",1
+CALDWELL,President,,DEM,"Biden, Joe",0
+CALDWELL,President,,DEM,"Dodd, Christopher J.",0
+CALDWELL,President,,DEM,"Gravel, Mike",0
+CALDWELL,President,,DEM,UNCOMMITTED,4
+CALDWELL,President,,LIB,"Root, Wayne A.",0
+CALDWELL,President,,LIB,"Imperato, Daniel",1
+CALDWELL,President,,LIB,"Phillies, George",0
+CALDWELL,President,,LIB,"Jingozian, Michael P.",1
+CALDWELL,President,,LIB,"Kubby, Steve",0
+CALDWELL,President,,LIB,"Hollist, Dave",0
+CALDWELL,President,,LIB,UNCOMMITTED,1
+CALLAWAY,President,,REP,"Paul, Ron",196
+CALLAWAY,President,,REP,"Thompson, Fred",28
+CALLAWAY,President,,REP,"Romney, Mitt",1457
+CALLAWAY,President,,REP,"Giuliani, Rudy",30
+CALLAWAY,President,,REP,"McCain, John",1203
+CALLAWAY,President,,REP,"Huckabee, Mike",1517
+CALLAWAY,President,,REP,"Wiles, Virgil L.R.",1
+CALLAWAY,President,,REP,"Tancredo, Thomas",0
+CALLAWAY,President,,REP,"Hunter, Duncan",3
+CALLAWAY,President,,REP,"Cort, Hugh",0
+CALLAWAY,President,,REP,"Keyes, Alan",3
+CALLAWAY,President,,REP,"Gilbert, Daniel",0
+CALLAWAY,President,,REP,UNCOMMITTED,5
+CALLAWAY,President,,DEM,"Clinton, Hillary",2701
+CALLAWAY,President,,DEM,"Obama, Barack",2037
+CALLAWAY,President,,DEM,"Edwards, John",153
+CALLAWAY,President,,DEM,"Spelbring, Ralph",4
+CALLAWAY,President,,DEM,"Kucinich, Dennis J.",2
+CALLAWAY,President,,DEM,"Richardson, Bill",8
+CALLAWAY,President,,DEM,"Biden, Joe",4
+CALLAWAY,President,,DEM,"Dodd, Christopher J.",1
+CALLAWAY,President,,DEM,"Gravel, Mike",2
+CALLAWAY,President,,DEM,UNCOMMITTED,25
+CALLAWAY,President,,LIB,"Root, Wayne A.",4
+CALLAWAY,President,,LIB,"Imperato, Daniel",1
+CALLAWAY,President,,LIB,"Phillies, George",5
+CALLAWAY,President,,LIB,"Jingozian, Michael P.",1
+CALLAWAY,President,,LIB,"Kubby, Steve",1
+CALLAWAY,President,,LIB,"Hollist, Dave",1
+CALLAWAY,President,,LIB,UNCOMMITTED,7
+CAMDEN,President,,REP,"Paul, Ron",194
+CAMDEN,President,,REP,"Thompson, Fred",37
+CAMDEN,President,,REP,"Romney, Mitt",1843
+CAMDEN,President,,REP,"Giuliani, Rudy",40
+CAMDEN,President,,REP,"McCain, John",2196
+CAMDEN,President,,REP,"Huckabee, Mike",2133
+CAMDEN,President,,REP,"Wiles, Virgil L.R.",1
+CAMDEN,President,,REP,"Tancredo, Thomas",2
+CAMDEN,President,,REP,"Hunter, Duncan",1
+CAMDEN,President,,REP,"Cort, Hugh",1
+CAMDEN,President,,REP,"Keyes, Alan",5
+CAMDEN,President,,REP,"Gilbert, Daniel",2
+CAMDEN,President,,REP,UNCOMMITTED,20
+CAMDEN,President,,DEM,"Clinton, Hillary",2794
+CAMDEN,President,,DEM,"Obama, Barack",1867
+CAMDEN,President,,DEM,"Edwards, John",129
+CAMDEN,President,,DEM,"Spelbring, Ralph",0
+CAMDEN,President,,DEM,"Kucinich, Dennis J.",1
+CAMDEN,President,,DEM,"Richardson, Bill",1
+CAMDEN,President,,DEM,"Biden, Joe",6
+CAMDEN,President,,DEM,"Dodd, Christopher J.",2
+CAMDEN,President,,DEM,"Gravel, Mike",4
+CAMDEN,President,,DEM,UNCOMMITTED,14
+CAMDEN,President,,LIB,"Root, Wayne A.",2
+CAMDEN,President,,LIB,"Imperato, Daniel",0
+CAMDEN,President,,LIB,"Phillies, George",3
+CAMDEN,President,,LIB,"Jingozian, Michael P.",0
+CAMDEN,President,,LIB,"Kubby, Steve",2
+CAMDEN,President,,LIB,"Hollist, Dave",2
+CAMDEN,President,,LIB,UNCOMMITTED,6
+CAPE GIRARDEAU,President,,REP,"Paul, Ron",361
+CAPE GIRARDEAU,President,,REP,"Thompson, Fred",63
+CAPE GIRARDEAU,President,,REP,"Romney, Mitt",3922
+CAPE GIRARDEAU,President,,REP,"Giuliani, Rudy",89
+CAPE GIRARDEAU,President,,REP,"McCain, John",3528
+CAPE GIRARDEAU,President,,REP,"Huckabee, Mike",3068
+CAPE GIRARDEAU,President,,REP,"Wiles, Virgil L.R.",1
+CAPE GIRARDEAU,President,,REP,"Tancredo, Thomas",1
+CAPE GIRARDEAU,President,,REP,"Hunter, Duncan",3
+CAPE GIRARDEAU,President,,REP,"Cort, Hugh",0
+CAPE GIRARDEAU,President,,REP,"Keyes, Alan",15
+CAPE GIRARDEAU,President,,REP,"Gilbert, Daniel",2
+CAPE GIRARDEAU,President,,REP,UNCOMMITTED,52
+CAPE GIRARDEAU,President,,DEM,"Clinton, Hillary",4510
+CAPE GIRARDEAU,President,,DEM,"Obama, Barack",3145
+CAPE GIRARDEAU,President,,DEM,"Edwards, John",247
+CAPE GIRARDEAU,President,,DEM,"Spelbring, Ralph",3
+CAPE GIRARDEAU,President,,DEM,"Kucinich, Dennis J.",10
+CAPE GIRARDEAU,President,,DEM,"Richardson, Bill",7
+CAPE GIRARDEAU,President,,DEM,"Biden, Joe",5
+CAPE GIRARDEAU,President,,DEM,"Dodd, Christopher J.",3
+CAPE GIRARDEAU,President,,DEM,"Gravel, Mike",6
+CAPE GIRARDEAU,President,,DEM,UNCOMMITTED,39
+CAPE GIRARDEAU,President,,LIB,"Root, Wayne A.",6
+CAPE GIRARDEAU,President,,LIB,"Imperato, Daniel",2
+CAPE GIRARDEAU,President,,LIB,"Phillies, George",0
+CAPE GIRARDEAU,President,,LIB,"Jingozian, Michael P.",4
+CAPE GIRARDEAU,President,,LIB,"Kubby, Steve",9
+CAPE GIRARDEAU,President,,LIB,"Hollist, Dave",1
+CAPE GIRARDEAU,President,,LIB,UNCOMMITTED,30
+CARROLL,President,,REP,"Paul, Ron",28
+CARROLL,President,,REP,"Thompson, Fred",6
+CARROLL,President,,REP,"Romney, Mitt",175
+CARROLL,President,,REP,"Giuliani, Rudy",13
+CARROLL,President,,REP,"McCain, John",437
+CARROLL,President,,REP,"Huckabee, Mike",251
+CARROLL,President,,REP,"Wiles, Virgil L.R.",0
+CARROLL,President,,REP,"Tancredo, Thomas",0
+CARROLL,President,,REP,"Hunter, Duncan",0
+CARROLL,President,,REP,"Cort, Hugh",0
+CARROLL,President,,REP,"Keyes, Alan",0
+CARROLL,President,,REP,"Gilbert, Daniel",0
+CARROLL,President,,REP,UNCOMMITTED,4
+CARROLL,President,,DEM,"Clinton, Hillary",548
+CARROLL,President,,DEM,"Obama, Barack",299
+CARROLL,President,,DEM,"Edwards, John",21
+CARROLL,President,,DEM,"Spelbring, Ralph",0
+CARROLL,President,,DEM,"Kucinich, Dennis J.",0
+CARROLL,President,,DEM,"Richardson, Bill",1
+CARROLL,President,,DEM,"Biden, Joe",0
+CARROLL,President,,DEM,"Dodd, Christopher J.",0
+CARROLL,President,,DEM,"Gravel, Mike",0
+CARROLL,President,,DEM,UNCOMMITTED,3
+CARROLL,President,,LIB,"Root, Wayne A.",1
+CARROLL,President,,LIB,"Imperato, Daniel",2
+CARROLL,President,,LIB,"Phillies, George",1
+CARROLL,President,,LIB,"Jingozian, Michael P.",0
+CARROLL,President,,LIB,"Kubby, Steve",0
+CARROLL,President,,LIB,"Hollist, Dave",0
+CARROLL,President,,LIB,UNCOMMITTED,0
+CARTER,President,,REP,"Paul, Ron",24
+CARTER,President,,REP,"Thompson, Fred",2
+CARTER,President,,REP,"Romney, Mitt",107
+CARTER,President,,REP,"Giuliani, Rudy",2
+CARTER,President,,REP,"McCain, John",202
+CARTER,President,,REP,"Huckabee, Mike",373
+CARTER,President,,REP,"Wiles, Virgil L.R.",0
+CARTER,President,,REP,"Tancredo, Thomas",0
+CARTER,President,,REP,"Hunter, Duncan",2
+CARTER,President,,REP,"Cort, Hugh",0
+CARTER,President,,REP,"Keyes, Alan",0
+CARTER,President,,REP,"Gilbert, Daniel",0
+CARTER,President,,REP,UNCOMMITTED,0
+CARTER,President,,DEM,"Clinton, Hillary",541
+CARTER,President,,DEM,"Obama, Barack",137
+CARTER,President,,DEM,"Edwards, John",32
+CARTER,President,,DEM,"Spelbring, Ralph",0
+CARTER,President,,DEM,"Kucinich, Dennis J.",4
+CARTER,President,,DEM,"Richardson, Bill",0
+CARTER,President,,DEM,"Biden, Joe",2
+CARTER,President,,DEM,"Dodd, Christopher J.",0
+CARTER,President,,DEM,"Gravel, Mike",0
+CARTER,President,,DEM,UNCOMMITTED,3
+CARTER,President,,LIB,"Root, Wayne A.",1
+CARTER,President,,LIB,"Imperato, Daniel",0
+CARTER,President,,LIB,"Phillies, George",1
+CARTER,President,,LIB,"Jingozian, Michael P.",0
+CARTER,President,,LIB,"Kubby, Steve",0
+CARTER,President,,LIB,"Hollist, Dave",0
+CARTER,President,,LIB,UNCOMMITTED,1
+CASS,President,,REP,"Paul, Ron",477
+CASS,President,,REP,"Thompson, Fred",55
+CASS,President,,REP,"Romney, Mitt",3324
+CASS,President,,REP,"Giuliani, Rudy",62
+CASS,President,,REP,"McCain, John",3195
+CASS,President,,REP,"Huckabee, Mike",3033
+CASS,President,,REP,"Wiles, Virgil L.R.",2
+CASS,President,,REP,"Tancredo, Thomas",3
+CASS,President,,REP,"Hunter, Duncan",8
+CASS,President,,REP,"Cort, Hugh",0
+CASS,President,,REP,"Keyes, Alan",22
+CASS,President,,REP,"Gilbert, Daniel",2
+CASS,President,,REP,UNCOMMITTED,30
+CASS,President,,DEM,"Clinton, Hillary",6500
+CASS,President,,DEM,"Obama, Barack",3995
+CASS,President,,DEM,"Edwards, John",302
+CASS,President,,DEM,"Spelbring, Ralph",2
+CASS,President,,DEM,"Kucinich, Dennis J.",8
+CASS,President,,DEM,"Richardson, Bill",7
+CASS,President,,DEM,"Biden, Joe",9
+CASS,President,,DEM,"Dodd, Christopher J.",2
+CASS,President,,DEM,"Gravel, Mike",6
+CASS,President,,DEM,UNCOMMITTED,46
+CASS,President,,LIB,"Root, Wayne A.",5
+CASS,President,,LIB,"Imperato, Daniel",0
+CASS,President,,LIB,"Phillies, George",4
+CASS,President,,LIB,"Jingozian, Michael P.",0
+CASS,President,,LIB,"Kubby, Steve",3
+CASS,President,,LIB,"Hollist, Dave",2
+CASS,President,,LIB,UNCOMMITTED,15
+CEDAR,President,,REP,"Paul, Ron",63
+CEDAR,President,,REP,"Thompson, Fred",12
+CEDAR,President,,REP,"Romney, Mitt",403
+CEDAR,President,,REP,"Giuliani, Rudy",20
+CEDAR,President,,REP,"McCain, John",709
+CEDAR,President,,REP,"Huckabee, Mike",1051
+CEDAR,President,,REP,"Wiles, Virgil L.R.",0
+CEDAR,President,,REP,"Tancredo, Thomas",0
+CEDAR,President,,REP,"Hunter, Duncan",1
+CEDAR,President,,REP,"Cort, Hugh",1
+CEDAR,President,,REP,"Keyes, Alan",4
+CEDAR,President,,REP,"Gilbert, Daniel",0
+CEDAR,President,,REP,UNCOMMITTED,20
+CEDAR,President,,DEM,"Clinton, Hillary",910
+CEDAR,President,,DEM,"Obama, Barack",498
+CEDAR,President,,DEM,"Edwards, John",59
+CEDAR,President,,DEM,"Spelbring, Ralph",2
+CEDAR,President,,DEM,"Kucinich, Dennis J.",2
+CEDAR,President,,DEM,"Richardson, Bill",4
+CEDAR,President,,DEM,"Biden, Joe",1
+CEDAR,President,,DEM,"Dodd, Christopher J.",2
+CEDAR,President,,DEM,"Gravel, Mike",0
+CEDAR,President,,DEM,UNCOMMITTED,31
+CEDAR,President,,LIB,"Root, Wayne A.",1
+CEDAR,President,,LIB,"Imperato, Daniel",0
+CEDAR,President,,LIB,"Phillies, George",1
+CEDAR,President,,LIB,"Jingozian, Michael P.",2
+CEDAR,President,,LIB,"Kubby, Steve",0
+CEDAR,President,,LIB,"Hollist, Dave",1
+CEDAR,President,,LIB,UNCOMMITTED,1
+CHARITON,President,,REP,"Paul, Ron",28
+CHARITON,President,,REP,"Thompson, Fred",2
+CHARITON,President,,REP,"Romney, Mitt",167
+CHARITON,President,,REP,"Giuliani, Rudy",5
+CHARITON,President,,REP,"McCain, John",244
+CHARITON,President,,REP,"Huckabee, Mike",260
+CHARITON,President,,REP,"Wiles, Virgil L.R.",0
+CHARITON,President,,REP,"Tancredo, Thomas",2
+CHARITON,President,,REP,"Hunter, Duncan",0
+CHARITON,President,,REP,"Cort, Hugh",0
+CHARITON,President,,REP,"Keyes, Alan",0
+CHARITON,President,,REP,"Gilbert, Daniel",0
+CHARITON,President,,REP,UNCOMMITTED,1
+CHARITON,President,,DEM,"Clinton, Hillary",786
+CHARITON,President,,DEM,"Obama, Barack",402
+CHARITON,President,,DEM,"Edwards, John",64
+CHARITON,President,,DEM,"Spelbring, Ralph",1
+CHARITON,President,,DEM,"Kucinich, Dennis J.",2
+CHARITON,President,,DEM,"Richardson, Bill",2
+CHARITON,President,,DEM,"Biden, Joe",4
+CHARITON,President,,DEM,"Dodd, Christopher J.",1
+CHARITON,President,,DEM,"Gravel, Mike",1
+CHARITON,President,,DEM,UNCOMMITTED,13
+CHARITON,President,,LIB,"Root, Wayne A.",0
+CHARITON,President,,LIB,"Imperato, Daniel",0
+CHARITON,President,,LIB,"Phillies, George",1
+CHARITON,President,,LIB,"Jingozian, Michael P.",0
+CHARITON,President,,LIB,"Kubby, Steve",1
+CHARITON,President,,LIB,"Hollist, Dave",0
+CHARITON,President,,LIB,UNCOMMITTED,1
+CHRISTIAN,President,,REP,"Paul, Ron",416
+CHRISTIAN,President,,REP,"Thompson, Fred",36
+CHRISTIAN,President,,REP,"Romney, Mitt",2748
+CHRISTIAN,President,,REP,"Giuliani, Rudy",38
+CHRISTIAN,President,,REP,"McCain, John",2943
+CHRISTIAN,President,,REP,"Huckabee, Mike",5852
+CHRISTIAN,President,,REP,"Wiles, Virgil L.R.",1
+CHRISTIAN,President,,REP,"Tancredo, Thomas",1
+CHRISTIAN,President,,REP,"Hunter, Duncan",8
+CHRISTIAN,President,,REP,"Cort, Hugh",0
+CHRISTIAN,President,,REP,"Keyes, Alan",11
+CHRISTIAN,President,,REP,"Gilbert, Daniel",1
+CHRISTIAN,President,,REP,UNCOMMITTED,22
+CHRISTIAN,President,,DEM,"Clinton, Hillary",4308
+CHRISTIAN,President,,DEM,"Obama, Barack",2982
+CHRISTIAN,President,,DEM,"Edwards, John",145
+CHRISTIAN,President,,DEM,"Spelbring, Ralph",3
+CHRISTIAN,President,,DEM,"Kucinich, Dennis J.",3
+CHRISTIAN,President,,DEM,"Richardson, Bill",4
+CHRISTIAN,President,,DEM,"Biden, Joe",1
+CHRISTIAN,President,,DEM,"Dodd, Christopher J.",3
+CHRISTIAN,President,,DEM,"Gravel, Mike",3
+CHRISTIAN,President,,DEM,UNCOMMITTED,17
+CHRISTIAN,President,,LIB,"Root, Wayne A.",3
+CHRISTIAN,President,,LIB,"Imperato, Daniel",2
+CHRISTIAN,President,,LIB,"Phillies, George",2
+CHRISTIAN,President,,LIB,"Jingozian, Michael P.",0
+CHRISTIAN,President,,LIB,"Kubby, Steve",3
+CHRISTIAN,President,,LIB,"Hollist, Dave",3
+CHRISTIAN,President,,LIB,UNCOMMITTED,15
+CLARK,President,,REP,"Paul, Ron",28
+CLARK,President,,REP,"Thompson, Fred",4
+CLARK,President,,REP,"Romney, Mitt",121
+CLARK,President,,REP,"Giuliani, Rudy",4
+CLARK,President,,REP,"McCain, John",195
+CLARK,President,,REP,"Huckabee, Mike",283
+CLARK,President,,REP,"Wiles, Virgil L.R.",0
+CLARK,President,,REP,"Tancredo, Thomas",0
+CLARK,President,,REP,"Hunter, Duncan",0
+CLARK,President,,REP,"Cort, Hugh",0
+CLARK,President,,REP,"Keyes, Alan",3
+CLARK,President,,REP,"Gilbert, Daniel",0
+CLARK,President,,REP,UNCOMMITTED,4
+CLARK,President,,DEM,"Clinton, Hillary",554
+CLARK,President,,DEM,"Obama, Barack",264
+CLARK,President,,DEM,"Edwards, John",35
+CLARK,President,,DEM,"Spelbring, Ralph",2
+CLARK,President,,DEM,"Kucinich, Dennis J.",1
+CLARK,President,,DEM,"Richardson, Bill",1
+CLARK,President,,DEM,"Biden, Joe",1
+CLARK,President,,DEM,"Dodd, Christopher J.",1
+CLARK,President,,DEM,"Gravel, Mike",0
+CLARK,President,,DEM,UNCOMMITTED,8
+CLARK,President,,LIB,"Root, Wayne A.",1
+CLARK,President,,LIB,"Imperato, Daniel",0
+CLARK,President,,LIB,"Phillies, George",0
+CLARK,President,,LIB,"Jingozian, Michael P.",0
+CLARK,President,,LIB,"Kubby, Steve",0
+CLARK,President,,LIB,"Hollist, Dave",0
+CLARK,President,,LIB,UNCOMMITTED,0
+CLAY,President,,REP,"Paul, Ron",1136
+CLAY,President,,REP,"Thompson, Fred",84
+CLAY,President,,REP,"Romney, Mitt",6421
+CLAY,President,,REP,"Giuliani, Rudy",102
+CLAY,President,,REP,"McCain, John",6006
+CLAY,President,,REP,"Huckabee, Mike",4488
+CLAY,President,,REP,"Wiles, Virgil L.R.",1
+CLAY,President,,REP,"Tancredo, Thomas",0
+CLAY,President,,REP,"Hunter, Duncan",12
+CLAY,President,,REP,"Cort, Hugh",0
+CLAY,President,,REP,"Keyes, Alan",38
+CLAY,President,,REP,"Gilbert, Daniel",1
+CLAY,President,,REP,UNCOMMITTED,36
+CLAY,President,,DEM,"Clinton, Hillary",14549
+CLAY,President,,DEM,"Obama, Barack",10989
+CLAY,President,,DEM,"Edwards, John",525
+CLAY,President,,DEM,"Spelbring, Ralph",1
+CLAY,President,,DEM,"Kucinich, Dennis J.",17
+CLAY,President,,DEM,"Richardson, Bill",18
+CLAY,President,,DEM,"Biden, Joe",22
+CLAY,President,,DEM,"Dodd, Christopher J.",5
+CLAY,President,,DEM,"Gravel, Mike",18
+CLAY,President,,DEM,UNCOMMITTED,96
+CLAY,President,,LIB,"Root, Wayne A.",8
+CLAY,President,,LIB,"Imperato, Daniel",4
+CLAY,President,,LIB,"Phillies, George",4
+CLAY,President,,LIB,"Jingozian, Michael P.",3
+CLAY,President,,LIB,"Kubby, Steve",3
+CLAY,President,,LIB,"Hollist, Dave",3
+CLAY,President,,LIB,UNCOMMITTED,28
+CLINTON,President,,REP,"Paul, Ron",171
+CLINTON,President,,REP,"Thompson, Fred",9
+CLINTON,President,,REP,"Romney, Mitt",606
+CLINTON,President,,REP,"Giuliani, Rudy",12
+CLINTON,President,,REP,"McCain, John",603
+CLINTON,President,,REP,"Huckabee, Mike",497
+CLINTON,President,,REP,"Wiles, Virgil L.R.",0
+CLINTON,President,,REP,"Tancredo, Thomas",0
+CLINTON,President,,REP,"Hunter, Duncan",1
+CLINTON,President,,REP,"Cort, Hugh",0
+CLINTON,President,,REP,"Keyes, Alan",2
+CLINTON,President,,REP,"Gilbert, Daniel",0
+CLINTON,President,,REP,UNCOMMITTED,6
+CLINTON,President,,DEM,"Clinton, Hillary",1490
+CLINTON,President,,DEM,"Obama, Barack",981
+CLINTON,President,,DEM,"Edwards, John",100
+CLINTON,President,,DEM,"Spelbring, Ralph",3
+CLINTON,President,,DEM,"Kucinich, Dennis J.",6
+CLINTON,President,,DEM,"Richardson, Bill",6
+CLINTON,President,,DEM,"Biden, Joe",1
+CLINTON,President,,DEM,"Dodd, Christopher J.",1
+CLINTON,President,,DEM,"Gravel, Mike",8
+CLINTON,President,,DEM,UNCOMMITTED,15
+CLINTON,President,,LIB,"Root, Wayne A.",2
+CLINTON,President,,LIB,"Imperato, Daniel",1
+CLINTON,President,,LIB,"Phillies, George",0
+CLINTON,President,,LIB,"Jingozian, Michael P.",0
+CLINTON,President,,LIB,"Kubby, Steve",0
+CLINTON,President,,LIB,"Hollist, Dave",2
+CLINTON,President,,LIB,UNCOMMITTED,6
+COLE,President,,REP,"Paul, Ron",227
+COLE,President,,REP,"Thompson, Fred",60
+COLE,President,,REP,"Romney, Mitt",3729
+COLE,President,,REP,"Giuliani, Rudy",76
+COLE,President,,REP,"McCain, John",2982
+COLE,President,,REP,"Huckabee, Mike",3247
+COLE,President,,REP,"Wiles, Virgil L.R.",0
+COLE,President,,REP,"Tancredo, Thomas",1
+COLE,President,,REP,"Hunter, Duncan",5
+COLE,President,,REP,"Cort, Hugh",1
+COLE,President,,REP,"Keyes, Alan",13
+COLE,President,,REP,"Gilbert, Daniel",1
+COLE,President,,REP,UNCOMMITTED,32
+COLE,President,,DEM,"Clinton, Hillary",4089
+COLE,President,,DEM,"Obama, Barack",4642
+COLE,President,,DEM,"Edwards, John",264
+COLE,President,,DEM,"Spelbring, Ralph",6
+COLE,President,,DEM,"Kucinich, Dennis J.",9
+COLE,President,,DEM,"Richardson, Bill",13
+COLE,President,,DEM,"Biden, Joe",10
+COLE,President,,DEM,"Dodd, Christopher J.",4
+COLE,President,,DEM,"Gravel, Mike",3
+COLE,President,,DEM,UNCOMMITTED,33
+COLE,President,,LIB,"Root, Wayne A.",8
+COLE,President,,LIB,"Imperato, Daniel",3
+COLE,President,,LIB,"Phillies, George",3
+COLE,President,,LIB,"Jingozian, Michael P.",2
+COLE,President,,LIB,"Kubby, Steve",2
+COLE,President,,LIB,"Hollist, Dave",0
+COLE,President,,LIB,UNCOMMITTED,10
+COOPER,President,,REP,"Paul, Ron",70
+COOPER,President,,REP,"Thompson, Fred",7
+COOPER,President,,REP,"Romney, Mitt",545
+COOPER,President,,REP,"Giuliani, Rudy",11
+COOPER,President,,REP,"McCain, John",639
+COOPER,President,,REP,"Huckabee, Mike",503
+COOPER,President,,REP,"Wiles, Virgil L.R.",2
+COOPER,President,,REP,"Tancredo, Thomas",0
+COOPER,President,,REP,"Hunter, Duncan",2
+COOPER,President,,REP,"Cort, Hugh",0
+COOPER,President,,REP,"Keyes, Alan",1
+COOPER,President,,REP,"Gilbert, Daniel",0
+COOPER,President,,REP,UNCOMMITTED,5
+COOPER,President,,DEM,"Clinton, Hillary",1019
+COOPER,President,,DEM,"Obama, Barack",782
+COOPER,President,,DEM,"Edwards, John",42
+COOPER,President,,DEM,"Spelbring, Ralph",1
+COOPER,President,,DEM,"Kucinich, Dennis J.",0
+COOPER,President,,DEM,"Richardson, Bill",2
+COOPER,President,,DEM,"Biden, Joe",3
+COOPER,President,,DEM,"Dodd, Christopher J.",0
+COOPER,President,,DEM,"Gravel, Mike",0
+COOPER,President,,DEM,UNCOMMITTED,5
+COOPER,President,,LIB,"Root, Wayne A.",2
+COOPER,President,,LIB,"Imperato, Daniel",1
+COOPER,President,,LIB,"Phillies, George",0
+COOPER,President,,LIB,"Jingozian, Michael P.",0
+COOPER,President,,LIB,"Kubby, Steve",0
+COOPER,President,,LIB,"Hollist, Dave",2
+COOPER,President,,LIB,UNCOMMITTED,4
+CRAWFORD,President,,REP,"Paul, Ron",112
+CRAWFORD,President,,REP,"Thompson, Fred",18
+CRAWFORD,President,,REP,"Romney, Mitt",606
+CRAWFORD,President,,REP,"Giuliani, Rudy",12
+CRAWFORD,President,,REP,"McCain, John",713
+CRAWFORD,President,,REP,"Huckabee, Mike",714
+CRAWFORD,President,,REP,"Wiles, Virgil L.R.",0
+CRAWFORD,President,,REP,"Tancredo, Thomas",0
+CRAWFORD,President,,REP,"Hunter, Duncan",0
+CRAWFORD,President,,REP,"Cort, Hugh",0
+CRAWFORD,President,,REP,"Keyes, Alan",3
+CRAWFORD,President,,REP,"Gilbert, Daniel",0
+CRAWFORD,President,,REP,UNCOMMITTED,5
+CRAWFORD,President,,DEM,"Clinton, Hillary",1523
+CRAWFORD,President,,DEM,"Obama, Barack",690
+CRAWFORD,President,,DEM,"Edwards, John",60
+CRAWFORD,President,,DEM,"Spelbring, Ralph",2
+CRAWFORD,President,,DEM,"Kucinich, Dennis J.",1
+CRAWFORD,President,,DEM,"Richardson, Bill",5
+CRAWFORD,President,,DEM,"Biden, Joe",0
+CRAWFORD,President,,DEM,"Dodd, Christopher J.",1
+CRAWFORD,President,,DEM,"Gravel, Mike",0
+CRAWFORD,President,,DEM,UNCOMMITTED,13
+CRAWFORD,President,,LIB,"Root, Wayne A.",1
+CRAWFORD,President,,LIB,"Imperato, Daniel",0
+CRAWFORD,President,,LIB,"Phillies, George",0
+CRAWFORD,President,,LIB,"Jingozian, Michael P.",1
+CRAWFORD,President,,LIB,"Kubby, Steve",2
+CRAWFORD,President,,LIB,"Hollist, Dave",0
+CRAWFORD,President,,LIB,UNCOMMITTED,2
+DADE,President,,REP,"Paul, Ron",43
+DADE,President,,REP,"Thompson, Fred",5
+DADE,President,,REP,"Romney, Mitt",275
+DADE,President,,REP,"Giuliani, Rudy",5
+DADE,President,,REP,"McCain, John",418
+DADE,President,,REP,"Huckabee, Mike",769
+DADE,President,,REP,"Wiles, Virgil L.R.",0
+DADE,President,,REP,"Tancredo, Thomas",0
+DADE,President,,REP,"Hunter, Duncan",0
+DADE,President,,REP,"Cort, Hugh",0
+DADE,President,,REP,"Keyes, Alan",2
+DADE,President,,REP,"Gilbert, Daniel",0
+DADE,President,,REP,UNCOMMITTED,2
+DADE,President,,DEM,"Clinton, Hillary",494
+DADE,President,,DEM,"Obama, Barack",263
+DADE,President,,DEM,"Edwards, John",28
+DADE,President,,DEM,"Spelbring, Ralph",2
+DADE,President,,DEM,"Kucinich, Dennis J.",0
+DADE,President,,DEM,"Richardson, Bill",0
+DADE,President,,DEM,"Biden, Joe",1
+DADE,President,,DEM,"Dodd, Christopher J.",0
+DADE,President,,DEM,"Gravel, Mike",0
+DADE,President,,DEM,UNCOMMITTED,6
+DADE,President,,LIB,"Root, Wayne A.",0
+DADE,President,,LIB,"Imperato, Daniel",0
+DADE,President,,LIB,"Phillies, George",0
+DADE,President,,LIB,"Jingozian, Michael P.",0
+DADE,President,,LIB,"Kubby, Steve",0
+DADE,President,,LIB,"Hollist, Dave",0
+DADE,President,,LIB,UNCOMMITTED,0
+DALLAS,President,,REP,"Paul, Ron",105
+DALLAS,President,,REP,"Thompson, Fred",12
+DALLAS,President,,REP,"Romney, Mitt",428
+DALLAS,President,,REP,"Giuliani, Rudy",9
+DALLAS,President,,REP,"McCain, John",751
+DALLAS,President,,REP,"Huckabee, Mike",1153
+DALLAS,President,,REP,"Wiles, Virgil L.R.",0
+DALLAS,President,,REP,"Tancredo, Thomas",2
+DALLAS,President,,REP,"Hunter, Duncan",1
+DALLAS,President,,REP,"Cort, Hugh",0
+DALLAS,President,,REP,"Keyes, Alan",1
+DALLAS,President,,REP,"Gilbert, Daniel",1
+DALLAS,President,,REP,UNCOMMITTED,8
+DALLAS,President,,DEM,"Clinton, Hillary",1157
+DALLAS,President,,DEM,"Obama, Barack",581
+DALLAS,President,,DEM,"Edwards, John",55
+DALLAS,President,,DEM,"Spelbring, Ralph",1
+DALLAS,President,,DEM,"Kucinich, Dennis J.",5
+DALLAS,President,,DEM,"Richardson, Bill",2
+DALLAS,President,,DEM,"Biden, Joe",0
+DALLAS,President,,DEM,"Dodd, Christopher J.",3
+DALLAS,President,,DEM,"Gravel, Mike",2
+DALLAS,President,,DEM,UNCOMMITTED,9
+DALLAS,President,,LIB,"Root, Wayne A.",0
+DALLAS,President,,LIB,"Imperato, Daniel",0
+DALLAS,President,,LIB,"Phillies, George",1
+DALLAS,President,,LIB,"Jingozian, Michael P.",1
+DALLAS,President,,LIB,"Kubby, Steve",1
+DALLAS,President,,LIB,"Hollist, Dave",0
+DALLAS,President,,LIB,UNCOMMITTED,2
+DAVIESS,President,,REP,"Paul, Ron",95
+DAVIESS,President,,REP,"Thompson, Fred",4
+DAVIESS,President,,REP,"Romney, Mitt",220
+DAVIESS,President,,REP,"Giuliani, Rudy",9
+DAVIESS,President,,REP,"McCain, John",236
+DAVIESS,President,,REP,"Huckabee, Mike",216
+DAVIESS,President,,REP,"Wiles, Virgil L.R.",0
+DAVIESS,President,,REP,"Tancredo, Thomas",0
+DAVIESS,President,,REP,"Hunter, Duncan",1
+DAVIESS,President,,REP,"Cort, Hugh",0
+DAVIESS,President,,REP,"Keyes, Alan",1
+DAVIESS,President,,REP,"Gilbert, Daniel",1
+DAVIESS,President,,REP,UNCOMMITTED,4
+DAVIESS,President,,DEM,"Clinton, Hillary",534
+DAVIESS,President,,DEM,"Obama, Barack",283
+DAVIESS,President,,DEM,"Edwards, John",23
+DAVIESS,President,,DEM,"Spelbring, Ralph",0
+DAVIESS,President,,DEM,"Kucinich, Dennis J.",1
+DAVIESS,President,,DEM,"Richardson, Bill",2
+DAVIESS,President,,DEM,"Biden, Joe",1
+DAVIESS,President,,DEM,"Dodd, Christopher J.",1
+DAVIESS,President,,DEM,"Gravel, Mike",0
+DAVIESS,President,,DEM,UNCOMMITTED,6
+DAVIESS,President,,LIB,"Root, Wayne A.",1
+DAVIESS,President,,LIB,"Imperato, Daniel",0
+DAVIESS,President,,LIB,"Phillies, George",0
+DAVIESS,President,,LIB,"Jingozian, Michael P.",0
+DAVIESS,President,,LIB,"Kubby, Steve",0
+DAVIESS,President,,LIB,"Hollist, Dave",0
+DAVIESS,President,,LIB,UNCOMMITTED,0
+DEKALB,President,,REP,"Paul, Ron",81
+DEKALB,President,,REP,"Thompson, Fred",3
+DEKALB,President,,REP,"Romney, Mitt",337
+DEKALB,President,,REP,"Giuliani, Rudy",9
+DEKALB,President,,REP,"McCain, John",310
+DEKALB,President,,REP,"Huckabee, Mike",276
+DEKALB,President,,REP,"Wiles, Virgil L.R.",0
+DEKALB,President,,REP,"Tancredo, Thomas",1
+DEKALB,President,,REP,"Hunter, Duncan",2
+DEKALB,President,,REP,"Cort, Hugh",0
+DEKALB,President,,REP,"Keyes, Alan",1
+DEKALB,President,,REP,"Gilbert, Daniel",0
+DEKALB,President,,REP,UNCOMMITTED,6
+DEKALB,President,,DEM,"Clinton, Hillary",596
+DEKALB,President,,DEM,"Obama, Barack",372
+DEKALB,President,,DEM,"Edwards, John",51
+DEKALB,President,,DEM,"Spelbring, Ralph",0
+DEKALB,President,,DEM,"Kucinich, Dennis J.",0
+DEKALB,President,,DEM,"Richardson, Bill",0
+DEKALB,President,,DEM,"Biden, Joe",2
+DEKALB,President,,DEM,"Dodd, Christopher J.",0
+DEKALB,President,,DEM,"Gravel, Mike",1
+DEKALB,President,,DEM,UNCOMMITTED,8
+DEKALB,President,,LIB,"Root, Wayne A.",0
+DEKALB,President,,LIB,"Imperato, Daniel",0
+DEKALB,President,,LIB,"Phillies, George",0
+DEKALB,President,,LIB,"Jingozian, Michael P.",0
+DEKALB,President,,LIB,"Kubby, Steve",0
+DEKALB,President,,LIB,"Hollist, Dave",0
+DEKALB,President,,LIB,UNCOMMITTED,2
+DENT,President,,REP,"Paul, Ron",127
+DENT,President,,REP,"Thompson, Fred",10
+DENT,President,,REP,"Romney, Mitt",411
+DENT,President,,REP,"Giuliani, Rudy",7
+DENT,President,,REP,"McCain, John",442
+DENT,President,,REP,"Huckabee, Mike",959
+DENT,President,,REP,"Wiles, Virgil L.R.",0
+DENT,President,,REP,"Tancredo, Thomas",0
+DENT,President,,REP,"Hunter, Duncan",0
+DENT,President,,REP,"Cort, Hugh",0
+DENT,President,,REP,"Keyes, Alan",6
+DENT,President,,REP,"Gilbert, Daniel",0
+DENT,President,,REP,UNCOMMITTED,4
+DENT,President,,DEM,"Clinton, Hillary",962
+DENT,President,,DEM,"Obama, Barack",493
+DENT,President,,DEM,"Edwards, John",74
+DENT,President,,DEM,"Spelbring, Ralph",1
+DENT,President,,DEM,"Kucinich, Dennis J.",1
+DENT,President,,DEM,"Richardson, Bill",1
+DENT,President,,DEM,"Biden, Joe",0
+DENT,President,,DEM,"Dodd, Christopher J.",1
+DENT,President,,DEM,"Gravel, Mike",0
+DENT,President,,DEM,UNCOMMITTED,13
+DENT,President,,LIB,"Root, Wayne A.",3
+DENT,President,,LIB,"Imperato, Daniel",0
+DENT,President,,LIB,"Phillies, George",2
+DENT,President,,LIB,"Jingozian, Michael P.",0
+DENT,President,,LIB,"Kubby, Steve",0
+DENT,President,,LIB,"Hollist, Dave",0
+DENT,President,,LIB,UNCOMMITTED,4
+DOUGLAS,President,,REP,"Paul, Ron",295
+DOUGLAS,President,,REP,"Thompson, Fred",6
+DOUGLAS,President,,REP,"Romney, Mitt",270
+DOUGLAS,President,,REP,"Giuliani, Rudy",5
+DOUGLAS,President,,REP,"McCain, John",516
+DOUGLAS,President,,REP,"Huckabee, Mike",1343
+DOUGLAS,President,,REP,"Wiles, Virgil L.R.",0
+DOUGLAS,President,,REP,"Tancredo, Thomas",0
+DOUGLAS,President,,REP,"Hunter, Duncan",0
+DOUGLAS,President,,REP,"Cort, Hugh",0
+DOUGLAS,President,,REP,"Keyes, Alan",0
+DOUGLAS,President,,REP,"Gilbert, Daniel",0
+DOUGLAS,President,,REP,UNCOMMITTED,5
+DOUGLAS,President,,DEM,"Clinton, Hillary",827
+DOUGLAS,President,,DEM,"Obama, Barack",454
+DOUGLAS,President,,DEM,"Edwards, John",39
+DOUGLAS,President,,DEM,"Spelbring, Ralph",0
+DOUGLAS,President,,DEM,"Kucinich, Dennis J.",0
+DOUGLAS,President,,DEM,"Richardson, Bill",2
+DOUGLAS,President,,DEM,"Biden, Joe",0
+DOUGLAS,President,,DEM,"Dodd, Christopher J.",1
+DOUGLAS,President,,DEM,"Gravel, Mike",1
+DOUGLAS,President,,DEM,UNCOMMITTED,3
+DOUGLAS,President,,LIB,"Root, Wayne A.",1
+DOUGLAS,President,,LIB,"Imperato, Daniel",0
+DOUGLAS,President,,LIB,"Phillies, George",0
+DOUGLAS,President,,LIB,"Jingozian, Michael P.",0
+DOUGLAS,President,,LIB,"Kubby, Steve",1
+DOUGLAS,President,,LIB,"Hollist, Dave",1
+DOUGLAS,President,,LIB,UNCOMMITTED,2
+DUNKLIN,President,,REP,"Paul, Ron",36
+DUNKLIN,President,,REP,"Thompson, Fred",7
+DUNKLIN,President,,REP,"Romney, Mitt",381
+DUNKLIN,President,,REP,"Giuliani, Rudy",12
+DUNKLIN,President,,REP,"McCain, John",480
+DUNKLIN,President,,REP,"Huckabee, Mike",1309
+DUNKLIN,President,,REP,"Wiles, Virgil L.R.",0
+DUNKLIN,President,,REP,"Tancredo, Thomas",0
+DUNKLIN,President,,REP,"Hunter, Duncan",0
+DUNKLIN,President,,REP,"Cort, Hugh",1
+DUNKLIN,President,,REP,"Keyes, Alan",2
+DUNKLIN,President,,REP,"Gilbert, Daniel",0
+DUNKLIN,President,,REP,UNCOMMITTED,9
+DUNKLIN,President,,DEM,"Clinton, Hillary",2587
+DUNKLIN,President,,DEM,"Obama, Barack",604
+DUNKLIN,President,,DEM,"Edwards, John",69
+DUNKLIN,President,,DEM,"Spelbring, Ralph",2
+DUNKLIN,President,,DEM,"Kucinich, Dennis J.",2
+DUNKLIN,President,,DEM,"Richardson, Bill",4
+DUNKLIN,President,,DEM,"Biden, Joe",3
+DUNKLIN,President,,DEM,"Dodd, Christopher J.",0
+DUNKLIN,President,,DEM,"Gravel, Mike",3
+DUNKLIN,President,,DEM,UNCOMMITTED,24
+DUNKLIN,President,,LIB,"Root, Wayne A.",0
+DUNKLIN,President,,LIB,"Imperato, Daniel",1
+DUNKLIN,President,,LIB,"Phillies, George",0
+DUNKLIN,President,,LIB,"Jingozian, Michael P.",0
+DUNKLIN,President,,LIB,"Kubby, Steve",0
+DUNKLIN,President,,LIB,"Hollist, Dave",0
+DUNKLIN,President,,LIB,UNCOMMITTED,1
+FRANKLIN,President,,REP,"Paul, Ron",460
+FRANKLIN,President,,REP,"Thompson, Fred",67
+FRANKLIN,President,,REP,"Romney, Mitt",3447
+FRANKLIN,President,,REP,"Giuliani, Rudy",84
+FRANKLIN,President,,REP,"McCain, John",4032
+FRANKLIN,President,,REP,"Huckabee, Mike",3130
+FRANKLIN,President,,REP,"Wiles, Virgil L.R.",3
+FRANKLIN,President,,REP,"Tancredo, Thomas",2
+FRANKLIN,President,,REP,"Hunter, Duncan",6
+FRANKLIN,President,,REP,"Cort, Hugh",2
+FRANKLIN,President,,REP,"Keyes, Alan",12
+FRANKLIN,President,,REP,"Gilbert, Daniel",2
+FRANKLIN,President,,REP,UNCOMMITTED,52
+FRANKLIN,President,,DEM,"Clinton, Hillary",7177
+FRANKLIN,President,,DEM,"Obama, Barack",5179
+FRANKLIN,President,,DEM,"Edwards, John",381
+FRANKLIN,President,,DEM,"Spelbring, Ralph",2
+FRANKLIN,President,,DEM,"Kucinich, Dennis J.",14
+FRANKLIN,President,,DEM,"Richardson, Bill",14
+FRANKLIN,President,,DEM,"Biden, Joe",9
+FRANKLIN,President,,DEM,"Dodd, Christopher J.",1
+FRANKLIN,President,,DEM,"Gravel, Mike",5
+FRANKLIN,President,,DEM,UNCOMMITTED,74
+FRANKLIN,President,,LIB,"Root, Wayne A.",4
+FRANKLIN,President,,LIB,"Imperato, Daniel",4
+FRANKLIN,President,,LIB,"Phillies, George",6
+FRANKLIN,President,,LIB,"Jingozian, Michael P.",1
+FRANKLIN,President,,LIB,"Kubby, Steve",4
+FRANKLIN,President,,LIB,"Hollist, Dave",4
+FRANKLIN,President,,LIB,UNCOMMITTED,19
+GASCONADE,President,,REP,"Paul, Ron",75
+GASCONADE,President,,REP,"Thompson, Fred",18
+GASCONADE,President,,REP,"Romney, Mitt",536
+GASCONADE,President,,REP,"Giuliani, Rudy",9
+GASCONADE,President,,REP,"McCain, John",793
+GASCONADE,President,,REP,"Huckabee, Mike",514
+GASCONADE,President,,REP,"Wiles, Virgil L.R.",0
+GASCONADE,President,,REP,"Tancredo, Thomas",1
+GASCONADE,President,,REP,"Hunter, Duncan",1
+GASCONADE,President,,REP,"Cort, Hugh",0
+GASCONADE,President,,REP,"Keyes, Alan",4
+GASCONADE,President,,REP,"Gilbert, Daniel",1
+GASCONADE,President,,REP,UNCOMMITTED,18
+GASCONADE,President,,DEM,"Clinton, Hillary",848
+GASCONADE,President,,DEM,"Obama, Barack",692
+GASCONADE,President,,DEM,"Edwards, John",25
+GASCONADE,President,,DEM,"Spelbring, Ralph",0
+GASCONADE,President,,DEM,"Kucinich, Dennis J.",0
+GASCONADE,President,,DEM,"Richardson, Bill",1
+GASCONADE,President,,DEM,"Biden, Joe",1
+GASCONADE,President,,DEM,"Dodd, Christopher J.",1
+GASCONADE,President,,DEM,"Gravel, Mike",1
+GASCONADE,President,,DEM,UNCOMMITTED,15
+GASCONADE,President,,LIB,"Root, Wayne A.",0
+GASCONADE,President,,LIB,"Imperato, Daniel",1
+GASCONADE,President,,LIB,"Phillies, George",0
+GASCONADE,President,,LIB,"Jingozian, Michael P.",0
+GASCONADE,President,,LIB,"Kubby, Steve",0
+GASCONADE,President,,LIB,"Hollist, Dave",1
+GASCONADE,President,,LIB,UNCOMMITTED,1
+GENTRY,President,,REP,"Paul, Ron",23
+GENTRY,President,,REP,"Thompson, Fred",3
+GENTRY,President,,REP,"Romney, Mitt",155
+GENTRY,President,,REP,"Giuliani, Rudy",3
+GENTRY,President,,REP,"McCain, John",217
+GENTRY,President,,REP,"Huckabee, Mike",182
+GENTRY,President,,REP,"Wiles, Virgil L.R.",0
+GENTRY,President,,REP,"Tancredo, Thomas",0
+GENTRY,President,,REP,"Hunter, Duncan",1
+GENTRY,President,,REP,"Cort, Hugh",0
+GENTRY,President,,REP,"Keyes, Alan",1
+GENTRY,President,,REP,"Gilbert, Daniel",0
+GENTRY,President,,REP,UNCOMMITTED,3
+GENTRY,President,,DEM,"Clinton, Hillary",409
+GENTRY,President,,DEM,"Obama, Barack",312
+GENTRY,President,,DEM,"Edwards, John",38
+GENTRY,President,,DEM,"Spelbring, Ralph",1
+GENTRY,President,,DEM,"Kucinich, Dennis J.",0
+GENTRY,President,,DEM,"Richardson, Bill",2
+GENTRY,President,,DEM,"Biden, Joe",1
+GENTRY,President,,DEM,"Dodd, Christopher J.",1
+GENTRY,President,,DEM,"Gravel, Mike",0
+GENTRY,President,,DEM,UNCOMMITTED,3
+GENTRY,President,,LIB,"Root, Wayne A.",0
+GENTRY,President,,LIB,"Imperato, Daniel",0
+GENTRY,President,,LIB,"Phillies, George",0
+GENTRY,President,,LIB,"Jingozian, Michael P.",0
+GENTRY,President,,LIB,"Kubby, Steve",0
+GENTRY,President,,LIB,"Hollist, Dave",0
+GENTRY,President,,LIB,UNCOMMITTED,0
+GREENE,President,,REP,"Paul, Ron",1552
+GREENE,President,,REP,"Thompson, Fred",107
+GREENE,President,,REP,"Romney, Mitt",9271
+GREENE,President,,REP,"Giuliani, Rudy",134
+GREENE,President,,REP,"McCain, John",9979
+GREENE,President,,REP,"Huckabee, Mike",15645
+GREENE,President,,REP,"Wiles, Virgil L.R.",2
+GREENE,President,,REP,"Tancredo, Thomas",5
+GREENE,President,,REP,"Hunter, Duncan",17
+GREENE,President,,REP,"Cort, Hugh",1
+GREENE,President,,REP,"Keyes, Alan",46
+GREENE,President,,REP,"Gilbert, Daniel",0
+GREENE,President,,REP,UNCOMMITTED,73
+GREENE,President,,DEM,"Clinton, Hillary",18322
+GREENE,President,,DEM,"Obama, Barack",14263
+GREENE,President,,DEM,"Edwards, John",613
+GREENE,President,,DEM,"Spelbring, Ralph",9
+GREENE,President,,DEM,"Kucinich, Dennis J.",23
+GREENE,President,,DEM,"Richardson, Bill",16
+GREENE,President,,DEM,"Biden, Joe",18
+GREENE,President,,DEM,"Dodd, Christopher J.",3
+GREENE,President,,DEM,"Gravel, Mike",11
+GREENE,President,,DEM,UNCOMMITTED,69
+GREENE,President,,LIB,"Root, Wayne A.",20
+GREENE,President,,LIB,"Imperato, Daniel",7
+GREENE,President,,LIB,"Phillies, George",7
+GREENE,President,,LIB,"Jingozian, Michael P.",7
+GREENE,President,,LIB,"Kubby, Steve",9
+GREENE,President,,LIB,"Hollist, Dave",8
+GREENE,President,,LIB,UNCOMMITTED,47
+GRUNDY,President,,REP,"Paul, Ron",210
+GRUNDY,President,,REP,"Thompson, Fred",10
+GRUNDY,President,,REP,"Romney, Mitt",122
+GRUNDY,President,,REP,"Giuliani, Rudy",5
+GRUNDY,President,,REP,"McCain, John",377
+GRUNDY,President,,REP,"Huckabee, Mike",361
+GRUNDY,President,,REP,"Wiles, Virgil L.R.",0
+GRUNDY,President,,REP,"Tancredo, Thomas",2
+GRUNDY,President,,REP,"Hunter, Duncan",0
+GRUNDY,President,,REP,"Cort, Hugh",0
+GRUNDY,President,,REP,"Keyes, Alan",1
+GRUNDY,President,,REP,"Gilbert, Daniel",0
+GRUNDY,President,,REP,UNCOMMITTED,6
+GRUNDY,President,,DEM,"Clinton, Hillary",485
+GRUNDY,President,,DEM,"Obama, Barack",323
+GRUNDY,President,,DEM,"Edwards, John",21
+GRUNDY,President,,DEM,"Spelbring, Ralph",0
+GRUNDY,President,,DEM,"Kucinich, Dennis J.",0
+GRUNDY,President,,DEM,"Richardson, Bill",1
+GRUNDY,President,,DEM,"Biden, Joe",1
+GRUNDY,President,,DEM,"Dodd, Christopher J.",0
+GRUNDY,President,,DEM,"Gravel, Mike",0
+GRUNDY,President,,DEM,UNCOMMITTED,6
+GRUNDY,President,,LIB,"Root, Wayne A.",3
+GRUNDY,President,,LIB,"Imperato, Daniel",0
+GRUNDY,President,,LIB,"Phillies, George",0
+GRUNDY,President,,LIB,"Jingozian, Michael P.",0
+GRUNDY,President,,LIB,"Kubby, Steve",0
+GRUNDY,President,,LIB,"Hollist, Dave",0
+GRUNDY,President,,LIB,UNCOMMITTED,2
+HARRISON,President,,REP,"Paul, Ron",93
+HARRISON,President,,REP,"Thompson, Fred",5
+HARRISON,President,,REP,"Romney, Mitt",207
+HARRISON,President,,REP,"Giuliani, Rudy",5
+HARRISON,President,,REP,"McCain, John",288
+HARRISON,President,,REP,"Huckabee, Mike",277
+HARRISON,President,,REP,"Wiles, Virgil L.R.",0
+HARRISON,President,,REP,"Tancredo, Thomas",0
+HARRISON,President,,REP,"Hunter, Duncan",0
+HARRISON,President,,REP,"Cort, Hugh",0
+HARRISON,President,,REP,"Keyes, Alan",1
+HARRISON,President,,REP,"Gilbert, Daniel",0
+HARRISON,President,,REP,UNCOMMITTED,6
+HARRISON,President,,DEM,"Clinton, Hillary",436
+HARRISON,President,,DEM,"Obama, Barack",249
+HARRISON,President,,DEM,"Edwards, John",24
+HARRISON,President,,DEM,"Spelbring, Ralph",0
+HARRISON,President,,DEM,"Kucinich, Dennis J.",0
+HARRISON,President,,DEM,"Richardson, Bill",2
+HARRISON,President,,DEM,"Biden, Joe",0
+HARRISON,President,,DEM,"Dodd, Christopher J.",1
+HARRISON,President,,DEM,"Gravel, Mike",0
+HARRISON,President,,DEM,UNCOMMITTED,5
+HARRISON,President,,LIB,"Root, Wayne A.",0
+HARRISON,President,,LIB,"Imperato, Daniel",0
+HARRISON,President,,LIB,"Phillies, George",0
+HARRISON,President,,LIB,"Jingozian, Michael P.",0
+HARRISON,President,,LIB,"Kubby, Steve",0
+HARRISON,President,,LIB,"Hollist, Dave",0
+HARRISON,President,,LIB,UNCOMMITTED,0
+HENRY,President,,REP,"Paul, Ron",71
+HENRY,President,,REP,"Thompson, Fred",10
+HENRY,President,,REP,"Romney, Mitt",480
+HENRY,President,,REP,"Giuliani, Rudy",11
+HENRY,President,,REP,"McCain, John",763
+HENRY,President,,REP,"Huckabee, Mike",709
+HENRY,President,,REP,"Wiles, Virgil L.R.",0
+HENRY,President,,REP,"Tancredo, Thomas",1
+HENRY,President,,REP,"Hunter, Duncan",1
+HENRY,President,,REP,"Cort, Hugh",0
+HENRY,President,,REP,"Keyes, Alan",4
+HENRY,President,,REP,"Gilbert, Daniel",2
+HENRY,President,,REP,UNCOMMITTED,9
+HENRY,President,,DEM,"Clinton, Hillary",2102
+HENRY,President,,DEM,"Obama, Barack",1068
+HENRY,President,,DEM,"Edwards, John",122
+HENRY,President,,DEM,"Spelbring, Ralph",1
+HENRY,President,,DEM,"Kucinich, Dennis J.",2
+HENRY,President,,DEM,"Richardson, Bill",9
+HENRY,President,,DEM,"Biden, Joe",1
+HENRY,President,,DEM,"Dodd, Christopher J.",2
+HENRY,President,,DEM,"Gravel, Mike",3
+HENRY,President,,DEM,UNCOMMITTED,17
+HENRY,President,,LIB,"Root, Wayne A.",2
+HENRY,President,,LIB,"Imperato, Daniel",0
+HENRY,President,,LIB,"Phillies, George",1
+HENRY,President,,LIB,"Jingozian, Michael P.",1
+HENRY,President,,LIB,"Kubby, Steve",2
+HENRY,President,,LIB,"Hollist, Dave",3
+HENRY,President,,LIB,UNCOMMITTED,8
+HICKORY,President,,REP,"Paul, Ron",64
+HICKORY,President,,REP,"Thompson, Fred",7
+HICKORY,President,,REP,"Romney, Mitt",283
+HICKORY,President,,REP,"Giuliani, Rudy",6
+HICKORY,President,,REP,"McCain, John",453
+HICKORY,President,,REP,"Huckabee, Mike",548
+HICKORY,President,,REP,"Wiles, Virgil L.R.",1
+HICKORY,President,,REP,"Tancredo, Thomas",0
+HICKORY,President,,REP,"Hunter, Duncan",0
+HICKORY,President,,REP,"Cort, Hugh",0
+HICKORY,President,,REP,"Keyes, Alan",1
+HICKORY,President,,REP,"Gilbert, Daniel",0
+HICKORY,President,,REP,UNCOMMITTED,2
+HICKORY,President,,DEM,"Clinton, Hillary",1056
+HICKORY,President,,DEM,"Obama, Barack",433
+HICKORY,President,,DEM,"Edwards, John",52
+HICKORY,President,,DEM,"Spelbring, Ralph",1
+HICKORY,President,,DEM,"Kucinich, Dennis J.",1
+HICKORY,President,,DEM,"Richardson, Bill",2
+HICKORY,President,,DEM,"Biden, Joe",0
+HICKORY,President,,DEM,"Dodd, Christopher J.",1
+HICKORY,President,,DEM,"Gravel, Mike",3
+HICKORY,President,,DEM,UNCOMMITTED,5
+HICKORY,President,,LIB,"Root, Wayne A.",1
+HICKORY,President,,LIB,"Imperato, Daniel",0
+HICKORY,President,,LIB,"Phillies, George",1
+HICKORY,President,,LIB,"Jingozian, Michael P.",0
+HICKORY,President,,LIB,"Kubby, Steve",1
+HICKORY,President,,LIB,"Hollist, Dave",1
+HICKORY,President,,LIB,UNCOMMITTED,1
+HOLT,President,,REP,"Paul, Ron",34
+HOLT,President,,REP,"Thompson, Fred",3
+HOLT,President,,REP,"Romney, Mitt",201
+HOLT,President,,REP,"Giuliani, Rudy",7
+HOLT,President,,REP,"McCain, John",190
+HOLT,President,,REP,"Huckabee, Mike",194
+HOLT,President,,REP,"Wiles, Virgil L.R.",0
+HOLT,President,,REP,"Tancredo, Thomas",0
+HOLT,President,,REP,"Hunter, Duncan",1
+HOLT,President,,REP,"Cort, Hugh",1
+HOLT,President,,REP,"Keyes, Alan",1
+HOLT,President,,REP,"Gilbert, Daniel",0
+HOLT,President,,REP,UNCOMMITTED,5
+HOLT,President,,DEM,"Clinton, Hillary",283
+HOLT,President,,DEM,"Obama, Barack",185
+HOLT,President,,DEM,"Edwards, John",16
+HOLT,President,,DEM,"Spelbring, Ralph",0
+HOLT,President,,DEM,"Kucinich, Dennis J.",0
+HOLT,President,,DEM,"Richardson, Bill",2
+HOLT,President,,DEM,"Biden, Joe",0
+HOLT,President,,DEM,"Dodd, Christopher J.",0
+HOLT,President,,DEM,"Gravel, Mike",1
+HOLT,President,,DEM,UNCOMMITTED,1
+HOLT,President,,LIB,"Root, Wayne A.",0
+HOLT,President,,LIB,"Imperato, Daniel",0
+HOLT,President,,LIB,"Phillies, George",2
+HOLT,President,,LIB,"Jingozian, Michael P.",0
+HOLT,President,,LIB,"Kubby, Steve",0
+HOLT,President,,LIB,"Hollist, Dave",0
+HOLT,President,,LIB,UNCOMMITTED,0
+HOWARD,President,,REP,"Paul, Ron",52
+HOWARD,President,,REP,"Thompson, Fred",3
+HOWARD,President,,REP,"Romney, Mitt",319
+HOWARD,President,,REP,"Giuliani, Rudy",4
+HOWARD,President,,REP,"McCain, John",283
+HOWARD,President,,REP,"Huckabee, Mike",328
+HOWARD,President,,REP,"Wiles, Virgil L.R.",0
+HOWARD,President,,REP,"Tancredo, Thomas",0
+HOWARD,President,,REP,"Hunter, Duncan",1
+HOWARD,President,,REP,"Cort, Hugh",0
+HOWARD,President,,REP,"Keyes, Alan",1
+HOWARD,President,,REP,"Gilbert, Daniel",0
+HOWARD,President,,REP,UNCOMMITTED,4
+HOWARD,President,,DEM,"Clinton, Hillary",685
+HOWARD,President,,DEM,"Obama, Barack",660
+HOWARD,President,,DEM,"Edwards, John",50
+HOWARD,President,,DEM,"Spelbring, Ralph",1
+HOWARD,President,,DEM,"Kucinich, Dennis J.",1
+HOWARD,President,,DEM,"Richardson, Bill",2
+HOWARD,President,,DEM,"Biden, Joe",2
+HOWARD,President,,DEM,"Dodd, Christopher J.",1
+HOWARD,President,,DEM,"Gravel, Mike",0
+HOWARD,President,,DEM,UNCOMMITTED,14
+HOWARD,President,,LIB,"Root, Wayne A.",0
+HOWARD,President,,LIB,"Imperato, Daniel",1
+HOWARD,President,,LIB,"Phillies, George",1
+HOWARD,President,,LIB,"Jingozian, Michael P.",0
+HOWARD,President,,LIB,"Kubby, Steve",0
+HOWARD,President,,LIB,"Hollist, Dave",0
+HOWARD,President,,LIB,UNCOMMITTED,0
+HOWELL,President,,REP,"Paul, Ron",356
+HOWELL,President,,REP,"Thompson, Fred",28
+HOWELL,President,,REP,"Romney, Mitt",793
+HOWELL,President,,REP,"Giuliani, Rudy",15
+HOWELL,President,,REP,"McCain, John",1347
+HOWELL,President,,REP,"Huckabee, Mike",2882
+HOWELL,President,,REP,"Wiles, Virgil L.R.",1
+HOWELL,President,,REP,"Tancredo, Thomas",0
+HOWELL,President,,REP,"Hunter, Duncan",3
+HOWELL,President,,REP,"Cort, Hugh",1
+HOWELL,President,,REP,"Keyes, Alan",5
+HOWELL,President,,REP,"Gilbert, Daniel",0
+HOWELL,President,,REP,UNCOMMITTED,10
+HOWELL,President,,DEM,"Clinton, Hillary",2307
+HOWELL,President,,DEM,"Obama, Barack",1168
+HOWELL,President,,DEM,"Edwards, John",99
+HOWELL,President,,DEM,"Spelbring, Ralph",1
+HOWELL,President,,DEM,"Kucinich, Dennis J.",1
+HOWELL,President,,DEM,"Richardson, Bill",3
+HOWELL,President,,DEM,"Biden, Joe",3
+HOWELL,President,,DEM,"Dodd, Christopher J.",0
+HOWELL,President,,DEM,"Gravel, Mike",5
+HOWELL,President,,DEM,UNCOMMITTED,14
+HOWELL,President,,LIB,"Root, Wayne A.",4
+HOWELL,President,,LIB,"Imperato, Daniel",1
+HOWELL,President,,LIB,"Phillies, George",0
+HOWELL,President,,LIB,"Jingozian, Michael P.",0
+HOWELL,President,,LIB,"Kubby, Steve",0
+HOWELL,President,,LIB,"Hollist, Dave",0
+HOWELL,President,,LIB,UNCOMMITTED,5
+IRON,President,,REP,"Paul, Ron",43
+IRON,President,,REP,"Thompson, Fred",6
+IRON,President,,REP,"Romney, Mitt",138
+IRON,President,,REP,"Giuliani, Rudy",4
+IRON,President,,REP,"McCain, John",269
+IRON,President,,REP,"Huckabee, Mike",354
+IRON,President,,REP,"Wiles, Virgil L.R.",0
+IRON,President,,REP,"Tancredo, Thomas",0
+IRON,President,,REP,"Hunter, Duncan",0
+IRON,President,,REP,"Cort, Hugh",0
+IRON,President,,REP,"Keyes, Alan",3
+IRON,President,,REP,"Gilbert, Daniel",0
+IRON,President,,REP,UNCOMMITTED,3
+IRON,President,,DEM,"Clinton, Hillary",1180
+IRON,President,,DEM,"Obama, Barack",406
+IRON,President,,DEM,"Edwards, John",72
+IRON,President,,DEM,"Spelbring, Ralph",0
+IRON,President,,DEM,"Kucinich, Dennis J.",1
+IRON,President,,DEM,"Richardson, Bill",1
+IRON,President,,DEM,"Biden, Joe",0
+IRON,President,,DEM,"Dodd, Christopher J.",2
+IRON,President,,DEM,"Gravel, Mike",0
+IRON,President,,DEM,UNCOMMITTED,11
+IRON,President,,LIB,"Root, Wayne A.",2
+IRON,President,,LIB,"Imperato, Daniel",1
+IRON,President,,LIB,"Phillies, George",0
+IRON,President,,LIB,"Jingozian, Michael P.",0
+IRON,President,,LIB,"Kubby, Steve",0
+IRON,President,,LIB,"Hollist, Dave",0
+IRON,President,,LIB,UNCOMMITTED,2
+JACKSON,President,,REP,"Paul, Ron",2122
+JACKSON,President,,REP,"Thompson, Fred",206
+JACKSON,President,,REP,"Romney, Mitt",13314
+JACKSON,President,,REP,"Giuliani, Rudy",281
+JACKSON,President,,REP,"McCain, John",12356
+JACKSON,President,,REP,"Huckabee, Mike",8892
+JACKSON,President,,REP,"Wiles, Virgil L.R.",47
+JACKSON,President,,REP,"Tancredo, Thomas",23
+JACKSON,President,,REP,"Hunter, Duncan",22
+JACKSON,President,,REP,"Cort, Hugh",3
+JACKSON,President,,REP,"Keyes, Alan",60
+JACKSON,President,,REP,"Gilbert, Daniel",7
+JACKSON,President,,REP,UNCOMMITTED,146
+JACKSON,President,,DEM,"Clinton, Hillary",28765
+JACKSON,President,,DEM,"Obama, Barack",23170
+JACKSON,President,,DEM,"Edwards, John",1026
+JACKSON,President,,DEM,"Spelbring, Ralph",10
+JACKSON,President,,DEM,"Kucinich, Dennis J.",43
+JACKSON,President,,DEM,"Richardson, Bill",34
+JACKSON,President,,DEM,"Biden, Joe",47
+JACKSON,President,,DEM,"Dodd, Christopher J.",10
+JACKSON,President,,DEM,"Gravel, Mike",28
+JACKSON,President,,DEM,UNCOMMITTED,173
+JACKSON,President,,LIB,"Root, Wayne A.",38
+JACKSON,President,,LIB,"Imperato, Daniel",9
+JACKSON,President,,LIB,"Phillies, George",14
+JACKSON,President,,LIB,"Jingozian, Michael P.",6
+JACKSON,President,,LIB,"Kubby, Steve",8
+JACKSON,President,,LIB,"Hollist, Dave",10
+JACKSON,President,,LIB,UNCOMMITTED,77
+JASPER,President,,REP,"Paul, Ron",527
+JASPER,President,,REP,"Thompson, Fred",68
+JASPER,President,,REP,"Romney, Mitt",3246
+JASPER,President,,REP,"Giuliani, Rudy",71
+JASPER,President,,REP,"McCain, John",3220
+JASPER,President,,REP,"Huckabee, Mike",5266
+JASPER,President,,REP,"Wiles, Virgil L.R.",3
+JASPER,President,,REP,"Tancredo, Thomas",2
+JASPER,President,,REP,"Hunter, Duncan",6
+JASPER,President,,REP,"Cort, Hugh",0
+JASPER,President,,REP,"Keyes, Alan",11
+JASPER,President,,REP,"Gilbert, Daniel",1
+JASPER,President,,REP,UNCOMMITTED,48
+JASPER,President,,DEM,"Clinton, Hillary",4607
+JASPER,President,,DEM,"Obama, Barack",2775
+JASPER,President,,DEM,"Edwards, John",173
+JASPER,President,,DEM,"Spelbring, Ralph",3
+JASPER,President,,DEM,"Kucinich, Dennis J.",7
+JASPER,President,,DEM,"Richardson, Bill",7
+JASPER,President,,DEM,"Biden, Joe",7
+JASPER,President,,DEM,"Dodd, Christopher J.",2
+JASPER,President,,DEM,"Gravel, Mike",5
+JASPER,President,,DEM,UNCOMMITTED,39
+JASPER,President,,LIB,"Root, Wayne A.",4
+JASPER,President,,LIB,"Imperato, Daniel",0
+JASPER,President,,LIB,"Phillies, George",3
+JASPER,President,,LIB,"Jingozian, Michael P.",0
+JASPER,President,,LIB,"Kubby, Steve",3
+JASPER,President,,LIB,"Hollist, Dave",2
+JASPER,President,,LIB,UNCOMMITTED,6
+JEFFERSON,President,,REP,"Paul, Ron",747
+JEFFERSON,President,,REP,"Thompson, Fred",133
+JEFFERSON,President,,REP,"Romney, Mitt",5772
+JEFFERSON,President,,REP,"Giuliani, Rudy",115
+JEFFERSON,President,,REP,"McCain, John",6358
+JEFFERSON,President,,REP,"Huckabee, Mike",5724
+JEFFERSON,President,,REP,"Wiles, Virgil L.R.",2
+JEFFERSON,President,,REP,"Tancredo, Thomas",2
+JEFFERSON,President,,REP,"Hunter, Duncan",9
+JEFFERSON,President,,REP,"Cort, Hugh",4
+JEFFERSON,President,,REP,"Keyes, Alan",29
+JEFFERSON,President,,REP,"Gilbert, Daniel",2
+JEFFERSON,President,,REP,UNCOMMITTED,61
+JEFFERSON,President,,DEM,"Clinton, Hillary",19075
+JEFFERSON,President,,DEM,"Obama, Barack",10895
+JEFFERSON,President,,DEM,"Edwards, John",853
+JEFFERSON,President,,DEM,"Spelbring, Ralph",11
+JEFFERSON,President,,DEM,"Kucinich, Dennis J.",26
+JEFFERSON,President,,DEM,"Richardson, Bill",36
+JEFFERSON,President,,DEM,"Biden, Joe",25
+JEFFERSON,President,,DEM,"Dodd, Christopher J.",14
+JEFFERSON,President,,DEM,"Gravel, Mike",22
+JEFFERSON,President,,DEM,UNCOMMITTED,150
+JEFFERSON,President,,LIB,"Root, Wayne A.",8
+JEFFERSON,President,,LIB,"Imperato, Daniel",8
+JEFFERSON,President,,LIB,"Phillies, George",5
+JEFFERSON,President,,LIB,"Jingozian, Michael P.",5
+JEFFERSON,President,,LIB,"Kubby, Steve",10
+JEFFERSON,President,,LIB,"Hollist, Dave",7
+JEFFERSON,President,,LIB,UNCOMMITTED,40
+JOHNSON,President,,REP,"Paul, Ron",204
+JOHNSON,President,,REP,"Thompson, Fred",25
+JOHNSON,President,,REP,"Romney, Mitt",1149
+JOHNSON,President,,REP,"Giuliani, Rudy",31
+JOHNSON,President,,REP,"McCain, John",1558
+JOHNSON,President,,REP,"Huckabee, Mike",1303
+JOHNSON,President,,REP,"Wiles, Virgil L.R.",1
+JOHNSON,President,,REP,"Tancredo, Thomas",0
+JOHNSON,President,,REP,"Hunter, Duncan",5
+JOHNSON,President,,REP,"Cort, Hugh",1
+JOHNSON,President,,REP,"Keyes, Alan",8
+JOHNSON,President,,REP,"Gilbert, Daniel",1
+JOHNSON,President,,REP,UNCOMMITTED,15
+JOHNSON,President,,DEM,"Clinton, Hillary",2548
+JOHNSON,President,,DEM,"Obama, Barack",2062
+JOHNSON,President,,DEM,"Edwards, John",147
+JOHNSON,President,,DEM,"Spelbring, Ralph",2
+JOHNSON,President,,DEM,"Kucinich, Dennis J.",3
+JOHNSON,President,,DEM,"Richardson, Bill",5
+JOHNSON,President,,DEM,"Biden, Joe",0
+JOHNSON,President,,DEM,"Dodd, Christopher J.",1
+JOHNSON,President,,DEM,"Gravel, Mike",8
+JOHNSON,President,,DEM,UNCOMMITTED,12
+JOHNSON,President,,LIB,"Root, Wayne A.",10
+JOHNSON,President,,LIB,"Imperato, Daniel",3
+JOHNSON,President,,LIB,"Phillies, George",7
+JOHNSON,President,,LIB,"Jingozian, Michael P.",2
+JOHNSON,President,,LIB,"Kubby, Steve",3
+JOHNSON,President,,LIB,"Hollist, Dave",0
+JOHNSON,President,,LIB,UNCOMMITTED,18
+JOHNSON,President,,REP,"Paul, Ron",862
+JOHNSON,President,,REP,"Thompson, Fred",70
+JOHNSON,President,,REP,"Romney, Mitt",4138
+JOHNSON,President,,REP,"Giuliani, Rudy",77
+JOHNSON,President,,REP,"McCain, John",4822
+JOHNSON,President,,REP,"Huckabee, Mike",2761
+JOHNSON,President,,REP,"Wiles, Virgil L.R.",2
+JOHNSON,President,,REP,"Tancredo, Thomas",2
+JOHNSON,President,,REP,"Hunter, Duncan",7
+JOHNSON,President,,REP,"Cort, Hugh",2
+JOHNSON,President,,REP,"Keyes, Alan",45
+JOHNSON,President,,REP,"Gilbert, Daniel",2
+JOHNSON,President,,REP,UNCOMMITTED,57
+JOHNSON,President,,DEM,"Clinton, Hillary",19978
+JOHNSON,President,,DEM,"Obama, Barack",40057
+JOHNSON,President,,DEM,"Edwards, John",435
+JOHNSON,President,,DEM,"Spelbring, Ralph",7
+JOHNSON,President,,DEM,"Kucinich, Dennis J.",65
+JOHNSON,President,,DEM,"Richardson, Bill",39
+JOHNSON,President,,DEM,"Biden, Joe",33
+JOHNSON,President,,DEM,"Dodd, Christopher J.",11
+JOHNSON,President,,DEM,"Gravel, Mike",17
+JOHNSON,President,,DEM,UNCOMMITTED,135
+JOHNSON,President,,LIB,"Root, Wayne A.",12
+JOHNSON,President,,LIB,"Imperato, Daniel",11
+JOHNSON,President,,LIB,"Phillies, George",6
+JOHNSON,President,,LIB,"Jingozian, Michael P.",3
+JOHNSON,President,,LIB,"Kubby, Steve",8
+JOHNSON,President,,LIB,"Hollist, Dave",3
+JOHNSON,President,,LIB,UNCOMMITTED,28
+KNOX,President,,REP,"Paul, Ron",16
+KNOX,President,,REP,"Thompson, Fred",4
+KNOX,President,,REP,"Romney, Mitt",72
+KNOX,President,,REP,"Giuliani, Rudy",3
+KNOX,President,,REP,"McCain, John",101
+KNOX,President,,REP,"Huckabee, Mike",142
+KNOX,President,,REP,"Wiles, Virgil L.R.",0
+KNOX,President,,REP,"Tancredo, Thomas",1
+KNOX,President,,REP,"Hunter, Duncan",1
+KNOX,President,,REP,"Cort, Hugh",0
+KNOX,President,,REP,"Keyes, Alan",0
+KNOX,President,,REP,"Gilbert, Daniel",0
+KNOX,President,,REP,UNCOMMITTED,3
+KNOX,President,,DEM,"Clinton, Hillary",300
+KNOX,President,,DEM,"Obama, Barack",150
+KNOX,President,,DEM,"Edwards, John",28
+KNOX,President,,DEM,"Spelbring, Ralph",1
+KNOX,President,,DEM,"Kucinich, Dennis J.",1
+KNOX,President,,DEM,"Richardson, Bill",1
+KNOX,President,,DEM,"Biden, Joe",0
+KNOX,President,,DEM,"Dodd, Christopher J.",0
+KNOX,President,,DEM,"Gravel, Mike",0
+KNOX,President,,DEM,UNCOMMITTED,5
+KNOX,President,,LIB,"Root, Wayne A.",1
+KNOX,President,,LIB,"Imperato, Daniel",0
+KNOX,President,,LIB,"Phillies, George",0
+KNOX,President,,LIB,"Jingozian, Michael P.",0
+KNOX,President,,LIB,"Kubby, Steve",1
+KNOX,President,,LIB,"Hollist, Dave",1
+KNOX,President,,LIB,UNCOMMITTED,1
+LACLEDE,President,,REP,"Paul, Ron",142
+LACLEDE,President,,REP,"Thompson, Fred",21
+LACLEDE,President,,REP,"Romney, Mitt",807
+LACLEDE,President,,REP,"Giuliani, Rudy",23
+LACLEDE,President,,REP,"McCain, John",1656
+LACLEDE,President,,REP,"Huckabee, Mike",2791
+LACLEDE,President,,REP,"Wiles, Virgil L.R.",0
+LACLEDE,President,,REP,"Tancredo, Thomas",0
+LACLEDE,President,,REP,"Hunter, Duncan",0
+LACLEDE,President,,REP,"Cort, Hugh",2
+LACLEDE,President,,REP,"Keyes, Alan",11
+LACLEDE,President,,REP,"Gilbert, Daniel",0
+LACLEDE,President,,REP,UNCOMMITTED,29
+LACLEDE,President,,DEM,"Clinton, Hillary",2185
+LACLEDE,President,,DEM,"Obama, Barack",1181
+LACLEDE,President,,DEM,"Edwards, John",94
+LACLEDE,President,,DEM,"Spelbring, Ralph",2
+LACLEDE,President,,DEM,"Kucinich, Dennis J.",1
+LACLEDE,President,,DEM,"Richardson, Bill",2
+LACLEDE,President,,DEM,"Biden, Joe",5
+LACLEDE,President,,DEM,"Dodd, Christopher J.",0
+LACLEDE,President,,DEM,"Gravel, Mike",3
+LACLEDE,President,,DEM,UNCOMMITTED,24
+LACLEDE,President,,LIB,"Root, Wayne A.",3
+LACLEDE,President,,LIB,"Imperato, Daniel",0
+LACLEDE,President,,LIB,"Phillies, George",0
+LACLEDE,President,,LIB,"Jingozian, Michael P.",0
+LACLEDE,President,,LIB,"Kubby, Steve",1
+LACLEDE,President,,LIB,"Hollist, Dave",2
+LACLEDE,President,,LIB,UNCOMMITTED,2
+LAFAYETTE,President,,REP,"Paul, Ron",160
+LAFAYETTE,President,,REP,"Thompson, Fred",24
+LAFAYETTE,President,,REP,"Romney, Mitt",898
+LAFAYETTE,President,,REP,"Giuliani, Rudy",17
+LAFAYETTE,President,,REP,"McCain, John",1148
+LAFAYETTE,President,,REP,"Huckabee, Mike",979
+LAFAYETTE,President,,REP,"Wiles, Virgil L.R.",0
+LAFAYETTE,President,,REP,"Tancredo, Thomas",0
+LAFAYETTE,President,,REP,"Hunter, Duncan",6
+LAFAYETTE,President,,REP,"Cort, Hugh",0
+LAFAYETTE,President,,REP,"Keyes, Alan",5
+LAFAYETTE,President,,REP,"Gilbert, Daniel",2
+LAFAYETTE,President,,REP,UNCOMMITTED,15
+LAFAYETTE,President,,DEM,"Clinton, Hillary",2464
+LAFAYETTE,President,,DEM,"Obama, Barack",1436
+LAFAYETTE,President,,DEM,"Edwards, John",106
+LAFAYETTE,President,,DEM,"Spelbring, Ralph",0
+LAFAYETTE,President,,DEM,"Kucinich, Dennis J.",3
+LAFAYETTE,President,,DEM,"Richardson, Bill",7
+LAFAYETTE,President,,DEM,"Biden, Joe",6
+LAFAYETTE,President,,DEM,"Dodd, Christopher J.",8
+LAFAYETTE,President,,DEM,"Gravel, Mike",2
+LAFAYETTE,President,,DEM,UNCOMMITTED,24
+LAFAYETTE,President,,LIB,"Root, Wayne A.",1
+LAFAYETTE,President,,LIB,"Imperato, Daniel",1
+LAFAYETTE,President,,LIB,"Phillies, George",1
+LAFAYETTE,President,,LIB,"Jingozian, Michael P.",1
+LAFAYETTE,President,,LIB,"Kubby, Steve",1
+LAFAYETTE,President,,LIB,"Hollist, Dave",0
+LAFAYETTE,President,,LIB,UNCOMMITTED,12
+LAWRENCE,President,,REP,"Paul, Ron",232
+LAWRENCE,President,,REP,"Thompson, Fred",23
+LAWRENCE,President,,REP,"Romney, Mitt",1022
+LAWRENCE,President,,REP,"Giuliani, Rudy",33
+LAWRENCE,President,,REP,"McCain, John",1412
+LAWRENCE,President,,REP,"Huckabee, Mike",2628
+LAWRENCE,President,,REP,"Wiles, Virgil L.R.",1
+LAWRENCE,President,,REP,"Tancredo, Thomas",0
+LAWRENCE,President,,REP,"Hunter, Duncan",2
+LAWRENCE,President,,REP,"Cort, Hugh",0
+LAWRENCE,President,,REP,"Keyes, Alan",6
+LAWRENCE,President,,REP,"Gilbert, Daniel",1
+LAWRENCE,President,,REP,UNCOMMITTED,31
+LAWRENCE,President,,DEM,"Clinton, Hillary",2040
+LAWRENCE,President,,DEM,"Obama, Barack",1155
+LAWRENCE,President,,DEM,"Edwards, John",93
+LAWRENCE,President,,DEM,"Spelbring, Ralph",0
+LAWRENCE,President,,DEM,"Kucinich, Dennis J.",6
+LAWRENCE,President,,DEM,"Richardson, Bill",1
+LAWRENCE,President,,DEM,"Biden, Joe",2
+LAWRENCE,President,,DEM,"Dodd, Christopher J.",0
+LAWRENCE,President,,DEM,"Gravel, Mike",1
+LAWRENCE,President,,DEM,UNCOMMITTED,15
+LAWRENCE,President,,LIB,"Root, Wayne A.",3
+LAWRENCE,President,,LIB,"Imperato, Daniel",0
+LAWRENCE,President,,LIB,"Phillies, George",1
+LAWRENCE,President,,LIB,"Jingozian, Michael P.",0
+LAWRENCE,President,,LIB,"Kubby, Steve",1
+LAWRENCE,President,,LIB,"Hollist, Dave",0
+LAWRENCE,President,,LIB,UNCOMMITTED,9
+LEWIS,President,,REP,"Paul, Ron",32
+LEWIS,President,,REP,"Thompson, Fred",7
+LEWIS,President,,REP,"Romney, Mitt",197
+LEWIS,President,,REP,"Giuliani, Rudy",4
+LEWIS,President,,REP,"McCain, John",279
+LEWIS,President,,REP,"Huckabee, Mike",286
+LEWIS,President,,REP,"Wiles, Virgil L.R.",0
+LEWIS,President,,REP,"Tancredo, Thomas",0
+LEWIS,President,,REP,"Hunter, Duncan",0
+LEWIS,President,,REP,"Cort, Hugh",0
+LEWIS,President,,REP,"Keyes, Alan",2
+LEWIS,President,,REP,"Gilbert, Daniel",0
+LEWIS,President,,REP,UNCOMMITTED,8
+LEWIS,President,,DEM,"Clinton, Hillary",619
+LEWIS,President,,DEM,"Obama, Barack",476
+LEWIS,President,,DEM,"Edwards, John",44
+LEWIS,President,,DEM,"Spelbring, Ralph",0
+LEWIS,President,,DEM,"Kucinich, Dennis J.",0
+LEWIS,President,,DEM,"Richardson, Bill",2
+LEWIS,President,,DEM,"Biden, Joe",3
+LEWIS,President,,DEM,"Dodd, Christopher J.",1
+LEWIS,President,,DEM,"Gravel, Mike",1
+LEWIS,President,,DEM,UNCOMMITTED,11
+LEWIS,President,,LIB,"Root, Wayne A.",0
+LEWIS,President,,LIB,"Imperato, Daniel",0
+LEWIS,President,,LIB,"Phillies, George",0
+LEWIS,President,,LIB,"Jingozian, Michael P.",0
+LEWIS,President,,LIB,"Kubby, Steve",0
+LEWIS,President,,LIB,"Hollist, Dave",0
+LEWIS,President,,LIB,UNCOMMITTED,1
+LINCOLN,President,,REP,"Paul, Ron",216
+LINCOLN,President,,REP,"Thompson, Fred",30
+LINCOLN,President,,REP,"Romney, Mitt",1400
+LINCOLN,President,,REP,"Giuliani, Rudy",21
+LINCOLN,President,,REP,"McCain, John",1412
+LINCOLN,President,,REP,"Huckabee, Mike",1484
+LINCOLN,President,,REP,"Wiles, Virgil L.R.",0
+LINCOLN,President,,REP,"Tancredo, Thomas",0
+LINCOLN,President,,REP,"Hunter, Duncan",2
+LINCOLN,President,,REP,"Cort, Hugh",1
+LINCOLN,President,,REP,"Keyes, Alan",4
+LINCOLN,President,,REP,"Gilbert, Daniel",1
+LINCOLN,President,,REP,UNCOMMITTED,11
+LINCOLN,President,,DEM,"Clinton, Hillary",3490
+LINCOLN,President,,DEM,"Obama, Barack",1963
+LINCOLN,President,,DEM,"Edwards, John",190
+LINCOLN,President,,DEM,"Spelbring, Ralph",3
+LINCOLN,President,,DEM,"Kucinich, Dennis J.",7
+LINCOLN,President,,DEM,"Richardson, Bill",5
+LINCOLN,President,,DEM,"Biden, Joe",3
+LINCOLN,President,,DEM,"Dodd, Christopher J.",4
+LINCOLN,President,,DEM,"Gravel, Mike",4
+LINCOLN,President,,DEM,UNCOMMITTED,20
+LINCOLN,President,,LIB,"Root, Wayne A.",7
+LINCOLN,President,,LIB,"Imperato, Daniel",3
+LINCOLN,President,,LIB,"Phillies, George",0
+LINCOLN,President,,LIB,"Jingozian, Michael P.",0
+LINCOLN,President,,LIB,"Kubby, Steve",3
+LINCOLN,President,,LIB,"Hollist, Dave",1
+LINCOLN,President,,LIB,UNCOMMITTED,7
+LINN,President,,REP,"Paul, Ron",66
+LINN,President,,REP,"Thompson, Fred",5
+LINN,President,,REP,"Romney, Mitt",203
+LINN,President,,REP,"Giuliani, Rudy",4
+LINN,President,,REP,"McCain, John",361
+LINN,President,,REP,"Huckabee, Mike",451
+LINN,President,,REP,"Wiles, Virgil L.R.",0
+LINN,President,,REP,"Tancredo, Thomas",0
+LINN,President,,REP,"Hunter, Duncan",0
+LINN,President,,REP,"Cort, Hugh",0
+LINN,President,,REP,"Keyes, Alan",1
+LINN,President,,REP,"Gilbert, Daniel",0
+LINN,President,,REP,UNCOMMITTED,3
+LINN,President,,DEM,"Clinton, Hillary",984
+LINN,President,,DEM,"Obama, Barack",519
+LINN,President,,DEM,"Edwards, John",63
+LINN,President,,DEM,"Spelbring, Ralph",1
+LINN,President,,DEM,"Kucinich, Dennis J.",1
+LINN,President,,DEM,"Richardson, Bill",2
+LINN,President,,DEM,"Biden, Joe",3
+LINN,President,,DEM,"Dodd, Christopher J.",0
+LINN,President,,DEM,"Gravel, Mike",0
+LINN,President,,DEM,UNCOMMITTED,9
+LINN,President,,LIB,"Root, Wayne A.",1
+LINN,President,,LIB,"Imperato, Daniel",1
+LINN,President,,LIB,"Phillies, George",0
+LINN,President,,LIB,"Jingozian, Michael P.",0
+LINN,President,,LIB,"Kubby, Steve",1
+LINN,President,,LIB,"Hollist, Dave",0
+LINN,President,,LIB,UNCOMMITTED,1
+LIVINGSTON,President,,REP,"Paul, Ron",75
+LIVINGSTON,President,,REP,"Thompson, Fred",5
+LIVINGSTON,President,,REP,"Romney, Mitt",248
+LIVINGSTON,President,,REP,"Giuliani, Rudy",8
+LIVINGSTON,President,,REP,"McCain, John",488
+LIVINGSTON,President,,REP,"Huckabee, Mike",426
+LIVINGSTON,President,,REP,"Wiles, Virgil L.R.",0
+LIVINGSTON,President,,REP,"Tancredo, Thomas",0
+LIVINGSTON,President,,REP,"Hunter, Duncan",0
+LIVINGSTON,President,,REP,"Cort, Hugh",0
+LIVINGSTON,President,,REP,"Keyes, Alan",1
+LIVINGSTON,President,,REP,"Gilbert, Daniel",0
+LIVINGSTON,President,,REP,UNCOMMITTED,4
+LIVINGSTON,President,,DEM,"Clinton, Hillary",948
+LIVINGSTON,President,,DEM,"Obama, Barack",550
+LIVINGSTON,President,,DEM,"Edwards, John",68
+LIVINGSTON,President,,DEM,"Spelbring, Ralph",1
+LIVINGSTON,President,,DEM,"Kucinich, Dennis J.",1
+LIVINGSTON,President,,DEM,"Richardson, Bill",3
+LIVINGSTON,President,,DEM,"Biden, Joe",1
+LIVINGSTON,President,,DEM,"Dodd, Christopher J.",3
+LIVINGSTON,President,,DEM,"Gravel, Mike",0
+LIVINGSTON,President,,DEM,UNCOMMITTED,9
+LIVINGSTON,President,,LIB,"Root, Wayne A.",0
+LIVINGSTON,President,,LIB,"Imperato, Daniel",1
+LIVINGSTON,President,,LIB,"Phillies, George",0
+LIVINGSTON,President,,LIB,"Jingozian, Michael P.",0
+LIVINGSTON,President,,LIB,"Kubby, Steve",1
+LIVINGSTON,President,,LIB,"Hollist, Dave",1
+LIVINGSTON,President,,LIB,UNCOMMITTED,0
+MACON,President,,REP,"Paul, Ron",43
+MACON,President,,REP,"Thompson, Fred",14
+MACON,President,,REP,"Romney, Mitt",390
+MACON,President,,REP,"Giuliani, Rudy",9
+MACON,President,,REP,"McCain, John",441
+MACON,President,,REP,"Huckabee, Mike",646
+MACON,President,,REP,"Wiles, Virgil L.R.",0
+MACON,President,,REP,"Tancredo, Thomas",0
+MACON,President,,REP,"Hunter, Duncan",3
+MACON,President,,REP,"Cort, Hugh",0
+MACON,President,,REP,"Keyes, Alan",2
+MACON,President,,REP,"Gilbert, Daniel",0
+MACON,President,,REP,UNCOMMITTED,2
+MACON,President,,DEM,"Clinton, Hillary",1016
+MACON,President,,DEM,"Obama, Barack",615
+MACON,President,,DEM,"Edwards, John",106
+MACON,President,,DEM,"Spelbring, Ralph",1
+MACON,President,,DEM,"Kucinich, Dennis J.",1
+MACON,President,,DEM,"Richardson, Bill",6
+MACON,President,,DEM,"Biden, Joe",2
+MACON,President,,DEM,"Dodd, Christopher J.",0
+MACON,President,,DEM,"Gravel, Mike",3
+MACON,President,,DEM,UNCOMMITTED,10
+MACON,President,,LIB,"Root, Wayne A.",0
+MACON,President,,LIB,"Imperato, Daniel",0
+MACON,President,,LIB,"Phillies, George",0
+MACON,President,,LIB,"Jingozian, Michael P.",0
+MACON,President,,LIB,"Kubby, Steve",0
+MACON,President,,LIB,"Hollist, Dave",0
+MACON,President,,LIB,UNCOMMITTED,1
+MADISON,President,,REP,"Paul, Ron",51
+MADISON,President,,REP,"Thompson, Fred",5
+MADISON,President,,REP,"Romney, Mitt",185
+MADISON,President,,REP,"Giuliani, Rudy",7
+MADISON,President,,REP,"McCain, John",452
+MADISON,President,,REP,"Huckabee, Mike",560
+MADISON,President,,REP,"Wiles, Virgil L.R.",1
+MADISON,President,,REP,"Tancredo, Thomas",0
+MADISON,President,,REP,"Hunter, Duncan",1
+MADISON,President,,REP,"Cort, Hugh",0
+MADISON,President,,REP,"Keyes, Alan",1
+MADISON,President,,REP,"Gilbert, Daniel",0
+MADISON,President,,REP,UNCOMMITTED,11
+MADISON,President,,DEM,"Clinton, Hillary",971
+MADISON,President,,DEM,"Obama, Barack",344
+MADISON,President,,DEM,"Edwards, John",64
+MADISON,President,,DEM,"Spelbring, Ralph",1
+MADISON,President,,DEM,"Kucinich, Dennis J.",1
+MADISON,President,,DEM,"Richardson, Bill",6
+MADISON,President,,DEM,"Biden, Joe",4
+MADISON,President,,DEM,"Dodd, Christopher J.",0
+MADISON,President,,DEM,"Gravel, Mike",0
+MADISON,President,,DEM,UNCOMMITTED,22
+MADISON,President,,LIB,"Root, Wayne A.",0
+MADISON,President,,LIB,"Imperato, Daniel",0
+MADISON,President,,LIB,"Phillies, George",1
+MADISON,President,,LIB,"Jingozian, Michael P.",0
+MADISON,President,,LIB,"Kubby, Steve",0
+MADISON,President,,LIB,"Hollist, Dave",0
+MADISON,President,,LIB,UNCOMMITTED,0
+MARIES,President,,REP,"Paul, Ron",59
+MARIES,President,,REP,"Thompson, Fred",5
+MARIES,President,,REP,"Romney, Mitt",321
+MARIES,President,,REP,"Giuliani, Rudy",7
+MARIES,President,,REP,"McCain, John",343
+MARIES,President,,REP,"Huckabee, Mike",415
+MARIES,President,,REP,"Wiles, Virgil L.R.",0
+MARIES,President,,REP,"Tancredo, Thomas",1
+MARIES,President,,REP,"Hunter, Duncan",0
+MARIES,President,,REP,"Cort, Hugh",0
+MARIES,President,,REP,"Keyes, Alan",0
+MARIES,President,,REP,"Gilbert, Daniel",0
+MARIES,President,,REP,UNCOMMITTED,4
+MARIES,President,,DEM,"Clinton, Hillary",844
+MARIES,President,,DEM,"Obama, Barack",366
+MARIES,President,,DEM,"Edwards, John",48
+MARIES,President,,DEM,"Spelbring, Ralph",1
+MARIES,President,,DEM,"Kucinich, Dennis J.",0
+MARIES,President,,DEM,"Richardson, Bill",3
+MARIES,President,,DEM,"Biden, Joe",1
+MARIES,President,,DEM,"Dodd, Christopher J.",0
+MARIES,President,,DEM,"Gravel, Mike",1
+MARIES,President,,DEM,UNCOMMITTED,13
+MARIES,President,,LIB,"Root, Wayne A.",3
+MARIES,President,,LIB,"Imperato, Daniel",0
+MARIES,President,,LIB,"Phillies, George",0
+MARIES,President,,LIB,"Jingozian, Michael P.",1
+MARIES,President,,LIB,"Kubby, Steve",0
+MARIES,President,,LIB,"Hollist, Dave",1
+MARIES,President,,LIB,UNCOMMITTED,1
+MARION,President,,REP,"Paul, Ron",114
+MARION,President,,REP,"Thompson, Fred",19
+MARION,President,,REP,"Romney, Mitt",891
+MARION,President,,REP,"Giuliani, Rudy",15
+MARION,President,,REP,"McCain, John",714
+MARION,President,,REP,"Huckabee, Mike",904
+MARION,President,,REP,"Wiles, Virgil L.R.",0
+MARION,President,,REP,"Tancredo, Thomas",0
+MARION,President,,REP,"Hunter, Duncan",1
+MARION,President,,REP,"Cort, Hugh",0
+MARION,President,,REP,"Keyes, Alan",6
+MARION,President,,REP,"Gilbert, Daniel",0
+MARION,President,,REP,UNCOMMITTED,9
+MARION,President,,DEM,"Clinton, Hillary",1587
+MARION,President,,DEM,"Obama, Barack",1188
+MARION,President,,DEM,"Edwards, John",105
+MARION,President,,DEM,"Spelbring, Ralph",1
+MARION,President,,DEM,"Kucinich, Dennis J.",3
+MARION,President,,DEM,"Richardson, Bill",5
+MARION,President,,DEM,"Biden, Joe",8
+MARION,President,,DEM,"Dodd, Christopher J.",0
+MARION,President,,DEM,"Gravel, Mike",0
+MARION,President,,DEM,UNCOMMITTED,18
+MARION,President,,LIB,"Root, Wayne A.",1
+MARION,President,,LIB,"Imperato, Daniel",0
+MARION,President,,LIB,"Phillies, George",1
+MARION,President,,LIB,"Jingozian, Michael P.",0
+MARION,President,,LIB,"Kubby, Steve",0
+MARION,President,,LIB,"Hollist, Dave",0
+MARION,President,,LIB,UNCOMMITTED,0
+MCDONALD,President,,REP,"Paul, Ron",233
+MCDONALD,President,,REP,"Thompson, Fred",11
+MCDONALD,President,,REP,"Romney, Mitt",389
+MCDONALD,President,,REP,"Giuliani, Rudy",14
+MCDONALD,President,,REP,"McCain, John",674
+MCDONALD,President,,REP,"Huckabee, Mike",1285
+MCDONALD,President,,REP,"Wiles, Virgil L.R.",1
+MCDONALD,President,,REP,"Tancredo, Thomas",0
+MCDONALD,President,,REP,"Hunter, Duncan",0
+MCDONALD,President,,REP,"Cort, Hugh",0
+MCDONALD,President,,REP,"Keyes, Alan",5
+MCDONALD,President,,REP,"Gilbert, Daniel",0
+MCDONALD,President,,REP,UNCOMMITTED,26
+MCDONALD,President,,DEM,"Clinton, Hillary",1060
+MCDONALD,President,,DEM,"Obama, Barack",403
+MCDONALD,President,,DEM,"Edwards, John",55
+MCDONALD,President,,DEM,"Spelbring, Ralph",1
+MCDONALD,President,,DEM,"Kucinich, Dennis J.",2
+MCDONALD,President,,DEM,"Richardson, Bill",3
+MCDONALD,President,,DEM,"Biden, Joe",2
+MCDONALD,President,,DEM,"Dodd, Christopher J.",1
+MCDONALD,President,,DEM,"Gravel, Mike",0
+MCDONALD,President,,DEM,UNCOMMITTED,23
+MCDONALD,President,,LIB,"Root, Wayne A.",0
+MCDONALD,President,,LIB,"Imperato, Daniel",0
+MCDONALD,President,,LIB,"Phillies, George",0
+MCDONALD,President,,LIB,"Jingozian, Michael P.",0
+MCDONALD,President,,LIB,"Kubby, Steve",1
+MCDONALD,President,,LIB,"Hollist, Dave",0
+MCDONALD,President,,LIB,UNCOMMITTED,1
+MERCER,President,,REP,"Paul, Ron",91
+MERCER,President,,REP,"Thompson, Fred",3
+MERCER,President,,REP,"Romney, Mitt",62
+MERCER,President,,REP,"Giuliani, Rudy",5
+MERCER,President,,REP,"McCain, John",114
+MERCER,President,,REP,"Huckabee, Mike",132
+MERCER,President,,REP,"Wiles, Virgil L.R.",0
+MERCER,President,,REP,"Tancredo, Thomas",0
+MERCER,President,,REP,"Hunter, Duncan",0
+MERCER,President,,REP,"Cort, Hugh",0
+MERCER,President,,REP,"Keyes, Alan",1
+MERCER,President,,REP,"Gilbert, Daniel",0
+MERCER,President,,REP,UNCOMMITTED,3
+MERCER,President,,DEM,"Clinton, Hillary",141
+MERCER,President,,DEM,"Obama, Barack",80
+MERCER,President,,DEM,"Edwards, John",10
+MERCER,President,,DEM,"Spelbring, Ralph",0
+MERCER,President,,DEM,"Kucinich, Dennis J.",0
+MERCER,President,,DEM,"Richardson, Bill",0
+MERCER,President,,DEM,"Biden, Joe",1
+MERCER,President,,DEM,"Dodd, Christopher J.",0
+MERCER,President,,DEM,"Gravel, Mike",0
+MERCER,President,,DEM,UNCOMMITTED,1
+MERCER,President,,LIB,"Root, Wayne A.",0
+MERCER,President,,LIB,"Imperato, Daniel",0
+MERCER,President,,LIB,"Phillies, George",0
+MERCER,President,,LIB,"Jingozian, Michael P.",0
+MERCER,President,,LIB,"Kubby, Steve",0
+MERCER,President,,LIB,"Hollist, Dave",0
+MERCER,President,,LIB,UNCOMMITTED,0
+MILLER,President,,REP,"Paul, Ron",109
+MILLER,President,,REP,"Thompson, Fred",24
+MILLER,President,,REP,"Romney, Mitt",790
+MILLER,President,,REP,"Giuliani, Rudy",22
+MILLER,President,,REP,"McCain, John",1094
+MILLER,President,,REP,"Huckabee, Mike",1406
+MILLER,President,,REP,"Wiles, Virgil L.R.",1
+MILLER,President,,REP,"Tancredo, Thomas",1
+MILLER,President,,REP,"Hunter, Duncan",4
+MILLER,President,,REP,"Cort, Hugh",0
+MILLER,President,,REP,"Keyes, Alan",5
+MILLER,President,,REP,"Gilbert, Daniel",1
+MILLER,President,,REP,UNCOMMITTED,16
+MILLER,President,,DEM,"Clinton, Hillary",1381
+MILLER,President,,DEM,"Obama, Barack",713
+MILLER,President,,DEM,"Edwards, John",52
+MILLER,President,,DEM,"Spelbring, Ralph",0
+MILLER,President,,DEM,"Kucinich, Dennis J.",3
+MILLER,President,,DEM,"Richardson, Bill",2
+MILLER,President,,DEM,"Biden, Joe",2
+MILLER,President,,DEM,"Dodd, Christopher J.",0
+MILLER,President,,DEM,"Gravel, Mike",1
+MILLER,President,,DEM,UNCOMMITTED,13
+MILLER,President,,LIB,"Root, Wayne A.",1
+MILLER,President,,LIB,"Imperato, Daniel",0
+MILLER,President,,LIB,"Phillies, George",0
+MILLER,President,,LIB,"Jingozian, Michael P.",1
+MILLER,President,,LIB,"Kubby, Steve",1
+MILLER,President,,LIB,"Hollist, Dave",2
+MILLER,President,,LIB,UNCOMMITTED,2
+MISSISSIPPI,President,,REP,"Paul, Ron",15
+MISSISSIPPI,President,,REP,"Thompson, Fred",7
+MISSISSIPPI,President,,REP,"Romney, Mitt",226
+MISSISSIPPI,President,,REP,"Giuliani, Rudy",3
+MISSISSIPPI,President,,REP,"McCain, John",373
+MISSISSIPPI,President,,REP,"Huckabee, Mike",471
+MISSISSIPPI,President,,REP,"Wiles, Virgil L.R.",0
+MISSISSIPPI,President,,REP,"Tancredo, Thomas",0
+MISSISSIPPI,President,,REP,"Hunter, Duncan",4
+MISSISSIPPI,President,,REP,"Cort, Hugh",0
+MISSISSIPPI,President,,REP,"Keyes, Alan",0
+MISSISSIPPI,President,,REP,"Gilbert, Daniel",0
+MISSISSIPPI,President,,REP,UNCOMMITTED,7
+MISSISSIPPI,President,,DEM,"Clinton, Hillary",1094
+MISSISSIPPI,President,,DEM,"Obama, Barack",502
+MISSISSIPPI,President,,DEM,"Edwards, John",57
+MISSISSIPPI,President,,DEM,"Spelbring, Ralph",2
+MISSISSIPPI,President,,DEM,"Kucinich, Dennis J.",1
+MISSISSIPPI,President,,DEM,"Richardson, Bill",0
+MISSISSIPPI,President,,DEM,"Biden, Joe",1
+MISSISSIPPI,President,,DEM,"Dodd, Christopher J.",0
+MISSISSIPPI,President,,DEM,"Gravel, Mike",0
+MISSISSIPPI,President,,DEM,UNCOMMITTED,15
+MISSISSIPPI,President,,LIB,"Root, Wayne A.",0
+MISSISSIPPI,President,,LIB,"Imperato, Daniel",0
+MISSISSIPPI,President,,LIB,"Phillies, George",1
+MISSISSIPPI,President,,LIB,"Jingozian, Michael P.",0
+MISSISSIPPI,President,,LIB,"Kubby, Steve",1
+MISSISSIPPI,President,,LIB,"Hollist, Dave",0
+MISSISSIPPI,President,,LIB,UNCOMMITTED,2
+MONITEAU,President,,REP,"Paul, Ron",98
+MONITEAU,President,,REP,"Thompson, Fred",9
+MONITEAU,President,,REP,"Romney, Mitt",466
+MONITEAU,President,,REP,"Giuliani, Rudy",9
+MONITEAU,President,,REP,"McCain, John",510
+MONITEAU,President,,REP,"Huckabee, Mike",693
+MONITEAU,President,,REP,"Wiles, Virgil L.R.",0
+MONITEAU,President,,REP,"Tancredo, Thomas",1
+MONITEAU,President,,REP,"Hunter, Duncan",0
+MONITEAU,President,,REP,"Cort, Hugh",0
+MONITEAU,President,,REP,"Keyes, Alan",0
+MONITEAU,President,,REP,"Gilbert, Daniel",0
+MONITEAU,President,,REP,UNCOMMITTED,2
+MONITEAU,President,,DEM,"Clinton, Hillary",858
+MONITEAU,President,,DEM,"Obama, Barack",517
+MONITEAU,President,,DEM,"Edwards, John",30
+MONITEAU,President,,DEM,"Spelbring, Ralph",1
+MONITEAU,President,,DEM,"Kucinich, Dennis J.",2
+MONITEAU,President,,DEM,"Richardson, Bill",5
+MONITEAU,President,,DEM,"Biden, Joe",1
+MONITEAU,President,,DEM,"Dodd, Christopher J.",1
+MONITEAU,President,,DEM,"Gravel, Mike",0
+MONITEAU,President,,DEM,UNCOMMITTED,6
+MONITEAU,President,,LIB,"Root, Wayne A.",2
+MONITEAU,President,,LIB,"Imperato, Daniel",0
+MONITEAU,President,,LIB,"Phillies, George",0
+MONITEAU,President,,LIB,"Jingozian, Michael P.",0
+MONITEAU,President,,LIB,"Kubby, Steve",0
+MONITEAU,President,,LIB,"Hollist, Dave",0
+MONITEAU,President,,LIB,UNCOMMITTED,1
+MONROE,President,,REP,"Paul, Ron",32
+MONROE,President,,REP,"Thompson, Fred",7
+MONROE,President,,REP,"Romney, Mitt",231
+MONROE,President,,REP,"Giuliani, Rudy",6
+MONROE,President,,REP,"McCain, John",221
+MONROE,President,,REP,"Huckabee, Mike",300
+MONROE,President,,REP,"Wiles, Virgil L.R.",0
+MONROE,President,,REP,"Tancredo, Thomas",0
+MONROE,President,,REP,"Hunter, Duncan",0
+MONROE,President,,REP,"Cort, Hugh",0
+MONROE,President,,REP,"Keyes, Alan",2
+MONROE,President,,REP,"Gilbert, Daniel",0
+MONROE,President,,REP,UNCOMMITTED,2
+MONROE,President,,DEM,"Clinton, Hillary",590
+MONROE,President,,DEM,"Obama, Barack",444
+MONROE,President,,DEM,"Edwards, John",68
+MONROE,President,,DEM,"Spelbring, Ralph",1
+MONROE,President,,DEM,"Kucinich, Dennis J.",1
+MONROE,President,,DEM,"Richardson, Bill",2
+MONROE,President,,DEM,"Biden, Joe",1
+MONROE,President,,DEM,"Dodd, Christopher J.",2
+MONROE,President,,DEM,"Gravel, Mike",1
+MONROE,President,,DEM,UNCOMMITTED,9
+MONROE,President,,LIB,"Root, Wayne A.",1
+MONROE,President,,LIB,"Imperato, Daniel",0
+MONROE,President,,LIB,"Phillies, George",0
+MONROE,President,,LIB,"Jingozian, Michael P.",1
+MONROE,President,,LIB,"Kubby, Steve",0
+MONROE,President,,LIB,"Hollist, Dave",0
+MONROE,President,,LIB,UNCOMMITTED,1
+MONTGOMERY,President,,REP,"Paul, Ron",65
+MONTGOMERY,President,,REP,"Thompson, Fred",6
+MONTGOMERY,President,,REP,"Romney, Mitt",313
+MONTGOMERY,President,,REP,"Giuliani, Rudy",11
+MONTGOMERY,President,,REP,"McCain, John",554
+MONTGOMERY,President,,REP,"Huckabee, Mike",439
+MONTGOMERY,President,,REP,"Wiles, Virgil L.R.",0
+MONTGOMERY,President,,REP,"Tancredo, Thomas",0
+MONTGOMERY,President,,REP,"Hunter, Duncan",0
+MONTGOMERY,President,,REP,"Cort, Hugh",0
+MONTGOMERY,President,,REP,"Keyes, Alan",0
+MONTGOMERY,President,,REP,"Gilbert, Daniel",1
+MONTGOMERY,President,,REP,UNCOMMITTED,5
+MONTGOMERY,President,,DEM,"Clinton, Hillary",859
+MONTGOMERY,President,,DEM,"Obama, Barack",593
+MONTGOMERY,President,,DEM,"Edwards, John",36
+MONTGOMERY,President,,DEM,"Spelbring, Ralph",0
+MONTGOMERY,President,,DEM,"Kucinich, Dennis J.",3
+MONTGOMERY,President,,DEM,"Richardson, Bill",1
+MONTGOMERY,President,,DEM,"Biden, Joe",0
+MONTGOMERY,President,,DEM,"Dodd, Christopher J.",0
+MONTGOMERY,President,,DEM,"Gravel, Mike",3
+MONTGOMERY,President,,DEM,UNCOMMITTED,2
+MONTGOMERY,President,,LIB,"Root, Wayne A.",0
+MONTGOMERY,President,,LIB,"Imperato, Daniel",0
+MONTGOMERY,President,,LIB,"Phillies, George",1
+MONTGOMERY,President,,LIB,"Jingozian, Michael P.",0
+MONTGOMERY,President,,LIB,"Kubby, Steve",0
+MONTGOMERY,President,,LIB,"Hollist, Dave",2
+MONTGOMERY,President,,LIB,UNCOMMITTED,0
+MORGAN,President,,REP,"Paul, Ron",76
+MORGAN,President,,REP,"Thompson, Fred",18
+MORGAN,President,,REP,"Romney, Mitt",615
+MORGAN,President,,REP,"Giuliani, Rudy",22
+MORGAN,President,,REP,"McCain, John",857
+MORGAN,President,,REP,"Huckabee, Mike",896
+MORGAN,President,,REP,"Wiles, Virgil L.R.",0
+MORGAN,President,,REP,"Tancredo, Thomas",0
+MORGAN,President,,REP,"Hunter, Duncan",1
+MORGAN,President,,REP,"Cort, Hugh",0
+MORGAN,President,,REP,"Keyes, Alan",2
+MORGAN,President,,REP,"Gilbert, Daniel",2
+MORGAN,President,,REP,UNCOMMITTED,10
+MORGAN,President,,DEM,"Clinton, Hillary",1434
+MORGAN,President,,DEM,"Obama, Barack",776
+MORGAN,President,,DEM,"Edwards, John",78
+MORGAN,President,,DEM,"Spelbring, Ralph",0
+MORGAN,President,,DEM,"Kucinich, Dennis J.",3
+MORGAN,President,,DEM,"Richardson, Bill",2
+MORGAN,President,,DEM,"Biden, Joe",0
+MORGAN,President,,DEM,"Dodd, Christopher J.",2
+MORGAN,President,,DEM,"Gravel, Mike",0
+MORGAN,President,,DEM,UNCOMMITTED,16
+MORGAN,President,,LIB,"Root, Wayne A.",2
+MORGAN,President,,LIB,"Imperato, Daniel",1
+MORGAN,President,,LIB,"Phillies, George",0
+MORGAN,President,,LIB,"Jingozian, Michael P.",0
+MORGAN,President,,LIB,"Kubby, Steve",1
+MORGAN,President,,LIB,"Hollist, Dave",2
+MORGAN,President,,LIB,UNCOMMITTED,2
+NEW MADRID,President,,REP,"Paul, Ron",43
+NEW MADRID,President,,REP,"Thompson, Fred",2
+NEW MADRID,President,,REP,"Romney, Mitt",250
+NEW MADRID,President,,REP,"Giuliani, Rudy",4
+NEW MADRID,President,,REP,"McCain, John",386
+NEW MADRID,President,,REP,"Huckabee, Mike",656
+NEW MADRID,President,,REP,"Wiles, Virgil L.R.",0
+NEW MADRID,President,,REP,"Tancredo, Thomas",0
+NEW MADRID,President,,REP,"Hunter, Duncan",0
+NEW MADRID,President,,REP,"Cort, Hugh",0
+NEW MADRID,President,,REP,"Keyes, Alan",0
+NEW MADRID,President,,REP,"Gilbert, Daniel",0
+NEW MADRID,President,,REP,UNCOMMITTED,5
+NEW MADRID,President,,DEM,"Clinton, Hillary",1801
+NEW MADRID,President,,DEM,"Obama, Barack",610
+NEW MADRID,President,,DEM,"Edwards, John",101
+NEW MADRID,President,,DEM,"Spelbring, Ralph",2
+NEW MADRID,President,,DEM,"Kucinich, Dennis J.",3
+NEW MADRID,President,,DEM,"Richardson, Bill",1
+NEW MADRID,President,,DEM,"Biden, Joe",0
+NEW MADRID,President,,DEM,"Dodd, Christopher J.",0
+NEW MADRID,President,,DEM,"Gravel, Mike",1
+NEW MADRID,President,,DEM,UNCOMMITTED,11
+NEW MADRID,President,,LIB,"Root, Wayne A.",1
+NEW MADRID,President,,LIB,"Imperato, Daniel",0
+NEW MADRID,President,,LIB,"Phillies, George",0
+NEW MADRID,President,,LIB,"Jingozian, Michael P.",0
+NEW MADRID,President,,LIB,"Kubby, Steve",0
+NEW MADRID,President,,LIB,"Hollist, Dave",0
+NEW MADRID,President,,LIB,UNCOMMITTED,3
+NEWTON,President,,REP,"Paul, Ron",350
+NEWTON,President,,REP,"Thompson, Fred",27
+NEWTON,President,,REP,"Romney, Mitt",1744
+NEWTON,President,,REP,"Giuliani, Rudy",33
+NEWTON,President,,REP,"McCain, John",1983
+NEWTON,President,,REP,"Huckabee, Mike",3476
+NEWTON,President,,REP,"Wiles, Virgil L.R.",1
+NEWTON,President,,REP,"Tancredo, Thomas",0
+NEWTON,President,,REP,"Hunter, Duncan",3
+NEWTON,President,,REP,"Cort, Hugh",0
+NEWTON,President,,REP,"Keyes, Alan",9
+NEWTON,President,,REP,"Gilbert, Daniel",0
+NEWTON,President,,REP,UNCOMMITTED,15
+NEWTON,President,,DEM,"Clinton, Hillary",2725
+NEWTON,President,,DEM,"Obama, Barack",1308
+NEWTON,President,,DEM,"Edwards, John",94
+NEWTON,President,,DEM,"Spelbring, Ralph",3
+NEWTON,President,,DEM,"Kucinich, Dennis J.",4
+NEWTON,President,,DEM,"Richardson, Bill",5
+NEWTON,President,,DEM,"Biden, Joe",1
+NEWTON,President,,DEM,"Dodd, Christopher J.",1
+NEWTON,President,,DEM,"Gravel, Mike",2
+NEWTON,President,,DEM,UNCOMMITTED,14
+NEWTON,President,,LIB,"Root, Wayne A.",0
+NEWTON,President,,LIB,"Imperato, Daniel",0
+NEWTON,President,,LIB,"Phillies, George",1
+NEWTON,President,,LIB,"Jingozian, Michael P.",1
+NEWTON,President,,LIB,"Kubby, Steve",4
+NEWTON,President,,LIB,"Hollist, Dave",1
+NEWTON,President,,LIB,UNCOMMITTED,8
+NODAWAY,President,,REP,"Paul, Ron",83
+NODAWAY,President,,REP,"Thompson, Fred",9
+NODAWAY,President,,REP,"Romney, Mitt",469
+NODAWAY,President,,REP,"Giuliani, Rudy",15
+NODAWAY,President,,REP,"McCain, John",586
+NODAWAY,President,,REP,"Huckabee, Mike",468
+NODAWAY,President,,REP,"Wiles, Virgil L.R.",1
+NODAWAY,President,,REP,"Tancredo, Thomas",0
+NODAWAY,President,,REP,"Hunter, Duncan",1
+NODAWAY,President,,REP,"Cort, Hugh",0
+NODAWAY,President,,REP,"Keyes, Alan",3
+NODAWAY,President,,REP,"Gilbert, Daniel",0
+NODAWAY,President,,REP,UNCOMMITTED,7
+NODAWAY,President,,DEM,"Clinton, Hillary",931
+NODAWAY,President,,DEM,"Obama, Barack",1182
+NODAWAY,President,,DEM,"Edwards, John",65
+NODAWAY,President,,DEM,"Spelbring, Ralph",2
+NODAWAY,President,,DEM,"Kucinich, Dennis J.",2
+NODAWAY,President,,DEM,"Richardson, Bill",8
+NODAWAY,President,,DEM,"Biden, Joe",6
+NODAWAY,President,,DEM,"Dodd, Christopher J.",1
+NODAWAY,President,,DEM,"Gravel, Mike",3
+NODAWAY,President,,DEM,UNCOMMITTED,17
+NODAWAY,President,,LIB,"Root, Wayne A.",0
+NODAWAY,President,,LIB,"Imperato, Daniel",0
+NODAWAY,President,,LIB,"Phillies, George",0
+NODAWAY,President,,LIB,"Jingozian, Michael P.",0
+NODAWAY,President,,LIB,"Kubby, Steve",1
+NODAWAY,President,,LIB,"Hollist, Dave",2
+NODAWAY,President,,LIB,UNCOMMITTED,5
+OREGON,President,,REP,"Paul, Ron",101
+OREGON,President,,REP,"Thompson, Fred",4
+OREGON,President,,REP,"Romney, Mitt",134
+OREGON,President,,REP,"Giuliani, Rudy",3
+OREGON,President,,REP,"McCain, John",242
+OREGON,President,,REP,"Huckabee, Mike",696
+OREGON,President,,REP,"Wiles, Virgil L.R.",0
+OREGON,President,,REP,"Tancredo, Thomas",0
+OREGON,President,,REP,"Hunter, Duncan",0
+OREGON,President,,REP,"Cort, Hugh",1
+OREGON,President,,REP,"Keyes, Alan",0
+OREGON,President,,REP,"Gilbert, Daniel",0
+OREGON,President,,REP,UNCOMMITTED,1
+OREGON,President,,DEM,"Clinton, Hillary",989
+OREGON,President,,DEM,"Obama, Barack",332
+OREGON,President,,DEM,"Edwards, John",42
+OREGON,President,,DEM,"Spelbring, Ralph",0
+OREGON,President,,DEM,"Kucinich, Dennis J.",3
+OREGON,President,,DEM,"Richardson, Bill",1
+OREGON,President,,DEM,"Biden, Joe",1
+OREGON,President,,DEM,"Dodd, Christopher J.",2
+OREGON,President,,DEM,"Gravel, Mike",0
+OREGON,President,,DEM,UNCOMMITTED,8
+OREGON,President,,LIB,"Root, Wayne A.",1
+OREGON,President,,LIB,"Imperato, Daniel",0
+OREGON,President,,LIB,"Phillies, George",0
+OREGON,President,,LIB,"Jingozian, Michael P.",0
+OREGON,President,,LIB,"Kubby, Steve",0
+OREGON,President,,LIB,"Hollist, Dave",3
+OREGON,President,,LIB,UNCOMMITTED,3
+OSAGE,President,,REP,"Paul, Ron",42
+OSAGE,President,,REP,"Thompson, Fred",10
+OSAGE,President,,REP,"Romney, Mitt",610
+OSAGE,President,,REP,"Giuliani, Rudy",17
+OSAGE,President,,REP,"McCain, John",665
+OSAGE,President,,REP,"Huckabee, Mike",628
+OSAGE,President,,REP,"Wiles, Virgil L.R.",0
+OSAGE,President,,REP,"Tancredo, Thomas",0
+OSAGE,President,,REP,"Hunter, Duncan",2
+OSAGE,President,,REP,"Cort, Hugh",0
+OSAGE,President,,REP,"Keyes, Alan",4
+OSAGE,President,,REP,"Gilbert, Daniel",0
+OSAGE,President,,REP,UNCOMMITTED,9
+OSAGE,President,,DEM,"Clinton, Hillary",874
+OSAGE,President,,DEM,"Obama, Barack",609
+OSAGE,President,,DEM,"Edwards, John",42
+OSAGE,President,,DEM,"Spelbring, Ralph",2
+OSAGE,President,,DEM,"Kucinich, Dennis J.",2
+OSAGE,President,,DEM,"Richardson, Bill",1
+OSAGE,President,,DEM,"Biden, Joe",2
+OSAGE,President,,DEM,"Dodd, Christopher J.",0
+OSAGE,President,,DEM,"Gravel, Mike",1
+OSAGE,President,,DEM,UNCOMMITTED,10
+OSAGE,President,,LIB,"Root, Wayne A.",1
+OSAGE,President,,LIB,"Imperato, Daniel",0
+OSAGE,President,,LIB,"Phillies, George",0
+OSAGE,President,,LIB,"Jingozian, Michael P.",0
+OSAGE,President,,LIB,"Kubby, Steve",0
+OSAGE,President,,LIB,"Hollist, Dave",0
+OSAGE,President,,LIB,UNCOMMITTED,1
+OZARK,President,,REP,"Paul, Ron",149
+OZARK,President,,REP,"Thompson, Fred",11
+OZARK,President,,REP,"Romney, Mitt",235
+OZARK,President,,REP,"Giuliani, Rudy",1
+OZARK,President,,REP,"McCain, John",428
+OZARK,President,,REP,"Huckabee, Mike",766
+OZARK,President,,REP,"Wiles, Virgil L.R.",0
+OZARK,President,,REP,"Tancredo, Thomas",0
+OZARK,President,,REP,"Hunter, Duncan",0
+OZARK,President,,REP,"Cort, Hugh",0
+OZARK,President,,REP,"Keyes, Alan",1
+OZARK,President,,REP,"Gilbert, Daniel",0
+OZARK,President,,REP,UNCOMMITTED,2
+OZARK,President,,DEM,"Clinton, Hillary",689
+OZARK,President,,DEM,"Obama, Barack",332
+OZARK,President,,DEM,"Edwards, John",18
+OZARK,President,,DEM,"Spelbring, Ralph",1
+OZARK,President,,DEM,"Kucinich, Dennis J.",3
+OZARK,President,,DEM,"Richardson, Bill",2
+OZARK,President,,DEM,"Biden, Joe",0
+OZARK,President,,DEM,"Dodd, Christopher J.",1
+OZARK,President,,DEM,"Gravel, Mike",0
+OZARK,President,,DEM,UNCOMMITTED,4
+OZARK,President,,LIB,"Root, Wayne A.",0
+OZARK,President,,LIB,"Imperato, Daniel",0
+OZARK,President,,LIB,"Phillies, George",0
+OZARK,President,,LIB,"Jingozian, Michael P.",0
+OZARK,President,,LIB,"Kubby, Steve",0
+OZARK,President,,LIB,"Hollist, Dave",0
+OZARK,President,,LIB,UNCOMMITTED,5
+PEMISCOT,President,,REP,"Paul, Ron",20
+PEMISCOT,President,,REP,"Thompson, Fred",7
+PEMISCOT,President,,REP,"Romney, Mitt",149
+PEMISCOT,President,,REP,"Giuliani, Rudy",4
+PEMISCOT,President,,REP,"McCain, John",233
+PEMISCOT,President,,REP,"Huckabee, Mike",565
+PEMISCOT,President,,REP,"Wiles, Virgil L.R.",0
+PEMISCOT,President,,REP,"Tancredo, Thomas",0
+PEMISCOT,President,,REP,"Hunter, Duncan",0
+PEMISCOT,President,,REP,"Cort, Hugh",0
+PEMISCOT,President,,REP,"Keyes, Alan",0
+PEMISCOT,President,,REP,"Gilbert, Daniel",1
+PEMISCOT,President,,REP,UNCOMMITTED,2
+PEMISCOT,President,,DEM,"Clinton, Hillary",1270
+PEMISCOT,President,,DEM,"Obama, Barack",466
+PEMISCOT,President,,DEM,"Edwards, John",34
+PEMISCOT,President,,DEM,"Spelbring, Ralph",0
+PEMISCOT,President,,DEM,"Kucinich, Dennis J.",1
+PEMISCOT,President,,DEM,"Richardson, Bill",1
+PEMISCOT,President,,DEM,"Biden, Joe",1
+PEMISCOT,President,,DEM,"Dodd, Christopher J.",0
+PEMISCOT,President,,DEM,"Gravel, Mike",1
+PEMISCOT,President,,DEM,UNCOMMITTED,19
+PEMISCOT,President,,LIB,"Root, Wayne A.",0
+PEMISCOT,President,,LIB,"Imperato, Daniel",0
+PEMISCOT,President,,LIB,"Phillies, George",0
+PEMISCOT,President,,LIB,"Jingozian, Michael P.",0
+PEMISCOT,President,,LIB,"Kubby, Steve",0
+PEMISCOT,President,,LIB,"Hollist, Dave",1
+PEMISCOT,President,,LIB,UNCOMMITTED,2
+PERRY,President,,REP,"Paul, Ron",96
+PERRY,President,,REP,"Thompson, Fred",12
+PERRY,President,,REP,"Romney, Mitt",542
+PERRY,President,,REP,"Giuliani, Rudy",22
+PERRY,President,,REP,"McCain, John",973
+PERRY,President,,REP,"Huckabee, Mike",575
+PERRY,President,,REP,"Wiles, Virgil L.R.",0
+PERRY,President,,REP,"Tancredo, Thomas",0
+PERRY,President,,REP,"Hunter, Duncan",1
+PERRY,President,,REP,"Cort, Hugh",0
+PERRY,President,,REP,"Keyes, Alan",4
+PERRY,President,,REP,"Gilbert, Daniel",1
+PERRY,President,,REP,UNCOMMITTED,6
+PERRY,President,,DEM,"Clinton, Hillary",1180
+PERRY,President,,DEM,"Obama, Barack",650
+PERRY,President,,DEM,"Edwards, John",81
+PERRY,President,,DEM,"Spelbring, Ralph",2
+PERRY,President,,DEM,"Kucinich, Dennis J.",2
+PERRY,President,,DEM,"Richardson, Bill",1
+PERRY,President,,DEM,"Biden, Joe",2
+PERRY,President,,DEM,"Dodd, Christopher J.",0
+PERRY,President,,DEM,"Gravel, Mike",0
+PERRY,President,,DEM,UNCOMMITTED,9
+PERRY,President,,LIB,"Root, Wayne A.",0
+PERRY,President,,LIB,"Imperato, Daniel",1
+PERRY,President,,LIB,"Phillies, George",2
+PERRY,President,,LIB,"Jingozian, Michael P.",1
+PERRY,President,,LIB,"Kubby, Steve",2
+PERRY,President,,LIB,"Hollist, Dave",0
+PERRY,President,,LIB,UNCOMMITTED,0
+PETTIS,President,,REP,"Paul, Ron",110
+PETTIS,President,,REP,"Thompson, Fred",15
+PETTIS,President,,REP,"Romney, Mitt",1226
+PETTIS,President,,REP,"Giuliani, Rudy",20
+PETTIS,President,,REP,"McCain, John",1372
+PETTIS,President,,REP,"Huckabee, Mike",994
+PETTIS,President,,REP,"Wiles, Virgil L.R.",1
+PETTIS,President,,REP,"Tancredo, Thomas",1
+PETTIS,President,,REP,"Hunter, Duncan",1
+PETTIS,President,,REP,"Cort, Hugh",4
+PETTIS,President,,REP,"Keyes, Alan",3
+PETTIS,President,,REP,"Gilbert, Daniel",1
+PETTIS,President,,REP,UNCOMMITTED,19
+PETTIS,President,,DEM,"Clinton, Hillary",2242
+PETTIS,President,,DEM,"Obama, Barack",1694
+PETTIS,President,,DEM,"Edwards, John",123
+PETTIS,President,,DEM,"Spelbring, Ralph",0
+PETTIS,President,,DEM,"Kucinich, Dennis J.",1
+PETTIS,President,,DEM,"Richardson, Bill",5
+PETTIS,President,,DEM,"Biden, Joe",3
+PETTIS,President,,DEM,"Dodd, Christopher J.",2
+PETTIS,President,,DEM,"Gravel, Mike",5
+PETTIS,President,,DEM,UNCOMMITTED,19
+PETTIS,President,,LIB,"Root, Wayne A.",2
+PETTIS,President,,LIB,"Imperato, Daniel",2
+PETTIS,President,,LIB,"Phillies, George",2
+PETTIS,President,,LIB,"Jingozian, Michael P.",0
+PETTIS,President,,LIB,"Kubby, Steve",2
+PETTIS,President,,LIB,"Hollist, Dave",1
+PETTIS,President,,LIB,UNCOMMITTED,6
+PHELPS,President,,REP,"Paul, Ron",321
+PHELPS,President,,REP,"Thompson, Fred",23
+PHELPS,President,,REP,"Romney, Mitt",1340
+PHELPS,President,,REP,"Giuliani, Rudy",23
+PHELPS,President,,REP,"McCain, John",1459
+PHELPS,President,,REP,"Huckabee, Mike",1728
+PHELPS,President,,REP,"Wiles, Virgil L.R.",1
+PHELPS,President,,REP,"Tancredo, Thomas",2
+PHELPS,President,,REP,"Hunter, Duncan",1
+PHELPS,President,,REP,"Cort, Hugh",0
+PHELPS,President,,REP,"Keyes, Alan",8
+PHELPS,President,,REP,"Gilbert, Daniel",1
+PHELPS,President,,REP,UNCOMMITTED,9
+PHELPS,President,,DEM,"Clinton, Hillary",2392
+PHELPS,President,,DEM,"Obama, Barack",1878
+PHELPS,President,,DEM,"Edwards, John",122
+PHELPS,President,,DEM,"Spelbring, Ralph",3
+PHELPS,President,,DEM,"Kucinich, Dennis J.",2
+PHELPS,President,,DEM,"Richardson, Bill",6
+PHELPS,President,,DEM,"Biden, Joe",6
+PHELPS,President,,DEM,"Dodd, Christopher J.",2
+PHELPS,President,,DEM,"Gravel, Mike",4
+PHELPS,President,,DEM,UNCOMMITTED,20
+PHELPS,President,,LIB,"Root, Wayne A.",3
+PHELPS,President,,LIB,"Imperato, Daniel",2
+PHELPS,President,,LIB,"Phillies, George",3
+PHELPS,President,,LIB,"Jingozian, Michael P.",2
+PHELPS,President,,LIB,"Kubby, Steve",1
+PHELPS,President,,LIB,"Hollist, Dave",0
+PHELPS,President,,LIB,UNCOMMITTED,9
+PIKE,President,,REP,"Paul, Ron",84
+PIKE,President,,REP,"Thompson, Fred",10
+PIKE,President,,REP,"Romney, Mitt",388
+PIKE,President,,REP,"Giuliani, Rudy",8
+PIKE,President,,REP,"McCain, John",463
+PIKE,President,,REP,"Huckabee, Mike",461
+PIKE,President,,REP,"Wiles, Virgil L.R.",1
+PIKE,President,,REP,"Tancredo, Thomas",0
+PIKE,President,,REP,"Hunter, Duncan",1
+PIKE,President,,REP,"Cort, Hugh",0
+PIKE,President,,REP,"Keyes, Alan",0
+PIKE,President,,REP,"Gilbert, Daniel",1
+PIKE,President,,REP,UNCOMMITTED,4
+PIKE,President,,DEM,"Clinton, Hillary",1447
+PIKE,President,,DEM,"Obama, Barack",767
+PIKE,President,,DEM,"Edwards, John",82
+PIKE,President,,DEM,"Spelbring, Ralph",1
+PIKE,President,,DEM,"Kucinich, Dennis J.",0
+PIKE,President,,DEM,"Richardson, Bill",2
+PIKE,President,,DEM,"Biden, Joe",1
+PIKE,President,,DEM,"Dodd, Christopher J.",0
+PIKE,President,,DEM,"Gravel, Mike",0
+PIKE,President,,DEM,UNCOMMITTED,9
+PIKE,President,,LIB,"Root, Wayne A.",2
+PIKE,President,,LIB,"Imperato, Daniel",0
+PIKE,President,,LIB,"Phillies, George",0
+PIKE,President,,LIB,"Jingozian, Michael P.",0
+PIKE,President,,LIB,"Kubby, Steve",0
+PIKE,President,,LIB,"Hollist, Dave",1
+PIKE,President,,LIB,UNCOMMITTED,1
+PLATTE,President,,REP,"Paul, Ron",472
+PLATTE,President,,REP,"Thompson, Fred",36
+PLATTE,President,,REP,"Romney, Mitt",3109
+PLATTE,President,,REP,"Giuliani, Rudy",50
+PLATTE,President,,REP,"McCain, John",2793
+PLATTE,President,,REP,"Huckabee, Mike",1825
+PLATTE,President,,REP,"Wiles, Virgil L.R.",0
+PLATTE,President,,REP,"Tancredo, Thomas",2
+PLATTE,President,,REP,"Hunter, Duncan",4
+PLATTE,President,,REP,"Cort, Hugh",0
+PLATTE,President,,REP,"Keyes, Alan",14
+PLATTE,President,,REP,"Gilbert, Daniel",1
+PLATTE,President,,REP,UNCOMMITTED,35
+PLATTE,President,,DEM,"Clinton, Hillary",5434
+PLATTE,President,,DEM,"Obama, Barack",5158
+PLATTE,President,,DEM,"Edwards, John",192
+PLATTE,President,,DEM,"Spelbring, Ralph",2
+PLATTE,President,,DEM,"Kucinich, Dennis J.",9
+PLATTE,President,,DEM,"Richardson, Bill",6
+PLATTE,President,,DEM,"Biden, Joe",10
+PLATTE,President,,DEM,"Dodd, Christopher J.",1
+PLATTE,President,,DEM,"Gravel, Mike",6
+PLATTE,President,,DEM,UNCOMMITTED,35
+PLATTE,President,,LIB,"Root, Wayne A.",7
+PLATTE,President,,LIB,"Imperato, Daniel",1
+PLATTE,President,,LIB,"Phillies, George",1
+PLATTE,President,,LIB,"Jingozian, Michael P.",0
+PLATTE,President,,LIB,"Kubby, Steve",3
+PLATTE,President,,LIB,"Hollist, Dave",3
+PLATTE,President,,LIB,UNCOMMITTED,18
+POLK,President,,REP,"Paul, Ron",154
+POLK,President,,REP,"Thompson, Fred",14
+POLK,President,,REP,"Romney, Mitt",842
+POLK,President,,REP,"Giuliani, Rudy",18
+POLK,President,,REP,"McCain, John",1141
+POLK,President,,REP,"Huckabee, Mike",2317
+POLK,President,,REP,"Wiles, Virgil L.R.",2
+POLK,President,,REP,"Tancredo, Thomas",0
+POLK,President,,REP,"Hunter, Duncan",4
+POLK,President,,REP,"Cort, Hugh",0
+POLK,President,,REP,"Keyes, Alan",9
+POLK,President,,REP,"Gilbert, Daniel",0
+POLK,President,,REP,UNCOMMITTED,13
+POLK,President,,DEM,"Clinton, Hillary",1904
+POLK,President,,DEM,"Obama, Barack",993
+POLK,President,,DEM,"Edwards, John",67
+POLK,President,,DEM,"Spelbring, Ralph",0
+POLK,President,,DEM,"Kucinich, Dennis J.",3
+POLK,President,,DEM,"Richardson, Bill",0
+POLK,President,,DEM,"Biden, Joe",0
+POLK,President,,DEM,"Dodd, Christopher J.",2
+POLK,President,,DEM,"Gravel, Mike",2
+POLK,President,,DEM,UNCOMMITTED,13
+POLK,President,,LIB,"Root, Wayne A.",3
+POLK,President,,LIB,"Imperato, Daniel",0
+POLK,President,,LIB,"Phillies, George",0
+POLK,President,,LIB,"Jingozian, Michael P.",0
+POLK,President,,LIB,"Kubby, Steve",1
+POLK,President,,LIB,"Hollist, Dave",0
+POLK,President,,LIB,UNCOMMITTED,4
+PULASKI,President,,REP,"Paul, Ron",66
+PULASKI,President,,REP,"Thompson, Fred",21
+PULASKI,President,,REP,"Romney, Mitt",641
+PULASKI,President,,REP,"Giuliani, Rudy",27
+PULASKI,President,,REP,"McCain, John",1129
+PULASKI,President,,REP,"Huckabee, Mike",1216
+PULASKI,President,,REP,"Wiles, Virgil L.R.",0
+PULASKI,President,,REP,"Tancredo, Thomas",1
+PULASKI,President,,REP,"Hunter, Duncan",3
+PULASKI,President,,REP,"Cort, Hugh",0
+PULASKI,President,,REP,"Keyes, Alan",4
+PULASKI,President,,REP,"Gilbert, Daniel",0
+PULASKI,President,,REP,UNCOMMITTED,12
+PULASKI,President,,DEM,"Clinton, Hillary",1385
+PULASKI,President,,DEM,"Obama, Barack",972
+PULASKI,President,,DEM,"Edwards, John",78
+PULASKI,President,,DEM,"Spelbring, Ralph",1
+PULASKI,President,,DEM,"Kucinich, Dennis J.",3
+PULASKI,President,,DEM,"Richardson, Bill",2
+PULASKI,President,,DEM,"Biden, Joe",3
+PULASKI,President,,DEM,"Dodd, Christopher J.",1
+PULASKI,President,,DEM,"Gravel, Mike",0
+PULASKI,President,,DEM,UNCOMMITTED,25
+PULASKI,President,,LIB,"Root, Wayne A.",1
+PULASKI,President,,LIB,"Imperato, Daniel",0
+PULASKI,President,,LIB,"Phillies, George",2
+PULASKI,President,,LIB,"Jingozian, Michael P.",0
+PULASKI,President,,LIB,"Kubby, Steve",0
+PULASKI,President,,LIB,"Hollist, Dave",1
+PULASKI,President,,LIB,UNCOMMITTED,8
+PUTNAM,President,,REP,"Paul, Ron",28
+PUTNAM,President,,REP,"Thompson, Fred",5
+PUTNAM,President,,REP,"Romney, Mitt",128
+PUTNAM,President,,REP,"Giuliani, Rudy",3
+PUTNAM,President,,REP,"McCain, John",164
+PUTNAM,President,,REP,"Huckabee, Mike",254
+PUTNAM,President,,REP,"Wiles, Virgil L.R.",0
+PUTNAM,President,,REP,"Tancredo, Thomas",0
+PUTNAM,President,,REP,"Hunter, Duncan",0
+PUTNAM,President,,REP,"Cort, Hugh",0
+PUTNAM,President,,REP,"Keyes, Alan",0
+PUTNAM,President,,REP,"Gilbert, Daniel",0
+PUTNAM,President,,REP,UNCOMMITTED,2
+PUTNAM,President,,DEM,"Clinton, Hillary",252
+PUTNAM,President,,DEM,"Obama, Barack",120
+PUTNAM,President,,DEM,"Edwards, John",18
+PUTNAM,President,,DEM,"Spelbring, Ralph",0
+PUTNAM,President,,DEM,"Kucinich, Dennis J.",0
+PUTNAM,President,,DEM,"Richardson, Bill",0
+PUTNAM,President,,DEM,"Biden, Joe",0
+PUTNAM,President,,DEM,"Dodd, Christopher J.",0
+PUTNAM,President,,DEM,"Gravel, Mike",0
+PUTNAM,President,,DEM,UNCOMMITTED,0
+PUTNAM,President,,LIB,"Root, Wayne A.",0
+PUTNAM,President,,LIB,"Imperato, Daniel",0
+PUTNAM,President,,LIB,"Phillies, George",0
+PUTNAM,President,,LIB,"Jingozian, Michael P.",0
+PUTNAM,President,,LIB,"Kubby, Steve",0
+PUTNAM,President,,LIB,"Hollist, Dave",0
+PUTNAM,President,,LIB,UNCOMMITTED,3
+RALLS,President,,REP,"Paul, Ron",24
+RALLS,President,,REP,"Thompson, Fred",4
+RALLS,President,,REP,"Romney, Mitt",279
+RALLS,President,,REP,"Giuliani, Rudy",4
+RALLS,President,,REP,"McCain, John",256
+RALLS,President,,REP,"Huckabee, Mike",376
+RALLS,President,,REP,"Wiles, Virgil L.R.",0
+RALLS,President,,REP,"Tancredo, Thomas",0
+RALLS,President,,REP,"Hunter, Duncan",1
+RALLS,President,,REP,"Cort, Hugh",0
+RALLS,President,,REP,"Keyes, Alan",1
+RALLS,President,,REP,"Gilbert, Daniel",0
+RALLS,President,,REP,UNCOMMITTED,3
+RALLS,President,,DEM,"Clinton, Hillary",823
+RALLS,President,,DEM,"Obama, Barack",504
+RALLS,President,,DEM,"Edwards, John",78
+RALLS,President,,DEM,"Spelbring, Ralph",0
+RALLS,President,,DEM,"Kucinich, Dennis J.",1
+RALLS,President,,DEM,"Richardson, Bill",1
+RALLS,President,,DEM,"Biden, Joe",4
+RALLS,President,,DEM,"Dodd, Christopher J.",0
+RALLS,President,,DEM,"Gravel, Mike",1
+RALLS,President,,DEM,UNCOMMITTED,11
+RALLS,President,,LIB,"Root, Wayne A.",0
+RALLS,President,,LIB,"Imperato, Daniel",0
+RALLS,President,,LIB,"Phillies, George",0
+RALLS,President,,LIB,"Jingozian, Michael P.",0
+RALLS,President,,LIB,"Kubby, Steve",1
+RALLS,President,,LIB,"Hollist, Dave",0
+RALLS,President,,LIB,UNCOMMITTED,3
+RANDOLPH,President,,REP,"Paul, Ron",95
+RANDOLPH,President,,REP,"Thompson, Fred",11
+RANDOLPH,President,,REP,"Romney, Mitt",632
+RANDOLPH,President,,REP,"Giuliani, Rudy",13
+RANDOLPH,President,,REP,"McCain, John",623
+RANDOLPH,President,,REP,"Huckabee, Mike",824
+RANDOLPH,President,,REP,"Wiles, Virgil L.R.",0
+RANDOLPH,President,,REP,"Tancredo, Thomas",0
+RANDOLPH,President,,REP,"Hunter, Duncan",1
+RANDOLPH,President,,REP,"Cort, Hugh",0
+RANDOLPH,President,,REP,"Keyes, Alan",6
+RANDOLPH,President,,REP,"Gilbert, Daniel",0
+RANDOLPH,President,,REP,UNCOMMITTED,8
+RANDOLPH,President,,DEM,"Clinton, Hillary",1532
+RANDOLPH,President,,DEM,"Obama, Barack",938
+RANDOLPH,President,,DEM,"Edwards, John",125
+RANDOLPH,President,,DEM,"Spelbring, Ralph",5
+RANDOLPH,President,,DEM,"Kucinich, Dennis J.",4
+RANDOLPH,President,,DEM,"Richardson, Bill",3
+RANDOLPH,President,,DEM,"Biden, Joe",2
+RANDOLPH,President,,DEM,"Dodd, Christopher J.",1
+RANDOLPH,President,,DEM,"Gravel, Mike",2
+RANDOLPH,President,,DEM,UNCOMMITTED,19
+RANDOLPH,President,,LIB,"Root, Wayne A.",1
+RANDOLPH,President,,LIB,"Imperato, Daniel",0
+RANDOLPH,President,,LIB,"Phillies, George",0
+RANDOLPH,President,,LIB,"Jingozian, Michael P.",0
+RANDOLPH,President,,LIB,"Kubby, Steve",1
+RANDOLPH,President,,LIB,"Hollist, Dave",0
+RANDOLPH,President,,LIB,UNCOMMITTED,4
+RAY,President,,REP,"Paul, Ron",126
+RAY,President,,REP,"Thompson, Fred",11
+RAY,President,,REP,"Romney, Mitt",495
+RAY,President,,REP,"Giuliani, Rudy",8
+RAY,President,,REP,"McCain, John",554
+RAY,President,,REP,"Huckabee, Mike",709
+RAY,President,,REP,"Wiles, Virgil L.R.",0
+RAY,President,,REP,"Tancredo, Thomas",0
+RAY,President,,REP,"Hunter, Duncan",1
+RAY,President,,REP,"Cort, Hugh",0
+RAY,President,,REP,"Keyes, Alan",3
+RAY,President,,REP,"Gilbert, Daniel",0
+RAY,President,,REP,UNCOMMITTED,10
+RAY,President,,DEM,"Clinton, Hillary",2150
+RAY,President,,DEM,"Obama, Barack",998
+RAY,President,,DEM,"Edwards, John",102
+RAY,President,,DEM,"Spelbring, Ralph",3
+RAY,President,,DEM,"Kucinich, Dennis J.",2
+RAY,President,,DEM,"Richardson, Bill",6
+RAY,President,,DEM,"Biden, Joe",5
+RAY,President,,DEM,"Dodd, Christopher J.",1
+RAY,President,,DEM,"Gravel, Mike",5
+RAY,President,,DEM,UNCOMMITTED,21
+RAY,President,,LIB,"Root, Wayne A.",1
+RAY,President,,LIB,"Imperato, Daniel",1
+RAY,President,,LIB,"Phillies, George",0
+RAY,President,,LIB,"Jingozian, Michael P.",0
+RAY,President,,LIB,"Kubby, Steve",1
+RAY,President,,LIB,"Hollist, Dave",0
+RAY,President,,LIB,UNCOMMITTED,1
+REYNOLDS,President,,REP,"Paul, Ron",25
+REYNOLDS,President,,REP,"Thompson, Fred",3
+REYNOLDS,President,,REP,"Romney, Mitt",93
+REYNOLDS,President,,REP,"Giuliani, Rudy",6
+REYNOLDS,President,,REP,"McCain, John",202
+REYNOLDS,President,,REP,"Huckabee, Mike",283
+REYNOLDS,President,,REP,"Wiles, Virgil L.R.",0
+REYNOLDS,President,,REP,"Tancredo, Thomas",0
+REYNOLDS,President,,REP,"Hunter, Duncan",0
+REYNOLDS,President,,REP,"Cort, Hugh",0
+REYNOLDS,President,,REP,"Keyes, Alan",1
+REYNOLDS,President,,REP,"Gilbert, Daniel",0
+REYNOLDS,President,,REP,UNCOMMITTED,1
+REYNOLDS,President,,DEM,"Clinton, Hillary",741
+REYNOLDS,President,,DEM,"Obama, Barack",277
+REYNOLDS,President,,DEM,"Edwards, John",70
+REYNOLDS,President,,DEM,"Spelbring, Ralph",2
+REYNOLDS,President,,DEM,"Kucinich, Dennis J.",3
+REYNOLDS,President,,DEM,"Richardson, Bill",2
+REYNOLDS,President,,DEM,"Biden, Joe",1
+REYNOLDS,President,,DEM,"Dodd, Christopher J.",4
+REYNOLDS,President,,DEM,"Gravel, Mike",3
+REYNOLDS,President,,DEM,UNCOMMITTED,16
+REYNOLDS,President,,LIB,"Root, Wayne A.",0
+REYNOLDS,President,,LIB,"Imperato, Daniel",0
+REYNOLDS,President,,LIB,"Phillies, George",0
+REYNOLDS,President,,LIB,"Jingozian, Michael P.",0
+REYNOLDS,President,,LIB,"Kubby, Steve",0
+REYNOLDS,President,,LIB,"Hollist, Dave",1
+REYNOLDS,President,,LIB,UNCOMMITTED,0
+RIPLEY,President,,REP,"Paul, Ron",52
+RIPLEY,President,,REP,"Thompson, Fred",8
+RIPLEY,President,,REP,"Romney, Mitt",238
+RIPLEY,President,,REP,"Giuliani, Rudy",5
+RIPLEY,President,,REP,"McCain, John",329
+RIPLEY,President,,REP,"Huckabee, Mike",750
+RIPLEY,President,,REP,"Wiles, Virgil L.R.",1
+RIPLEY,President,,REP,"Tancredo, Thomas",1
+RIPLEY,President,,REP,"Hunter, Duncan",1
+RIPLEY,President,,REP,"Cort, Hugh",0
+RIPLEY,President,,REP,"Keyes, Alan",3
+RIPLEY,President,,REP,"Gilbert, Daniel",1
+RIPLEY,President,,REP,UNCOMMITTED,4
+RIPLEY,President,,DEM,"Clinton, Hillary",1073
+RIPLEY,President,,DEM,"Obama, Barack",282
+RIPLEY,President,,DEM,"Edwards, John",72
+RIPLEY,President,,DEM,"Spelbring, Ralph",0
+RIPLEY,President,,DEM,"Kucinich, Dennis J.",0
+RIPLEY,President,,DEM,"Richardson, Bill",3
+RIPLEY,President,,DEM,"Biden, Joe",3
+RIPLEY,President,,DEM,"Dodd, Christopher J.",3
+RIPLEY,President,,DEM,"Gravel, Mike",2
+RIPLEY,President,,DEM,UNCOMMITTED,8
+RIPLEY,President,,LIB,"Root, Wayne A.",0
+RIPLEY,President,,LIB,"Imperato, Daniel",0
+RIPLEY,President,,LIB,"Phillies, George",1
+RIPLEY,President,,LIB,"Jingozian, Michael P.",0
+RIPLEY,President,,LIB,"Kubby, Steve",0
+RIPLEY,President,,LIB,"Hollist, Dave",2
+RIPLEY,President,,LIB,UNCOMMITTED,0
+SALINE,President,,REP,"Paul, Ron",51
+SALINE,President,,REP,"Thompson, Fred",10
+SALINE,President,,REP,"Romney, Mitt",392
+SALINE,President,,REP,"Giuliani, Rudy",12
+SALINE,President,,REP,"McCain, John",617
+SALINE,President,,REP,"Huckabee, Mike",518
+SALINE,President,,REP,"Wiles, Virgil L.R.",1
+SALINE,President,,REP,"Tancredo, Thomas",1
+SALINE,President,,REP,"Hunter, Duncan",0
+SALINE,President,,REP,"Cort, Hugh",0
+SALINE,President,,REP,"Keyes, Alan",4
+SALINE,President,,REP,"Gilbert, Daniel",0
+SALINE,President,,REP,UNCOMMITTED,5
+SALINE,President,,DEM,"Clinton, Hillary",1787
+SALINE,President,,DEM,"Obama, Barack",1177
+SALINE,President,,DEM,"Edwards, John",111
+SALINE,President,,DEM,"Spelbring, Ralph",0
+SALINE,President,,DEM,"Kucinich, Dennis J.",4
+SALINE,President,,DEM,"Richardson, Bill",5
+SALINE,President,,DEM,"Biden, Joe",2
+SALINE,President,,DEM,"Dodd, Christopher J.",2
+SALINE,President,,DEM,"Gravel, Mike",1
+SALINE,President,,DEM,UNCOMMITTED,21
+SALINE,President,,LIB,"Root, Wayne A.",0
+SALINE,President,,LIB,"Imperato, Daniel",0
+SALINE,President,,LIB,"Phillies, George",0
+SALINE,President,,LIB,"Jingozian, Michael P.",0
+SALINE,President,,LIB,"Kubby, Steve",0
+SALINE,President,,LIB,"Hollist, Dave",1
+SALINE,President,,LIB,UNCOMMITTED,6
+SCHUYLER,President,,REP,"Paul, Ron",29
+SCHUYLER,President,,REP,"Thompson, Fred",4
+SCHUYLER,President,,REP,"Romney, Mitt",84
+SCHUYLER,President,,REP,"Giuliani, Rudy",2
+SCHUYLER,President,,REP,"McCain, John",103
+SCHUYLER,President,,REP,"Huckabee, Mike",179
+SCHUYLER,President,,REP,"Wiles, Virgil L.R.",0
+SCHUYLER,President,,REP,"Tancredo, Thomas",0
+SCHUYLER,President,,REP,"Hunter, Duncan",1
+SCHUYLER,President,,REP,"Cort, Hugh",0
+SCHUYLER,President,,REP,"Keyes, Alan",0
+SCHUYLER,President,,REP,"Gilbert, Daniel",0
+SCHUYLER,President,,REP,UNCOMMITTED,2
+SCHUYLER,President,,DEM,"Clinton, Hillary",348
+SCHUYLER,President,,DEM,"Obama, Barack",176
+SCHUYLER,President,,DEM,"Edwards, John",31
+SCHUYLER,President,,DEM,"Spelbring, Ralph",1
+SCHUYLER,President,,DEM,"Kucinich, Dennis J.",0
+SCHUYLER,President,,DEM,"Richardson, Bill",1
+SCHUYLER,President,,DEM,"Biden, Joe",1
+SCHUYLER,President,,DEM,"Dodd, Christopher J.",0
+SCHUYLER,President,,DEM,"Gravel, Mike",0
+SCHUYLER,President,,DEM,UNCOMMITTED,9
+SCHUYLER,President,,LIB,"Root, Wayne A.",0
+SCHUYLER,President,,LIB,"Imperato, Daniel",0
+SCHUYLER,President,,LIB,"Phillies, George",0
+SCHUYLER,President,,LIB,"Jingozian, Michael P.",0
+SCHUYLER,President,,LIB,"Kubby, Steve",0
+SCHUYLER,President,,LIB,"Hollist, Dave",0
+SCHUYLER,President,,LIB,UNCOMMITTED,1
+SCOTLAND,President,,REP,"Paul, Ron",16
+SCOTLAND,President,,REP,"Thompson, Fred",3
+SCOTLAND,President,,REP,"Romney, Mitt",94
+SCOTLAND,President,,REP,"Giuliani, Rudy",1
+SCOTLAND,President,,REP,"McCain, John",129
+SCOTLAND,President,,REP,"Huckabee, Mike",185
+SCOTLAND,President,,REP,"Wiles, Virgil L.R.",0
+SCOTLAND,President,,REP,"Tancredo, Thomas",0
+SCOTLAND,President,,REP,"Hunter, Duncan",0
+SCOTLAND,President,,REP,"Cort, Hugh",0
+SCOTLAND,President,,REP,"Keyes, Alan",0
+SCOTLAND,President,,REP,"Gilbert, Daniel",0
+SCOTLAND,President,,REP,UNCOMMITTED,5
+SCOTLAND,President,,DEM,"Clinton, Hillary",322
+SCOTLAND,President,,DEM,"Obama, Barack",217
+SCOTLAND,President,,DEM,"Edwards, John",44
+SCOTLAND,President,,DEM,"Spelbring, Ralph",0
+SCOTLAND,President,,DEM,"Kucinich, Dennis J.",1
+SCOTLAND,President,,DEM,"Richardson, Bill",2
+SCOTLAND,President,,DEM,"Biden, Joe",2
+SCOTLAND,President,,DEM,"Dodd, Christopher J.",0
+SCOTLAND,President,,DEM,"Gravel, Mike",0
+SCOTLAND,President,,DEM,UNCOMMITTED,8
+SCOTLAND,President,,LIB,"Root, Wayne A.",0
+SCOTLAND,President,,LIB,"Imperato, Daniel",0
+SCOTLAND,President,,LIB,"Phillies, George",0
+SCOTLAND,President,,LIB,"Jingozian, Michael P.",0
+SCOTLAND,President,,LIB,"Kubby, Steve",0
+SCOTLAND,President,,LIB,"Hollist, Dave",1
+SCOTLAND,President,,LIB,UNCOMMITTED,0
+SCOTT,President,,REP,"Paul, Ron",113
+SCOTT,President,,REP,"Thompson, Fred",38
+SCOTT,President,,REP,"Romney, Mitt",1076
+SCOTT,President,,REP,"Giuliani, Rudy",24
+SCOTT,President,,REP,"McCain, John",1389
+SCOTT,President,,REP,"Huckabee, Mike",1549
+SCOTT,President,,REP,"Wiles, Virgil L.R.",0
+SCOTT,President,,REP,"Tancredo, Thomas",0
+SCOTT,President,,REP,"Hunter, Duncan",1
+SCOTT,President,,REP,"Cort, Hugh",0
+SCOTT,President,,REP,"Keyes, Alan",3
+SCOTT,President,,REP,"Gilbert, Daniel",2
+SCOTT,President,,REP,UNCOMMITTED,15
+SCOTT,President,,DEM,"Clinton, Hillary",2931
+SCOTT,President,,DEM,"Obama, Barack",1443
+SCOTT,President,,DEM,"Edwards, John",191
+SCOTT,President,,DEM,"Spelbring, Ralph",5
+SCOTT,President,,DEM,"Kucinich, Dennis J.",6
+SCOTT,President,,DEM,"Richardson, Bill",7
+SCOTT,President,,DEM,"Biden, Joe",3
+SCOTT,President,,DEM,"Dodd, Christopher J.",0
+SCOTT,President,,DEM,"Gravel, Mike",1
+SCOTT,President,,DEM,UNCOMMITTED,34
+SCOTT,President,,LIB,"Root, Wayne A.",4
+SCOTT,President,,LIB,"Imperato, Daniel",0
+SCOTT,President,,LIB,"Phillies, George",0
+SCOTT,President,,LIB,"Jingozian, Michael P.",1
+SCOTT,President,,LIB,"Kubby, Steve",0
+SCOTT,President,,LIB,"Hollist, Dave",2
+SCOTT,President,,LIB,UNCOMMITTED,2
+SHANNON,President,,REP,"Paul, Ron",109
+SHANNON,President,,REP,"Thompson, Fred",3
+SHANNON,President,,REP,"Romney, Mitt",83
+SHANNON,President,,REP,"Giuliani, Rudy",0
+SHANNON,President,,REP,"McCain, John",223
+SHANNON,President,,REP,"Huckabee, Mike",515
+SHANNON,President,,REP,"Wiles, Virgil L.R.",0
+SHANNON,President,,REP,"Tancredo, Thomas",0
+SHANNON,President,,REP,"Hunter, Duncan",0
+SHANNON,President,,REP,"Cort, Hugh",0
+SHANNON,President,,REP,"Keyes, Alan",8
+SHANNON,President,,REP,"Gilbert, Daniel",1
+SHANNON,President,,REP,UNCOMMITTED,4
+SHANNON,President,,DEM,"Clinton, Hillary",914
+SHANNON,President,,DEM,"Obama, Barack",323
+SHANNON,President,,DEM,"Edwards, John",50
+SHANNON,President,,DEM,"Spelbring, Ralph",0
+SHANNON,President,,DEM,"Kucinich, Dennis J.",1
+SHANNON,President,,DEM,"Richardson, Bill",1
+SHANNON,President,,DEM,"Biden, Joe",3
+SHANNON,President,,DEM,"Dodd, Christopher J.",2
+SHANNON,President,,DEM,"Gravel, Mike",1
+SHANNON,President,,DEM,UNCOMMITTED,16
+SHANNON,President,,LIB,"Root, Wayne A.",0
+SHANNON,President,,LIB,"Imperato, Daniel",0
+SHANNON,President,,LIB,"Phillies, George",1
+SHANNON,President,,LIB,"Jingozian, Michael P.",0
+SHANNON,President,,LIB,"Kubby, Steve",0
+SHANNON,President,,LIB,"Hollist, Dave",0
+SHANNON,President,,LIB,UNCOMMITTED,1
+SHELBY,President,,REP,"Paul, Ron",18
+SHELBY,President,,REP,"Thompson, Fred",1
+SHELBY,President,,REP,"Romney, Mitt",140
+SHELBY,President,,REP,"Giuliani, Rudy",6
+SHELBY,President,,REP,"McCain, John",206
+SHELBY,President,,REP,"Huckabee, Mike",321
+SHELBY,President,,REP,"Wiles, Virgil L.R.",0
+SHELBY,President,,REP,"Tancredo, Thomas",0
+SHELBY,President,,REP,"Hunter, Duncan",1
+SHELBY,President,,REP,"Cort, Hugh",0
+SHELBY,President,,REP,"Keyes, Alan",1
+SHELBY,President,,REP,"Gilbert, Daniel",0
+SHELBY,President,,REP,UNCOMMITTED,6
+SHELBY,President,,DEM,"Clinton, Hillary",460
+SHELBY,President,,DEM,"Obama, Barack",299
+SHELBY,President,,DEM,"Edwards, John",64
+SHELBY,President,,DEM,"Spelbring, Ralph",1
+SHELBY,President,,DEM,"Kucinich, Dennis J.",0
+SHELBY,President,,DEM,"Richardson, Bill",2
+SHELBY,President,,DEM,"Biden, Joe",1
+SHELBY,President,,DEM,"Dodd, Christopher J.",0
+SHELBY,President,,DEM,"Gravel, Mike",0
+SHELBY,President,,DEM,UNCOMMITTED,19
+SHELBY,President,,LIB,"Root, Wayne A.",0
+SHELBY,President,,LIB,"Imperato, Daniel",0
+SHELBY,President,,LIB,"Phillies, George",0
+SHELBY,President,,LIB,"Jingozian, Michael P.",0
+SHELBY,President,,LIB,"Kubby, Steve",0
+SHELBY,President,,LIB,"Hollist, Dave",1
+SHELBY,President,,LIB,UNCOMMITTED,2
+ST CHARLES,President,,REP,"Paul, Ron",1613
+ST CHARLES,President,,REP,"Thompson, Fred",213
+ST CHARLES,President,,REP,"Romney, Mitt",15869
+ST CHARLES,President,,REP,"Giuliani, Rudy",258
+ST CHARLES,President,,REP,"McCain, John",14705
+ST CHARLES,President,,REP,"Huckabee, Mike",9185
+ST CHARLES,President,,REP,"Wiles, Virgil L.R.",2
+ST CHARLES,President,,REP,"Tancredo, Thomas",3
+ST CHARLES,President,,REP,"Hunter, Duncan",17
+ST CHARLES,President,,REP,"Cort, Hugh",2
+ST CHARLES,President,,REP,"Keyes, Alan",63
+ST CHARLES,President,,REP,"Gilbert, Daniel",2
+ST CHARLES,President,,REP,UNCOMMITTED,137
+ST CHARLES,President,,DEM,"Clinton, Hillary",23611
+ST CHARLES,President,,DEM,"Obama, Barack",22356
+ST CHARLES,President,,DEM,"Edwards, John",821
+ST CHARLES,President,,DEM,"Spelbring, Ralph",8
+ST CHARLES,President,,DEM,"Kucinich, Dennis J.",34
+ST CHARLES,President,,DEM,"Richardson, Bill",24
+ST CHARLES,President,,DEM,"Biden, Joe",33
+ST CHARLES,President,,DEM,"Dodd, Christopher J.",12
+ST CHARLES,President,,DEM,"Gravel, Mike",22
+ST CHARLES,President,,DEM,UNCOMMITTED,167
+ST CHARLES,President,,LIB,"Root, Wayne A.",12
+ST CHARLES,President,,LIB,"Imperato, Daniel",7
+ST CHARLES,President,,LIB,"Phillies, George",5
+ST CHARLES,President,,LIB,"Jingozian, Michael P.",6
+ST CHARLES,President,,LIB,"Kubby, Steve",9
+ST CHARLES,President,,LIB,"Hollist, Dave",7
+ST CHARLES,President,,LIB,UNCOMMITTED,64
+ST CLAIR,President,,REP,"Paul, Ron",44
+ST CLAIR,President,,REP,"Thompson, Fred",4
+ST CLAIR,President,,REP,"Romney, Mitt",246
+ST CLAIR,President,,REP,"Giuliani, Rudy",5
+ST CLAIR,President,,REP,"McCain, John",437
+ST CLAIR,President,,REP,"Huckabee, Mike",572
+ST CLAIR,President,,REP,"Wiles, Virgil L.R.",0
+ST CLAIR,President,,REP,"Tancredo, Thomas",0
+ST CLAIR,President,,REP,"Hunter, Duncan",0
+ST CLAIR,President,,REP,"Cort, Hugh",0
+ST CLAIR,President,,REP,"Keyes, Alan",0
+ST CLAIR,President,,REP,"Gilbert, Daniel",2
+ST CLAIR,President,,REP,UNCOMMITTED,10
+ST CLAIR,President,,DEM,"Clinton, Hillary",923
+ST CLAIR,President,,DEM,"Obama, Barack",357
+ST CLAIR,President,,DEM,"Edwards, John",62
+ST CLAIR,President,,DEM,"Spelbring, Ralph",0
+ST CLAIR,President,,DEM,"Kucinich, Dennis J.",2
+ST CLAIR,President,,DEM,"Richardson, Bill",2
+ST CLAIR,President,,DEM,"Biden, Joe",2
+ST CLAIR,President,,DEM,"Dodd, Christopher J.",0
+ST CLAIR,President,,DEM,"Gravel, Mike",1
+ST CLAIR,President,,DEM,UNCOMMITTED,18
+ST CLAIR,President,,LIB,"Root, Wayne A.",1
+ST CLAIR,President,,LIB,"Imperato, Daniel",1
+ST CLAIR,President,,LIB,"Phillies, George",2
+ST CLAIR,President,,LIB,"Jingozian, Michael P.",0
+ST CLAIR,President,,LIB,"Kubby, Steve",2
+ST CLAIR,President,,LIB,"Hollist, Dave",0
+ST CLAIR,President,,LIB,UNCOMMITTED,2
+ST FRANCOIS,President,,REP,"Paul, Ron",134
+ST FRANCOIS,President,,REP,"Thompson, Fred",38
+ST FRANCOIS,President,,REP,"Romney, Mitt",949
+ST FRANCOIS,President,,REP,"Giuliani, Rudy",39
+ST FRANCOIS,President,,REP,"McCain, John",1727
+ST FRANCOIS,President,,REP,"Huckabee, Mike",1631
+ST FRANCOIS,President,,REP,"Wiles, Virgil L.R.",0
+ST FRANCOIS,President,,REP,"Tancredo, Thomas",0
+ST FRANCOIS,President,,REP,"Hunter, Duncan",4
+ST FRANCOIS,President,,REP,"Cort, Hugh",0
+ST FRANCOIS,President,,REP,"Keyes, Alan",7
+ST FRANCOIS,President,,REP,"Gilbert, Daniel",0
+ST FRANCOIS,President,,REP,UNCOMMITTED,14
+ST FRANCOIS,President,,DEM,"Clinton, Hillary",5418
+ST FRANCOIS,President,,DEM,"Obama, Barack",1993
+ST FRANCOIS,President,,DEM,"Edwards, John",224
+ST FRANCOIS,President,,DEM,"Spelbring, Ralph",0
+ST FRANCOIS,President,,DEM,"Kucinich, Dennis J.",6
+ST FRANCOIS,President,,DEM,"Richardson, Bill",12
+ST FRANCOIS,President,,DEM,"Biden, Joe",12
+ST FRANCOIS,President,,DEM,"Dodd, Christopher J.",3
+ST FRANCOIS,President,,DEM,"Gravel, Mike",4
+ST FRANCOIS,President,,DEM,UNCOMMITTED,41
+ST FRANCOIS,President,,LIB,"Root, Wayne A.",2
+ST FRANCOIS,President,,LIB,"Imperato, Daniel",2
+ST FRANCOIS,President,,LIB,"Phillies, George",2
+ST FRANCOIS,President,,LIB,"Jingozian, Michael P.",1
+ST FRANCOIS,President,,LIB,"Kubby, Steve",2
+ST FRANCOIS,President,,LIB,"Hollist, Dave",0
+ST FRANCOIS,President,,LIB,UNCOMMITTED,4
+ST LOUIS,President,,REP,"Paul, Ron",684
+ST LOUIS,President,,REP,"Thompson, Fred",68
+ST LOUIS,President,,REP,"Romney, Mitt",2858
+ST LOUIS,President,,REP,"Giuliani, Rudy",95
+ST LOUIS,President,,REP,"McCain, John",4371
+ST LOUIS,President,,REP,"Huckabee, Mike",1613
+ST LOUIS,President,,REP,"Wiles, Virgil L.R.",6
+ST LOUIS,President,,REP,"Tancredo, Thomas",6
+ST LOUIS,President,,REP,"Hunter, Duncan",6
+ST LOUIS,President,,REP,"Cort, Hugh",6
+ST LOUIS,President,,REP,"Keyes, Alan",21
+ST LOUIS,President,,REP,"Gilbert, Daniel",2
+ST LOUIS,President,,REP,UNCOMMITTED,84
+ST LOUIS,President,,DEM,"Clinton, Hillary",18326
+ST LOUIS,President,,DEM,"Obama, Barack",47813
+ST LOUIS,President,,DEM,"Edwards, John",629
+ST LOUIS,President,,DEM,"Spelbring, Ralph",20
+ST LOUIS,President,,DEM,"Kucinich, Dennis J.",119
+ST LOUIS,President,,DEM,"Richardson, Bill",40
+ST LOUIS,President,,DEM,"Biden, Joe",44
+ST LOUIS,President,,DEM,"Dodd, Christopher J.",25
+ST LOUIS,President,,DEM,"Gravel, Mike",29
+ST LOUIS,President,,DEM,UNCOMMITTED,213
+ST LOUIS,President,,LIB,"Root, Wayne A.",10
+ST LOUIS,President,,LIB,"Imperato, Daniel",1
+ST LOUIS,President,,LIB,"Phillies, George",3
+ST LOUIS,President,,LIB,"Jingozian, Michael P.",0
+ST LOUIS,President,,LIB,"Kubby, Steve",5
+ST LOUIS,President,,LIB,"Hollist, Dave",2
+ST LOUIS,President,,LIB,UNCOMMITTED,27
+ST LOUIS,President,,REP,"Paul, Ron",3339
+ST LOUIS,President,,REP,"Thompson, Fred",570
+ST LOUIS,President,,REP,"Romney, Mitt",34668
+ST LOUIS,President,,REP,"Giuliani, Rudy",720
+ST LOUIS,President,,REP,"McCain, John",39011
+ST LOUIS,President,,REP,"Huckabee, Mike",16131
+ST LOUIS,President,,REP,"Wiles, Virgil L.R.",14
+ST LOUIS,President,,REP,"Tancredo, Thomas",20
+ST LOUIS,President,,REP,"Hunter, Duncan",46
+ST LOUIS,President,,REP,"Cort, Hugh",4
+ST LOUIS,President,,REP,"Keyes, Alan",175
+ST LOUIS,President,,REP,"Gilbert, Daniel",15
+ST LOUIS,President,,REP,UNCOMMITTED,302
+ST LOUIS,President,,DEM,"Clinton, Hillary",66803
+ST LOUIS,President,,DEM,"Obama, Barack",118143
+ST LOUIS,President,,DEM,"Edwards, John",2368
+ST LOUIS,President,,DEM,"Spelbring, Ralph",27
+ST LOUIS,President,,DEM,"Kucinich, Dennis J.",189
+ST LOUIS,President,,DEM,"Richardson, Bill",98
+ST LOUIS,President,,DEM,"Biden, Joe",123
+ST LOUIS,President,,DEM,"Dodd, Christopher J.",41
+ST LOUIS,President,,DEM,"Gravel, Mike",84
+ST LOUIS,President,,DEM,UNCOMMITTED,312
+ST LOUIS,President,,LIB,"Root, Wayne A.",88
+ST LOUIS,President,,LIB,"Imperato, Daniel",39
+ST LOUIS,President,,LIB,"Phillies, George",30
+ST LOUIS,President,,LIB,"Jingozian, Michael P.",16
+ST LOUIS,President,,LIB,"Kubby, Steve",54
+ST LOUIS,President,,LIB,"Hollist, Dave",30
+ST LOUIS,President,,LIB,UNCOMMITTED,216
+STE GENEVIEVE,President,,REP,"Paul, Ron",47
+STE GENEVIEVE,President,,REP,"Thompson, Fred",4
+STE GENEVIEVE,President,,REP,"Romney, Mitt",270
+STE GENEVIEVE,President,,REP,"Giuliani, Rudy",9
+STE GENEVIEVE,President,,REP,"McCain, John",518
+STE GENEVIEVE,President,,REP,"Huckabee, Mike",419
+STE GENEVIEVE,President,,REP,"Wiles, Virgil L.R.",0
+STE GENEVIEVE,President,,REP,"Tancredo, Thomas",0
+STE GENEVIEVE,President,,REP,"Hunter, Duncan",0
+STE GENEVIEVE,President,,REP,"Cort, Hugh",0
+STE GENEVIEVE,President,,REP,"Keyes, Alan",3
+STE GENEVIEVE,President,,REP,"Gilbert, Daniel",0
+STE GENEVIEVE,President,,REP,UNCOMMITTED,1
+STE GENEVIEVE,President,,DEM,"Clinton, Hillary",1922
+STE GENEVIEVE,President,,DEM,"Obama, Barack",1050
+STE GENEVIEVE,President,,DEM,"Edwards, John",85
+STE GENEVIEVE,President,,DEM,"Spelbring, Ralph",2
+STE GENEVIEVE,President,,DEM,"Kucinich, Dennis J.",4
+STE GENEVIEVE,President,,DEM,"Richardson, Bill",1
+STE GENEVIEVE,President,,DEM,"Biden, Joe",5
+STE GENEVIEVE,President,,DEM,"Dodd, Christopher J.",1
+STE GENEVIEVE,President,,DEM,"Gravel, Mike",1
+STE GENEVIEVE,President,,DEM,UNCOMMITTED,11
+STE GENEVIEVE,President,,LIB,"Root, Wayne A.",2
+STE GENEVIEVE,President,,LIB,"Imperato, Daniel",0
+STE GENEVIEVE,President,,LIB,"Phillies, George",1
+STE GENEVIEVE,President,,LIB,"Jingozian, Michael P.",0
+STE GENEVIEVE,President,,LIB,"Kubby, Steve",0
+STE GENEVIEVE,President,,LIB,"Hollist, Dave",0
+STE GENEVIEVE,President,,LIB,UNCOMMITTED,0
+STODDARD,President,,REP,"Paul, Ron",91
+STODDARD,President,,REP,"Thompson, Fred",9
+STODDARD,President,,REP,"Romney, Mitt",643
+STODDARD,President,,REP,"Giuliani, Rudy",8
+STODDARD,President,,REP,"McCain, John",772
+STODDARD,President,,REP,"Huckabee, Mike",1571
+STODDARD,President,,REP,"Wiles, Virgil L.R.",0
+STODDARD,President,,REP,"Tancredo, Thomas",0
+STODDARD,President,,REP,"Hunter, Duncan",1
+STODDARD,President,,REP,"Cort, Hugh",0
+STODDARD,President,,REP,"Keyes, Alan",2
+STODDARD,President,,REP,"Gilbert, Daniel",1
+STODDARD,President,,REP,UNCOMMITTED,9
+STODDARD,President,,DEM,"Clinton, Hillary",2225
+STODDARD,President,,DEM,"Obama, Barack",684
+STODDARD,President,,DEM,"Edwards, John",112
+STODDARD,President,,DEM,"Spelbring, Ralph",0
+STODDARD,President,,DEM,"Kucinich, Dennis J.",1
+STODDARD,President,,DEM,"Richardson, Bill",2
+STODDARD,President,,DEM,"Biden, Joe",1
+STODDARD,President,,DEM,"Dodd, Christopher J.",0
+STODDARD,President,,DEM,"Gravel, Mike",0
+STODDARD,President,,DEM,UNCOMMITTED,25
+STODDARD,President,,LIB,"Root, Wayne A.",0
+STODDARD,President,,LIB,"Imperato, Daniel",0
+STODDARD,President,,LIB,"Phillies, George",0
+STODDARD,President,,LIB,"Jingozian, Michael P.",0
+STODDARD,President,,LIB,"Kubby, Steve",0
+STODDARD,President,,LIB,"Hollist, Dave",0
+STODDARD,President,,LIB,UNCOMMITTED,4
+STONE,President,,REP,"Paul, Ron",154
+STONE,President,,REP,"Thompson, Fred",26
+STONE,President,,REP,"Romney, Mitt",1056
+STONE,President,,REP,"Giuliani, Rudy",28
+STONE,President,,REP,"McCain, John",1787
+STONE,President,,REP,"Huckabee, Mike",2528
+STONE,President,,REP,"Wiles, Virgil L.R.",1
+STONE,President,,REP,"Tancredo, Thomas",0
+STONE,President,,REP,"Hunter, Duncan",4
+STONE,President,,REP,"Cort, Hugh",0
+STONE,President,,REP,"Keyes, Alan",1
+STONE,President,,REP,"Gilbert, Daniel",2
+STONE,President,,REP,UNCOMMITTED,29
+STONE,President,,DEM,"Clinton, Hillary",2114
+STONE,President,,DEM,"Obama, Barack",1204
+STONE,President,,DEM,"Edwards, John",74
+STONE,President,,DEM,"Spelbring, Ralph",0
+STONE,President,,DEM,"Kucinich, Dennis J.",1
+STONE,President,,DEM,"Richardson, Bill",4
+STONE,President,,DEM,"Biden, Joe",4
+STONE,President,,DEM,"Dodd, Christopher J.",1
+STONE,President,,DEM,"Gravel, Mike",2
+STONE,President,,DEM,UNCOMMITTED,19
+STONE,President,,LIB,"Root, Wayne A.",0
+STONE,President,,LIB,"Imperato, Daniel",1
+STONE,President,,LIB,"Phillies, George",0
+STONE,President,,LIB,"Jingozian, Michael P.",0
+STONE,President,,LIB,"Kubby, Steve",0
+STONE,President,,LIB,"Hollist, Dave",1
+STONE,President,,LIB,UNCOMMITTED,5
+SULLIVAN,President,,REP,"Paul, Ron",60
+SULLIVAN,President,,REP,"Thompson, Fred",5
+SULLIVAN,President,,REP,"Romney, Mitt",130
+SULLIVAN,President,,REP,"Giuliani, Rudy",4
+SULLIVAN,President,,REP,"McCain, John",197
+SULLIVAN,President,,REP,"Huckabee, Mike",209
+SULLIVAN,President,,REP,"Wiles, Virgil L.R.",0
+SULLIVAN,President,,REP,"Tancredo, Thomas",0
+SULLIVAN,President,,REP,"Hunter, Duncan",1
+SULLIVAN,President,,REP,"Cort, Hugh",0
+SULLIVAN,President,,REP,"Keyes, Alan",1
+SULLIVAN,President,,REP,"Gilbert, Daniel",0
+SULLIVAN,President,,REP,UNCOMMITTED,0
+SULLIVAN,President,,DEM,"Clinton, Hillary",506
+SULLIVAN,President,,DEM,"Obama, Barack",172
+SULLIVAN,President,,DEM,"Edwards, John",26
+SULLIVAN,President,,DEM,"Spelbring, Ralph",0
+SULLIVAN,President,,DEM,"Kucinich, Dennis J.",0
+SULLIVAN,President,,DEM,"Richardson, Bill",1
+SULLIVAN,President,,DEM,"Biden, Joe",1
+SULLIVAN,President,,DEM,"Dodd, Christopher J.",0
+SULLIVAN,President,,DEM,"Gravel, Mike",0
+SULLIVAN,President,,DEM,UNCOMMITTED,3
+SULLIVAN,President,,LIB,"Root, Wayne A.",0
+SULLIVAN,President,,LIB,"Imperato, Daniel",0
+SULLIVAN,President,,LIB,"Phillies, George",0
+SULLIVAN,President,,LIB,"Jingozian, Michael P.",0
+SULLIVAN,President,,LIB,"Kubby, Steve",0
+SULLIVAN,President,,LIB,"Hollist, Dave",0
+SULLIVAN,President,,LIB,UNCOMMITTED,1
+TANEY,President,,REP,"Paul, Ron",195
+TANEY,President,,REP,"Thompson, Fred",28
+TANEY,President,,REP,"Romney, Mitt",976
+TANEY,President,,REP,"Giuliani, Rudy",29
+TANEY,President,,REP,"McCain, John",1784
+TANEY,President,,REP,"Huckabee, Mike",3850
+TANEY,President,,REP,"Wiles, Virgil L.R.",1
+TANEY,President,,REP,"Tancredo, Thomas",0
+TANEY,President,,REP,"Hunter, Duncan",2
+TANEY,President,,REP,"Cort, Hugh",0
+TANEY,President,,REP,"Keyes, Alan",5
+TANEY,President,,REP,"Gilbert, Daniel",0
+TANEY,President,,REP,UNCOMMITTED,19
+TANEY,President,,DEM,"Clinton, Hillary",2626
+TANEY,President,,DEM,"Obama, Barack",1391
+TANEY,President,,DEM,"Edwards, John",78
+TANEY,President,,DEM,"Spelbring, Ralph",2
+TANEY,President,,DEM,"Kucinich, Dennis J.",1
+TANEY,President,,DEM,"Richardson, Bill",2
+TANEY,President,,DEM,"Biden, Joe",2
+TANEY,President,,DEM,"Dodd, Christopher J.",2
+TANEY,President,,DEM,"Gravel, Mike",2
+TANEY,President,,DEM,UNCOMMITTED,17
+TANEY,President,,LIB,"Root, Wayne A.",0
+TANEY,President,,LIB,"Imperato, Daniel",2
+TANEY,President,,LIB,"Phillies, George",0
+TANEY,President,,LIB,"Jingozian, Michael P.",0
+TANEY,President,,LIB,"Kubby, Steve",2
+TANEY,President,,LIB,"Hollist, Dave",0
+TANEY,President,,LIB,UNCOMMITTED,6
+TEXAS,President,,REP,"Paul, Ron",234
+TEXAS,President,,REP,"Thompson, Fred",16
+TEXAS,President,,REP,"Romney, Mitt",480
+TEXAS,President,,REP,"Giuliani, Rudy",13
+TEXAS,President,,REP,"McCain, John",954
+TEXAS,President,,REP,"Huckabee, Mike",1727
+TEXAS,President,,REP,"Wiles, Virgil L.R.",4
+TEXAS,President,,REP,"Tancredo, Thomas",0
+TEXAS,President,,REP,"Hunter, Duncan",3
+TEXAS,President,,REP,"Cort, Hugh",0
+TEXAS,President,,REP,"Keyes, Alan",3
+TEXAS,President,,REP,"Gilbert, Daniel",0
+TEXAS,President,,REP,UNCOMMITTED,11
+TEXAS,President,,DEM,"Clinton, Hillary",1858
+TEXAS,President,,DEM,"Obama, Barack",743
+TEXAS,President,,DEM,"Edwards, John",101
+TEXAS,President,,DEM,"Spelbring, Ralph",1
+TEXAS,President,,DEM,"Kucinich, Dennis J.",2
+TEXAS,President,,DEM,"Richardson, Bill",3
+TEXAS,President,,DEM,"Biden, Joe",4
+TEXAS,President,,DEM,"Dodd, Christopher J.",1
+TEXAS,President,,DEM,"Gravel, Mike",4
+TEXAS,President,,DEM,UNCOMMITTED,14
+TEXAS,President,,LIB,"Root, Wayne A.",3
+TEXAS,President,,LIB,"Imperato, Daniel",0
+TEXAS,President,,LIB,"Phillies, George",1
+TEXAS,President,,LIB,"Jingozian, Michael P.",0
+TEXAS,President,,LIB,"Kubby, Steve",2
+TEXAS,President,,LIB,"Hollist, Dave",0
+TEXAS,President,,LIB,UNCOMMITTED,7
+VERNON,President,,REP,"Paul, Ron",74
+VERNON,President,,REP,"Thompson, Fred",13
+VERNON,President,,REP,"Romney, Mitt",408
+VERNON,President,,REP,"Giuliani, Rudy",20
+VERNON,President,,REP,"McCain, John",705
+VERNON,President,,REP,"Huckabee, Mike",920
+VERNON,President,,REP,"Wiles, Virgil L.R.",2
+VERNON,President,,REP,"Tancredo, Thomas",1
+VERNON,President,,REP,"Hunter, Duncan",3
+VERNON,President,,REP,"Cort, Hugh",0
+VERNON,President,,REP,"Keyes, Alan",1
+VERNON,President,,REP,"Gilbert, Daniel",1
+VERNON,President,,REP,UNCOMMITTED,12
+VERNON,President,,DEM,"Clinton, Hillary",1434
+VERNON,President,,DEM,"Obama, Barack",732
+VERNON,President,,DEM,"Edwards, John",124
+VERNON,President,,DEM,"Spelbring, Ralph",0
+VERNON,President,,DEM,"Kucinich, Dennis J.",2
+VERNON,President,,DEM,"Richardson, Bill",7
+VERNON,President,,DEM,"Biden, Joe",6
+VERNON,President,,DEM,"Dodd, Christopher J.",0
+VERNON,President,,DEM,"Gravel, Mike",2
+VERNON,President,,DEM,UNCOMMITTED,23
+VERNON,President,,LIB,"Root, Wayne A.",1
+VERNON,President,,LIB,"Imperato, Daniel",0
+VERNON,President,,LIB,"Phillies, George",2
+VERNON,President,,LIB,"Jingozian, Michael P.",0
+VERNON,President,,LIB,"Kubby, Steve",0
+VERNON,President,,LIB,"Hollist, Dave",0
+VERNON,President,,LIB,UNCOMMITTED,3
+WARREN,President,,REP,"Paul, Ron",130
+WARREN,President,,REP,"Thompson, Fred",31
+WARREN,President,,REP,"Romney, Mitt",1139
+WARREN,President,,REP,"Giuliani, Rudy",22
+WARREN,President,,REP,"McCain, John",1192
+WARREN,President,,REP,"Huckabee, Mike",988
+WARREN,President,,REP,"Wiles, Virgil L.R.",0
+WARREN,President,,REP,"Tancredo, Thomas",0
+WARREN,President,,REP,"Hunter, Duncan",1
+WARREN,President,,REP,"Cort, Hugh",0
+WARREN,President,,REP,"Keyes, Alan",3
+WARREN,President,,REP,"Gilbert, Daniel",1
+WARREN,President,,REP,UNCOMMITTED,12
+WARREN,President,,DEM,"Clinton, Hillary",1971
+WARREN,President,,DEM,"Obama, Barack",1399
+WARREN,President,,DEM,"Edwards, John",92
+WARREN,President,,DEM,"Spelbring, Ralph",0
+WARREN,President,,DEM,"Kucinich, Dennis J.",1
+WARREN,President,,DEM,"Richardson, Bill",3
+WARREN,President,,DEM,"Biden, Joe",0
+WARREN,President,,DEM,"Dodd, Christopher J.",2
+WARREN,President,,DEM,"Gravel, Mike",2
+WARREN,President,,DEM,UNCOMMITTED,21
+WARREN,President,,LIB,"Root, Wayne A.",0
+WARREN,President,,LIB,"Imperato, Daniel",0
+WARREN,President,,LIB,"Phillies, George",1
+WARREN,President,,LIB,"Jingozian, Michael P.",0
+WARREN,President,,LIB,"Kubby, Steve",1
+WARREN,President,,LIB,"Hollist, Dave",1
+WARREN,President,,LIB,UNCOMMITTED,3
+WASHINGTON,President,,REP,"Paul, Ron",50
+WASHINGTON,President,,REP,"Thompson, Fred",8
+WASHINGTON,President,,REP,"Romney, Mitt",297
+WASHINGTON,President,,REP,"Giuliani, Rudy",7
+WASHINGTON,President,,REP,"McCain, John",616
+WASHINGTON,President,,REP,"Huckabee, Mike",622
+WASHINGTON,President,,REP,"Wiles, Virgil L.R.",0
+WASHINGTON,President,,REP,"Tancredo, Thomas",0
+WASHINGTON,President,,REP,"Hunter, Duncan",0
+WASHINGTON,President,,REP,"Cort, Hugh",1
+WASHINGTON,President,,REP,"Keyes, Alan",1
+WASHINGTON,President,,REP,"Gilbert, Daniel",1
+WASHINGTON,President,,REP,UNCOMMITTED,3
+WASHINGTON,President,,DEM,"Clinton, Hillary",2345
+WASHINGTON,President,,DEM,"Obama, Barack",670
+WASHINGTON,President,,DEM,"Edwards, John",100
+WASHINGTON,President,,DEM,"Spelbring, Ralph",2
+WASHINGTON,President,,DEM,"Kucinich, Dennis J.",5
+WASHINGTON,President,,DEM,"Richardson, Bill",3
+WASHINGTON,President,,DEM,"Biden, Joe",0
+WASHINGTON,President,,DEM,"Dodd, Christopher J.",1
+WASHINGTON,President,,DEM,"Gravel, Mike",5
+WASHINGTON,President,,DEM,UNCOMMITTED,11
+WASHINGTON,President,,LIB,"Root, Wayne A.",3
+WASHINGTON,President,,LIB,"Imperato, Daniel",1
+WASHINGTON,President,,LIB,"Phillies, George",1
+WASHINGTON,President,,LIB,"Jingozian, Michael P.",1
+WASHINGTON,President,,LIB,"Kubby, Steve",0
+WASHINGTON,President,,LIB,"Hollist, Dave",0
+WASHINGTON,President,,LIB,UNCOMMITTED,0
+WAYNE,President,,REP,"Paul, Ron",46
+WAYNE,President,,REP,"Thompson, Fred",8
+WAYNE,President,,REP,"Romney, Mitt",323
+WAYNE,President,,REP,"Giuliani, Rudy",8
+WAYNE,President,,REP,"McCain, John",499
+WAYNE,President,,REP,"Huckabee, Mike",740
+WAYNE,President,,REP,"Wiles, Virgil L.R.",2
+WAYNE,President,,REP,"Tancredo, Thomas",1
+WAYNE,President,,REP,"Hunter, Duncan",2
+WAYNE,President,,REP,"Cort, Hugh",0
+WAYNE,President,,REP,"Keyes, Alan",2
+WAYNE,President,,REP,"Gilbert, Daniel",0
+WAYNE,President,,REP,UNCOMMITTED,6
+WAYNE,President,,DEM,"Clinton, Hillary",1458
+WAYNE,President,,DEM,"Obama, Barack",359
+WAYNE,President,,DEM,"Edwards, John",71
+WAYNE,President,,DEM,"Spelbring, Ralph",2
+WAYNE,President,,DEM,"Kucinich, Dennis J.",2
+WAYNE,President,,DEM,"Richardson, Bill",7
+WAYNE,President,,DEM,"Biden, Joe",3
+WAYNE,President,,DEM,"Dodd, Christopher J.",1
+WAYNE,President,,DEM,"Gravel, Mike",1
+WAYNE,President,,DEM,UNCOMMITTED,16
+WAYNE,President,,LIB,"Root, Wayne A.",0
+WAYNE,President,,LIB,"Imperato, Daniel",1
+WAYNE,President,,LIB,"Phillies, George",0
+WAYNE,President,,LIB,"Jingozian, Michael P.",1
+WAYNE,President,,LIB,"Kubby, Steve",1
+WAYNE,President,,LIB,"Hollist, Dave",0
+WAYNE,President,,LIB,UNCOMMITTED,5
+WEBSTER,President,,REP,"Paul, Ron",168
+WEBSTER,President,,REP,"Thompson, Fred",24
+WEBSTER,President,,REP,"Romney, Mitt",897
+WEBSTER,President,,REP,"Giuliani, Rudy",18
+WEBSTER,President,,REP,"McCain, John",1343
+WEBSTER,President,,REP,"Huckabee, Mike",2576
+WEBSTER,President,,REP,"Wiles, Virgil L.R.",1
+WEBSTER,President,,REP,"Tancredo, Thomas",1
+WEBSTER,President,,REP,"Hunter, Duncan",3
+WEBSTER,President,,REP,"Cort, Hugh",1
+WEBSTER,President,,REP,"Keyes, Alan",4
+WEBSTER,President,,REP,"Gilbert, Daniel",2
+WEBSTER,President,,REP,UNCOMMITTED,13
+WEBSTER,President,,DEM,"Clinton, Hillary",2218
+WEBSTER,President,,DEM,"Obama, Barack",1249
+WEBSTER,President,,DEM,"Edwards, John",119
+WEBSTER,President,,DEM,"Spelbring, Ralph",0
+WEBSTER,President,,DEM,"Kucinich, Dennis J.",1
+WEBSTER,President,,DEM,"Richardson, Bill",5
+WEBSTER,President,,DEM,"Biden, Joe",2
+WEBSTER,President,,DEM,"Dodd, Christopher J.",1
+WEBSTER,President,,DEM,"Gravel, Mike",1
+WEBSTER,President,,DEM,UNCOMMITTED,28
+WEBSTER,President,,LIB,"Root, Wayne A.",0
+WEBSTER,President,,LIB,"Imperato, Daniel",0
+WEBSTER,President,,LIB,"Phillies, George",0
+WEBSTER,President,,LIB,"Jingozian, Michael P.",0
+WEBSTER,President,,LIB,"Kubby, Steve",0
+WEBSTER,President,,LIB,"Hollist, Dave",0
+WEBSTER,President,,LIB,UNCOMMITTED,5
+WORTH,President,,REP,"Paul, Ron",10
+WORTH,President,,REP,"Thompson, Fred",6
+WORTH,President,,REP,"Romney, Mitt",77
+WORTH,President,,REP,"Giuliani, Rudy",2
+WORTH,President,,REP,"McCain, John",73
+WORTH,President,,REP,"Huckabee, Mike",84
+WORTH,President,,REP,"Wiles, Virgil L.R.",0
+WORTH,President,,REP,"Tancredo, Thomas",0
+WORTH,President,,REP,"Hunter, Duncan",0
+WORTH,President,,REP,"Cort, Hugh",0
+WORTH,President,,REP,"Keyes, Alan",1
+WORTH,President,,REP,"Gilbert, Daniel",1
+WORTH,President,,REP,UNCOMMITTED,1
+WORTH,President,,DEM,"Clinton, Hillary",171
+WORTH,President,,DEM,"Obama, Barack",105
+WORTH,President,,DEM,"Edwards, John",17
+WORTH,President,,DEM,"Spelbring, Ralph",0
+WORTH,President,,DEM,"Kucinich, Dennis J.",0
+WORTH,President,,DEM,"Richardson, Bill",0
+WORTH,President,,DEM,"Biden, Joe",1
+WORTH,President,,DEM,"Dodd, Christopher J.",0
+WORTH,President,,DEM,"Gravel, Mike",0
+WORTH,President,,DEM,UNCOMMITTED,1
+WORTH,President,,LIB,"Root, Wayne A.",0
+WORTH,President,,LIB,"Imperato, Daniel",1
+WORTH,President,,LIB,"Phillies, George",0
+WORTH,President,,LIB,"Jingozian, Michael P.",0
+WORTH,President,,LIB,"Kubby, Steve",1
+WORTH,President,,LIB,"Hollist, Dave",0
+WORTH,President,,LIB,UNCOMMITTED,0
+WRIGHT,President,,REP,"Paul, Ron",178
+WRIGHT,President,,REP,"Thompson, Fred",10
+WRIGHT,President,,REP,"Romney, Mitt",298
+WRIGHT,President,,REP,"Giuliani, Rudy",15
+WRIGHT,President,,REP,"McCain, John",746
+WRIGHT,President,,REP,"Huckabee, Mike",1878
+WRIGHT,President,,REP,"Wiles, Virgil L.R.",3
+WRIGHT,President,,REP,"Tancredo, Thomas",0
+WRIGHT,President,,REP,"Hunter, Duncan",2
+WRIGHT,President,,REP,"Cort, Hugh",1
+WRIGHT,President,,REP,"Keyes, Alan",10
+WRIGHT,President,,REP,"Gilbert, Daniel",2
+WRIGHT,President,,REP,UNCOMMITTED,6
+WRIGHT,President,,DEM,"Clinton, Hillary",1143
+WRIGHT,President,,DEM,"Obama, Barack",452
+WRIGHT,President,,DEM,"Edwards, John",36
+WRIGHT,President,,DEM,"Spelbring, Ralph",0
+WRIGHT,President,,DEM,"Kucinich, Dennis J.",0
+WRIGHT,President,,DEM,"Richardson, Bill",2
+WRIGHT,President,,DEM,"Biden, Joe",1
+WRIGHT,President,,DEM,"Dodd, Christopher J.",1
+WRIGHT,President,,DEM,"Gravel, Mike",1
+WRIGHT,President,,DEM,UNCOMMITTED,9
+WRIGHT,President,,LIB,"Root, Wayne A.",1
+WRIGHT,President,,LIB,"Imperato, Daniel",0
+WRIGHT,President,,LIB,"Phillies, George",0
+WRIGHT,President,,LIB,"Jingozian, Michael P.",0
+WRIGHT,President,,LIB,"Kubby, Steve",2
+WRIGHT,President,,LIB,"Hollist, Dave",0
+WRIGHT,President,,LIB,UNCOMMITTED,4
