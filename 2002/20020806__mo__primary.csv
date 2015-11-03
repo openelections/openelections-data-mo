@@ -1,0 +1,3143 @@
+county,precinct,office,district,party,candidate,votes
+ADAIR,U.S. Senate,,DEM,"Carnahan, Jean",1973
+ADAIR,U.S. Senate,,DEM,"Day, Darrel D.",710
+ADAIR,U.S. Senate,,REP,"May, Joseph A.",38
+ADAIR,U.S. Senate,,REP,"Talent, Jim",995
+ADAIR,U.S. Senate,,REP,"Lindstedt, Martin",10
+ADAIR,U.S. Senate,,REP,"Babbitt, Scott Craig",10
+ADAIR,U.S. Senate,,REP,"Landfather, Doris Bass",27
+ADAIR,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+ADAIR,U.S. Senate,,LIB,"Millay, Tamara A.",4
+ADAIR,State Auditor,,DEM,"McCaskill, Claire",2038
+ADAIR,State Auditor,,REP,"Hanson, Al",662
+ADAIR,State Auditor,,REP,"Kanzler, Jay L. Jr.",179
+ADAIR,State Auditor,,LIB,"Trembley, Arnold J.",7
+ADAIR,U.S. House,9,DEM,"Deichman, Donald M. (Don)",1897
+ADAIR,U.S. House,9,REP,"Hulshof, Kenny C.",1064
+ADAIR,U.S. House,9,LIB,"Mruzik, John",7
+ADAIR,State Senate,18,DEM,"Berkowitz, Sam",2113
+ADAIR,State Senate,18,REP,"Cauthorn, John W.",1017
+ADAIR,State House,1,DEM,"Campbell, Paul",7
+ADAIR,State House,1,REP,"Munzlinger, Brian",1
+ADAIR,State House,2,DEM,"Cooper, Charles E.",1919
+ADAIR,State House,2,REP,"Behnen, Robert J. (Bob)",1028
+ANDREW,U.S. Senate,,DEM,"Carnahan, Jean",622
+ANDREW,U.S. Senate,,DEM,"Day, Darrel D.",93
+ANDREW,U.S. Senate,,REP,"May, Joseph A.",189
+ANDREW,U.S. Senate,,REP,"Talent, Jim",2928
+ANDREW,U.S. Senate,,REP,"Lindstedt, Martin",62
+ANDREW,U.S. Senate,,REP,"Babbitt, Scott Craig",103
+ANDREW,U.S. Senate,,REP,"Landfather, Doris Bass",189
+ANDREW,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+ANDREW,U.S. Senate,,LIB,"Millay, Tamara A.",11
+ANDREW,State Auditor,,DEM,"McCaskill, Claire",601
+ANDREW,State Auditor,,REP,"Hanson, Al",1819
+ANDREW,State Auditor,,REP,"Kanzler, Jay L. Jr.",940
+ANDREW,State Auditor,,LIB,"Trembley, Arnold J.",13
+ANDREW,U.S. House,6,DEM,"Rinehart, Cathy",405
+ANDREW,U.S. House,6,DEM,"Mitchell, Ed",137
+ANDREW,U.S. House,6,DEM,"Gilstrap, David P.",87
+ANDREW,U.S. House,6,REP,"Graves, Sam",3299
+ANDREW,U.S. House,6,LIB,"Buck, Erik",15
+ANDREW,State Senate,12,REP,"Klindt, David G.",2892
+ANDREW,State House,28,DEM,"Davis, Lance",587
+ANDREW,State House,28,REP,"Evans, Chris",704
+ANDREW,State House,28,REP,"Ramsey, (Friday) Christin",1159
+ANDREW,State House,28,REP,"Schaaf, Rob",1691
+ANDREW,State House,28,REP,"Smith, Vincent F.",172
+ATCHISON,U.S. Senate,,DEM,"Carnahan, Jean",561
+ATCHISON,U.S. Senate,,DEM,"Day, Darrel D.",158
+ATCHISON,U.S. Senate,,REP,"May, Joseph A.",118
+ATCHISON,U.S. Senate,,REP,"Talent, Jim",589
+ATCHISON,U.S. Senate,,REP,"Lindstedt, Martin",11
+ATCHISON,U.S. Senate,,REP,"Babbitt, Scott Craig",15
+ATCHISON,U.S. Senate,,REP,"Landfather, Doris Bass",24
+ATCHISON,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+ATCHISON,U.S. Senate,,LIB,"Millay, Tamara A.",1
+ATCHISON,State Auditor,,DEM,"McCaskill, Claire",554
+ATCHISON,State Auditor,,REP,"Hanson, Al",460
+ATCHISON,State Auditor,,REP,"Kanzler, Jay L. Jr.",161
+ATCHISON,State Auditor,,LIB,"Trembley, Arnold J.",2
+ATCHISON,U.S. House,6,DEM,"Rinehart, Cathy",306
+ATCHISON,U.S. House,6,DEM,"Mitchell, Ed",161
+ATCHISON,U.S. House,6,DEM,"Gilstrap, David P.",87
+ATCHISON,U.S. House,6,REP,"Graves, Sam",795
+ATCHISON,U.S. House,6,LIB,"Buck, Erik",2
+ATCHISON,State Senate,12,REP,"Klindt, David G.",690
+ATCHISON,State House,4,DEM,"Dougan, Larry",398
+ATCHISON,State House,4,DEM,"Ritterbusch, Robert L.",246
+ATCHISON,State House,4,REP,"Lager, Brad",523
+ATCHISON,State House,4,REP,"Dunn, Christopher",44
+ATCHISON,State House,4,REP,"May, Leland",224
+AUDRAIN,U.S. Senate,,DEM,"Carnahan, Jean",2461
+AUDRAIN,U.S. Senate,,DEM,"Day, Darrel D.",792
+AUDRAIN,U.S. Senate,,REP,"May, Joseph A.",41
+AUDRAIN,U.S. Senate,,REP,"Talent, Jim",1419
+AUDRAIN,U.S. Senate,,REP,"Lindstedt, Martin",14
+AUDRAIN,U.S. Senate,,REP,"Babbitt, Scott Craig",13
+AUDRAIN,U.S. Senate,,REP,"Landfather, Doris Bass",24
+AUDRAIN,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+AUDRAIN,U.S. Senate,,LIB,"Millay, Tamara A.",9
+AUDRAIN,State Auditor,,DEM,"McCaskill, Claire",2798
+AUDRAIN,State Auditor,,REP,"Hanson, Al",831
+AUDRAIN,State Auditor,,REP,"Kanzler, Jay L. Jr.",402
+AUDRAIN,State Auditor,,LIB,"Trembley, Arnold J.",15
+AUDRAIN,U.S. House,9,DEM,"Deichman, Donald M. (Don)",2530
+AUDRAIN,U.S. House,9,REP,"Hulshof, Kenny C.",1486
+AUDRAIN,U.S. House,9,LIB,"Mruzik, John",15
+AUDRAIN,State Senate,18,DEM,"Berkowitz, Sam",2525
+AUDRAIN,State Senate,18,REP,"Cauthorn, John W.",1434
+AUDRAIN,State House,9,DEM,"Shoemyer, Wes",59
+AUDRAIN,State House,9,REP,"Hedberg, Jeff",59
+AUDRAIN,State House,9,LIB,"Schultz, John",0
+AUDRAIN,State House,10,DEM,"Witte, Terry L",713
+AUDRAIN,State House,10,REP,"Graver, George",93
+AUDRAIN,State House,10,REP,"Linnenbringer, Gary W.",258
+AUDRAIN,State House,21,DEM,"Becker, Ann",755
+AUDRAIN,State House,21,DEM,"Groves, Mike",1539
+AUDRAIN,State House,21,REP,"Hobbs, Steve",896
+BARRY,U.S. Senate,,DEM,"Carnahan, Jean",947
+BARRY,U.S. Senate,,DEM,"Day, Darrel D.",177
+BARRY,U.S. Senate,,REP,"May, Joseph A.",249
+BARRY,U.S. Senate,,REP,"Talent, Jim",4643
+BARRY,U.S. Senate,,REP,"Lindstedt, Martin",83
+BARRY,U.S. Senate,,REP,"Babbitt, Scott Craig",132
+BARRY,U.S. Senate,,REP,"Landfather, Doris Bass",233
+BARRY,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+BARRY,U.S. Senate,,LIB,"Millay, Tamara A.",7
+BARRY,State Auditor,,DEM,"McCaskill, Claire",1001
+BARRY,State Auditor,,REP,"Hanson, Al",3004
+BARRY,State Auditor,,REP,"Kanzler, Jay L. Jr.",1396
+BARRY,State Auditor,,LIB,"Trembley, Arnold J.",9
+BARRY,U.S. House,7,DEM,"Lapham, Ron",955
+BARRY,U.S. House,7,REP,"Blunt, Roy",5118
+BARRY,U.S. House,7,LIB,"Burlison, Doug",9
+BARRY,State House,68,DEM,"Vincent, Ruby",973
+BARRY,State House,68,REP,"Bradley, Edward G.",758
+BARRY,State House,68,REP,"Taylor, Larry Gene",3324
+BARRY,State House,68,REP,"Sitton, Jerry",1396
+BARTON,U.S. Senate,,DEM,"Carnahan, Jean",373
+BARTON,U.S. Senate,,DEM,"Day, Darrel D.",69
+BARTON,U.S. Senate,,REP,"May, Joseph A.",76
+BARTON,U.S. Senate,,REP,"Talent, Jim",2293
+BARTON,U.S. Senate,,REP,"Lindstedt, Martin",48
+BARTON,U.S. Senate,,REP,"Babbitt, Scott Craig",74
+BARTON,U.S. Senate,,REP,"Landfather, Doris Bass",90
+BARTON,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+BARTON,U.S. Senate,,LIB,"Millay, Tamara A.",0
+BARTON,State Auditor,,DEM,"McCaskill, Claire",395
+BARTON,State Auditor,,REP,"Hanson, Al",1338
+BARTON,State Auditor,,REP,"Kanzler, Jay L. Jr.",688
+BARTON,State Auditor,,LIB,"Trembley, Arnold J.",3
+BARTON,U.S. House,4,DEM,"Skelton, Ike",404
+BARTON,U.S. House,4,REP,"Noland, James A. (Jim)",1381
+BARTON,U.S. House,4,REP,"Liffick, Chuck",140
+BARTON,U.S. House,4,REP,"Brown, Bob",637
+BARTON,U.S. House,4,LIB,"Nelson, Daniel Roy",3
+BARTON,State Senate,28,DEM,"Meyer, Richard",133
+BARTON,State Senate,28,DEM,"Johnson, Catherine D.",271
+BARTON,State Senate,28,REP,"Scott, Delbert L.",1076
+BARTON,State Senate,28,REP,"Boatright, Matt",1350
+BARTON,State Senate,28,LIB,"Watson, Jesse O.",3
+BARTON,State House,126,DEM,"Sprouls, Douglas J.",406
+BARTON,State House,126,REP,"Bartosh, Joe",375
+BARTON,State House,126,REP,"Emery, Ed",1276
+BARTON,State House,126,REP,"Gardner, Scott",722
+BARTON,State House,126,REP,"O'Connor, Bob",271
+BATES,U.S. Senate,,DEM,"Carnahan, Jean",2484
+BATES,U.S. Senate,,DEM,"Day, Darrel D.",856
+BATES,U.S. Senate,,REP,"May, Joseph A.",27
+BATES,U.S. Senate,,REP,"Talent, Jim",758
+BATES,U.S. Senate,,REP,"Lindstedt, Martin",12
+BATES,U.S. Senate,,REP,"Babbitt, Scott Craig",17
+BATES,U.S. Senate,,REP,"Landfather, Doris Bass",19
+BATES,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+BATES,U.S. Senate,,LIB,"Millay, Tamara A.",7
+BATES,State Auditor,,DEM,"McCaskill, Claire",2809
+BATES,State Auditor,,REP,"Hanson, Al",437
+BATES,State Auditor,,REP,"Kanzler, Jay L. Jr.",239
+BATES,State Auditor,,LIB,"Trembley, Arnold J.",8
+BATES,U.S. House,4,DEM,"Skelton, Ike",2975
+BATES,U.S. House,4,REP,"Noland, James A. (Jim)",475
+BATES,U.S. House,4,REP,"Liffick, Chuck",63
+BATES,U.S. House,4,REP,"Brown, Bob",154
+BATES,U.S. House,4,LIB,"Nelson, Daniel Roy",8
+BATES,State House,120,REP,"Cooper, Shannon",177
+BATES,State House,125,DEM,"Berry, Larry",1583
+BATES,State House,125,DEM,"Foursha, Sam",1306
+BATES,State House,125,REP,"King, Jerry",608
+BENTON,U.S. Senate,,DEM,"Carnahan, Jean",1135
+BENTON,U.S. Senate,,DEM,"Day, Darrel D.",142
+BENTON,U.S. Senate,,REP,"May, Joseph A.",142
+BENTON,U.S. Senate,,REP,"Talent, Jim",2567
+BENTON,U.S. Senate,,REP,"Lindstedt, Martin",42
+BENTON,U.S. Senate,,REP,"Babbitt, Scott Craig",107
+BENTON,U.S. Senate,,REP,"Landfather, Doris Bass",127
+BENTON,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+BENTON,U.S. Senate,,LIB,"Millay, Tamara A.",4
+BENTON,State Auditor,,DEM,"McCaskill, Claire",1112
+BENTON,State Auditor,,REP,"Hanson, Al",1616
+BENTON,State Auditor,,REP,"Kanzler, Jay L. Jr.",821
+BENTON,State Auditor,,LIB,"Trembley, Arnold J.",11
+BENTON,U.S. House,4,DEM,"Skelton, Ike",1201
+BENTON,U.S. House,4,REP,"Noland, James A. (Jim)",1595
+BENTON,U.S. House,4,REP,"Liffick, Chuck",183
+BENTON,U.S. House,4,REP,"Brown, Bob",873
+BENTON,U.S. House,4,LIB,"Nelson, Daniel Roy",11
+BENTON,State Senate,28,DEM,"Meyer, Richard",442
+BENTON,State Senate,28,DEM,"Johnson, Catherine D.",739
+BENTON,State Senate,28,REP,"Scott, Delbert L.",2409
+BENTON,State Senate,28,REP,"Boatright, Matt",706
+BENTON,State Senate,28,LIB,"Watson, Jesse O.",11
+BENTON,State House,116,DEM,"Capps, Teresa G.",1075
+BENTON,State House,116,REP,"Self, Tom",1253
+BENTON,State House,116,REP,"Hampy, Brent",280
+BENTON,State House,116,REP,"Gruhn, Fred",1140
+BENTON,State House,116,REP,"Henderson, Steve",414
+BOLLINGER,U.S. Senate,,DEM,"Carnahan, Jean",591
+BOLLINGER,U.S. Senate,,DEM,"Day, Darrel D.",101
+BOLLINGER,U.S. Senate,,REP,"May, Joseph A.",49
+BOLLINGER,U.S. Senate,,REP,"Talent, Jim",1558
+BOLLINGER,U.S. Senate,,REP,"Lindstedt, Martin",29
+BOLLINGER,U.S. Senate,,REP,"Babbitt, Scott Craig",31
+BOLLINGER,U.S. Senate,,REP,"Landfather, Doris Bass",53
+BOLLINGER,U.S. Senate,,LIB,"Manley, Edward Joseph III",4
+BOLLINGER,U.S. Senate,,LIB,"Millay, Tamara A.",5
+BOLLINGER,State Auditor,,DEM,"McCaskill, Claire",474
+BOLLINGER,State Auditor,,REP,"Hanson, Al",1000
+BOLLINGER,State Auditor,,REP,"Kanzler, Jay L. Jr.",393
+BOLLINGER,State Auditor,,LIB,"Trembley, Arnold J.",8
+BOLLINGER,U.S. House,8,DEM,"Curtis, Gene",438
+BOLLINGER,U.S. House,8,REP,"Emerson, Jo Ann",1621
+BOLLINGER,U.S. House,8,REP,"Kline, Richard Allen",187
+BOLLINGER,U.S. House,8,LIB,"Van Oostrom, Eric",7
+BOLLINGER,State House,156,REP,"Jetton, Rodney (Rod)",1515
+BOLLINGER,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",1143
+BOLLINGER,Circuit Judge  Circuit 32 Division 1,,REP,"Keller, Bryan",508
+BOONE,U.S. Senate,,DEM,"Carnahan, Jean",10752
+BOONE,U.S. Senate,,DEM,"Day, Darrel D.",1302
+BOONE,U.S. Senate,,REP,"May, Joseph A.",272
+BOONE,U.S. Senate,,REP,"Talent, Jim",9852
+BOONE,U.S. Senate,,REP,"Lindstedt, Martin",74
+BOONE,U.S. Senate,,REP,"Babbitt, Scott Craig",77
+BOONE,U.S. Senate,,REP,"Landfather, Doris Bass",211
+BOONE,U.S. Senate,,LIB,"Manley, Edward Joseph III",59
+BOONE,U.S. Senate,,LIB,"Millay, Tamara A.",124
+BOONE,State Auditor,,DEM,"McCaskill, Claire",10561
+BOONE,State Auditor,,REP,"Hanson, Al",4803
+BOONE,State Auditor,,REP,"Kanzler, Jay L. Jr.",3262
+BOONE,State Auditor,,LIB,"Trembley, Arnold J.",177
+BOONE,U.S. House,9,DEM,"Deichman, Donald M. (Don)",9437
+BOONE,U.S. House,9,REP,"Hulshof, Kenny C.",10205
+BOONE,U.S. House,9,LIB,"Mruzik, John",179
+BOONE,State House,9,DEM,"Shoemyer, Wes",983
+BOONE,State House,9,REP,"Hedberg, Jeff",1363
+BOONE,State House,9,LIB,"Schultz, John",28
+BOONE,State House,21,DEM,"Becker, Ann",679
+BOONE,State House,21,DEM,"Groves, Mike",445
+BOONE,State House,21,REP,"Hobbs, Steve",1232
+BOONE,State House,23,DEM,"Harris, Robert (Jeff)",2470
+BOONE,State House,23,DEM,"McBee, Kerri",2169
+BOONE,State House,23,REP,"HarrisLaboy, Verna",1953
+BOONE,State House,24,DEM,"Graham, Chuck",2705
+BOONE,State House,24,REP,"Baker, Cynthia",2974
+BOONE,State House,24,LIB,"Rennier, Greg",40
+BOONE,State House,25,DEM,"Wilson, Vicky Riback",1723
+BOONE,State House,25,REP,"Jeffries, Joel",1481
+BOONE,State House,25,LIB,"Shahid, Adam",48
+BUCHANAN,U.S. Senate,,DEM,"Carnahan, Jean",9005
+BUCHANAN,U.S. Senate,,DEM,"Day, Darrel D.",2913
+BUCHANAN,U.S. Senate,,REP,"May, Joseph A.",109
+BUCHANAN,U.S. Senate,,REP,"Talent, Jim",4484
+BUCHANAN,U.S. Senate,,REP,"Lindstedt, Martin",54
+BUCHANAN,U.S. Senate,,REP,"Babbitt, Scott Craig",124
+BUCHANAN,U.S. Senate,,REP,"Landfather, Doris Bass",153
+BUCHANAN,U.S. Senate,,LIB,"Manley, Edward Joseph III",30
+BUCHANAN,U.S. Senate,,LIB,"Millay, Tamara A.",41
+BUCHANAN,State Auditor,,DEM,"McCaskill, Claire",9142
+BUCHANAN,State Auditor,,REP,"Hanson, Al",2552
+BUCHANAN,State Auditor,,REP,"Kanzler, Jay L. Jr.",1285
+BUCHANAN,State Auditor,,LIB,"Trembley, Arnold J.",63
+BUCHANAN,U.S. House,6,DEM,"Rinehart, Cathy",6855
+BUCHANAN,U.S. House,6,DEM,"Mitchell, Ed",2285
+BUCHANAN,U.S. House,6,DEM,"Gilstrap, David P.",963
+BUCHANAN,U.S. House,6,REP,"Graves, Sam",4645
+BUCHANAN,U.S. House,6,LIB,"Buck, Erik",65
+BUCHANAN,State Senate,34,DEM,"Kelly, Glenda",10063
+BUCHANAN,State Senate,34,REP,"Shields, Charlie",4410
+BUCHANAN,State Senate,34,REP,"Pitts, Jim",559
+BUCHANAN,State House,5,DEM,"Wright, Jeff",0
+BUCHANAN,State House,5,DEM,"Waltemath, Mike",1
+BUCHANAN,State House,5,REP,"Guest, Jim",0
+BUCHANAN,State House,27,DEM,"Wildberger, Ed",2550
+BUCHANAN,State House,27,DEM,"Ward, Derek E.",1068
+BUCHANAN,State House,27,DEM,"Nix, Frederica (Freddie)",989
+BUCHANAN,State House,27,REP,"Bahner, Kathy",1295
+BUCHANAN,State House,27,LIB,"Imlay, C. David",35
+BUCHANAN,State House,28,DEM,"Davis, Lance",1843
+BUCHANAN,State House,28,REP,"Evans, Chris",190
+BUCHANAN,State House,28,REP,"Ramsey, (Friday) Christin",313
+BUCHANAN,State House,28,REP,"Schaaf, Rob",1191
+BUCHANAN,State House,28,REP,"Smith, Vincent F.",116
+BUCHANAN,State House,29,DEM,"Lawson, Maurice",4090
+BUCHANAN,State House,29,REP,"Rooney, Rebecca Johnson",1254
+BUCHANAN,State House,30,DEM,"Harding, Meg",0
+BUCHANAN,State House,30,REP,"Brown, Jason",0
+BUTLER,U.S. Senate,,DEM,"Carnahan, Jean",919
+BUTLER,U.S. Senate,,DEM,"Day, Darrel D.",159
+BUTLER,U.S. Senate,,REP,"May, Joseph A.",253
+BUTLER,U.S. Senate,,REP,"Talent, Jim",3497
+BUTLER,U.S. Senate,,REP,"Lindstedt, Martin",69
+BUTLER,U.S. Senate,,REP,"Babbitt, Scott Craig",79
+BUTLER,U.S. Senate,,REP,"Landfather, Doris Bass",149
+BUTLER,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+BUTLER,U.S. Senate,,LIB,"Millay, Tamara A.",13
+BUTLER,State Auditor,,DEM,"McCaskill, Claire",835
+BUTLER,State Auditor,,REP,"Hanson, Al",2384
+BUTLER,State Auditor,,REP,"Kanzler, Jay L. Jr.",904
+BUTLER,State Auditor,,LIB,"Trembley, Arnold J.",18
+BUTLER,U.S. House,8,DEM,"Curtis, Gene",810
+BUTLER,U.S. House,8,REP,"Emerson, Jo Ann",3909
+BUTLER,U.S. House,8,REP,"Kline, Richard Allen",478
+BUTLER,U.S. House,8,LIB,"Van Oostrom, Eric",18
+BUTLER,State House,153,DEM,"Jackson, Larry",55
+BUTLER,State House,153,REP,"Slayton, Tim",174
+BUTLER,State House,153,REP,"Dethrow, Mike",81
+BUTLER,State House,163,DEM,"Robinson, Brent",112
+BUTLER,State House,163,REP,"Steward, Curtis W.",132
+BUTLER,State House,163,REP,"Bean, Otto Jr.",133
+BUTLER,Circuit Judge  Circuit 36,,DEM,"Smith, Robert L.",795
+BUTLER,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",3789
+CALDWELL,U.S. Senate,,DEM,"Carnahan, Jean",496
+CALDWELL,U.S. Senate,,DEM,"Day, Darrel D.",69
+CALDWELL,U.S. Senate,,REP,"May, Joseph A.",96
+CALDWELL,U.S. Senate,,REP,"Talent, Jim",1204
+CALDWELL,U.S. Senate,,REP,"Lindstedt, Martin",50
+CALDWELL,U.S. Senate,,REP,"Babbitt, Scott Craig",42
+CALDWELL,U.S. Senate,,REP,"Landfather, Doris Bass",65
+CALDWELL,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+CALDWELL,U.S. Senate,,LIB,"Millay, Tamara A.",4
+CALDWELL,State Auditor,,DEM,"McCaskill, Claire",501
+CALDWELL,State Auditor,,REP,"Hanson, Al",889
+CALDWELL,State Auditor,,REP,"Kanzler, Jay L. Jr.",364
+CALDWELL,State Auditor,,LIB,"Trembley, Arnold J.",5
+CALDWELL,U.S. House,6,DEM,"Rinehart, Cathy",339
+CALDWELL,U.S. House,6,DEM,"Mitchell, Ed",103
+CALDWELL,U.S. House,6,DEM,"Gilstrap, David P.",65
+CALDWELL,U.S. House,6,REP,"Graves, Sam",1378
+CALDWELL,U.S. House,6,LIB,"Buck, Erik",5
+CALDWELL,State Senate,12,REP,"Klindt, David G.",1208
+CALDWELL,State House,7,REP,"Quinn, John",1219
+CALDWELL,State House,7,LIB,"Foli, Jeffery Curtis",4
+CALLAWAY,U.S. Senate,,DEM,"Carnahan, Jean",2892
+CALLAWAY,U.S. Senate,,DEM,"Day, Darrel D.",883
+CALLAWAY,U.S. Senate,,REP,"May, Joseph A.",60
+CALLAWAY,U.S. Senate,,REP,"Talent, Jim",2048
+CALLAWAY,U.S. Senate,,REP,"Lindstedt, Martin",14
+CALLAWAY,U.S. Senate,,REP,"Babbitt, Scott Craig",10
+CALLAWAY,U.S. Senate,,REP,"Landfather, Doris Bass",40
+CALLAWAY,U.S. Senate,,LIB,"Manley, Edward Joseph III",13
+CALLAWAY,U.S. Senate,,LIB,"Millay, Tamara A.",19
+CALLAWAY,State Auditor,,DEM,"McCaskill, Claire",3083
+CALLAWAY,State Auditor,,REP,"Hanson, Al",1097
+CALLAWAY,State Auditor,,REP,"Kanzler, Jay L. Jr.",681
+CALLAWAY,State Auditor,,LIB,"Trembley, Arnold J.",29
+CALLAWAY,U.S. House,9,DEM,"Deichman, Donald M. (Don)",2888
+CALLAWAY,U.S. House,9,REP,"Hulshof, Kenny C.",2082
+CALLAWAY,U.S. House,9,LIB,"Mruzik, John",29
+CALLAWAY,State Senate,6,DEM,"Gratz, W.W. (Bill)",2976
+CALLAWAY,State Senate,6,REP,"Vogel, Carl M.",1867
+CALLAWAY,State House,10,DEM,"Witte, Terry L",196
+CALLAWAY,State House,10,REP,"Graver, George",47
+CALLAWAY,State House,10,REP,"Linnenbringer, Gary W.",247
+CALLAWAY,State House,20,DEM,"Friley, John",2502
+CALLAWAY,State House,20,REP,"Moore, Danielle (Danie)",1596
+CALLAWAY,State House,20,LIB,"Werges, Jason T.",22
+CALLAWAY,State House,21,DEM,"Becker, Ann",122
+CALLAWAY,State House,21,DEM,"Groves, Mike",78
+CALLAWAY,State House,21,REP,"Hobbs, Steve",153
+CAMDEN,U.S. Senate,,DEM,"Carnahan, Jean",1803
+CAMDEN,U.S. Senate,,DEM,"Day, Darrel D.",270
+CAMDEN,U.S. Senate,,REP,"May, Joseph A.",398
+CAMDEN,U.S. Senate,,REP,"Talent, Jim",5196
+CAMDEN,U.S. Senate,,REP,"Lindstedt, Martin",105
+CAMDEN,U.S. Senate,,REP,"Babbitt, Scott Craig",142
+CAMDEN,U.S. Senate,,REP,"Landfather, Doris Bass",278
+CAMDEN,U.S. Senate,,LIB,"Manley, Edward Joseph III",8
+CAMDEN,U.S. Senate,,LIB,"Millay, Tamara A.",14
+CAMDEN,State Auditor,,DEM,"McCaskill, Claire",1809
+CAMDEN,State Auditor,,REP,"Hanson, Al",3596
+CAMDEN,State Auditor,,REP,"Kanzler, Jay L. Jr.",1491
+CAMDEN,State Auditor,,LIB,"Trembley, Arnold J.",19
+CAMDEN,U.S. House,4,DEM,"Skelton, Ike",1798
+CAMDEN,U.S. House,4,REP,"Noland, James A. (Jim)",3377
+CAMDEN,U.S. House,4,REP,"Liffick, Chuck",586
+CAMDEN,U.S. House,4,REP,"Brown, Bob",1308
+CAMDEN,U.S. House,4,LIB,"Nelson, Daniel Roy",18
+CAMDEN,U.S. House,9,DEM,"Deichman, Donald M. (Don)",73
+CAMDEN,U.S. House,9,REP,"Hulshof, Kenny C.",276
+CAMDEN,U.S. House,9,LIB,"Mruzik, John",0
+CAMDEN,State House,115,DEM,"Bonar, Ronald C.",12
+CAMDEN,State House,115,REP,"Luetkemeyer, Blaine",117
+CAMDEN,State House,146,DEM,"Gann, Tamara",47
+CAMDEN,State House,146,REP,"Angst, Randy",107
+CAMDEN,State House,146,REP,"Schneider, David (Dave)",41
+CAMDEN,State House,146,REP,"Pollock, Darrell",32
+CAMDEN,State House,148,DEM,"Ransdall, Bill L.",0
+CAMDEN,State House,148,LIB,"Warren, Grant",0
+CAMDEN,State House,155,DEM,"Barrett, Don",1088
+CAMDEN,State House,155,DEM,"Williams, Gregory D.",731
+CAMDEN,State House,155,REP,"Paul, Bill",1106
+CAMDEN,State House,155,REP,"Schapiro, James",493
+CAMDEN,State House,155,REP,"Cooper, Wayne",3937
+CAMDEN,State House,155,REP,"Roney, Charles",183
+CAMDEN,State House,155,REP,"Mowinski, Bernie",286
+CAPE GIRARDEAU,U.S. Senate,,DEM,"Carnahan, Jean",1705
+CAPE GIRARDEAU,U.S. Senate,,DEM,"Day, Darrel D.",292
+CAPE GIRARDEAU,U.S. Senate,,REP,"May, Joseph A.",401
+CAPE GIRARDEAU,U.S. Senate,,REP,"Talent, Jim",8406
+CAPE GIRARDEAU,U.S. Senate,,REP,"Lindstedt, Martin",149
+CAPE GIRARDEAU,U.S. Senate,,REP,"Babbitt, Scott Craig",150
+CAPE GIRARDEAU,U.S. Senate,,REP,"Landfather, Doris Bass",284
+CAPE GIRARDEAU,U.S. Senate,,LIB,"Manley, Edward Joseph III",30
+CAPE GIRARDEAU,U.S. Senate,,LIB,"Millay, Tamara A.",43
+CAPE GIRARDEAU,State Auditor,,DEM,"McCaskill, Claire",1622
+CAPE GIRARDEAU,State Auditor,,REP,"Hanson, Al",5282
+CAPE GIRARDEAU,State Auditor,,REP,"Kanzler, Jay L. Jr.",2371
+CAPE GIRARDEAU,State Auditor,,LIB,"Trembley, Arnold J.",66
+CAPE GIRARDEAU,U.S. House,8,DEM,"Curtis, Gene",1655
+CAPE GIRARDEAU,U.S. House,8,REP,"Emerson, Jo Ann",8286
+CAPE GIRARDEAU,U.S. House,8,REP,"Kline, Richard Allen",1475
+CAPE GIRARDEAU,U.S. House,8,LIB,"Van Oostrom, Eric",68
+CAPE GIRARDEAU,State House,157,DEM,"Miller, Chuck",621
+CAPE GIRARDEAU,State House,157,REP,"Lichtenegger, Donna",1265
+CAPE GIRARDEAU,State House,157,REP,"Adams, Gerald",1137
+CAPE GIRARDEAU,State House,157,REP,"Sachse, Tom",661
+CAPE GIRARDEAU,State House,157,REP,"Lipke, Scott A.",1504
+CAPE GIRARDEAU,State House,157,LIB,"Doubledee, Timothy",14
+CAPE GIRARDEAU,State House,158,REP,"Crowell, Jason",3465
+CAPE GIRARDEAU,State House,158,LIB,"Ulery, C. Darby",43
+CAPE GIRARDEAU,State House,159,REP,"Mayer, Robert (Rob)",905
+CAPE GIRARDEAU,State House,160,DEM,"Kiefer, Donnie",32
+CAPE GIRARDEAU,State House,160,REP,"Myers, Peter",138
+CAPE GIRARDEAU,State House,161,DEM,"Petitt, Wayne",0
+CAPE GIRARDEAU,State House,161,REP,"Black, Lanie",0
+CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",6573
+CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 1,,REP,"Keller, Bryan",2980
+CARROLL,U.S. Senate,,DEM,"Carnahan, Jean",591
+CARROLL,U.S. Senate,,DEM,"Day, Darrel D.",86
+CARROLL,U.S. Senate,,REP,"May, Joseph A.",33
+CARROLL,U.S. Senate,,REP,"Talent, Jim",995
+CARROLL,U.S. Senate,,REP,"Lindstedt, Martin",10
+CARROLL,U.S. Senate,,REP,"Babbitt, Scott Craig",15
+CARROLL,U.S. Senate,,REP,"Landfather, Doris Bass",20
+CARROLL,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+CARROLL,U.S. Senate,,LIB,"Millay, Tamara A.",4
+CARROLL,State Auditor,,DEM,"McCaskill, Claire",579
+CARROLL,State Auditor,,REP,"Hanson, Al",653
+CARROLL,State Auditor,,REP,"Kanzler, Jay L. Jr.",220
+CARROLL,State Auditor,,LIB,"Trembley, Arnold J.",6
+CARROLL,U.S. House,6,DEM,"Rinehart, Cathy",398
+CARROLL,U.S. House,6,DEM,"Mitchell, Ed",111
+CARROLL,U.S. House,6,DEM,"Gilstrap, David P.",61
+CARROLL,U.S. House,6,REP,"Graves, Sam",1062
+CARROLL,U.S. House,6,LIB,"Buck, Erik",6
+CARROLL,State House,7,REP,"Quinn, John",1037
+CARROLL,State House,7,LIB,"Foli, Jeffery Curtis",6
+CARTER,U.S. Senate,,DEM,"Carnahan, Jean",270
+CARTER,U.S. Senate,,DEM,"Day, Darrel D.",29
+CARTER,U.S. Senate,,REP,"May, Joseph A.",77
+CARTER,U.S. Senate,,REP,"Talent, Jim",768
+CARTER,U.S. Senate,,REP,"Lindstedt, Martin",23
+CARTER,U.S. Senate,,REP,"Babbitt, Scott Craig",30
+CARTER,U.S. Senate,,REP,"Landfather, Doris Bass",59
+CARTER,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+CARTER,U.S. Senate,,LIB,"Millay, Tamara A.",1
+CARTER,State Auditor,,DEM,"McCaskill, Claire",214
+CARTER,State Auditor,,REP,"Hanson, Al",519
+CARTER,State Auditor,,REP,"Kanzler, Jay L. Jr.",203
+CARTER,State Auditor,,LIB,"Trembley, Arnold J.",1
+CARTER,U.S. House,8,DEM,"Curtis, Gene",201
+CARTER,U.S. House,8,REP,"Emerson, Jo Ann",991
+CARTER,U.S. House,8,REP,"Kline, Richard Allen",105
+CARTER,U.S. House,8,LIB,"Van Oostrom, Eric",1
+CARTER,State House,153,DEM,"Jackson, Larry",214
+CARTER,State House,153,REP,"Slayton, Tim",554
+CARTER,State House,153,REP,"Dethrow, Mike",509
+CASS,U.S. Senate,,DEM,"Carnahan, Jean",6373
+CASS,U.S. Senate,,DEM,"Day, Darrel D.",1587
+CASS,U.S. Senate,,REP,"May, Joseph A.",150
+CASS,U.S. Senate,,REP,"Talent, Jim",4566
+CASS,U.S. Senate,,REP,"Lindstedt, Martin",69
+CASS,U.S. Senate,,REP,"Babbitt, Scott Craig",72
+CASS,U.S. Senate,,REP,"Landfather, Doris Bass",137
+CASS,U.S. Senate,,LIB,"Manley, Edward Joseph III",23
+CASS,U.S. Senate,,LIB,"Millay, Tamara A.",46
+CASS,State Auditor,,DEM,"McCaskill, Claire",7029
+CASS,State Auditor,,REP,"Hanson, Al",2338
+CASS,State Auditor,,REP,"Kanzler, Jay L. Jr.",1801
+CASS,State Auditor,,LIB,"Trembley, Arnold J.",61
+CASS,U.S. House,4,DEM,"Skelton, Ike",3840
+CASS,U.S. House,4,REP,"Noland, James A. (Jim)",1312
+CASS,U.S. House,4,REP,"Liffick, Chuck",210
+CASS,U.S. House,4,REP,"Brown, Bob",522
+CASS,U.S. House,4,LIB,"Nelson, Daniel Roy",28
+CASS,U.S. House,5,DEM,"McCarthy, Karen",2865
+CASS,U.S. House,5,DEM,"Lindsey, Charles",649
+CASS,U.S. House,5,REP,"Southworth, Chet",250
+CASS,U.S. House,5,REP,"Gordon, Steve",779
+CASS,U.S. House,5,REP,"ZapienPina, Annalisa",130
+CASS,U.S. House,5,REP,"Harris, Ronald (Ron)",766
+CASS,U.S. House,5,REP,"Lea, Joyce P.",253
+CASS,U.S. House,5,LIB,"Bojarski, Jeanne",36
+CASS,State House,120,REP,"Cooper, Shannon",232
+CASS,State House,122,DEM,"Davis, D. J.",486
+CASS,State House,122,REP,"Sparks, David A.",261
+CASS,State House,123,DEM,"Gregory, Bob",451
+CASS,State House,123,DEM,"Duncan, Phillip D. Sr.",839
+CASS,State House,123,DEM,"Glenn, John",309
+CASS,State House,123,DEM,"Hensley, Teresa",1378
+CASS,State House,123,REP,"Baker, Brian L.",1785
+CASS,State House,124,DEM,"Franzeskos, Johnnie G",2871
+CASS,State House,124,REP,"Rector, Rex",2149
+CEDAR,U.S. Senate,,DEM,"Carnahan, Jean",683
+CEDAR,U.S. Senate,,DEM,"Day, Darrel D.",139
+CEDAR,U.S. Senate,,REP,"May, Joseph A.",120
+CEDAR,U.S. Senate,,REP,"Talent, Jim",1966
+CEDAR,U.S. Senate,,REP,"Lindstedt, Martin",41
+CEDAR,U.S. Senate,,REP,"Babbitt, Scott Craig",97
+CEDAR,U.S. Senate,,REP,"Landfather, Doris Bass",69
+CEDAR,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+CEDAR,U.S. Senate,,LIB,"Millay, Tamara A.",8
+CEDAR,State Auditor,,DEM,"McCaskill, Claire",691
+CEDAR,State Auditor,,REP,"Hanson, Al",1374
+CEDAR,State Auditor,,REP,"Kanzler, Jay L. Jr.",495
+CEDAR,State Auditor,,LIB,"Trembley, Arnold J.",11
+CEDAR,U.S. House,4,DEM,"Skelton, Ike",722
+CEDAR,U.S. House,4,REP,"Noland, James A. (Jim)",1268
+CEDAR,U.S. House,4,REP,"Liffick, Chuck",138
+CEDAR,U.S. House,4,REP,"Brown, Bob",555
+CEDAR,U.S. House,4,LIB,"Nelson, Daniel Roy",11
+CEDAR,State Senate,28,DEM,"Meyer, Richard",328
+CEDAR,State Senate,28,DEM,"Johnson, Catherine D.",392
+CEDAR,State Senate,28,REP,"Scott, Delbert L.",1640
+CEDAR,State Senate,28,REP,"Boatright, Matt",709
+CEDAR,State Senate,28,LIB,"Watson, Jesse O.",11
+CEDAR,State House,133,DEM,"Howard, Daniel",617
+CEDAR,State House,133,REP,"Miller, Ronnie",2266
+CEDAR,State House,133,LIB,"Wright, Thomas",11
+CHARITON,U.S. Senate,,DEM,"Carnahan, Jean",1540
+CHARITON,U.S. Senate,,DEM,"Day, Darrel D.",710
+CHARITON,U.S. Senate,,REP,"May, Joseph A.",8
+CHARITON,U.S. Senate,,REP,"Talent, Jim",240
+CHARITON,U.S. Senate,,REP,"Lindstedt, Martin",6
+CHARITON,U.S. Senate,,REP,"Babbitt, Scott Craig",4
+CHARITON,U.S. Senate,,REP,"Landfather, Doris Bass",8
+CHARITON,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+CHARITON,U.S. Senate,,LIB,"Millay, Tamara A.",2
+CHARITON,State Auditor,,DEM,"McCaskill, Claire",1702
+CHARITON,State Auditor,,REP,"Hanson, Al",154
+CHARITON,State Auditor,,REP,"Kanzler, Jay L. Jr.",60
+CHARITON,State Auditor,,LIB,"Trembley, Arnold J.",4
+CHARITON,U.S. House,6,DEM,"Rinehart, Cathy",1016
+CHARITON,U.S. House,6,DEM,"Mitchell, Ed",464
+CHARITON,U.S. House,6,DEM,"Gilstrap, David P.",293
+CHARITON,U.S. House,6,REP,"Graves, Sam",239
+CHARITON,U.S. House,6,LIB,"Buck, Erik",4
+CHARITON,State House,8,DEM,"Shively, Tom",0
+CHARITON,State House,8,REP,"Shoemaker, Chris",0
+CHARITON,State House,9,DEM,"Shoemyer, Wes",14
+CHARITON,State House,9,REP,"Hedberg, Jeff",1
+CHARITON,State House,9,LIB,"Schultz, John",0
+CHARITON,State House,22,DEM,"Copenhaver, Nancy",1739
+CHARITON,State House,22,REP,"Sander, Therese",239
+CHRISTIAN,U.S. Senate,,DEM,"Carnahan, Jean",1519
+CHRISTIAN,U.S. Senate,,DEM,"Day, Darrel D.",241
+CHRISTIAN,U.S. Senate,,REP,"May, Joseph A.",422
+CHRISTIAN,U.S. Senate,,REP,"Talent, Jim",6542
+CHRISTIAN,U.S. Senate,,REP,"Lindstedt, Martin",137
+CHRISTIAN,U.S. Senate,,REP,"Babbitt, Scott Craig",207
+CHRISTIAN,U.S. Senate,,REP,"Landfather, Doris Bass",384
+CHRISTIAN,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+CHRISTIAN,U.S. Senate,,LIB,"Millay, Tamara A.",11
+CHRISTIAN,State Auditor,,DEM,"McCaskill, Claire",1497
+CHRISTIAN,State Auditor,,REP,"Hanson, Al",4131
+CHRISTIAN,State Auditor,,REP,"Kanzler, Jay L. Jr.",2173
+CHRISTIAN,State Auditor,,LIB,"Trembley, Arnold J.",16
+CHRISTIAN,U.S. House,7,DEM,"Lapham, Ron",1431
+CHRISTIAN,U.S. House,7,REP,"Blunt, Roy",7157
+CHRISTIAN,U.S. House,7,LIB,"Burlison, Doug",16
+CHRISTIAN,State Senate,20,DEM,"Kreider, Jim",1624
+CHRISTIAN,State Senate,20,REP,"Clemens, Dan",3637
+CHRISTIAN,State Senate,20,REP,"Nordquist, Gordon E.",1557
+CHRISTIAN,State Senate,20,REP,"Decker, Darrell",2332
+CHRISTIAN,State House,141,DEM,"Elwell, Ann",732
+CHRISTIAN,State House,141,REP,"Wasson, Jay",2708
+CHRISTIAN,State House,142,DEM,"Forgey, Brent",763
+CHRISTIAN,State House,142,REP,"Bough, Jerry",2504
+CHRISTIAN,State House,142,REP,"Watts, Donald R.",1998
+CLARK,U.S. Senate,,DEM,"Carnahan, Jean",849
+CLARK,U.S. Senate,,DEM,"Day, Darrel D.",194
+CLARK,U.S. Senate,,REP,"May, Joseph A.",43
+CLARK,U.S. Senate,,REP,"Talent, Jim",769
+CLARK,U.S. Senate,,REP,"Lindstedt, Martin",17
+CLARK,U.S. Senate,,REP,"Babbitt, Scott Craig",21
+CLARK,U.S. Senate,,REP,"Landfather, Doris Bass",30
+CLARK,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+CLARK,U.S. Senate,,LIB,"Millay, Tamara A.",8
+CLARK,State Auditor,,DEM,"McCaskill, Claire",758
+CLARK,State Auditor,,REP,"Hanson, Al",502
+CLARK,State Auditor,,REP,"Kanzler, Jay L. Jr.",209
+CLARK,State Auditor,,LIB,"Trembley, Arnold J.",10
+CLARK,U.S. House,9,DEM,"Deichman, Donald M. (Don)",699
+CLARK,U.S. House,9,REP,"Hulshof, Kenny C.",816
+CLARK,U.S. House,9,LIB,"Mruzik, John",10
+CLARK,State Senate,18,DEM,"Berkowitz, Sam",936
+CLARK,State Senate,18,REP,"Cauthorn, John W.",790
+CLARK,State House,1,DEM,"Campbell, Paul",774
+CLARK,State House,1,REP,"Munzlinger, Brian",733
+CLAY,U.S. Senate,,DEM,"Carnahan, Jean",11760
+CLAY,U.S. Senate,,DEM,"Day, Darrel D.",2089
+CLAY,U.S. Senate,,REP,"May, Joseph A.",298
+CLAY,U.S. Senate,,REP,"Talent, Jim",8961
+CLAY,U.S. Senate,,REP,"Lindstedt, Martin",121
+CLAY,U.S. Senate,,REP,"Babbitt, Scott Craig",151
+CLAY,U.S. Senate,,REP,"Landfather, Doris Bass",325
+CLAY,U.S. Senate,,LIB,"Manley, Edward Joseph III",63
+CLAY,U.S. Senate,,LIB,"Millay, Tamara A.",72
+CLAY,State Auditor,,DEM,"McCaskill, Claire",11985
+CLAY,State Auditor,,REP,"Hanson, Al",5016
+CLAY,State Auditor,,REP,"Kanzler, Jay L. Jr.",2923
+CLAY,State Auditor,,LIB,"Trembley, Arnold J.",132
+CLAY,U.S. House,6,DEM,"Rinehart, Cathy",9431
+CLAY,U.S. House,6,DEM,"Mitchell, Ed",2281
+CLAY,U.S. House,6,DEM,"Gilstrap, David P.",1057
+CLAY,U.S. House,6,REP,"Graves, Sam",9107
+CLAY,U.S. House,6,LIB,"Buck, Erik",134
+CLAY,State House,31,DEM,"Skaggs, Trent",1821
+CLAY,State House,31,REP,"Bossert, Don W.",1268
+CLAY,State House,33,DEM,"Willoughby, Philip O.",2530
+CLAY,State House,33,REP,"Wrigley, Tim",470
+CLAY,State House,33,REP,"Bailey, Jeff",1210
+CLAY,State House,34,DEM,"Saunders, Robert J. (Bob)",1983
+CLAY,State House,34,REP,"Reinhart, Annie",1562
+CLAY,State House,35,DEM,"Wolcott, Steve",1880
+CLAY,State House,35,REP,"Mead, Diane",1026
+CLAY,State House,35,REP,"Ervin, Doug",1388
+CLAY,State House,36,DEM,"Ward, Benny",950
+CLAY,State House,36,DEM,"Kelly, Gary",636
+CLAY,State House,38,DEM,"Hall, Mark",878
+CLAY,State House,38,DEM,"Bishop, Dan",1396
+CLAY,State House,38,REP,"Bowman, Judy",1332
+CLINTON,U.S. Senate,,DEM,"Carnahan, Jean",2519
+CLINTON,U.S. Senate,,DEM,"Day, Darrel D.",700
+CLINTON,U.S. Senate,,REP,"May, Joseph A.",39
+CLINTON,U.S. Senate,,REP,"Talent, Jim",983
+CLINTON,U.S. Senate,,REP,"Lindstedt, Martin",21
+CLINTON,U.S. Senate,,REP,"Babbitt, Scott Craig",28
+CLINTON,U.S. Senate,,REP,"Landfather, Doris Bass",41
+CLINTON,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+CLINTON,U.S. Senate,,LIB,"Millay, Tamara A.",4
+CLINTON,State Auditor,,DEM,"McCaskill, Claire",2781
+CLINTON,State Auditor,,REP,"Hanson, Al",533
+CLINTON,State Auditor,,REP,"Kanzler, Jay L. Jr.",345
+CLINTON,State Auditor,,LIB,"Trembley, Arnold J.",7
+CLINTON,U.S. House,6,DEM,"Rinehart, Cathy",1720
+CLINTON,U.S. House,6,DEM,"Mitchell, Ed",715
+CLINTON,U.S. House,6,DEM,"Gilstrap, David P.",326
+CLINTON,U.S. House,6,REP,"Graves, Sam",1067
+CLINTON,U.S. House,6,LIB,"Buck, Erik",7
+CLINTON,State Senate,12,REP,"Klindt, David G.",992
+CLINTON,State House,5,DEM,"Wright, Jeff",2195
+CLINTON,State House,5,DEM,"Waltemath, Mike",783
+CLINTON,State House,5,REP,"Guest, Jim",955
+CLINTON,State House,7,REP,"Quinn, John",20
+CLINTON,State House,7,LIB,"Foli, Jeffery Curtis",0
+COLE,U.S. Senate,,DEM,"Carnahan, Jean",6454
+COLE,U.S. Senate,,DEM,"Day, Darrel D.",2431
+COLE,U.S. Senate,,REP,"May, Joseph A.",256
+COLE,U.S. Senate,,REP,"Talent, Jim",6460
+COLE,U.S. Senate,,REP,"Lindstedt, Martin",64
+COLE,U.S. Senate,,REP,"Babbitt, Scott Craig",40
+COLE,U.S. Senate,,REP,"Landfather, Doris Bass",97
+COLE,U.S. Senate,,LIB,"Manley, Edward Joseph III",24
+COLE,U.S. Senate,,LIB,"Millay, Tamara A.",22
+COLE,State Auditor,,DEM,"McCaskill, Claire",7465
+COLE,State Auditor,,REP,"Hanson, Al",3820
+COLE,State Auditor,,REP,"Kanzler, Jay L. Jr.",2084
+COLE,State Auditor,,LIB,"Trembley, Arnold J.",43
+COLE,U.S. House,4,DEM,"Skelton, Ike",8129
+COLE,U.S. House,4,REP,"Noland, James A. (Jim)",4034
+COLE,U.S. House,4,REP,"Liffick, Chuck",366
+COLE,U.S. House,4,REP,"Brown, Bob",1521
+COLE,U.S. House,4,LIB,"Nelson, Daniel Roy",44
+COLE,State Senate,6,DEM,"Gratz, W.W. (Bill)",7563
+COLE,State Senate,6,REP,"Vogel, Carl M.",6494
+COLE,State House,113,DEM,"Barnes, C. F.",1244
+COLE,State House,113,DEM,"Welch, Leona C.",496
+COLE,State House,113,DEM,"Bernskoetter, Charles B.",2294
+COLE,State House,113,REP,"Edwards, Rick",583
+COLE,State House,113,REP,"Bruns, Mark J.",1074
+COLE,State House,113,REP,"Ahlers, Jeff",1062
+COLE,State House,114,DEM,"Baker, Jim",2032
+COLE,State House,114,DEM,"McFadden, Cynthia",2139
+COLE,State House,114,REP,"Deeken, Bill",3253
+COLE,State House,114,REP,"Walker, James (Jimmy)",332
+COLE,State House,115,DEM,"Bonar, Ronald C.",288
+COLE,State House,115,REP,"Luetkemeyer, Blaine",397
+COLE,Circuit Judge  Circuit 19 Division 2,,DEM,"Callahan, Richard G.",5424
+COLE,Circuit Judge  Circuit 19 Division 2,,DEM,"Hendricks, C.",3762
+COLE,Circuit Judge  Circuit 19 Division 4,,DEM,"Joyce, Pat",7639
+COOPER,U.S. Senate,,DEM,"Carnahan, Jean",706
+COOPER,U.S. Senate,,DEM,"Day, Darrel D.",117
+COOPER,U.S. Senate,,REP,"May, Joseph A.",78
+COOPER,U.S. Senate,,REP,"Talent, Jim",1750
+COOPER,U.S. Senate,,REP,"Lindstedt, Martin",19
+COOPER,U.S. Senate,,REP,"Babbitt, Scott Craig",31
+COOPER,U.S. Senate,,REP,"Landfather, Doris Bass",57
+COOPER,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+COOPER,U.S. Senate,,LIB,"Millay, Tamara A.",9
+COOPER,State Auditor,,DEM,"McCaskill, Claire",699
+COOPER,State Auditor,,REP,"Hanson, Al",1078
+COOPER,State Auditor,,REP,"Kanzler, Jay L. Jr.",506
+COOPER,State Auditor,,LIB,"Trembley, Arnold J.",8
+COOPER,U.S. House,6,DEM,"Rinehart, Cathy",446
+COOPER,U.S. House,6,DEM,"Mitchell, Ed",174
+COOPER,U.S. House,6,DEM,"Gilstrap, David P.",58
+COOPER,U.S. House,6,REP,"Graves, Sam",1700
+COOPER,U.S. House,6,LIB,"Buck, Erik",8
+COOPER,State House,117,DEM,"Murray, Hayes A.",625
+COOPER,State House,117,REP,"Crawford, Larry",1816
+CRAWFORD,U.S. Senate,,DEM,"Carnahan, Jean",1003
+CRAWFORD,U.S. Senate,,DEM,"Day, Darrel D.",125
+CRAWFORD,U.S. Senate,,REP,"May, Joseph A.",59
+CRAWFORD,U.S. Senate,,REP,"Talent, Jim",1460
+CRAWFORD,U.S. Senate,,REP,"Lindstedt, Martin",20
+CRAWFORD,U.S. Senate,,REP,"Babbitt, Scott Craig",17
+CRAWFORD,U.S. Senate,,REP,"Landfather, Doris Bass",39
+CRAWFORD,U.S. Senate,,LIB,"Manley, Edward Joseph III",4
+CRAWFORD,U.S. Senate,,LIB,"Millay, Tamara A.",4
+CRAWFORD,State Auditor,,DEM,"McCaskill, Claire",902
+CRAWFORD,State Auditor,,REP,"Hanson, Al",975
+CRAWFORD,State Auditor,,REP,"Kanzler, Jay L. Jr.",357
+CRAWFORD,State Auditor,,LIB,"Trembley, Arnold J.",8
+CRAWFORD,U.S. House,9,DEM,"Deichman, Donald M. (Don)",861
+CRAWFORD,U.S. House,9,REP,"Hulshof, Kenny C.",1355
+CRAWFORD,U.S. House,9,LIB,"Mruzik, John",8
+CRAWFORD,State Senate,16,DEM,"Ichord, Clara",868
+CRAWFORD,State Senate,16,REP,"Steelman, Sarah",1473
+CRAWFORD,State House,111,DEM,"Trokey, Bob",119
+CRAWFORD,State House,111,DEM,"Cooper, Jerry",84
+CRAWFORD,State House,111,REP,"Schlottach, Charles W.",157
+CRAWFORD,State House,111,REP,"Hardy, J. T.",276
+CRAWFORD,State House,150,DEM,"Barnitz, Frank A.",743
+CRAWFORD,State House,150,REP,"Leonard, Gary M.",947
+CRAWFORD,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",888
+DADE,U.S. Senate,,DEM,"Carnahan, Jean",150
+DADE,U.S. Senate,,DEM,"Day, Darrel D.",21
+DADE,U.S. Senate,,REP,"May, Joseph A.",106
+DADE,U.S. Senate,,REP,"Talent, Jim",1870
+DADE,U.S. Senate,,REP,"Lindstedt, Martin",29
+DADE,U.S. Senate,,REP,"Babbitt, Scott Craig",75
+DADE,U.S. Senate,,REP,"Landfather, Doris Bass",101
+DADE,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+DADE,U.S. Senate,,LIB,"Millay, Tamara A.",0
+DADE,State Auditor,,DEM,"McCaskill, Claire",149
+DADE,State Auditor,,REP,"Hanson, Al",1238
+DADE,State Auditor,,REP,"Kanzler, Jay L. Jr.",545
+DADE,State Auditor,,LIB,"Trembley, Arnold J.",2
+DADE,U.S. House,4,DEM,"Skelton, Ike",151
+DADE,U.S. House,4,REP,"Noland, James A. (Jim)",1308
+DADE,U.S. House,4,REP,"Liffick, Chuck",120
+DADE,U.S. House,4,REP,"Brown, Bob",469
+DADE,U.S. House,4,LIB,"Nelson, Daniel Roy",4
+DADE,State Senate,32,REP,"Gaskill, Sam",265
+DADE,State Senate,32,REP,"Nodler, Gary",840
+DADE,State Senate,32,REP,"Burton, Gary",768
+DADE,State Senate,32,REP,"Hohulin, Martin (Bubs)",254
+DADE,State House,126,DEM,"Sprouls, Douglas J.",141
+DADE,State House,126,REP,"Bartosh, Joe",289
+DADE,State House,126,REP,"Emery, Ed",729
+DADE,State House,126,REP,"Gardner, Scott",110
+DADE,State House,126,REP,"O'Connor, Bob",1101
+DALLAS,U.S. Senate,,DEM,"Carnahan, Jean",548
+DALLAS,U.S. Senate,,DEM,"Day, Darrel D.",104
+DALLAS,U.S. Senate,,REP,"May, Joseph A.",156
+DALLAS,U.S. Senate,,REP,"Talent, Jim",2312
+DALLAS,U.S. Senate,,REP,"Lindstedt, Martin",48
+DALLAS,U.S. Senate,,REP,"Babbitt, Scott Craig",99
+DALLAS,U.S. Senate,,REP,"Landfather, Doris Bass",147
+DALLAS,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+DALLAS,U.S. Senate,,LIB,"Millay, Tamara A.",3
+DALLAS,State Auditor,,DEM,"McCaskill, Claire",553
+DALLAS,State Auditor,,REP,"Hanson, Al",1604
+DALLAS,State Auditor,,REP,"Kanzler, Jay L. Jr.",719
+DALLAS,State Auditor,,LIB,"Trembley, Arnold J.",9
+DALLAS,U.S. House,4,DEM,"Skelton, Ike",574
+DALLAS,U.S. House,4,REP,"Noland, James A. (Jim)",1822
+DALLAS,U.S. House,4,REP,"Liffick, Chuck",176
+DALLAS,U.S. House,4,REP,"Brown, Bob",591
+DALLAS,U.S. House,4,LIB,"Nelson, Daniel Roy",9
+DALLAS,State Senate,28,DEM,"Meyer, Richard",251
+DALLAS,State Senate,28,DEM,"Johnson, Catherine D.",330
+DALLAS,State Senate,28,REP,"Scott, Delbert L.",1691
+DALLAS,State Senate,28,REP,"Boatright, Matt",986
+DALLAS,State Senate,28,LIB,"Watson, Jesse O.",9
+DALLAS,State House,119,DEM,"Keith, Clifford",532
+DALLAS,State House,119,REP,"Ainley, Brian",969
+DALLAS,State House,119,REP,"Wilson, Larry D.",854
+DALLAS,State House,119,REP,"Walker, Pamela S.",1012
+DAVIESS,U.S. Senate,,DEM,"Carnahan, Jean",914
+DAVIESS,U.S. Senate,,DEM,"Day, Darrel D.",288
+DAVIESS,U.S. Senate,,REP,"May, Joseph A.",23
+DAVIESS,U.S. Senate,,REP,"Talent, Jim",546
+DAVIESS,U.S. Senate,,REP,"Lindstedt, Martin",14
+DAVIESS,U.S. Senate,,REP,"Babbitt, Scott Craig",12
+DAVIESS,U.S. Senate,,REP,"Landfather, Doris Bass",29
+DAVIESS,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+DAVIESS,U.S. Senate,,LIB,"Millay, Tamara A.",1
+DAVIESS,State Auditor,,DEM,"McCaskill, Claire",995
+DAVIESS,State Auditor,,REP,"Hanson, Al",335
+DAVIESS,State Auditor,,REP,"Kanzler, Jay L. Jr.",164
+DAVIESS,State Auditor,,LIB,"Trembley, Arnold J.",3
+DAVIESS,U.S. House,6,DEM,"Rinehart, Cathy",593
+DAVIESS,U.S. House,6,DEM,"Mitchell, Ed",196
+DAVIESS,U.S. House,6,DEM,"Gilstrap, David P.",180
+DAVIESS,U.S. House,6,REP,"Graves, Sam",607
+DAVIESS,U.S. House,6,LIB,"Buck, Erik",3
+DAVIESS,State Senate,12,REP,"Klindt, David G.",600
+DAVIESS,State House,3,DEM,"Whorton, Jim",1041
+DAVIESS,State House,3,REP,"Moulthrop, Roscoe E.",527
+DEKALB,U.S. Senate,,DEM,"Carnahan, Jean",949
+DEKALB,U.S. Senate,,DEM,"Day, Darrel D.",363
+DEKALB,U.S. Senate,,REP,"May, Joseph A.",20
+DEKALB,U.S. Senate,,REP,"Talent, Jim",652
+DEKALB,U.S. Senate,,REP,"Lindstedt, Martin",9
+DEKALB,U.S. Senate,,REP,"Babbitt, Scott Craig",6
+DEKALB,U.S. Senate,,REP,"Landfather, Doris Bass",24
+DEKALB,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+DEKALB,U.S. Senate,,LIB,"Millay, Tamara A.",3
+DEKALB,State Auditor,,DEM,"McCaskill, Claire",1051
+DEKALB,State Auditor,,REP,"Hanson, Al",355
+DEKALB,State Auditor,,REP,"Kanzler, Jay L. Jr.",221
+DEKALB,State Auditor,,LIB,"Trembley, Arnold J.",3
+DEKALB,U.S. House,6,DEM,"Rinehart, Cathy",665
+DEKALB,U.S. House,6,DEM,"Mitchell, Ed",269
+DEKALB,U.S. House,6,DEM,"Gilstrap, David P.",150
+DEKALB,U.S. House,6,REP,"Graves, Sam",681
+DEKALB,U.S. House,6,LIB,"Buck, Erik",3
+DEKALB,State Senate,12,REP,"Klindt, David G.",628
+DEKALB,State House,5,DEM,"Wright, Jeff",613
+DEKALB,State House,5,DEM,"Waltemath, Mike",630
+DEKALB,State House,5,REP,"Guest, Jim",623
+DENT,U.S. Senate,,DEM,"Carnahan, Jean",1011
+DENT,U.S. Senate,,DEM,"Day, Darrel D.",289
+DENT,U.S. Senate,,REP,"May, Joseph A.",59
+DENT,U.S. Senate,,REP,"Talent, Jim",1357
+DENT,U.S. Senate,,REP,"Lindstedt, Martin",20
+DENT,U.S. Senate,,REP,"Babbitt, Scott Craig",26
+DENT,U.S. Senate,,REP,"Landfather, Doris Bass",42
+DENT,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+DENT,U.S. Senate,,LIB,"Millay, Tamara A.",3
+DENT,State Auditor,,DEM,"McCaskill, Claire",1022
+DENT,State Auditor,,REP,"Hanson, Al",824
+DENT,State Auditor,,REP,"Kanzler, Jay L. Jr.",325
+DENT,State Auditor,,LIB,"Trembley, Arnold J.",3
+DENT,U.S. House,8,DEM,"Curtis, Gene",921
+DENT,U.S. House,8,REP,"Emerson, Jo Ann",1482
+DENT,U.S. House,8,REP,"Kline, Richard Allen",101
+DENT,U.S. House,8,LIB,"Van Oostrom, Eric",3
+DENT,State Senate,16,DEM,"Ichord, Clara",956
+DENT,State Senate,16,REP,"Steelman, Sarah",1473
+DENT,State House,150,DEM,"Barnitz, Frank A.",1158
+DENT,State House,150,REP,"Leonard, Gary M.",1369
+DENT,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1119
+DOUGLAS,U.S. Senate,,DEM,"Carnahan, Jean",153
+DOUGLAS,U.S. Senate,,DEM,"Day, Darrel D.",32
+DOUGLAS,U.S. Senate,,REP,"May, Joseph A.",120
+DOUGLAS,U.S. Senate,,REP,"Talent, Jim",2097
+DOUGLAS,U.S. Senate,,REP,"Lindstedt, Martin",54
+DOUGLAS,U.S. Senate,,REP,"Babbitt, Scott Craig",66
+DOUGLAS,U.S. Senate,,REP,"Landfather, Doris Bass",112
+DOUGLAS,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+DOUGLAS,U.S. Senate,,LIB,"Millay, Tamara A.",2
+DOUGLAS,State Auditor,,DEM,"McCaskill, Claire",165
+DOUGLAS,State Auditor,,REP,"Hanson, Al",1766
+DOUGLAS,State Auditor,,REP,"Kanzler, Jay L. Jr.",544
+DOUGLAS,State Auditor,,LIB,"Trembley, Arnold J.",8
+DOUGLAS,U.S. House,8,DEM,"Curtis, Gene",163
+DOUGLAS,U.S. House,8,REP,"Emerson, Jo Ann",2316
+DOUGLAS,U.S. House,8,REP,"Kline, Richard Allen",518
+DOUGLAS,U.S. House,8,LIB,"Van Oostrom, Eric",9
+DOUGLAS,State Senate,20,DEM,"Kreider, Jim",173
+DOUGLAS,State Senate,20,REP,"Clemens, Dan",946
+DOUGLAS,State Senate,20,REP,"Nordquist, Gordon E.",435
+DOUGLAS,State Senate,20,REP,"Decker, Darrell",743
+DOUGLAS,State House,144,DEM,"Cooper, Charles B. Jr.",109
+DOUGLAS,State House,144,REP,"Kelly, Van",2557
+DUNKLIN,U.S. Senate,,DEM,"Carnahan, Jean",1488
+DUNKLIN,U.S. Senate,,DEM,"Day, Darrel D.",285
+DUNKLIN,U.S. Senate,,REP,"May, Joseph A.",53
+DUNKLIN,U.S. Senate,,REP,"Talent, Jim",986
+DUNKLIN,U.S. Senate,,REP,"Lindstedt, Martin",16
+DUNKLIN,U.S. Senate,,REP,"Babbitt, Scott Craig",19
+DUNKLIN,U.S. Senate,,REP,"Landfather, Doris Bass",31
+DUNKLIN,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+DUNKLIN,U.S. Senate,,LIB,"Millay, Tamara A.",1
+DUNKLIN,State Auditor,,DEM,"McCaskill, Claire",1368
+DUNKLIN,State Auditor,,REP,"Hanson, Al",556
+DUNKLIN,State Auditor,,REP,"Kanzler, Jay L. Jr.",266
+DUNKLIN,State Auditor,,LIB,"Trembley, Arnold J.",7
+DUNKLIN,U.S. House,8,DEM,"Curtis, Gene",1257
+DUNKLIN,U.S. House,8,REP,"Emerson, Jo Ann",1126
+DUNKLIN,U.S. House,8,REP,"Kline, Richard Allen",73
+DUNKLIN,U.S. House,8,LIB,"Van Oostrom, Eric",6
+DUNKLIN,State House,162,DEM,"Merideth, Denny",210
+DUNKLIN,State House,163,DEM,"Robinson, Brent",1267
+DUNKLIN,State House,163,REP,"Steward, Curtis W.",255
+DUNKLIN,State House,163,REP,"Bean, Otto Jr.",769
+FRANKLIN,U.S. Senate,,DEM,"Carnahan, Jean",5419
+FRANKLIN,U.S. Senate,,DEM,"Day, Darrel D.",777
+FRANKLIN,U.S. Senate,,REP,"May, Joseph A.",562
+FRANKLIN,U.S. Senate,,REP,"Talent, Jim",11615
+FRANKLIN,U.S. Senate,,REP,"Lindstedt, Martin",170
+FRANKLIN,U.S. Senate,,REP,"Babbitt, Scott Craig",190
+FRANKLIN,U.S. Senate,,REP,"Landfather, Doris Bass",427
+FRANKLIN,U.S. Senate,,LIB,"Manley, Edward Joseph III",36
+FRANKLIN,U.S. Senate,,LIB,"Millay, Tamara A.",34
+FRANKLIN,State Auditor,,DEM,"McCaskill, Claire",5345
+FRANKLIN,State Auditor,,REP,"Hanson, Al",7305
+FRANKLIN,State Auditor,,REP,"Kanzler, Jay L. Jr.",3101
+FRANKLIN,State Auditor,,LIB,"Trembley, Arnold J.",65
+FRANKLIN,U.S. House,9,DEM,"Deichman, Donald M. (Don)",4970
+FRANKLIN,U.S. House,9,REP,"Hulshof, Kenny C.",12097
+FRANKLIN,U.S. House,9,LIB,"Mruzik, John",64
+FRANKLIN,State Senate,26,DEM,"Meyer, Donald D.",4919
+FRANKLIN,State Senate,26,REP,"Banton, Stephen (Steve)",1418
+FRANKLIN,State Senate,26,REP,"Griesheimer, John E.",7477
+FRANKLIN,State Senate,26,REP,"Froelker, Jim",4263
+FRANKLIN,State House,98,DEM,"Herbst, Tom",1687
+FRANKLIN,State House,98,DEM,"Maune, Jeff",662
+FRANKLIN,State House,98,REP,"Bailey, Dave",1710
+FRANKLIN,State House,98,REP,"Nieves, Brian D.",2297
+FRANKLIN,State House,105,DEM,"Selby, Harold R.",454
+FRANKLIN,State House,109,DEM,"Scott, Gene",1229
+FRANKLIN,State House,109,REP,"Threlkeld, Kevin",3657
+FRANKLIN,State House,110,DEM,"Telle, Chuck",7
+FRANKLIN,State House,110,DEM,"Harris, Belinda",40
+FRANKLIN,State House,110,DEM,"Saunders, John",8
+FRANKLIN,State House,110,DEM,"Roland, Frank A. Jr.",11
+FRANKLIN,State House,110,REP,"Sayers, Connie",54
+FRANKLIN,State House,111,DEM,"Trokey, Bob",878
+FRANKLIN,State House,111,DEM,"Cooper, Jerry",526
+FRANKLIN,State House,111,REP,"Schlottach, Charles W.",1731
+FRANKLIN,State House,111,REP,"Hardy, J. T.",1724
+GASCONADE,U.S. Senate,,DEM,"Carnahan, Jean",478
+GASCONADE,U.S. Senate,,DEM,"Day, Darrel D.",63
+GASCONADE,U.S. Senate,,REP,"May, Joseph A.",108
+GASCONADE,U.S. Senate,,REP,"Talent, Jim",2216
+GASCONADE,U.S. Senate,,REP,"Lindstedt, Martin",33
+GASCONADE,U.S. Senate,,REP,"Babbitt, Scott Craig",25
+GASCONADE,U.S. Senate,,REP,"Landfather, Doris Bass",80
+GASCONADE,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+GASCONADE,U.S. Senate,,LIB,"Millay, Tamara A.",4
+GASCONADE,State Auditor,,DEM,"McCaskill, Claire",453
+GASCONADE,State Auditor,,REP,"Hanson, Al",1356
+GASCONADE,State Auditor,,REP,"Kanzler, Jay L. Jr.",585
+GASCONADE,State Auditor,,LIB,"Trembley, Arnold J.",8
+GASCONADE,U.S. House,9,DEM,"Deichman, Donald M. (Don)",423
+GASCONADE,U.S. House,9,REP,"Hulshof, Kenny C.",2298
+GASCONADE,U.S. House,9,LIB,"Mruzik, John",8
+GASCONADE,State Senate,16,DEM,"Ichord, Clara",411
+GASCONADE,State Senate,16,REP,"Steelman, Sarah",2248
+GASCONADE,State House,111,DEM,"Trokey, Bob",72
+GASCONADE,State House,111,DEM,"Cooper, Jerry",49
+GASCONADE,State House,111,REP,"Schlottach, Charles W.",526
+GASCONADE,State House,111,REP,"Hardy, J. T.",229
+GASCONADE,State House,112,DEM,"Tramel, Tom",148
+GASCONADE,State House,112,DEM,"Neuner, Debra (Debi) L.",194
+GASCONADE,State House,112,REP,"Loehner, Tom",408
+GASCONADE,State House,112,REP,"Townley, Merrill",1098
+GASCONADE,State House,112,REP,"Miller, Judy L.",265
+GENTRY,U.S. Senate,,DEM,"Carnahan, Jean",1144
+GENTRY,U.S. Senate,,DEM,"Day, Darrel D.",447
+GENTRY,U.S. Senate,,REP,"May, Joseph A.",20
+GENTRY,U.S. Senate,,REP,"Talent, Jim",364
+GENTRY,U.S. Senate,,REP,"Lindstedt, Martin",6
+GENTRY,U.S. Senate,,REP,"Babbitt, Scott Craig",1
+GENTRY,U.S. Senate,,REP,"Landfather, Doris Bass",9
+GENTRY,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+GENTRY,U.S. Senate,,LIB,"Millay, Tamara A.",0
+GENTRY,State Auditor,,DEM,"McCaskill, Claire",1213
+GENTRY,State Auditor,,REP,"Hanson, Al",271
+GENTRY,State Auditor,,REP,"Kanzler, Jay L. Jr.",83
+GENTRY,State Auditor,,LIB,"Trembley, Arnold J.",0
+GENTRY,U.S. House,6,DEM,"Rinehart, Cathy",759
+GENTRY,U.S. House,6,DEM,"Mitchell, Ed",312
+GENTRY,U.S. House,6,DEM,"Gilstrap, David P.",202
+GENTRY,U.S. House,6,REP,"Graves, Sam",397
+GENTRY,U.S. House,6,LIB,"Buck, Erik",0
+GENTRY,State Senate,12,REP,"Klindt, David G.",372
+GENTRY,State House,3,DEM,"Whorton, Jim",239
+GENTRY,State House,3,REP,"Moulthrop, Roscoe E.",78
+GENTRY,State House,5,DEM,"Wright, Jeff",352
+GENTRY,State House,5,DEM,"Waltemath, Mike",899
+GENTRY,State House,5,REP,"Guest, Jim",274
+GREENE,U.S. Senate,,DEM,"Carnahan, Jean",10165
+GREENE,U.S. Senate,,DEM,"Day, Darrel D.",1221
+GREENE,U.S. Senate,,REP,"May, Joseph A.",869
+GREENE,U.S. Senate,,REP,"Talent, Jim",19642
+GREENE,U.S. Senate,,REP,"Lindstedt, Martin",284
+GREENE,U.S. Senate,,REP,"Babbitt, Scott Craig",391
+GREENE,U.S. Senate,,REP,"Landfather, Doris Bass",571
+GREENE,U.S. Senate,,LIB,"Manley, Edward Joseph III",62
+GREENE,U.S. Senate,,LIB,"Millay, Tamara A.",113
+GREENE,State Auditor,,DEM,"McCaskill, Claire",9761
+GREENE,State Auditor,,REP,"Hanson, Al",11213
+GREENE,State Auditor,,REP,"Kanzler, Jay L. Jr.",5947
+GREENE,State Auditor,,LIB,"Trembley, Arnold J.",167
+GREENE,U.S. House,7,DEM,"Lapham, Ron",9273
+GREENE,U.S. House,7,REP,"Blunt, Roy",20765
+GREENE,U.S. House,7,LIB,"Burlison, Doug",169
+GREENE,State Senate,20,DEM,"Kreider, Jim",3108
+GREENE,State Senate,20,REP,"Clemens, Dan",3526
+GREENE,State Senate,20,REP,"Nordquist, Gordon E.",1439
+GREENE,State Senate,20,REP,"Decker, Darrell",3789
+GREENE,State Senate,30,DEM,"Hosmer, Craig",6969
+GREENE,State Senate,30,REP,"Champion, Norma (Aunt Norma)",10751
+GREENE,State House,134,DEM,"Booth, James",1281
+GREENE,State House,134,REP,"Mark, Ron",1340
+GREENE,State House,134,REP,"Viebrock, James",1551
+GREENE,State House,134,REP,"Collins, Jim",1002
+GREENE,State House,135,DEM,"Smith, Syd",1726
+GREENE,State House,135,REP,"Holand, Roy W.",4041
+GREENE,State House,136,REP,"Marsh, B. J.",2370
+GREENE,State House,137,DEM,"Norr, Charlie",876
+GREENE,State House,137,REP,"Wright, Mark",1155
+GREENE,State House,137,LIB,"Davis, Christopher",32
+GREENE,State House,138,DEM,"Lee, Jim",1084
+GREENE,State House,138,DEM,"Eagleburger, Len",647
+GREENE,State House,138,REP,"Morris, Larry",2056
+GREENE,State House,139,DEM,"Locke, Eldon D. Jr.",1504
+GREENE,State House,139,REP,"Roark, Brad",3193
+GREENE,State House,140,DEM,"Horton, Christiaan",1159
+GREENE,State House,140,REP,"Slemp, Jeff",810
+GREENE,State House,140,REP,"Dixon, Bob",2773
+GREENE,State House,145,DEM,"Watson, Patricia",96
+GREENE,State House,145,DEM,"Wommack, Ken G.",68
+GREENE,State House,145,REP,"Myers, Martha",36
+GREENE,State House,145,REP,"Cunningham, Mike",176
+GREENE,State House,145,REP,"Mackie, Keith R.",80
+GREENE,Circuit Judge  Circuit 31 Division 2,,REP,"Sweeney, J. Miles",18457
+GRUNDY,U.S. Senate,,DEM,"Carnahan, Jean",351
+GRUNDY,U.S. Senate,,DEM,"Day, Darrel D.",58
+GRUNDY,U.S. Senate,,REP,"May, Joseph A.",105
+GRUNDY,U.S. Senate,,REP,"Talent, Jim",1565
+GRUNDY,U.S. Senate,,REP,"Lindstedt, Martin",34
+GRUNDY,U.S. Senate,,REP,"Babbitt, Scott Craig",43
+GRUNDY,U.S. Senate,,REP,"Landfather, Doris Bass",87
+GRUNDY,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+GRUNDY,U.S. Senate,,LIB,"Millay, Tamara A.",4
+GRUNDY,State Auditor,,DEM,"McCaskill, Claire",360
+GRUNDY,State Auditor,,REP,"Hanson, Al",1000
+GRUNDY,State Auditor,,REP,"Kanzler, Jay L. Jr.",465
+GRUNDY,State Auditor,,LIB,"Trembley, Arnold J.",8
+GRUNDY,U.S. House,6,DEM,"Rinehart, Cathy",197
+GRUNDY,U.S. House,6,DEM,"Mitchell, Ed",73
+GRUNDY,U.S. House,6,DEM,"Gilstrap, David P.",83
+GRUNDY,U.S. House,6,REP,"Graves, Sam",1788
+GRUNDY,U.S. House,6,LIB,"Buck, Erik",8
+GRUNDY,State Senate,12,REP,"Klindt, David G.",1799
+GRUNDY,State House,3,DEM,"Whorton, Jim",405
+GRUNDY,State House,3,REP,"Moulthrop, Roscoe E.",1396
+HARRISON,U.S. Senate,,DEM,"Carnahan, Jean",302
+HARRISON,U.S. Senate,,DEM,"Day, Darrel D.",41
+HARRISON,U.S. Senate,,REP,"May, Joseph A.",122
+HARRISON,U.S. Senate,,REP,"Talent, Jim",1636
+HARRISON,U.S. Senate,,REP,"Lindstedt, Martin",36
+HARRISON,U.S. Senate,,REP,"Babbitt, Scott Craig",81
+HARRISON,U.S. Senate,,REP,"Landfather, Doris Bass",93
+HARRISON,U.S. Senate,,LIB,"Manley, Edward Joseph III",4
+HARRISON,U.S. Senate,,LIB,"Millay, Tamara A.",7
+HARRISON,State Auditor,,DEM,"McCaskill, Claire",293
+HARRISON,State Auditor,,REP,"Hanson, Al",1134
+HARRISON,State Auditor,,REP,"Kanzler, Jay L. Jr.",439
+HARRISON,State Auditor,,LIB,"Trembley, Arnold J.",8
+HARRISON,U.S. House,6,DEM,"Rinehart, Cathy",204
+HARRISON,U.S. House,6,DEM,"Mitchell, Ed",57
+HARRISON,U.S. House,6,DEM,"Gilstrap, David P.",37
+HARRISON,U.S. House,6,REP,"Graves, Sam",1949
+HARRISON,U.S. House,6,LIB,"Buck, Erik",11
+HARRISON,State Senate,12,REP,"Klindt, David G.",1947
+HARRISON,State House,3,DEM,"Whorton, Jim",309
+HARRISON,State House,3,REP,"Moulthrop, Roscoe E.",1745
+HENRY,U.S. Senate,,DEM,"Carnahan, Jean",3418
+HENRY,U.S. Senate,,DEM,"Day, Darrel D.",1072
+HENRY,U.S. Senate,,REP,"May, Joseph A.",54
+HENRY,U.S. Senate,,REP,"Talent, Jim",1265
+HENRY,U.S. Senate,,REP,"Lindstedt, Martin",16
+HENRY,U.S. Senate,,REP,"Babbitt, Scott Craig",35
+HENRY,U.S. Senate,,REP,"Landfather, Doris Bass",42
+HENRY,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+HENRY,U.S. Senate,,LIB,"Millay, Tamara A.",5
+HENRY,State Auditor,,DEM,"McCaskill, Claire",3717
+HENRY,State Auditor,,REP,"Hanson, Al",809
+HENRY,State Auditor,,REP,"Kanzler, Jay L. Jr.",326
+HENRY,State Auditor,,LIB,"Trembley, Arnold J.",5
+HENRY,U.S. House,4,DEM,"Skelton, Ike",4084
+HENRY,U.S. House,4,REP,"Noland, James A. (Jim)",741
+HENRY,U.S. House,4,REP,"Liffick, Chuck",96
+HENRY,U.S. House,4,REP,"Brown, Bob",333
+HENRY,U.S. House,4,LIB,"Nelson, Daniel Roy",5
+HENRY,State Senate,28,DEM,"Meyer, Richard",1796
+HENRY,State Senate,28,DEM,"Johnson, Catherine D.",2072
+HENRY,State Senate,28,REP,"Scott, Delbert L.",1047
+HENRY,State Senate,28,REP,"Boatright, Matt",347
+HENRY,State Senate,28,LIB,"Watson, Jesse O.",5
+HENRY,State House,120,REP,"Cooper, Shannon",1371
+HICKORY,U.S. Senate,,DEM,"Carnahan, Jean",557
+HICKORY,U.S. Senate,,DEM,"Day, Darrel D.",71
+HICKORY,U.S. Senate,,REP,"May, Joseph A.",98
+HICKORY,U.S. Senate,,REP,"Talent, Jim",1608
+HICKORY,U.S. Senate,,REP,"Lindstedt, Martin",45
+HICKORY,U.S. Senate,,REP,"Babbitt, Scott Craig",69
+HICKORY,U.S. Senate,,REP,"Landfather, Doris Bass",122
+HICKORY,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+HICKORY,U.S. Senate,,LIB,"Millay, Tamara A.",3
+HICKORY,State Auditor,,DEM,"McCaskill, Claire",557
+HICKORY,State Auditor,,REP,"Hanson, Al",1066
+HICKORY,State Auditor,,REP,"Kanzler, Jay L. Jr.",521
+HICKORY,State Auditor,,LIB,"Trembley, Arnold J.",8
+HICKORY,U.S. House,4,DEM,"Skelton, Ike",577
+HICKORY,U.S. House,4,REP,"Noland, James A. (Jim)",1122
+HICKORY,U.S. House,4,REP,"Liffick, Chuck",208
+HICKORY,U.S. House,4,REP,"Brown, Bob",472
+HICKORY,U.S. House,4,LIB,"Nelson, Daniel Roy",9
+HICKORY,State Senate,28,DEM,"Meyer, Richard",262
+HICKORY,State Senate,28,DEM,"Johnson, Catherine D.",306
+HICKORY,State Senate,28,REP,"Scott, Delbert L.",1832
+HICKORY,State Senate,28,REP,"Boatright, Matt",247
+HICKORY,State Senate,28,LIB,"Watson, Jesse O.",8
+HICKORY,State House,119,DEM,"Keith, Clifford",526
+HICKORY,State House,119,REP,"Ainley, Brian",308
+HICKORY,State House,119,REP,"Wilson, Larry D.",1378
+HICKORY,State House,119,REP,"Walker, Pamela S.",389
+HOLT,U.S. Senate,,DEM,"Carnahan, Jean",275
+HOLT,U.S. Senate,,DEM,"Day, Darrel D.",55
+HOLT,U.S. Senate,,REP,"May, Joseph A.",90
+HOLT,U.S. Senate,,REP,"Talent, Jim",669
+HOLT,U.S. Senate,,REP,"Lindstedt, Martin",5
+HOLT,U.S. Senate,,REP,"Babbitt, Scott Craig",12
+HOLT,U.S. Senate,,REP,"Landfather, Doris Bass",13
+HOLT,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+HOLT,U.S. Senate,,LIB,"Millay, Tamara A.",2
+HOLT,State Auditor,,DEM,"McCaskill, Claire",255
+HOLT,State Auditor,,REP,"Hanson, Al",430
+HOLT,State Auditor,,REP,"Kanzler, Jay L. Jr.",218
+HOLT,State Auditor,,LIB,"Trembley, Arnold J.",3
+HOLT,U.S. House,6,DEM,"Rinehart, Cathy",161
+HOLT,U.S. House,6,DEM,"Mitchell, Ed",70
+HOLT,U.S. House,6,DEM,"Gilstrap, David P.",56
+HOLT,U.S. House,6,REP,"Graves, Sam",776
+HOLT,U.S. House,6,LIB,"Buck, Erik",3
+HOLT,State Senate,12,REP,"Klindt, David G.",709
+HOLT,State House,4,DEM,"Dougan, Larry",257
+HOLT,State House,4,DEM,"Ritterbusch, Robert L.",58
+HOLT,State House,4,REP,"Lager, Brad",543
+HOLT,State House,4,REP,"Dunn, Christopher",49
+HOLT,State House,4,REP,"May, Leland",203
+HOWARD,U.S. Senate,,DEM,"Carnahan, Jean",1702
+HOWARD,U.S. Senate,,DEM,"Day, Darrel D.",675
+HOWARD,U.S. Senate,,REP,"May, Joseph A.",13
+HOWARD,U.S. Senate,,REP,"Talent, Jim",368
+HOWARD,U.S. Senate,,REP,"Lindstedt, Martin",1
+HOWARD,U.S. Senate,,REP,"Babbitt, Scott Craig",7
+HOWARD,U.S. Senate,,REP,"Landfather, Doris Bass",9
+HOWARD,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+HOWARD,U.S. Senate,,LIB,"Millay, Tamara A.",2
+HOWARD,State Auditor,,DEM,"McCaskill, Claire",1925
+HOWARD,State Auditor,,REP,"Hanson, Al",209
+HOWARD,State Auditor,,REP,"Kanzler, Jay L. Jr.",119
+HOWARD,State Auditor,,LIB,"Trembley, Arnold J.",3
+HOWARD,U.S. House,6,DEM,"Rinehart, Cathy",1119
+HOWARD,U.S. House,6,DEM,"Mitchell, Ed",482
+HOWARD,U.S. House,6,DEM,"Gilstrap, David P.",285
+HOWARD,U.S. House,6,REP,"Graves, Sam",370
+HOWARD,U.S. House,6,LIB,"Buck, Erik",3
+HOWARD,State House,9,DEM,"Shoemyer, Wes",1953
+HOWARD,State House,9,REP,"Hedberg, Jeff",345
+HOWARD,State House,9,LIB,"Schultz, John",3
+HOWELL,U.S. Senate,,DEM,"Carnahan, Jean",946
+HOWELL,U.S. Senate,,DEM,"Day, Darrel D.",93
+HOWELL,U.S. Senate,,REP,"May, Joseph A.",183
+HOWELL,U.S. Senate,,REP,"Talent, Jim",3893
+HOWELL,U.S. Senate,,REP,"Lindstedt, Martin",64
+HOWELL,U.S. Senate,,REP,"Babbitt, Scott Craig",108
+HOWELL,U.S. Senate,,REP,"Landfather, Doris Bass",206
+HOWELL,U.S. Senate,,LIB,"Manley, Edward Joseph III",10
+HOWELL,U.S. Senate,,LIB,"Millay, Tamara A.",13
+HOWELL,State Auditor,,DEM,"McCaskill, Claire",852
+HOWELL,State Auditor,,REP,"Hanson, Al",2393
+HOWELL,State Auditor,,REP,"Kanzler, Jay L. Jr.",1097
+HOWELL,State Auditor,,LIB,"Trembley, Arnold J.",21
+HOWELL,U.S. House,8,DEM,"Curtis, Gene",836
+HOWELL,U.S. House,8,REP,"Emerson, Jo Ann",4017
+HOWELL,U.S. House,8,REP,"Kline, Richard Allen",593
+HOWELL,U.S. House,8,LIB,"Van Oostrom, Eric",20
+HOWELL,State House,143,REP,"Lind, Mike",119
+HOWELL,State House,143,REP,"Vaught, Randall R.",35
+HOWELL,State House,143,REP,"Still, J. Wendell",8
+HOWELL,State House,143,REP,"Henegar, Barbara",112
+HOWELL,State House,143,REP,"Stillings, Linda",12
+HOWELL,State House,143,REP,"Griffin, Patricia A.",13
+HOWELL,State House,143,REP,"Wallace, Maynard",31
+HOWELL,State House,151,REP,"Purgason, Chuck",4009
+IRON,U.S. Senate,,DEM,"Carnahan, Jean",1474
+IRON,U.S. Senate,,DEM,"Day, Darrel D.",481
+IRON,U.S. Senate,,REP,"May, Joseph A.",3
+IRON,U.S. Senate,,REP,"Talent, Jim",241
+IRON,U.S. Senate,,REP,"Lindstedt, Martin",6
+IRON,U.S. Senate,,REP,"Babbitt, Scott Craig",2
+IRON,U.S. Senate,,REP,"Landfather, Doris Bass",5
+IRON,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+IRON,U.S. Senate,,LIB,"Millay, Tamara A.",2
+IRON,State Auditor,,DEM,"McCaskill, Claire",1512
+IRON,State Auditor,,REP,"Hanson, Al",152
+IRON,State Auditor,,REP,"Kanzler, Jay L. Jr.",73
+IRON,State Auditor,,LIB,"Trembley, Arnold J.",3
+IRON,U.S. House,8,DEM,"Curtis, Gene",1347
+IRON,U.S. House,8,REP,"Emerson, Jo Ann",233
+IRON,U.S. House,8,REP,"Kline, Richard Allen",26
+IRON,U.S. House,8,LIB,"Van Oostrom, Eric",3
+IRON,State House,152,DEM,"Scaggs, Jim",775
+IRON,State House,152,DEM,"Van Steenis, Shane",133
+IRON,State House,152,DEM,"Jones, Mark M.",663
+IRON,State House,152,DEM,"Kuessner, J. C.",260
+IRON,State House,152,DEM,"Boyer, Joe",26
+IRON,State House,152,DEM,"Slover, Steve",8
+IRON,State House,152,DEM,"Weber, Winnie P. Faulkenberry",177
+IRON,State House,152,REP,"Dennison, Gale",109
+IRON,State House,152,REP,"Masters, Roy L.",115
+IRON,State House,152,LIB,"Mecey, David F.",3
+IRON,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1498
+JACKSON,U.S. Senate,,DEM,"Carnahan, Jean",20553
+JACKSON,U.S. Senate,,DEM,"Day, Darrel D.",2695
+JACKSON,U.S. Senate,,REP,"May, Joseph A.",1387
+JACKSON,U.S. Senate,,REP,"Talent, Jim",22980
+JACKSON,U.S. Senate,,REP,"Lindstedt, Martin",362
+JACKSON,U.S. Senate,,REP,"Babbitt, Scott Craig",439
+JACKSON,U.S. Senate,,REP,"Landfather, Doris Bass",823
+JACKSON,U.S. Senate,,LIB,"Manley, Edward Joseph III",98
+JACKSON,U.S. Senate,,LIB,"Millay, Tamara A.",118
+JACKSON,State Auditor,,DEM,"McCaskill, Claire",21263
+JACKSON,State Auditor,,REP,"Hanson, Al",14450
+JACKSON,State Auditor,,REP,"Kanzler, Jay L. Jr.",7025
+JACKSON,State Auditor,,LIB,"Trembley, Arnold J.",209
+JACKSON,U.S. House,4,DEM,"Skelton, Ike",1103
+JACKSON,U.S. House,4,REP,"Noland, James A. (Jim)",808
+JACKSON,U.S. House,4,REP,"Liffick, Chuck",126
+JACKSON,U.S. House,4,REP,"Brown, Bob",300
+JACKSON,U.S. House,4,LIB,"Nelson, Daniel Roy",7
+JACKSON,U.S. House,5,DEM,"McCarthy, Karen",15714
+JACKSON,U.S. House,5,DEM,"Lindsey, Charles",2789
+JACKSON,U.S. House,5,REP,"Southworth, Chet",2712
+JACKSON,U.S. House,5,REP,"Gordon, Steve",5240
+JACKSON,U.S. House,5,REP,"ZapienPina, Annalisa",993
+JACKSON,U.S. House,5,REP,"Harris, Ronald (Ron)",5099
+JACKSON,U.S. House,5,REP,"Lea, Joyce P.",1903
+JACKSON,U.S. House,5,LIB,"Bojarski, Jeanne",178
+JACKSON,U.S. House,6,DEM,"Rinehart, Cathy",1945
+JACKSON,U.S. House,6,DEM,"Mitchell, Ed",541
+JACKSON,U.S. House,6,DEM,"Gilstrap, David P.",302
+JACKSON,U.S. House,6,REP,"Graves, Sam",5146
+JACKSON,U.S. House,6,LIB,"Buck, Erik",30
+JACKSON,State Senate,8,DEM,"Dotson, Bruce",7680
+JACKSON,State Senate,8,REP,"Bartle, Matt",9082
+JACKSON,State Senate,8,REP,"Ross, Carson",7907
+JACKSON,State Senate,10,DEM,"Rizzo, Henry C.",822
+JACKSON,State Senate,10,DEM,"Wheeler, Charles B.",595
+JACKSON,State Senate,10,DEM,"Dice, Suellen",120
+JACKSON,State House,41,DEM,"Curls, Melba J.",170
+JACKSON,State House,42,DEM,"Wilson, Yvonne S.",100
+JACKSON,State House,43,DEM,"Bland, Craig C.",444
+JACKSON,State House,45,DEM,"Jolly, Cathy",345
+JACKSON,State House,45,REP,"Brown, James Gregory",78
+JACKSON,State House,45,REP,"Amerine, Gary C.",67
+JACKSON,State House,45,REP,"Moorhead, Derek",81
+JACKSON,State House,46,DEM,"Curls, Darrell",799
+JACKSON,State House,46,DEM,"Meiners, Kate",465
+JACKSON,State House,46,REP,"Mounts, M. J. (Jerry) Jr.",775
+JACKSON,State House,47,DEM,"Haley, Tom",1383
+JACKSON,State House,47,REP,"Johnson, Robert Thane (Bob)",2417
+JACKSON,State House,48,DEM,"Sager, Mike",1600
+JACKSON,State House,48,REP,"Gough, Bob",2093
+JACKSON,State House,48,LIB,"Bates, William M. II",18
+JACKSON,State House,49,DEM,"Young, Terry",2312
+JACKSON,State House,49,REP,"Eppert, John W. III",833
+JACKSON,State House,49,REP,"Aziere, Jim",1091
+JACKSON,State House,51,DEM,"Salva, Ray",1532
+JACKSON,State House,51,DEM,"Maness, Bill",1173
+JACKSON,State House,51,REP,"Anway, David",1052
+JACKSON,State House,51,LIB,"Palmer, Gene",17
+JACKSON,State House,52,DEM,"Helms, Tom",763
+JACKSON,State House,52,DEM,"Kelley, Sharon Gibson",539
+JACKSON,State House,52,DEM,"LeVota, Paul",1770
+JACKSON,State House,52,REP,"Torpey, Noel",1451
+JACKSON,State House,52,REP,"Eyerly, David",469
+JACKSON,State House,52,REP,"Johann, Todd E.",949
+JACKSON,State House,53,DEM,"Hatridge, Douglas",1388
+JACKSON,State House,53,DEM,"Dougherty, Curt",1420
+JACKSON,State House,53,REP,"McClatchey, Stan",1474
+JACKSON,State House,53,LIB,"Kuefel, Mark W",19
+JACKSON,State House,54,DEM,"Leavitt, Troy",1722
+JACKSON,State House,54,REP,"Dusenberg, Gary",2801
+JACKSON,State House,55,DEM,"Ultican, Lanna",887
+JACKSON,State House,55,DEM,"McGregor, Neal L.",1032
+JACKSON,State House,55,REP,"Pratt, Bryan",2587
+JACKSON,State House,56,DEM,"Heistand, Harry James",1492
+JACKSON,State House,56,REP,"Glaser, Bob",1640
+JACKSON,State House,56,REP,"Yates, Brian",2971
+JASPER,U.S. Senate,,DEM,"Carnahan, Jean",1957
+JASPER,U.S. Senate,,DEM,"Day, Darrel D.",367
+JASPER,U.S. Senate,,REP,"May, Joseph A.",456
+JASPER,U.S. Senate,,REP,"Talent, Jim",11552
+JASPER,U.S. Senate,,REP,"Lindstedt, Martin",228
+JASPER,U.S. Senate,,REP,"Babbitt, Scott Craig",310
+JASPER,U.S. Senate,,REP,"Landfather, Doris Bass",514
+JASPER,U.S. Senate,,LIB,"Manley, Edward Joseph III",13
+JASPER,U.S. Senate,,LIB,"Millay, Tamara A.",23
+JASPER,State Auditor,,DEM,"McCaskill, Claire",1988
+JASPER,State Auditor,,REP,"Hanson, Al",7052
+JASPER,State Auditor,,REP,"Kanzler, Jay L. Jr.",3708
+JASPER,State Auditor,,LIB,"Trembley, Arnold J.",35
+JASPER,U.S. House,7,DEM,"Lapham, Ron",1937
+JASPER,U.S. House,7,REP,"Blunt, Roy",12252
+JASPER,U.S. House,7,LIB,"Burlison, Doug",36
+JASPER,State Senate,32,REP,"Gaskill, Sam",1589
+JASPER,State Senate,32,REP,"Nodler, Gary",4051
+JASPER,State Senate,32,REP,"Burton, Gary",5644
+JASPER,State Senate,32,REP,"Hohulin, Martin (Bubs)",2259
+JASPER,State House,126,DEM,"Sprouls, Douglas J.",156
+JASPER,State House,126,REP,"Bartosh, Joe",681
+JASPER,State House,126,REP,"Emery, Ed",452
+JASPER,State House,126,REP,"Gardner, Scott",93
+JASPER,State House,126,REP,"O'Connor, Bob",86
+JASPER,State House,127,DEM,"Daniels, Steve",568
+JASPER,State House,127,REP,"Hunter, Steve",4334
+JASPER,State House,128,REP,"Stevenson, Bryan P.",2264
+JASPER,State House,128,REP,"Goetz, Don",2198
+JASPER,State House,129,DEM,"Coombes, Fred E.",573
+JASPER,State House,129,REP,"Richard, Ron",1845
+JASPER,State House,129,REP,"Duff, Edward",647
+JASPER,State House,129,LIB,"Stults, Jack L.",14
+JEFFERSON,U.S. Senate,,DEM,"Carnahan, Jean",13231
+JEFFERSON,U.S. Senate,,DEM,"Day, Darrel D.",4489
+JEFFERSON,U.S. Senate,,REP,"May, Joseph A.",225
+JEFFERSON,U.S. Senate,,REP,"Talent, Jim",7252
+JEFFERSON,U.S. Senate,,REP,"Lindstedt, Martin",65
+JEFFERSON,U.S. Senate,,REP,"Babbitt, Scott Craig",79
+JEFFERSON,U.S. Senate,,REP,"Landfather, Doris Bass",161
+JEFFERSON,U.S. Senate,,LIB,"Manley, Edward Joseph III",57
+JEFFERSON,U.S. Senate,,LIB,"Millay, Tamara A.",83
+JEFFERSON,State Auditor,,DEM,"McCaskill, Claire",14627
+JEFFERSON,State Auditor,,REP,"Hanson, Al",4109
+JEFFERSON,State Auditor,,REP,"Kanzler, Jay L. Jr.",2381
+JEFFERSON,State Auditor,,LIB,"Trembley, Arnold J.",133
+JEFFERSON,U.S. House,3,DEM,"Bram, Michael",5661
+JEFFERSON,U.S. House,3,DEM,"Gephardt, Richard A.",11955
+JEFFERSON,U.S. House,3,REP,"Steger, Mike",3430
+JEFFERSON,U.S. House,3,REP,"Enz, Catherine S.",3394
+JEFFERSON,U.S. House,3,LIB,"Byington, Daniel (Dan)",139
+JEFFERSON,State Senate,22,DEM,"Stoll, Steve",11223
+JEFFERSON,State Senate,22,REP,"Engelbach, George (Bob)",5257
+JEFFERSON,State House,90,DEM,"Snyder, Ronald L.",340
+JEFFERSON,State House,90,DEM,"Johnson, Richard K. (Rick)",1460
+JEFFERSON,State House,90,REP,"Bronson, Richard (Dick)",972
+JEFFERSON,State House,101,DEM,"Adams, Ray",2137
+JEFFERSON,State House,101,REP,"Wieland, Don",1167
+JEFFERSON,State House,102,DEM,"McKenna, Ryan Glennon",2095
+JEFFERSON,State House,103,DEM,"Abel, Mark C.",3459
+JEFFERSON,State House,103,REP,"Weir, John F. Jr.",1052
+JEFFERSON,State House,104,DEM,"Wagner, Wes",1953
+JEFFERSON,State House,105,DEM,"Selby, Harold R.",1716
+JEFFERSON,State House,110,DEM,"Telle, Chuck",546
+JEFFERSON,State House,110,DEM,"Harris, Belinda",1158
+JEFFERSON,State House,110,DEM,"Saunders, John",168
+JEFFERSON,State House,110,DEM,"Roland, Frank A. Jr.",899
+JEFFERSON,State House,110,REP,"Sayers, Connie",493
+JEFFERSON,Circuit Judge  Circuit 23 Division 2,,DEM,"Kramer, Gary P.",11488
+JOHNSON,U.S. Senate,,DEM,"Carnahan, Jean",2429
+JOHNSON,U.S. Senate,,DEM,"Day, Darrel D.",410
+JOHNSON,U.S. Senate,,REP,"May, Joseph A.",124
+JOHNSON,U.S. Senate,,REP,"Talent, Jim",2794
+JOHNSON,U.S. Senate,,REP,"Lindstedt, Martin",57
+JOHNSON,U.S. Senate,,REP,"Babbitt, Scott Craig",48
+JOHNSON,U.S. Senate,,REP,"Landfather, Doris Bass",145
+JOHNSON,U.S. Senate,,LIB,"Manley, Edward Joseph III",24
+JOHNSON,U.S. Senate,,LIB,"Millay, Tamara A.",32
+JOHNSON,State Auditor,,DEM,"McCaskill, Claire",2557
+JOHNSON,State Auditor,,REP,"Hanson, Al",1853
+JOHNSON,State Auditor,,REP,"Kanzler, Jay L. Jr.",822
+JOHNSON,State Auditor,,LIB,"Trembley, Arnold J.",53
+JOHNSON,U.S. House,4,DEM,"Skelton, Ike",2627
+JOHNSON,U.S. House,4,REP,"Noland, James A. (Jim)",2062
+JOHNSON,U.S. House,4,REP,"Liffick, Chuck",221
+JOHNSON,U.S. House,4,REP,"Brown, Bob",523
+JOHNSON,U.S. House,4,LIB,"Nelson, Daniel Roy",55
+JOHNSON,State House,120,REP,"Cooper, Shannon",445
+JOHNSON,State House,121,DEM,"Jackson, Jim",1501
+JOHNSON,State House,121,REP,"Pearce, David",1802
+JOHNSON,State House,122,DEM,"Davis, D. J.",562
+JOHNSON,State House,122,REP,"Sparks, David A.",581
+JOHNSON,U.S. Senate,,DEM,"Carnahan, Jean",21776
+JOHNSON,U.S. Senate,,DEM,"Day, Darrel D.",2430
+JOHNSON,U.S. Senate,,REP,"May, Joseph A.",357
+JOHNSON,U.S. Senate,,REP,"Talent, Jim",6549
+JOHNSON,U.S. Senate,,REP,"Lindstedt, Martin",120
+JOHNSON,U.S. Senate,,REP,"Babbitt, Scott Craig",133
+JOHNSON,U.S. Senate,,REP,"Landfather, Doris Bass",252
+JOHNSON,U.S. Senate,,LIB,"Manley, Edward Joseph III",65
+JOHNSON,U.S. Senate,,LIB,"Millay, Tamara A.",114
+JOHNSON,State Auditor,,DEM,"McCaskill, Claire",22055
+JOHNSON,State Auditor,,REP,"Hanson, Al",3894
+JOHNSON,State Auditor,,REP,"Kanzler, Jay L. Jr.",2239
+JOHNSON,State Auditor,,LIB,"Trembley, Arnold J.",173
+JOHNSON,U.S. House,5,DEM,"McCarthy, Karen",21953
+JOHNSON,U.S. House,5,DEM,"Lindsey, Charles",3022
+JOHNSON,U.S. House,5,REP,"Southworth, Chet",1047
+JOHNSON,U.S. House,5,REP,"Gordon, Steve",2196
+JOHNSON,U.S. House,5,REP,"ZapienPina, Annalisa",489
+JOHNSON,U.S. House,5,REP,"Harris, Ronald (Ron)",1828
+JOHNSON,U.S. House,5,REP,"Lea, Joyce P.",740
+JOHNSON,U.S. House,5,LIB,"Bojarski, Jeanne",178
+JOHNSON,State Senate,8,DEM,"Dotson, Bruce",59
+JOHNSON,State Senate,8,REP,"Bartle, Matt",76
+JOHNSON,State Senate,8,REP,"Ross, Carson",30
+JOHNSON,State Senate,10,DEM,"Rizzo, Henry C.",5718
+JOHNSON,State Senate,10,DEM,"Wheeler, Charles B.",7153
+JOHNSON,State Senate,10,DEM,"Dice, Suellen",1622
+JOHNSON,State House,37,DEM,"Brooks, Sharon Sanders",1797
+JOHNSON,State House,39,DEM,"Norman, Terry L.",1712
+JOHNSON,State House,39,DEM,"Campbell, Marsha",2367
+JOHNSON,State House,40,DEM,"Burnett, John Patrick",1333
+JOHNSON,State House,41,DEM,"Curls, Melba J.",1266
+JOHNSON,State House,42,DEM,"Wilson, Yvonne S.",1701
+JOHNSON,State House,43,DEM,"Bland, Craig C.",1513
+JOHNSON,State House,44,DEM,"Lowe, Jenee",3312
+JOHNSON,State House,45,DEM,"Jolly, Cathy",2551
+JOHNSON,State House,45,REP,"Brown, James Gregory",454
+JOHNSON,State House,45,REP,"Amerine, Gary C.",328
+JOHNSON,State House,45,REP,"Moorhead, Derek",429
+JOHNSON,State House,46,DEM,"Curls, Darrell",689
+JOHNSON,State House,46,DEM,"Meiners, Kate",1165
+JOHNSON,State House,46,REP,"Mounts, M. J. (Jerry) Jr.",706
+JOHNSON,State House,48,DEM,"Sager, Mike",426
+JOHNSON,State House,48,REP,"Gough, Bob",256
+JOHNSON,State House,48,LIB,"Bates, William M. II",3
+JOHNSON,State House,49,DEM,"Young, Terry",410
+JOHNSON,State House,49,REP,"Eppert, John W. III",111
+JOHNSON,State House,49,REP,"Aziere, Jim",263
+JOHNSON,State House,50,DEM,"Walker, Vicki",1147
+JOHNSON,State House,50,DEM,"Brown, Michael Ricardo",991
+JOHNSON,State House,50,DEM,"Harrington, Art R.",83
+JOHNSON,State House,50,REP,"Ort, Michael",537
+JOHNSON,State House,51,DEM,"Salva, Ray",19
+JOHNSON,State House,51,DEM,"Maness, Bill",35
+JOHNSON,State House,51,REP,"Anway, David",8
+JOHNSON,State House,51,LIB,"Palmer, Gene",0
+JOHNSON,State House,52,DEM,"Helms, Tom",110
+JOHNSON,State House,52,DEM,"Kelley, Sharon Gibson",97
+JOHNSON,State House,52,DEM,"LeVota, Paul",189
+JOHNSON,State House,52,REP,"Torpey, Noel",85
+JOHNSON,State House,52,REP,"Eyerly, David",103
+JOHNSON,State House,52,REP,"Johann, Todd E.",132
+KNOX,U.S. Senate,,DEM,"Carnahan, Jean",398
+KNOX,U.S. Senate,,DEM,"Day, Darrel D.",67
+KNOX,U.S. Senate,,REP,"May, Joseph A.",10
+KNOX,U.S. Senate,,REP,"Talent, Jim",365
+KNOX,U.S. Senate,,REP,"Lindstedt, Martin",9
+KNOX,U.S. Senate,,REP,"Babbitt, Scott Craig",2
+KNOX,U.S. Senate,,REP,"Landfather, Doris Bass",5
+KNOX,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+KNOX,U.S. Senate,,LIB,"Millay, Tamara A.",0
+KNOX,State Auditor,,DEM,"McCaskill, Claire",378
+KNOX,State Auditor,,REP,"Hanson, Al",190
+KNOX,State Auditor,,REP,"Kanzler, Jay L. Jr.",70
+KNOX,State Auditor,,LIB,"Trembley, Arnold J.",2
+KNOX,U.S. House,9,DEM,"Deichman, Donald M. (Don)",356
+KNOX,U.S. House,9,REP,"Hulshof, Kenny C.",370
+KNOX,U.S. House,9,LIB,"Mruzik, John",2
+KNOX,State Senate,18,DEM,"Berkowitz, Sam",424
+KNOX,State Senate,18,REP,"Cauthorn, John W.",356
+KNOX,State House,1,DEM,"Campbell, Paul",368
+KNOX,State House,1,REP,"Munzlinger, Brian",320
+LACLEDE,U.S. Senate,,DEM,"Carnahan, Jean",812
+LACLEDE,U.S. Senate,,DEM,"Day, Darrel D.",135
+LACLEDE,U.S. Senate,,REP,"May, Joseph A.",343
+LACLEDE,U.S. Senate,,REP,"Talent, Jim",5524
+LACLEDE,U.S. Senate,,REP,"Lindstedt, Martin",107
+LACLEDE,U.S. Senate,,REP,"Babbitt, Scott Craig",194
+LACLEDE,U.S. Senate,,REP,"Landfather, Doris Bass",281
+LACLEDE,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+LACLEDE,U.S. Senate,,LIB,"Millay, Tamara A.",5
+LACLEDE,State Auditor,,DEM,"McCaskill, Claire",828
+LACLEDE,State Auditor,,REP,"Hanson, Al",3424
+LACLEDE,State Auditor,,REP,"Kanzler, Jay L. Jr.",1898
+LACLEDE,State Auditor,,LIB,"Trembley, Arnold J.",9
+LACLEDE,U.S. House,4,DEM,"Skelton, Ike",867
+LACLEDE,U.S. House,4,REP,"Noland, James A. (Jim)",3761
+LACLEDE,U.S. House,4,REP,"Liffick, Chuck",426
+LACLEDE,U.S. House,4,REP,"Brown, Bob",1640
+LACLEDE,U.S. House,4,LIB,"Nelson, Daniel Roy",10
+LACLEDE,State House,146,DEM,"Gann, Tamara",803
+LACLEDE,State House,146,REP,"Angst, Randy",3415
+LACLEDE,State House,146,REP,"Schneider, David (Dave)",1067
+LACLEDE,State House,146,REP,"Pollock, Darrell",2221
+LACLEDE,State House,148,DEM,"Ransdall, Bill L.",2
+LACLEDE,State House,148,LIB,"Warren, Grant",0
+LAFAYETTE,U.S. Senate,,DEM,"Carnahan, Jean",3643
+LAFAYETTE,U.S. Senate,,DEM,"Day, Darrel D.",1017
+LAFAYETTE,U.S. Senate,,REP,"May, Joseph A.",69
+LAFAYETTE,U.S. Senate,,REP,"Talent, Jim",2119
+LAFAYETTE,U.S. Senate,,REP,"Lindstedt, Martin",37
+LAFAYETTE,U.S. Senate,,REP,"Babbitt, Scott Craig",32
+LAFAYETTE,U.S. Senate,,REP,"Landfather, Doris Bass",59
+LAFAYETTE,U.S. Senate,,LIB,"Manley, Edward Joseph III",22
+LAFAYETTE,U.S. Senate,,LIB,"Millay, Tamara A.",32
+LAFAYETTE,State Auditor,,DEM,"McCaskill, Claire",4067
+LAFAYETTE,State Auditor,,REP,"Hanson, Al",1289
+LAFAYETTE,State Auditor,,REP,"Kanzler, Jay L. Jr.",783
+LAFAYETTE,State Auditor,,LIB,"Trembley, Arnold J.",51
+LAFAYETTE,U.S. House,4,DEM,"Skelton, Ike",4402
+LAFAYETTE,U.S. House,4,REP,"Noland, James A. (Jim)",1476
+LAFAYETTE,U.S. House,4,REP,"Liffick, Chuck",160
+LAFAYETTE,U.S. House,4,REP,"Brown, Bob",404
+LAFAYETTE,U.S. House,4,LIB,"Nelson, Daniel Roy",53
+LAFAYETTE,State House,26,DEM,"Seigfreid, Jim",1117
+LAFAYETTE,State House,26,DEM,"Marshall, T. W. (Tom)",621
+LAFAYETTE,State House,26,DEM,"Kemm, David Philip",157
+LAFAYETTE,State House,55,DEM,"Ultican, Lanna",0
+LAFAYETTE,State House,55,DEM,"McGregor, Neal L.",2
+LAFAYETTE,State House,55,REP,"Pratt, Bryan",6
+LAFAYETTE,State House,118,DEM,"MoriartyEbers, Judith K. (Judi)",4
+LAFAYETTE,State House,118,REP,"Smith, Todd",10
+LAFAYETTE,State House,118,LIB,"Waldrep, Donald (Donnie)",0
+LAFAYETTE,State House,122,DEM,"Davis, D. J.",2408
+LAFAYETTE,State House,122,REP,"Sparks, David A.",1010
+LAWRENCE,U.S. Senate,,DEM,"Carnahan, Jean",808
+LAWRENCE,U.S. Senate,,DEM,"Day, Darrel D.",151
+LAWRENCE,U.S. Senate,,REP,"May, Joseph A.",337
+LAWRENCE,U.S. Senate,,REP,"Talent, Jim",4193
+LAWRENCE,U.S. Senate,,REP,"Lindstedt, Martin",111
+LAWRENCE,U.S. Senate,,REP,"Babbitt, Scott Craig",143
+LAWRENCE,U.S. Senate,,REP,"Landfather, Doris Bass",214
+LAWRENCE,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+LAWRENCE,U.S. Senate,,LIB,"Millay, Tamara A.",2
+LAWRENCE,State Auditor,,DEM,"McCaskill, Claire",838
+LAWRENCE,State Auditor,,REP,"Hanson, Al",3117
+LAWRENCE,State Auditor,,REP,"Kanzler, Jay L. Jr.",1342
+LAWRENCE,State Auditor,,LIB,"Trembley, Arnold J.",5
+LAWRENCE,U.S. House,7,DEM,"Lapham, Ron",816
+LAWRENCE,U.S. House,7,REP,"Blunt, Roy",4840
+LAWRENCE,U.S. House,7,LIB,"Burlison, Doug",5
+LAWRENCE,State House,132,DEM,"Dake, Charles A.",841
+LAWRENCE,State House,132,REP,"McCully, Mark A.",1003
+LAWRENCE,State House,132,REP,"Skinner, Misty D.",278
+LAWRENCE,State House,132,REP,"Goodman, Jack",3026
+LAWRENCE,State House,132,REP,"French, Dan",864
+LAWRENCE,State House,141,DEM,"Elwell, Ann",33
+LAWRENCE,State House,141,REP,"Wasson, Jay",136
+LEWIS,U.S. Senate,,DEM,"Carnahan, Jean",1284
+LEWIS,U.S. Senate,,DEM,"Day, Darrel D.",370
+LEWIS,U.S. Senate,,REP,"May, Joseph A.",17
+LEWIS,U.S. Senate,,REP,"Talent, Jim",491
+LEWIS,U.S. Senate,,REP,"Lindstedt, Martin",6
+LEWIS,U.S. Senate,,REP,"Babbitt, Scott Craig",4
+LEWIS,U.S. Senate,,REP,"Landfather, Doris Bass",11
+LEWIS,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+LEWIS,U.S. Senate,,LIB,"Millay, Tamara A.",4
+LEWIS,State Auditor,,DEM,"McCaskill, Claire",1280
+LEWIS,State Auditor,,REP,"Hanson, Al",281
+LEWIS,State Auditor,,REP,"Kanzler, Jay L. Jr.",130
+LEWIS,State Auditor,,LIB,"Trembley, Arnold J.",6
+LEWIS,U.S. House,9,DEM,"Deichman, Donald M. (Don)",1227
+LEWIS,U.S. House,9,REP,"Hulshof, Kenny C.",505
+LEWIS,U.S. House,9,LIB,"Mruzik, John",6
+LEWIS,State Senate,18,DEM,"Berkowitz, Sam",1451
+LEWIS,State Senate,18,REP,"Cauthorn, John W.",479
+LEWIS,State House,1,DEM,"Campbell, Paul",1240
+LEWIS,State House,1,REP,"Munzlinger, Brian",478
+LINCOLN,U.S. Senate,,DEM,"Carnahan, Jean",3927
+LINCOLN,U.S. Senate,,DEM,"Day, Darrel D.",1297
+LINCOLN,U.S. Senate,,REP,"May, Joseph A.",70
+LINCOLN,U.S. Senate,,REP,"Talent, Jim",2488
+LINCOLN,U.S. Senate,,REP,"Lindstedt, Martin",22
+LINCOLN,U.S. Senate,,REP,"Babbitt, Scott Craig",30
+LINCOLN,U.S. Senate,,REP,"Landfather, Doris Bass",81
+LINCOLN,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+LINCOLN,U.S. Senate,,LIB,"Millay, Tamara A.",13
+LINCOLN,State Auditor,,DEM,"McCaskill, Claire",4246
+LINCOLN,State Auditor,,REP,"Hanson, Al",1317
+LINCOLN,State Auditor,,REP,"Kanzler, Jay L. Jr.",776
+LINCOLN,State Auditor,,LIB,"Trembley, Arnold J.",17
+LINCOLN,U.S. House,2,DEM,"Hogan, John",3961
+LINCOLN,U.S. House,2,REP,"Akin, Todd",2346
+LINCOLN,U.S. House,2,LIB,"Maloney, Darla R.",16
+LINCOLN,State Senate,2,DEM,"Schieffer, Edward L.",3910
+LINCOLN,State Senate,2,REP,"Dolan, Jon",2142
+LINCOLN,State House,10,DEM,"Witte, Terry L",614
+LINCOLN,State House,10,REP,"Graver, George",60
+LINCOLN,State House,10,REP,"Linnenbringer, Gary W.",75
+LINCOLN,State House,11,DEM,"Azar, Chris J.",1286
+LINCOLN,State House,11,DEM,"Henke, Wayne J.",3107
+LINCOLN,State House,11,REP,"Rhoads, Patricia M.",978
+LINCOLN,State House,11,REP,"Wessel, Carol J.",1383
+LINN,U.S. Senate,,DEM,"Carnahan, Jean",1689
+LINN,U.S. Senate,,DEM,"Day, Darrel D.",575
+LINN,U.S. Senate,,REP,"May, Joseph A.",29
+LINN,U.S. Senate,,REP,"Talent, Jim",448
+LINN,U.S. Senate,,REP,"Lindstedt, Martin",8
+LINN,U.S. Senate,,REP,"Babbitt, Scott Craig",5
+LINN,U.S. Senate,,REP,"Landfather, Doris Bass",15
+LINN,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+LINN,U.S. Senate,,LIB,"Millay, Tamara A.",0
+LINN,State Auditor,,DEM,"McCaskill, Claire",1863
+LINN,State Auditor,,REP,"Hanson, Al",337
+LINN,State Auditor,,REP,"Kanzler, Jay L. Jr.",99
+LINN,State Auditor,,LIB,"Trembley, Arnold J.",0
+LINN,U.S. House,6,DEM,"Rinehart, Cathy",1196
+LINN,U.S. House,6,DEM,"Mitchell, Ed",376
+LINN,U.S. House,6,DEM,"Gilstrap, David P.",311
+LINN,U.S. House,6,REP,"Graves, Sam",499
+LINN,U.S. House,6,LIB,"Buck, Erik",0
+LINN,State Senate,12,REP,"Klindt, David G.",424
+LINN,State House,8,DEM,"Shively, Tom",1769
+LINN,State House,8,REP,"Shoemaker, Chris",455
+LIVINGSTON,U.S. Senate,,DEM,"Carnahan, Jean",1198
+LIVINGSTON,U.S. Senate,,DEM,"Day, Darrel D.",193
+LIVINGSTON,U.S. Senate,,REP,"May, Joseph A.",61
+LIVINGSTON,U.S. Senate,,REP,"Talent, Jim",1267
+LIVINGSTON,U.S. Senate,,REP,"Lindstedt, Martin",9
+LIVINGSTON,U.S. Senate,,REP,"Babbitt, Scott Craig",21
+LIVINGSTON,U.S. Senate,,REP,"Landfather, Doris Bass",23
+LIVINGSTON,U.S. Senate,,LIB,"Manley, Edward Joseph III",4
+LIVINGSTON,U.S. Senate,,LIB,"Millay, Tamara A.",8
+LIVINGSTON,State Auditor,,DEM,"McCaskill, Claire",1157
+LIVINGSTON,State Auditor,,REP,"Hanson, Al",778
+LIVINGSTON,State Auditor,,REP,"Kanzler, Jay L. Jr.",261
+LIVINGSTON,State Auditor,,LIB,"Trembley, Arnold J.",11
+LIVINGSTON,U.S. House,6,DEM,"Rinehart, Cathy",816
+LIVINGSTON,U.S. House,6,DEM,"Mitchell, Ed",182
+LIVINGSTON,U.S. House,6,DEM,"Gilstrap, David P.",211
+LIVINGSTON,U.S. House,6,REP,"Graves, Sam",1368
+LIVINGSTON,U.S. House,6,LIB,"Buck, Erik",12
+LIVINGSTON,State Senate,12,REP,"Klindt, David G.",1146
+LIVINGSTON,State House,7,REP,"Quinn, John",1373
+LIVINGSTON,State House,7,LIB,"Foli, Jeffery Curtis",17
+MACON,U.S. Senate,,DEM,"Carnahan, Jean",1652
+MACON,U.S. Senate,,DEM,"Day, Darrel D.",591
+MACON,U.S. Senate,,REP,"May, Joseph A.",34
+MACON,U.S. Senate,,REP,"Talent, Jim",1155
+MACON,U.S. Senate,,REP,"Lindstedt, Martin",10
+MACON,U.S. Senate,,REP,"Babbitt, Scott Craig",21
+MACON,U.S. Senate,,REP,"Landfather, Doris Bass",13
+MACON,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+MACON,U.S. Senate,,LIB,"Millay, Tamara A.",6
+MACON,State Auditor,,DEM,"McCaskill, Claire",1660
+MACON,State Auditor,,REP,"Hanson, Al",667
+MACON,State Auditor,,REP,"Kanzler, Jay L. Jr.",298
+MACON,State Auditor,,LIB,"Trembley, Arnold J.",7
+MACON,U.S. House,9,DEM,"Deichman, Donald M. (Don)",1540
+MACON,U.S. House,9,REP,"Hulshof, Kenny C.",1187
+MACON,U.S. House,9,LIB,"Mruzik, John",7
+MACON,State House,8,DEM,"Shively, Tom",1554
+MACON,State House,8,REP,"Shoemaker, Chris",1120
+MACON,State House,22,DEM,"Copenhaver, Nancy",114
+MACON,State House,22,REP,"Sander, Therese",88
+MADISON,U.S. Senate,,DEM,"Carnahan, Jean",825
+MADISON,U.S. Senate,,DEM,"Day, Darrel D.",185
+MADISON,U.S. Senate,,REP,"May, Joseph A.",23
+MADISON,U.S. Senate,,REP,"Talent, Jim",705
+MADISON,U.S. Senate,,REP,"Lindstedt, Martin",15
+MADISON,U.S. Senate,,REP,"Babbitt, Scott Craig",12
+MADISON,U.S. Senate,,REP,"Landfather, Doris Bass",21
+MADISON,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+MADISON,U.S. Senate,,LIB,"Millay, Tamara A.",0
+MADISON,State Auditor,,DEM,"McCaskill, Claire",820
+MADISON,State Auditor,,REP,"Hanson, Al",392
+MADISON,State Auditor,,REP,"Kanzler, Jay L. Jr.",227
+MADISON,State Auditor,,LIB,"Trembley, Arnold J.",0
+MADISON,U.S. House,8,DEM,"Curtis, Gene",786
+MADISON,U.S. House,8,REP,"Emerson, Jo Ann",706
+MADISON,U.S. House,8,REP,"Kline, Richard Allen",87
+MADISON,U.S. House,8,LIB,"Van Oostrom, Eric",0
+MADISON,State House,156,REP,"Jetton, Rodney (Rod)",694
+MARIES,U.S. Senate,,DEM,"Carnahan, Jean",1077
+MARIES,U.S. Senate,,DEM,"Day, Darrel D.",323
+MARIES,U.S. Senate,,REP,"May, Joseph A.",23
+MARIES,U.S. Senate,,REP,"Talent, Jim",816
+MARIES,U.S. Senate,,REP,"Lindstedt, Martin",9
+MARIES,U.S. Senate,,REP,"Babbitt, Scott Craig",6
+MARIES,U.S. Senate,,REP,"Landfather, Doris Bass",20
+MARIES,U.S. Senate,,LIB,"Manley, Edward Joseph III",4
+MARIES,U.S. Senate,,LIB,"Millay, Tamara A.",2
+MARIES,State Auditor,,DEM,"McCaskill, Claire",1146
+MARIES,State Auditor,,REP,"Hanson, Al",414
+MARIES,State Auditor,,REP,"Kanzler, Jay L. Jr.",254
+MARIES,State Auditor,,LIB,"Trembley, Arnold J.",6
+MARIES,U.S. House,9,DEM,"Deichman, Donald M. (Don)",1047
+MARIES,U.S. House,9,REP,"Hulshof, Kenny C.",756
+MARIES,U.S. House,9,LIB,"Mruzik, John",6
+MARIES,State Senate,16,DEM,"Ichord, Clara",1075
+MARIES,State Senate,16,REP,"Steelman, Sarah",797
+MARIES,State House,112,DEM,"Tramel, Tom",503
+MARIES,State House,112,DEM,"Neuner, Debra (Debi) L.",765
+MARIES,State House,112,REP,"Loehner, Tom",252
+MARIES,State House,112,REP,"Townley, Merrill",509
+MARIES,State House,112,REP,"Miller, Judy L.",118
+MARION,U.S. Senate,,DEM,"Carnahan, Jean",2822
+MARION,U.S. Senate,,DEM,"Day, Darrel D.",1042
+MARION,U.S. Senate,,REP,"May, Joseph A.",45
+MARION,U.S. Senate,,REP,"Talent, Jim",1563
+MARION,U.S. Senate,,REP,"Lindstedt, Martin",17
+MARION,U.S. Senate,,REP,"Babbitt, Scott Craig",15
+MARION,U.S. Senate,,REP,"Landfather, Doris Bass",21
+MARION,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+MARION,U.S. Senate,,LIB,"Millay, Tamara A.",4
+MARION,State Auditor,,DEM,"McCaskill, Claire",3149
+MARION,State Auditor,,REP,"Hanson, Al",1004
+MARION,State Auditor,,REP,"Kanzler, Jay L. Jr.",310
+MARION,State Auditor,,LIB,"Trembley, Arnold J.",9
+MARION,U.S. House,9,DEM,"Deichman, Donald M. (Don)",2942
+MARION,U.S. House,9,REP,"Hulshof, Kenny C.",1639
+MARION,U.S. House,9,LIB,"Mruzik, John",9
+MARION,State Senate,18,DEM,"Berkowitz, Sam",3081
+MARION,State Senate,18,REP,"Cauthorn, John W.",1521
+MARION,State House,1,DEM,"Campbell, Paul",303
+MARION,State House,1,REP,"Munzlinger, Brian",172
+MARION,State House,6,DEM,"Bringer, Rachel",2488
+MARION,State House,6,DEM,"Riggs, Louis",1186
+MARION,State House,6,REP,"Walden, Ross",1077
+MARION,State House,6,REP,"Lemon, James L. (Jim)",327
+MCDONALD,U.S. Senate,,DEM,"Carnahan, Jean",636
+MCDONALD,U.S. Senate,,DEM,"Day, Darrel D.",144
+MCDONALD,U.S. Senate,,REP,"May, Joseph A.",88
+MCDONALD,U.S. Senate,,REP,"Talent, Jim",1705
+MCDONALD,U.S. Senate,,REP,"Lindstedt, Martin",66
+MCDONALD,U.S. Senate,,REP,"Babbitt, Scott Craig",65
+MCDONALD,U.S. Senate,,REP,"Landfather, Doris Bass",79
+MCDONALD,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+MCDONALD,U.S. Senate,,LIB,"Millay, Tamara A.",9
+MCDONALD,State Auditor,,DEM,"McCaskill, Claire",635
+MCDONALD,State Auditor,,REP,"Hanson, Al",1276
+MCDONALD,State Auditor,,REP,"Kanzler, Jay L. Jr.",428
+MCDONALD,State Auditor,,LIB,"Trembley, Arnold J.",15
+MCDONALD,U.S. House,7,DEM,"Lapham, Ron",590
+MCDONALD,U.S. House,7,REP,"Blunt, Roy",1957
+MCDONALD,U.S. House,7,LIB,"Burlison, Doug",15
+MCDONALD,State House,130,REP,"Wilson, Kevin Bill",311
+MCDONALD,State House,130,REP,"Stone, Doug",530
+MCDONALD,State House,130,REP,"Link, James",202
+MCDONALD,State House,131,REP,"Stubblefield, Don",324
+MCDONALD,State House,131,REP,"Ruestman, Marilyn",731
+MERCER,U.S. Senate,,DEM,"Carnahan, Jean",129
+MERCER,U.S. Senate,,DEM,"Day, Darrel D.",25
+MERCER,U.S. Senate,,REP,"May, Joseph A.",26
+MERCER,U.S. Senate,,REP,"Talent, Jim",563
+MERCER,U.S. Senate,,REP,"Lindstedt, Martin",12
+MERCER,U.S. Senate,,REP,"Babbitt, Scott Craig",9
+MERCER,U.S. Senate,,REP,"Landfather, Doris Bass",23
+MERCER,U.S. Senate,,LIB,"Manley, Edward Joseph III",4
+MERCER,U.S. Senate,,LIB,"Millay, Tamara A.",1
+MERCER,State Auditor,,DEM,"McCaskill, Claire",93
+MERCER,State Auditor,,REP,"Hanson, Al",311
+MERCER,State Auditor,,REP,"Kanzler, Jay L. Jr.",137
+MERCER,State Auditor,,LIB,"Trembley, Arnold J.",5
+MERCER,U.S. House,6,DEM,"Rinehart, Cathy",72
+MERCER,U.S. House,6,DEM,"Mitchell, Ed",18
+MERCER,U.S. House,6,DEM,"Gilstrap, David P.",27
+MERCER,U.S. House,6,REP,"Graves, Sam",603
+MERCER,U.S. House,6,LIB,"Buck, Erik",5
+MERCER,State Senate,12,REP,"Klindt, David G.",613
+MERCER,State House,3,DEM,"Whorton, Jim",140
+MERCER,State House,3,REP,"Moulthrop, Roscoe E.",493
+MILLER,U.S. Senate,,DEM,"Carnahan, Jean",616
+MILLER,U.S. Senate,,DEM,"Day, Darrel D.",54
+MILLER,U.S. Senate,,REP,"May, Joseph A.",198
+MILLER,U.S. Senate,,REP,"Talent, Jim",3418
+MILLER,U.S. Senate,,REP,"Lindstedt, Martin",45
+MILLER,U.S. Senate,,REP,"Babbitt, Scott Craig",71
+MILLER,U.S. Senate,,REP,"Landfather, Doris Bass",138
+MILLER,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+MILLER,U.S. Senate,,LIB,"Millay, Tamara A.",5
+MILLER,State Auditor,,DEM,"McCaskill, Claire",566
+MILLER,State Auditor,,REP,"Hanson, Al",2034
+MILLER,State Auditor,,REP,"Kanzler, Jay L. Jr.",1059
+MILLER,State Auditor,,LIB,"Trembley, Arnold J.",7
+MILLER,U.S. House,9,DEM,"Deichman, Donald M. (Don)",522
+MILLER,U.S. House,9,REP,"Hulshof, Kenny C.",3350
+MILLER,U.S. House,9,LIB,"Mruzik, John",7
+MILLER,State Senate,6,DEM,"Gratz, W.W. (Bill)",527
+MILLER,State Senate,6,REP,"Vogel, Carl M.",3094
+MILLER,State House,115,DEM,"Bonar, Ronald C.",518
+MILLER,State House,115,REP,"Luetkemeyer, Blaine",3647
+MILLER,State House,155,DEM,"Barrett, Don",4
+MILLER,State House,155,DEM,"Williams, Gregory D.",6
+MILLER,State House,155,REP,"Paul, Bill",5
+MILLER,State House,155,REP,"Schapiro, James",9
+MILLER,State House,155,REP,"Cooper, Wayne",32
+MILLER,State House,155,REP,"Roney, Charles",1
+MILLER,State House,155,REP,"Mowinski, Bernie",3
+MISSISSIPPI,U.S. Senate,,DEM,"Carnahan, Jean",1492
+MISSISSIPPI,U.S. Senate,,DEM,"Day, Darrel D.",447
+MISSISSIPPI,U.S. Senate,,REP,"May, Joseph A.",14
+MISSISSIPPI,U.S. Senate,,REP,"Talent, Jim",573
+MISSISSIPPI,U.S. Senate,,REP,"Lindstedt, Martin",0
+MISSISSIPPI,U.S. Senate,,REP,"Babbitt, Scott Craig",7
+MISSISSIPPI,U.S. Senate,,REP,"Landfather, Doris Bass",15
+MISSISSIPPI,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+MISSISSIPPI,U.S. Senate,,LIB,"Millay, Tamara A.",0
+MISSISSIPPI,State Auditor,,DEM,"McCaskill, Claire",1306
+MISSISSIPPI,State Auditor,,REP,"Hanson, Al",320
+MISSISSIPPI,State Auditor,,REP,"Kanzler, Jay L. Jr.",133
+MISSISSIPPI,State Auditor,,LIB,"Trembley, Arnold J.",0
+MISSISSIPPI,U.S. House,8,DEM,"Curtis, Gene",1111
+MISSISSIPPI,U.S. House,8,REP,"Emerson, Jo Ann",620
+MISSISSIPPI,U.S. House,8,REP,"Kline, Richard Allen",40
+MISSISSIPPI,U.S. House,8,LIB,"Van Oostrom, Eric",0
+MISSISSIPPI,State House,160,DEM,"Kiefer, Donnie",0
+MISSISSIPPI,State House,160,REP,"Myers, Peter",0
+MISSISSIPPI,State House,161,DEM,"Petitt, Wayne",1271
+MISSISSIPPI,State House,161,REP,"Black, Lanie",606
+MONITEAU,U.S. Senate,,DEM,"Carnahan, Jean",470
+MONITEAU,U.S. Senate,,DEM,"Day, Darrel D.",46
+MONITEAU,U.S. Senate,,REP,"May, Joseph A.",169
+MONITEAU,U.S. Senate,,REP,"Talent, Jim",2358
+MONITEAU,U.S. Senate,,REP,"Lindstedt, Martin",37
+MONITEAU,U.S. Senate,,REP,"Babbitt, Scott Craig",46
+MONITEAU,U.S. Senate,,REP,"Landfather, Doris Bass",106
+MONITEAU,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+MONITEAU,U.S. Senate,,LIB,"Millay, Tamara A.",3
+MONITEAU,State Auditor,,DEM,"McCaskill, Claire",441
+MONITEAU,State Auditor,,REP,"Hanson, Al",1400
+MONITEAU,State Auditor,,REP,"Kanzler, Jay L. Jr.",754
+MONITEAU,State Auditor,,LIB,"Trembley, Arnold J.",4
+MONITEAU,U.S. House,4,DEM,"Skelton, Ike",473
+MONITEAU,U.S. House,4,REP,"Noland, James A. (Jim)",1649
+MONITEAU,U.S. House,4,REP,"Liffick, Chuck",174
+MONITEAU,U.S. House,4,REP,"Brown, Bob",392
+MONITEAU,U.S. House,4,LIB,"Nelson, Daniel Roy",4
+MONITEAU,State Senate,6,DEM,"Gratz, W.W. (Bill)",423
+MONITEAU,State Senate,6,REP,"Vogel, Carl M.",2196
+MONITEAU,State House,117,DEM,"Murray, Hayes A.",391
+MONITEAU,State House,117,REP,"Crawford, Larry",2650
+MONROE,U.S. Senate,,DEM,"Carnahan, Jean",1725
+MONROE,U.S. Senate,,DEM,"Day, Darrel D.",638
+MONROE,U.S. Senate,,REP,"May, Joseph A.",7
+MONROE,U.S. Senate,,REP,"Talent, Jim",221
+MONROE,U.S. Senate,,REP,"Lindstedt, Martin",3
+MONROE,U.S. Senate,,REP,"Babbitt, Scott Craig",2
+MONROE,U.S. Senate,,REP,"Landfather, Doris Bass",4
+MONROE,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+MONROE,U.S. Senate,,LIB,"Millay, Tamara A.",1
+MONROE,State Auditor,,DEM,"McCaskill, Claire",1981
+MONROE,State Auditor,,REP,"Hanson, Al",128
+MONROE,State Auditor,,REP,"Kanzler, Jay L. Jr.",65
+MONROE,State Auditor,,LIB,"Trembley, Arnold J.",0
+MONROE,U.S. House,9,DEM,"Deichman, Donald M. (Don)",1851
+MONROE,U.S. House,9,REP,"Hulshof, Kenny C.",229
+MONROE,U.S. House,9,LIB,"Mruzik, John",1
+MONROE,State Senate,18,DEM,"Berkowitz, Sam",1842
+MONROE,State Senate,18,REP,"Cauthorn, John W.",213
+MONROE,State House,9,DEM,"Shoemyer, Wes",2118
+MONROE,State House,9,REP,"Hedberg, Jeff",196
+MONROE,State House,9,LIB,"Schultz, John",1
+MONROE,State House,21,DEM,"Becker, Ann",58
+MONROE,State House,21,DEM,"Groves, Mike",62
+MONROE,State House,21,REP,"Hobbs, Steve",7
+MONTGOMERY,U.S. Senate,,DEM,"Carnahan, Jean",562
+MONTGOMERY,U.S. Senate,,DEM,"Day, Darrel D.",55
+MONTGOMERY,U.S. Senate,,REP,"May, Joseph A.",119
+MONTGOMERY,U.S. Senate,,REP,"Talent, Jim",2089
+MONTGOMERY,U.S. Senate,,REP,"Lindstedt, Martin",30
+MONTGOMERY,U.S. Senate,,REP,"Babbitt, Scott Craig",41
+MONTGOMERY,U.S. Senate,,REP,"Landfather, Doris Bass",112
+MONTGOMERY,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+MONTGOMERY,U.S. Senate,,LIB,"Millay, Tamara A.",8
+MONTGOMERY,State Auditor,,DEM,"McCaskill, Claire",406
+MONTGOMERY,State Auditor,,REP,"Hanson, Al",1290
+MONTGOMERY,State Auditor,,REP,"Kanzler, Jay L. Jr.",615
+MONTGOMERY,State Auditor,,LIB,"Trembley, Arnold J.",13
+MONTGOMERY,U.S. House,9,DEM,"Deichman, Donald M. (Don)",393
+MONTGOMERY,U.S. House,9,REP,"Hulshof, Kenny C.",2211
+MONTGOMERY,U.S. House,9,LIB,"Mruzik, John",12
+MONTGOMERY,State Senate,16,DEM,"Ichord, Clara",378
+MONTGOMERY,State Senate,16,REP,"Steelman, Sarah",1895
+MONTGOMERY,State House,10,DEM,"Witte, Terry L",60
+MONTGOMERY,State House,10,REP,"Graver, George",70
+MONTGOMERY,State House,10,REP,"Linnenbringer, Gary W.",212
+MONTGOMERY,State House,99,DEM,"Haase, Fred W.",321
+MONTGOMERY,State House,99,REP,"Korman, Bart",1005
+MONTGOMERY,State House,99,REP,"Mauzy, Roger R. Sr.",133
+MONTGOMERY,State House,99,REP,"Sutherland, Mike",1025
+MORGAN,U.S. Senate,,DEM,"Carnahan, Jean",1368
+MORGAN,U.S. Senate,,DEM,"Day, Darrel D.",212
+MORGAN,U.S. Senate,,REP,"May, Joseph A.",129
+MORGAN,U.S. Senate,,REP,"Talent, Jim",2577
+MORGAN,U.S. Senate,,REP,"Lindstedt, Martin",54
+MORGAN,U.S. Senate,,REP,"Babbitt, Scott Craig",56
+MORGAN,U.S. Senate,,REP,"Landfather, Doris Bass",117
+MORGAN,U.S. Senate,,LIB,"Manley, Edward Joseph III",9
+MORGAN,U.S. Senate,,LIB,"Millay, Tamara A.",8
+MORGAN,State Auditor,,DEM,"McCaskill, Claire",1343
+MORGAN,State Auditor,,REP,"Hanson, Al",1643
+MORGAN,State Auditor,,REP,"Kanzler, Jay L. Jr.",793
+MORGAN,State Auditor,,LIB,"Trembley, Arnold J.",15
+MORGAN,U.S. House,4,DEM,"Skelton, Ike",1468
+MORGAN,U.S. House,4,REP,"Noland, James A. (Jim)",1773
+MORGAN,U.S. House,4,REP,"Liffick, Chuck",231
+MORGAN,U.S. House,4,REP,"Brown, Bob",548
+MORGAN,U.S. House,4,LIB,"Nelson, Daniel Roy",15
+MORGAN,State Senate,6,DEM,"Gratz, W.W. (Bill)",1221
+MORGAN,State Senate,6,REP,"Vogel, Carl M.",2311
+MORGAN,State House,115,DEM,"Bonar, Ronald C.",418
+MORGAN,State House,115,REP,"Luetkemeyer, Blaine",709
+MORGAN,State House,116,DEM,"Capps, Teresa G.",796
+MORGAN,State House,116,REP,"Self, Tom",922
+MORGAN,State House,116,REP,"Hampy, Brent",202
+MORGAN,State House,116,REP,"Gruhn, Fred",74
+MORGAN,State House,116,REP,"Henderson, Steve",847
+MORGAN,State House,117,DEM,"Murray, Hayes A.",59
+MORGAN,State House,117,REP,"Crawford, Larry",133
+MORGAN,State House,155,DEM,"Barrett, Don",3
+MORGAN,State House,155,DEM,"Williams, Gregory D.",6
+MORGAN,State House,155,REP,"Paul, Bill",0
+MORGAN,State House,155,REP,"Schapiro, James",4
+MORGAN,State House,155,REP,"Cooper, Wayne",4
+MORGAN,State House,155,REP,"Roney, Charles",5
+MORGAN,State House,155,REP,"Mowinski, Bernie",2
+NEW MADRID,U.S. Senate,,DEM,"Carnahan, Jean",1600
+NEW MADRID,U.S. Senate,,DEM,"Day, Darrel D.",552
+NEW MADRID,U.S. Senate,,REP,"May, Joseph A.",13
+NEW MADRID,U.S. Senate,,REP,"Talent, Jim",350
+NEW MADRID,U.S. Senate,,REP,"Lindstedt, Martin",7
+NEW MADRID,U.S. Senate,,REP,"Babbitt, Scott Craig",2
+NEW MADRID,U.S. Senate,,REP,"Landfather, Doris Bass",8
+NEW MADRID,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+NEW MADRID,U.S. Senate,,LIB,"Millay, Tamara A.",3
+NEW MADRID,State Auditor,,DEM,"McCaskill, Claire",1555
+NEW MADRID,State Auditor,,REP,"Hanson, Al",220
+NEW MADRID,State Auditor,,REP,"Kanzler, Jay L. Jr.",72
+NEW MADRID,State Auditor,,LIB,"Trembley, Arnold J.",7
+NEW MADRID,U.S. House,8,DEM,"Curtis, Gene",1470
+NEW MADRID,U.S. House,8,REP,"Emerson, Jo Ann",363
+NEW MADRID,U.S. House,8,REP,"Kline, Richard Allen",31
+NEW MADRID,U.S. House,8,LIB,"Van Oostrom, Eric",6
+NEW MADRID,State House,160,DEM,"Kiefer, Donnie",0
+NEW MADRID,State House,160,REP,"Myers, Peter",48
+NEW MADRID,State House,161,DEM,"Petitt, Wayne",835
+NEW MADRID,State House,161,REP,"Black, Lanie",174
+NEW MADRID,State House,162,DEM,"Merideth, Denny",602
+NEWTON,U.S. Senate,,DEM,"Carnahan, Jean",785
+NEWTON,U.S. Senate,,DEM,"Day, Darrel D.",168
+NEWTON,U.S. Senate,,REP,"May, Joseph A.",277
+NEWTON,U.S. Senate,,REP,"Talent, Jim",8236
+NEWTON,U.S. Senate,,REP,"Lindstedt, Martin",219
+NEWTON,U.S. Senate,,REP,"Babbitt, Scott Craig",216
+NEWTON,U.S. Senate,,REP,"Landfather, Doris Bass",395
+NEWTON,U.S. Senate,,LIB,"Manley, Edward Joseph III",8
+NEWTON,U.S. Senate,,LIB,"Millay, Tamara A.",28
+NEWTON,State Auditor,,DEM,"McCaskill, Claire",789
+NEWTON,State Auditor,,REP,"Hanson, Al",4490
+NEWTON,State Auditor,,REP,"Kanzler, Jay L. Jr.",2894
+NEWTON,State Auditor,,LIB,"Trembley, Arnold J.",34
+NEWTON,U.S. House,7,DEM,"Lapham, Ron",762
+NEWTON,U.S. House,7,REP,"Blunt, Roy",7610
+NEWTON,U.S. House,7,LIB,"Burlison, Doug",33
+NEWTON,State Senate,32,REP,"Gaskill, Sam",1410
+NEWTON,State Senate,32,REP,"Nodler, Gary",4488
+NEWTON,State Senate,32,REP,"Burton, Gary",2894
+NEWTON,State Senate,32,REP,"Hohulin, Martin (Bubs)",825
+NEWTON,State House,128,REP,"Stevenson, Bryan P.",0
+NEWTON,State House,128,REP,"Goetz, Don",0
+NEWTON,State House,129,DEM,"Coombes, Fred E.",127
+NEWTON,State House,129,REP,"Richard, Ron",870
+NEWTON,State House,129,REP,"Duff, Edward",239
+NEWTON,State House,129,LIB,"Stults, Jack L.",2
+NEWTON,State House,130,REP,"Wilson, Kevin Bill",1826
+NEWTON,State House,130,REP,"Stone, Doug",998
+NEWTON,State House,130,REP,"Link, James",1853
+NEWTON,State House,131,REP,"Stubblefield, Don",1451
+NEWTON,State House,131,REP,"Ruestman, Marilyn",1908
+NODAWAY,U.S. Senate,,DEM,"Carnahan, Jean",1987
+NODAWAY,U.S. Senate,,DEM,"Day, Darrel D.",651
+NODAWAY,U.S. Senate,,REP,"May, Joseph A.",195
+NODAWAY,U.S. Senate,,REP,"Talent, Jim",1414
+NODAWAY,U.S. Senate,,REP,"Lindstedt, Martin",32
+NODAWAY,U.S. Senate,,REP,"Babbitt, Scott Craig",46
+NODAWAY,U.S. Senate,,REP,"Landfather, Doris Bass",61
+NODAWAY,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+NODAWAY,U.S. Senate,,LIB,"Millay, Tamara A.",3
+NODAWAY,State Auditor,,DEM,"McCaskill, Claire",2005
+NODAWAY,State Auditor,,REP,"Hanson, Al",1031
+NODAWAY,State Auditor,,REP,"Kanzler, Jay L. Jr.",370
+NODAWAY,State Auditor,,LIB,"Trembley, Arnold J.",8
+NODAWAY,U.S. House,6,DEM,"Rinehart, Cathy",1340
+NODAWAY,U.S. House,6,DEM,"Mitchell, Ed",564
+NODAWAY,U.S. House,6,DEM,"Gilstrap, David P.",271
+NODAWAY,U.S. House,6,REP,"Graves, Sam",1719
+NODAWAY,U.S. House,6,LIB,"Buck, Erik",9
+NODAWAY,State Senate,12,REP,"Klindt, David G.",1556
+NODAWAY,State House,4,DEM,"Dougan, Larry",1857
+NODAWAY,State House,4,DEM,"Ritterbusch, Robert L.",782
+NODAWAY,State House,4,REP,"Lager, Brad",939
+NODAWAY,State House,4,REP,"Dunn, Christopher",154
+NODAWAY,State House,4,REP,"May, Leland",752
+OREGON,U.S. Senate,,DEM,"Carnahan, Jean",1534
+OREGON,U.S. Senate,,DEM,"Day, Darrel D.",459
+OREGON,U.S. Senate,,REP,"May, Joseph A.",23
+OREGON,U.S. Senate,,REP,"Talent, Jim",531
+OREGON,U.S. Senate,,REP,"Lindstedt, Martin",10
+OREGON,U.S. Senate,,REP,"Babbitt, Scott Craig",17
+OREGON,U.S. Senate,,REP,"Landfather, Doris Bass",29
+OREGON,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+OREGON,U.S. Senate,,LIB,"Millay, Tamara A.",2
+OREGON,State Auditor,,DEM,"McCaskill, Claire",1573
+OREGON,State Auditor,,REP,"Hanson, Al",324
+OREGON,State Auditor,,REP,"Kanzler, Jay L. Jr.",124
+OREGON,State Auditor,,LIB,"Trembley, Arnold J.",2
+OREGON,State House,153,DEM,"Jackson, Larry",1472
+OREGON,State House,153,REP,"Slayton, Tim",63
+OREGON,State House,153,REP,"Dethrow, Mike",671
+OSAGE,U.S. Senate,,DEM,"Carnahan, Jean",929
+OSAGE,U.S. Senate,,DEM,"Day, Darrel D.",203
+OSAGE,U.S. Senate,,REP,"May, Joseph A.",73
+OSAGE,U.S. Senate,,REP,"Talent, Jim",2156
+OSAGE,U.S. Senate,,REP,"Lindstedt, Martin",35
+OSAGE,U.S. Senate,,REP,"Babbitt, Scott Craig",23
+OSAGE,U.S. Senate,,REP,"Landfather, Doris Bass",43
+OSAGE,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+OSAGE,U.S. Senate,,LIB,"Millay, Tamara A.",1
+OSAGE,State Auditor,,DEM,"McCaskill, Claire",996
+OSAGE,State Auditor,,REP,"Hanson, Al",1297
+OSAGE,State Auditor,,REP,"Kanzler, Jay L. Jr.",640
+OSAGE,State Auditor,,LIB,"Trembley, Arnold J.",2
+OSAGE,U.S. House,9,DEM,"Deichman, Donald M. (Don)",906
+OSAGE,U.S. House,9,REP,"Hulshof, Kenny C.",2140
+OSAGE,U.S. House,9,LIB,"Mruzik, John",2
+OSAGE,State Senate,16,DEM,"Ichord, Clara",909
+OSAGE,State Senate,16,REP,"Steelman, Sarah",2156
+OSAGE,State House,112,DEM,"Tramel, Tom",180
+OSAGE,State House,112,DEM,"Neuner, Debra (Debi) L.",930
+OSAGE,State House,112,REP,"Loehner, Tom",1223
+OSAGE,State House,112,REP,"Townley, Merrill",941
+OSAGE,State House,112,REP,"Miller, Judy L.",232
+OZARK,U.S. Senate,,DEM,"Carnahan, Jean",142
+OZARK,U.S. Senate,,DEM,"Day, Darrel D.",9
+OZARK,U.S. Senate,,REP,"May, Joseph A.",128
+OZARK,U.S. Senate,,REP,"Talent, Jim",1880
+OZARK,U.S. Senate,,REP,"Lindstedt, Martin",52
+OZARK,U.S. Senate,,REP,"Babbitt, Scott Craig",55
+OZARK,U.S. Senate,,REP,"Landfather, Doris Bass",131
+OZARK,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+OZARK,U.S. Senate,,LIB,"Millay, Tamara A.",3
+OZARK,State Auditor,,DEM,"McCaskill, Claire",126
+OZARK,State Auditor,,REP,"Hanson, Al",1266
+OZARK,State Auditor,,REP,"Kanzler, Jay L. Jr.",533
+OZARK,State Auditor,,LIB,"Trembley, Arnold J.",3
+OZARK,U.S. House,8,DEM,"Curtis, Gene",125
+OZARK,U.S. House,8,REP,"Emerson, Jo Ann",1693
+OZARK,U.S. House,8,REP,"Kline, Richard Allen",508
+OZARK,U.S. House,8,LIB,"Van Oostrom, Eric",2
+OZARK,State House,143,REP,"Lind, Mike",338
+OZARK,State House,143,REP,"Vaught, Randall R.",311
+OZARK,State House,143,REP,"Still, J. Wendell",247
+OZARK,State House,143,REP,"Henegar, Barbara",562
+OZARK,State House,143,REP,"Stillings, Linda",77
+OZARK,State House,143,REP,"Griffin, Patricia A.",64
+OZARK,State House,143,REP,"Wallace, Maynard",858
+PEMISCOT,U.S. Senate,,DEM,"Carnahan, Jean",2168
+PEMISCOT,U.S. Senate,,DEM,"Day, Darrel D.",573
+PEMISCOT,U.S. Senate,,REP,"May, Joseph A.",3
+PEMISCOT,U.S. Senate,,REP,"Talent, Jim",32
+PEMISCOT,U.S. Senate,,REP,"Lindstedt, Martin",2
+PEMISCOT,U.S. Senate,,REP,"Babbitt, Scott Craig",0
+PEMISCOT,U.S. Senate,,REP,"Landfather, Doris Bass",0
+PEMISCOT,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+PEMISCOT,U.S. Senate,,LIB,"Millay, Tamara A.",1
+PEMISCOT,State Auditor,,DEM,"McCaskill, Claire",2057
+PEMISCOT,State Auditor,,REP,"Hanson, Al",23
+PEMISCOT,State Auditor,,REP,"Kanzler, Jay L. Jr.",8
+PEMISCOT,State Auditor,,LIB,"Trembley, Arnold J.",1
+PEMISCOT,U.S. House,8,DEM,"Curtis, Gene",1937
+PEMISCOT,U.S. House,8,REP,"Emerson, Jo Ann",34
+PEMISCOT,U.S. House,8,REP,"Kline, Richard Allen",4
+PEMISCOT,U.S. House,8,LIB,"Van Oostrom, Eric",1
+PEMISCOT,State House,162,DEM,"Merideth, Denny",2443
+PERRY,U.S. Senate,,DEM,"Carnahan, Jean",357
+PERRY,U.S. Senate,,DEM,"Day, Darrel D.",43
+PERRY,U.S. Senate,,REP,"May, Joseph A.",143
+PERRY,U.S. Senate,,REP,"Talent, Jim",2873
+PERRY,U.S. Senate,,REP,"Lindstedt, Martin",50
+PERRY,U.S. Senate,,REP,"Babbitt, Scott Craig",57
+PERRY,U.S. Senate,,REP,"Landfather, Doris Bass",110
+PERRY,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+PERRY,U.S. Senate,,LIB,"Millay, Tamara A.",1
+PERRY,State Auditor,,DEM,"McCaskill, Claire",326
+PERRY,State Auditor,,REP,"Hanson, Al",1844
+PERRY,State Auditor,,REP,"Kanzler, Jay L. Jr.",723
+PERRY,State Auditor,,LIB,"Trembley, Arnold J.",2
+PERRY,U.S. House,8,DEM,"Curtis, Gene",299
+PERRY,U.S. House,8,REP,"Emerson, Jo Ann",3006
+PERRY,U.S. House,8,REP,"Kline, Richard Allen",434
+PERRY,U.S. House,8,LIB,"Van Oostrom, Eric",2
+PERRY,State House,106,DEM,"Smith, Dennis W.",129
+PERRY,State House,106,REP,"Fallert, J. Cecilia",854
+PERRY,State House,106,REP,"Burcham, Tom",1033
+PERRY,State House,157,DEM,"Miller, Chuck",177
+PERRY,State House,157,REP,"Lichtenegger, Donna",513
+PERRY,State House,157,REP,"Adams, Gerald",240
+PERRY,State House,157,REP,"Sachse, Tom",518
+PERRY,State House,157,REP,"Lipke, Scott A.",298
+PERRY,State House,157,LIB,"Doubledee, Timothy",2
+PERRY,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",1886
+PERRY,Circuit Judge  Circuit 32 Division 1,,REP,"Keller, Bryan",1317
+PETTIS,U.S. Senate,,DEM,"Carnahan, Jean",1528
+PETTIS,U.S. Senate,,DEM,"Day, Darrel D.",267
+PETTIS,U.S. Senate,,REP,"May, Joseph A.",283
+PETTIS,U.S. Senate,,REP,"Talent, Jim",4769
+PETTIS,U.S. Senate,,REP,"Lindstedt, Martin",72
+PETTIS,U.S. Senate,,REP,"Babbitt, Scott Craig",101
+PETTIS,U.S. Senate,,REP,"Landfather, Doris Bass",189
+PETTIS,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+PETTIS,U.S. Senate,,LIB,"Millay, Tamara A.",12
+PETTIS,State Auditor,,DEM,"McCaskill, Claire",1601
+PETTIS,State Auditor,,REP,"Hanson, Al",3139
+PETTIS,State Auditor,,REP,"Kanzler, Jay L. Jr.",1406
+PETTIS,State Auditor,,LIB,"Trembley, Arnold J.",20
+PETTIS,U.S. House,4,DEM,"Skelton, Ike",1703
+PETTIS,U.S. House,4,REP,"Noland, James A. (Jim)",3108
+PETTIS,U.S. House,4,REP,"Liffick, Chuck",398
+PETTIS,U.S. House,4,REP,"Brown, Bob",1275
+PETTIS,U.S. House,4,LIB,"Nelson, Daniel Roy",20
+PETTIS,State Senate,28,DEM,"Meyer, Richard",738
+PETTIS,State Senate,28,DEM,"Johnson, Catherine D.",868
+PETTIS,State Senate,28,REP,"Scott, Delbert L.",582
+PETTIS,State Senate,28,REP,"Boatright, Matt",5335
+PETTIS,State Senate,28,LIB,"Watson, Jesse O.",19
+PETTIS,State House,116,DEM,"Capps, Teresa G.",237
+PETTIS,State House,116,REP,"Self, Tom",450
+PETTIS,State House,116,REP,"Hampy, Brent",445
+PETTIS,State House,116,REP,"Gruhn, Fred",172
+PETTIS,State House,116,REP,"Henderson, Steve",97
+PETTIS,State House,117,DEM,"Murray, Hayes A.",52
+PETTIS,State House,117,REP,"Crawford, Larry",136
+PETTIS,State House,118,DEM,"MoriartyEbers, Judith K. (Judi)",1195
+PETTIS,State House,118,REP,"Smith, Todd",3863
+PETTIS,State House,118,LIB,"Waldrep, Donald (Donnie)",19
+PETTIS,State House,120,REP,"Cooper, Shannon",4
+PHELPS,U.S. Senate,,DEM,"Carnahan, Jean",2336
+PHELPS,U.S. Senate,,DEM,"Day, Darrel D.",534
+PHELPS,U.S. Senate,,REP,"May, Joseph A.",229
+PHELPS,U.S. Senate,,REP,"Talent, Jim",2163
+PHELPS,U.S. Senate,,REP,"Lindstedt, Martin",19
+PHELPS,U.S. Senate,,REP,"Babbitt, Scott Craig",13
+PHELPS,U.S. Senate,,REP,"Landfather, Doris Bass",33
+PHELPS,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+PHELPS,U.S. Senate,,LIB,"Millay, Tamara A.",8
+PHELPS,State Auditor,,DEM,"McCaskill, Claire",2267
+PHELPS,State Auditor,,REP,"Hanson, Al",1378
+PHELPS,State Auditor,,REP,"Kanzler, Jay L. Jr.",558
+PHELPS,State Auditor,,LIB,"Trembley, Arnold J.",13
+PHELPS,U.S. House,8,DEM,"Curtis, Gene",2183
+PHELPS,U.S. House,8,REP,"Emerson, Jo Ann",2254
+PHELPS,U.S. House,8,REP,"Kline, Richard Allen",218
+PHELPS,U.S. House,8,LIB,"Van Oostrom, Eric",13
+PHELPS,State Senate,16,DEM,"Ichord, Clara",2195
+PHELPS,State Senate,16,REP,"Steelman, Sarah",2326
+PHELPS,State House,147,DEM,"Hampton, Mark",313
+PHELPS,State House,147,LIB,"Williams, John W.",0
+PHELPS,State House,149,DEM,"Gaddy, Carol",1976
+PHELPS,State House,149,REP,"May, Bob",1912
+PHELPS,State House,150,DEM,"Barnitz, Frank A.",108
+PHELPS,State House,150,REP,"Leonard, Gary M.",75
+PIKE,U.S. Senate,,DEM,"Carnahan, Jean",2745
+PIKE,U.S. Senate,,DEM,"Day, Darrel D.",1051
+PIKE,U.S. Senate,,REP,"May, Joseph A.",11
+PIKE,U.S. Senate,,REP,"Talent, Jim",434
+PIKE,U.S. Senate,,REP,"Lindstedt, Martin",4
+PIKE,U.S. Senate,,REP,"Babbitt, Scott Craig",7
+PIKE,U.S. Senate,,REP,"Landfather, Doris Bass",9
+PIKE,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+PIKE,U.S. Senate,,LIB,"Millay, Tamara A.",6
+PIKE,State Auditor,,DEM,"McCaskill, Claire",3001
+PIKE,State Auditor,,REP,"Hanson, Al",225
+PIKE,State Auditor,,REP,"Kanzler, Jay L. Jr.",143
+PIKE,State Auditor,,LIB,"Trembley, Arnold J.",7
+PIKE,U.S. House,9,DEM,"Deichman, Donald M. (Don)",2821
+PIKE,U.S. House,9,REP,"Hulshof, Kenny C.",430
+PIKE,U.S. House,9,LIB,"Mruzik, John",6
+PIKE,State Senate,18,DEM,"Berkowitz, Sam",2773
+PIKE,State Senate,18,REP,"Cauthorn, John W.",380
+PIKE,State House,10,DEM,"Witte, Terry L",2781
+PIKE,State House,10,REP,"Graver, George",291
+PIKE,State House,10,REP,"Linnenbringer, Gary W.",141
+PLATTE,U.S. Senate,,DEM,"Carnahan, Jean",3801
+PLATTE,U.S. Senate,,DEM,"Day, Darrel D.",496
+PLATTE,U.S. Senate,,REP,"May, Joseph A.",145
+PLATTE,U.S. Senate,,REP,"Talent, Jim",4327
+PLATTE,U.S. Senate,,REP,"Lindstedt, Martin",71
+PLATTE,U.S. Senate,,REP,"Babbitt, Scott Craig",83
+PLATTE,U.S. Senate,,REP,"Landfather, Doris Bass",167
+PLATTE,U.S. Senate,,LIB,"Manley, Edward Joseph III",20
+PLATTE,U.S. Senate,,LIB,"Millay, Tamara A.",36
+PLATTE,State Auditor,,DEM,"McCaskill, Claire",3926
+PLATTE,State Auditor,,REP,"Hanson, Al",2298
+PLATTE,State Auditor,,REP,"Kanzler, Jay L. Jr.",1654
+PLATTE,State Auditor,,LIB,"Trembley, Arnold J.",55
+PLATTE,U.S. House,6,DEM,"Rinehart, Cathy",2746
+PLATTE,U.S. House,6,DEM,"Mitchell, Ed",755
+PLATTE,U.S. House,6,DEM,"Gilstrap, David P.",384
+PLATTE,U.S. House,6,REP,"Graves, Sam",4510
+PLATTE,U.S. House,6,LIB,"Buck, Erik",56
+PLATTE,State Senate,34,DEM,"Kelly, Glenda",3667
+PLATTE,State Senate,34,REP,"Shields, Charlie",3116
+PLATTE,State Senate,34,REP,"Pitts, Jim",1168
+PLATTE,State House,29,DEM,"Lawson, Maurice",295
+PLATTE,State House,29,REP,"Rooney, Rebecca Johnson",189
+PLATTE,State House,30,DEM,"Harding, Meg",1915
+PLATTE,State House,30,REP,"Brown, Jason",1927
+PLATTE,State House,32,DEM,"Purvis, Russell C.",1533
+PLATTE,State House,32,REP,"Phillips, Susan",2099
+POLK,U.S. Senate,,DEM,"Carnahan, Jean",750
+POLK,U.S. Senate,,DEM,"Day, Darrel D.",107
+POLK,U.S. Senate,,REP,"May, Joseph A.",251
+POLK,U.S. Senate,,REP,"Talent, Jim",3281
+POLK,U.S. Senate,,REP,"Lindstedt, Martin",52
+POLK,U.S. Senate,,REP,"Babbitt, Scott Craig",155
+POLK,U.S. Senate,,REP,"Landfather, Doris Bass",132
+POLK,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+POLK,U.S. Senate,,LIB,"Millay, Tamara A.",11
+POLK,State Auditor,,DEM,"McCaskill, Claire",738
+POLK,State Auditor,,REP,"Hanson, Al",2175
+POLK,State Auditor,,REP,"Kanzler, Jay L. Jr.",996
+POLK,State Auditor,,LIB,"Trembley, Arnold J.",15
+POLK,U.S. House,4,DEM,"Skelton, Ike",228
+POLK,U.S. House,4,REP,"Noland, James A. (Jim)",517
+POLK,U.S. House,4,REP,"Liffick, Chuck",78
+POLK,U.S. House,4,REP,"Brown, Bob",278
+POLK,U.S. House,4,LIB,"Nelson, Daniel Roy",7
+POLK,U.S. House,7,DEM,"Lapham, Ron",502
+POLK,U.S. House,7,REP,"Blunt, Roy",2695
+POLK,U.S. House,7,LIB,"Burlison, Doug",8
+POLK,State Senate,28,DEM,"Meyer, Richard",430
+POLK,State Senate,28,DEM,"Johnson, Catherine D.",391
+POLK,State Senate,28,REP,"Scott, Delbert L.",2456
+POLK,State Senate,28,REP,"Boatright, Matt",1435
+POLK,State Senate,28,LIB,"Watson, Jesse O.",13
+POLK,State House,126,DEM,"Sprouls, Douglas J.",236
+POLK,State House,126,REP,"Bartosh, Joe",211
+POLK,State House,126,REP,"Emery, Ed",251
+POLK,State House,126,REP,"Gardner, Scott",125
+POLK,State House,126,REP,"O'Connor, Bob",110
+POLK,State House,133,DEM,"Howard, Daniel",502
+POLK,State House,133,REP,"Miller, Ronnie",2688
+POLK,State House,133,LIB,"Wright, Thomas",12
+PULASKI,U.S. Senate,,DEM,"Carnahan, Jean",2469
+PULASKI,U.S. Senate,,DEM,"Day, Darrel D.",1055
+PULASKI,U.S. Senate,,REP,"May, Joseph A.",43
+PULASKI,U.S. Senate,,REP,"Talent, Jim",1208
+PULASKI,U.S. Senate,,REP,"Lindstedt, Martin",19
+PULASKI,U.S. Senate,,REP,"Babbitt, Scott Craig",18
+PULASKI,U.S. Senate,,REP,"Landfather, Doris Bass",24
+PULASKI,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+PULASKI,U.S. Senate,,LIB,"Millay, Tamara A.",5
+PULASKI,State Auditor,,DEM,"McCaskill, Claire",2915
+PULASKI,State Auditor,,REP,"Hanson, Al",787
+PULASKI,State Auditor,,REP,"Kanzler, Jay L. Jr.",343
+PULASKI,State Auditor,,LIB,"Trembley, Arnold J.",10
+PULASKI,U.S. House,4,DEM,"Skelton, Ike",3352
+PULASKI,U.S. House,4,REP,"Noland, James A. (Jim)",843
+PULASKI,U.S. House,4,REP,"Liffick, Chuck",132
+PULASKI,U.S. House,4,REP,"Brown, Bob",191
+PULASKI,U.S. House,4,LIB,"Nelson, Daniel Roy",9
+PULASKI,State Senate,16,DEM,"Ichord, Clara",2926
+PULASKI,State Senate,16,REP,"Steelman, Sarah",1161
+PULASKI,State House,147,DEM,"Hampton, Mark",23
+PULASKI,State House,147,LIB,"Williams, John W.",0
+PULASKI,State House,148,DEM,"Ransdall, Bill L.",3233
+PULASKI,State House,148,LIB,"Warren, Grant",10
+PUTNAM,U.S. Senate,,DEM,"Carnahan, Jean",73
+PUTNAM,U.S. Senate,,DEM,"Day, Darrel D.",5
+PUTNAM,U.S. Senate,,REP,"May, Joseph A.",79
+PUTNAM,U.S. Senate,,REP,"Talent, Jim",999
+PUTNAM,U.S. Senate,,REP,"Lindstedt, Martin",25
+PUTNAM,U.S. Senate,,REP,"Babbitt, Scott Craig",44
+PUTNAM,U.S. Senate,,REP,"Landfather, Doris Bass",60
+PUTNAM,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+PUTNAM,U.S. Senate,,LIB,"Millay, Tamara A.",1
+PUTNAM,State Auditor,,DEM,"McCaskill, Claire",61
+PUTNAM,State Auditor,,REP,"Hanson, Al",634
+PUTNAM,State Auditor,,REP,"Kanzler, Jay L. Jr.",370
+PUTNAM,State Auditor,,LIB,"Trembley, Arnold J.",1
+PUTNAM,U.S. House,6,DEM,"Rinehart, Cathy",41
+PUTNAM,U.S. House,6,DEM,"Mitchell, Ed",13
+PUTNAM,U.S. House,6,DEM,"Gilstrap, David P.",9
+PUTNAM,U.S. House,6,REP,"Graves, Sam",1174
+PUTNAM,U.S. House,6,LIB,"Buck, Erik",1
+PUTNAM,State Senate,18,DEM,"Berkowitz, Sam",65
+PUTNAM,State Senate,18,REP,"Cauthorn, John W.",1068
+PUTNAM,State House,2,DEM,"Cooper, Charles E.",62
+PUTNAM,State House,2,REP,"Behnen, Robert J. (Bob)",1133
+RALLS,U.S. Senate,,DEM,"Carnahan, Jean",1773
+RALLS,U.S. Senate,,DEM,"Day, Darrel D.",835
+RALLS,U.S. Senate,,REP,"May, Joseph A.",7
+RALLS,U.S. Senate,,REP,"Talent, Jim",360
+RALLS,U.S. Senate,,REP,"Lindstedt, Martin",3
+RALLS,U.S. Senate,,REP,"Babbitt, Scott Craig",5
+RALLS,U.S. Senate,,REP,"Landfather, Doris Bass",9
+RALLS,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+RALLS,U.S. Senate,,LIB,"Millay, Tamara A.",2
+RALLS,State Auditor,,DEM,"McCaskill, Claire",2139
+RALLS,State Auditor,,REP,"Hanson, Al",216
+RALLS,State Auditor,,REP,"Kanzler, Jay L. Jr.",99
+RALLS,State Auditor,,LIB,"Trembley, Arnold J.",2
+RALLS,U.S. House,9,DEM,"Deichman, Donald M. (Don)",2039
+RALLS,U.S. House,9,REP,"Hulshof, Kenny C.",380
+RALLS,U.S. House,9,LIB,"Mruzik, John",2
+RALLS,State Senate,18,DEM,"Berkowitz, Sam",2059
+RALLS,State Senate,18,REP,"Cauthorn, John W.",367
+RALLS,State House,6,DEM,"Bringer, Rachel",1865
+RALLS,State House,6,DEM,"Riggs, Louis",786
+RALLS,State House,6,REP,"Walden, Ross",251
+RALLS,State House,6,REP,"Lemon, James L. (Jim)",133
+RALLS,State House,10,DEM,"Witte, Terry L",0
+RALLS,State House,10,REP,"Graver, George",0
+RALLS,State House,10,REP,"Linnenbringer, Gary W.",0
+RANDOLPH,U.S. Senate,,DEM,"Carnahan, Jean",1954
+RANDOLPH,U.S. Senate,,DEM,"Day, Darrel D.",701
+RANDOLPH,U.S. Senate,,REP,"May, Joseph A.",41
+RANDOLPH,U.S. Senate,,REP,"Talent, Jim",943
+RANDOLPH,U.S. Senate,,REP,"Lindstedt, Martin",6
+RANDOLPH,U.S. Senate,,REP,"Babbitt, Scott Craig",11
+RANDOLPH,U.S. Senate,,REP,"Landfather, Doris Bass",13
+RANDOLPH,U.S. Senate,,LIB,"Manley, Edward Joseph III",3
+RANDOLPH,U.S. Senate,,LIB,"Millay, Tamara A.",1
+RANDOLPH,State Auditor,,DEM,"McCaskill, Claire",2293
+RANDOLPH,State Auditor,,REP,"Hanson, Al",556
+RANDOLPH,State Auditor,,REP,"Kanzler, Jay L. Jr.",293
+RANDOLPH,State Auditor,,LIB,"Trembley, Arnold J.",4
+RANDOLPH,U.S. House,9,DEM,"Deichman, Donald M. (Don)",2109
+RANDOLPH,U.S. House,9,REP,"Hulshof, Kenny C.",984
+RANDOLPH,U.S. House,9,LIB,"Mruzik, John",4
+RANDOLPH,State House,22,DEM,"Copenhaver, Nancy",2281
+RANDOLPH,State House,22,REP,"Sander, Therese",923
+RAY,U.S. Senate,,DEM,"Carnahan, Jean",3903
+RAY,U.S. Senate,,DEM,"Day, Darrel D.",1098
+RAY,U.S. Senate,,REP,"May, Joseph A.",35
+RAY,U.S. Senate,,REP,"Talent, Jim",614
+RAY,U.S. Senate,,REP,"Lindstedt, Martin",9
+RAY,U.S. Senate,,REP,"Babbitt, Scott Craig",20
+RAY,U.S. Senate,,REP,"Landfather, Doris Bass",38
+RAY,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+RAY,U.S. Senate,,LIB,"Millay, Tamara A.",12
+RAY,State Auditor,,DEM,"McCaskill, Claire",4174
+RAY,State Auditor,,REP,"Hanson, Al",434
+RAY,State Auditor,,REP,"Kanzler, Jay L. Jr.",163
+RAY,State Auditor,,LIB,"Trembley, Arnold J.",11
+RAY,U.S. House,4,DEM,"Skelton, Ike",4444
+RAY,U.S. House,4,REP,"Noland, James A. (Jim)",354
+RAY,U.S. House,4,REP,"Liffick, Chuck",73
+RAY,U.S. House,4,REP,"Brown, Bob",196
+RAY,U.S. House,4,LIB,"Nelson, Daniel Roy",12
+RAY,State House,36,DEM,"Ward, Benny",2124
+RAY,State House,36,DEM,"Kelly, Gary",2887
+REYNOLDS,U.S. Senate,,DEM,"Carnahan, Jean",1527
+REYNOLDS,U.S. Senate,,DEM,"Day, Darrel D.",464
+REYNOLDS,U.S. Senate,,REP,"May, Joseph A.",3
+REYNOLDS,U.S. Senate,,REP,"Talent, Jim",82
+REYNOLDS,U.S. Senate,,REP,"Lindstedt, Martin",5
+REYNOLDS,U.S. Senate,,REP,"Babbitt, Scott Craig",3
+REYNOLDS,U.S. Senate,,REP,"Landfather, Doris Bass",1
+REYNOLDS,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+REYNOLDS,U.S. Senate,,LIB,"Millay, Tamara A.",0
+REYNOLDS,State Auditor,,DEM,"McCaskill, Claire",1391
+REYNOLDS,State Auditor,,REP,"Hanson, Al",60
+REYNOLDS,State Auditor,,REP,"Kanzler, Jay L. Jr.",17
+REYNOLDS,State Auditor,,LIB,"Trembley, Arnold J.",0
+REYNOLDS,U.S. House,8,DEM,"Curtis, Gene",1287
+REYNOLDS,U.S. House,8,REP,"Emerson, Jo Ann",93
+REYNOLDS,U.S. House,8,REP,"Kline, Richard Allen",8
+REYNOLDS,U.S. House,8,LIB,"Van Oostrom, Eric",0
+REYNOLDS,State House,150,DEM,"Barnitz, Frank A.",31
+REYNOLDS,State House,150,REP,"Leonard, Gary M.",2
+REYNOLDS,State House,152,DEM,"Scaggs, Jim",426
+REYNOLDS,State House,152,DEM,"Van Steenis, Shane",152
+REYNOLDS,State House,152,DEM,"Jones, Mark M.",157
+REYNOLDS,State House,152,DEM,"Kuessner, J. C.",1009
+REYNOLDS,State House,152,DEM,"Boyer, Joe",24
+REYNOLDS,State House,152,DEM,"Slover, Steve",8
+REYNOLDS,State House,152,DEM,"Weber, Winnie P. Faulkenberry",280
+REYNOLDS,State House,152,REP,"Dennison, Gale",33
+REYNOLDS,State House,152,REP,"Masters, Roy L.",57
+REYNOLDS,State House,152,LIB,"Mecey, David F.",0
+REYNOLDS,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1499
+RIPLEY,U.S. Senate,,DEM,"Carnahan, Jean",990
+RIPLEY,U.S. Senate,,DEM,"Day, Darrel D.",287
+RIPLEY,U.S. Senate,,REP,"May, Joseph A.",74
+RIPLEY,U.S. Senate,,REP,"Talent, Jim",999
+RIPLEY,U.S. Senate,,REP,"Lindstedt, Martin",22
+RIPLEY,U.S. Senate,,REP,"Babbitt, Scott Craig",22
+RIPLEY,U.S. Senate,,REP,"Landfather, Doris Bass",43
+RIPLEY,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+RIPLEY,U.S. Senate,,LIB,"Millay, Tamara A.",3
+RIPLEY,State Auditor,,DEM,"McCaskill, Claire",930
+RIPLEY,State Auditor,,REP,"Hanson, Al",656
+RIPLEY,State Auditor,,REP,"Kanzler, Jay L. Jr.",253
+RIPLEY,State Auditor,,LIB,"Trembley, Arnold J.",3
+RIPLEY,U.S. House,8,DEM,"Curtis, Gene",883
+RIPLEY,U.S. House,8,REP,"Emerson, Jo Ann",1182
+RIPLEY,U.S. House,8,REP,"Kline, Richard Allen",121
+RIPLEY,U.S. House,8,LIB,"Van Oostrom, Eric",5
+RIPLEY,State House,153,DEM,"Jackson, Larry",1046
+RIPLEY,State House,153,REP,"Slayton, Tim",860
+RIPLEY,State House,153,REP,"Dethrow, Mike",454
+RIPLEY,Circuit Judge  Circuit 36,,DEM,"Smith, Robert L.",869
+RIPLEY,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",949
+SALINE,U.S. Senate,,DEM,"Carnahan, Jean",3711
+SALINE,U.S. Senate,,DEM,"Day, Darrel D.",1233
+SALINE,U.S. Senate,,REP,"May, Joseph A.",16
+SALINE,U.S. Senate,,REP,"Talent, Jim",385
+SALINE,U.S. Senate,,REP,"Lindstedt, Martin",8
+SALINE,U.S. Senate,,REP,"Babbitt, Scott Craig",6
+SALINE,U.S. Senate,,REP,"Landfather, Doris Bass",16
+SALINE,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+SALINE,U.S. Senate,,LIB,"Millay, Tamara A.",9
+SALINE,State Auditor,,DEM,"McCaskill, Claire",4175
+SALINE,State Auditor,,REP,"Hanson, Al",255
+SALINE,State Auditor,,REP,"Kanzler, Jay L. Jr.",117
+SALINE,State Auditor,,LIB,"Trembley, Arnold J.",11
+SALINE,U.S. House,4,DEM,"Skelton, Ike",4575
+SALINE,U.S. House,4,REP,"Noland, James A. (Jim)",241
+SALINE,U.S. House,4,REP,"Liffick, Chuck",34
+SALINE,U.S. House,4,REP,"Brown, Bob",95
+SALINE,U.S. House,4,LIB,"Nelson, Daniel Roy",12
+SALINE,State House,26,DEM,"Seigfreid, Jim",2965
+SALINE,State House,26,DEM,"Marshall, T. W. (Tom)",1593
+SALINE,State House,26,DEM,"Kemm, David Philip",83
+SALINE,State House,118,DEM,"MoriartyEbers, Judith K. (Judi)",369
+SALINE,State House,118,REP,"Smith, Todd",140
+SALINE,State House,118,LIB,"Waldrep, Donald (Donnie)",2
+SCHUYLER,U.S. Senate,,DEM,"Carnahan, Jean",438
+SCHUYLER,U.S. Senate,,DEM,"Day, Darrel D.",87
+SCHUYLER,U.S. Senate,,REP,"May, Joseph A.",25
+SCHUYLER,U.S. Senate,,REP,"Talent, Jim",447
+SCHUYLER,U.S. Senate,,REP,"Lindstedt, Martin",9
+SCHUYLER,U.S. Senate,,REP,"Babbitt, Scott Craig",11
+SCHUYLER,U.S. Senate,,REP,"Landfather, Doris Bass",26
+SCHUYLER,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+SCHUYLER,U.S. Senate,,LIB,"Millay, Tamara A.",0
+SCHUYLER,State Auditor,,DEM,"McCaskill, Claire",403
+SCHUYLER,State Auditor,,REP,"Hanson, Al",273
+SCHUYLER,State Auditor,,REP,"Kanzler, Jay L. Jr.",152
+SCHUYLER,State Auditor,,LIB,"Trembley, Arnold J.",0
+SCHUYLER,U.S. House,6,DEM,"Rinehart, Cathy",239
+SCHUYLER,U.S. House,6,DEM,"Mitchell, Ed",90
+SCHUYLER,U.S. House,6,DEM,"Gilstrap, David P.",89
+SCHUYLER,U.S. House,6,REP,"Graves, Sam",420
+SCHUYLER,U.S. House,6,LIB,"Buck, Erik",0
+SCHUYLER,State Senate,18,DEM,"Berkowitz, Sam",472
+SCHUYLER,State Senate,18,REP,"Cauthorn, John W.",432
+SCHUYLER,State House,1,DEM,"Campbell, Paul",417
+SCHUYLER,State House,1,REP,"Munzlinger, Brian",392
+SCOTLAND,U.S. Senate,,DEM,"Carnahan, Jean",675
+SCOTLAND,U.S. Senate,,DEM,"Day, Darrel D.",181
+SCOTLAND,U.S. Senate,,REP,"May, Joseph A.",14
+SCOTLAND,U.S. Senate,,REP,"Talent, Jim",369
+SCOTLAND,U.S. Senate,,REP,"Lindstedt, Martin",6
+SCOTLAND,U.S. Senate,,REP,"Babbitt, Scott Craig",4
+SCOTLAND,U.S. Senate,,REP,"Landfather, Doris Bass",14
+SCOTLAND,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+SCOTLAND,U.S. Senate,,LIB,"Millay, Tamara A.",1
+SCOTLAND,State Auditor,,DEM,"McCaskill, Claire",621
+SCOTLAND,State Auditor,,REP,"Hanson, Al",205
+SCOTLAND,State Auditor,,REP,"Kanzler, Jay L. Jr.",99
+SCOTLAND,State Auditor,,LIB,"Trembley, Arnold J.",1
+SCOTLAND,U.S. House,9,DEM,"Deichman, Donald M. (Don)",586
+SCOTLAND,U.S. House,9,REP,"Hulshof, Kenny C.",398
+SCOTLAND,U.S. House,9,LIB,"Mruzik, John",1
+SCOTLAND,State Senate,18,DEM,"Berkowitz, Sam",814
+SCOTLAND,State Senate,18,REP,"Cauthorn, John W.",363
+SCOTLAND,State House,1,DEM,"Campbell, Paul",771
+SCOTLAND,State House,1,REP,"Munzlinger, Brian",306
+SCOTT,U.S. Senate,,DEM,"Carnahan, Jean",2898
+SCOTT,U.S. Senate,,DEM,"Day, Darrel D.",1313
+SCOTT,U.S. Senate,,REP,"May, Joseph A.",45
+SCOTT,U.S. Senate,,REP,"Talent, Jim",1371
+SCOTT,U.S. Senate,,REP,"Lindstedt, Martin",11
+SCOTT,U.S. Senate,,REP,"Babbitt, Scott Craig",15
+SCOTT,U.S. Senate,,REP,"Landfather, Doris Bass",32
+SCOTT,U.S. Senate,,LIB,"Manley, Edward Joseph III",14
+SCOTT,U.S. Senate,,LIB,"Millay, Tamara A.",4
+SCOTT,State Auditor,,DEM,"McCaskill, Claire",3091
+SCOTT,State Auditor,,REP,"Hanson, Al",805
+SCOTT,State Auditor,,REP,"Kanzler, Jay L. Jr.",357
+SCOTT,State Auditor,,LIB,"Trembley, Arnold J.",14
+SCOTT,U.S. House,8,DEM,"Curtis, Gene",2989
+SCOTT,U.S. House,8,REP,"Emerson, Jo Ann",1329
+SCOTT,U.S. House,8,REP,"Kline, Richard Allen",176
+SCOTT,U.S. House,8,LIB,"Van Oostrom, Eric",14
+SCOTT,State House,158,REP,"Crowell, Jason",0
+SCOTT,State House,158,LIB,"Ulery, C. Darby",0
+SCOTT,State House,160,DEM,"Kiefer, Donnie",2489
+SCOTT,State House,160,REP,"Myers, Peter",1033
+SCOTT,State House,161,DEM,"Petitt, Wayne",728
+SCOTT,State House,161,REP,"Black, Lanie",272
+SHANNON,U.S. Senate,,DEM,"Carnahan, Jean",1799
+SHANNON,U.S. Senate,,DEM,"Day, Darrel D.",625
+SHANNON,U.S. Senate,,REP,"May, Joseph A.",9
+SHANNON,U.S. Senate,,REP,"Talent, Jim",151
+SHANNON,U.S. Senate,,REP,"Lindstedt, Martin",1
+SHANNON,U.S. Senate,,REP,"Babbitt, Scott Craig",1
+SHANNON,U.S. Senate,,REP,"Landfather, Doris Bass",5
+SHANNON,U.S. Senate,,LIB,"Manley, Edward Joseph III",5
+SHANNON,U.S. Senate,,LIB,"Millay, Tamara A.",0
+SHANNON,State Auditor,,DEM,"McCaskill, Claire",1681
+SHANNON,State Auditor,,REP,"Hanson, Al",75
+SHANNON,State Auditor,,REP,"Kanzler, Jay L. Jr.",51
+SHANNON,State Auditor,,LIB,"Trembley, Arnold J.",3
+SHANNON,U.S. House,8,DEM,"Curtis, Gene",1605
+SHANNON,U.S. House,8,REP,"Emerson, Jo Ann",151
+SHANNON,U.S. House,8,REP,"Kline, Richard Allen",22
+SHANNON,U.S. House,8,LIB,"Van Oostrom, Eric",2
+SHANNON,State House,147,DEM,"Hampton, Mark",4
+SHANNON,State House,147,LIB,"Williams, John W.",0
+SHANNON,State House,152,DEM,"Scaggs, Jim",378
+SHANNON,State House,152,DEM,"Van Steenis, Shane",856
+SHANNON,State House,152,DEM,"Jones, Mark M.",65
+SHANNON,State House,152,DEM,"Kuessner, J. C.",702
+SHANNON,State House,152,DEM,"Boyer, Joe",16
+SHANNON,State House,152,DEM,"Slover, Steve",9
+SHANNON,State House,152,DEM,"Weber, Winnie P. Faulkenberry",528
+SHANNON,State House,152,REP,"Dennison, Gale",56
+SHANNON,State House,152,REP,"Masters, Roy L.",81
+SHANNON,State House,152,LIB,"Mecey, David F.",3
+SHELBY,U.S. Senate,,DEM,"Carnahan, Jean",1420
+SHELBY,U.S. Senate,,DEM,"Day, Darrel D.",692
+SHELBY,U.S. Senate,,REP,"May, Joseph A.",0
+SHELBY,U.S. Senate,,REP,"Talent, Jim",163
+SHELBY,U.S. Senate,,REP,"Lindstedt, Martin",3
+SHELBY,U.S. Senate,,REP,"Babbitt, Scott Craig",4
+SHELBY,U.S. Senate,,REP,"Landfather, Doris Bass",5
+SHELBY,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+SHELBY,U.S. Senate,,LIB,"Millay, Tamara A.",3
+SHELBY,State Auditor,,DEM,"McCaskill, Claire",1681
+SHELBY,State Auditor,,REP,"Hanson, Al",83
+SHELBY,State Auditor,,REP,"Kanzler, Jay L. Jr.",44
+SHELBY,State Auditor,,LIB,"Trembley, Arnold J.",3
+SHELBY,U.S. House,9,DEM,"Deichman, Donald M. (Don)",1578
+SHELBY,U.S. House,9,REP,"Hulshof, Kenny C.",167
+SHELBY,U.S. House,9,LIB,"Mruzik, John",3
+SHELBY,State Senate,18,DEM,"Berkowitz, Sam",1659
+SHELBY,State Senate,18,REP,"Cauthorn, John W.",159
+SHELBY,State House,8,DEM,"Shively, Tom",1879
+SHELBY,State House,8,REP,"Shoemaker, Chris",154
+ST CHARLES,U.S. Senate,,DEM,"Carnahan, Jean",11628
+ST CHARLES,U.S. Senate,,DEM,"Day, Darrel D.",1206
+ST CHARLES,U.S. Senate,,REP,"May, Joseph A.",1167
+ST CHARLES,U.S. Senate,,REP,"Talent, Jim",25207
+ST CHARLES,U.S. Senate,,REP,"Lindstedt, Martin",285
+ST CHARLES,U.S. Senate,,REP,"Babbitt, Scott Craig",323
+ST CHARLES,U.S. Senate,,REP,"Landfather, Doris Bass",803
+ST CHARLES,U.S. Senate,,LIB,"Manley, Edward Joseph III",56
+ST CHARLES,U.S. Senate,,LIB,"Millay, Tamara A.",90
+ST CHARLES,State Auditor,,DEM,"McCaskill, Claire",10798
+ST CHARLES,State Auditor,,REP,"Hanson, Al",13894
+ST CHARLES,State Auditor,,REP,"Kanzler, Jay L. Jr.",7679
+ST CHARLES,State Auditor,,LIB,"Trembley, Arnold J.",141
+ST CHARLES,U.S. House,2,DEM,"Hogan, John",8986
+ST CHARLES,U.S. House,2,REP,"Akin, Todd",20572
+ST CHARLES,U.S. House,2,LIB,"Maloney, Darla R.",119
+ST CHARLES,U.S. House,9,DEM,"Deichman, Donald M. (Don)",1269
+ST CHARLES,U.S. House,9,REP,"Hulshof, Kenny C.",4334
+ST CHARLES,U.S. House,9,LIB,"Mruzik, John",22
+ST CHARLES,State Senate,2,DEM,"Schieffer, Edward L.",4632
+ST CHARLES,State Senate,2,REP,"Dolan, Jon",10868
+ST CHARLES,State House,12,REP,"Varner, Terry",1087
+ST CHARLES,State House,12,REP,"Parker, Sherman",1459
+ST CHARLES,State House,12,REP,"Brungard, Daniel V.",1018
+ST CHARLES,State House,13,DEM,"Stephens, Tom",1398
+ST CHARLES,State House,13,REP,"Hollinger, Darrel",1562
+ST CHARLES,State House,13,REP,"Rupp, Scott T.",2474
+ST CHARLES,State House,14,DEM,"Davidson, Judy",979
+ST CHARLES,State House,14,REP,"Smith, Joe",1755
+ST CHARLES,State House,14,REP,"Dudley, Mike",1636
+ST CHARLES,State House,15,DEM,"Green, Thomas S.",1199
+ST CHARLES,State House,15,REP,"Miller, Lennie",2558
+ST CHARLES,State House,16,REP,"Bearden, Carl L.",2224
+ST CHARLES,State House,16,REP,"Baker, James O.",631
+ST CHARLES,State House,17,DEM,"Staebell, Aaron M.",1467
+ST CHARLES,State House,17,REP,"Schneider, Vicki",2498
+ST CHARLES,State House,18,REP,"Dempsey, Tom",3364
+ST CHARLES,State House,18,LIB,"Trachte, Kurt C.",19
+ST CHARLES,State House,19,REP,"Davis, Cynthia L.",1773
+ST CHARLES,State House,19,REP,"Field, Marilyn",657
+ST CHARLES,State House,19,REP,"Haynes, Mark",389
+ST CHARLES,State House,109,DEM,"Scott, Gene",418
+ST CHARLES,State House,109,REP,"Threlkeld, Kevin",925
+ST CHARLES,Circuit Judge  Circuit 11 Division 1,,REP,"Ehlmann, Steve",21175
+ST CLAIR,U.S. Senate,,DEM,"Carnahan, Jean",979
+ST CLAIR,U.S. Senate,,DEM,"Day, Darrel D.",249
+ST CLAIR,U.S. Senate,,REP,"May, Joseph A.",56
+ST CLAIR,U.S. Senate,,REP,"Talent, Jim",1393
+ST CLAIR,U.S. Senate,,REP,"Lindstedt, Martin",27
+ST CLAIR,U.S. Senate,,REP,"Babbitt, Scott Craig",44
+ST CLAIR,U.S. Senate,,REP,"Landfather, Doris Bass",45
+ST CLAIR,U.S. Senate,,LIB,"Manley, Edward Joseph III",6
+ST CLAIR,U.S. Senate,,LIB,"Millay, Tamara A.",10
+ST CLAIR,State Auditor,,DEM,"McCaskill, Claire",1063
+ST CLAIR,State Auditor,,REP,"Hanson, Al",834
+ST CLAIR,State Auditor,,REP,"Kanzler, Jay L. Jr.",401
+ST CLAIR,State Auditor,,LIB,"Trembley, Arnold J.",13
+ST CLAIR,U.S. House,4,DEM,"Skelton, Ike",1140
+ST CLAIR,U.S. House,4,REP,"Noland, James A. (Jim)",969
+ST CLAIR,U.S. House,4,REP,"Liffick, Chuck",74
+ST CLAIR,U.S. House,4,REP,"Brown, Bob",263
+ST CLAIR,U.S. House,4,LIB,"Nelson, Daniel Roy",12
+ST CLAIR,State Senate,28,DEM,"Meyer, Richard",358
+ST CLAIR,State Senate,28,DEM,"Johnson, Catherine D.",823
+ST CLAIR,State Senate,28,REP,"Scott, Delbert L.",1444
+ST CLAIR,State Senate,28,REP,"Boatright, Matt",206
+ST CLAIR,State Senate,28,LIB,"Watson, Jesse O.",13
+ST CLAIR,State House,119,DEM,"Keith, Clifford",970
+ST CLAIR,State House,119,REP,"Ainley, Brian",122
+ST CLAIR,State House,119,REP,"Wilson, Larry D.",922
+ST CLAIR,State House,119,REP,"Walker, Pamela S.",538
+ST FRANCOIS,U.S. Senate,,DEM,"Carnahan, Jean",4681
+ST FRANCOIS,U.S. Senate,,DEM,"Day, Darrel D.",1083
+ST FRANCOIS,U.S. Senate,,REP,"May, Joseph A.",66
+ST FRANCOIS,U.S. Senate,,REP,"Talent, Jim",2102
+ST FRANCOIS,U.S. Senate,,REP,"Lindstedt, Martin",11
+ST FRANCOIS,U.S. Senate,,REP,"Babbitt, Scott Craig",12
+ST FRANCOIS,U.S. Senate,,REP,"Landfather, Doris Bass",47
+ST FRANCOIS,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+ST FRANCOIS,U.S. Senate,,LIB,"Millay, Tamara A.",1
+ST FRANCOIS,State Auditor,,DEM,"McCaskill, Claire",4775
+ST FRANCOIS,State Auditor,,REP,"Hanson, Al",1259
+ST FRANCOIS,State Auditor,,REP,"Kanzler, Jay L. Jr.",542
+ST FRANCOIS,State Auditor,,LIB,"Trembley, Arnold J.",1
+ST FRANCOIS,U.S. House,8,DEM,"Curtis, Gene",4452
+ST FRANCOIS,U.S. House,8,REP,"Emerson, Jo Ann",2034
+ST FRANCOIS,U.S. House,8,REP,"Kline, Richard Allen",211
+ST FRANCOIS,U.S. House,8,LIB,"Van Oostrom, Eric",1
+ST FRANCOIS,State House,106,DEM,"Smith, Dennis W.",1426
+ST FRANCOIS,State House,106,REP,"Fallert, J. Cecilia",174
+ST FRANCOIS,State House,106,REP,"Burcham, Tom",1178
+ST FRANCOIS,State House,107,DEM,"Ward, Dan",2903
+ST FRANCOIS,State House,107,DEM,"Camp, Greg",1070
+ST FRANCOIS,State House,107,REP,"Schwartz, Robert (Bob)",744
+ST LOUIS,U.S. Senate,,DEM,"Carnahan, Jean",35240
+ST LOUIS,U.S. Senate,,DEM,"Day, Darrel D.",5448
+ST LOUIS,U.S. Senate,,REP,"May, Joseph A.",114
+ST LOUIS,U.S. Senate,,REP,"Talent, Jim",3035
+ST LOUIS,U.S. Senate,,REP,"Lindstedt, Martin",32
+ST LOUIS,U.S. Senate,,REP,"Babbitt, Scott Craig",29
+ST LOUIS,U.S. Senate,,REP,"Landfather, Doris Bass",109
+ST LOUIS,U.S. Senate,,LIB,"Manley, Edward Joseph III",46
+ST LOUIS,U.S. Senate,,LIB,"Millay, Tamara A.",65
+ST LOUIS,State Auditor,,DEM,"McCaskill, Claire",33550
+ST LOUIS,State Auditor,,REP,"Hanson, Al",1708
+ST LOUIS,State Auditor,,REP,"Kanzler, Jay L. Jr.",1081
+ST LOUIS,State Auditor,,LIB,"Trembley, Arnold J.",104
+ST LOUIS,U.S. House,1,DEM,"Clay, Wm. Lacy",16777
+ST LOUIS,U.S. House,1,DEM,"Harris, Carl E.",2317
+ST LOUIS,U.S. House,1,REP,"Schwadron, Richard",390
+ST LOUIS,U.S. House,1,LIB,"Higgins, Jim",15
+ST LOUIS,U.S. House,3,DEM,"Bram, Michael",5889
+ST LOUIS,U.S. House,3,DEM,"Gephardt, Richard A.",16216
+ST LOUIS,U.S. House,3,REP,"Steger, Mike",1261
+ST LOUIS,U.S. House,3,REP,"Enz, Catherine S.",1226
+ST LOUIS,U.S. House,3,LIB,"Byington, Daniel (Dan)",88
+ST LOUIS,State Senate,4,DEM,"Dougherty, Pat",14681
+ST LOUIS,State Senate,4,DEM,"Shelton, O. L.",7674
+ST LOUIS,State House,57,DEM,"Johnson, Ocie B.",1835
+ST LOUIS,State House,57,DEM,"ElAmin, Yaphett",2336
+ST LOUIS,State House,58,DEM,"Hubbard, Rodney R.",1266
+ST LOUIS,State House,58,DEM,"Walker, Anthony (Ford)",784
+ST LOUIS,State House,58,DEM,"Haas, Bill",359
+ST LOUIS,State House,58,DEM,"Bouchard, Paris",1226
+ST LOUIS,State House,58,REP,"Hair, Isaiah Jr.",101
+ST LOUIS,State House,59,DEM,"Carnahan, Russ",2193
+ST LOUIS,State House,59,LIB,"Babcock, Kevin",11
+ST LOUIS,State House,60,DEM,"Boykins, Amber Holly",3580
+ST LOUIS,State House,61,DEM,"Johnson, Connie (LaJoyce)",3010
+ST LOUIS,State House,63,DEM,"Jones, Robin Wright",2576
+ST LOUIS,State House,63,REP,"Chance, Sandra",137
+ST LOUIS,State House,64,DEM,"Hilgemann, Bob",2829
+ST LOUIS,State House,65,DEM,"Kratky, Fred",4094
+ST LOUIS,State House,65,DEM,"Clements, Shonagh",2797
+ST LOUIS,State House,65,REP,"Zakibe, Judy A.",525
+ST LOUIS,State House,66,DEM,"Vogt, Michael",1697
+ST LOUIS,State House,66,REP,"McCloskey, Charles (Chuck)",278
+ST LOUIS,State House,67,DEM,"Daus, Mike",2985
+ST LOUIS,State House,108,DEM,"Villa, Thomas Albert",3653
+ST LOUIS,U.S. Senate,,DEM,"Carnahan, Jean",64671
+ST LOUIS,U.S. Senate,,DEM,"Day, Darrel D.",7077
+ST LOUIS,U.S. Senate,,REP,"May, Joseph A.",1884
+ST LOUIS,U.S. Senate,,REP,"Talent, Jim",64566
+ST LOUIS,U.S. Senate,,REP,"Lindstedt, Martin",394
+ST LOUIS,U.S. Senate,,REP,"Babbitt, Scott Craig",499
+ST LOUIS,U.S. Senate,,REP,"Landfather, Doris Bass",1305
+ST LOUIS,U.S. Senate,,LIB,"Manley, Edward Joseph III",236
+ST LOUIS,U.S. Senate,,LIB,"Millay, Tamara A.",348
+ST LOUIS,State Auditor,,DEM,"McCaskill, Claire",63277
+ST LOUIS,State Auditor,,REP,"Hanson, Al",31489
+ST LOUIS,State Auditor,,REP,"Kanzler, Jay L. Jr.",23337
+ST LOUIS,State Auditor,,LIB,"Trembley, Arnold J.",586
+ST LOUIS,U.S. House,1,DEM,"Clay, Wm. Lacy",24628
+ST LOUIS,U.S. House,1,DEM,"Harris, Carl E.",12005
+ST LOUIS,U.S. House,1,REP,"Schwadron, Richard",15132
+ST LOUIS,U.S. House,1,LIB,"Higgins, Jim",207
+ST LOUIS,U.S. House,2,DEM,"Hogan, John",13352
+ST LOUIS,U.S. House,2,REP,"Akin, Todd",32810
+ST LOUIS,U.S. House,2,LIB,"Maloney, Darla R.",235
+ST LOUIS,U.S. House,3,DEM,"Bram, Michael",3822
+ST LOUIS,U.S. House,3,DEM,"Gephardt, Richard A.",14464
+ST LOUIS,U.S. House,3,REP,"Steger, Mike",4603
+ST LOUIS,U.S. House,3,REP,"Enz, Catherine S.",8606
+ST LOUIS,U.S. House,3,LIB,"Byington, Daniel (Dan)",146
+ST LOUIS,State Senate,14,DEM,"Days, Rita H.",7261
+ST LOUIS,State Senate,14,DEM,"Bowman, John L. Sr.",4655
+ST LOUIS,State Senate,14,DEM,"Steele, Ruble H. Jr.",696
+ST LOUIS,State Senate,24,DEM,"Bray, Joan",10594
+ST LOUIS,State Senate,24,REP,"Tallarico, Molly",6422
+ST LOUIS,State Senate,24,REP,"Lewis, John B.",6601
+ST LOUIS,State Senate,24,LIB,"Illyes, Dick",98
+ST LOUIS,State Senate,26,DEM,"Meyer, Donald D.",1018
+ST LOUIS,State Senate,26,REP,"Banton, Stephen (Steve)",2443
+ST LOUIS,State Senate,26,REP,"Griesheimer, John E.",497
+ST LOUIS,State Senate,26,REP,"Froelker, Jim",1150
+ST LOUIS,State House,64,DEM,"Hilgemann, Bob",354
+ST LOUIS,State House,66,DEM,"Vogt, Michael",1107
+ST LOUIS,State House,66,REP,"McCloskey, Charles (Chuck)",945
+ST LOUIS,State House,70,DEM,"Bowman, John L. Jr.",1269
+ST LOUIS,State House,70,DEM,"Muckler, Matt",1639
+ST LOUIS,State House,71,DEM,"Haywood, Esther",2041
+ST LOUIS,State House,71,DEM,"Keys, Zackery SR",623
+ST LOUIS,State House,71,LIB,"Knapp, Thomas L.",7
+ST LOUIS,State House,72,DEM,"Thompson, Betty L.",2757
+ST LOUIS,State House,73,DEM,"Donnelly, Margaret",2340
+ST LOUIS,State House,73,DEM,"Brown, Dave",490
+ST LOUIS,State House,73,REP,"Howard, Michael J.",1648
+ST LOUIS,State House,74,DEM,"George, Thomas (Tom)",2704
+ST LOUIS,State House,75,DEM,"Stokan, Peter",813
+ST LOUIS,State House,75,DEM,"Darrough, Bruce David",2183
+ST LOUIS,State House,75,REP,"Espinoza, Paul",1019
+ST LOUIS,State House,75,REP,"Thomas, Jacquelyn M.",789
+ST LOUIS,State House,76,DEM,"Spreng, Michael",1963
+ST LOUIS,State House,76,REP,"Miller, Kent",1393
+ST LOUIS,State House,77,DEM,"Steele, Anne",993
+ST LOUIS,State House,77,DEM,"Corcoran, Michael George",1460
+ST LOUIS,State House,77,REP,"Barry, Pamela",884
+ST LOUIS,State House,78,DEM,"Zweifel, Clint",2512
+ST LOUIS,State House,78,REP,"Reid, Michael J.",2249
+ST LOUIS,State House,79,DEM,"Liese, Albert J. (Al)",1868
+ST LOUIS,State House,79,REP,"Fitzgerald, Kathryn S.",1237
+ST LOUIS,State House,79,REP,"Chapin, Jeff",1207
+ST LOUIS,State House,80,DEM,"Taylor, Sylvester II",979
+ST LOUIS,State House,80,DEM,"Haynes, Donald",455
+ST LOUIS,State House,80,DEM,"Knowles, James W. Jr.",449
+ST LOUIS,State House,80,DEM,"Hoskins, Theodore (Ted)",1341
+ST LOUIS,State House,81,DEM,"Wallace, Jerome N.",867
+ST LOUIS,State House,81,DEM,"Walton, Juanita Head",2230
+ST LOUIS,State House,82,DEM,"Brown, Steve",1551
+ST LOUIS,State House,82,DEM,"Page, Sam",1579
+ST LOUIS,State House,82,REP,"Lagos, Fred",656
+ST LOUIS,State House,82,REP,"von zur Muehlen, Alex",983
+ST LOUIS,State House,82,REP,"Bomkamp, Diann",1446
+ST LOUIS,State House,82,LIB,"Schuster, Chris",15
+ST LOUIS,State House,83,DEM,"Fraser, Barbara",2601
+ST LOUIS,State House,84,DEM,"Madison, Stella Ann",699
+ST LOUIS,State House,84,REP,"Icet, Allen",1815
+ST LOUIS,State House,84,REP,"Kuykendall, Jack",179
+ST LOUIS,State House,84,REP,"Geppert, Robin",72
+ST LOUIS,State House,84,REP,"Ventura, Gloria",647
+ST LOUIS,State House,84,REP,"Braswell, Jan",645
+ST LOUIS,State House,84,LIB,"Gianino, Anthony S.",16
+ST LOUIS,State House,85,DEM,"Allen, Michael R.",1398
+ST LOUIS,State House,85,DEM,"Brother, Paul R.",1164
+ST LOUIS,State House,85,DEM,"Wagganer, Ronald William",611
+ST LOUIS,State House,85,REP,"Lembke, Jim",2268
+ST LOUIS,State House,86,DEM,"Garhart, Shirley (Shirl)",1252
+ST LOUIS,State House,86,REP,"Hasler, Alexander",668
+ST LOUIS,State House,86,REP,"Cunningham, Jane",3060
+ST LOUIS,State House,87,DEM,"Morton, Marilyn",1491
+ST LOUIS,State House,87,REP,"Hanaway, Catherine L.",4463
+ST LOUIS,State House,88,DEM,"Theiss, Elizabeth",1209
+ST LOUIS,State House,88,REP,"St. Onge, Neal C.",2869
+ST LOUIS,State House,89,DEM,"Weber, George D.",726
+ST LOUIS,State House,89,REP,"Jackson, Jack",2504
+ST LOUIS,State House,91,DEM,"Sifton, Scott",2168
+ST LOUIS,State House,91,REP,"Fares, Kathlyn",2804
+ST LOUIS,State House,92,DEM,"Maguire, M. Julie",1111
+ST LOUIS,State House,92,REP,"Portwood, Charles (Chuck)",2178
+ST LOUIS,State House,92,REP,"Millman, Steve",715
+ST LOUIS,State House,93,DEM,"Konecnik, William J. (Bill)",1235
+ST LOUIS,State House,93,REP,"Seipp, Robert C.",565
+ST LOUIS,State House,93,REP,"Stefanick, Jodi A.",961
+ST LOUIS,State House,93,REP,"Veillette, Carol",380
+ST LOUIS,State House,93,REP,"Walker, Roby",495
+ST LOUIS,State House,94,REP,"Byrd, Richard G.",3063
+ST LOUIS,State House,95,DEM,"Rathert, Joseph A.",2419
+ST LOUIS,State House,95,REP,"Avery, Jim",3857
+ST LOUIS,State House,96,DEM,"Yaeger, Patricia (Pat)",1873
+ST LOUIS,State House,96,DEM,"Wells, Gary",956
+ST LOUIS,State House,96,REP,"Stonebraker, Jim",1628
+ST LOUIS,State House,96,LIB,"Levy, Ronald E.",27
+ST LOUIS,State House,97,DEM,"Koeller, Jane E.",1921
+ST LOUIS,State House,97,REP,"Bivins, Walt",2122
+ST LOUIS,State House,97,REP,"Matlock, Gene",783
+ST LOUIS,State House,97,LIB,"Glosson, Allen",15
+ST LOUIS,State House,100,DEM,"Willeke, Pat",196
+ST LOUIS,State House,100,DEM,"Saunders, Theresa",673
+ST LOUIS,State House,100,DEM,"Schoemehl, Sue",1976
+ST LOUIS,State House,100,REP,"Rohrbacker, Michael P.",1522
+ST LOUIS,State House,100,REP,"O'Donnell, Michael A.",1142
+ST LOUIS,State House,105,DEM,"Selby, Harold R.",2
+STE GENEVIEVE,U.S. Senate,,DEM,"Carnahan, Jean",1967
+STE GENEVIEVE,U.S. Senate,,DEM,"Day, Darrel D.",596
+STE GENEVIEVE,U.S. Senate,,REP,"May, Joseph A.",17
+STE GENEVIEVE,U.S. Senate,,REP,"Talent, Jim",702
+STE GENEVIEVE,U.S. Senate,,REP,"Lindstedt, Martin",12
+STE GENEVIEVE,U.S. Senate,,REP,"Babbitt, Scott Craig",5
+STE GENEVIEVE,U.S. Senate,,REP,"Landfather, Doris Bass",17
+STE GENEVIEVE,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+STE GENEVIEVE,U.S. Senate,,LIB,"Millay, Tamara A.",1
+STE GENEVIEVE,State Auditor,,DEM,"McCaskill, Claire",1945
+STE GENEVIEVE,State Auditor,,REP,"Hanson, Al",435
+STE GENEVIEVE,State Auditor,,REP,"Kanzler, Jay L. Jr.",192
+STE GENEVIEVE,State Auditor,,LIB,"Trembley, Arnold J.",2
+STE GENEVIEVE,U.S. House,3,DEM,"Bram, Michael",642
+STE GENEVIEVE,U.S. House,3,DEM,"Gephardt, Richard A.",1900
+STE GENEVIEVE,U.S. House,3,REP,"Steger, Mike",326
+STE GENEVIEVE,U.S. House,3,REP,"Enz, Catherine S.",347
+STE GENEVIEVE,U.S. House,3,LIB,"Byington, Daniel (Dan)",2
+STE GENEVIEVE,State House,104,DEM,"Wagner, Wes",1622
+STE GENEVIEVE,State House,106,DEM,"Smith, Dennis W.",281
+STE GENEVIEVE,State House,106,REP,"Fallert, J. Cecilia",39
+STE GENEVIEVE,State House,106,REP,"Burcham, Tom",173
+STODDARD,U.S. Senate,,DEM,"Carnahan, Jean",1410
+STODDARD,U.S. Senate,,DEM,"Day, Darrel D.",330
+STODDARD,U.S. Senate,,REP,"May, Joseph A.",42
+STODDARD,U.S. Senate,,REP,"Talent, Jim",1520
+STODDARD,U.S. Senate,,REP,"Lindstedt, Martin",13
+STODDARD,U.S. Senate,,REP,"Babbitt, Scott Craig",14
+STODDARD,U.S. Senate,,REP,"Landfather, Doris Bass",24
+STODDARD,U.S. Senate,,LIB,"Manley, Edward Joseph III",10
+STODDARD,U.S. Senate,,LIB,"Millay, Tamara A.",5
+STODDARD,State Auditor,,DEM,"McCaskill, Claire",1377
+STODDARD,State Auditor,,REP,"Hanson, Al",871
+STODDARD,State Auditor,,REP,"Kanzler, Jay L. Jr.",379
+STODDARD,State Auditor,,LIB,"Trembley, Arnold J.",16
+STODDARD,U.S. House,8,DEM,"Curtis, Gene",1319
+STODDARD,U.S. House,8,REP,"Emerson, Jo Ann",1512
+STODDARD,U.S. House,8,REP,"Kline, Richard Allen",130
+STODDARD,U.S. House,8,LIB,"Van Oostrom, Eric",16
+STODDARD,State House,159,REP,"Mayer, Robert (Rob)",1216
+STODDARD,State House,161,DEM,"Petitt, Wayne",97
+STODDARD,State House,161,REP,"Black, Lanie",63
+STODDARD,State House,163,DEM,"Robinson, Brent",117
+STODDARD,State House,163,REP,"Steward, Curtis W.",51
+STODDARD,State House,163,REP,"Bean, Otto Jr.",116
+STONE,U.S. Senate,,DEM,"Carnahan, Jean",725
+STONE,U.S. Senate,,DEM,"Day, Darrel D.",133
+STONE,U.S. Senate,,REP,"May, Joseph A.",348
+STONE,U.S. Senate,,REP,"Talent, Jim",3959
+STONE,U.S. Senate,,REP,"Lindstedt, Martin",81
+STONE,U.S. Senate,,REP,"Babbitt, Scott Craig",201
+STONE,U.S. Senate,,REP,"Landfather, Doris Bass",189
+STONE,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+STONE,U.S. Senate,,LIB,"Millay, Tamara A.",11
+STONE,State Auditor,,DEM,"McCaskill, Claire",725
+STONE,State Auditor,,REP,"Hanson, Al",2784
+STONE,State Auditor,,REP,"Kanzler, Jay L. Jr.",1095
+STONE,State Auditor,,LIB,"Trembley, Arnold J.",15
+STONE,U.S. House,7,DEM,"Lapham, Ron",714
+STONE,U.S. House,7,REP,"Blunt, Roy",4524
+STONE,U.S. House,7,LIB,"Burlison, Doug",16
+STONE,State House,62,DEM,"Kowalewich, Betty",540
+STONE,State House,62,REP,"Wood, Dennis",1414
+STONE,State House,62,REP,"Warlick, Bob",948
+STONE,State House,62,REP,"Mendenhall, Jon",136
+STONE,State House,62,REP,"Purvis, Jack",249
+STONE,State House,62,REP,"Edwards, Terry",232
+STONE,State House,68,DEM,"Vincent, Ruby",10
+STONE,State House,68,REP,"Bradley, Edward G.",6
+STONE,State House,68,REP,"Taylor, Larry Gene",24
+STONE,State House,68,REP,"Sitton, Jerry",3
+STONE,State House,141,DEM,"Elwell, Ann",137
+STONE,State House,141,REP,"Wasson, Jay",1308
+STONE,State House,143,REP,"Lind, Mike",51
+STONE,State House,143,REP,"Vaught, Randall R.",18
+STONE,State House,143,REP,"Still, J. Wendell",60
+STONE,State House,143,REP,"Henegar, Barbara",21
+STONE,State House,143,REP,"Stillings, Linda",42
+STONE,State House,143,REP,"Griffin, Patricia A.",14
+STONE,State House,143,REP,"Wallace, Maynard",103
+SULLIVAN,U.S. Senate,,DEM,"Carnahan, Jean",905
+SULLIVAN,U.S. Senate,,DEM,"Day, Darrel D.",199
+SULLIVAN,U.S. Senate,,REP,"May, Joseph A.",42
+SULLIVAN,U.S. Senate,,REP,"Talent, Jim",642
+SULLIVAN,U.S. Senate,,REP,"Lindstedt, Martin",9
+SULLIVAN,U.S. Senate,,REP,"Babbitt, Scott Craig",15
+SULLIVAN,U.S. Senate,,REP,"Landfather, Doris Bass",9
+SULLIVAN,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+SULLIVAN,U.S. Senate,,LIB,"Millay, Tamara A.",1
+SULLIVAN,State Auditor,,DEM,"McCaskill, Claire",872
+SULLIVAN,State Auditor,,REP,"Hanson, Al",418
+SULLIVAN,State Auditor,,REP,"Kanzler, Jay L. Jr.",145
+SULLIVAN,State Auditor,,LIB,"Trembley, Arnold J.",1
+SULLIVAN,U.S. House,6,DEM,"Rinehart, Cathy",542
+SULLIVAN,U.S. House,6,DEM,"Mitchell, Ed",181
+SULLIVAN,U.S. House,6,DEM,"Gilstrap, David P.",176
+SULLIVAN,U.S. House,6,REP,"Graves, Sam",681
+SULLIVAN,U.S. House,6,LIB,"Buck, Erik",1
+SULLIVAN,State Senate,12,REP,"Klindt, David G.",637
+SULLIVAN,State House,2,DEM,"Cooper, Charles E.",575
+SULLIVAN,State House,2,REP,"Behnen, Robert J. (Bob)",411
+SULLIVAN,State House,3,DEM,"Whorton, Jim",279
+SULLIVAN,State House,3,REP,"Moulthrop, Roscoe E.",212
+SULLIVAN,State House,8,DEM,"Shively, Tom",0
+SULLIVAN,State House,8,REP,"Shoemaker, Chris",0
+TANEY,U.S. Senate,,DEM,"Carnahan, Jean",744
+TANEY,U.S. Senate,,DEM,"Day, Darrel D.",128
+TANEY,U.S. Senate,,REP,"May, Joseph A.",366
+TANEY,U.S. Senate,,REP,"Talent, Jim",5437
+TANEY,U.S. Senate,,REP,"Lindstedt, Martin",127
+TANEY,U.S. Senate,,REP,"Babbitt, Scott Craig",217
+TANEY,U.S. Senate,,REP,"Landfather, Doris Bass",388
+TANEY,U.S. Senate,,LIB,"Manley, Edward Joseph III",11
+TANEY,U.S. Senate,,LIB,"Millay, Tamara A.",9
+TANEY,State Auditor,,DEM,"McCaskill, Claire",758
+TANEY,State Auditor,,REP,"Hanson, Al",3805
+TANEY,State Auditor,,REP,"Kanzler, Jay L. Jr.",1515
+TANEY,State Auditor,,LIB,"Trembley, Arnold J.",16
+TANEY,U.S. House,7,DEM,"Lapham, Ron",527
+TANEY,U.S. House,7,REP,"Blunt, Roy",3775
+TANEY,U.S. House,7,LIB,"Burlison, Doug",12
+TANEY,U.S. House,8,DEM,"Curtis, Gene",215
+TANEY,U.S. House,8,REP,"Emerson, Jo Ann",1806
+TANEY,U.S. House,8,REP,"Kline, Richard Allen",577
+TANEY,U.S. House,8,LIB,"Van Oostrom, Eric",5
+TANEY,State House,62,DEM,"Kowalewich, Betty",277
+TANEY,State House,62,REP,"Wood, Dennis",327
+TANEY,State House,62,REP,"Warlick, Bob",718
+TANEY,State House,62,REP,"Mendenhall, Jon",70
+TANEY,State House,62,REP,"Purvis, Jack",683
+TANEY,State House,62,REP,"Edwards, Terry",391
+TANEY,State House,142,DEM,"Forgey, Brent",68
+TANEY,State House,142,REP,"Bough, Jerry",331
+TANEY,State House,142,REP,"Watts, Donald R.",485
+TANEY,State House,143,REP,"Lind, Mike",334
+TANEY,State House,143,REP,"Vaught, Randall R.",188
+TANEY,State House,143,REP,"Still, J. Wendell",371
+TANEY,State House,143,REP,"Henegar, Barbara",323
+TANEY,State House,143,REP,"Stillings, Linda",831
+TANEY,State House,143,REP,"Griffin, Patricia A.",108
+TANEY,State House,143,REP,"Wallace, Maynard",1526
+TEXAS,U.S. Senate,,DEM,"Carnahan, Jean",1346
+TEXAS,U.S. Senate,,DEM,"Day, Darrel D.",263
+TEXAS,U.S. Senate,,REP,"May, Joseph A.",188
+TEXAS,U.S. Senate,,REP,"Talent, Jim",3211
+TEXAS,U.S. Senate,,REP,"Lindstedt, Martin",60
+TEXAS,U.S. Senate,,REP,"Babbitt, Scott Craig",99
+TEXAS,U.S. Senate,,REP,"Landfather, Doris Bass",201
+TEXAS,U.S. Senate,,LIB,"Manley, Edward Joseph III",14
+TEXAS,U.S. Senate,,LIB,"Millay, Tamara A.",21
+TEXAS,State Auditor,,DEM,"McCaskill, Claire",1380
+TEXAS,State Auditor,,REP,"Hanson, Al",2114
+TEXAS,State Auditor,,REP,"Kanzler, Jay L. Jr.",880
+TEXAS,State Auditor,,LIB,"Trembley, Arnold J.",26
+TEXAS,U.S. House,8,DEM,"Curtis, Gene",1309
+TEXAS,U.S. House,8,REP,"Emerson, Jo Ann",3366
+TEXAS,U.S. House,8,REP,"Kline, Richard Allen",515
+TEXAS,U.S. House,8,LIB,"Van Oostrom, Eric",26
+TEXAS,State House,144,DEM,"Cooper, Charles B. Jr.",110
+TEXAS,State House,144,REP,"Kelly, Van",368
+TEXAS,State House,147,DEM,"Hampton, Mark",1358
+TEXAS,State House,147,LIB,"Williams, John W.",27
+VERNON,U.S. Senate,,DEM,"Carnahan, Jean",2347
+VERNON,U.S. Senate,,DEM,"Day, Darrel D.",987
+VERNON,U.S. Senate,,REP,"May, Joseph A.",35
+VERNON,U.S. Senate,,REP,"Talent, Jim",752
+VERNON,U.S. Senate,,REP,"Lindstedt, Martin",18
+VERNON,U.S. Senate,,REP,"Babbitt, Scott Craig",26
+VERNON,U.S. Senate,,REP,"Landfather, Doris Bass",29
+VERNON,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+VERNON,U.S. Senate,,LIB,"Millay, Tamara A.",3
+VERNON,State Auditor,,DEM,"McCaskill, Claire",2704
+VERNON,State Auditor,,REP,"Hanson, Al",485
+VERNON,State Auditor,,REP,"Kanzler, Jay L. Jr.",240
+VERNON,State Auditor,,LIB,"Trembley, Arnold J.",4
+VERNON,U.S. House,4,DEM,"Skelton, Ike",2951
+VERNON,U.S. House,4,REP,"Noland, James A. (Jim)",523
+VERNON,U.S. House,4,REP,"Liffick, Chuck",71
+VERNON,U.S. House,4,REP,"Brown, Bob",151
+VERNON,U.S. House,4,LIB,"Nelson, Daniel Roy",4
+VERNON,State House,125,DEM,"Berry, Larry",1137
+VERNON,State House,125,DEM,"Foursha, Sam",2259
+VERNON,State House,125,REP,"King, Jerry",775
+WARREN,U.S. Senate,,DEM,"Carnahan, Jean",1015
+WARREN,U.S. Senate,,DEM,"Day, Darrel D.",81
+WARREN,U.S. Senate,,REP,"May, Joseph A.",157
+WARREN,U.S. Senate,,REP,"Talent, Jim",3372
+WARREN,U.S. Senate,,REP,"Lindstedt, Martin",54
+WARREN,U.S. Senate,,REP,"Babbitt, Scott Craig",54
+WARREN,U.S. Senate,,REP,"Landfather, Doris Bass",144
+WARREN,U.S. Senate,,LIB,"Manley, Edward Joseph III",9
+WARREN,U.S. Senate,,LIB,"Millay, Tamara A.",16
+WARREN,State Auditor,,DEM,"McCaskill, Claire",941
+WARREN,State Auditor,,REP,"Hanson, Al",2055
+WARREN,State Auditor,,REP,"Kanzler, Jay L. Jr.",975
+WARREN,State Auditor,,LIB,"Trembley, Arnold J.",24
+WARREN,U.S. House,9,DEM,"Deichman, Donald M. (Don)",892
+WARREN,U.S. House,9,REP,"Hulshof, Kenny C.",3480
+WARREN,U.S. House,9,LIB,"Mruzik, John",24
+WARREN,State Senate,26,DEM,"Meyer, Donald D.",888
+WARREN,State Senate,26,REP,"Banton, Stephen (Steve)",995
+WARREN,State Senate,26,REP,"Griesheimer, John E.",1718
+WARREN,State Senate,26,REP,"Froelker, Jim",1093
+WARREN,State House,13,DEM,"Stephens, Tom",0
+WARREN,State House,13,REP,"Hollinger, Darrel",4
+WARREN,State House,13,REP,"Rupp, Scott T.",4
+WARREN,State House,99,DEM,"Haase, Fred W.",879
+WARREN,State House,99,REP,"Korman, Bart",340
+WARREN,State House,99,REP,"Mauzy, Roger R. Sr.",1395
+WARREN,State House,99,REP,"Sutherland, Mike",2203
+WASHINGTON,U.S. Senate,,DEM,"Carnahan, Jean",1989
+WASHINGTON,U.S. Senate,,DEM,"Day, Darrel D.",333
+WASHINGTON,U.S. Senate,,REP,"May, Joseph A.",30
+WASHINGTON,U.S. Senate,,REP,"Talent, Jim",994
+WASHINGTON,U.S. Senate,,REP,"Lindstedt, Martin",7
+WASHINGTON,U.S. Senate,,REP,"Babbitt, Scott Craig",18
+WASHINGTON,U.S. Senate,,REP,"Landfather, Doris Bass",36
+WASHINGTON,U.S. Senate,,LIB,"Manley, Edward Joseph III",2
+WASHINGTON,U.S. Senate,,LIB,"Millay, Tamara A.",5
+WASHINGTON,State Auditor,,DEM,"McCaskill, Claire",1735
+WASHINGTON,State Auditor,,REP,"Hanson, Al",606
+WASHINGTON,State Auditor,,REP,"Kanzler, Jay L. Jr.",267
+WASHINGTON,State Auditor,,LIB,"Trembley, Arnold J.",5
+WASHINGTON,U.S. House,8,DEM,"Curtis, Gene",1602
+WASHINGTON,U.S. House,8,REP,"Emerson, Jo Ann",983
+WASHINGTON,U.S. House,8,REP,"Kline, Richard Allen",115
+WASHINGTON,U.S. House,8,LIB,"Van Oostrom, Eric",5
+WASHINGTON,State House,110,DEM,"Telle, Chuck",317
+WASHINGTON,State House,110,DEM,"Harris, Belinda",465
+WASHINGTON,State House,110,DEM,"Saunders, John",568
+WASHINGTON,State House,110,DEM,"Roland, Frank A. Jr.",143
+WASHINGTON,State House,110,REP,"Sayers, Connie",489
+WASHINGTON,State House,152,DEM,"Scaggs, Jim",179
+WASHINGTON,State House,152,DEM,"Van Steenis, Shane",100
+WASHINGTON,State House,152,DEM,"Jones, Mark M.",185
+WASHINGTON,State House,152,DEM,"Kuessner, J. C.",55
+WASHINGTON,State House,152,DEM,"Boyer, Joe",117
+WASHINGTON,State House,152,DEM,"Slover, Steve",69
+WASHINGTON,State House,152,DEM,"Weber, Winnie P. Faulkenberry",95
+WASHINGTON,State House,152,REP,"Dennison, Gale",186
+WASHINGTON,State House,152,REP,"Masters, Roy L.",251
+WASHINGTON,State House,152,LIB,"Mecey, David F.",5
+WAYNE,U.S. Senate,,DEM,"Carnahan, Jean",1122
+WAYNE,U.S. Senate,,DEM,"Day, Darrel D.",214
+WAYNE,U.S. Senate,,REP,"May, Joseph A.",35
+WAYNE,U.S. Senate,,REP,"Talent, Jim",984
+WAYNE,U.S. Senate,,REP,"Lindstedt, Martin",12
+WAYNE,U.S. Senate,,REP,"Babbitt, Scott Craig",12
+WAYNE,U.S. Senate,,REP,"Landfather, Doris Bass",26
+WAYNE,U.S. Senate,,LIB,"Manley, Edward Joseph III",7
+WAYNE,U.S. Senate,,LIB,"Millay, Tamara A.",11
+WAYNE,State Auditor,,DEM,"McCaskill, Claire",997
+WAYNE,State Auditor,,REP,"Hanson, Al",563
+WAYNE,State Auditor,,REP,"Kanzler, Jay L. Jr.",228
+WAYNE,State Auditor,,LIB,"Trembley, Arnold J.",17
+WAYNE,U.S. House,8,DEM,"Curtis, Gene",958
+WAYNE,U.S. House,8,REP,"Emerson, Jo Ann",1039
+WAYNE,U.S. House,8,REP,"Kline, Richard Allen",86
+WAYNE,U.S. House,8,LIB,"Van Oostrom, Eric",16
+WAYNE,State House,153,DEM,"Jackson, Larry",130
+WAYNE,State House,153,REP,"Slayton, Tim",97
+WAYNE,State House,153,REP,"Dethrow, Mike",39
+WAYNE,State House,156,REP,"Jetton, Rodney (Rod)",788
+WAYNE,State House,159,REP,"Mayer, Robert (Rob)",72
+WAYNE,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1012
+WEBSTER,U.S. Senate,,DEM,"Carnahan, Jean",825
+WEBSTER,U.S. Senate,,DEM,"Day, Darrel D.",141
+WEBSTER,U.S. Senate,,REP,"May, Joseph A.",339
+WEBSTER,U.S. Senate,,REP,"Talent, Jim",5210
+WEBSTER,U.S. Senate,,REP,"Lindstedt, Martin",105
+WEBSTER,U.S. Senate,,REP,"Babbitt, Scott Craig",185
+WEBSTER,U.S. Senate,,REP,"Landfather, Doris Bass",273
+WEBSTER,U.S. Senate,,LIB,"Manley, Edward Joseph III",4
+WEBSTER,U.S. Senate,,LIB,"Millay, Tamara A.",5
+WEBSTER,State Auditor,,DEM,"McCaskill, Claire",834
+WEBSTER,State Auditor,,REP,"Hanson, Al",3260
+WEBSTER,State Auditor,,REP,"Kanzler, Jay L. Jr.",1748
+WEBSTER,State Auditor,,LIB,"Trembley, Arnold J.",7
+WEBSTER,U.S. House,4,DEM,"Skelton, Ike",843
+WEBSTER,U.S. House,4,REP,"Noland, James A. (Jim)",3966
+WEBSTER,U.S. House,4,REP,"Liffick, Chuck",344
+WEBSTER,U.S. House,4,REP,"Brown, Bob",1131
+WEBSTER,U.S. House,4,LIB,"Nelson, Daniel Roy",9
+WEBSTER,State Senate,20,DEM,"Kreider, Jim",823
+WEBSTER,State Senate,20,REP,"Clemens, Dan",3706
+WEBSTER,State Senate,20,REP,"Nordquist, Gordon E.",973
+WEBSTER,State Senate,20,REP,"Decker, Darrell",1591
+WEBSTER,State House,145,DEM,"Watson, Patricia",632
+WEBSTER,State House,145,DEM,"Wommack, Ken G.",296
+WEBSTER,State House,145,REP,"Myers, Martha",677
+WEBSTER,State House,145,REP,"Cunningham, Mike",4110
+WEBSTER,State House,145,REP,"Mackie, Keith R.",1617
+WORTH,U.S. Senate,,DEM,"Carnahan, Jean",487
+WORTH,U.S. Senate,,DEM,"Day, Darrel D.",200
+WORTH,U.S. Senate,,REP,"May, Joseph A.",12
+WORTH,U.S. Senate,,REP,"Talent, Jim",115
+WORTH,U.S. Senate,,REP,"Lindstedt, Martin",1
+WORTH,U.S. Senate,,REP,"Babbitt, Scott Craig",1
+WORTH,U.S. Senate,,REP,"Landfather, Doris Bass",2
+WORTH,U.S. Senate,,LIB,"Manley, Edward Joseph III",0
+WORTH,U.S. Senate,,LIB,"Millay, Tamara A.",0
+WORTH,State Auditor,,DEM,"McCaskill, Claire",490
+WORTH,State Auditor,,REP,"Hanson, Al",81
+WORTH,State Auditor,,REP,"Kanzler, Jay L. Jr.",25
+WORTH,State Auditor,,LIB,"Trembley, Arnold J.",0
+WORTH,U.S. House,6,DEM,"Rinehart, Cathy",336
+WORTH,U.S. House,6,DEM,"Mitchell, Ed",145
+WORTH,U.S. House,6,DEM,"Gilstrap, David P.",81
+WORTH,U.S. House,6,REP,"Graves, Sam",127
+WORTH,U.S. House,6,LIB,"Buck, Erik",0
+WORTH,State Senate,12,REP,"Klindt, David G.",117
+WORTH,State House,3,DEM,"Whorton, Jim",141
+WORTH,State House,3,REP,"Moulthrop, Roscoe E.",21
+WORTH,State House,4,DEM,"Dougan, Larry",294
+WORTH,State House,4,DEM,"Ritterbusch, Robert L.",144
+WORTH,State House,4,REP,"Lager, Brad",47
+WORTH,State House,4,REP,"Dunn, Christopher",8
+WORTH,State House,4,REP,"May, Leland",45
+WRIGHT,U.S. Senate,,DEM,"Carnahan, Jean",267
+WRIGHT,U.S. Senate,,DEM,"Day, Darrel D.",52
+WRIGHT,U.S. Senate,,REP,"May, Joseph A.",237
+WRIGHT,U.S. Senate,,REP,"Talent, Jim",3692
+WRIGHT,U.S. Senate,,REP,"Lindstedt, Martin",70
+WRIGHT,U.S. Senate,,REP,"Babbitt, Scott Craig",115
+WRIGHT,U.S. Senate,,REP,"Landfather, Doris Bass",199
+WRIGHT,U.S. Senate,,LIB,"Manley, Edward Joseph III",1
+WRIGHT,U.S. Senate,,LIB,"Millay, Tamara A.",4
+WRIGHT,State Auditor,,DEM,"McCaskill, Claire",265
+WRIGHT,State Auditor,,REP,"Hanson, Al",2456
+WRIGHT,State Auditor,,REP,"Kanzler, Jay L. Jr.",1041
+WRIGHT,State Auditor,,LIB,"Trembley, Arnold J.",4
+WRIGHT,U.S. House,8,DEM,"Curtis, Gene",266
+WRIGHT,U.S. House,8,REP,"Emerson, Jo Ann",3833
+WRIGHT,U.S. House,8,REP,"Kline, Richard Allen",589
+WRIGHT,U.S. House,8,LIB,"Van Oostrom, Eric",4
+WRIGHT,State House,144,DEM,"Cooper, Charles B. Jr.",252
+WRIGHT,State House,144,REP,"Kelly, Van",3905
