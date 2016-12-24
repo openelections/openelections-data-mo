@@ -1,1 +1,16 @@
-county,office,district,party,candidate,votesKansas City,State House,36,DEM,Daron McGee,1486Kansas City,State House,36,REP,Nola Wood,668Kansas City,State House,36,LIB,Timothy E. Peterman,16Kansas City,State House,36,IND,Mary Ann Drape,445St. Louis,State House,89,DEM,Al Gerber,2289St. Louis,State House,89,REP,Dean Plocher,3462,State House,29,DEM,Rory Rowland,2144,State House,29,REP,Brian DeMoss,1340,State House,29,CON,Richard W. McKie,196Jackson,State House,29,DEM,Rory Rowland,1643Jackson,State House,29,REP,Brian DeMoss,1103Jackson,State House,29,CON,Richard W. McKie,166Kansas City,State House,29,DEM,Rory Rowland,501Kansas City,State House,29,REP,Brian DeMoss,237Kansas City,State House,29,CON,Richard W. McKie,30
+county,office,district,party,candidate,votes
+Kansas City,State House,36,DEM,Daron McGee,1486
+Kansas City,State House,36,REP,Nola Wood,668
+Kansas City,State House,36,LIB,Timothy E. Peterman,16
+Kansas City,State House,36,IND,Mary Ann Drape,445
+St. Louis,State House,89,DEM,Al Gerber,2289
+St. Louis,State House,89,REP,Dean Plocher,3462
+,State House,29,DEM,Rory Rowland,2144
+,State House,29,REP,Brian DeMoss,1340
+,State House,29,CON,Richard W. McKie,196
+Jackson,State House,29,DEM,Rory Rowland,1643
+Jackson,State House,29,REP,Brian DeMoss,1103
+Jackson,State House,29,CON,Richard W. McKie,166
+Kansas City,State House,29,DEM,Rory Rowland,501
+Kansas City,State House,29,REP,Brian DeMoss,237
+Kansas City,State House,29,CON,Richard W. McKie,30
