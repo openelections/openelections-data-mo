@@ -4000,67 +4000,67 @@ ST FRANCOIS,State House,106,DEM,"Cramp, David",4479
 ST FRANCOIS,State House,106,REP,"Tilley, Steven",4288
 ST FRANCOIS,State House,107,DEM,"Robinson, Brad",7354
 ST FRANCOIS,State House,107,REP,"Boyer, Curt",6417
-ST LOUIS,President,,DEM,"John F. Kerry, John Edwards",116133
-ST LOUIS,President,,REP,"George W. Bush, Dick Cheney",27793
-ST LOUIS,President,,LIB,"Michael Badnarik, Richard V. Campagna",500
-ST LOUIS,President,,CST,"Michael A. Peroutka, Chuck Baldwin",195
-ST LOUIS,President,,WI,Ralph Nader,17
-ST LOUIS,U.S. Senate,,DEM,"Farmer, Nancy",109228
-ST LOUIS,U.S. Senate,,REP,"Bond, Christopher (Kit)",31468
-ST LOUIS,U.S. Senate,,LIB,"Tull, Kevin",1096
-ST LOUIS,U.S. Senate,,CST,"Griffin, Don",476
-ST LOUIS,Governor,,DEM,"McCaskill, Claire",111940
-ST LOUIS,Governor,,REP,"Blunt, Matt",29667
-ST LOUIS,Governor,,LIB,"Swenson, John M.",1602
-ST LOUIS,Governor,,CST,"Wells, Robert",615
-ST LOUIS,Governor,,WI,"Johnson, Kenneth J.",4
-ST LOUIS,Lieutenant Governor,,DEM,"Cook, Rebecca McDowell (Bekki)",108090
-ST LOUIS,Lieutenant Governor,,REP,"Kinder, Peter",27526
-ST LOUIS,Lieutenant Governor,,LIB,"Ferguson, Mike",3292
-ST LOUIS,Lieutenant Governor,,CST,"Hillis, Bruce",859
-ST LOUIS,Secretary of State,,DEM,"Carnahan, Robin",111709
-ST LOUIS,Secretary of State,,REP,"Hanaway, Catherine L.",26313
-ST LOUIS,Secretary of State,,LIB,"Davis, Christopher",2504
-ST LOUIS,Secretary of State,,CST,"Ivanovich, Donna",781
-ST LOUIS,State Treasurer,,DEM,"Powell, Mark",108080
-ST LOUIS,State Treasurer,,REP,"Steelman, Sarah",26755
-ST LOUIS,State Treasurer,,LIB,"Emerson, Lisa J.",3099
-ST LOUIS,State Treasurer,,CST,"Fluharty, Chris",880
-ST LOUIS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",116901
-ST LOUIS,Attorney General,,REP,"Byrd, Chris",19092
-ST LOUIS,Attorney General,,LIB,"Browning, David R.",3171
-ST LOUIS,Attorney General,,CST,"Fry, David",1036
-ST LOUIS,U.S. House,1,DEM,"Clay, Wm. Lacy",61363
-ST LOUIS,U.S. House,1,REP,"Farr, Leslie L. II",4933
-ST LOUIS,U.S. House,1,LIB,"Chadwick, Terry",788
-ST LOUIS,U.S. House,1,CST,"Rehbein, Robert",253
-ST LOUIS,U.S. House,3,DEM,"Carnahan, Russ",35849
-ST LOUIS,U.S. House,3,REP,"Federer, Bill",21057
-ST LOUIS,U.S. House,3,LIB,"Babcock, Kevin C.",1417
-ST LOUIS,U.S. House,3,CST,"Renaud, William J.",337
-ST LOUIS,U.S. House,3,WI,"Badaracco, Joseph L.",1
-ST LOUIS,State Senate,1,DEM,"Kennedy, Harry",8192
-ST LOUIS,State Senate,1,REP,"Yeckel, Bob",3445
-ST LOUIS,State Senate,5,DEM,"Coleman, Maida",47561
-ST LOUIS,State Senate,5,LIB,"Cunningham, Robb E.",4580
-ST LOUIS,State House,57,DEM,"ElAmin, Yaphett",12973
-ST LOUIS,State House,58,DEM,"Hubbard, Rodney R.",11945
-ST LOUIS,State House,59,DEM,"Oxford, Jeanette Mott",9035
-ST LOUIS,State House,59,LIB,"Christophel, Robert J.",1078
-ST LOUIS,State House,59,WI,"McDaniel, J.R.",2
-ST LOUIS,State House,60,DEM,"Boykins, Amber (Holly)",13486
-ST LOUIS,State House,61,DEM,"Johnson, Connie (LaJoyce)",13190
-ST LOUIS,State House,63,DEM,"Jones, Robin Wright",11001
-ST LOUIS,State House,63,REP,"Chance, Sandra",1916
-ST LOUIS,State House,64,DEM,"Storch, Rachel",9559
-ST LOUIS,State House,64,REP,"Verde, Patricia",2311
-ST LOUIS,State House,65,DEM,"Kratky, Fred",11630
-ST LOUIS,State House,65,REP,"Zoellner, Christopher J.",5215
-ST LOUIS,State House,66,DEM,"Vogt, Michael",4951
-ST LOUIS,State House,66,REP,"Weiter, Robert A.",1715
-ST LOUIS,State House,67,DEM,"Daus, Mike",10299
-ST LOUIS,State House,67,LIB,"Kham, Leonora",1043
-ST LOUIS,State House,108,DEM,"Villa, Thomas Albert",11052
+ST LOUIS CITY,President,,DEM,"John F. Kerry, John Edwards",116133
+ST LOUIS CITY,President,,REP,"George W. Bush, Dick Cheney",27793
+ST LOUIS CITY,President,,LIB,"Michael Badnarik, Richard V. Campagna",500
+ST LOUIS CITY,President,,CST,"Michael A. Peroutka, Chuck Baldwin",195
+ST LOUIS CITY,President,,WI,Ralph Nader,17
+ST LOUIS CITY,U.S. Senate,,DEM,"Farmer, Nancy",109228
+ST LOUIS CITY,U.S. Senate,,REP,"Bond, Christopher (Kit)",31468
+ST LOUIS CITY,U.S. Senate,,LIB,"Tull, Kevin",1096
+ST LOUIS CITY,U.S. Senate,,CST,"Griffin, Don",476
+ST LOUIS CITY,Governor,,DEM,"McCaskill, Claire",111940
+ST LOUIS CITY,Governor,,REP,"Blunt, Matt",29667
+ST LOUIS CITY,Governor,,LIB,"Swenson, John M.",1602
+ST LOUIS CITY,Governor,,CST,"Wells, Robert",615
+ST LOUIS CITY,Governor,,WI,"Johnson, Kenneth J.",4
+ST LOUIS CITY,Lieutenant Governor,,DEM,"Cook, Rebecca McDowell (Bekki)",108090
+ST LOUIS CITY,Lieutenant Governor,,REP,"Kinder, Peter",27526
+ST LOUIS CITY,Lieutenant Governor,,LIB,"Ferguson, Mike",3292
+ST LOUIS CITY,Lieutenant Governor,,CST,"Hillis, Bruce",859
+ST LOUIS CITY,Secretary of State,,DEM,"Carnahan, Robin",111709
+ST LOUIS CITY,Secretary of State,,REP,"Hanaway, Catherine L.",26313
+ST LOUIS CITY,Secretary of State,,LIB,"Davis, Christopher",2504
+ST LOUIS CITY,Secretary of State,,CST,"Ivanovich, Donna",781
+ST LOUIS CITY,State Treasurer,,DEM,"Powell, Mark",108080
+ST LOUIS CITY,State Treasurer,,REP,"Steelman, Sarah",26755
+ST LOUIS CITY,State Treasurer,,LIB,"Emerson, Lisa J.",3099
+ST LOUIS CITY,State Treasurer,,CST,"Fluharty, Chris",880
+ST LOUIS CITY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",116901
+ST LOUIS CITY,Attorney General,,REP,"Byrd, Chris",19092
+ST LOUIS CITY,Attorney General,,LIB,"Browning, David R.",3171
+ST LOUIS CITY,Attorney General,,CST,"Fry, David",1036
+ST LOUIS CITY,U.S. House,1,DEM,"Clay, Wm. Lacy",61363
+ST LOUIS CITY,U.S. House,1,REP,"Farr, Leslie L. II",4933
+ST LOUIS CITY,U.S. House,1,LIB,"Chadwick, Terry",788
+ST LOUIS CITY,U.S. House,1,CST,"Rehbein, Robert",253
+ST LOUIS CITY,U.S. House,3,DEM,"Carnahan, Russ",35849
+ST LOUIS CITY,U.S. House,3,REP,"Federer, Bill",21057
+ST LOUIS CITY,U.S. House,3,LIB,"Babcock, Kevin C.",1417
+ST LOUIS CITY,U.S. House,3,CST,"Renaud, William J.",337
+ST LOUIS CITY,U.S. House,3,WI,"Badaracco, Joseph L.",1
+ST LOUIS CITY,State Senate,1,DEM,"Kennedy, Harry",8192
+ST LOUIS CITY,State Senate,1,REP,"Yeckel, Bob",3445
+ST LOUIS CITY,State Senate,5,DEM,"Coleman, Maida",47561
+ST LOUIS CITY,State Senate,5,LIB,"Cunningham, Robb E.",4580
+ST LOUIS CITY,State House,57,DEM,"ElAmin, Yaphett",12973
+ST LOUIS CITY,State House,58,DEM,"Hubbard, Rodney R.",11945
+ST LOUIS CITY,State House,59,DEM,"Oxford, Jeanette Mott",9035
+ST LOUIS CITY,State House,59,LIB,"Christophel, Robert J.",1078
+ST LOUIS CITY,State House,59,WI,"McDaniel, J.R.",2
+ST LOUIS CITY,State House,60,DEM,"Boykins, Amber (Holly)",13486
+ST LOUIS CITY,State House,61,DEM,"Johnson, Connie (LaJoyce)",13190
+ST LOUIS CITY,State House,63,DEM,"Jones, Robin Wright",11001
+ST LOUIS CITY,State House,63,REP,"Chance, Sandra",1916
+ST LOUIS CITY,State House,64,DEM,"Storch, Rachel",9559
+ST LOUIS CITY,State House,64,REP,"Verde, Patricia",2311
+ST LOUIS CITY,State House,65,DEM,"Kratky, Fred",11630
+ST LOUIS CITY,State House,65,REP,"Zoellner, Christopher J.",5215
+ST LOUIS CITY,State House,66,DEM,"Vogt, Michael",4951
+ST LOUIS CITY,State House,66,REP,"Weiter, Robert A.",1715
+ST LOUIS CITY,State House,67,DEM,"Daus, Mike",10299
+ST LOUIS CITY,State House,67,LIB,"Kham, Leonora",1043
+ST LOUIS CITY,State House,108,DEM,"Villa, Thomas Albert",11052
 ST LOUIS,President,,DEM,"John F. Kerry, John Edwards",295284
 ST LOUIS,President,,REP,"George W. Bush, Dick Cheney",244969
 ST LOUIS,President,,LIB,"Michael Badnarik, Richard V. Campagna",1728

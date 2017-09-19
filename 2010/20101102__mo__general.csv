@@ -2294,44 +2294,44 @@ ST FRANCOIS,U.S. House,8,LIB,"Vandeven, Rick",317
 ST FRANCOIS,State House,106,REP,"Tilley, Steven",5146
 ST FRANCOIS,State House,107,DEM,"Fischer, Linda Black",5836
 ST FRANCOIS,State House,107,REP,"Fischer, John",3471
-ST LOUIS,U.S. Senate,,DEM,"Carnahan, Robin",71938
-ST LOUIS,U.S. Senate,,REP,"Blunt, Roy",16353
-ST LOUIS,U.S. Senate,,LIB,"Dine, Jonathan",1732
-ST LOUIS,U.S. Senate,,CST,"Beck, Jerry",709
-ST LOUIS,U.S. Senate,,WI,"Miller, Jr., Frazier Glenn",0
-ST LOUIS,U.S. Senate,,WI2,"Memoly, Mark S.",0
-ST LOUIS,U.S. Senate,,WI3,"Wirick, Jeff",0
-ST LOUIS,U.S. Senate,,WI4,"Wolfe, Richie L.",0
-ST LOUIS,U.S. Senate,,WI5,"Bailey, Charlie L.",0
-ST LOUIS,U.S. Senate,,WI6,"Hoinoski, Dale M",0
-ST LOUIS,State Auditor,,DEM,"Montee, Susan",72180
-ST LOUIS,State Auditor,,REP,"Schweich, Tom",14888
-ST LOUIS,State Auditor,,LIB,"Baum, Charles W.",2289
-ST LOUIS,U.S. House,1,DEM,"Clay, Lacy",37974
-ST LOUIS,U.S. House,1,REP,"Hamlin, Robyn",2877
-ST LOUIS,U.S. House,1,LIB,"Stone, Julie",747
-ST LOUIS,U.S. House,3,DEM,"Carnahan, Russ",32443
-ST LOUIS,U.S. House,3,REP,"Martin, Ed",14324
-ST LOUIS,U.S. House,3,LIB,"Hedrick, Steven R.",1341
-ST LOUIS,U.S. House,3,CST,"Ivanovich, Nicholas J. (Nick)",477
-ST LOUIS,U.S. House,3,WI,"Wallner, Brian",1
-ST LOUIS,State Senate,4,DEM,"Keaveny, Joe",35663
-ST LOUIS,State House,57,DEM,"May, Karla",7385
-ST LOUIS,State House,58,DEM,"Hubbard, Penny V.",7383
-ST LOUIS,State House,59,DEM,"Oxford, Jeanette Mott",6133
-ST LOUIS,State House,60,DEM,"Nasheed, Jamilah",8023
-ST LOUIS,State House,61,DEM,"Carter, Chris",7804
-ST LOUIS,State House,63,DEM,"Jones, Tishaura O.",8242
-ST LOUIS,State House,64,DEM,"Carlson, Susan",6008
-ST LOUIS,State House,64,REP,"Verde, Patricia",1616
-ST LOUIS,State House,64,CST,"Opheim, Mark Robert",173
-ST LOUIS,State House,65,DEM,"Kratky, Michele",9309
-ST LOUIS,State House,66,DEM,"Montecillo, Genise",2939
-ST LOUIS,State House,66,REP,"Hartzog, Bill",1387
-ST LOUIS,State House,67,DEM,"Colona, Mike",6260
-ST LOUIS,State House,67,REP,"Farber, Curtis",1370
-ST LOUIS,State House,108,DEM,"Hummel, Jacob W.",5398
-ST LOUIS,State House,108,REP,"Rusch, Joe",2914
+ST LOUIS CITY,U.S. Senate,,DEM,"Carnahan, Robin",71938
+ST LOUIS CITY,U.S. Senate,,REP,"Blunt, Roy",16353
+ST LOUIS CITY,U.S. Senate,,LIB,"Dine, Jonathan",1732
+ST LOUIS CITY,U.S. Senate,,CST,"Beck, Jerry",709
+ST LOUIS CITY,U.S. Senate,,WI,"Miller, Jr., Frazier Glenn",0
+ST LOUIS CITY,U.S. Senate,,WI2,"Memoly, Mark S.",0
+ST LOUIS CITY,U.S. Senate,,WI3,"Wirick, Jeff",0
+ST LOUIS CITY,U.S. Senate,,WI4,"Wolfe, Richie L.",0
+ST LOUIS CITY,U.S. Senate,,WI5,"Bailey, Charlie L.",0
+ST LOUIS CITY,U.S. Senate,,WI6,"Hoinoski, Dale M",0
+ST LOUIS CITY,State Auditor,,DEM,"Montee, Susan",72180
+ST LOUIS CITY,State Auditor,,REP,"Schweich, Tom",14888
+ST LOUIS CITY,State Auditor,,LIB,"Baum, Charles W.",2289
+ST LOUIS CITY,U.S. House,1,DEM,"Clay, Lacy",37974
+ST LOUIS CITY,U.S. House,1,REP,"Hamlin, Robyn",2877
+ST LOUIS CITY,U.S. House,1,LIB,"Stone, Julie",747
+ST LOUIS CITY,U.S. House,3,DEM,"Carnahan, Russ",32443
+ST LOUIS CITY,U.S. House,3,REP,"Martin, Ed",14324
+ST LOUIS CITY,U.S. House,3,LIB,"Hedrick, Steven R.",1341
+ST LOUIS CITY,U.S. House,3,CST,"Ivanovich, Nicholas J. (Nick)",477
+ST LOUIS CITY,U.S. House,3,WI,"Wallner, Brian",1
+ST LOUIS CITY,State Senate,4,DEM,"Keaveny, Joe",35663
+ST LOUIS CITY,State House,57,DEM,"May, Karla",7385
+ST LOUIS CITY,State House,58,DEM,"Hubbard, Penny V.",7383
+ST LOUIS CITY,State House,59,DEM,"Oxford, Jeanette Mott",6133
+ST LOUIS CITY,State House,60,DEM,"Nasheed, Jamilah",8023
+ST LOUIS CITY,State House,61,DEM,"Carter, Chris",7804
+ST LOUIS CITY,State House,63,DEM,"Jones, Tishaura O.",8242
+ST LOUIS CITY,State House,64,DEM,"Carlson, Susan",6008
+ST LOUIS CITY,State House,64,REP,"Verde, Patricia",1616
+ST LOUIS CITY,State House,64,CST,"Opheim, Mark Robert",173
+ST LOUIS CITY,State House,65,DEM,"Kratky, Michele",9309
+ST LOUIS CITY,State House,66,DEM,"Montecillo, Genise",2939
+ST LOUIS CITY,State House,66,REP,"Hartzog, Bill",1387
+ST LOUIS CITY,State House,67,DEM,"Colona, Mike",6260
+ST LOUIS CITY,State House,67,REP,"Farber, Curtis",1370
+ST LOUIS CITY,State House,108,DEM,"Hummel, Jacob W.",5398
+ST LOUIS CITY,State House,108,REP,"Rusch, Joe",2914
 ST LOUIS,U.S. Senate,,DEM,"Carnahan, Robin",195229
 ST LOUIS,U.S. Senate,,REP,"Blunt, Roy",167458
 ST LOUIS,U.S. Senate,,LIB,"Dine, Jonathan",7778
