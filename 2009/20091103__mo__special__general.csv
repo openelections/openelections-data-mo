@@ -1,1 +1,4 @@
-county,office,district,party,candidate,votesSt. Louis,State House,73,DEM,"Newman, Stacey",3634St. Louis,State House,73,REP,"O'Sullivan Jr., Daniel F.",2300St. Louis,State Senate,4,DEM,"Keaveny, Joe",4976
+county,office,district,party,candidate,votes
+St. Louis,State House,73,DEM,"Newman, Stacey",3634
+St. Louis,State House,73,REP,"O'Sullivan Jr., Daniel F.",2300
+St. Louis,State Senate,4,DEM,"Keaveny, Joe",4976

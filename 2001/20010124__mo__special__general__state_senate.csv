@@ -1,1 +1,7 @@
-county,office,district,party,candidate,votes,State Senate,4,DEM,"Dougherty, Patrick",6539,State Senate,4,REP,"Billingsly, Z. Dwight",1257,State Senate,12,DEM,"Relford, Randall",8678,State Senate,12,REP,"Klindt, David G.",16937,State Senate,18,DEM,"Clayton, Robert",15658,State Senate,18,REP,"Cauthorn, John W.",18502
+county,office,district,party,candidate,votes
+,State Senate,4,DEM,"Dougherty, Patrick",6539
+,State Senate,4,REP,"Billingsly, Z. Dwight",1257
+,State Senate,12,DEM,"Relford, Randall",8678
+,State Senate,12,REP,"Klindt, David G.",16937
+,State Senate,18,DEM,"Clayton, Robert",15658
+,State Senate,18,REP,"Cauthorn, John W.",18502

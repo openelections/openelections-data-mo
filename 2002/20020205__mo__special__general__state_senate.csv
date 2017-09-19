@@ -1,1 +1,3 @@
-county,office,district,party,candidate,votes,State Senate,5,DEM,"Coleman, Maida",3527,State Senate,5,REP,"Plackemeier, Roger",856
+county,office,district,party,candidate,votes
+,State Senate,5,DEM,"Coleman, Maida",3527
+,State Senate,5,REP,"Plackemeier, Roger",856

@@ -1,1 +1,3 @@
-county,office,district,party,candidate,votes,State House,66,DEM,"Paone, Toby W.",1116,State House,66,REP,"Baur Sr., William Robert",500
+county,office,district,party,candidate,votes
+,State House,66,DEM,"Paone, Toby W.",1116
+,State House,66,REP,"Baur Sr., William Robert",500
