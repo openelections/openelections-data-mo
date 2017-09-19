@@ -1,1 +1,4 @@
-county,office,district,party,candidate,votes,State Senate,3,DEM,"Kennedy, Harry",7707,State Senate,3,REP,"Hoffman, Matt",3283,State Senate,3,GRE,"McFall, Robert H.",337
+county,office,district,party,candidate,votes
+,State Senate,3,DEM,"Kennedy, Harry",7707
+,State Senate,3,REP,"Hoffman, Matt",3283
+,State Senate,3,GRE,"McFall, Robert H.",337

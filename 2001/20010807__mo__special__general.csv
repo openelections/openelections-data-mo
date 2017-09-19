@@ -1,1 +1,7 @@
-county,office,district,party,candidate,votes,State House,3,DEM,"Whorton, Jim",3539,State House,3,REP,"Moulthrop, Roscoe",3252,State House,7,DEM,"Sugg, Deron L.",3753,State House,7,REP,"Quinn, John",3960,State House,67,DEM,"Daus, Mike",1008,State House,67,REP,"Morris, John M.",160
+county,office,district,party,candidate,votes
+,State House,3,DEM,"Whorton, Jim",3539
+,State House,3,REP,"Moulthrop, Roscoe",3252
+,State House,7,DEM,"Sugg, Deron L.",3753
+,State House,7,REP,"Quinn, John",3960
+,State House,67,DEM,"Daus, Mike",1008
+,State House,67,REP,"Morris, John M.",160

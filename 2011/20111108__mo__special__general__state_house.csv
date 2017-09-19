@@ -1,1 +1,10 @@
-county,office,district,party,candidates,votesClay,State House,15,DEM,"Paul, Woody",1835Clay,State House,15,REP,"Sommer, Chrissy",1875Clay,State House,15,LIB,"Slantz, Bill",94,State House,39,DEM,"Morgan, Judy",2663,State House,39,REP,"Landes, Jamie Barker",778Lincoln,State House,41,DEM,"Ellington, Brandon",958St. Louis,State House,83,DEM,"OConnell, Jeff",1096St. Louis,State House,83,REP,"Brennan, Patrick",1005St. Louis,State House,83,IND,"McCreery, Tracy",1647
+county,office,district,party,candidates,votes
+Clay,State House,15,DEM,"Paul, Woody",1835
+Clay,State House,15,REP,"Sommer, Chrissy",1875
+Clay,State House,15,LIB,"Slantz, Bill",94
+,State House,39,DEM,"Morgan, Judy",2663
+,State House,39,REP,"Landes, Jamie Barker",778
+Lincoln,State House,41,DEM,"Ellington, Brandon",958
+St. Louis,State House,83,DEM,"OConnell, Jeff",1096
+St. Louis,State House,83,REP,"Brennan, Patrick",1005
+St. Louis,State House,83,IND,"McCreery, Tracy",1647

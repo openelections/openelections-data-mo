@@ -1,1 +1,5 @@
-county,office,district,party,candidate,votes,State House,37,DEM,"Sanders Brooks, Sharon",912,State House,37,REP,"Zapien-Pina, Annalisa",114,State House,37,REF,"Tolbert, Richard",46,State House,37,IND,"Baheyadeen, Aasim",368
+county,office,district,party,candidate,votes
+,State House,37,DEM,"Sanders Brooks, Sharon",912
+,State House,37,REP,"Zapien-Pina, Annalisa",114
+,State House,37,REF,"Tolbert, Richard",46
+,State House,37,IND,"Baheyadeen, Aasim",368

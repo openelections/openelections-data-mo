@@ -1,1 +1,3 @@
-county,office,district,party,candidate,votesSt. Charles,State Senate,23,REP,"Dempsey, Tom",6671St. Charles,State Senate,23,DEM,"Appelbaum, Ed",5199
+county,office,district,party,candidate,votes
+St. Charles,State Senate,23,REP,"Dempsey, Tom",6671
+St. Charles,State Senate,23,DEM,"Appelbaum, Ed",5199

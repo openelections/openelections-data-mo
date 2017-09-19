@@ -1,1 +1,7 @@
-county,office,district,party,candidate,votes,State Senate,11,DEM,Victor Callahan,5738,State Senate,11,REP,Lynn Vogel,2529,State Senate,11,WI,Sharon Kelley,989,State House,162,DEM,Terry Swinger,2110,State House,162,REP,Bill Wagner,794,State House,162,IND,Shirley T. Johnson,587
+county,office,district,party,candidate,votes
+,State Senate,11,DEM,Victor Callahan,5738
+,State Senate,11,REP,Lynn Vogel,2529
+,State Senate,11,WI,Sharon Kelley,989
+,State House,162,DEM,Terry Swinger,2110
+,State House,162,REP,Bill Wagner,794
+,State House,162,IND,Shirley T. Johnson,587

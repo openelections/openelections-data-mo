@@ -1,1 +1,4 @@
-county,office,district,party,candidate,votes,State House,63,DEM,Robin Wright Jones,533,State House,58,DEM,Anthony (Ford) Walker,250,State House,58,REP,Isaiah Hair Jr.,80
+county,office,district,party,candidate,votes
+,State House,63,DEM,Robin Wright Jones,533
+,State House,58,DEM,Anthony (Ford) Walker,250
+,State House,58,REP,Isaiah Hair Jr.,80

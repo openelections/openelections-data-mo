@@ -1,1 +1,7 @@
-county,office,district,party,candidate,votesClay,State House,16,REP,"Parkinson, Mark A.",5139Clay,State House,16,DEM,"Fann, Tom",4824St. Charles,State House,65,DEM,"Kratky, Michele",7169,State House,158,REP,"Kasten, Mary C.",4439,State House,158,DEM,"Keefe, Mike",3834,State House,158,LIB,"Kinder, Steve",563
+county,office,district,party,candidate,votes
+Clay,State House,16,REP,"Parkinson, Mark A.",5139
+Clay,State House,16,DEM,"Fann, Tom",4824
+St. Charles,State House,65,DEM,"Kratky, Michele",7169
+,State House,158,REP,"Kasten, Mary C.",4439
+,State House,158,DEM,"Keefe, Mike",3834
+,State House,158,LIB,"Kinder, Steve",563
