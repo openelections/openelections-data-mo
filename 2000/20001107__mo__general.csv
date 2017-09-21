@@ -28,12 +28,12 @@ ADAIR,State Treasurer,,CST,"Culligan, Kerry",38
 ADAIR,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5357
 ADAIR,Attorney General,,REP,"Jones, Sam",4244
 ADAIR,Attorney General,,LIB,"Moore, Mitch",272
-ADAIR,Attorney General,,DEM,"Carroll, Steven R.",3351
-ADAIR,Attorney General,,REP,"Hulshof, Kenny",6472
-ADAIR,Attorney General,,LIB,"Hoffman, Robert",135
-ADAIR,Attorney General,,DEM,"Clithero, David W.",4862
-ADAIR,Attorney General,,REP,"Behnen, Robert J. (Bob)",5340
-ADAIR,Attorney General,,DEM,"Steele, Russell E.",7419
+ADAIR,U.S. House,9,DEM,"Carroll, Steven R.",3351
+ADAIR,U.S. House,9,REP,"Hulshof, Kenny",6472
+ADAIR,U.S. House,9,LIB,"Hoffman, Robert",135
+ADAIR,State House,2,DEM,"Clithero, David W.",4862
+ADAIR,State House,2,REP,"Behnen, Robert J. (Bob)",5340
+ADAIR,Circuit Judge,Circuit 2,DEM,"Steele, Russell E.",7419
 ANDREW,President,,DEM,"Al Gore, Joe Lieberman",2795
 ANDREW,President,,REP,"George W. Bush, Dick Cheney",4257
 ANDREW,President,,LIB,"Harry Browne, Art Olivier",31
@@ -63,13 +63,13 @@ ANDREW,State Treasurer,,CST,"Culligan, Kerry",30
 ANDREW,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3839
 ANDREW,Attorney General,,REP,"Jones, Sam",3030
 ANDREW,Attorney General,,LIB,"Moore, Mitch",180
-ANDREW,Attorney General,,DEM,"Danner, Steve",2886
-ANDREW,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",4142
-ANDREW,Attorney General,,LIB,"Dykes, Jimmy",93
-ANDREW,Attorney General,,REP,"Hegeman, Dan",5943
-ANDREW,Attorney General,,REP,"Jackson, Randall R.",5752
-ANDREW,Attorney General,,DEM,"Robb, Patrick K",5640
-ANDREW,Attorney General,,DEM,"Kellogg, Daniel F.",5804
+ANDREW,U.S. House,6,DEM,"Danner, Steve",2886
+ANDREW,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",4142
+ANDREW,U.S. House,6,LIB,"Dykes, Jimmy",93
+ANDREW,State House,5,REP,"Hegeman, Dan",5943
+ANDREW,Circuit Judge,Circuit 5 Division 1,REP,"Jackson, Randall R.",5752
+ANDREW,Circuit Judge,Circuit 5 Division 3,DEM,"Robb, Patrick K",5640
+ANDREW,Circuit Judge,Circuit 5 Division 4,DEM,"Kellogg, Daniel F.",5804
 ATCHISON,President,,DEM,"Al Gore, Joe Lieberman",1013
 ATCHISON,President,,REP,"George W. Bush, Dick Cheney",1798
 ATCHISON,President,,LIB,"Harry Browne, Art Olivier",7
@@ -99,13 +99,13 @@ ATCHISON,State Treasurer,,CST,"Culligan, Kerry",9
 ATCHISON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1527
 ATCHISON,Attorney General,,REP,"Jones, Sam",1174
 ATCHISON,Attorney General,,LIB,"Moore, Mitch",35
-ATCHISON,Attorney General,,DEM,"Danner, Steve",718
-ATCHISON,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",2118
-ATCHISON,Attorney General,,LIB,"Dykes, Jimmy",13
-ATCHISON,Attorney General,,DEM,"Ritterbusch, Robert L.",815
-ATCHISON,Attorney General,,REP,"Barnett, Rex",1976
-ATCHISON,Attorney General,,DEM,"Dietrich, Glen",932
-ATCHISON,Attorney General,,REP,"Prokes, Roger",1846
+ATCHISON,U.S. House,6,DEM,"Danner, Steve",718
+ATCHISON,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",2118
+ATCHISON,U.S. House,6,LIB,"Dykes, Jimmy",13
+ATCHISON,State House,4,DEM,"Ritterbusch, Robert L.",815
+ATCHISON,State House,4,REP,"Barnett, Rex",1976
+ATCHISON,Circuit Judge,Circuit 4,DEM,"Dietrich, Glen",932
+ATCHISON,Circuit Judge,Circuit 4,REP,"Prokes, Roger",1846
 AUDRAIN,President,,DEM,"Al Gore, Joe Lieberman",4551
 AUDRAIN,President,,REP,"George W. Bush, Dick Cheney",5256
 AUDRAIN,President,,LIB,"Harry Browne, Art Olivier",10
@@ -135,13 +135,13 @@ AUDRAIN,State Treasurer,,CST,"Culligan, Kerry",23
 AUDRAIN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",6342
 AUDRAIN,Attorney General,,REP,"Jones, Sam",3242
 AUDRAIN,Attorney General,,LIB,"Moore, Mitch",132
-AUDRAIN,Attorney General,,DEM,"Carroll, Steven R.",3963
-AUDRAIN,Attorney General,,REP,"Hulshof, Kenny",5798
-AUDRAIN,Attorney General,,LIB,"Hoffman, Robert",64
-AUDRAIN,Attorney General,,DEM,"Shoemyer, Wes",1171
-AUDRAIN,Attorney General,,REP,"Ebbesmeyer, James (Jamie)",653
-AUDRAIN,Attorney General,,DEM,"Farnen, Ted",6683
-AUDRAIN,Attorney General,,REP,"Sutherland, Keith M.",6469
+AUDRAIN,U.S. House,9,DEM,"Carroll, Steven R.",3963
+AUDRAIN,U.S. House,9,REP,"Hulshof, Kenny",5798
+AUDRAIN,U.S. House,9,LIB,"Hoffman, Robert",64
+AUDRAIN,State House,9,DEM,"Shoemyer, Wes",1171
+AUDRAIN,State House,9,REP,"Ebbesmeyer, James (Jamie)",653
+AUDRAIN,State House,21,DEM,"Farnen, Ted",6683
+AUDRAIN,Circuit Judge,Circuit 12,REP,"Sutherland, Keith M.",6469
 BARRY,President,,DEM,"Al Gore, Joe Lieberman",4135
 BARRY,President,,REP,"George W. Bush, Dick Cheney",7885
 BARRY,President,,LIB,"Harry Browne, Art Olivier",41
@@ -171,14 +171,14 @@ BARRY,State Treasurer,,CST,"Culligan, Kerry",45
 BARRY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5492
 BARRY,Attorney General,,REP,"Jones, Sam",6238
 BARRY,Attorney General,,LIB,"Moore, Mitch",237
-BARRY,Attorney General,,DEM,"Christrup, Charles",2926
-BARRY,Attorney General,,REP,"Blunt, Roy",9006
-BARRY,Attorney General,,LIB,"Burlison, Doug",104
-BARRY,Attorney General,,REP,"Childers, Doyle",9194
-BARRY,Attorney General,,REP,"Gaskill, Sam",7740
-BARRY,Attorney General,,REP,"Bartelsmeyer, Linda",265
-BARRY,Attorney General,,REP,"Berkstresser, Judy",1630
-BARRY,Attorney General,,REP,"Sweeney, J. Edward",9544
+BARRY,U.S. House,7,DEM,"Christrup, Charles",2926
+BARRY,U.S. House,7,REP,"Blunt, Roy",9006
+BARRY,U.S. House,7,LIB,"Burlison, Doug",104
+BARRY,State Senate,29,REP,"Childers, Doyle",9194
+BARRY,State House,131,REP,"Gaskill, Sam",7740
+BARRY,State House,132,REP,"Bartelsmeyer, Linda",265
+BARRY,State House,141,REP,"Berkstresser, Judy",1630
+BARRY,Circuit Judge,Circuit 39,REP,"Sweeney, J. Edward",9544
 BARTON,President,,DEM,"Al Gore, Joe Lieberman",1424
 BARTON,President,,REP,"George W. Bush, Dick Cheney",3836
 BARTON,President,,LIB,"Harry Browne, Art Olivier",7
@@ -208,12 +208,12 @@ BARTON,State Treasurer,,CST,"Culligan, Kerry",33
 BARTON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2172
 BARTON,Attorney General,,REP,"Jones, Sam",2873
 BARTON,Attorney General,,LIB,"Moore, Mitch",141
-BARTON,Attorney General,,DEM,"Christrup, Charles",780
-BARTON,Attorney General,,REP,"Blunt, Roy",4459
-BARTON,Attorney General,,LIB,"Burlison, Doug",34
-BARTON,Attorney General,,REP,"Hohulin, Martin (Bubs)",4524
-BARTON,Attorney General,,DEM,"Darnold, C. David",1767
-BARTON,Attorney General,,REP,"Bickel, James R.",3498
+BARTON,U.S. House,7,DEM,"Christrup, Charles",780
+BARTON,U.S. House,7,REP,"Blunt, Roy",4459
+BARTON,U.S. House,7,LIB,"Burlison, Doug",34
+BARTON,State House,126,REP,"Hohulin, Martin (Bubs)",4524
+BARTON,Circuit Judge,Circuit 28,DEM,"Darnold, C. David",1767
+BARTON,Circuit Judge,Circuit 28,REP,"Bickel, James R.",3498
 BATES,President,,DEM,"Al Gore, Joe Lieberman",3386
 BATES,President,,REP,"George W. Bush, Dick Cheney",4245
 BATES,President,,LIB,"Harry Browne, Art Olivier",34
@@ -243,14 +243,14 @@ BATES,State Treasurer,,CST,"Culligan, Kerry",41
 BATES,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4487
 BATES,Attorney General,,REP,"Jones, Sam",2827
 BATES,Attorney General,,LIB,"Moore, Mitch",225
-BATES,Attorney General,,DEM,"Skelton, Ike",5486
-BATES,Attorney General,,REP,"Noland, Jim",2115
-BATES,Attorney General,,LIB,"Knapp, Thomas L.",67
-BATES,Attorney General,,DEM,"Caskey, Harold L.",4156
-BATES,Attorney General,,REP,"Howerton, Jim",3602
-BATES,Attorney General,,DEM,"Foursha, Sam",2936
-BATES,Attorney General,,REP,"King, Jerry R.",4752
-BATES,Attorney General,,DEM,"Roberts, William J. (Bill)",5836
+BATES,U.S. House,4,DEM,"Skelton, Ike",5486
+BATES,U.S. House,4,REP,"Noland, Jim",2115
+BATES,U.S. House,4,LIB,"Knapp, Thomas L.",67
+BATES,State Senate,31,DEM,"Caskey, Harold L.",4156
+BATES,State Senate,31,REP,"Howerton, Jim",3602
+BATES,State House,125,DEM,"Foursha, Sam",2936
+BATES,State House,125,REP,"King, Jerry R.",4752
+BATES,Circuit Judge,Circuit 27,DEM,"Roberts, William J. (Bill)",5836
 BENTON,President,,DEM,"Al Gore, Joe Lieberman",3150
 BENTON,President,,REP,"George W. Bush, Dick Cheney",4218
 BENTON,President,,LIB,"Harry Browne, Art Olivier",24
@@ -280,12 +280,12 @@ BENTON,State Treasurer,,CST,"Culligan, Kerry",26
 BENTON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4046
 BENTON,Attorney General,,REP,"Jones, Sam",3105
 BENTON,Attorney General,,LIB,"Moore, Mitch",170
-BENTON,Attorney General,,DEM,"Skelton, Ike",5011
-BENTON,Attorney General,,REP,"Noland, Jim",2319
-BENTON,Attorney General,,LIB,"Knapp, Thomas L.",63
-BENTON,Attorney General,,REP,"Scott, Delbert L.",5754
-BENTON,Attorney General,,DEM,"Parks, John A.",3322
-BENTON,Attorney General,,REP,"Sims, John W. (Bill)",3878
+BENTON,U.S. House,4,DEM,"Skelton, Ike",5011
+BENTON,U.S. House,4,REP,"Noland, Jim",2319
+BENTON,U.S. House,4,LIB,"Knapp, Thomas L.",63
+BENTON,State House,119,REP,"Scott, Delbert L.",5754
+BENTON,Circuit Judge,Circuit 30,DEM,"Parks, John A.",3322
+BENTON,Circuit Judge,Circuit 30,REP,"Sims, John W. (Bill)",3878
 BOLLINGER,President,,DEM,"Al Gore, Joe Lieberman",1692
 BOLLINGER,President,,REP,"George W. Bush, Dick Cheney",3487
 BOLLINGER,President,,LIB,"Harry Browne, Art Olivier",38
@@ -315,16 +315,16 @@ BOLLINGER,State Treasurer,,CST,"Culligan, Kerry",3
 BOLLINGER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2231
 BOLLINGER,Attorney General,,REP,"Jones, Sam",2670
 BOLLINGER,Attorney General,,LIB,"Moore, Mitch",67
-BOLLINGER,Attorney General,,DEM,"Camp, Bob",1300
-BOLLINGER,Attorney General,,REP,"Emerson, Jo Ann",3847
-BOLLINGER,Attorney General,,LIB,"Hendricks, Jr., John B.",37
-BOLLINGER,Attorney General,,REP,"Kinder, Peter D.",3750
-BOLLINGER,Attorney General,,DEM,"Cruse, Linda",499
-BOLLINGER,Attorney General,,REP,"Burcham, Tom",817
-BOLLINGER,Attorney General,,DEM,"Golden, Katherine",1046
-BOLLINGER,Attorney General,,REP,"Jetton, Rod",2240
-BOLLINGER,Attorney General,,REP,"Schwab, David",343
-BOLLINGER,Attorney General,,DEM,"Grimm, John W.",2759
+BOLLINGER,U.S. House,8,DEM,"Camp, Bob",1300
+BOLLINGER,U.S. House,8,REP,"Emerson, Jo Ann",3847
+BOLLINGER,U.S. House,8,LIB,"Hendricks, Jr., John B.",37
+BOLLINGER,State Senate,27,REP,"Kinder, Peter D.",3750
+BOLLINGER,State House,106,DEM,"Cruse, Linda",499
+BOLLINGER,State House,106,REP,"Burcham, Tom",817
+BOLLINGER,State House,156,DEM,"Golden, Katherine",1046
+BOLLINGER,State House,156,REP,"Jetton, Rod",2240
+BOLLINGER,State House,157,REP,"Schwab, David",343
+BOLLINGER,Circuit Judge,Circuit 32 Division 2,DEM,"Grimm, John W.",2759
 BOONE,President,,DEM,"Al Gore, Joe Lieberman",28811
 BOONE,President,,REP,"George W. Bush, Dick Cheney",28426
 BOONE,President,,LIB,"Harry Browne, Art Olivier",252
@@ -354,22 +354,22 @@ BOONE,State Treasurer,,CST,"Culligan, Kerry",125
 BOONE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",37632
 BOONE,Attorney General,,REP,"Jones, Sam",17863
 BOONE,Attorney General,,LIB,"Moore, Mitch",2720
-BOONE,Attorney General,,DEM,"Carroll, Steven R.",23143
-BOONE,Attorney General,,REP,"Hulshof, Kenny",33844
-BOONE,Attorney General,,LIB,"Hoffman, Robert",619
-BOONE,Attorney General,,DEM,"Jacob, Ken",34008
-BOONE,Attorney General,,REP,"Asbury, Randy",23228
-BOONE,Attorney General,,LIB,"Dupuy, John",1163
-BOONE,Attorney General,,DEM,"Farnen, Ted",4748
-BOONE,Attorney General,,DEM,"Copenhaver, Nancy",1068
-BOONE,Attorney General,,REP,"Sander, Therese",818
-BOONE,Attorney General,,DEM,"Harlan, Tim",15327
-BOONE,Attorney General,,DEM,"Graham, Chuck",11595
-BOONE,Attorney General,,REP,"Bauer, Brian K.",6649
-BOONE,Attorney General,,DEM,"Wilson, Vicky Riback",8577
-BOONE,Attorney General,,DEM,"Seigfreid, Jim",344
-BOONE,Attorney General,,DEM,"Hamilton, Gene",43933
-BOONE,Attorney General,,REP,"Roper, Ellen S.",40477
+BOONE,U.S. House,9,DEM,"Carroll, Steven R.",23143
+BOONE,U.S. House,9,REP,"Hulshof, Kenny",33844
+BOONE,U.S. House,9,LIB,"Hoffman, Robert",619
+BOONE,State Senate,19,DEM,"Jacob, Ken",34008
+BOONE,State Senate,19,REP,"Asbury, Randy",23228
+BOONE,State Senate,19,LIB,"Dupuy, John",1163
+BOONE,State House,21,DEM,"Farnen, Ted",4748
+BOONE,State House,22,DEM,"Copenhaver, Nancy",1068
+BOONE,State House,22,REP,"Sander, Therese",818
+BOONE,State House,23,DEM,"Harlan, Tim",15327
+BOONE,State House,24,DEM,"Graham, Chuck",11595
+BOONE,State House,24,REP,"Bauer, Brian K.",6649
+BOONE,State House,25,DEM,"Wilson, Vicky Riback",8577
+BOONE,State House,26,DEM,"Seigfreid, Jim",344
+BOONE,Circuit Judge,Circuit 13 Division 1,DEM,"Hamilton, Gene",43933
+BOONE,Circuit Judge,Circuit 13 Division 3,REP,"Roper, Ellen S.",40477
 BUCHANAN,President,,DEM,"Al Gore, Joe Lieberman",17085
 BUCHANAN,President,,REP,"George W. Bush, Dick Cheney",16423
 BUCHANAN,President,,LIB,"Harry Browne, Art Olivier",151
@@ -399,18 +399,18 @@ BUCHANAN,State Treasurer,,CST,"Culligan, Kerry",178
 BUCHANAN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",20855
 BUCHANAN,Attorney General,,REP,"Jones, Sam",11672
 BUCHANAN,Attorney General,,LIB,"Moore, Mitch",1126
-BUCHANAN,Attorney General,,DEM,"Danner, Steve",16782
-BUCHANAN,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",16128
-BUCHANAN,Attorney General,,LIB,"Dykes, Jimmy",574
-BUCHANAN,Attorney General,,DEM,"Kelly, Glenda",7932
-BUCHANAN,Attorney General,,DEM,"Caldwell, William Lynn (Bill)",4925
-BUCHANAN,Attorney General,,REP,"Shields, Charlie",10801
-BUCHANAN,Attorney General,,DEM,"Lawson, Maurice",5368
-BUCHANAN,Attorney General,,REP,"Rooney, Jim",2002
-BUCHANAN,Attorney General,,LIB,"Wisneski, Kevin L.",383
-BUCHANAN,Attorney General,,REP,"Jackson, Randall R.",23651
-BUCHANAN,Attorney General,,DEM,"Robb, Patrick K",26114
-BUCHANAN,Attorney General,,DEM,"Kellogg, Daniel F.",26475
+BUCHANAN,U.S. House,6,DEM,"Danner, Steve",16782
+BUCHANAN,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",16128
+BUCHANAN,U.S. House,6,LIB,"Dykes, Jimmy",574
+BUCHANAN,State House,27,DEM,"Kelly, Glenda",7932
+BUCHANAN,State House,28,DEM,"Caldwell, William Lynn (Bill)",4925
+BUCHANAN,State House,28,REP,"Shields, Charlie",10801
+BUCHANAN,State House,29,DEM,"Lawson, Maurice",5368
+BUCHANAN,State House,29,REP,"Rooney, Jim",2002
+BUCHANAN,State House,29,LIB,"Wisneski, Kevin L.",383
+BUCHANAN,Circuit Judge,Circuit 5 Division 1,REP,"Jackson, Randall R.",23651
+BUCHANAN,Circuit Judge,Circuit 5 Division 3,DEM,"Robb, Patrick K",26114
+BUCHANAN,Circuit Judge,Circuit 5 Division 4,DEM,"Kellogg, Daniel F.",26475
 BUTLER,President,,DEM,"Al Gore, Joe Lieberman",4996
 BUTLER,President,,REP,"George W. Bush, Dick Cheney",9111
 BUTLER,President,,LIB,"Harry Browne, Art Olivier",58
@@ -440,15 +440,15 @@ BUTLER,State Treasurer,,CST,"Culligan, Kerry",57
 BUTLER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",6673
 BUTLER,Attorney General,,REP,"Jones, Sam",6588
 BUTLER,Attorney General,,LIB,"Moore, Mitch",449
-BUTLER,Attorney General,,DEM,"Camp, Bob",3440
-BUTLER,Attorney General,,REP,"Emerson, Jo Ann",10514
-BUTLER,Attorney General,,LIB,"Hendricks, Jr., John B.",136
-BUTLER,Attorney General,,DEM,"Howard, Jerry T.",5261
-BUTLER,Attorney General,,REP,"Foster, Bill I.",9040
-BUTLER,Attorney General,,REP,"Richardson, Mark L.",8157
-BUTLER,Attorney General,,DEM,"Golden, Katherine",1032
-BUTLER,Attorney General,,REP,"Jetton, Rod",1973
-BUTLER,Attorney General,,DEM,"Britt, Phillip",175
+BUTLER,U.S. House,8,DEM,"Camp, Bob",3440
+BUTLER,U.S. House,8,REP,"Emerson, Jo Ann",10514
+BUTLER,U.S. House,8,LIB,"Hendricks, Jr., John B.",136
+BUTLER,State Senate,25,DEM,"Howard, Jerry T.",5261
+BUTLER,State Senate,25,REP,"Foster, Bill I.",9040
+BUTLER,State House,154,REP,"Richardson, Mark L.",8157
+BUTLER,State House,156,DEM,"Golden, Katherine",1032
+BUTLER,State House,156,REP,"Jetton, Rod",1973
+BUTLER,State House,163,DEM,"Britt, Phillip",175
 CALDWELL,President,,DEM,"Al Gore, Joe Lieberman",1488
 CALDWELL,President,,REP,"George W. Bush, Dick Cheney",2220
 CALDWELL,President,,LIB,"Harry Browne, Art Olivier",19
@@ -478,15 +478,15 @@ CALDWELL,State Treasurer,,CST,"Culligan, Kerry",17
 CALDWELL,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1922
 CALDWELL,Attorney General,,REP,"Jones, Sam",1678
 CALDWELL,Attorney General,,LIB,"Moore, Mitch",124
-CALDWELL,Attorney General,,DEM,"Danner, Steve",1682
-CALDWELL,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",2007
-CALDWELL,Attorney General,,LIB,"Dykes, Jimmy",77
-CALDWELL,Attorney General,,DEM,"Mathewson, James L. (Jim)",2606
-CALDWELL,Attorney General,,DEM,"Relford, Randall H.",1964
-CALDWELL,Attorney General,,DEM,"Kelly, Gary",641
-CALDWELL,Attorney General,,DEM,"Elliott, Brent",1807
-CALDWELL,Attorney General,,REP,"McElwain, Warren L.",1966
-CALDWELL,Attorney General,,DEM,"Griffin, Stephen K.",2409
+CALDWELL,U.S. House,6,DEM,"Danner, Steve",1682
+CALDWELL,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",2007
+CALDWELL,U.S. House,6,LIB,"Dykes, Jimmy",77
+CALDWELL,State Senate,21,DEM,"Mathewson, James L. (Jim)",2606
+CALDWELL,State House,6,DEM,"Relford, Randall H.",1964
+CALDWELL,State House,36,DEM,"Kelly, Gary",641
+CALDWELL,Circuit Judge,Circuit 43 Division 1,DEM,"Elliott, Brent",1807
+CALDWELL,Circuit Judge,Circuit 43 Division 1,REP,"McElwain, Warren L.",1966
+CALDWELL,Circuit Judge,Circuit 43 Division 2,DEM,"Griffin, Stephen K.",2409
 CALLAWAY,President,,DEM,"Al Gore, Joe Lieberman",6708
 CALLAWAY,President,,REP,"George W. Bush, Dick Cheney",8238
 CALLAWAY,President,,LIB,"Harry Browne, Art Olivier",51
@@ -516,14 +516,14 @@ CALLAWAY,State Treasurer,,CST,"Culligan, Kerry",55
 CALLAWAY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",9701
 CALLAWAY,Attorney General,,REP,"Jones, Sam",4751
 CALLAWAY,Attorney General,,LIB,"Moore, Mitch",475
-CALLAWAY,Attorney General,,DEM,"Carroll, Steven R.",5458
-CALLAWAY,Attorney General,,REP,"Hulshof, Kenny",9317
-CALLAWAY,Attorney General,,LIB,"Hoffman, Robert",184
-CALLAWAY,Attorney General,,DEM,"Baumgartner, Lewis",6839
-CALLAWAY,Attorney General,,REP,"Moore, Danielle (Danie)",7774
-CALLAWAY,Attorney General,,DEM,"Farnen, Ted",393
-CALLAWAY,Attorney General,,DEM,"Hamilton, Gene",11642
-CALLAWAY,Attorney General,,REP,"Roper, Ellen S.",10358
+CALLAWAY,U.S. House,9,DEM,"Carroll, Steven R.",5458
+CALLAWAY,U.S. House,9,REP,"Hulshof, Kenny",9317
+CALLAWAY,U.S. House,9,LIB,"Hoffman, Robert",184
+CALLAWAY,State House,20,DEM,"Baumgartner, Lewis",6839
+CALLAWAY,State House,20,REP,"Moore, Danielle (Danie)",7774
+CALLAWAY,State House,21,DEM,"Farnen, Ted",393
+CALLAWAY,Circuit Judge,Circuit 13 Division 1,DEM,"Hamilton, Gene",11642
+CALLAWAY,Circuit Judge,Circuit 13 Division 3,REP,"Roper, Ellen S.",10358
 CAMDEN,President,,DEM,"Al Gore, Joe Lieberman",6323
 CAMDEN,President,,REP,"George W. Bush, Dick Cheney",10358
 CAMDEN,President,,LIB,"Harry Browne, Art Olivier",48
@@ -553,15 +553,15 @@ CAMDEN,State Treasurer,,CST,"Culligan, Kerry",52
 CAMDEN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",8888
 CAMDEN,Attorney General,,REP,"Jones, Sam",7368
 CAMDEN,Attorney General,,LIB,"Moore, Mitch",353
-CAMDEN,Attorney General,,DEM,"Skelton, Ike",9510
-CAMDEN,Attorney General,,REP,"Noland, Jim",6957
-CAMDEN,Attorney General,,LIB,"Knapp, Thomas L.",197
-CAMDEN,Attorney General,,DEM,"Ichord, Clara R.",7204
-CAMDEN,Attorney General,,REP,"Russell, John T.",9644
-CAMDEN,Attorney General,,REP,"Luetkemeyer, Blaine",4434
-CAMDEN,Attorney General,,DEM,"Cable, Dan J.",4355
-CAMDEN,Attorney General,,REP,"Henderson, Steve",6106
-CAMDEN,Attorney General,,REP,"Franklin, Jr., James A.",13228
+CAMDEN,U.S. House,4,DEM,"Skelton, Ike",9510
+CAMDEN,U.S. House,4,REP,"Noland, Jim",6957
+CAMDEN,U.S. House,4,LIB,"Knapp, Thomas L.",197
+CAMDEN,State Senate,33,DEM,"Ichord, Clara R.",7204
+CAMDEN,State Senate,33,REP,"Russell, John T.",9644
+CAMDEN,State House,115,REP,"Luetkemeyer, Blaine",4434
+CAMDEN,State House,116,DEM,"Cable, Dan J.",4355
+CAMDEN,State House,116,REP,"Henderson, Steve",6106
+CAMDEN,Circuit Judge,Circuit 26 Division 1,REP,"Franklin, Jr., James A.",13228
 CAPE GIRARDEAU,President,,DEM,"Al Gore, Joe Lieberman",9334
 CAPE GIRARDEAU,President,,REP,"George W. Bush, Dick Cheney",19832
 CAPE GIRARDEAU,President,,LIB,"Harry Browne, Art Olivier",147
@@ -591,14 +591,14 @@ CAPE GIRARDEAU,State Treasurer,,CST,"Culligan, Kerry",64
 CAPE GIRARDEAU,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",13576
 CAPE GIRARDEAU,Attorney General,,REP,"Jones, Sam",14453
 CAPE GIRARDEAU,Attorney General,,LIB,"Moore, Mitch",793
-CAPE GIRARDEAU,Attorney General,,DEM,"Camp, Bob",7578
-CAPE GIRARDEAU,Attorney General,,REP,"Emerson, Jo Ann",21208
-CAPE GIRARDEAU,Attorney General,,LIB,"Hendricks, Jr., John B.",568
-CAPE GIRARDEAU,Attorney General,,REP,"Kinder, Peter D.",22620
-CAPE GIRARDEAU,Attorney General,,REP,"Schwab, David",13468
-CAPE GIRARDEAU,Attorney General,,DEM,"Neumeyer, Tom",5128
-CAPE GIRARDEAU,Attorney General,,REP,"Crowell, Jason G.",7073
-CAPE GIRARDEAU,Attorney General,,DEM,"Grimm, John W.",20787
+CAPE GIRARDEAU,U.S. House,8,DEM,"Camp, Bob",7578
+CAPE GIRARDEAU,U.S. House,8,REP,"Emerson, Jo Ann",21208
+CAPE GIRARDEAU,U.S. House,8,LIB,"Hendricks, Jr., John B.",568
+CAPE GIRARDEAU,State Senate,27,REP,"Kinder, Peter D.",22620
+CAPE GIRARDEAU,State House,157,REP,"Schwab, David",13468
+CAPE GIRARDEAU,State House,158,DEM,"Neumeyer, Tom",5128
+CAPE GIRARDEAU,State House,158,REP,"Crowell, Jason G.",7073
+CAPE GIRARDEAU,Circuit Judge,Circuit 32 Division 2,DEM,"Grimm, John W.",20787
 CARROLL,President,,DEM,"Al Gore, Joe Lieberman",1620
 CARROLL,President,,REP,"George W. Bush, Dick Cheney",2880
 CARROLL,President,,LIB,"Harry Browne, Art Olivier",9
@@ -628,12 +628,12 @@ CARROLL,State Treasurer,,CST,"Culligan, Kerry",12
 CARROLL,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2247
 CARROLL,Attorney General,,REP,"Jones, Sam",2106
 CARROLL,Attorney General,,LIB,"Moore, Mitch",103
-CARROLL,Attorney General,,DEM,"Danner, Steve",1840
-CARROLL,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",2632
-CARROLL,Attorney General,,LIB,"Dykes, Jimmy",27
-CARROLL,Attorney General,,DEM,"Murry, William L. (Bill)",1257
-CARROLL,Attorney General,,REP,"Patek, Jewell D. H.",3324
-CARROLL,Attorney General,,REP,"Moentmann, Werner A.",3506
+CARROLL,U.S. House,6,DEM,"Danner, Steve",1840
+CARROLL,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",2632
+CARROLL,U.S. House,6,LIB,"Dykes, Jimmy",27
+CARROLL,State House,7,DEM,"Murry, William L. (Bill)",1257
+CARROLL,State House,7,REP,"Patek, Jewell D. H.",3324
+CARROLL,Circuit Judge,Circuit 8,REP,"Moentmann, Werner A.",3506
 CARTER,President,,DEM,"Al Gore, Joe Lieberman",997
 CARTER,President,,REP,"George W. Bush, Dick Cheney",1730
 CARTER,President,,LIB,"Harry Browne, Art Olivier",13
@@ -663,11 +663,11 @@ CARTER,State Treasurer,,CST,"Culligan, Kerry",13
 CARTER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1325
 CARTER,Attorney General,,REP,"Jones, Sam",1162
 CARTER,Attorney General,,LIB,"Moore, Mitch",60
-CARTER,Attorney General,,DEM,"Camp, Bob",625
-CARTER,Attorney General,,REP,"Emerson, Jo Ann",2071
-CARTER,Attorney General,,LIB,"Hendricks, Jr., John B.",24
-CARTER,Attorney General,,DEM,"Koller, Don",1762
-CARTER,Attorney General,,REP,"Garrett, R. Jack",1687
+CARTER,U.S. House,8,DEM,"Camp, Bob",625
+CARTER,U.S. House,8,REP,"Emerson, Jo Ann",2071
+CARTER,U.S. House,8,LIB,"Hendricks, Jr., John B.",24
+CARTER,State House,153,DEM,"Koller, Don",1762
+CARTER,Circuit Judge,Circuit 37,REP,"Garrett, R. Jack",1687
 CASS,President,,DEM,"Al Gore, Joe Lieberman",14921
 CASS,President,,REP,"George W. Bush, Dick Cheney",20113
 CASS,President,,LIB,"Harry Browne, Art Olivier",149
@@ -697,21 +697,21 @@ CASS,State Treasurer,,CST,"Culligan, Kerry",164
 CASS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",18298
 CASS,Attorney General,,REP,"Jones, Sam",15182
 CASS,Attorney General,,LIB,"Moore, Mitch",1138
-CASS,Attorney General,,DEM,"Skelton, Ike",21951
-CASS,Attorney General,,REP,"Noland, Jim",12390
-CASS,Attorney General,,LIB,"Knapp, Thomas L.",550
-CASS,Attorney General,,DEM,"Caskey, Harold L.",19299
-CASS,Attorney General,,REP,"Howerton, Jim",15991
-CASS,Attorney General,,DEM,"Beaty, Mike",163
-CASS,Attorney General,,REP,"Cooper, Shannon",161
-CASS,Attorney General,,LIB,"Dzula, Wally",7
-CASS,Attorney General,,REP,"Hartzler, Ed",13378
-CASS,Attorney General,,DEM,"Tieman, II, James (Kevin)",7139
-CASS,Attorney General,,REP,"Rector, Rex",8274
-CASS,Attorney General,,DEM,"Foursha, Sam",834
-CASS,Attorney General,,REP,"King, Jerry R.",1108
-CASS,Attorney General,,DEM,"Cook, Jacqueline",17439
-CASS,Attorney General,,REP,"Rellihan, Jerry J.",17281
+CASS,U.S. House,4,DEM,"Skelton, Ike",21951
+CASS,U.S. House,4,REP,"Noland, Jim",12390
+CASS,U.S. House,4,LIB,"Knapp, Thomas L.",550
+CASS,State Senate,31,DEM,"Caskey, Harold L.",19299
+CASS,State Senate,31,REP,"Howerton, Jim",15991
+CASS,State House,120,DEM,"Beaty, Mike",163
+CASS,State House,120,REP,"Cooper, Shannon",161
+CASS,State House,120,LIB,"Dzula, Wally",7
+CASS,State House,123,REP,"Hartzler, Ed",13378
+CASS,State House,124,DEM,"Tieman, II, James (Kevin)",7139
+CASS,State House,124,REP,"Rector, Rex",8274
+CASS,State House,125,DEM,"Foursha, Sam",834
+CASS,State House,125,REP,"King, Jerry R.",1108
+CASS,Circuit Judge,Circuit 17 Division 1,DEM,"Cook, Jacqueline",17439
+CASS,Circuit Judge,Circuit 17 Division 1,REP,"Rellihan, Jerry J.",17281
 CEDAR,President,,DEM,"Al Gore, Joe Lieberman",1979
 CEDAR,President,,REP,"George W. Bush, Dick Cheney",3530
 CEDAR,President,,LIB,"Harry Browne, Art Olivier",21
@@ -741,12 +741,12 @@ CEDAR,State Treasurer,,CST,"Culligan, Kerry",21
 CEDAR,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2723
 CEDAR,Attorney General,,REP,"Jones, Sam",2641
 CEDAR,Attorney General,,LIB,"Moore, Mitch",126
-CEDAR,Attorney General,,DEM,"Christrup, Charles",1389
-CEDAR,Attorney General,,REP,"Blunt, Roy",4028
-CEDAR,Attorney General,,LIB,"Burlison, Doug",65
-CEDAR,Attorney General,,REP,"Miller, Ronnie",4509
-CEDAR,Attorney General,,DEM,"Darnold, C. David",2367
-CEDAR,Attorney General,,REP,"Bickel, James R.",3119
+CEDAR,U.S. House,7,DEM,"Christrup, Charles",1389
+CEDAR,U.S. House,7,REP,"Blunt, Roy",4028
+CEDAR,U.S. House,7,LIB,"Burlison, Doug",65
+CEDAR,State House,133,REP,"Miller, Ronnie",4509
+CEDAR,Circuit Judge,Circuit 28,DEM,"Darnold, C. David",2367
+CEDAR,Circuit Judge,Circuit 28,REP,"Bickel, James R.",3119
 CHARITON,President,,DEM,"Al Gore, Joe Lieberman",1792
 CHARITON,President,,REP,"George W. Bush, Dick Cheney",2300
 CHARITON,President,,LIB,"Harry Browne, Art Olivier",5
@@ -776,15 +776,15 @@ CHARITON,State Treasurer,,CST,"Culligan, Kerry",5
 CHARITON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2455
 CHARITON,Attorney General,,REP,"Jones, Sam",1510
 CHARITON,Attorney General,,LIB,"Moore, Mitch",30
-CHARITON,Attorney General,,DEM,"Danner, Steve",2163
-CHARITON,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1825
-CHARITON,Attorney General,,LIB,"Dykes, Jimmy",18
-CHARITON,Attorney General,,DEM,"Mathewson, James L. (Jim)",2680
-CHARITON,Attorney General,,DEM,"Wiggins, Gary",1844
-CHARITON,Attorney General,,REP,"Shoemaker, Chris",1358
-CHARITON,Attorney General,,DEM,"Copenhaver, Nancy",369
-CHARITON,Attorney General,,REP,"Sander, Therese",503
-CHARITON,Attorney General,,DEM,"Ravens, Gary E.",2682
+CHARITON,U.S. House,6,DEM,"Danner, Steve",2163
+CHARITON,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1825
+CHARITON,U.S. House,6,LIB,"Dykes, Jimmy",18
+CHARITON,State Senate,21,DEM,"Mathewson, James L. (Jim)",2680
+CHARITON,State House,8,DEM,"Wiggins, Gary",1844
+CHARITON,State House,8,REP,"Shoemaker, Chris",1358
+CHARITON,State House,22,DEM,"Copenhaver, Nancy",369
+CHARITON,State House,22,REP,"Sander, Therese",503
+CHARITON,Circuit Judge,Circuit 9,DEM,"Ravens, Gary E.",2682
 CHRISTIAN,President,,DEM,"Al Gore, Joe Lieberman",7896
 CHRISTIAN,President,,REP,"George W. Bush, Dick Cheney",14824
 CHRISTIAN,President,,LIB,"Harry Browne, Art Olivier",44
@@ -814,15 +814,15 @@ CHRISTIAN,State Treasurer,,CST,"Culligan, Kerry",93
 CHRISTIAN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",12051
 CHRISTIAN,Attorney General,,REP,"Jones, Sam",10166
 CHRISTIAN,Attorney General,,LIB,"Moore, Mitch",419
-CHRISTIAN,Attorney General,,DEM,"Christrup, Charles",4878
-CHRISTIAN,Attorney General,,REP,"Blunt, Roy",17541
-CHRISTIAN,Attorney General,,LIB,"Burlison, Doug",227
-CHRISTIAN,Attorney General,,REP,"Childers, Doyle",18392
-CHRISTIAN,Attorney General,,DEM,"Kreider, Jim",11184
-CHRISTIAN,Attorney General,,REP,"Hayes, Tim",7385
-CHRISTIAN,Attorney General,,LIB,"Kenkel, Jeff",147
-CHRISTIAN,Attorney General,,REP,"Robirds, Estel Boyd",3392
-CHRISTIAN,Attorney General,,REP,"Eiffert, James L.",18351
+CHRISTIAN,U.S. House,7,DEM,"Christrup, Charles",4878
+CHRISTIAN,U.S. House,7,REP,"Blunt, Roy",17541
+CHRISTIAN,U.S. House,7,LIB,"Burlison, Doug",227
+CHRISTIAN,State Senate,29,REP,"Childers, Doyle",18392
+CHRISTIAN,State House,142,DEM,"Kreider, Jim",11184
+CHRISTIAN,State House,142,REP,"Hayes, Tim",7385
+CHRISTIAN,State House,142,LIB,"Kenkel, Jeff",147
+CHRISTIAN,State House,143,REP,"Robirds, Estel Boyd",3392
+CHRISTIAN,Circuit Judge,Circuit 38,REP,"Eiffert, James L.",18351
 CLARK,President,,DEM,"Al Gore, Joe Lieberman",1812
 CLARK,President,,REP,"George W. Bush, Dick Cheney",1899
 CLARK,President,,LIB,"Harry Browne, Art Olivier",13
@@ -852,10 +852,10 @@ CLARK,State Treasurer,,CST,"Culligan, Kerry",47
 CLARK,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2534
 CLARK,Attorney General,,REP,"Jones, Sam",1031
 CLARK,Attorney General,,LIB,"Moore, Mitch",100
-CLARK,Attorney General,,DEM,"Carroll, Steven R.",1695
-CLARK,Attorney General,,REP,"Hulshof, Kenny",1927
-CLARK,Attorney General,,LIB,"Hoffman, Robert",82
-CLARK,Attorney General,,DEM,"Berkowitz, Sam",3312
+CLARK,U.S. House,9,DEM,"Carroll, Steven R.",1695
+CLARK,U.S. House,9,REP,"Hulshof, Kenny",1927
+CLARK,U.S. House,9,LIB,"Hoffman, Robert",82
+CLARK,State House,1,DEM,"Berkowitz, Sam",3312
 CLAY,President,,DEM,"Al Gore, Joe Lieberman",39084
 CLAY,President,,REP,"George W. Bush, Dick Cheney",39083
 CLAY,President,,LIB,"Harry Browne, Art Olivier",263
@@ -885,22 +885,22 @@ CLAY,State Treasurer,,CST,"Culligan, Kerry",280
 CLAY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",42561
 CLAY,Attorney General,,REP,"Jones, Sam",32021
 CLAY,Attorney General,,LIB,"Moore, Mitch",2551
-CLAY,Attorney General,,DEM,"Danner, Steve",39644
-CLAY,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",36920
-CLAY,Attorney General,,LIB,"Dykes, Jimmy",1130
-CLAY,Attorney General,,DEM,"Quick, Edward E.",47870
-CLAY,Attorney General,,REP,"Neff, Christopher D.",29766
-CLAY,Attorney General,,DEM,"Harding, Meg",3229
-CLAY,Attorney General,,REP,"Pouche, Fred",3040
-CLAY,Attorney General,,DEM,"Skaggs, Bill",8241
-CLAY,Attorney General,,REP,"Phillips, Susan",1854
-CLAY,Attorney General,,DEM,"Willoughby, Philip O.",8408
-CLAY,Attorney General,,REP,"Randle, Martin",6017
-CLAY,Attorney General,,DEM,"Saighman, Rusty",5602
-CLAY,Attorney General,,REP,"Reinhart, Annie",10314
-CLAY,Attorney General,,DEM,"Burris, William",8385
-CLAY,Attorney General,,REP,"Ridgeway, Luann",13443
-CLAY,Attorney General,,DEM,"Kelly, Gary",2281
+CLAY,U.S. House,6,DEM,"Danner, Steve",39644
+CLAY,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",36920
+CLAY,U.S. House,6,LIB,"Dykes, Jimmy",1130
+CLAY,State Senate,17,DEM,"Quick, Edward E.",47870
+CLAY,State Senate,17,REP,"Neff, Christopher D.",29766
+CLAY,State House,30,DEM,"Harding, Meg",3229
+CLAY,State House,30,REP,"Pouche, Fred",3040
+CLAY,State House,31,DEM,"Skaggs, Bill",8241
+CLAY,State House,32,REP,"Phillips, Susan",1854
+CLAY,State House,33,DEM,"Willoughby, Philip O.",8408
+CLAY,State House,33,REP,"Randle, Martin",6017
+CLAY,State House,34,DEM,"Saighman, Rusty",5602
+CLAY,State House,34,REP,"Reinhart, Annie",10314
+CLAY,State House,35,DEM,"Burris, William",8385
+CLAY,State House,35,REP,"Ridgeway, Luann",13443
+CLAY,State House,36,DEM,"Kelly, Gary",2281
 CLINTON,President,,DEM,"Al Gore, Joe Lieberman",3994
 CLINTON,President,,REP,"George W. Bush, Dick Cheney",4323
 CLINTON,President,,LIB,"Harry Browne, Art Olivier",34
@@ -930,13 +930,13 @@ CLINTON,State Treasurer,,CST,"Culligan, Kerry",37
 CLINTON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4912
 CLINTON,Attorney General,,REP,"Jones, Sam",3064
 CLINTON,Attorney General,,LIB,"Moore, Mitch",278
-CLINTON,Attorney General,,DEM,"Danner, Steve",4141
-CLINTON,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",3930
-CLINTON,Attorney General,,LIB,"Dykes, Jimmy",251
-CLINTON,Attorney General,,DEM,"Relford, Randall H.",6626
-CLINTON,Attorney General,,DEM,"Elliott, Brent",4305
-CLINTON,Attorney General,,REP,"McElwain, Warren L.",3916
-CLINTON,Attorney General,,DEM,"Griffin, Stephen K.",6495
+CLINTON,U.S. House,6,DEM,"Danner, Steve",4141
+CLINTON,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",3930
+CLINTON,U.S. House,6,LIB,"Dykes, Jimmy",251
+CLINTON,State House,6,DEM,"Relford, Randall H.",6626
+CLINTON,Circuit Judge,Circuit 43 Division 1,DEM,"Elliott, Brent",4305
+CLINTON,Circuit Judge,Circuit 43 Division 1,REP,"McElwain, Warren L.",3916
+CLINTON,Circuit Judge,Circuit 43 Division 2,DEM,"Griffin, Stephen K.",6495
 COLE,President,,DEM,"Al Gore, Joe Lieberman",12056
 COLE,President,,REP,"George W. Bush, Dick Cheney",20167
 COLE,President,,LIB,"Harry Browne, Art Olivier",61
@@ -966,14 +966,14 @@ COLE,State Treasurer,,CST,"Culligan, Kerry",56
 COLE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",19836
 COLE,Attorney General,,REP,"Jones, Sam",11865
 COLE,Attorney General,,LIB,"Moore, Mitch",519
-COLE,Attorney General,,DEM,"Skelton, Ike",23302
-COLE,Attorney General,,REP,"Noland, Jim",8551
-COLE,Attorney General,,LIB,"Knapp, Thomas L.",309
-COLE,Attorney General,,DEM,"Gratz, W.W. (Bill)",12224
-COLE,Attorney General,,DEM,"McFadden, Cynthia",5838
-COLE,Attorney General,,REP,"Vogel, Carl M.",11680
-COLE,Attorney General,,DEM,"Brown, III, Thomas J.",19051
-COLE,Attorney General,,REP,"Tomlin, John M.",12866
+COLE,U.S. House,4,DEM,"Skelton, Ike",23302
+COLE,U.S. House,4,REP,"Noland, Jim",8551
+COLE,U.S. House,4,LIB,"Knapp, Thomas L.",309
+COLE,State House,113,DEM,"Gratz, W.W. (Bill)",12224
+COLE,State House,114,DEM,"McFadden, Cynthia",5838
+COLE,State House,114,REP,"Vogel, Carl M.",11680
+COLE,Circuit Judge,Circuit 19 Division 1,DEM,"Brown, III, Thomas J.",19051
+COLE,Circuit Judge,Circuit 19 Division 1,REP,"Tomlin, John M.",12866
 COOPER,President,,DEM,"Al Gore, Joe Lieberman",2567
 COOPER,President,,REP,"George W. Bush, Dick Cheney",4072
 COOPER,President,,LIB,"Harry Browne, Art Olivier",20
@@ -1003,12 +1003,12 @@ COOPER,State Treasurer,,CST,"Culligan, Kerry",16
 COOPER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3919
 COOPER,Attorney General,,REP,"Jones, Sam",2666
 COOPER,Attorney General,,LIB,"Moore, Mitch",145
-COOPER,Attorney General,,DEM,"Danner, Steve",3298
-COOPER,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",3310
-COOPER,Attorney General,,LIB,"Dykes, Jimmy",63
-COOPER,Attorney General,,REP,"Crawford, Larry",5489
-COOPER,Attorney General,,DEM,"Mitchell, Max",3079
-COOPER,Attorney General,,REP,"Barnes, Donald",3620
+COOPER,U.S. House,6,DEM,"Danner, Steve",3298
+COOPER,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",3310
+COOPER,U.S. House,6,LIB,"Dykes, Jimmy",63
+COOPER,State House,117,REP,"Crawford, Larry",5489
+COOPER,Circuit Judge,Circuit 18,DEM,"Mitchell, Max",3079
+COOPER,Circuit Judge,Circuit 18,REP,"Barnes, Donald",3620
 CRAWFORD,President,,DEM,"Al Gore, Joe Lieberman",3350
 CRAWFORD,President,,REP,"George W. Bush, Dick Cheney",4754
 CRAWFORD,President,,LIB,"Harry Browne, Art Olivier",31
@@ -1038,16 +1038,16 @@ CRAWFORD,State Treasurer,,CST,"Culligan, Kerry",41
 CRAWFORD,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4681
 CRAWFORD,Attorney General,,REP,"Jones, Sam",3149
 CRAWFORD,Attorney General,,LIB,"Moore, Mitch",203
-CRAWFORD,Attorney General,,DEM,"Camp, Bob",2470
-CRAWFORD,Attorney General,,REP,"Emerson, Jo Ann",5475
-CRAWFORD,Attorney General,,LIB,"Hendricks, Jr., John B.",115
-CRAWFORD,Attorney General,,DEM,"Overschmidt, Francis",1096
-CRAWFORD,Attorney General,,REP,"Goddard, Cheryl",638
-CRAWFORD,Attorney General,,DEM,"Pendleton, Marilyn J.",375
-CRAWFORD,Attorney General,,REP,"Froelker, Jim",577
-CRAWFORD,Attorney General,,DEM,"Barnitz, Frank A.",2598
-CRAWFORD,Attorney General,,REP,"Wilber, Richard",2813
-CRAWFORD,Attorney General,,DEM,"Seay, William Camm",5454
+CRAWFORD,U.S. House,8,DEM,"Camp, Bob",2470
+CRAWFORD,U.S. House,8,REP,"Emerson, Jo Ann",5475
+CRAWFORD,U.S. House,8,LIB,"Hendricks, Jr., John B.",115
+CRAWFORD,State House,110,DEM,"Overschmidt, Francis",1096
+CRAWFORD,State House,110,REP,"Goddard, Cheryl",638
+CRAWFORD,State House,111,DEM,"Pendleton, Marilyn J.",375
+CRAWFORD,State House,111,REP,"Froelker, Jim",577
+CRAWFORD,State House,150,DEM,"Barnitz, Frank A.",2598
+CRAWFORD,State House,150,REP,"Wilber, Richard",2813
+CRAWFORD,Circuit Judge,Circuit 42 Division 1,DEM,"Seay, William Camm",5454
 DADE,President,,DEM,"Al Gore, Joe Lieberman",1193
 DADE,President,,REP,"George W. Bush, Dick Cheney",2468
 DADE,President,,LIB,"Harry Browne, Art Olivier",11
@@ -1077,12 +1077,12 @@ DADE,State Treasurer,,CST,"Culligan, Kerry",8
 DADE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1467
 DADE,Attorney General,,REP,"Jones, Sam",2019
 DADE,Attorney General,,LIB,"Moore, Mitch",57
-DADE,Attorney General,,DEM,"Christrup, Charles",724
-DADE,Attorney General,,REP,"Blunt, Roy",2825
-DADE,Attorney General,,LIB,"Burlison, Doug",35
-DADE,Attorney General,,REP,"Miller, Ronnie",2906
-DADE,Attorney General,,DEM,"Darnold, C. David",1061
-DADE,Attorney General,,REP,"Bickel, James R.",2436
+DADE,U.S. House,7,DEM,"Christrup, Charles",724
+DADE,U.S. House,7,REP,"Blunt, Roy",2825
+DADE,U.S. House,7,LIB,"Burlison, Doug",35
+DADE,State House,133,REP,"Miller, Ronnie",2906
+DADE,Circuit Judge,Circuit 28,DEM,"Darnold, C. David",1061
+DADE,Circuit Judge,Circuit 28,REP,"Bickel, James R.",2436
 DALLAS,President,,DEM,"Al Gore, Joe Lieberman",2311
 DALLAS,President,,REP,"George W. Bush, Dick Cheney",3723
 DALLAS,President,,LIB,"Harry Browne, Art Olivier",21
@@ -1112,17 +1112,17 @@ DALLAS,State Treasurer,,CST,"Culligan, Kerry",25
 DALLAS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3449
 DALLAS,Attorney General,,REP,"Jones, Sam",2532
 DALLAS,Attorney General,,LIB,"Moore, Mitch",146
-DALLAS,Attorney General,,DEM,"Skelton, Ike",3366
-DALLAS,Attorney General,,REP,"Noland, Jim",2652
-DALLAS,Attorney General,,LIB,"Knapp, Thomas L.",76
-DALLAS,Attorney General,,DEM,"Ichord, Clara R.",2297
-DALLAS,Attorney General,,REP,"Russell, John T.",3842
-DALLAS,Attorney General,,DEM,"Meyer, Richard",1240
-DALLAS,Attorney General,,REP,"Legan, Ken",2969
-DALLAS,Attorney General,,DEM,"Massey, Paul",604
-DALLAS,Attorney General,,REP,"Long, Beth",1308
-DALLAS,Attorney General,,DEM,"Parks, John A.",2412
-DALLAS,Attorney General,,REP,"Sims, John W. (Bill)",3578
+DALLAS,U.S. House,4,DEM,"Skelton, Ike",3366
+DALLAS,U.S. House,4,REP,"Noland, Jim",2652
+DALLAS,U.S. House,4,LIB,"Knapp, Thomas L.",76
+DALLAS,State Senate,33,DEM,"Ichord, Clara R.",2297
+DALLAS,State Senate,33,REP,"Russell, John T.",3842
+DALLAS,State House,145,DEM,"Meyer, Richard",1240
+DALLAS,State House,145,REP,"Legan, Ken",2969
+DALLAS,State House,146,DEM,"Massey, Paul",604
+DALLAS,State House,146,REP,"Long, Beth",1308
+DALLAS,Circuit Judge,Circuit 30,DEM,"Parks, John A.",2412
+DALLAS,Circuit Judge,Circuit 30,REP,"Sims, John W. (Bill)",3578
 DAVIESS,President,,DEM,"Al Gore, Joe Lieberman",1367
 DAVIESS,President,,REP,"George W. Bush, Dick Cheney",2011
 DAVIESS,President,,LIB,"Harry Browne, Art Olivier",14
@@ -1152,13 +1152,13 @@ DAVIESS,State Treasurer,,CST,"Culligan, Kerry",17
 DAVIESS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1878
 DAVIESS,Attorney General,,REP,"Jones, Sam",1404
 DAVIESS,Attorney General,,LIB,"Moore, Mitch",91
-DAVIESS,Attorney General,,DEM,"Danner, Steve",1432
-DAVIESS,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1952
-DAVIESS,Attorney General,,LIB,"Dykes, Jimmy",40
-DAVIESS,Attorney General,,REP,"Klindt, David G.",2852
-DAVIESS,Attorney General,,DEM,"Elliott, Brent",1832
-DAVIESS,Attorney General,,REP,"McElwain, Warren L.",1590
-DAVIESS,Attorney General,,DEM,"Griffin, Stephen K.",2602
+DAVIESS,U.S. House,6,DEM,"Danner, Steve",1432
+DAVIESS,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1952
+DAVIESS,U.S. House,6,LIB,"Dykes, Jimmy",40
+DAVIESS,State House,3,REP,"Klindt, David G.",2852
+DAVIESS,Circuit Judge,Circuit 43 Division 1,DEM,"Elliott, Brent",1832
+DAVIESS,Circuit Judge,Circuit 43 Division 1,REP,"McElwain, Warren L.",1590
+DAVIESS,Circuit Judge,Circuit 43 Division 2,DEM,"Griffin, Stephen K.",2602
 DEKALB,President,,DEM,"Al Gore, Joe Lieberman",1562
 DEKALB,President,,REP,"George W. Bush, Dick Cheney",2363
 DEKALB,President,,LIB,"Harry Browne, Art Olivier",18
@@ -1188,14 +1188,14 @@ DEKALB,State Treasurer,,CST,"Culligan, Kerry",26
 DEKALB,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2158
 DEKALB,Attorney General,,REP,"Jones, Sam",1609
 DEKALB,Attorney General,,LIB,"Moore, Mitch",127
-DEKALB,Attorney General,,DEM,"Danner, Steve",1621
-DEKALB,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",2269
-DEKALB,Attorney General,,LIB,"Dykes, Jimmy",56
-DEKALB,Attorney General,,REP,"Hegeman, Dan",1650
-DEKALB,Attorney General,,DEM,"Relford, Randall H.",1540
-DEKALB,Attorney General,,DEM,"Elliott, Brent",1275
-DEKALB,Attorney General,,REP,"McElwain, Warren L.",2744
-DEKALB,Attorney General,,DEM,"Griffin, Stephen K.",2921
+DEKALB,U.S. House,6,DEM,"Danner, Steve",1621
+DEKALB,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",2269
+DEKALB,U.S. House,6,LIB,"Dykes, Jimmy",56
+DEKALB,State House,5,REP,"Hegeman, Dan",1650
+DEKALB,State House,6,DEM,"Relford, Randall H.",1540
+DEKALB,Circuit Judge,Circuit 43 Division 1,DEM,"Elliott, Brent",1275
+DEKALB,Circuit Judge,Circuit 43 Division 1,REP,"McElwain, Warren L.",2744
+DEKALB,Circuit Judge,Circuit 43 Division 2,DEM,"Griffin, Stephen K.",2921
 DENT,President,,DEM,"Al Gore, Joe Lieberman",1839
 DENT,President,,REP,"George W. Bush, Dick Cheney",3996
 DENT,President,,LIB,"Harry Browne, Art Olivier",17
@@ -1225,12 +1225,12 @@ DENT,State Treasurer,,CST,"Culligan, Kerry",28
 DENT,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3192
 DENT,Attorney General,,REP,"Jones, Sam",2473
 DENT,Attorney General,,LIB,"Moore, Mitch",132
-DENT,Attorney General,,DEM,"Camp, Bob",1436
-DENT,Attorney General,,REP,"Emerson, Jo Ann",4420
-DENT,Attorney General,,LIB,"Hendricks, Jr., John B.",55
-DENT,Attorney General,,DEM,"Barnitz, Frank A.",3209
-DENT,Attorney General,,REP,"Wilber, Richard",2777
-DENT,Attorney General,,DEM,"Seay, William Camm",4291
+DENT,U.S. House,8,DEM,"Camp, Bob",1436
+DENT,U.S. House,8,REP,"Emerson, Jo Ann",4420
+DENT,U.S. House,8,LIB,"Hendricks, Jr., John B.",55
+DENT,State House,150,DEM,"Barnitz, Frank A.",3209
+DENT,State House,150,REP,"Wilber, Richard",2777
+DENT,Circuit Judge,Circuit 42 Division 1,DEM,"Seay, William Camm",4291
 DOUGLAS,President,,DEM,"Al Gore, Joe Lieberman",1546
 DOUGLAS,President,,REP,"George W. Bush, Dick Cheney",3599
 DOUGLAS,President,,LIB,"Harry Browne, Art Olivier",12
@@ -1260,12 +1260,12 @@ DOUGLAS,State Treasurer,,CST,"Culligan, Kerry",20
 DOUGLAS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2135
 DOUGLAS,Attorney General,,REP,"Jones, Sam",2823
 DOUGLAS,Attorney General,,LIB,"Moore, Mitch",102
-DOUGLAS,Attorney General,,DEM,"Christrup, Charles",1110
-DOUGLAS,Attorney General,,REP,"Blunt, Roy",3932
-DOUGLAS,Attorney General,,LIB,"Burlison, Doug",55
-DOUGLAS,Attorney General,,REP,"Childers, Doyle",4006
-DOUGLAS,Attorney General,,REP,"Kelly, Van",4122
-DOUGLAS,Attorney General,,REP,"Moody, John Garner",3919
+DOUGLAS,U.S. House,7,DEM,"Christrup, Charles",1110
+DOUGLAS,U.S. House,7,REP,"Blunt, Roy",3932
+DOUGLAS,U.S. House,7,LIB,"Burlison, Doug",55
+DOUGLAS,State Senate,29,REP,"Childers, Doyle",4006
+DOUGLAS,State House,144,REP,"Kelly, Van",4122
+DOUGLAS,Circuit Judge,Circuit 44,REP,"Moody, John Garner",3919
 DUNKLIN,President,,DEM,"Al Gore, Joe Lieberman",4947
 DUNKLIN,President,,REP,"George W. Bush, Dick Cheney",5426
 DUNKLIN,President,,LIB,"Harry Browne, Art Olivier",17
@@ -1295,14 +1295,14 @@ DUNKLIN,State Treasurer,,CST,"Culligan, Kerry",42
 DUNKLIN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",6431
 DUNKLIN,Attorney General,,REP,"Jones, Sam",3297
 DUNKLIN,Attorney General,,LIB,"Moore, Mitch",166
-DUNKLIN,Attorney General,,DEM,"Camp, Bob",3565
-DUNKLIN,Attorney General,,REP,"Emerson, Jo Ann",6689
-DUNKLIN,Attorney General,,LIB,"Hendricks, Jr., John B.",52
-DUNKLIN,Attorney General,,DEM,"Howard, Jerry T.",5268
-DUNKLIN,Attorney General,,REP,"Foster, Bill I.",5040
-DUNKLIN,Attorney General,,DEM,"Merideth, III, Denny J.",1368
-DUNKLIN,Attorney General,,DEM,"Britt, Phillip",6362
-DUNKLIN,Attorney General,,DEM,"Sharp, Stephen R.",7696
+DUNKLIN,U.S. House,8,DEM,"Camp, Bob",3565
+DUNKLIN,U.S. House,8,REP,"Emerson, Jo Ann",6689
+DUNKLIN,U.S. House,8,LIB,"Hendricks, Jr., John B.",52
+DUNKLIN,State Senate,25,DEM,"Howard, Jerry T.",5268
+DUNKLIN,State Senate,25,REP,"Foster, Bill I.",5040
+DUNKLIN,State House,162,DEM,"Merideth, III, Denny J.",1368
+DUNKLIN,State House,163,DEM,"Britt, Phillip",6362
+DUNKLIN,Circuit Judge,Circuit 35,DEM,"Sharp, Stephen R.",7696
 FRANKLIN,President,,DEM,"Al Gore, Joe Lieberman",16172
 FRANKLIN,President,,REP,"George W. Bush, Dick Cheney",21863
 FRANKLIN,President,,LIB,"Harry Browne, Art Olivier",154
@@ -1332,19 +1332,19 @@ FRANKLIN,State Treasurer,,CST,"Culligan, Kerry",180
 FRANKLIN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",22392
 FRANKLIN,Attorney General,,REP,"Jones, Sam",14458
 FRANKLIN,Attorney General,,LIB,"Moore, Mitch",906
-FRANKLIN,Attorney General,,DEM,"Carroll, Steven R.",13858
-FRANKLIN,Attorney General,,REP,"Hulshof, Kenny",23296
-FRANKLIN,Attorney General,,LIB,"Hoffman, Robert",604
-FRANKLIN,Attorney General,,DEM,"Selby, Harold R.",1393
-FRANKLIN,Attorney General,,REP,"Wills, Quenten L.",582
-FRANKLIN,Attorney General,,DEM,"Nash, Donald J.",4724
-FRANKLIN,Attorney General,,REP,"Griesheimer, John E.",11177
-FRANKLIN,Attorney General,,DEM,"Overschmidt, Francis",5640
-FRANKLIN,Attorney General,,REP,"Goddard, Cheryl",3069
-FRANKLIN,Attorney General,,DEM,"Pendleton, Marilyn J.",4112
-FRANKLIN,Attorney General,,REP,"Froelker, Jim",7861
-FRANKLIN,Attorney General,,DEM,"Johnson, Prudence Fink",17477
-FRANKLIN,Attorney General,,REP,"Wood, Gael D.",21099
+FRANKLIN,U.S. House,9,DEM,"Carroll, Steven R.",13858
+FRANKLIN,U.S. House,9,REP,"Hulshof, Kenny",23296
+FRANKLIN,U.S. House,9,LIB,"Hoffman, Robert",604
+FRANKLIN,State House,105,DEM,"Selby, Harold R.",1393
+FRANKLIN,State House,105,REP,"Wills, Quenten L.",582
+FRANKLIN,State House,109,DEM,"Nash, Donald J.",4724
+FRANKLIN,State House,109,REP,"Griesheimer, John E.",11177
+FRANKLIN,State House,110,DEM,"Overschmidt, Francis",5640
+FRANKLIN,State House,110,REP,"Goddard, Cheryl",3069
+FRANKLIN,State House,111,DEM,"Pendleton, Marilyn J.",4112
+FRANKLIN,State House,111,REP,"Froelker, Jim",7861
+FRANKLIN,Circuit Judge,Circuit 20 Division 1,DEM,"Johnson, Prudence Fink",17477
+FRANKLIN,Circuit Judge,Circuit 20 Division 1,REP,"Wood, Gael D.",21099
 GASCONADE,President,,DEM,"Al Gore, Joe Lieberman",2257
 GASCONADE,President,,REP,"George W. Bush, Dick Cheney",4190
 GASCONADE,President,,LIB,"Harry Browne, Art Olivier",16
@@ -1374,14 +1374,14 @@ GASCONADE,State Treasurer,,CST,"Culligan, Kerry",32
 GASCONADE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3470
 GASCONADE,Attorney General,,REP,"Jones, Sam",2785
 GASCONADE,Attorney General,,LIB,"Moore, Mitch",135
-GASCONADE,Attorney General,,DEM,"Carroll, Steven R.",1643
-GASCONADE,Attorney General,,REP,"Hulshof, Kenny",4728
-GASCONADE,Attorney General,,LIB,"Hoffman, Robert",89
-GASCONADE,Attorney General,,DEM,"Pendleton, Marilyn J.",349
-GASCONADE,Attorney General,,REP,"Froelker, Jim",1170
-GASCONADE,Attorney General,,REP,"Townley, Merrill",4093
-GASCONADE,Attorney General,,DEM,"Johnson, Prudence Fink",2615
-GASCONADE,Attorney General,,REP,"Wood, Gael D.",3739
+GASCONADE,U.S. House,9,DEM,"Carroll, Steven R.",1643
+GASCONADE,U.S. House,9,REP,"Hulshof, Kenny",4728
+GASCONADE,U.S. House,9,LIB,"Hoffman, Robert",89
+GASCONADE,State House,111,DEM,"Pendleton, Marilyn J.",349
+GASCONADE,State House,111,REP,"Froelker, Jim",1170
+GASCONADE,State House,112,REP,"Townley, Merrill",4093
+GASCONADE,Circuit Judge,Circuit 20 Division 1,DEM,"Johnson, Prudence Fink",2615
+GASCONADE,Circuit Judge,Circuit 20 Division 1,REP,"Wood, Gael D.",3739
 GENTRY,President,,DEM,"Al Gore, Joe Lieberman",1271
 GENTRY,President,,REP,"George W. Bush, Dick Cheney",1771
 GENTRY,President,,LIB,"Harry Browne, Art Olivier",6
@@ -1411,12 +1411,12 @@ GENTRY,State Treasurer,,CST,"Culligan, Kerry",12
 GENTRY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1769
 GENTRY,Attorney General,,REP,"Jones, Sam",1156
 GENTRY,Attorney General,,LIB,"Moore, Mitch",73
-GENTRY,Attorney General,,DEM,"Danner, Steve",1214
-GENTRY,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1819
-GENTRY,Attorney General,,LIB,"Dykes, Jimmy",28
-GENTRY,Attorney General,,REP,"Hegeman, Dan",2479
-GENTRY,Attorney General,,DEM,"Dietrich, Glen",1288
-GENTRY,Attorney General,,REP,"Prokes, Roger",1672
+GENTRY,U.S. House,6,DEM,"Danner, Steve",1214
+GENTRY,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1819
+GENTRY,U.S. House,6,LIB,"Dykes, Jimmy",28
+GENTRY,State House,5,REP,"Hegeman, Dan",2479
+GENTRY,Circuit Judge,Circuit 4,DEM,"Dietrich, Glen",1288
+GENTRY,Circuit Judge,Circuit 4,REP,"Prokes, Roger",1672
 GREENE,President,,DEM,"Al Gore, Joe Lieberman",41091
 GREENE,President,,REP,"George W. Bush, Dick Cheney",59178
 GREENE,President,,LIB,"Harry Browne, Art Olivier",277
@@ -1446,32 +1446,32 @@ GREENE,State Treasurer,,CST,"Culligan, Kerry",297
 GREENE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",54018
 GREENE,Attorney General,,REP,"Jones, Sam",43957
 GREENE,Attorney General,,LIB,"Moore, Mitch",2106
-GREENE,Attorney General,,DEM,"Christrup, Charles",27591
-GREENE,Attorney General,,REP,"Blunt, Roy",71100
-GREENE,Attorney General,,LIB,"Burlison, Doug",1311
-GREENE,Attorney General,,REP,"Miller, Ronnie",1356
-GREENE,Attorney General,,DEM,"Dare, John",5905
-GREENE,Attorney General,,REP,"Champion, Norma (Aunt Norma)",13558
-GREENE,Attorney General,,DEM,"PayneStewart, Bee",6415
-GREENE,Attorney General,,REP,"Holand, Roy W.",15329
-GREENE,Attorney General,,DEM,"Lee, Jim",7114
-GREENE,Attorney General,,REP,"Marsh, B. J.",7950
-GREENE,Attorney General,,DEM,"Hosmer, Andy",3654
-GREENE,Attorney General,,REP,"Wright, Mark",4821
-GREENE,Attorney General,,LIB,"Chrisp, Beth",208
-GREENE,Attorney General,,DEM,"Hosmer, Craig",6849
-GREENE,Attorney General,,REP,"Bennett, Joseph",4621
-GREENE,Attorney General,,DEM,"Erb, Albert",6640
-GREENE,Attorney General,,REP,"Roark, Brad",9238
-GREENE,Attorney General,,DEM,"Wommack, Ken G.",1450
-GREENE,Attorney General,,REP,"Ballard, Charlie",2475
-GREENE,Attorney General,,DEM,"Kreider, Jim",2015
-GREENE,Attorney General,,REP,"Hayes, Tim",1236
-GREENE,Attorney General,,LIB,"Kenkel, Jeff",24
-GREENE,Attorney General,,REP,"Burrell, Jr., Don",77859
-GREENE,Attorney General,,DEM,"Mountjoy, Tom",55712
-GREENE,Attorney General,,REP,"Merriman, Pat J.",43417
-GREENE,Attorney General,,DEM,"Holden, Calvin R.",66382
+GREENE,U.S. House,7,DEM,"Christrup, Charles",27591
+GREENE,U.S. House,7,REP,"Blunt, Roy",71100
+GREENE,U.S. House,7,LIB,"Burlison, Doug",1311
+GREENE,State House,133,REP,"Miller, Ronnie",1356
+GREENE,State House,134,DEM,"Dare, John",5905
+GREENE,State House,134,REP,"Champion, Norma (Aunt Norma)",13558
+GREENE,State House,135,DEM,"PayneStewart, Bee",6415
+GREENE,State House,135,REP,"Holand, Roy W.",15329
+GREENE,State House,136,DEM,"Lee, Jim",7114
+GREENE,State House,136,REP,"Marsh, B. J.",7950
+GREENE,State House,137,DEM,"Hosmer, Andy",3654
+GREENE,State House,137,REP,"Wright, Mark",4821
+GREENE,State House,137,LIB,"Chrisp, Beth",208
+GREENE,State House,138,DEM,"Hosmer, Craig",6849
+GREENE,State House,138,REP,"Bennett, Joseph",4621
+GREENE,State House,139,DEM,"Erb, Albert",6640
+GREENE,State House,139,REP,"Roark, Brad",9238
+GREENE,State House,140,DEM,"Wommack, Ken G.",1450
+GREENE,State House,140,REP,"Ballard, Charlie",2475
+GREENE,State House,142,DEM,"Kreider, Jim",2015
+GREENE,State House,142,REP,"Hayes, Tim",1236
+GREENE,State House,142,LIB,"Kenkel, Jeff",24
+GREENE,Circuit Judge,Circuit 31 Division 1,REP,"Burrell, Jr., Don",77859
+GREENE,Circuit Judge,Circuit 31 Division 4,DEM,"Mountjoy, Tom",55712
+GREENE,Circuit Judge,Circuit 31 Division 4,REP,"Merriman, Pat J.",43417
+GREENE,Circuit Judge,Circuit 31 Division 5,DEM,"Holden, Calvin R.",66382
 GRUNDY,President,,DEM,"Al Gore, Joe Lieberman",1563
 GRUNDY,President,,REP,"George W. Bush, Dick Cheney",2976
 GRUNDY,President,,LIB,"Harry Browne, Art Olivier",19
@@ -1501,11 +1501,11 @@ GRUNDY,State Treasurer,,CST,"Culligan, Kerry",21
 GRUNDY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1998
 GRUNDY,Attorney General,,REP,"Jones, Sam",2421
 GRUNDY,Attorney General,,LIB,"Moore, Mitch",128
-GRUNDY,Attorney General,,DEM,"Danner, Steve",1615
-GRUNDY,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",2985
-GRUNDY,Attorney General,,LIB,"Dykes, Jimmy",46
-GRUNDY,Attorney General,,REP,"Klindt, David G.",4016
-GRUNDY,Attorney General,,REP,"Krohn, Andrew A.",3966
+GRUNDY,U.S. House,6,DEM,"Danner, Steve",1615
+GRUNDY,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",2985
+GRUNDY,U.S. House,6,LIB,"Dykes, Jimmy",46
+GRUNDY,State House,3,REP,"Klindt, David G.",4016
+GRUNDY,Circuit Judge,Circuit 3,REP,"Krohn, Andrew A.",3966
 HARRISON,President,,DEM,"Al Gore, Joe Lieberman",1328
 HARRISON,President,,REP,"George W. Bush, Dick Cheney",2552
 HARRISON,President,,LIB,"Harry Browne, Art Olivier",17
@@ -1535,11 +1535,11 @@ HARRISON,State Treasurer,,CST,"Culligan, Kerry",10
 HARRISON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1517
 HARRISON,Attorney General,,REP,"Jones, Sam",2081
 HARRISON,Attorney General,,LIB,"Moore, Mitch",65
-HARRISON,Attorney General,,DEM,"Danner, Steve",1270
-HARRISON,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",2496
-HARRISON,Attorney General,,LIB,"Dykes, Jimmy",46
-HARRISON,Attorney General,,REP,"Klindt, David G.",3049
-HARRISON,Attorney General,,REP,"Krohn, Andrew A.",2792
+HARRISON,U.S. House,6,DEM,"Danner, Steve",1270
+HARRISON,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",2496
+HARRISON,U.S. House,6,LIB,"Dykes, Jimmy",46
+HARRISON,State House,3,REP,"Klindt, David G.",3049
+HARRISON,Circuit Judge,Circuit 3,REP,"Krohn, Andrew A.",2792
 HENRY,President,,DEM,"Al Gore, Joe Lieberman",4459
 HENRY,President,,REP,"George W. Bush, Dick Cheney",5120
 HENRY,President,,LIB,"Harry Browne, Art Olivier",26
@@ -1569,15 +1569,15 @@ HENRY,State Treasurer,,CST,"Culligan, Kerry",30
 HENRY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5631
 HENRY,Attorney General,,REP,"Jones, Sam",3612
 HENRY,Attorney General,,LIB,"Moore, Mitch",214
-HENRY,Attorney General,,DEM,"Skelton, Ike",6923
-HENRY,Attorney General,,REP,"Noland, Jim",2604
-HENRY,Attorney General,,LIB,"Knapp, Thomas L.",101
-HENRY,Attorney General,,DEM,"Caskey, Harold L.",4266
-HENRY,Attorney General,,REP,"Howerton, Jim",5537
-HENRY,Attorney General,,DEM,"Beaty, Mike",4197
-HENRY,Attorney General,,REP,"Cooper, Shannon",5467
-HENRY,Attorney General,,LIB,"Dzula, Wally",106
-HENRY,Attorney General,,DEM,"Roberts, William J. (Bill)",7786
+HENRY,U.S. House,4,DEM,"Skelton, Ike",6923
+HENRY,U.S. House,4,REP,"Noland, Jim",2604
+HENRY,U.S. House,4,LIB,"Knapp, Thomas L.",101
+HENRY,State Senate,31,DEM,"Caskey, Harold L.",4266
+HENRY,State Senate,31,REP,"Howerton, Jim",5537
+HENRY,State House,120,DEM,"Beaty, Mike",4197
+HENRY,State House,120,REP,"Cooper, Shannon",5467
+HENRY,State House,120,LIB,"Dzula, Wally",106
+HENRY,Circuit Judge,Circuit 27,DEM,"Roberts, William J. (Bill)",7786
 HICKORY,President,,DEM,"Al Gore, Joe Lieberman",1961
 HICKORY,President,,REP,"George W. Bush, Dick Cheney",2172
 HICKORY,President,,LIB,"Harry Browne, Art Olivier",13
@@ -1607,12 +1607,12 @@ HICKORY,State Treasurer,,CST,"Culligan, Kerry",20
 HICKORY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2550
 HICKORY,Attorney General,,REP,"Jones, Sam",1491
 HICKORY,Attorney General,,LIB,"Moore, Mitch",83
-HICKORY,Attorney General,,DEM,"Skelton, Ike",2691
-HICKORY,Attorney General,,REP,"Noland, Jim",1408
-HICKORY,Attorney General,,LIB,"Knapp, Thomas L.",56
-HICKORY,Attorney General,,REP,"Scott, Delbert L.",3240
-HICKORY,Attorney General,,DEM,"Parks, John A.",2279
-HICKORY,Attorney General,,REP,"Sims, John W. (Bill)",1858
+HICKORY,U.S. House,4,DEM,"Skelton, Ike",2691
+HICKORY,U.S. House,4,REP,"Noland, Jim",1408
+HICKORY,U.S. House,4,LIB,"Knapp, Thomas L.",56
+HICKORY,State House,119,REP,"Scott, Delbert L.",3240
+HICKORY,Circuit Judge,Circuit 30,DEM,"Parks, John A.",2279
+HICKORY,Circuit Judge,Circuit 30,REP,"Sims, John W. (Bill)",1858
 HOLT,President,,DEM,"Al Gore, Joe Lieberman",871
 HOLT,President,,REP,"George W. Bush, Dick Cheney",1738
 HOLT,President,,LIB,"Harry Browne, Art Olivier",6
@@ -1642,12 +1642,12 @@ HOLT,State Treasurer,,CST,"Culligan, Kerry",15
 HOLT,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1318
 HOLT,Attorney General,,REP,"Jones, Sam",1197
 HOLT,Attorney General,,LIB,"Moore, Mitch",55
-HOLT,Attorney General,,DEM,"Danner, Steve",849
-HOLT,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1768
-HOLT,Attorney General,,LIB,"Dykes, Jimmy",18
-HOLT,Attorney General,,REP,"Hegeman, Dan",2236
-HOLT,Attorney General,,DEM,"Dietrich, Glen",920
-HOLT,Attorney General,,REP,"Prokes, Roger",1638
+HOLT,U.S. House,6,DEM,"Danner, Steve",849
+HOLT,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1768
+HOLT,U.S. House,6,LIB,"Dykes, Jimmy",18
+HOLT,State House,5,REP,"Hegeman, Dan",2236
+HOLT,Circuit Judge,Circuit 4,DEM,"Dietrich, Glen",920
+HOLT,Circuit Judge,Circuit 4,REP,"Prokes, Roger",1638
 HOWARD,President,,DEM,"Al Gore, Joe Lieberman",1944
 HOWARD,President,,REP,"George W. Bush, Dick Cheney",2414
 HOWARD,President,,LIB,"Harry Browne, Art Olivier",20
@@ -1677,16 +1677,16 @@ HOWARD,State Treasurer,,CST,"Culligan, Kerry",15
 HOWARD,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3043
 HOWARD,Attorney General,,REP,"Jones, Sam",1253
 HOWARD,Attorney General,,LIB,"Moore, Mitch",105
-HOWARD,Attorney General,,DEM,"Danner, Steve",2675
-HOWARD,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1571
-HOWARD,Attorney General,,LIB,"Dykes, Jimmy",49
-HOWARD,Attorney General,,DEM,"Jacob, Ken",2189
-HOWARD,Attorney General,,REP,"Asbury, Randy",2152
-HOWARD,Attorney General,,LIB,"Dupuy, John",44
-HOWARD,Attorney General,,DEM,"Copenhaver, Nancy",406
-HOWARD,Attorney General,,REP,"Sander, Therese",469
-HOWARD,Attorney General,,DEM,"Seigfreid, Jim",2808
-HOWARD,Attorney General,,DEM,"Jaynes, Ralph",3558
+HOWARD,U.S. House,6,DEM,"Danner, Steve",2675
+HOWARD,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1571
+HOWARD,U.S. House,6,LIB,"Dykes, Jimmy",49
+HOWARD,State Senate,19,DEM,"Jacob, Ken",2189
+HOWARD,State Senate,19,REP,"Asbury, Randy",2152
+HOWARD,State Senate,19,LIB,"Dupuy, John",44
+HOWARD,State House,22,DEM,"Copenhaver, Nancy",406
+HOWARD,State House,22,REP,"Sander, Therese",469
+HOWARD,State House,26,DEM,"Seigfreid, Jim",2808
+HOWARD,Circuit Judge,Circuit 14,DEM,"Jaynes, Ralph",3558
 HOWELL,President,,DEM,"Al Gore, Joe Lieberman",4641
 HOWELL,President,,REP,"George W. Bush, Dick Cheney",9018
 HOWELL,President,,LIB,"Harry Browne, Art Olivier",56
@@ -1716,13 +1716,13 @@ HOWELL,State Treasurer,,CST,"Culligan, Kerry",70
 HOWELL,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",7451
 HOWELL,Attorney General,,REP,"Jones, Sam",5884
 HOWELL,Attorney General,,LIB,"Moore, Mitch",358
-HOWELL,Attorney General,,DEM,"Camp, Bob",2817
-HOWELL,Attorney General,,REP,"Emerson, Jo Ann",10889
-HOWELL,Attorney General,,LIB,"Hendricks, Jr., John B.",148
-HOWELL,Attorney General,,REP,"Childers, Doyle",11305
-HOWELL,Attorney General,,DEM,"Rhine, Phyllis A.",3540
-HOWELL,Attorney General,,REP,"Purgason, Chuck",10397
-HOWELL,Attorney General,,REP,"Garrett, R. Jack",11288
+HOWELL,U.S. House,8,DEM,"Camp, Bob",2817
+HOWELL,U.S. House,8,REP,"Emerson, Jo Ann",10889
+HOWELL,U.S. House,8,LIB,"Hendricks, Jr., John B.",148
+HOWELL,State Senate,29,REP,"Childers, Doyle",11305
+HOWELL,State House,151,DEM,"Rhine, Phyllis A.",3540
+HOWELL,State House,151,REP,"Purgason, Chuck",10397
+HOWELL,Circuit Judge,Circuit 37,REP,"Garrett, R. Jack",11288
 IRON,President,,DEM,"Al Gore, Joe Lieberman",2044
 IRON,President,,REP,"George W. Bush, Dick Cheney",2237
 IRON,President,,LIB,"Harry Browne, Art Olivier",20
@@ -1752,11 +1752,11 @@ IRON,State Treasurer,,CST,"Culligan, Kerry",31
 IRON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2839
 IRON,Attorney General,,REP,"Jones, Sam",1322
 IRON,Attorney General,,LIB,"Moore, Mitch",91
-IRON,Attorney General,,DEM,"Camp, Bob",1458
-IRON,Attorney General,,REP,"Emerson, Jo Ann",2868
-IRON,Attorney General,,LIB,"Hendricks, Jr., John B.",40
-IRON,Attorney General,,DEM,"Crump, Wayne",3494
-IRON,Attorney General,,DEM,"Seay, William Camm",3341
+IRON,U.S. House,8,DEM,"Camp, Bob",1458
+IRON,U.S. House,8,REP,"Emerson, Jo Ann",2868
+IRON,U.S. House,8,LIB,"Hendricks, Jr., John B.",40
+IRON,State House,152,DEM,"Crump, Wayne",3494
+IRON,Circuit Judge,Circuit 42 Division 1,DEM,"Seay, William Camm",3341
 JACKSON,President,,DEM,"Al Gore, Joe Lieberman",72393
 JACKSON,President,,REP,"George W. Bush, Dick Cheney",73996
 JACKSON,President,,LIB,"Harry Browne, Art Olivier",575
@@ -1786,39 +1786,39 @@ JACKSON,State Treasurer,,CST,"Culligan, Kerry",451
 JACKSON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",80148
 JACKSON,Attorney General,,REP,"Jones, Sam",61725
 JACKSON,Attorney General,,LIB,"Moore, Mitch",3432
-JACKSON,Attorney General,,DEM,"Skelton, Ike",8632
-JACKSON,Attorney General,,REP,"Noland, Jim",4332
-JACKSON,Attorney General,,LIB,"Knapp, Thomas L.",173
-JACKSON,Attorney General,,DEM,"McCarthy, Karen",66600
-JACKSON,Attorney General,,REP,"Gordon, Steve",42803
-JACKSON,Attorney General,,LIB,"Newberry, Alan",1248
-JACKSON,Attorney General,,DEM,"Danner, Steve",10305
-JACKSON,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",11830
-JACKSON,Attorney General,,LIB,"Dykes, Jimmy",290
-JACKSON,Attorney General,,DEM,"Bland, Mary Groves",7576
-JACKSON,Attorney General,,DEM,"DePasco, Ronnie",17858
-JACKSON,Attorney General,,LIB,"Bojarski, Jeanne",2848
-JACKSON,Attorney General,,DEM,"Mathewson, James L. (Jim)",9722
-JACKSON,Attorney General,,DEM,"Jolly, Cathy",1378
-JACKSON,Attorney General,,REP,"Tudor, Bill",1011
-JACKSON,Attorney General,,DEM,"Hoppe, Thomas J.",5142
-JACKSON,Attorney General,,LIB,"Fisher, Robert C.",718
-JACKSON,Attorney General,,DEM,"Helverson, Glenn",6696
-JACKSON,Attorney General,,REP,"Kelley, Pat",12167
-JACKSON,Attorney General,,DEM,"Boucher, Bill",2071
-JACKSON,Attorney General,,LIB,"Peterman, Timothy E.",209
-JACKSON,Attorney General,,DEM,"Monaco, Ralph A.",9267
-JACKSON,Attorney General,,DEM,"Mays, Carol Jean",5262
-JACKSON,Attorney General,,DEM,"Bonner, Dennis",8563
-JACKSON,Attorney General,,REP,"Cierpiot, Connie J.",11302
-JACKSON,Attorney General,,DEM,"Franklin, Richard (Dick)",8545
-JACKSON,Attorney General,,REP,"McClatchey, Stan",4244
-JACKSON,Attorney General,,LIB,"Kuefel, Mark W",358
-JACKSON,Attorney General,,DEM,"Costigan, Dennis",7302
-JACKSON,Attorney General,,REP,"Lograsso, Don",11450
-JACKSON,Attorney General,,DEM,"McGregor, Neal L.",7151
-JACKSON,Attorney General,,REP,"Ross, Carson",13033
-JACKSON,Attorney General,,REP,"Bartle, Matt",15387
+JACKSON,U.S. House,4,DEM,"Skelton, Ike",8632
+JACKSON,U.S. House,4,REP,"Noland, Jim",4332
+JACKSON,U.S. House,4,LIB,"Knapp, Thomas L.",173
+JACKSON,U.S. House,5,DEM,"McCarthy, Karen",66600
+JACKSON,U.S. House,5,REP,"Gordon, Steve",42803
+JACKSON,U.S. House,5,LIB,"Newberry, Alan",1248
+JACKSON,U.S. House,6,DEM,"Danner, Steve",10305
+JACKSON,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",11830
+JACKSON,U.S. House,6,LIB,"Dykes, Jimmy",290
+JACKSON,State Senate,9,DEM,"Bland, Mary Groves",7576
+JACKSON,State Senate,11,DEM,"DePasco, Ronnie",17858
+JACKSON,State Senate,11,LIB,"Bojarski, Jeanne",2848
+JACKSON,State Senate,21,DEM,"Mathewson, James L. (Jim)",9722
+JACKSON,State House,45,DEM,"Jolly, Cathy",1378
+JACKSON,State House,45,REP,"Tudor, Bill",1011
+JACKSON,State House,46,DEM,"Hoppe, Thomas J.",5142
+JACKSON,State House,46,LIB,"Fisher, Robert C.",718
+JACKSON,State House,47,DEM,"Helverson, Glenn",6696
+JACKSON,State House,47,REP,"Kelley, Pat",12167
+JACKSON,State House,48,DEM,"Boucher, Bill",2071
+JACKSON,State House,48,LIB,"Peterman, Timothy E.",209
+JACKSON,State House,49,DEM,"Monaco, Ralph A.",9267
+JACKSON,State House,50,DEM,"Mays, Carol Jean",5262
+JACKSON,State House,51,DEM,"Bonner, Dennis",8563
+JACKSON,State House,52,REP,"Cierpiot, Connie J.",11302
+JACKSON,State House,53,DEM,"Franklin, Richard (Dick)",8545
+JACKSON,State House,53,REP,"McClatchey, Stan",4244
+JACKSON,State House,53,LIB,"Kuefel, Mark W",358
+JACKSON,State House,54,DEM,"Costigan, Dennis",7302
+JACKSON,State House,54,REP,"Lograsso, Don",11450
+JACKSON,State House,55,DEM,"McGregor, Neal L.",7151
+JACKSON,State House,55,REP,"Ross, Carson",13033
+JACKSON,State House,56,REP,"Bartle, Matt",15387
 JASPER,President,,DEM,"Al Gore, Joe Lieberman",11737
 JASPER,President,,REP,"George W. Bush, Dick Cheney",24899
 JASPER,President,,LIB,"Harry Browne, Art Olivier",111
@@ -1848,17 +1848,17 @@ JASPER,State Treasurer,,CST,"Culligan, Kerry",138
 JASPER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",15160
 JASPER,Attorney General,,REP,"Jones, Sam",20215
 JASPER,Attorney General,,LIB,"Moore, Mitch",892
-JASPER,Attorney General,,DEM,"Christrup, Charles",7826
-JASPER,Attorney General,,REP,"Blunt, Roy",28385
-JASPER,Attorney General,,LIB,"Burlison, Doug",335
-JASPER,Attorney General,,REP,"Hohulin, Martin (Bubs)",4327
-JASPER,Attorney General,,DEM,"Moss, Michael C. (Mike)",3911
-JASPER,Attorney General,,REP,"Hunter, Steve",8052
-JASPER,Attorney General,,REP,"Burton, Gary",10883
-JASPER,Attorney General,,DEM,"Chamberlain, Jeremy",2191
-JASPER,Attorney General,,REP,"Surface, Chuck",4248
-JASPER,Attorney General,,REP,"Crawford, William Carl",28809
-JASPER,Attorney General,,REP,"Dermott, Jon A.",28463
+JASPER,U.S. House,7,DEM,"Christrup, Charles",7826
+JASPER,U.S. House,7,REP,"Blunt, Roy",28385
+JASPER,U.S. House,7,LIB,"Burlison, Doug",335
+JASPER,State House,126,REP,"Hohulin, Martin (Bubs)",4327
+JASPER,State House,127,DEM,"Moss, Michael C. (Mike)",3911
+JASPER,State House,127,REP,"Hunter, Steve",8052
+JASPER,State House,128,REP,"Burton, Gary",10883
+JASPER,State House,129,DEM,"Chamberlain, Jeremy",2191
+JASPER,State House,129,REP,"Surface, Chuck",4248
+JASPER,Circuit Judge,Circuit 29 Division 1,REP,"Crawford, William Carl",28809
+JASPER,Circuit Judge,Circuit 29 Division 3,REP,"Dermott, Jon A.",28463
 JEFFERSON,President,,DEM,"Al Gore, Joe Lieberman",38616
 JEFFERSON,President,,REP,"George W. Bush, Dick Cheney",36766
 JEFFERSON,President,,LIB,"Harry Browne, Art Olivier",223
@@ -1888,22 +1888,22 @@ JEFFERSON,State Treasurer,,CST,"Culligan, Kerry",315
 JEFFERSON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",48883
 JEFFERSON,Attorney General,,REP,"Jones, Sam",24428
 JEFFERSON,Attorney General,,LIB,"Moore, Mitch",1576
-JEFFERSON,Attorney General,,DEM,"Gephardt, Richard A. (Dick)",43637
-JEFFERSON,Attorney General,,REP,"Federer, Bill",31359
-JEFFERSON,Attorney General,,LIB,"Crist, Michael H.",588
-JEFFERSON,Attorney General,,DEM,"Johnson, Richard K. (Rick)",4490
-JEFFERSON,Attorney General,,REP,"Keelin, Jr, Byron (Butch)",3044
-JEFFERSON,Attorney General,,DEM,"Hollingsworth, Kate",8871
-JEFFERSON,Attorney General,,REP,"Spears, David",6168
-JEFFERSON,Attorney General,,DEM,"McKenna, Ryan Glennon",8626
-JEFFERSON,Attorney General,,REP,"Hayes, Lew",4457
-JEFFERSON,Attorney General,,DEM,"Abel, Mark C.",8786
-JEFFERSON,Attorney General,,REP,"Engelbach, George",5523
-JEFFERSON,Attorney General,,DEM,"Wagner, Wes",11248
-JEFFERSON,Attorney General,,DEM,"Selby, Harold R.",7826
-JEFFERSON,Attorney General,,REP,"Wills, Quenten L.",3611
-JEFFERSON,Attorney General,,DEM,"Patterson, Timothy J.",51955
-JEFFERSON,Attorney General,,DEM,"Kehm, Dennis J.",44582
+JEFFERSON,U.S. House,3,DEM,"Gephardt, Richard A. (Dick)",43637
+JEFFERSON,U.S. House,3,REP,"Federer, Bill",31359
+JEFFERSON,U.S. House,3,LIB,"Crist, Michael H.",588
+JEFFERSON,State House,90,DEM,"Johnson, Richard K. (Rick)",4490
+JEFFERSON,State House,90,REP,"Keelin, Jr, Byron (Butch)",3044
+JEFFERSON,State House,101,DEM,"Hollingsworth, Kate",8871
+JEFFERSON,State House,101,REP,"Spears, David",6168
+JEFFERSON,State House,102,DEM,"McKenna, Ryan Glennon",8626
+JEFFERSON,State House,102,REP,"Hayes, Lew",4457
+JEFFERSON,State House,103,DEM,"Abel, Mark C.",8786
+JEFFERSON,State House,103,REP,"Engelbach, George",5523
+JEFFERSON,State House,104,DEM,"Wagner, Wes",11248
+JEFFERSON,State House,105,DEM,"Selby, Harold R.",7826
+JEFFERSON,State House,105,REP,"Wills, Quenten L.",3611
+JEFFERSON,Circuit Judge,Circuit 23 Division 1,DEM,"Patterson, Timothy J.",51955
+JEFFERSON,Circuit Judge,Circuit 23 Division 4,DEM,"Kehm, Dennis J.",44582
 JOHNSON,President,,DEM,"Al Gore, Joe Lieberman",6926
 JOHNSON,President,,REP,"George W. Bush, Dick Cheney",9339
 JOHNSON,President,,LIB,"Harry Browne, Art Olivier",91
@@ -1933,80 +1933,80 @@ JOHNSON,State Treasurer,,CST,"Culligan, Kerry",71
 JOHNSON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",8806
 JOHNSON,Attorney General,,REP,"Jones, Sam",6987
 JOHNSON,Attorney General,,LIB,"Moore, Mitch",519
-JOHNSON,Attorney General,,DEM,"Skelton, Ike",11985
-JOHNSON,Attorney General,,REP,"Noland, Jim",4328
-JOHNSON,Attorney General,,LIB,"Knapp, Thomas L.",202
-JOHNSON,Attorney General,,DEM,"Caskey, Harold L.",8516
-JOHNSON,Attorney General,,REP,"Howerton, Jim",8070
-JOHNSON,Attorney General,,DEM,"Beaty, Mike",1711
-JOHNSON,Attorney General,,REP,"Cooper, Shannon",2114
-JOHNSON,Attorney General,,LIB,"Dzula, Wally",73
-JOHNSON,Attorney General,,DEM,"Williams, Deleta",5863
-JOHNSON,Attorney General,,REP,"Angel, John E.",4653
-JOHNSON,Attorney General,,DEM,"Tieman, II, James (Kevin)",970
-JOHNSON,Attorney General,,REP,"Rector, Rex",1061
-JOHNSON,Attorney General,,DEM,"Cook, Jacqueline",8332
-JOHNSON,Attorney General,,REP,"Rellihan, Jerry J.",7860
-JOHNSON,President,,DEM,"Al Gore, Joe Lieberman",88026
-JOHNSON,President,,REP,"George W. Bush, Dick Cheney",30422
-JOHNSON,President,,LIB,"Harry Browne, Art Olivier",422
-JOHNSON,President,,CST,"Howard Phillips, J. Curtis Frazier",46
-JOHNSON,U.S. Senate,,DEM,"Carnahan, Mel",90451
-JOHNSON,U.S. Senate,,REP,"Ashcroft, John",29709
-JOHNSON,U.S. Senate,,LIB,"Stauffer, Grant Samuel",532
-JOHNSON,U.S. Senate,,WI,"Kennedy, Alyson",0
-JOHNSON,U.S. Senate,,WI,"Day, Darrel",0
-JOHNSON,Governor,,DEM,"Holden, Bob",89107
-JOHNSON,Governor,,REP,"Talent, Jim",29163
-JOHNSON,Governor,,LIB,"Swenson, John M.",672
-JOHNSON,Governor,,CST,"Smith, Richard L.",114
-JOHNSON,Lieutenant Governor,,DEM,"Maxwell, Joe",89090
-JOHNSON,Lieutenant Governor,,REP,"Bailey, Wendell",26435
-JOHNSON,Lieutenant Governor,,LIB,"Horras, Phillip W.",980
-JOHNSON,Lieutenant Governor,,CST,"Wells, Bob",397
-JOHNSON,Lieutenant Governor,,WI,"Reed, Steven L.",0
-JOHNSON,Secretary of State,,DEM,"Gaw, Steve",83960
-JOHNSON,Secretary of State,,REP,"Blunt, Matt",31036
-JOHNSON,Secretary of State,,LIB,"Southard, Jane Spence",1276
-JOHNSON,Secretary of State,,CST,"Ivanovich, Donna L.",356
-JOHNSON,State Treasurer,,DEM,"Farmer, Nancy",87640
-JOHNSON,State Treasurer,,REP,"Graves, Todd",28698
-JOHNSON,State Treasurer,,LIB,"Trembley, Arnold J.",890
-JOHNSON,State Treasurer,,CST,"Culligan, Kerry",245
-JOHNSON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",89672
-JOHNSON,Attorney General,,REP,"Jones, Sam",26182
-JOHNSON,Attorney General,,LIB,"Moore, Mitch",3222
-JOHNSON,Attorney General,,DEM,"McCarthy, Karen",93226
-JOHNSON,Attorney General,,REP,"Gordon, Steve",23636
-JOHNSON,Attorney General,,LIB,"Newberry, Alan",1102
-JOHNSON,Attorney General,,DEM,"Bland, Mary Groves",38279
-JOHNSON,Attorney General,,DEM,"DePasco, Ronnie",17661
-JOHNSON,Attorney General,,LIB,"Bojarski, Jeanne",2270
-JOHNSON,Attorney General,,DEM,"Sanders Brooks, Sharon",7826
-JOHNSON,Attorney General,,REP,"ZapienPina, Annalisa",692
-JOHNSON,Attorney General,,DEM,"Van Zandt, Tim",7816
-JOHNSON,Attorney General,,LIB,"Loe, Brian",751
-JOHNSON,Attorney General,,DEM,"Campbell, Marsha",10254
-JOHNSON,Attorney General,,REP,"Campbell, C. Clinton",4304
-JOHNSON,Attorney General,,DEM,"Rizzo, Henry C.",5753
-JOHNSON,Attorney General,,DEM,"Curls, Melba J.",7672
-JOHNSON,Attorney General,,DEM,"Wilson, Yvonne S.",8393
-JOHNSON,Attorney General,,DEM,"Riley, Terry M.",10563
-JOHNSON,Attorney General,,DEM,"Lowe, Jenee",8374
-JOHNSON,Attorney General,,REP,"Higgins, Howard",3062
-JOHNSON,Attorney General,,DEM,"Jolly, Cathy",6624
-JOHNSON,Attorney General,,REP,"Tudor, Bill",4011
-JOHNSON,Attorney General,,DEM,"Hoppe, Thomas J.",4692
-JOHNSON,Attorney General,,LIB,"Fisher, Robert C.",852
-JOHNSON,Attorney General,,DEM,"Helverson, Glenn",752
-JOHNSON,Attorney General,,REP,"Kelley, Pat",364
-JOHNSON,Attorney General,,DEM,"Boucher, Bill",7902
-JOHNSON,Attorney General,,LIB,"Peterman, Timothy E.",559
-JOHNSON,Attorney General,,DEM,"Monaco, Ralph A.",1559
-JOHNSON,Attorney General,,DEM,"Mays, Carol Jean",4442
-JOHNSON,Attorney General,,DEM,"Bonner, Dennis",170
-JOHNSON,Attorney General,,REP,"Cierpiot, Connie J.",971
-JOHNSON,Attorney General,,REP,"Bartle, Matt",1364
+JOHNSON,U.S. House,4,DEM,"Skelton, Ike",11985
+JOHNSON,U.S. House,4,REP,"Noland, Jim",4328
+JOHNSON,U.S. House,4,LIB,"Knapp, Thomas L.",202
+JOHNSON,State Senate,31,DEM,"Caskey, Harold L.",8516
+JOHNSON,State Senate,31,REP,"Howerton, Jim",8070
+JOHNSON,State House,120,DEM,"Beaty, Mike",1711
+JOHNSON,State House,120,REP,"Cooper, Shannon",2114
+JOHNSON,State House,120,LIB,"Dzula, Wally",73
+JOHNSON,State House,121,DEM,"Williams, Deleta",5863
+JOHNSON,State House,121,REP,"Angel, John E.",4653
+JOHNSON,State House,124,DEM,"Tieman, II, James (Kevin)",970
+JOHNSON,State House,124,REP,"Rector, Rex",1061
+JOHNSON,Circuit Judge,Circuit 17 Division 1,DEM,"Cook, Jacqueline",8332
+JOHNSON,Circuit Judge,Circuit 17 Division 1,REP,"Rellihan, Jerry J.",7860
+KANSAS CITY,President,,DEM,"Al Gore, Joe Lieberman",88026
+KANSAS CITY,President,,REP,"George W. Bush, Dick Cheney",30422
+KANSAS CITY,President,,LIB,"Harry Browne, Art Olivier",422
+KANSAS CITY,President,,CST,"Howard Phillips, J. Curtis Frazier",46
+KANSAS CITY,U.S. Senate,,DEM,"Carnahan, Mel",90451
+KANSAS CITY,U.S. Senate,,REP,"Ashcroft, John",29709
+KANSAS CITY,U.S. Senate,,LIB,"Stauffer, Grant Samuel",532
+KANSAS CITY,U.S. Senate,,WI,"Kennedy, Alyson",0
+KANSAS CITY,U.S. Senate,,WI,"Day, Darrel",0
+KANSAS CITY,Governor,,DEM,"Holden, Bob",89107
+KANSAS CITY,Governor,,REP,"Talent, Jim",29163
+KANSAS CITY,Governor,,LIB,"Swenson, John M.",672
+KANSAS CITY,Governor,,CST,"Smith, Richard L.",114
+KANSAS CITY,Lieutenant Governor,,DEM,"Maxwell, Joe",89090
+KANSAS CITY,Lieutenant Governor,,REP,"Bailey, Wendell",26435
+KANSAS CITY,Lieutenant Governor,,LIB,"Horras, Phillip W.",980
+KANSAS CITY,Lieutenant Governor,,CST,"Wells, Bob",397
+KANSAS CITY,Lieutenant Governor,,WI,"Reed, Steven L.",0
+KANSAS CITY,Secretary of State,,DEM,"Gaw, Steve",83960
+KANSAS CITY,Secretary of State,,REP,"Blunt, Matt",31036
+KANSAS CITY,Secretary of State,,LIB,"Southard, Jane Spence",1276
+KANSAS CITY,Secretary of State,,CST,"Ivanovich, Donna L.",356
+KANSAS CITY,State Treasurer,,DEM,"Farmer, Nancy",87640
+KANSAS CITY,State Treasurer,,REP,"Graves, Todd",28698
+KANSAS CITY,State Treasurer,,LIB,"Trembley, Arnold J.",890
+KANSAS CITY,State Treasurer,,CST,"Culligan, Kerry",245
+KANSAS CITY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",89672
+KANSAS CITY,Attorney General,,REP,"Jones, Sam",26182
+KANSAS CITY,Attorney General,,LIB,"Moore, Mitch",3222
+KANSAS CITY,U.S. House,5,DEM,"McCarthy, Karen",93226
+KANSAS CITY,U.S. House,5,REP,"Gordon, Steve",23636
+KANSAS CITY,U.S. House,5,LIB,"Newberry, Alan",1102
+KANSAS CITY,State Senate,9,DEM,"Bland, Mary Groves",38279
+KANSAS CITY,State Senate,11,DEM,"DePasco, Ronnie",17661
+KANSAS CITY,State Senate,11,LIB,"Bojarski, Jeanne",2270
+KANSAS CITY,State House,37,DEM,"Sanders Brooks, Sharon",7826
+KANSAS CITY,State House,37,REP,"ZapienPina, Annalisa",692
+KANSAS CITY,State House,38,DEM,"Van Zandt, Tim",7816
+KANSAS CITY,State House,38,LIB,"Loe, Brian",751
+KANSAS CITY,State House,39,DEM,"Campbell, Marsha",10254
+KANSAS CITY,State House,39,REP,"Campbell, C. Clinton",4304
+KANSAS CITY,State House,40,DEM,"Rizzo, Henry C.",5753
+KANSAS CITY,State House,41,DEM,"Curls, Melba J.",7672
+KANSAS CITY,State House,42,DEM,"Wilson, Yvonne S.",8393
+KANSAS CITY,State House,43,DEM,"Riley, Terry M.",10563
+KANSAS CITY,State House,44,DEM,"Lowe, Jenee",8374
+KANSAS CITY,State House,44,REP,"Higgins, Howard",3062
+KANSAS CITY,State House,45,DEM,"Jolly, Cathy",6624
+KANSAS CITY,State House,45,REP,"Tudor, Bill",4011
+KANSAS CITY,State House,46,DEM,"Hoppe, Thomas J.",4692
+KANSAS CITY,State House,46,LIB,"Fisher, Robert C.",852
+KANSAS CITY,State House,47,DEM,"Helverson, Glenn",752
+KANSAS CITY,State House,47,REP,"Kelley, Pat",364
+KANSAS CITY,State House,48,DEM,"Boucher, Bill",7902
+KANSAS CITY,State House,48,LIB,"Peterman, Timothy E.",559
+KANSAS CITY,State House,49,DEM,"Monaco, Ralph A.",1559
+KANSAS CITY,State House,50,DEM,"Mays, Carol Jean",4442
+KANSAS CITY,State House,51,DEM,"Bonner, Dennis",170
+KANSAS CITY,State House,52,REP,"Cierpiot, Connie J.",971
+KANSAS CITY,State House,56,REP,"Bartle, Matt",1364
 KNOX,President,,DEM,"Al Gore, Joe Lieberman",787
 KNOX,President,,REP,"George W. Bush, Dick Cheney",1226
 KNOX,President,,LIB,"Harry Browne, Art Olivier",7
@@ -2036,11 +2036,11 @@ KNOX,State Treasurer,,CST,"Culligan, Kerry",15
 KNOX,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1144
 KNOX,Attorney General,,REP,"Jones, Sam",768
 KNOX,Attorney General,,LIB,"Moore, Mitch",34
-KNOX,Attorney General,,DEM,"Carroll, Steven R.",780
-KNOX,Attorney General,,REP,"Hulshof, Kenny",1208
-KNOX,Attorney General,,LIB,"Hoffman, Robert",12
-KNOX,Attorney General,,DEM,"Berkowitz, Sam",1662
-KNOX,Attorney General,,DEM,"Steele, Russell E.",1543
+KNOX,U.S. House,9,DEM,"Carroll, Steven R.",780
+KNOX,U.S. House,9,REP,"Hulshof, Kenny",1208
+KNOX,U.S. House,9,LIB,"Hoffman, Robert",12
+KNOX,State House,1,DEM,"Berkowitz, Sam",1662
+KNOX,Circuit Judge,Circuit 2,DEM,"Steele, Russell E.",1543
 LACLEDE,President,,DEM,"Al Gore, Joe Lieberman",4183
 LACLEDE,President,,REP,"George W. Bush, Dick Cheney",8556
 LACLEDE,President,,LIB,"Harry Browne, Art Olivier",25
@@ -2070,14 +2070,14 @@ LACLEDE,State Treasurer,,CST,"Culligan, Kerry",46
 LACLEDE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",6593
 LACLEDE,Attorney General,,REP,"Jones, Sam",5956
 LACLEDE,Attorney General,,LIB,"Moore, Mitch",252
-LACLEDE,Attorney General,,DEM,"Skelton, Ike",7733
-LACLEDE,Attorney General,,REP,"Noland, Jim",4945
-LACLEDE,Attorney General,,LIB,"Knapp, Thomas L.",140
-LACLEDE,Attorney General,,DEM,"Ichord, Clara R.",3626
-LACLEDE,Attorney General,,REP,"Russell, John T.",9334
-LACLEDE,Attorney General,,DEM,"Massey, Paul",3129
-LACLEDE,Attorney General,,REP,"Long, Beth",9730
-LACLEDE,Attorney General,,REP,"Franklin, Jr., James A.",10363
+LACLEDE,U.S. House,4,DEM,"Skelton, Ike",7733
+LACLEDE,U.S. House,4,REP,"Noland, Jim",4945
+LACLEDE,U.S. House,4,LIB,"Knapp, Thomas L.",140
+LACLEDE,State Senate,33,DEM,"Ichord, Clara R.",3626
+LACLEDE,State Senate,33,REP,"Russell, John T.",9334
+LACLEDE,State House,146,DEM,"Massey, Paul",3129
+LACLEDE,State House,146,REP,"Long, Beth",9730
+LACLEDE,Circuit Judge,Circuit 26 Division 1,REP,"Franklin, Jr., James A.",10363
 LAFAYETTE,President,,DEM,"Al Gore, Joe Lieberman",6343
 LAFAYETTE,President,,REP,"George W. Bush, Dick Cheney",7849
 LAFAYETTE,President,,LIB,"Harry Browne, Art Olivier",39
@@ -2107,12 +2107,12 @@ LAFAYETTE,State Treasurer,,CST,"Culligan, Kerry",31
 LAFAYETTE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",8130
 LAFAYETTE,Attorney General,,REP,"Jones, Sam",5734
 LAFAYETTE,Attorney General,,LIB,"Moore, Mitch",378
-LAFAYETTE,Attorney General,,DEM,"Skelton, Ike",11017
-LAFAYETTE,Attorney General,,REP,"Noland, Jim",3241
-LAFAYETTE,Attorney General,,LIB,"Knapp, Thomas L.",114
-LAFAYETTE,Attorney General,,DEM,"Mathewson, James L. (Jim)",11294
-LAFAYETTE,Attorney General,,DEM,"Davis, D. J.",11479
-LAFAYETTE,Attorney General,,DEM,"Rolf, Dennis A.",11007
+LAFAYETTE,U.S. House,4,DEM,"Skelton, Ike",11017
+LAFAYETTE,U.S. House,4,REP,"Noland, Jim",3241
+LAFAYETTE,U.S. House,4,LIB,"Knapp, Thomas L.",114
+LAFAYETTE,State Senate,21,DEM,"Mathewson, James L. (Jim)",11294
+LAFAYETTE,State House,122,DEM,"Davis, D. J.",11479
+LAFAYETTE,Circuit Judge,Circuit 15,DEM,"Rolf, Dennis A.",11007
 LAWRENCE,President,,DEM,"Al Gore, Joe Lieberman",4235
 LAWRENCE,President,,REP,"George W. Bush, Dick Cheney",8305
 LAWRENCE,President,,LIB,"Harry Browne, Art Olivier",37
@@ -2142,12 +2142,12 @@ LAWRENCE,State Treasurer,,CST,"Culligan, Kerry",45
 LAWRENCE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4809
 LAWRENCE,Attorney General,,REP,"Jones, Sam",7617
 LAWRENCE,Attorney General,,LIB,"Moore, Mitch",245
-LAWRENCE,Attorney General,,DEM,"Christrup, Charles",2912
-LAWRENCE,Attorney General,,REP,"Blunt, Roy",9584
-LAWRENCE,Attorney General,,LIB,"Burlison, Doug",121
-LAWRENCE,Attorney General,,REP,"Bartelsmeyer, Linda",7516
-LAWRENCE,Attorney General,,REP,"Miller, Ronnie",3080
-LAWRENCE,Attorney General,,REP,"Sweeney, J. Edward",10278
+LAWRENCE,U.S. House,7,DEM,"Christrup, Charles",2912
+LAWRENCE,U.S. House,7,REP,"Blunt, Roy",9584
+LAWRENCE,U.S. House,7,LIB,"Burlison, Doug",121
+LAWRENCE,State House,132,REP,"Bartelsmeyer, Linda",7516
+LAWRENCE,State House,133,REP,"Miller, Ronnie",3080
+LAWRENCE,Circuit Judge,Circuit 39,REP,"Sweeney, J. Edward",10278
 LEWIS,President,,DEM,"Al Gore, Joe Lieberman",2023
 LEWIS,President,,REP,"George W. Bush, Dick Cheney",2388
 LEWIS,President,,LIB,"Harry Browne, Art Olivier",7
@@ -2177,11 +2177,11 @@ LEWIS,State Treasurer,,CST,"Culligan, Kerry",62
 LEWIS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2779
 LEWIS,Attorney General,,REP,"Jones, Sam",1403
 LEWIS,Attorney General,,LIB,"Moore, Mitch",73
-LEWIS,Attorney General,,DEM,"Carroll, Steven R.",2188
-LEWIS,Attorney General,,REP,"Hulshof, Kenny",2173
-LEWIS,Attorney General,,LIB,"Hoffman, Robert",36
-LEWIS,Attorney General,,DEM,"Berkowitz, Sam",3644
-LEWIS,Attorney General,,DEM,"Steele, Russell E.",3435
+LEWIS,U.S. House,9,DEM,"Carroll, Steven R.",2188
+LEWIS,U.S. House,9,REP,"Hulshof, Kenny",2173
+LEWIS,U.S. House,9,LIB,"Hoffman, Robert",36
+LEWIS,State House,1,DEM,"Berkowitz, Sam",3644
+LEWIS,Circuit Judge,Circuit 2,DEM,"Steele, Russell E.",3435
 LINCOLN,President,,DEM,"Al Gore, Joe Lieberman",6961
 LINCOLN,President,,REP,"George W. Bush, Dick Cheney",8549
 LINCOLN,President,,LIB,"Harry Browne, Art Olivier",66
@@ -2211,15 +2211,15 @@ LINCOLN,State Treasurer,,CST,"Culligan, Kerry",70
 LINCOLN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",9564
 LINCOLN,Attorney General,,REP,"Jones, Sam",5555
 LINCOLN,Attorney General,,LIB,"Moore, Mitch",351
-LINCOLN,Attorney General,,DEM,"Carroll, Steven R.",6327
-LINCOLN,Attorney General,,REP,"Hulshof, Kenny",8750
-LINCOLN,Attorney General,,LIB,"Hoffman, Robert",291
-LINCOLN,Attorney General,,DEM,"Shoemyer, Wes",758
-LINCOLN,Attorney General,,REP,"Ebbesmeyer, James (Jamie)",911
-LINCOLN,Attorney General,,DEM,"Smith, Phil",6343
-LINCOLN,Attorney General,,REP,"Wessel, Carol J.",4396
-LINCOLN,Attorney General,,DEM,"Luetkenhaus, Bill",2631
-LINCOLN,Attorney General,,DEM,"Dildine, Dan",12489
+LINCOLN,U.S. House,9,DEM,"Carroll, Steven R.",6327
+LINCOLN,U.S. House,9,REP,"Hulshof, Kenny",8750
+LINCOLN,U.S. House,9,LIB,"Hoffman, Robert",291
+LINCOLN,State House,9,DEM,"Shoemyer, Wes",758
+LINCOLN,State House,9,REP,"Ebbesmeyer, James (Jamie)",911
+LINCOLN,State House,11,DEM,"Smith, Phil",6343
+LINCOLN,State House,11,REP,"Wessel, Carol J.",4396
+LINCOLN,State House,12,DEM,"Luetkenhaus, Bill",2631
+LINCOLN,Circuit Judge,Circuit 45,DEM,"Dildine, Dan",12489
 LINN,President,,DEM,"Al Gore, Joe Lieberman",2646
 LINN,President,,REP,"George W. Bush, Dick Cheney",3246
 LINN,President,,LIB,"Harry Browne, Art Olivier",14
@@ -2249,14 +2249,14 @@ LINN,State Treasurer,,CST,"Culligan, Kerry",16
 LINN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3443
 LINN,Attorney General,,REP,"Jones, Sam",2248
 LINN,Attorney General,,LIB,"Moore, Mitch",109
-LINN,Attorney General,,DEM,"Danner, Steve",2821
-LINN,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",3055
-LINN,Attorney General,,LIB,"Dykes, Jimmy",43
-LINN,Attorney General,,DEM,"Murry, William L. (Bill)",980
-LINN,Attorney General,,REP,"Patek, Jewell D. H.",2010
-LINN,Attorney General,,DEM,"Wiggins, Gary",1769
-LINN,Attorney General,,REP,"Shoemaker, Chris",1209
-LINN,Attorney General,,DEM,"Ravens, Gary E.",4621
+LINN,U.S. House,6,DEM,"Danner, Steve",2821
+LINN,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",3055
+LINN,U.S. House,6,LIB,"Dykes, Jimmy",43
+LINN,State House,7,DEM,"Murry, William L. (Bill)",980
+LINN,State House,7,REP,"Patek, Jewell D. H.",2010
+LINN,State House,8,DEM,"Wiggins, Gary",1769
+LINN,State House,8,REP,"Shoemaker, Chris",1209
+LINN,Circuit Judge,Circuit 9,DEM,"Ravens, Gary E.",4621
 LIVINGSTON,President,,DEM,"Al Gore, Joe Lieberman",2425
 LIVINGSTON,President,,REP,"George W. Bush, Dick Cheney",3709
 LIVINGSTON,President,,LIB,"Harry Browne, Art Olivier",14
@@ -2286,14 +2286,14 @@ LIVINGSTON,State Treasurer,,CST,"Culligan, Kerry",24
 LIVINGSTON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3062
 LIVINGSTON,Attorney General,,REP,"Jones, Sam",2817
 LIVINGSTON,Attorney General,,LIB,"Moore, Mitch",135
-LIVINGSTON,Attorney General,,DEM,"Danner, Steve",2345
-LIVINGSTON,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",3750
-LIVINGSTON,Attorney General,,LIB,"Dykes, Jimmy",59
-LIVINGSTON,Attorney General,,DEM,"Murry, William L. (Bill)",2011
-LIVINGSTON,Attorney General,,REP,"Patek, Jewell D. H.",4261
-LIVINGSTON,Attorney General,,DEM,"Elliott, Brent",3130
-LIVINGSTON,Attorney General,,REP,"McElwain, Warren L.",3132
-LIVINGSTON,Attorney General,,DEM,"Griffin, Stephen K.",4376
+LIVINGSTON,U.S. House,6,DEM,"Danner, Steve",2345
+LIVINGSTON,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",3750
+LIVINGSTON,U.S. House,6,LIB,"Dykes, Jimmy",59
+LIVINGSTON,State House,7,DEM,"Murry, William L. (Bill)",2011
+LIVINGSTON,State House,7,REP,"Patek, Jewell D. H.",4261
+LIVINGSTON,Circuit Judge,Circuit 43 Division 1,DEM,"Elliott, Brent",3130
+LIVINGSTON,Circuit Judge,Circuit 43 Division 1,REP,"McElwain, Warren L.",3132
+LIVINGSTON,Circuit Judge,Circuit 43 Division 2,DEM,"Griffin, Stephen K.",4376
 MACON,President,,DEM,"Al Gore, Joe Lieberman",2817
 MACON,President,,REP,"George W. Bush, Dick Cheney",4232
 MACON,President,,LIB,"Harry Browne, Art Olivier",13
@@ -2323,13 +2323,13 @@ MACON,State Treasurer,,CST,"Culligan, Kerry",20
 MACON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4007
 MACON,Attorney General,,REP,"Jones, Sam",2811
 MACON,Attorney General,,LIB,"Moore, Mitch",106
-MACON,Attorney General,,DEM,"Carroll, Steven R.",2615
-MACON,Attorney General,,REP,"Hulshof, Kenny",4348
-MACON,Attorney General,,LIB,"Hoffman, Robert",66
-MACON,Attorney General,,DEM,"Wiggins, Gary",3764
-MACON,Attorney General,,REP,"Shoemaker, Chris",3352
-MACON,Attorney General,,DEM,"Grimm, Hadley",5020
-MACON,Attorney General,,REP,"Bickhaus, R. Timothy",2078
+MACON,U.S. House,9,DEM,"Carroll, Steven R.",2615
+MACON,U.S. House,9,REP,"Hulshof, Kenny",4348
+MACON,U.S. House,9,LIB,"Hoffman, Robert",66
+MACON,State House,8,DEM,"Wiggins, Gary",3764
+MACON,State House,8,REP,"Shoemaker, Chris",3352
+MACON,Circuit Judge,Circuit 41,DEM,"Grimm, Hadley",5020
+MACON,Circuit Judge,Circuit 41,REP,"Bickhaus, R. Timothy",2078
 MADISON,President,,DEM,"Al Gore, Joe Lieberman",1828
 MADISON,President,,REP,"George W. Bush, Dick Cheney",2460
 MADISON,President,,LIB,"Harry Browne, Art Olivier",9
@@ -2359,14 +2359,14 @@ MADISON,State Treasurer,,CST,"Culligan, Kerry",17
 MADISON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2638
 MADISON,Attorney General,,REP,"Jones, Sam",1558
 MADISON,Attorney General,,LIB,"Moore, Mitch",78
-MADISON,Attorney General,,DEM,"Camp, Bob",1286
-MADISON,Attorney General,,REP,"Emerson, Jo Ann",3024
-MADISON,Attorney General,,LIB,"Hendricks, Jr., John B.",24
-MADISON,Attorney General,,REP,"Kinder, Peter D.",3054
-MADISON,Attorney General,,DEM,"Cruse, Linda",1976
-MADISON,Attorney General,,REP,"Burcham, Tom",2377
-MADISON,Attorney General,,DEM,"Martinez, Sandy",3137
-MADISON,Attorney General,,DEM,"Pratte, Kenneth W.",3205
+MADISON,U.S. House,8,DEM,"Camp, Bob",1286
+MADISON,U.S. House,8,REP,"Emerson, Jo Ann",3024
+MADISON,U.S. House,8,LIB,"Hendricks, Jr., John B.",24
+MADISON,State Senate,27,REP,"Kinder, Peter D.",3054
+MADISON,State House,106,DEM,"Cruse, Linda",1976
+MADISON,State House,106,REP,"Burcham, Tom",2377
+MADISON,Circuit Judge,Circuit 24 Division 1,DEM,"Martinez, Sandy",3137
+MADISON,Circuit Judge,Circuit 24 Division 2,DEM,"Pratte, Kenneth W.",3205
 MARIES,President,,DEM,"Al Gore, Joe Lieberman",1554
 MARIES,President,,REP,"George W. Bush, Dick Cheney",2216
 MARIES,President,,LIB,"Harry Browne, Art Olivier",16
@@ -2396,11 +2396,11 @@ MARIES,State Treasurer,,CST,"Culligan, Kerry",25
 MARIES,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2444
 MARIES,Attorney General,,REP,"Jones, Sam",1280
 MARIES,Attorney General,,LIB,"Moore, Mitch",66
-MARIES,Attorney General,,DEM,"Skelton, Ike",2665
-MARIES,Attorney General,,REP,"Noland, Jim",1090
-MARIES,Attorney General,,LIB,"Knapp, Thomas L.",36
-MARIES,Attorney General,,REP,"Townley, Merrill",2809
-MARIES,Attorney General,,DEM,"Long, Douglas E.",2793
+MARIES,U.S. House,4,DEM,"Skelton, Ike",2665
+MARIES,U.S. House,4,REP,"Noland, Jim",1090
+MARIES,U.S. House,4,LIB,"Knapp, Thomas L.",36
+MARIES,State House,112,REP,"Townley, Merrill",2809
+MARIES,Circuit Judge,Circuit 25 Division 1,DEM,"Long, Douglas E.",2793
 MARION,President,,DEM,"Al Gore, Joe Lieberman",4993
 MARION,President,,REP,"George W. Bush, Dick Cheney",6550
 MARION,President,,LIB,"Harry Browne, Art Olivier",22
@@ -2430,12 +2430,12 @@ MARION,State Treasurer,,CST,"Culligan, Kerry",36
 MARION,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",7183
 MARION,Attorney General,,REP,"Jones, Sam",3955
 MARION,Attorney General,,LIB,"Moore, Mitch",162
-MARION,Attorney General,,DEM,"Carroll, Steven R.",5365
-MARION,Attorney General,,REP,"Hulshof, Kenny",6220
-MARION,Attorney General,,LIB,"Hoffman, Robert",56
-MARION,Attorney General,,DEM,"Clayton, Robert",7191
-MARION,Attorney General,,REP,"Chinn, Kathy",4521
-MARION,Attorney General,,DEM,"Clayton, II, Robert M.",9090
+MARION,U.S. House,9,DEM,"Carroll, Steven R.",5365
+MARION,U.S. House,9,REP,"Hulshof, Kenny",6220
+MARION,U.S. House,9,LIB,"Hoffman, Robert",56
+MARION,State House,10,DEM,"Clayton, Robert",7191
+MARION,State House,10,REP,"Chinn, Kathy",4521
+MARION,Circuit Judge,Circuit 10,DEM,"Clayton, II, Robert M.",9090
 MCDONALD,President,,DEM,"Al Gore, Joe Lieberman",1866
 MCDONALD,President,,REP,"George W. Bush, Dick Cheney",4460
 MCDONALD,President,,LIB,"Harry Browne, Art Olivier",24
@@ -2465,13 +2465,13 @@ MCDONALD,State Treasurer,,CST,"Culligan, Kerry",38
 MCDONALD,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2437
 MCDONALD,Attorney General,,REP,"Jones, Sam",3617
 MCDONALD,Attorney General,,LIB,"Moore, Mitch",202
-MCDONALD,Attorney General,,DEM,"Christrup, Charles",1450
-MCDONALD,Attorney General,,REP,"Blunt, Roy",4821
-MCDONALD,Attorney General,,LIB,"Burlison, Doug",88
-MCDONALD,Attorney General,,DEM,"Garrison, Wendy E.",1061
-MCDONALD,Attorney General,,REP,"Marble, Gary",2551
-MCDONALD,Attorney General,,REP,"Gaskill, Sam",2415
-MCDONALD,Attorney General,,REP,"Perigo, Timothy W.",5150
+MCDONALD,U.S. House,7,DEM,"Christrup, Charles",1450
+MCDONALD,U.S. House,7,REP,"Blunt, Roy",4821
+MCDONALD,U.S. House,7,LIB,"Burlison, Doug",88
+MCDONALD,State House,130,DEM,"Garrison, Wendy E.",1061
+MCDONALD,State House,130,REP,"Marble, Gary",2551
+MCDONALD,State House,131,REP,"Gaskill, Sam",2415
+MCDONALD,Circuit Judge,Circuit 40,REP,"Perigo, Timothy W.",5150
 MERCER,President,,DEM,"Al Gore, Joe Lieberman",555
 MERCER,President,,REP,"George W. Bush, Dick Cheney",1250
 MERCER,President,,LIB,"Harry Browne, Art Olivier",7
@@ -2501,11 +2501,11 @@ MERCER,State Treasurer,,CST,"Culligan, Kerry",5
 MERCER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",494
 MERCER,Attorney General,,REP,"Jones, Sam",1179
 MERCER,Attorney General,,LIB,"Moore, Mitch",27
-MERCER,Attorney General,,DEM,"Danner, Steve",592
-MERCER,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1157
-MERCER,Attorney General,,LIB,"Dykes, Jimmy",9
-MERCER,Attorney General,,REP,"Klindt, David G.",1444
-MERCER,Attorney General,,REP,"Krohn, Andrew A.",1462
+MERCER,U.S. House,6,DEM,"Danner, Steve",592
+MERCER,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1157
+MERCER,U.S. House,6,LIB,"Dykes, Jimmy",9
+MERCER,State House,3,REP,"Klindt, David G.",1444
+MERCER,Circuit Judge,Circuit 3,REP,"Krohn, Andrew A.",1462
 MILLER,President,,DEM,"Al Gore, Joe Lieberman",3217
 MILLER,President,,REP,"George W. Bush, Dick Cheney",5945
 MILLER,President,,LIB,"Harry Browne, Art Olivier",17
@@ -2535,11 +2535,11 @@ MILLER,State Treasurer,,CST,"Culligan, Kerry",44
 MILLER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5021
 MILLER,Attorney General,,REP,"Jones, Sam",3944
 MILLER,Attorney General,,LIB,"Moore, Mitch",185
-MILLER,Attorney General,,DEM,"Skelton, Ike",5700
-MILLER,Attorney General,,REP,"Noland, Jim",3421
-MILLER,Attorney General,,LIB,"Knapp, Thomas L.",86
-MILLER,Attorney General,,REP,"Luetkemeyer, Blaine",7692
-MILLER,Attorney General,,REP,"Franklin, Jr., James A.",7237
+MILLER,U.S. House,4,DEM,"Skelton, Ike",5700
+MILLER,U.S. House,4,REP,"Noland, Jim",3421
+MILLER,U.S. House,4,LIB,"Knapp, Thomas L.",86
+MILLER,State House,115,REP,"Luetkemeyer, Blaine",7692
+MILLER,Circuit Judge,Circuit 26 Division 1,REP,"Franklin, Jr., James A.",7237
 MISSISSIPPI,President,,DEM,"Al Gore, Joe Lieberman",2756
 MISSISSIPPI,President,,REP,"George W. Bush, Dick Cheney",2395
 MISSISSIPPI,President,,LIB,"Harry Browne, Art Olivier",8
@@ -2569,15 +2569,15 @@ MISSISSIPPI,State Treasurer,,CST,"Culligan, Kerry",25
 MISSISSIPPI,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3400
 MISSISSIPPI,Attorney General,,REP,"Jones, Sam",1506
 MISSISSIPPI,Attorney General,,LIB,"Moore, Mitch",87
-MISSISSIPPI,Attorney General,,DEM,"Camp, Bob",1936
-MISSISSIPPI,Attorney General,,REP,"Emerson, Jo Ann",3193
-MISSISSIPPI,Attorney General,,LIB,"Hendricks, Jr., John B.",23
-MISSISSIPPI,Attorney General,,REP,"Kinder, Peter D.",3140
-MISSISSIPPI,Attorney General,,DEM,"Robison, Fran",230
-MISSISSIPPI,Attorney General,,REP,"Myers, Peter",336
-MISSISSIPPI,Attorney General,,DEM,"Sharp, Van Harry",1752
-MISSISSIPPI,Attorney General,,REP,"Black, Lanie",2867
-MISSISSIPPI,Attorney General,,DEM,"Dolan, David A.",4166
+MISSISSIPPI,U.S. House,8,DEM,"Camp, Bob",1936
+MISSISSIPPI,U.S. House,8,REP,"Emerson, Jo Ann",3193
+MISSISSIPPI,U.S. House,8,LIB,"Hendricks, Jr., John B.",23
+MISSISSIPPI,State Senate,27,REP,"Kinder, Peter D.",3140
+MISSISSIPPI,State House,160,DEM,"Robison, Fran",230
+MISSISSIPPI,State House,160,REP,"Myers, Peter",336
+MISSISSIPPI,State House,161,DEM,"Sharp, Van Harry",1752
+MISSISSIPPI,State House,161,REP,"Black, Lanie",2867
+MISSISSIPPI,Circuit Judge,Circuit 33,DEM,"Dolan, David A.",4166
 MONITEAU,President,,DEM,"Al Gore, Joe Lieberman",2176
 MONITEAU,President,,REP,"George W. Bush, Dick Cheney",3764
 MONITEAU,President,,LIB,"Harry Browne, Art Olivier",17
@@ -2607,11 +2607,11 @@ MONITEAU,State Treasurer,,CST,"Culligan, Kerry",14
 MONITEAU,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3686
 MONITEAU,Attorney General,,REP,"Jones, Sam",2195
 MONITEAU,Attorney General,,LIB,"Moore, Mitch",92
-MONITEAU,Attorney General,,DEM,"Skelton, Ike",4228
-MONITEAU,Attorney General,,REP,"Noland, Jim",1719
-MONITEAU,Attorney General,,LIB,"Knapp, Thomas L.",47
-MONITEAU,Attorney General,,REP,"Crawford, Larry",5187
-MONITEAU,Attorney General,,REP,"Franklin, Jr., James A.",4587
+MONITEAU,U.S. House,4,DEM,"Skelton, Ike",4228
+MONITEAU,U.S. House,4,REP,"Noland, Jim",1719
+MONITEAU,U.S. House,4,LIB,"Knapp, Thomas L.",47
+MONITEAU,State House,117,REP,"Crawford, Larry",5187
+MONITEAU,Circuit Judge,Circuit 26 Division 1,REP,"Franklin, Jr., James A.",4587
 MONROE,President,,DEM,"Al Gore, Joe Lieberman",1860
 MONROE,President,,REP,"George W. Bush, Dick Cheney",2175
 MONROE,President,,LIB,"Harry Browne, Art Olivier",10
@@ -2641,12 +2641,12 @@ MONROE,State Treasurer,,CST,"Culligan, Kerry",17
 MONROE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2765
 MONROE,Attorney General,,REP,"Jones, Sam",1175
 MONROE,Attorney General,,LIB,"Moore, Mitch",54
-MONROE,Attorney General,,DEM,"Carroll, Steven R.",1692
-MONROE,Attorney General,,REP,"Hulshof, Kenny",2352
-MONROE,Attorney General,,LIB,"Hoffman, Robert",27
-MONROE,Attorney General,,DEM,"Shoemyer, Wes",2620
-MONROE,Attorney General,,REP,"Ebbesmeyer, James (Jamie)",1474
-MONROE,Attorney General,,DEM,"Clayton, II, Robert M.",3164
+MONROE,U.S. House,9,DEM,"Carroll, Steven R.",1692
+MONROE,U.S. House,9,REP,"Hulshof, Kenny",2352
+MONROE,U.S. House,9,LIB,"Hoffman, Robert",27
+MONROE,State House,9,DEM,"Shoemyer, Wes",2620
+MONROE,State House,9,REP,"Ebbesmeyer, James (Jamie)",1474
+MONROE,Circuit Judge,Circuit 10,DEM,"Clayton, II, Robert M.",3164
 MONTGOMERY,President,,DEM,"Al Gore, Joe Lieberman",2092
 MONTGOMERY,President,,REP,"George W. Bush, Dick Cheney",3106
 MONTGOMERY,President,,LIB,"Harry Browne, Art Olivier",9
@@ -2676,12 +2676,12 @@ MONTGOMERY,State Treasurer,,CST,"Culligan, Kerry",23
 MONTGOMERY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3170
 MONTGOMERY,Attorney General,,REP,"Jones, Sam",1885
 MONTGOMERY,Attorney General,,LIB,"Moore, Mitch",93
-MONTGOMERY,Attorney General,,DEM,"Carroll, Steven R.",1406
-MONTGOMERY,Attorney General,,REP,"Hulshof, Kenny",3688
-MONTGOMERY,Attorney General,,LIB,"Hoffman, Robert",94
-MONTGOMERY,Attorney General,,REP,"Nordwald, Charles F.",4166
-MONTGOMERY,Attorney General,,LIB,"Hoffman, Lisa D.",568
-MONTGOMERY,Attorney General,,REP,"Sutherland, Keith M.",3835
+MONTGOMERY,U.S. House,9,DEM,"Carroll, Steven R.",1406
+MONTGOMERY,U.S. House,9,REP,"Hulshof, Kenny",3688
+MONTGOMERY,U.S. House,9,LIB,"Hoffman, Robert",94
+MONTGOMERY,State House,19,REP,"Nordwald, Charles F.",4166
+MONTGOMERY,State House,19,LIB,"Hoffman, Lisa D.",568
+MONTGOMERY,Circuit Judge,Circuit 12,REP,"Sutherland, Keith M.",3835
 MORGAN,President,,DEM,"Al Gore, Joe Lieberman",3235
 MORGAN,President,,REP,"George W. Bush, Dick Cheney",4460
 MORGAN,President,,LIB,"Harry Browne, Art Olivier",23
@@ -2711,13 +2711,13 @@ MORGAN,State Treasurer,,CST,"Culligan, Kerry",40
 MORGAN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4492
 MORGAN,Attorney General,,REP,"Jones, Sam",3066
 MORGAN,Attorney General,,LIB,"Moore, Mitch",156
-MORGAN,Attorney General,,DEM,"Skelton, Ike",5018
-MORGAN,Attorney General,,REP,"Noland, Jim",2614
-MORGAN,Attorney General,,LIB,"Knapp, Thomas L.",84
-MORGAN,Attorney General,,DEM,"Cable, Dan J.",3082
-MORGAN,Attorney General,,REP,"Henderson, Steve",3072
-MORGAN,Attorney General,,REP,"Crawford, Larry",1050
-MORGAN,Attorney General,,REP,"Franklin, Jr., James A.",5786
+MORGAN,U.S. House,4,DEM,"Skelton, Ike",5018
+MORGAN,U.S. House,4,REP,"Noland, Jim",2614
+MORGAN,U.S. House,4,LIB,"Knapp, Thomas L.",84
+MORGAN,State House,116,DEM,"Cable, Dan J.",3082
+MORGAN,State House,116,REP,"Henderson, Steve",3072
+MORGAN,State House,117,REP,"Crawford, Larry",1050
+MORGAN,Circuit Judge,Circuit 26 Division 1,REP,"Franklin, Jr., James A.",5786
 NEW MADRID,President,,DEM,"Al Gore, Joe Lieberman",3738
 NEW MADRID,President,,REP,"George W. Bush, Dick Cheney",3416
 NEW MADRID,President,,LIB,"Harry Browne, Art Olivier",16
@@ -2747,18 +2747,18 @@ NEW MADRID,State Treasurer,,CST,"Culligan, Kerry",24
 NEW MADRID,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4728
 NEW MADRID,Attorney General,,REP,"Jones, Sam",2085
 NEW MADRID,Attorney General,,LIB,"Moore, Mitch",133
-NEW MADRID,Attorney General,,DEM,"Camp, Bob",2914
-NEW MADRID,Attorney General,,REP,"Emerson, Jo Ann",4185
-NEW MADRID,Attorney General,,LIB,"Hendricks, Jr., John B.",53
-NEW MADRID,Attorney General,,DEM,"Howard, Jerry T.",4263
-NEW MADRID,Attorney General,,REP,"Foster, Bill I.",2863
-NEW MADRID,Attorney General,,DEM,"Robison, Fran",166
-NEW MADRID,Attorney General,,REP,"Myers, Peter",235
-NEW MADRID,Attorney General,,DEM,"Sharp, Van Harry",2360
-NEW MADRID,Attorney General,,REP,"Black, Lanie",2525
-NEW MADRID,Attorney General,,DEM,"Merideth, III, Denny J.",1160
-NEW MADRID,Attorney General,,DEM,"Britt, Phillip",249
-NEW MADRID,Attorney General,,DEM,"Copeland, Fred W.",5208
+NEW MADRID,U.S. House,8,DEM,"Camp, Bob",2914
+NEW MADRID,U.S. House,8,REP,"Emerson, Jo Ann",4185
+NEW MADRID,U.S. House,8,LIB,"Hendricks, Jr., John B.",53
+NEW MADRID,State Senate,25,DEM,"Howard, Jerry T.",4263
+NEW MADRID,State Senate,25,REP,"Foster, Bill I.",2863
+NEW MADRID,State House,160,DEM,"Robison, Fran",166
+NEW MADRID,State House,160,REP,"Myers, Peter",235
+NEW MADRID,State House,161,DEM,"Sharp, Van Harry",2360
+NEW MADRID,State House,161,REP,"Black, Lanie",2525
+NEW MADRID,State House,162,DEM,"Merideth, III, Denny J.",1160
+NEW MADRID,State House,163,DEM,"Britt, Phillip",249
+NEW MADRID,Circuit Judge,Circuit 34,DEM,"Copeland, Fred W.",5208
 NEWTON,President,,DEM,"Al Gore, Joe Lieberman",6447
 NEWTON,President,,REP,"George W. Bush, Dick Cheney",14232
 NEWTON,President,,LIB,"Harry Browne, Art Olivier",43
@@ -2788,17 +2788,17 @@ NEWTON,State Treasurer,,CST,"Culligan, Kerry",68
 NEWTON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",8820
 NEWTON,Attorney General,,REP,"Jones, Sam",11271
 NEWTON,Attorney General,,LIB,"Moore, Mitch",414
-NEWTON,Attorney General,,DEM,"Christrup, Charles",4207
-NEWTON,Attorney General,,REP,"Blunt, Roy",16291
-NEWTON,Attorney General,,LIB,"Burlison, Doug",143
-NEWTON,Attorney General,,DEM,"Moss, Michael C. (Mike)",461
-NEWTON,Attorney General,,REP,"Hunter, Steve",1006
-NEWTON,Attorney General,,DEM,"Chamberlain, Jeremy",1822
-NEWTON,Attorney General,,REP,"Surface, Chuck",4770
-NEWTON,Attorney General,,DEM,"Garrison, Wendy E.",2344
-NEWTON,Attorney General,,REP,"Marble, Gary",6833
-NEWTON,Attorney General,,REP,"Bartelsmeyer, Linda",2905
-NEWTON,Attorney General,,REP,"Perigo, Timothy W.",16735
+NEWTON,U.S. House,7,DEM,"Christrup, Charles",4207
+NEWTON,U.S. House,7,REP,"Blunt, Roy",16291
+NEWTON,U.S. House,7,LIB,"Burlison, Doug",143
+NEWTON,State House,127,DEM,"Moss, Michael C. (Mike)",461
+NEWTON,State House,127,REP,"Hunter, Steve",1006
+NEWTON,State House,129,DEM,"Chamberlain, Jeremy",1822
+NEWTON,State House,129,REP,"Surface, Chuck",4770
+NEWTON,State House,130,DEM,"Garrison, Wendy E.",2344
+NEWTON,State House,130,REP,"Marble, Gary",6833
+NEWTON,State House,132,REP,"Bartelsmeyer, Linda",2905
+NEWTON,Circuit Judge,Circuit 40,REP,"Perigo, Timothy W.",16735
 NODAWAY,President,,DEM,"Al Gore, Joe Lieberman",3553
 NODAWAY,President,,REP,"George W. Bush, Dick Cheney",5161
 NODAWAY,President,,LIB,"Harry Browne, Art Olivier",45
@@ -2828,13 +2828,13 @@ NODAWAY,State Treasurer,,CST,"Culligan, Kerry",41
 NODAWAY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4771
 NODAWAY,Attorney General,,REP,"Jones, Sam",3628
 NODAWAY,Attorney General,,LIB,"Moore, Mitch",254
-NODAWAY,Attorney General,,DEM,"Danner, Steve",2950
-NODAWAY,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",5862
-NODAWAY,Attorney General,,LIB,"Dykes, Jimmy",92
-NODAWAY,Attorney General,,DEM,"Ritterbusch, Robert L.",2421
-NODAWAY,Attorney General,,REP,"Barnett, Rex",6478
-NODAWAY,Attorney General,,DEM,"Dietrich, Glen",4561
-NODAWAY,Attorney General,,REP,"Prokes, Roger",4337
+NODAWAY,U.S. House,6,DEM,"Danner, Steve",2950
+NODAWAY,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",5862
+NODAWAY,U.S. House,6,LIB,"Dykes, Jimmy",92
+NODAWAY,State House,4,DEM,"Ritterbusch, Robert L.",2421
+NODAWAY,State House,4,REP,"Barnett, Rex",6478
+NODAWAY,Circuit Judge,Circuit 4,DEM,"Dietrich, Glen",4561
+NODAWAY,Circuit Judge,Circuit 4,REP,"Prokes, Roger",4337
 OREGON,President,,DEM,"Al Gore, Joe Lieberman",1568
 OREGON,President,,REP,"George W. Bush, Dick Cheney",2521
 OREGON,President,,LIB,"Harry Browne, Art Olivier",22
@@ -2864,11 +2864,11 @@ OREGON,State Treasurer,,CST,"Culligan, Kerry",30
 OREGON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2429
 OREGON,Attorney General,,REP,"Jones, Sam",1488
 OREGON,Attorney General,,LIB,"Moore, Mitch",113
-OREGON,Attorney General,,DEM,"Camp, Bob",1237
-OREGON,Attorney General,,REP,"Emerson, Jo Ann",2889
-OREGON,Attorney General,,LIB,"Hendricks, Jr., John B.",40
-OREGON,Attorney General,,DEM,"Koller, Don",3346
-OREGON,Attorney General,,REP,"Garrett, R. Jack",2987
+OREGON,U.S. House,8,DEM,"Camp, Bob",1237
+OREGON,U.S. House,8,REP,"Emerson, Jo Ann",2889
+OREGON,U.S. House,8,LIB,"Hendricks, Jr., John B.",40
+OREGON,State House,153,DEM,"Koller, Don",3346
+OREGON,Circuit Judge,Circuit 37,REP,"Garrett, R. Jack",2987
 OSAGE,President,,DEM,"Al Gore, Joe Lieberman",1938
 OSAGE,President,,REP,"George W. Bush, Dick Cheney",4154
 OSAGE,President,,LIB,"Harry Browne, Art Olivier",9
@@ -2898,12 +2898,12 @@ OSAGE,State Treasurer,,CST,"Culligan, Kerry",15
 OSAGE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4012
 OSAGE,Attorney General,,REP,"Jones, Sam",1982
 OSAGE,Attorney General,,LIB,"Moore, Mitch",67
-OSAGE,Attorney General,,DEM,"Skelton, Ike",4327
-OSAGE,Attorney General,,REP,"Noland, Jim",1703
-OSAGE,Attorney General,,LIB,"Knapp, Thomas L.",46
-OSAGE,Attorney General,,REP,"Townley, Merrill",5055
-OSAGE,Attorney General,,DEM,"Johnson, Prudence Fink",2399
-OSAGE,Attorney General,,REP,"Wood, Gael D.",3443
+OSAGE,U.S. House,4,DEM,"Skelton, Ike",4327
+OSAGE,U.S. House,4,REP,"Noland, Jim",1703
+OSAGE,U.S. House,4,LIB,"Knapp, Thomas L.",46
+OSAGE,State House,112,REP,"Townley, Merrill",5055
+OSAGE,Circuit Judge,Circuit 20 Division 1,DEM,"Johnson, Prudence Fink",2399
+OSAGE,Circuit Judge,Circuit 20 Division 1,REP,"Wood, Gael D.",3443
 OZARK,President,,DEM,"Al Gore, Joe Lieberman",1432
 OZARK,President,,REP,"George W. Bush, Dick Cheney",2663
 OZARK,President,,LIB,"Harry Browne, Art Olivier",14
@@ -2933,13 +2933,13 @@ OZARK,State Treasurer,,CST,"Culligan, Kerry",29
 OZARK,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2037
 OZARK,Attorney General,,REP,"Jones, Sam",1963
 OZARK,Attorney General,,LIB,"Moore, Mitch",134
-OZARK,Attorney General,,DEM,"Christrup, Charles",975
-OZARK,Attorney General,,REP,"Blunt, Roy",3072
-OZARK,Attorney General,,LIB,"Burlison, Doug",54
-OZARK,Attorney General,,REP,"Childers, Doyle",3302
-OZARK,Attorney General,,REP,"Robirds, Estel Boyd",2667
-OZARK,Attorney General,,REP,"Kelly, Van",735
-OZARK,Attorney General,,REP,"Moody, John Garner",3204
+OZARK,U.S. House,7,DEM,"Christrup, Charles",975
+OZARK,U.S. House,7,REP,"Blunt, Roy",3072
+OZARK,U.S. House,7,LIB,"Burlison, Doug",54
+OZARK,State Senate,29,REP,"Childers, Doyle",3302
+OZARK,State House,143,REP,"Robirds, Estel Boyd",2667
+OZARK,State House,144,REP,"Kelly, Van",735
+OZARK,Circuit Judge,Circuit 44,REP,"Moody, John Garner",3204
 PEMISCOT,President,,DEM,"Al Gore, Joe Lieberman",3245
 PEMISCOT,President,,REP,"George W. Bush, Dick Cheney",2750
 PEMISCOT,President,,LIB,"Harry Browne, Art Olivier",4
@@ -2969,13 +2969,13 @@ PEMISCOT,State Treasurer,,CST,"Culligan, Kerry",45
 PEMISCOT,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3885
 PEMISCOT,Attorney General,,REP,"Jones, Sam",1634
 PEMISCOT,Attorney General,,LIB,"Moore, Mitch",126
-PEMISCOT,Attorney General,,DEM,"Camp, Bob",2696
-PEMISCOT,Attorney General,,REP,"Emerson, Jo Ann",3128
-PEMISCOT,Attorney General,,LIB,"Hendricks, Jr., John B.",53
-PEMISCOT,Attorney General,,DEM,"Howard, Jerry T.",3540
-PEMISCOT,Attorney General,,REP,"Foster, Bill I.",2451
-PEMISCOT,Attorney General,,DEM,"Merideth, III, Denny J.",5046
-PEMISCOT,Attorney General,,DEM,"Copeland, Fred W.",4742
+PEMISCOT,U.S. House,8,DEM,"Camp, Bob",2696
+PEMISCOT,U.S. House,8,REP,"Emerson, Jo Ann",3128
+PEMISCOT,U.S. House,8,LIB,"Hendricks, Jr., John B.",53
+PEMISCOT,State Senate,25,DEM,"Howard, Jerry T.",3540
+PEMISCOT,State Senate,25,REP,"Foster, Bill I.",2451
+PEMISCOT,State House,162,DEM,"Merideth, III, Denny J.",5046
+PEMISCOT,Circuit Judge,Circuit 34,DEM,"Copeland, Fred W.",4742
 PERRY,President,,DEM,"Al Gore, Joe Lieberman",2085
 PERRY,President,,REP,"George W. Bush, Dick Cheney",4667
 PERRY,President,,LIB,"Harry Browne, Art Olivier",23
@@ -3005,13 +3005,13 @@ PERRY,State Treasurer,,CST,"Culligan, Kerry",19
 PERRY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3496
 PERRY,Attorney General,,REP,"Jones, Sam",3301
 PERRY,Attorney General,,LIB,"Moore, Mitch",134
-PERRY,Attorney General,,DEM,"Camp, Bob",1400
-PERRY,Attorney General,,REP,"Emerson, Jo Ann",5760
-PERRY,Attorney General,,LIB,"Hendricks, Jr., John B.",43
-PERRY,Attorney General,,REP,"Kinder, Peter D.",5612
-PERRY,Attorney General,,DEM,"Wibbenmeyer, John R.",2352
-PERRY,Attorney General,,REP,"Naeger, Patrick",4885
-PERRY,Attorney General,,DEM,"Grimm, John W.",4827
+PERRY,U.S. House,8,DEM,"Camp, Bob",1400
+PERRY,U.S. House,8,REP,"Emerson, Jo Ann",5760
+PERRY,U.S. House,8,LIB,"Hendricks, Jr., John B.",43
+PERRY,State Senate,27,REP,"Kinder, Peter D.",5612
+PERRY,State House,155,DEM,"Wibbenmeyer, John R.",2352
+PERRY,State House,155,REP,"Naeger, Patrick",4885
+PERRY,Circuit Judge,Circuit 32 Division 2,DEM,"Grimm, John W.",4827
 PETTIS,President,,DEM,"Al Gore, Joe Lieberman",5855
 PETTIS,President,,REP,"George W. Bush, Dick Cheney",9533
 PETTIS,President,,LIB,"Harry Browne, Art Olivier",70
@@ -3041,15 +3041,15 @@ PETTIS,State Treasurer,,CST,"Culligan, Kerry",46
 PETTIS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",8564
 PETTIS,Attorney General,,REP,"Jones, Sam",6432
 PETTIS,Attorney General,,LIB,"Moore, Mitch",346
-PETTIS,Attorney General,,DEM,"Skelton, Ike",11186
-PETTIS,Attorney General,,REP,"Noland, Jim",4230
-PETTIS,Attorney General,,LIB,"Knapp, Thomas L.",123
-PETTIS,Attorney General,,DEM,"Mathewson, James L. (Jim)",12070
-PETTIS,Attorney General,,REP,"Crawford, Larry",289
-PETTIS,Attorney General,,REP,"Boatright, Matt",11035
-PETTIS,Attorney General,,REP,"Scott, Delbert L.",1409
-PETTIS,Attorney General,,DEM,"Mitchell, Max",7370
-PETTIS,Attorney General,,REP,"Barnes, Donald",8273
+PETTIS,U.S. House,4,DEM,"Skelton, Ike",11186
+PETTIS,U.S. House,4,REP,"Noland, Jim",4230
+PETTIS,U.S. House,4,LIB,"Knapp, Thomas L.",123
+PETTIS,State Senate,21,DEM,"Mathewson, James L. (Jim)",12070
+PETTIS,State House,117,REP,"Crawford, Larry",289
+PETTIS,State House,118,REP,"Boatright, Matt",11035
+PETTIS,State House,119,REP,"Scott, Delbert L.",1409
+PETTIS,Circuit Judge,Circuit 18,DEM,"Mitchell, Max",7370
+PETTIS,Circuit Judge,Circuit 18,REP,"Barnes, Donald",8273
 PHELPS,President,,DEM,"Al Gore, Joe Lieberman",6262
 PHELPS,President,,REP,"George W. Bush, Dick Cheney",9444
 PHELPS,President,,LIB,"Harry Browne, Art Olivier",76
@@ -3079,14 +3079,14 @@ PHELPS,State Treasurer,,CST,"Culligan, Kerry",78
 PHELPS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",9317
 PHELPS,Attorney General,,REP,"Jones, Sam",5839
 PHELPS,Attorney General,,LIB,"Moore, Mitch",417
-PHELPS,Attorney General,,DEM,"Camp, Bob",4207
-PHELPS,Attorney General,,REP,"Emerson, Jo Ann",11060
-PHELPS,Attorney General,,LIB,"Hendricks, Jr., John B.",151
-PHELPS,Attorney General,,DEM,"Hagler, Jon",6744
-PHELPS,Attorney General,,REP,"May, Bob",7134
-PHELPS,Attorney General,,DEM,"Barnitz, Frank A.",1154
-PHELPS,Attorney General,,REP,"Wilber, Richard",1041
-PHELPS,Attorney General,,DEM,"Long, Douglas E.",11619
+PHELPS,U.S. House,8,DEM,"Camp, Bob",4207
+PHELPS,U.S. House,8,REP,"Emerson, Jo Ann",11060
+PHELPS,U.S. House,8,LIB,"Hendricks, Jr., John B.",151
+PHELPS,State House,149,DEM,"Hagler, Jon",6744
+PHELPS,State House,149,REP,"May, Bob",7134
+PHELPS,State House,150,DEM,"Barnitz, Frank A.",1154
+PHELPS,State House,150,REP,"Wilber, Richard",1041
+PHELPS,Circuit Judge,Circuit 25 Division 1,DEM,"Long, Douglas E.",11619
 PIKE,President,,DEM,"Al Gore, Joe Lieberman",3557
 PIKE,President,,REP,"George W. Bush, Dick Cheney",3648
 PIKE,President,,LIB,"Harry Browne, Art Olivier",20
@@ -3116,14 +3116,14 @@ PIKE,State Treasurer,,CST,"Culligan, Kerry",46
 PIKE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4786
 PIKE,Attorney General,,REP,"Jones, Sam",2188
 PIKE,Attorney General,,LIB,"Moore, Mitch",110
-PIKE,Attorney General,,DEM,"Carroll, Steven R.",3345
-PIKE,Attorney General,,REP,"Hulshof, Kenny",3751
-PIKE,Attorney General,,LIB,"Hoffman, Robert",75
-PIKE,Attorney General,,DEM,"Shoemyer, Wes",825
-PIKE,Attorney General,,REP,"Ebbesmeyer, James (Jamie)",525
-PIKE,Attorney General,,DEM,"Smith, Phil",3711
-PIKE,Attorney General,,REP,"Wessel, Carol J.",2226
-PIKE,Attorney General,,DEM,"Dildine, Dan",5472
+PIKE,U.S. House,9,DEM,"Carroll, Steven R.",3345
+PIKE,U.S. House,9,REP,"Hulshof, Kenny",3751
+PIKE,U.S. House,9,LIB,"Hoffman, Robert",75
+PIKE,State House,9,DEM,"Shoemyer, Wes",825
+PIKE,State House,9,REP,"Ebbesmeyer, James (Jamie)",525
+PIKE,State House,11,DEM,"Smith, Phil",3711
+PIKE,State House,11,REP,"Wessel, Carol J.",2226
+PIKE,Circuit Judge,Circuit 45,DEM,"Dildine, Dan",5472
 PLATTE,President,,DEM,"Al Gore, Joe Lieberman",15325
 PLATTE,President,,REP,"George W. Bush, Dick Cheney",17785
 PLATTE,President,,LIB,"Harry Browne, Art Olivier",131
@@ -3153,15 +3153,15 @@ PLATTE,State Treasurer,,CST,"Culligan, Kerry",75
 PLATTE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",17374
 PLATTE,Attorney General,,REP,"Jones, Sam",14370
 PLATTE,Attorney General,,LIB,"Moore, Mitch",1016
-PLATTE,Attorney General,,DEM,"Danner, Steve",15856
-PLATTE,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",16863
-PLATTE,Attorney General,,LIB,"Dykes, Jimmy",465
-PLATTE,Attorney General,,DEM,"Lawson, Maurice",3115
-PLATTE,Attorney General,,REP,"Rooney, Jim",2779
-PLATTE,Attorney General,,LIB,"Wisneski, Kevin L.",158
-PLATTE,Attorney General,,DEM,"Harding, Meg",6425
-PLATTE,Attorney General,,REP,"Pouche, Fred",6365
-PLATTE,Attorney General,,REP,"Phillips, Susan",11122
+PLATTE,U.S. House,6,DEM,"Danner, Steve",15856
+PLATTE,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",16863
+PLATTE,U.S. House,6,LIB,"Dykes, Jimmy",465
+PLATTE,State House,29,DEM,"Lawson, Maurice",3115
+PLATTE,State House,29,REP,"Rooney, Jim",2779
+PLATTE,State House,29,LIB,"Wisneski, Kevin L.",158
+PLATTE,State House,30,DEM,"Harding, Meg",6425
+PLATTE,State House,30,REP,"Pouche, Fred",6365
+PLATTE,State House,32,REP,"Phillips, Susan",11122
 POLK,President,,DEM,"Al Gore, Joe Lieberman",3606
 POLK,President,,REP,"George W. Bush, Dick Cheney",6430
 POLK,President,,LIB,"Harry Browne, Art Olivier",24
@@ -3191,13 +3191,13 @@ POLK,State Treasurer,,CST,"Culligan, Kerry",33
 POLK,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5009
 POLK,Attorney General,,REP,"Jones, Sam",4790
 POLK,Attorney General,,LIB,"Moore, Mitch",192
-POLK,Attorney General,,DEM,"Christrup, Charles",2515
-POLK,Attorney General,,REP,"Blunt, Roy",7379
-POLK,Attorney General,,LIB,"Burlison, Doug",108
-POLK,Attorney General,,DEM,"Meyer, Richard",2809
-POLK,Attorney General,,REP,"Legan, Ken",7381
-POLK,Attorney General,,DEM,"Parks, John A.",3964
-POLK,Attorney General,,REP,"Sims, John W. (Bill)",6032
+POLK,U.S. House,7,DEM,"Christrup, Charles",2515
+POLK,U.S. House,7,REP,"Blunt, Roy",7379
+POLK,U.S. House,7,LIB,"Burlison, Doug",108
+POLK,State House,145,DEM,"Meyer, Richard",2809
+POLK,State House,145,REP,"Legan, Ken",7381
+POLK,Circuit Judge,Circuit 30,DEM,"Parks, John A.",3964
+POLK,Circuit Judge,Circuit 30,REP,"Sims, John W. (Bill)",6032
 PULASKI,President,,DEM,"Al Gore, Joe Lieberman",3800
 PULASKI,President,,REP,"George W. Bush, Dick Cheney",6531
 PULASKI,President,,LIB,"Harry Browne, Art Olivier",23
@@ -3227,15 +3227,15 @@ PULASKI,State Treasurer,,CST,"Culligan, Kerry",33
 PULASKI,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",6163
 PULASKI,Attorney General,,REP,"Jones, Sam",3926
 PULASKI,Attorney General,,LIB,"Moore, Mitch",236
-PULASKI,Attorney General,,DEM,"Skelton, Ike",7858
-PULASKI,Attorney General,,REP,"Noland, Jim",2478
-PULASKI,Attorney General,,LIB,"Knapp, Thomas L.",69
-PULASKI,Attorney General,,DEM,"Ichord, Clara R.",5102
-PULASKI,Attorney General,,REP,"Russell, John T.",5232
-PULASKI,Attorney General,,DEM,"Hampton, Mark",239
-PULASKI,Attorney General,,DEM,"Ransdall, Bill L.",6625
-PULASKI,Attorney General,,REP,"Pendleton, Marvin",3375
-PULASKI,Attorney General,,DEM,"Long, Douglas E.",8270
+PULASKI,U.S. House,4,DEM,"Skelton, Ike",7858
+PULASKI,U.S. House,4,REP,"Noland, Jim",2478
+PULASKI,U.S. House,4,LIB,"Knapp, Thomas L.",69
+PULASKI,State Senate,33,DEM,"Ichord, Clara R.",5102
+PULASKI,State Senate,33,REP,"Russell, John T.",5232
+PULASKI,State House,147,DEM,"Hampton, Mark",239
+PULASKI,State House,148,DEM,"Ransdall, Bill L.",6625
+PULASKI,State House,148,REP,"Pendleton, Marvin",3375
+PULASKI,Circuit Judge,Circuit 25 Division 1,DEM,"Long, Douglas E.",8270
 PUTNAM,President,,DEM,"Al Gore, Joe Lieberman",708
 PUTNAM,President,,REP,"George W. Bush, Dick Cheney",1593
 PUTNAM,President,,LIB,"Harry Browne, Art Olivier",1
@@ -3265,12 +3265,12 @@ PUTNAM,State Treasurer,,CST,"Culligan, Kerry",10
 PUTNAM,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",713
 PUTNAM,Attorney General,,REP,"Jones, Sam",1453
 PUTNAM,Attorney General,,LIB,"Moore, Mitch",43
-PUTNAM,Attorney General,,DEM,"Danner, Steve",738
-PUTNAM,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1513
-PUTNAM,Attorney General,,LIB,"Dykes, Jimmy",11
-PUTNAM,Attorney General,,DEM,"Clithero, David W.",726
-PUTNAM,Attorney General,,REP,"Behnen, Robert J. (Bob)",1540
-PUTNAM,Attorney General,,REP,"Krohn, Andrew A.",1828
+PUTNAM,U.S. House,6,DEM,"Danner, Steve",738
+PUTNAM,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1513
+PUTNAM,U.S. House,6,LIB,"Dykes, Jimmy",11
+PUTNAM,State House,2,DEM,"Clithero, David W.",726
+PUTNAM,State House,2,REP,"Behnen, Robert J. (Bob)",1540
+PUTNAM,Circuit Judge,Circuit 3,REP,"Krohn, Andrew A.",1828
 RALLS,President,,DEM,"Al Gore, Joe Lieberman",2033
 RALLS,President,,REP,"George W. Bush, Dick Cheney",2446
 RALLS,President,,LIB,"Harry Browne, Art Olivier",15
@@ -3300,12 +3300,12 @@ RALLS,State Treasurer,,CST,"Culligan, Kerry",23
 RALLS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2950
 RALLS,Attorney General,,REP,"Jones, Sam",1418
 RALLS,Attorney General,,LIB,"Moore, Mitch",55
-RALLS,Attorney General,,DEM,"Carroll, Steven R.",2118
-RALLS,Attorney General,,REP,"Hulshof, Kenny",2371
-RALLS,Attorney General,,LIB,"Hoffman, Robert",36
-RALLS,Attorney General,,DEM,"Shoemyer, Wes",2943
-RALLS,Attorney General,,REP,"Ebbesmeyer, James (Jamie)",1553
-RALLS,Attorney General,,DEM,"Clayton, II, Robert M.",3636
+RALLS,U.S. House,9,DEM,"Carroll, Steven R.",2118
+RALLS,U.S. House,9,REP,"Hulshof, Kenny",2371
+RALLS,U.S. House,9,LIB,"Hoffman, Robert",36
+RALLS,State House,9,DEM,"Shoemyer, Wes",2943
+RALLS,State House,9,REP,"Ebbesmeyer, James (Jamie)",1553
+RALLS,Circuit Judge,Circuit 10,DEM,"Clayton, II, Robert M.",3636
 RANDOLPH,President,,DEM,"Al Gore, Joe Lieberman",4116
 RANDOLPH,President,,REP,"George W. Bush, Dick Cheney",4844
 RANDOLPH,President,,LIB,"Harry Browne, Art Olivier",26
@@ -3335,15 +3335,15 @@ RANDOLPH,State Treasurer,,CST,"Culligan, Kerry",32
 RANDOLPH,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",6090
 RANDOLPH,Attorney General,,REP,"Jones, Sam",2732
 RANDOLPH,Attorney General,,LIB,"Moore, Mitch",147
-RANDOLPH,Attorney General,,DEM,"Carroll, Steven R.",3742
-RANDOLPH,Attorney General,,REP,"Hulshof, Kenny",5283
-RANDOLPH,Attorney General,,LIB,"Hoffman, Robert",64
-RANDOLPH,Attorney General,,DEM,"Jacob, Ken",5229
-RANDOLPH,Attorney General,,REP,"Asbury, Randy",3772
-RANDOLPH,Attorney General,,LIB,"Dupuy, John",86
-RANDOLPH,Attorney General,,DEM,"Copenhaver, Nancy",4805
-RANDOLPH,Attorney General,,REP,"Sander, Therese",4265
-RANDOLPH,Attorney General,,DEM,"Jaynes, Ralph",7440
+RANDOLPH,U.S. House,9,DEM,"Carroll, Steven R.",3742
+RANDOLPH,U.S. House,9,REP,"Hulshof, Kenny",5283
+RANDOLPH,U.S. House,9,LIB,"Hoffman, Robert",64
+RANDOLPH,State Senate,19,DEM,"Jacob, Ken",5229
+RANDOLPH,State Senate,19,REP,"Asbury, Randy",3772
+RANDOLPH,State Senate,19,LIB,"Dupuy, John",86
+RANDOLPH,State House,22,DEM,"Copenhaver, Nancy",4805
+RANDOLPH,State House,22,REP,"Sander, Therese",4265
+RANDOLPH,Circuit Judge,Circuit 14,DEM,"Jaynes, Ralph",7440
 RAY,President,,DEM,"Al Gore, Joe Lieberman",4970
 RAY,President,,REP,"George W. Bush, Dick Cheney",4517
 RAY,President,,LIB,"Harry Browne, Art Olivier",46
@@ -3373,13 +3373,13 @@ RAY,State Treasurer,,CST,"Culligan, Kerry",44
 RAY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5895
 RAY,Attorney General,,REP,"Jones, Sam",3249
 RAY,Attorney General,,LIB,"Moore, Mitch",265
-RAY,Attorney General,,DEM,"Danner, Steve",5581
-RAY,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",3777
-RAY,Attorney General,,LIB,"Dykes, Jimmy",143
-RAY,Attorney General,,DEM,"Mathewson, James L. (Jim)",7573
-RAY,Attorney General,,DEM,"Relford, Randall H.",1343
-RAY,Attorney General,,DEM,"Kelly, Gary",5351
-RAY,Attorney General,,REP,"Moentmann, Werner A.",6358
+RAY,U.S. House,6,DEM,"Danner, Steve",5581
+RAY,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",3777
+RAY,U.S. House,6,LIB,"Dykes, Jimmy",143
+RAY,State Senate,21,DEM,"Mathewson, James L. (Jim)",7573
+RAY,State House,6,DEM,"Relford, Randall H.",1343
+RAY,State House,36,DEM,"Kelly, Gary",5351
+RAY,State House,36,REP,"Moentmann, Werner A.",6358
 REYNOLDS,President,,DEM,"Al Gore, Joe Lieberman",1298
 REYNOLDS,President,,REP,"George W. Bush, Dick Cheney",1762
 REYNOLDS,President,,LIB,"Harry Browne, Art Olivier",5
@@ -3409,14 +3409,14 @@ REYNOLDS,State Treasurer,,CST,"Culligan, Kerry",12
 REYNOLDS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1712
 REYNOLDS,Attorney General,,REP,"Jones, Sam",1123
 REYNOLDS,Attorney General,,LIB,"Moore, Mitch",44
-REYNOLDS,Attorney General,,DEM,"Camp, Bob",984
-REYNOLDS,Attorney General,,REP,"Emerson, Jo Ann",2012
-REYNOLDS,Attorney General,,LIB,"Hendricks, Jr., John B.",23
-REYNOLDS,Attorney General,,DEM,"Barnitz, Frank A.",188
-REYNOLDS,Attorney General,,REP,"Wilber, Richard",173
-REYNOLDS,Attorney General,,DEM,"Crump, Wayne",1321
-REYNOLDS,Attorney General,,DEM,"Koller, Don",533
-REYNOLDS,Attorney General,,DEM,"Seay, William Camm",1993
+REYNOLDS,U.S. House,8,DEM,"Camp, Bob",984
+REYNOLDS,U.S. House,8,REP,"Emerson, Jo Ann",2012
+REYNOLDS,U.S. House,8,LIB,"Hendricks, Jr., John B.",23
+REYNOLDS,State House,150,DEM,"Barnitz, Frank A.",188
+REYNOLDS,State House,150,REP,"Wilber, Richard",173
+REYNOLDS,State House,152,DEM,"Crump, Wayne",1321
+REYNOLDS,State House,153,DEM,"Koller, Don",533
+REYNOLDS,Circuit Judge,Circuit 42 Division 1,DEM,"Seay, William Camm",1993
 RIPLEY,President,,DEM,"Al Gore, Joe Lieberman",1820
 RIPLEY,President,,REP,"George W. Bush, Dick Cheney",3121
 RIPLEY,President,,LIB,"Harry Browne, Art Olivier",27
@@ -3446,12 +3446,12 @@ RIPLEY,State Treasurer,,CST,"Culligan, Kerry",32
 RIPLEY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2518
 RIPLEY,Attorney General,,REP,"Jones, Sam",2081
 RIPLEY,Attorney General,,LIB,"Moore, Mitch",171
-RIPLEY,Attorney General,,DEM,"Camp, Bob",1324
-RIPLEY,Attorney General,,REP,"Emerson, Jo Ann",3572
-RIPLEY,Attorney General,,LIB,"Hendricks, Jr., John B.",63
-RIPLEY,Attorney General,,DEM,"Koller, Don",2037
-RIPLEY,Attorney General,,DEM,"Golden, Katherine",1026
-RIPLEY,Attorney General,,REP,"Jetton, Rod",1278
+RIPLEY,U.S. House,8,DEM,"Camp, Bob",1324
+RIPLEY,U.S. House,8,REP,"Emerson, Jo Ann",3572
+RIPLEY,U.S. House,8,LIB,"Hendricks, Jr., John B.",63
+RIPLEY,State House,153,DEM,"Koller, Don",2037
+RIPLEY,State House,156,DEM,"Golden, Katherine",1026
+RIPLEY,State House,156,REP,"Jetton, Rod",1278
 SALINE,President,,DEM,"Al Gore, Joe Lieberman",4585
 SALINE,President,,REP,"George W. Bush, Dick Cheney",4572
 SALINE,President,,LIB,"Harry Browne, Art Olivier",27
@@ -3481,12 +3481,12 @@ SALINE,State Treasurer,,CST,"Culligan, Kerry",41
 SALINE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5991
 SALINE,Attorney General,,REP,"Jones, Sam",2989
 SALINE,Attorney General,,LIB,"Moore, Mitch",188
-SALINE,Attorney General,,DEM,"Skelton, Ike",7369
-SALINE,Attorney General,,REP,"Noland, Jim",1813
-SALINE,Attorney General,,LIB,"Knapp, Thomas L.",73
-SALINE,Attorney General,,DEM,"Mathewson, James L. (Jim)",7648
-SALINE,Attorney General,,DEM,"Seigfreid, Jim",7722
-SALINE,Attorney General,,DEM,"Rolf, Dennis A.",7477
+SALINE,U.S. House,4,DEM,"Skelton, Ike",7369
+SALINE,U.S. House,4,REP,"Noland, Jim",1813
+SALINE,U.S. House,4,LIB,"Knapp, Thomas L.",73
+SALINE,State Senate,21,DEM,"Mathewson, James L. (Jim)",7648
+SALINE,State House,26,DEM,"Seigfreid, Jim",7722
+SALINE,Circuit Judge,Circuit 15,DEM,"Rolf, Dennis A.",7477
 SCHUYLER,President,,DEM,"Al Gore, Joe Lieberman",808
 SCHUYLER,President,,REP,"George W. Bush, Dick Cheney",1159
 SCHUYLER,President,,LIB,"Harry Browne, Art Olivier",8
@@ -3516,10 +3516,10 @@ SCHUYLER,State Treasurer,,CST,"Culligan, Kerry",17
 SCHUYLER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1068
 SCHUYLER,Attorney General,,REP,"Jones, Sam",801
 SCHUYLER,Attorney General,,LIB,"Moore, Mitch",41
-SCHUYLER,Attorney General,,DEM,"Danner, Steve",1057
-SCHUYLER,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",861
-SCHUYLER,Attorney General,,LIB,"Dykes, Jimmy",19
-SCHUYLER,Attorney General,,DEM,"Berkowitz, Sam",1540
+SCHUYLER,U.S. House,6,DEM,"Danner, Steve",1057
+SCHUYLER,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",861
+SCHUYLER,U.S. House,6,LIB,"Dykes, Jimmy",19
+SCHUYLER,State House,1,DEM,"Berkowitz, Sam",1540
 SCOTLAND,President,,DEM,"Al Gore, Joe Lieberman",790
 SCOTLAND,President,,REP,"George W. Bush, Dick Cheney",1335
 SCOTLAND,President,,LIB,"Harry Browne, Art Olivier",6
@@ -3549,10 +3549,10 @@ SCOTLAND,State Treasurer,,CST,"Culligan, Kerry",4
 SCOTLAND,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1215
 SCOTLAND,Attorney General,,REP,"Jones, Sam",707
 SCOTLAND,Attorney General,,LIB,"Moore, Mitch",40
-SCOTLAND,Attorney General,,DEM,"Carroll, Steven R.",837
-SCOTLAND,Attorney General,,REP,"Hulshof, Kenny",1215
-SCOTLAND,Attorney General,,LIB,"Hoffman, Robert",13
-SCOTLAND,Attorney General,,DEM,"Berkowitz, Sam",1699
+SCOTLAND,U.S. House,9,DEM,"Carroll, Steven R.",837
+SCOTLAND,U.S. House,9,REP,"Hulshof, Kenny",1215
+SCOTLAND,U.S. House,9,LIB,"Hoffman, Robert",13
+SCOTLAND,State House,1,DEM,"Berkowitz, Sam",1699
 SCOTT,President,,DEM,"Al Gore, Joe Lieberman",6452
 SCOTT,U.S. Senate,,DEM,"Carnahan, Mel",7183
 SCOTT,U.S. Senate,,REP,"Ashcroft, John",8385
@@ -3576,17 +3576,17 @@ SCOTT,State Treasurer,,CST,"Culligan, Kerry",46
 SCOTT,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",9122
 SCOTT,Attorney General,,REP,"Jones, Sam",5860
 SCOTT,Attorney General,,LIB,"Moore, Mitch",330
-SCOTT,Attorney General,,DEM,"Camp, Bob",5197
-SCOTT,Attorney General,,REP,"Emerson, Jo Ann",10233
-SCOTT,Attorney General,,LIB,"Hendricks, Jr., John B.",150
-SCOTT,Attorney General,,REP,"Kinder, Peter D.",11266
-SCOTT,Attorney General,,DEM,"Williams, Marilyn Taylor",1455
-SCOTT,Attorney General,,REP,"Mayer, Robert (Rob)",1326
-SCOTT,Attorney General,,DEM,"Robison, Fran",4559
-SCOTT,Attorney General,,REP,"Myers, Peter",6910
-SCOTT,Attorney General,,DEM,"Sharp, Van Harry",482
-SCOTT,Attorney General,,REP,"Black, Lanie",792
-SCOTT,Attorney General,,DEM,"Dolan, David A.",12532
+SCOTT,U.S. House,8,DEM,"Camp, Bob",5197
+SCOTT,U.S. House,8,REP,"Emerson, Jo Ann",10233
+SCOTT,U.S. House,8,LIB,"Hendricks, Jr., John B.",150
+SCOTT,State Senate,27,REP,"Kinder, Peter D.",11266
+SCOTT,State House,159,DEM,"Williams, Marilyn Taylor",1455
+SCOTT,State House,159,REP,"Mayer, Robert (Rob)",1326
+SCOTT,State House,160,DEM,"Robison, Fran",4559
+SCOTT,State House,160,REP,"Myers, Peter",6910
+SCOTT,State House,161,DEM,"Sharp, Van Harry",482
+SCOTT,State House,161,REP,"Black, Lanie",792
+SCOTT,Circuit Judge,Circuit 33,DEM,"Dolan, David A.",12532
 SHANNON,U.S. Senate,,WI,"Kennedy, Alyson",0
 SHANNON,U.S. Senate,,WI,"Day, Darrel",0
 SHANNON,Lieutenant Governor,,WI,"Reed, Steven L.",0
@@ -3619,15 +3619,15 @@ SHELBY,State Treasurer,,CST,"Culligan, Kerry",13
 SHELBY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1902
 SHELBY,Attorney General,,REP,"Jones, Sam",1223
 SHELBY,Attorney General,,LIB,"Moore, Mitch",34
-SHELBY,Attorney General,,DEM,"Carroll, Steven R.",1341
-SHELBY,Attorney General,,REP,"Hulshof, Kenny",1882
-SHELBY,Attorney General,,LIB,"Hoffman, Robert",15
-SHELBY,Attorney General,,DEM,"Shoemyer, Wes",1247
-SHELBY,Attorney General,,REP,"Ebbesmeyer, James (Jamie)",446
-SHELBY,Attorney General,,DEM,"Clayton, Robert",616
-SHELBY,Attorney General,,REP,"Chinn, Kathy",934
-SHELBY,Attorney General,,DEM,"Grimm, Hadley",1857
-SHELBY,Attorney General,,REP,"Bickhaus, R. Timothy",1304
+SHELBY,U.S. House,9,DEM,"Carroll, Steven R.",1341
+SHELBY,U.S. House,9,REP,"Hulshof, Kenny",1882
+SHELBY,U.S. House,9,LIB,"Hoffman, Robert",15
+SHELBY,State House,9,DEM,"Shoemyer, Wes",1247
+SHELBY,State House,9,REP,"Ebbesmeyer, James (Jamie)",446
+SHELBY,State House,10,DEM,"Clayton, Robert",616
+SHELBY,State House,10,REP,"Chinn, Kathy",934
+SHELBY,Circuit Judge,Circuit 41,DEM,"Grimm, Hadley",1857
+SHELBY,Circuit Judge,Circuit 41,REP,"Bickhaus, R. Timothy",1304
 ST CHARLES,President,,DEM,"Al Gore, Joe Lieberman",53806
 ST CHARLES,President,,REP,"George W. Bush, Dick Cheney",72114
 ST CHARLES,President,,LIB,"Harry Browne, Art Olivier",397
@@ -3657,30 +3657,30 @@ ST CHARLES,State Treasurer,,CST,"Culligan, Kerry",438
 ST CHARLES,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",69891
 ST CHARLES,Attorney General,,REP,"Jones, Sam",51070
 ST CHARLES,Attorney General,,LIB,"Moore, Mitch",2283
-ST CHARLES,Attorney General,,DEM,"House, Ted",30868
-ST CHARLES,Attorney General,,REP,"Akin, Todd",29993
-ST CHARLES,Attorney General,,LIB,"Higgins, James",480
-ST CHARLES,Attorney General,,DEM,"Carroll, Steven R.",23152
-ST CHARLES,Attorney General,,REP,"Hulshof, Kenny",37692
-ST CHARLES,Attorney General,,LIB,"Hoffman, Robert",835
-ST CHARLES,Attorney General,,DEM,"Kissell, Don R.",38642
-ST CHARLES,Attorney General,,REP,"Gross, Chuck",45838
-ST CHARLES,Attorney General,,DEM,"Luetkenhaus, Bill",11188
-ST CHARLES,Attorney General,,REP,"Dolan, Jon",16992
-ST CHARLES,Attorney General,,DEM,"Faupel, Greg",9263
-ST CHARLES,Attorney General,,REP,"Ostmann, Cindy",18624
-ST CHARLES,Attorney General,,DEM,"Green, Thomas S.",7482
-ST CHARLES,Attorney General,,REP,"Bennett, Jon L.",7379
-ST CHARLES,Attorney General,,DEM,"Oberts, Jim",7565
-ST CHARLES,Attorney General,,REP,"Bearden, Carl L.",9837
-ST CHARLES,Attorney General,,DEM,"Holt, Bruce W.",5581
-ST CHARLES,Attorney General,,REP,"Smith, Joe",5140
-ST CHARLES,Attorney General,,DEM,"Rolf, Sr., Richard Lewis",5728
-ST CHARLES,Attorney General,,REP,"Dempsey, Tom",7674
-ST CHARLES,Attorney General,,LIB,"Trachte, Kurt C.",244
-ST CHARLES,Attorney General,,REP,"Rauch, Lucy D.",87608
-ST CHARLES,Attorney General,,DEM,"Burlison, Rex M.",53105
-ST CHARLES,Attorney General,,REP,"Briscoe, Joseph (Joe)",65027
+ST CHARLES,U.S. House,2,DEM,"House, Ted",30868
+ST CHARLES,U.S. House,2,REP,"Akin, Todd",29993
+ST CHARLES,U.S. House,2,LIB,"Higgins, James",480
+ST CHARLES,U.S. House,9,DEM,"Carroll, Steven R.",23152
+ST CHARLES,U.S. House,9,REP,"Hulshof, Kenny",37692
+ST CHARLES,U.S. House,9,LIB,"Hoffman, Robert",835
+ST CHARLES,State Senate,23,DEM,"Kissell, Don R.",38642
+ST CHARLES,State Senate,23,REP,"Gross, Chuck",45838
+ST CHARLES,State House,12,DEM,"Luetkenhaus, Bill",11188
+ST CHARLES,State House,13,REP,"Dolan, Jon",16992
+ST CHARLES,State House,14,DEM,"Faupel, Greg",9263
+ST CHARLES,State House,14,REP,"Ostmann, Cindy",18624
+ST CHARLES,State House,15,DEM,"Green, Thomas S.",7482
+ST CHARLES,State House,15,REP,"Bennett, Jon L.",7379
+ST CHARLES,State House,16,DEM,"Oberts, Jim",7565
+ST CHARLES,State House,16,REP,"Bearden, Carl L.",9837
+ST CHARLES,State House,17,DEM,"Holt, Bruce W.",5581
+ST CHARLES,State House,17,REP,"Smith, Joe",5140
+ST CHARLES,State House,18,DEM,"Rolf, Sr., Richard Lewis",5728
+ST CHARLES,State House,18,REP,"Dempsey, Tom",7674
+ST CHARLES,State House,18,LIB,"Trachte, Kurt C.",244
+ST CHARLES,Circuit Judge,Circuit 11 Division 3,REP,"Rauch, Lucy D.",87608
+ST CHARLES,Circuit Judge,Circuit 11 Division 4,DEM,"Burlison, Rex M.",53105
+ST CHARLES,Circuit Judge,Circuit 11 Division 4,REP,"Briscoe, Joseph (Joe)",65027
 ST CLAIR,President,,DEM,"Al Gore, Joe Lieberman",1866
 ST CLAIR,President,,REP,"George W. Bush, Dick Cheney",2731
 ST CLAIR,President,,LIB,"Harry Browne, Art Olivier",15
@@ -3710,16 +3710,16 @@ ST CLAIR,State Treasurer,,CST,"Culligan, Kerry",18
 ST CLAIR,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",2701
 ST CLAIR,Attorney General,,REP,"Jones, Sam",1831
 ST CLAIR,Attorney General,,LIB,"Moore, Mitch",89
-ST CLAIR,Attorney General,,DEM,"Skelton, Ike",3158
-ST CLAIR,Attorney General,,REP,"Noland, Jim",1469
-ST CLAIR,Attorney General,,LIB,"Knapp, Thomas L.",46
-ST CLAIR,Attorney General,,DEM,"Caskey, Harold L.",2460
-ST CLAIR,Attorney General,,REP,"Howerton, Jim",2243
-ST CLAIR,Attorney General,,REP,"Scott, Delbert L.",2981
-ST CLAIR,Attorney General,,DEM,"Beaty, Mike",333
-ST CLAIR,Attorney General,,REP,"Cooper, Shannon",585
-ST CLAIR,Attorney General,,LIB,"Dzula, Wally",5
-ST CLAIR,Attorney General,,DEM,"Roberts, William J. (Bill)",3413
+ST CLAIR,U.S. House,4,DEM,"Skelton, Ike",3158
+ST CLAIR,U.S. House,4,REP,"Noland, Jim",1469
+ST CLAIR,U.S. House,4,LIB,"Knapp, Thomas L.",46
+ST CLAIR,State Senate,31,DEM,"Caskey, Harold L.",2460
+ST CLAIR,State Senate,31,REP,"Howerton, Jim",2243
+ST CLAIR,State House,119,REP,"Scott, Delbert L.",2981
+ST CLAIR,State House,120,DEM,"Beaty, Mike",333
+ST CLAIR,State House,120,REP,"Cooper, Shannon",585
+ST CLAIR,State House,120,LIB,"Dzula, Wally",5
+ST CLAIR,Circuit Judge,Circuit 27,DEM,"Roberts, William J. (Bill)",3413
 ST FRANCOIS,President,,DEM,"Al Gore, Joe Lieberman",9075
 ST FRANCOIS,President,,REP,"George W. Bush, Dick Cheney",9327
 ST FRANCOIS,President,,LIB,"Harry Browne, Art Olivier",46
@@ -3749,15 +3749,15 @@ ST FRANCOIS,State Treasurer,,CST,"Culligan, Kerry",83
 ST FRANCOIS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",12032
 ST FRANCOIS,Attorney General,,REP,"Jones, Sam",5977
 ST FRANCOIS,Attorney General,,LIB,"Moore, Mitch",350
-ST FRANCOIS,Attorney General,,DEM,"Camp, Bob",6711
-ST FRANCOIS,Attorney General,,REP,"Emerson, Jo Ann",11652
-ST FRANCOIS,Attorney General,,LIB,"Hendricks, Jr., John B.",138
-ST FRANCOIS,Attorney General,,DEM,"Cruse, Linda",3101
-ST FRANCOIS,Attorney General,,REP,"Burcham, Tom",4219
-ST FRANCOIS,Attorney General,,DEM,"Ward, Dan",9004
-ST FRANCOIS,Attorney General,,DEM,"Crump, Wayne",460
-ST FRANCOIS,Attorney General,,DEM,"Martinez, Sandy",12153
-ST FRANCOIS,Attorney General,,DEM,"Pratte, Kenneth W.",12255
+ST FRANCOIS,U.S. House,8,DEM,"Camp, Bob",6711
+ST FRANCOIS,U.S. House,8,REP,"Emerson, Jo Ann",11652
+ST FRANCOIS,U.S. House,8,LIB,"Hendricks, Jr., John B.",138
+ST FRANCOIS,State House,106,DEM,"Cruse, Linda",3101
+ST FRANCOIS,State House,106,REP,"Burcham, Tom",4219
+ST FRANCOIS,State House,107,DEM,"Ward, Dan",9004
+ST FRANCOIS,State House,152,DEM,"Crump, Wayne",460
+ST FRANCOIS,Circuit Judge,Circuit 24 Division 1,DEM,"Martinez, Sandy",12153
+ST FRANCOIS,Circuit Judge,Circuit 24 Division 2,DEM,"Pratte, Kenneth W.",12255
 ST LOUIS CITY,President,,DEM,"Al Gore, Joe Lieberman",96557
 ST LOUIS CITY,President,,REP,"George W. Bush, Dick Cheney",24799
 ST LOUIS CITY,President,,LIB,"Harry Browne, Art Olivier",331
@@ -3787,34 +3787,34 @@ ST LOUIS CITY,State Treasurer,,CST,"Culligan, Kerry",504
 ST LOUIS CITY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",99175
 ST LOUIS CITY,Attorney General,,REP,"Jones, Sam",17615
 ST LOUIS CITY,Attorney General,,LIB,"Moore, Mitch",3147
-ST LOUIS CITY,Attorney General,,DEM,"Clay, William Lacy",56055
-ST LOUIS CITY,Attorney General,,REP,"Billingsly, Z. Dwight",5158
-ST LOUIS CITY,Attorney General,,LIB,"Millay, Tamara A.",572
-ST LOUIS CITY,Attorney General,,DEM,"Gephardt, Richard A. (Dick)",40986
-ST LOUIS CITY,Attorney General,,REP,"Federer, Bill",17167
-ST LOUIS CITY,Attorney General,,LIB,"Crist, Michael H.",694
-ST LOUIS CITY,Attorney General,,DEM,"Scott, John",25354
-ST LOUIS CITY,Attorney General,,REP,"Arons, Leonard F.",9948
-ST LOUIS CITY,Attorney General,,DEM,"Carter, Paula J.",32522
-ST LOUIS CITY,Attorney General,,REP,"DeMay, Shirley",3296
-ST LOUIS CITY,Attorney General,,DEM,"Shelton, O. L.",7703
-ST LOUIS CITY,Attorney General,,DEM,"Ford, Louis H.",5718
-ST LOUIS CITY,Attorney General,,DEM,"Carnahan, Russ",5866
-ST LOUIS CITY,Attorney General,,REP,"McDaniel, J.R.",1042
-ST LOUIS CITY,Attorney General,,DEM,"Boykins, Amber Holly",9384
-ST LOUIS CITY,Attorney General,,DEM,"Johnson, Connie (LaJoyce)",9012
-ST LOUIS CITY,Attorney General,,DEM,"Troupe, Charles Quincy",8515
-ST LOUIS CITY,Attorney General,,DEM,"Coleman, Maida",6317
-ST LOUIS CITY,Attorney General,,DEM,"Hilgemann, Bob",8979
-ST LOUIS CITY,Attorney General,,DEM,"Gambaro, Derio",8425
-ST LOUIS CITY,Attorney General,,REP,"Weaks, Kevin",3092
-ST LOUIS CITY,Attorney General,,DEM,"Kennedy, Harry",7705
-ST LOUIS CITY,Attorney General,,DEM,"Dougherty, Pat",7700
-ST LOUIS CITY,Attorney General,,DEM,"O'Toole, James P.",7712
-ST LOUIS CITY,Attorney General,,REP,"Hodes, Joe",4525
-ST LOUIS CITY,Attorney General,,LIB,"Craig, Jim",135
-ST LOUIS CITY,Attorney General,,DEM,"Villa, Thomas Albert",6067
-ST LOUIS CITY,Attorney General,,REP,"Stephens, Ray",1478
+ST LOUIS CITY,U.S. House,1,DEM,"Clay, William Lacy",56055
+ST LOUIS CITY,U.S. House,1,REP,"Billingsly, Z. Dwight",5158
+ST LOUIS CITY,U.S. House,1,LIB,"Millay, Tamara A.",572
+ST LOUIS CITY,U.S. House,3,DEM,"Gephardt, Richard A. (Dick)",40986
+ST LOUIS CITY,U.S. House,3,REP,"Federer, Bill",17167
+ST LOUIS CITY,U.S. House,3,LIB,"Crist, Michael H.",694
+ST LOUIS CITY,State Senate,3,DEM,"Scott, John",25354
+ST LOUIS CITY,State Senate,3,REP,"Arons, Leonard F.",9948
+ST LOUIS CITY,State Senate,5,DEM,"Carter, Paula J.",32522
+ST LOUIS CITY,State Senate,5,REP,"DeMay, Shirley",3296
+ST LOUIS CITY,State House,57,DEM,"Shelton, O. L.",7703
+ST LOUIS CITY,State House,58,DEM,"Ford, Louis H.",5718
+ST LOUIS CITY,State House,59,DEM,"Carnahan, Russ",5866
+ST LOUIS CITY,State House,59,REP,"McDaniel, J.R.",1042
+ST LOUIS CITY,State House,60,DEM,"Boykins, Amber Holly",9384
+ST LOUIS CITY,State House,61,DEM,"Johnson, Connie (LaJoyce)",9012
+ST LOUIS CITY,State House,62,DEM,"Troupe, Charles Quincy",8515
+ST LOUIS CITY,State House,63,DEM,"Coleman, Maida",6317
+ST LOUIS CITY,State House,64,DEM,"Hilgemann, Bob",8979
+ST LOUIS CITY,State House,65,DEM,"Gambaro, Derio",8425
+ST LOUIS CITY,State House,65,REP,"Weaks, Kevin",3092
+ST LOUIS CITY,State House,66,DEM,"Kennedy, Harry",7705
+ST LOUIS CITY,State House,67,DEM,"Dougherty, Pat",7700
+ST LOUIS CITY,State House,68,DEM,"O'Toole, James P.",7712
+ST LOUIS CITY,State House,68,REP,"Hodes, Joe",4525
+ST LOUIS CITY,State House,68,LIB,"Craig, Jim",135
+ST LOUIS CITY,State House,108,DEM,"Villa, Thomas Albert",6067
+ST LOUIS CITY,State House,108,REP,"Stephens, Ray",1478
 ST LOUIS,President,,DEM,"Al Gore, Joe Lieberman",250631
 ST LOUIS,President,,REP,"George W. Bush, Dick Cheney",224689
 ST LOUIS,President,,LIB,"Harry Browne, Art Olivier",1430
@@ -3844,76 +3844,76 @@ ST LOUIS,State Treasurer,,CST,"Culligan, Kerry",1137
 ST LOUIS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",302424
 ST LOUIS,Attorney General,,REP,"Jones, Sam",164018
 ST LOUIS,Attorney General,,LIB,"Moore, Mitch",9032
-ST LOUIS,Attorney General,,DEM,"Clay, William Lacy",93118
-ST LOUIS,Attorney General,,REP,"Billingsly, Z. Dwight",37572
-ST LOUIS,Attorney General,,LIB,"Millay, Tamara A.",1681
-ST LOUIS,Attorney General,,DEM,"House, Ted",95573
-ST LOUIS,Attorney General,,REP,"Akin, Todd",134933
-ST LOUIS,Attorney General,,LIB,"Higgins, James",2044
-ST LOUIS,Attorney General,,DEM,"Gephardt, Richard A. (Dick)",58607
-ST LOUIS,Attorney General,,REP,"Federer, Bill",49253
-ST LOUIS,Attorney General,,LIB,"Crist, Michael H.",890
-ST LOUIS,Attorney General,,DEM,"Bailey, Greg",28588
-ST LOUIS,Attorney General,,REP,"Yeckel, Anita",49828
-ST LOUIS,Attorney General,,LIB,"Werner, Walter S.",1404
-ST LOUIS,Attorney General,,DEM,"Scott, John",11374
-ST LOUIS,Attorney General,,REP,"Arons, Leonard F.",7406
-ST LOUIS,Attorney General,,REP,"Loudon, John",54435
-ST LOUIS,Attorney General,,DEM,"Goode, Wayne",46129
-ST LOUIS,Attorney General,,DEM,"Reinhart, Marjorie M.",34045
-ST LOUIS,Attorney General,,REP,"Gibbons, Michael R.",49823
-ST LOUIS,Attorney General,,DEM,"O'Toole, James P.",829
-ST LOUIS,Attorney General,,REP,"Hodes, Joe",849
-ST LOUIS,Attorney General,,LIB,"Craig, Jim",18
-ST LOUIS,Attorney General,,DEM,"Walton, Juanita Head",9071
-ST LOUIS,Attorney General,,DEM,"Bowman, John L.",7992
-ST LOUIS,Attorney General,,DEM,"Haywood, Esther",9038
-ST LOUIS,Attorney General,,DEM,"Thompson, Betty L.",11124
-ST LOUIS,Attorney General,,DEM,"Green, Timothy P.",9912
-ST LOUIS,Attorney General,,REP,"Wildman, Scott B.",1860
-ST LOUIS,Attorney General,,DEM,"George, Thomas (Tom)",12317
-ST LOUIS,Attorney General,,DEM,"HaganHarrell, Mary M.",9354
-ST LOUIS,Attorney General,,CST,"Wollgast, Lee",1878
-ST LOUIS,Attorney General,,DEM,"Stokan, Lana Ladd",10490
-ST LOUIS,Attorney General,,DEM,"Reynolds, David L.",9664
-ST LOUIS,Attorney General,,REP,"Jenkins, Forester",3640
-ST LOUIS,Attorney General,,DEM,"Porter, Damon Shelby",6597
-ST LOUIS,Attorney General,,REP,"Reid, Michael J.",6967
-ST LOUIS,Attorney General,,DEM,"O'Connor, Patrick J.",7549
-ST LOUIS,Attorney General,,DEM,"Hickey, John J.",8098
-ST LOUIS,Attorney General,,REP,"Moore, Fred L.",3776
-ST LOUIS,Attorney General,,DEM,"Foley, James Michael",9258
-ST LOUIS,Attorney General,,REP,"Levin, David L.",10194
-ST LOUIS,Attorney General,,DEM,"Fraser, Barbara",10161
-ST LOUIS,Attorney General,,REP,"Holmes, Jr., John A.",5053
-ST LOUIS,Attorney General,,DEM,"Bray, Joan",8713
-ST LOUIS,Attorney General,,REP,"Buhr, Andy",4716
-ST LOUIS,Attorney General,,DEM,"Liese, Christopher A. (Chris)",9390
-ST LOUIS,Attorney General,,REP,"Dosser, Don",5088
-ST LOUIS,Attorney General,,REP,"Cunningham, Jane",11748
-ST LOUIS,Attorney General,,REP,"Hanaway, Catherine L.",12621
-ST LOUIS,Attorney General,,LIB,"Wolf, John A.",955
-ST LOUIS,Attorney General,,REP,"St. Onge, Neal C.",13238
-ST LOUIS,Attorney General,,REP,"Linton, William (Bill)",20431
-ST LOUIS,Attorney General,,DEM,"Johnson, Richard K. (Rick)",3507
-ST LOUIS,Attorney General,,REP,"Keelin, Jr, Byron (Butch)",4406
-ST LOUIS,Attorney General,,DEM,"Webb, John J.",7909
-ST LOUIS,Attorney General,,REP,"Fares, Kathlyn",9339
-ST LOUIS,Attorney General,,REP,"Portwood, Charles R.",11041
-ST LOUIS,Attorney General,,REP,"Secrest, Patricia (Pat)",12810
-ST LOUIS,Attorney General,,REP,"Byrd, Richard G.",10401
-ST LOUIS,Attorney General,,REP,"Murphy, Jim",12409
-ST LOUIS,Attorney General,,DEM,"Treadway, Joseph L.",9084
-ST LOUIS,Attorney General,,REP,"Fasoldt, Alan M.",3143
-ST LOUIS,Attorney General,,DEM,"Bennett, Elaine",6771
-ST LOUIS,Attorney General,,REP,"Hendrickson, Carl H.",10669
-ST LOUIS,Attorney General,,DEM,"Scheve, May",7847
-ST LOUIS,Attorney General,,REP,"Avery, Jim",6606
-ST LOUIS,Attorney General,,LIB,"Chesnut, Mike",152
-ST LOUIS,Attorney General,,DEM,"Weber, Gloria",6757
-ST LOUIS,Attorney General,,REP,"Enz, Catherine S.",9821
-ST LOUIS,Attorney General,,DEM,"Barry, Joan",11297
-ST LOUIS,Attorney General,,REP,"Hettenhausen, Denny",6140
+ST LOUIS,U.S. House,1,DEM,"Clay, William Lacy",93118
+ST LOUIS,U.S. House,1,REP,"Billingsly, Z. Dwight",37572
+ST LOUIS,U.S. House,1,LIB,"Millay, Tamara A.",1681
+ST LOUIS,U.S. House,2,DEM,"House, Ted",95573
+ST LOUIS,U.S. House,2,REP,"Akin, Todd",134933
+ST LOUIS,U.S. House,2,LIB,"Higgins, James",2044
+ST LOUIS,U.S. House,3,DEM,"Gephardt, Richard A. (Dick)",58607
+ST LOUIS,U.S. House,3,REP,"Federer, Bill",49253
+ST LOUIS,U.S. House,3,LIB,"Crist, Michael H.",890
+ST LOUIS,State Senate,1,DEM,"Bailey, Greg",28588
+ST LOUIS,State Senate,1,REP,"Yeckel, Anita",49828
+ST LOUIS,State Senate,1,LIB,"Werner, Walter S.",1404
+ST LOUIS,State Senate,3,DEM,"Scott, John",11374
+ST LOUIS,State Senate,3,REP,"Arons, Leonard F.",7406
+ST LOUIS,State Senate,7,REP,"Loudon, John",54435
+ST LOUIS,State Senate,13,DEM,"Goode, Wayne",46129
+ST LOUIS,State Senate,15,DEM,"Reinhart, Marjorie M.",34045
+ST LOUIS,State Senate,15,REP,"Gibbons, Michael R.",49823
+ST LOUIS,State House,68,DEM,"O'Toole, James P.",829
+ST LOUIS,State House,68,REP,"Hodes, Joe",849
+ST LOUIS,State House,68,LIB,"Craig, Jim",18
+ST LOUIS,State House,69,DEM,"Walton, Juanita Head",9071
+ST LOUIS,State House,70,DEM,"Bowman, John L.",7992
+ST LOUIS,State House,71,DEM,"Haywood, Esther",9038
+ST LOUIS,State House,72,DEM,"Thompson, Betty L.",11124
+ST LOUIS,State House,73,DEM,"Green, Timothy P.",9912
+ST LOUIS,State House,73,REP,"Wildman, Scott B.",1860
+ST LOUIS,State House,74,DEM,"George, Thomas (Tom)",12317
+ST LOUIS,State House,75,DEM,"HaganHarrell, Mary M.",9354
+ST LOUIS,State House,75,CST,"Wollgast, Lee",1878
+ST LOUIS,State House,76,DEM,"Stokan, Lana Ladd",10490
+ST LOUIS,State House,77,DEM,"Reynolds, David L.",9664
+ST LOUIS,State House,77,REP,"Jenkins, Forester",3640
+ST LOUIS,State House,78,DEM,"Porter, Damon Shelby",6597
+ST LOUIS,State House,78,REP,"Reid, Michael J.",6967
+ST LOUIS,State House,79,DEM,"O'Connor, Patrick J.",7549
+ST LOUIS,State House,80,DEM,"Hickey, John J.",8098
+ST LOUIS,State House,80,REP,"Moore, Fred L.",3776
+ST LOUIS,State House,81,DEM,"Foley, James Michael",9258
+ST LOUIS,State House,82,REP,"Levin, David L.",10194
+ST LOUIS,State House,83,DEM,"Fraser, Barbara",10161
+ST LOUIS,State House,83,REP,"Holmes, Jr., John A.",5053
+ST LOUIS,State House,84,DEM,"Bray, Joan",8713
+ST LOUIS,State House,84,REP,"Buhr, Andy",4716
+ST LOUIS,State House,85,DEM,"Liese, Christopher A. (Chris)",9390
+ST LOUIS,State House,85,REP,"Dosser, Don",5088
+ST LOUIS,State House,86,REP,"Cunningham, Jane",11748
+ST LOUIS,State House,87,REP,"Hanaway, Catherine L.",12621
+ST LOUIS,State House,87,LIB,"Wolf, John A.",955
+ST LOUIS,State House,88,REP,"St. Onge, Neal C.",13238
+ST LOUIS,State House,89,REP,"Linton, William (Bill)",20431
+ST LOUIS,State House,90,DEM,"Johnson, Richard K. (Rick)",3507
+ST LOUIS,State House,90,REP,"Keelin, Jr, Byron (Butch)",4406
+ST LOUIS,State House,91,DEM,"Webb, John J.",7909
+ST LOUIS,State House,91,REP,"Fares, Kathlyn",9339
+ST LOUIS,State House,92,REP,"Portwood, Charles R.",11041
+ST LOUIS,State House,93,REP,"Secrest, Patricia (Pat)",12810
+ST LOUIS,State House,94,REP,"Byrd, Richard G.",10401
+ST LOUIS,State House,95,REP,"Murphy, Jim",12409
+ST LOUIS,State House,96,DEM,"Treadway, Joseph L.",9084
+ST LOUIS,State House,96,REP,"Fasoldt, Alan M.",3143
+ST LOUIS,State House,97,DEM,"Bennett, Elaine",6771
+ST LOUIS,State House,97,REP,"Hendrickson, Carl H.",10669
+ST LOUIS,State House,98,DEM,"Scheve, May",7847
+ST LOUIS,State House,98,REP,"Avery, Jim",6606
+ST LOUIS,State House,98,LIB,"Chesnut, Mike",152
+ST LOUIS,State House,99,DEM,"Weber, Gloria",6757
+ST LOUIS,State House,99,REP,"Enz, Catherine S.",9821
+ST LOUIS,State House,100,DEM,"Barry, Joan",11297
+ST LOUIS,State House,100,REP,"Hettenhausen, Denny",6140
 STE GENEVIEVE,President,,DEM,"Al Gore, Joe Lieberman",3600
 STE GENEVIEVE,President,,REP,"George W. Bush, Dick Cheney",3505
 STE GENEVIEVE,President,,LIB,"Harry Browne, Art Olivier",20
@@ -3943,14 +3943,14 @@ STE GENEVIEVE,State Treasurer,,CST,"Culligan, Kerry",37
 STE GENEVIEVE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4617
 STE GENEVIEVE,Attorney General,,REP,"Jones, Sam",2227
 STE GENEVIEVE,Attorney General,,LIB,"Moore, Mitch",144
-STE GENEVIEVE,Attorney General,,DEM,"Gephardt, Richard A. (Dick)",3992
-STE GENEVIEVE,Attorney General,,REP,"Federer, Bill",3188
-STE GENEVIEVE,Attorney General,,LIB,"Crist, Michael H.",73
-STE GENEVIEVE,Attorney General,,DEM,"Ward, Dan",750
-STE GENEVIEVE,Attorney General,,DEM,"Wibbenmeyer, John R.",3096
-STE GENEVIEVE,Attorney General,,REP,"Naeger, Patrick",3336
-STE GENEVIEVE,Attorney General,,DEM,"Martinez, Sandy",4576
-STE GENEVIEVE,Attorney General,,DEM,"Pratte, Kenneth W.",4314
+STE GENEVIEVE,U.S. House,3,DEM,"Gephardt, Richard A. (Dick)",3992
+STE GENEVIEVE,U.S. House,3,REP,"Federer, Bill",3188
+STE GENEVIEVE,U.S. House,3,LIB,"Crist, Michael H.",73
+STE GENEVIEVE,State House,107,DEM,"Ward, Dan",750
+STE GENEVIEVE,State House,15,DEM,"Wibbenmeyer, John R.",3096
+STE GENEVIEVE,State House,15,REP,"Naeger, Patrick",3336
+STE GENEVIEVE,Circuit Judge,Circuit 24 Division 1,DEM,"Martinez, Sandy",4576
+STE GENEVIEVE,Circuit Judge,Circuit 24 Division 2,DEM,"Pratte, Kenneth W.",4314
 STODDARD,President,,DEM,"Al Gore, Joe Lieberman",4476
 STODDARD,President,,REP,"George W. Bush, Dick Cheney",7727
 STODDARD,President,,LIB,"Harry Browne, Art Olivier",33
@@ -3980,15 +3980,15 @@ STODDARD,State Treasurer,,CST,"Culligan, Kerry",27
 STODDARD,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",7041
 STODDARD,Attorney General,,REP,"Jones, Sam",4624
 STODDARD,Attorney General,,LIB,"Moore, Mitch",294
-STODDARD,Attorney General,,DEM,"Camp, Bob",3235
-STODDARD,Attorney General,,REP,"Emerson, Jo Ann",8931
-STODDARD,Attorney General,,LIB,"Hendricks, Jr., John B.",86
-STODDARD,Attorney General,,DEM,"Howard, Jerry T.",5314
-STODDARD,Attorney General,,REP,"Foster, Bill I.",6964
-STODDARD,Attorney General,,DEM,"Williams, Marilyn Taylor",4665
-STODDARD,Attorney General,,REP,"Mayer, Robert (Rob)",6222
-STODDARD,Attorney General,,DEM,"Britt, Phillip",960
-STODDARD,Attorney General,,DEM,"Sharp, Stephen R.",9460
+STODDARD,U.S. House,8,DEM,"Camp, Bob",3235
+STODDARD,U.S. House,8,REP,"Emerson, Jo Ann",8931
+STODDARD,U.S. House,8,LIB,"Hendricks, Jr., John B.",86
+STODDARD,State Senate,25,DEM,"Howard, Jerry T.",5314
+STODDARD,State Senate,25,REP,"Foster, Bill I.",6964
+STODDARD,State House,159,DEM,"Williams, Marilyn Taylor",4665
+STODDARD,State House,159,REP,"Mayer, Robert (Rob)",6222
+STODDARD,State House,163,DEM,"Britt, Phillip",960
+STODDARD,Circuit Judge,Circuit 35,DEM,"Sharp, Stephen R.",9460
 STONE,President,,DEM,"Al Gore, Joe Lieberman",4055
 STONE,President,,REP,"George W. Bush, Dick Cheney",7793
 STONE,President,,LIB,"Harry Browne, Art Olivier",27
@@ -4018,12 +4018,12 @@ STONE,State Treasurer,,CST,"Culligan, Kerry",48
 STONE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5472
 STONE,Attorney General,,REP,"Jones, Sam",6026
 STONE,Attorney General,,LIB,"Moore, Mitch",232
-STONE,Attorney General,,DEM,"Christrup, Charles",2824
-STONE,Attorney General,,REP,"Blunt, Roy",8816
-STONE,Attorney General,,LIB,"Burlison, Doug",120
-STONE,Attorney General,,REP,"Childers, Doyle",9356
-STONE,Attorney General,,REP,"Berkstresser, Judy",9504
-STONE,Attorney General,,REP,"Sweeney, J. Edward",8739
+STONE,U.S. House,7,DEM,"Christrup, Charles",2824
+STONE,U.S. House,7,REP,"Blunt, Roy",8816
+STONE,U.S. House,7,LIB,"Burlison, Doug",120
+STONE,State Senate,29,REP,"Childers, Doyle",9356
+STONE,State House,141,REP,"Berkstresser, Judy",9504
+STONE,Circuit Judge,Circuit 39,REP,"Sweeney, J. Edward",8739
 SULLIVAN,President,,DEM,"Al Gore, Joe Lieberman",1127
 SULLIVAN,President,,REP,"George W. Bush, Dick Cheney",1877
 SULLIVAN,President,,LIB,"Harry Browne, Art Olivier",6
@@ -4053,15 +4053,15 @@ SULLIVAN,State Treasurer,,CST,"Culligan, Kerry",7
 SULLIVAN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",1325
 SULLIVAN,Attorney General,,REP,"Jones, Sam",1553
 SULLIVAN,Attorney General,,LIB,"Moore, Mitch",57
-SULLIVAN,Attorney General,,DEM,"Danner, Steve",1280
-SULLIVAN,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",1691
-SULLIVAN,Attorney General,,LIB,"Dykes, Jimmy",20
-SULLIVAN,Attorney General,,DEM,"Clithero, David W.",618
-SULLIVAN,Attorney General,,REP,"Behnen, Robert J. (Bob)",707
-SULLIVAN,Attorney General,,REP,"Klindt, David G.",512
-SULLIVAN,Attorney General,,DEM,"Wiggins, Gary",443
-SULLIVAN,Attorney General,,REP,"Shoemaker, Chris",449
-SULLIVAN,Attorney General,,DEM,"Ravens, Gary E.",1844
+SULLIVAN,U.S. House,6,DEM,"Danner, Steve",1280
+SULLIVAN,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",1691
+SULLIVAN,U.S. House,6,LIB,"Dykes, Jimmy",20
+SULLIVAN,State House,2,DEM,"Clithero, David W.",618
+SULLIVAN,State House,2,REP,"Behnen, Robert J. (Bob)",707
+SULLIVAN,State House,3,REP,"Klindt, David G.",512
+SULLIVAN,State House,8,DEM,"Wiggins, Gary",443
+SULLIVAN,State House,8,REP,"Shoemaker, Chris",449
+SULLIVAN,Circuit Judge,Circuit 9,DEM,"Ravens, Gary E.",1844
 TANEY,President,,DEM,"Al Gore, Joe Lieberman",5092
 TANEY,President,,REP,"George W. Bush, Dick Cheney",9647
 TANEY,President,,LIB,"Harry Browne, Art Olivier",36
@@ -4091,13 +4091,13 @@ TANEY,State Treasurer,,CST,"Culligan, Kerry",82
 TANEY,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",7025
 TANEY,Attorney General,,REP,"Jones, Sam",7247
 TANEY,Attorney General,,LIB,"Moore, Mitch",368
-TANEY,Attorney General,,DEM,"Christrup, Charles",3403
-TANEY,Attorney General,,REP,"Blunt, Roy",11066
-TANEY,Attorney General,,LIB,"Burlison, Doug",165
-TANEY,Attorney General,,REP,"Childers, Doyle",12022
-TANEY,Attorney General,,REP,"Berkstresser, Judy",3488
-TANEY,Attorney General,,REP,"Robirds, Estel Boyd",8166
-TANEY,Attorney General,,REP,"Eiffert, James L.",11198
+TANEY,U.S. House,7,DEM,"Christrup, Charles",3403
+TANEY,U.S. House,7,REP,"Blunt, Roy",11066
+TANEY,U.S. House,7,LIB,"Burlison, Doug",165
+TANEY,State Senate,29,REP,"Childers, Doyle",12022
+TANEY,State House,141,REP,"Berkstresser, Judy",3488
+TANEY,State House,143,REP,"Robirds, Estel Boyd",8166
+TANEY,Circuit Judge,Circuit 38,REP,"Eiffert, James L.",11198
 TEXAS,President,,DEM,"Al Gore, Joe Lieberman",3486
 TEXAS,President,,REP,"George W. Bush, Dick Cheney",6136
 TEXAS,President,,LIB,"Harry Browne, Art Olivier",34
@@ -4127,11 +4127,11 @@ TEXAS,State Treasurer,,CST,"Culligan, Kerry",38
 TEXAS,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5726
 TEXAS,Attorney General,,REP,"Jones, Sam",3841
 TEXAS,Attorney General,,LIB,"Moore, Mitch",219
-TEXAS,Attorney General,,DEM,"Camp, Bob",2752
-TEXAS,Attorney General,,REP,"Emerson, Jo Ann",6954
-TEXAS,Attorney General,,LIB,"Hendricks, Jr., John B.",103
-TEXAS,Attorney General,,DEM,"Hampton, Mark",7870
-TEXAS,Attorney General,,DEM,"Long, Douglas E.",7291
+TEXAS,U.S. House,8,DEM,"Camp, Bob",2752
+TEXAS,U.S. House,8,REP,"Emerson, Jo Ann",6954
+TEXAS,U.S. House,8,LIB,"Hendricks, Jr., John B.",103
+TEXAS,State House,147,DEM,"Hampton, Mark",7870
+TEXAS,Circuit Judge,Circuit 25 Division 1,DEM,"Long, Douglas E.",7291
 VERNON,President,,DEM,"Al Gore, Joe Lieberman",3156
 VERNON,President,,REP,"George W. Bush, Dick Cheney",4985
 VERNON,President,,LIB,"Harry Browne, Art Olivier",38
@@ -4161,14 +4161,14 @@ VERNON,State Treasurer,,CST,"Culligan, Kerry",39
 VERNON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",4496
 VERNON,Attorney General,,REP,"Jones, Sam",3416
 VERNON,Attorney General,,LIB,"Moore, Mitch",204
-VERNON,Attorney General,,DEM,"Skelton, Ike",5667
-VERNON,Attorney General,,REP,"Noland, Jim",2416
-VERNON,Attorney General,,LIB,"Knapp, Thomas L.",82
-VERNON,Attorney General,,DEM,"Foursha, Sam",2752
-VERNON,Attorney General,,REP,"King, Jerry R.",2146
-VERNON,Attorney General,,REP,"Hohulin, Martin (Bubs)",2507
-VERNON,Attorney General,,DEM,"Darnold, C. David",4349
-VERNON,Attorney General,,REP,"Bickel, James R.",3952
+VERNON,U.S. House,4,DEM,"Skelton, Ike",5667
+VERNON,U.S. House,4,REP,"Noland, Jim",2416
+VERNON,U.S. House,4,LIB,"Knapp, Thomas L.",82
+VERNON,State House,125,DEM,"Foursha, Sam",2752
+VERNON,State House,125,REP,"King, Jerry R.",2146
+VERNON,State House,126,REP,"Hohulin, Martin (Bubs)",2507
+VERNON,Circuit Judge,Circuit 28,DEM,"Darnold, C. David",4349
+VERNON,Circuit Judge,Circuit 28,REP,"Bickel, James R.",3952
 WARREN,President,,DEM,"Al Gore, Joe Lieberman",4524
 WARREN,President,,REP,"George W. Bush, Dick Cheney",5979
 WARREN,President,,LIB,"Harry Browne, Art Olivier",30
@@ -4198,12 +4198,12 @@ WARREN,State Treasurer,,CST,"Culligan, Kerry",53
 WARREN,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5838
 WARREN,Attorney General,,REP,"Jones, Sam",4209
 WARREN,Attorney General,,LIB,"Moore, Mitch",274
-WARREN,Attorney General,,DEM,"Carroll, Steven R.",3643
-WARREN,Attorney General,,REP,"Hulshof, Kenny",6472
-WARREN,Attorney General,,LIB,"Hoffman, Robert",211
-WARREN,Attorney General,,REP,"Nordwald, Charles F.",7627
-WARREN,Attorney General,,LIB,"Hoffman, Lisa D.",1607
-WARREN,Attorney General,,REP,"Sutherland, Keith M.",8046
+WARREN,U.S. House,9,DEM,"Carroll, Steven R.",3643
+WARREN,U.S. House,9,REP,"Hulshof, Kenny",6472
+WARREN,U.S. House,9,LIB,"Hoffman, Robert",211
+WARREN,State House,19,REP,"Nordwald, Charles F.",7627
+WARREN,State House,19,LIB,"Hoffman, Lisa D.",1607
+WARREN,Circuit Judge,Circuit 12,REP,"Sutherland, Keith M.",8046
 WASHINGTON,President,,DEM,"Al Gore, Joe Lieberman",4047
 WASHINGTON,President,,REP,"George W. Bush, Dick Cheney",4020
 WASHINGTON,President,,LIB,"Harry Browne, Art Olivier",17
@@ -4233,14 +4233,14 @@ WASHINGTON,State Treasurer,,CST,"Culligan, Kerry",36
 WASHINGTON,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",5489
 WASHINGTON,Attorney General,,REP,"Jones, Sam",2332
 WASHINGTON,Attorney General,,LIB,"Moore, Mitch",198
-WASHINGTON,Attorney General,,DEM,"Camp, Bob",2882
-WASHINGTON,Attorney General,,REP,"Emerson, Jo Ann",5057
-WASHINGTON,Attorney General,,LIB,"Hendricks, Jr., John B.",76
-WASHINGTON,Attorney General,,DEM,"Overschmidt, Francis",1883
-WASHINGTON,Attorney General,,REP,"Goddard, Cheryl",654
-WASHINGTON,Attorney General,,DEM,"Crump, Wayne",4471
-WASHINGTON,Attorney General,,DEM,"Martinez, Sandy",5805
-WASHINGTON,Attorney General,,DEM,"Pratte, Kenneth W.",5878
+WASHINGTON,U.S. House,8,DEM,"Camp, Bob",2882
+WASHINGTON,U.S. House,8,REP,"Emerson, Jo Ann",5057
+WASHINGTON,U.S. House,8,LIB,"Hendricks, Jr., John B.",76
+WASHINGTON,State House,110,DEM,"Overschmidt, Francis",1883
+WASHINGTON,State House,110,REP,"Goddard, Cheryl",654
+WASHINGTON,State House,152,DEM,"Crump, Wayne",4471
+WASHINGTON,Circuit Judge,Circuit 24 Division 1,DEM,"Martinez, Sandy",5805
+WASHINGTON,Circuit Judge,Circuit 24 Division 2,DEM,"Pratte, Kenneth W.",5878
 WAYNE,President,,DEM,"Al Gore, Joe Lieberman",2387
 WAYNE,President,,REP,"George W. Bush, Dick Cheney",3346
 WAYNE,President,,LIB,"Harry Browne, Art Olivier",12
@@ -4270,14 +4270,14 @@ WAYNE,State Treasurer,,CST,"Culligan, Kerry",28
 WAYNE,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3183
 WAYNE,Attorney General,,REP,"Jones, Sam",2296
 WAYNE,Attorney General,,LIB,"Moore, Mitch",134
-WAYNE,Attorney General,,DEM,"Camp, Bob",1804
-WAYNE,Attorney General,,REP,"Emerson, Jo Ann",3942
-WAYNE,Attorney General,,LIB,"Hendricks, Jr., John B.",34
-WAYNE,Attorney General,,DEM,"Howard, Jerry T.",2461
-WAYNE,Attorney General,,REP,"Foster, Bill I.",3350
-WAYNE,Attorney General,,DEM,"Golden, Katherine",3015
-WAYNE,Attorney General,,REP,"Jetton, Rod",2790
-WAYNE,Attorney General,,DEM,"Seay, William Camm",3840
+WAYNE,U.S. House,8,DEM,"Camp, Bob",1804
+WAYNE,U.S. House,8,REP,"Emerson, Jo Ann",3942
+WAYNE,U.S. House,8,LIB,"Hendricks, Jr., John B.",34
+WAYNE,State Senate,25,DEM,"Howard, Jerry T.",2461
+WAYNE,State Senate,25,REP,"Foster, Bill I.",3350
+WAYNE,State House,156,DEM,"Golden, Katherine",3015
+WAYNE,State House,156,REP,"Jetton, Rod",2790
+WAYNE,Circuit Judge,Circuit 42 Division 1,DEM,"Seay, William Camm",3840
 WEBSTER,President,,DEM,"Al Gore, Joe Lieberman",4174
 WEBSTER,President,,REP,"George W. Bush, Dick Cheney",7350
 WEBSTER,President,,LIB,"Harry Browne, Art Olivier",27
@@ -4307,15 +4307,15 @@ WEBSTER,State Treasurer,,CST,"Culligan, Kerry",37
 WEBSTER,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",6283
 WEBSTER,Attorney General,,REP,"Jones, Sam",5201
 WEBSTER,Attorney General,,LIB,"Moore, Mitch",204
-WEBSTER,Attorney General,,DEM,"Skelton, Ike",5851
-WEBSTER,Attorney General,,REP,"Noland, Jim",5611
-WEBSTER,Attorney General,,LIB,"Knapp, Thomas L.",138
-WEBSTER,Attorney General,,DEM,"Ichord, Clara R.",4311
-WEBSTER,Attorney General,,REP,"Russell, John T.",7340
-WEBSTER,Attorney General,,DEM,"Wommack, Ken G.",3331
-WEBSTER,Attorney General,,REP,"Ballard, Charlie",8278
-WEBSTER,Attorney General,,DEM,"Parks, John A.",3478
-WEBSTER,Attorney General,,REP,"Sims, John W. (Bill)",8061
+WEBSTER,U.S. House,4,DEM,"Skelton, Ike",5851
+WEBSTER,U.S. House,4,REP,"Noland, Jim",5611
+WEBSTER,U.S. House,4,LIB,"Knapp, Thomas L.",138
+WEBSTER,State Senate,33,DEM,"Ichord, Clara R.",4311
+WEBSTER,State Senate,33,REP,"Russell, John T.",7340
+WEBSTER,State House,140,DEM,"Wommack, Ken G.",3331
+WEBSTER,State House,140,REP,"Ballard, Charlie",8278
+WEBSTER,Circuit Judge,Circuit 30,DEM,"Parks, John A.",3478
+WEBSTER,Circuit Judge,Circuit 30,REP,"Sims, John W. (Bill)",8061
 WORTH,President,,DEM,"Al Gore, Joe Lieberman",469
 WORTH,President,,REP,"George W. Bush, Dick Cheney",651
 WORTH,President,,LIB,"Harry Browne, Art Olivier",13
@@ -4345,13 +4345,13 @@ WORTH,State Treasurer,,CST,"Culligan, Kerry",4
 WORTH,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",588
 WORTH,Attorney General,,REP,"Jones, Sam",498
 WORTH,Attorney General,,LIB,"Moore, Mitch",24
-WORTH,Attorney General,,DEM,"Danner, Steve",437
-WORTH,Attorney General,,REP,"Graves, Jr., Samuel B. (Sam)",694
-WORTH,Attorney General,,LIB,"Dykes, Jimmy",16
-WORTH,Attorney General,,DEM,"Ritterbusch, Robert L.",259
-WORTH,Attorney General,,REP,"Barnett, Rex",877
-WORTH,Attorney General,,DEM,"Dietrich, Glen",438
-WORTH,Attorney General,,REP,"Prokes, Roger",684
+WORTH,U.S. House,6,DEM,"Danner, Steve",437
+WORTH,U.S. House,6,REP,"Graves, Jr., Samuel B. (Sam)",694
+WORTH,U.S. House,6,LIB,"Dykes, Jimmy",16
+WORTH,State House,4,DEM,"Ritterbusch, Robert L.",259
+WORTH,State House,4,REP,"Barnett, Rex",877
+WORTH,Circuit Judge,Circuit 4,DEM,"Dietrich, Glen",438
+WORTH,Circuit Judge,Circuit 4,REP,"Prokes, Roger",684
 WRIGHT,President,,DEM,"Al Gore, Joe Lieberman",2250
 WRIGHT,President,,REP,"George W. Bush, Dick Cheney",5391
 WRIGHT,President,,LIB,"Harry Browne, Art Olivier",24
@@ -4381,10 +4381,10 @@ WRIGHT,State Treasurer,,CST,"Culligan, Kerry",24
 WRIGHT,Attorney General,,DEM,"Nixon, Jeremiah W. (Jay)",3410
 WRIGHT,Attorney General,,REP,"Jones, Sam",4091
 WRIGHT,Attorney General,,LIB,"Moore, Mitch",151
-WRIGHT,Attorney General,,DEM,"Camp, Bob",1559
-WRIGHT,Attorney General,,REP,"Emerson, Jo Ann",6034
-WRIGHT,Attorney General,,LIB,"Hendricks, Jr., John B.",74
-WRIGHT,Attorney General,,DEM,"Ichord, Clara R.",2322
-WRIGHT,Attorney General,,REP,"Russell, John T.",5276
-WRIGHT,Attorney General,,REP,"Kelly, Van",6232
-WRIGHT,Attorney General,,REP,"Moody, John Garner",6312
+WRIGHT,U.S. House,8,DEM,"Camp, Bob",1559
+WRIGHT,U.S. House,8,REP,"Emerson, Jo Ann",6034
+WRIGHT,U.S. House,8,LIB,"Hendricks, Jr., John B.",74
+WRIGHT,State Senate,33,DEM,"Ichord, Clara R.",2322
+WRIGHT,State Senate,33,REP,"Russell, John T.",5276
+WRIGHT,State House,144,REP,"Kelly, Van",6232
+WRIGHT,Circuit Judge,Circuit 44,REP,"Moody, John Garner",6312
