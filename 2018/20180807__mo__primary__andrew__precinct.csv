@@ -1,0 +1,589 @@
+county,precinct,office,district,candidate,party,votes
+Andrew,CLAY/FILMORE,,,Registered Voters,,599
+Andrew,CLAY/FILMORE,,,Ballots Cast,,249
+Andrew,CLAY/FILMORE,,,,Non-Partisan,6
+Andrew,CLAY/FILMORE,,,,REP,198
+Andrew,CLAY/FILMORE,,,,DEM,43
+Andrew,CLAY/FILMORE,,,,LIB,0
+Andrew,CLAY/FILMORE,,,,GRN,2
+Andrew,CLAY/FILMORE,,,,CST,0
+Andrew,CLAY/FILMORE,U.S. Senate,,Tony Monetti,REP,18
+Andrew,CLAY/FILMORE,U.S. Senate,,Austin Petersen,REP,13
+Andrew,CLAY/FILMORE,U.S. Senate,,Josh Hawley,REP,95
+Andrew,CLAY/FILMORE,U.S. Senate,,Fred Ryman,REP,0
+Andrew,CLAY/FILMORE,U.S. Senate,,Christina Smith,REP,13
+Andrew,CLAY/FILMORE,U.S. Senate,,Kristi Nichols,REP,9
+Andrew,CLAY/FILMORE,U.S. Senate,,Bradley Krembs,REP,4
+Andrew,CLAY/FILMORE,U.S. Senate,,Ken Patterson,REP,5
+Andrew,CLAY/FILMORE,U.S. Senate,,Brian G. Hagg,REP,6
+Andrew,CLAY/FILMORE,U.S. Senate,,Courtland Sykes,REP,3
+Andrew,CLAY/FILMORE,U.S. Senate,,Peter Pfeifer,REP,3
+Andrew,CLAY/FILMORE,State Auditor,,Kevin M. Roach,REP,52
+Andrew,CLAY/FILMORE,State Auditor,,David Wasinger,REP,27
+Andrew,CLAY/FILMORE,State Auditor,,Paul Curtman,REP,26
+Andrew,CLAY/FILMORE,State Auditor,,Saundra McDowell,REP,41
+Andrew,CLAY/FILMORE,U.S. House,6,Sam Graves,REP,170
+Andrew,CLAY/FILMORE,State Senate,12,Dan Hegeman,REP,168
+Andrew,CLAY/FILMORE,State House,9,Sheila Solon,REP,42
+Andrew,CLAY/FILMORE,State House,9,Tina Goodrick,REP,11
+Andrew,CLAY/FILMORE,State House,9,Christopher Evans,REP,34
+Andrew,CLAY/FILMORE,State House,9,Mik Chester,REP,98
+Andrew,CLAY/FILMORE,U.S. Senate,,Carla (Coffee) Wright,DEM,1
+Andrew,CLAY/FILMORE,U.S. Senate,,Angelica Earl,DEM,0
+Andrew,CLAY/FILMORE,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Andrew,CLAY/FILMORE,U.S. Senate,,John Hogan,DEM,4
+Andrew,CLAY/FILMORE,U.S. Senate,,Travis Gonzalez,DEM,1
+Andrew,CLAY/FILMORE,U.S. Senate,,David Faust,DEM,1
+Andrew,CLAY/FILMORE,U.S. Senate,,Claire McCaskill,DEM,33
+Andrew,CLAY/FILMORE,State Auditor,,Nicole Galloway,DEM,37
+Andrew,CLAY/FILMORE,U.S. House,6,Winston Apple,DEM,4
+Andrew,CLAY/FILMORE,U.S. House,6,Henry Robert Martin,DEM,17
+Andrew,CLAY/FILMORE,U.S. House,6,Ed Andres,DEM,18
+Andrew,CLAY/FILMORE,State Senate,12,Terry Richard,DEM,36
+Andrew,CLAY/FILMORE,State House,9,Bob Bergland,DEM,34
+Andrew,CLAY/FILMORE,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,CLAY/FILMORE,State Auditor,,Sean O'Toole,LIB,0
+Andrew,CLAY/FILMORE,U.S. House,6,Dan Hogan,LIB,0
+Andrew,CLAY/FILMORE,U.S. Senate,,Jo Crain,GRN,0
+Andrew,CLAY/FILMORE,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,CLAY/FILMORE,State Auditor,,Don Fitz,GRN,0
+Andrew,CLAY/FILMORE,State Auditor,,Jacob Luetkemeyer,CST,0
+Andrew,LINCOLN,,,Registered Voters,,772
+Andrew,LINCOLN,,,Ballots Cast,,294
+Andrew,LINCOLN,,,,Non-Partisan,5
+Andrew,LINCOLN,,,,REP,237
+Andrew,LINCOLN,,,,DEM,51
+Andrew,LINCOLN,,,,LIB,1
+Andrew,LINCOLN,,,,GRN,0
+Andrew,LINCOLN,,,,CST,0
+Andrew,LINCOLN,U.S. Senate,,Tony Monetti,REP,24
+Andrew,LINCOLN,U.S. Senate,,Austin Petersen,REP,13
+Andrew,LINCOLN,U.S. Senate,,Josh Hawley,REP,102
+Andrew,LINCOLN,U.S. Senate,,Fred Ryman,REP,1
+Andrew,LINCOLN,U.S. Senate,,Christina Smith,REP,23
+Andrew,LINCOLN,U.S. Senate,,Kristi Nichols,REP,18
+Andrew,LINCOLN,U.S. Senate,,Bradley Krembs,REP,0
+Andrew,LINCOLN,U.S. Senate,,Ken Patterson,REP,12
+Andrew,LINCOLN,U.S. Senate,,Brian G. Hagg,REP,8
+Andrew,LINCOLN,U.S. Senate,,Courtland Sykes,REP,7
+Andrew,LINCOLN,U.S. Senate,,Peter Pfeifer,REP,9
+Andrew,LINCOLN,State Auditor,,Kevin M. Roach,REP,55
+Andrew,LINCOLN,State Auditor,,David Wasinger,REP,30
+Andrew,LINCOLN,State Auditor,,Paul Curtman,REP,22
+Andrew,LINCOLN,State Auditor,,Saundra McDowell,REP,93
+Andrew,LINCOLN,U.S. House,6,Sam Graves,REP,205
+Andrew,LINCOLN,State Senate,12,Dan Hegeman,REP,202
+Andrew,LINCOLN,State House,9,Sheila Solon,REP,75
+Andrew,LINCOLN,State House,9,Tina Goodrick,REP,16
+Andrew,LINCOLN,State House,9,Christopher Evans,REP,77
+Andrew,LINCOLN,State House,9,Mik Chester,REP,57
+Andrew,LINCOLN,U.S. Senate,,Carla (Coffee) Wright,DEM,5
+Andrew,LINCOLN,U.S. Senate,,Angelica Earl,DEM,3
+Andrew,LINCOLN,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Andrew,LINCOLN,U.S. Senate,,John Hogan,DEM,1
+Andrew,LINCOLN,U.S. Senate,,Travis Gonzalez,DEM,0
+Andrew,LINCOLN,U.S. Senate,,David Faust,DEM,5
+Andrew,LINCOLN,U.S. Senate,,Claire McCaskill,DEM,33
+Andrew,LINCOLN,State Auditor,,Nicole Galloway,DEM,41
+Andrew,LINCOLN,U.S. House,6,Winston Apple,DEM,13
+Andrew,LINCOLN,U.S. House,6,Henry Robert Martin,DEM,13
+Andrew,LINCOLN,U.S. House,6,Ed Andres,DEM,20
+Andrew,LINCOLN,State Senate,12,Terry Richard,DEM,45
+Andrew,LINCOLN,State House,9,Bob Bergland,DEM,45
+Andrew,LINCOLN,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,LINCOLN,State Auditor,,Sean O'Toole,LIB,0
+Andrew,LINCOLN,U.S. House,6,Dan Hogan,LIB,0
+Andrew,LINCOLN,U.S. Senate,,Jo Crain,GRN,0
+Andrew,LINCOLN,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,LINCOLN,State Auditor,,Don Fitz,GRN,0
+Andrew,LINCOLN,State Auditor,,Jacob Luetkemeyer,CST,0
+Andrew,NE/SE,,,Registered Voters,,2431
+Andrew,NE/SE,,,Ballots Cast,,774
+Andrew,NE/SE,,,,Non-Partisan,8
+Andrew,NE/SE,,,,REP,553
+Andrew,NE/SE,,,,DEM,207
+Andrew,NE/SE,,,,LIB,3
+Andrew,NE/SE,,,,GRN,1
+Andrew,NE/SE,,,,CST,2
+Andrew,NE/SE,U.S. Senate,,Tony Monetti,REP,45
+Andrew,NE/SE,U.S. Senate,,Austin Petersen,REP,41
+Andrew,NE/SE,U.S. Senate,,Josh Hawley,REP,270
+Andrew,NE/SE,U.S. Senate,,Fred Ryman,REP,9
+Andrew,NE/SE,U.S. Senate,,Christina Smith,REP,27
+Andrew,NE/SE,U.S. Senate,,Kristi Nichols,REP,42
+Andrew,NE/SE,U.S. Senate,,Bradley Krembs,REP,9
+Andrew,NE/SE,U.S. Senate,,Ken Patterson,REP,12
+Andrew,NE/SE,U.S. Senate,,Brian G. Hagg,REP,10
+Andrew,NE/SE,U.S. Senate,,Courtland Sykes,REP,5
+Andrew,NE/SE,U.S. Senate,,Peter Pfeifer,REP,17
+Andrew,NE/SE,State Auditor,,Kevin M. Roach,REP,120
+Andrew,NE/SE,State Auditor,,David Wasinger,REP,63
+Andrew,NE/SE,State Auditor,,Paul Curtman,REP,55
+Andrew,NE/SE,State Auditor,,Saundra McDowell,REP,197
+Andrew,NE/SE,U.S. House,6,Sam Graves,REP,465
+Andrew,NE/SE,State Senate,12,Dan Hegeman,REP,471
+Andrew,NE/SE,State House,9,Sheila Solon,REP,207
+Andrew,NE/SE,State House,9,Tina Goodrick,REP,32
+Andrew,NE/SE,State House,9,Christopher Evans,REP,75
+Andrew,NE/SE,State House,9,Mik Chester,REP,212
+Andrew,NE/SE,U.S. Senate,,Carla (Coffee) Wright,DEM,12
+Andrew,NE/SE,U.S. Senate,,Angelica Earl,DEM,2
+Andrew,NE/SE,U.S. Senate,,Leonard Joseph Steinman II,DEM,8
+Andrew,NE/SE,U.S. Senate,,John Hogan,DEM,16
+Andrew,NE/SE,U.S. Senate,,Travis Gonzalez,DEM,2
+Andrew,NE/SE,U.S. Senate,,David Faust,DEM,7
+Andrew,NE/SE,U.S. Senate,,Claire McCaskill,DEM,152
+Andrew,NE/SE,State Auditor,,Nicole Galloway,DEM,167
+Andrew,NE/SE,U.S. House,6,Winston Apple,DEM,53
+Andrew,NE/SE,U.S. House,6,Henry Robert Martin,DEM,53
+Andrew,NE/SE,U.S. House,6,Ed Andres,DEM,83
+Andrew,NE/SE,State Senate,12,Terry Richard,DEM,170
+Andrew,NE/SE,State House,9,Bob Bergland,DEM,171
+Andrew,NE/SE,U.S. Senate,,Japheth Campbell,LIB,3
+Andrew,NE/SE,State Auditor,,Sean O'Toole,LIB,2
+Andrew,NE/SE,U.S. House,6,Dan Hogan,LIB,3
+Andrew,NE/SE,U.S. Senate,,Jo Crain,GRN,0
+Andrew,NE/SE,U.S. Senate,,Jerome Bauer,GRN,1
+Andrew,NE/SE,State Auditor,,Don Fitz,GRN,1
+Andrew,NE/SE,State Auditor,,Jacob Luetkemeyer,CST,2
+Andrew,NW/SW,,,Registered Voters,,2098
+Andrew,NW/SW,,,Ballots Cast,,811
+Andrew,NW/SW,,,,Non-Partisan,12
+Andrew,NW/SW,,,,REP,579
+Andrew,NW/SW,,,,DEM,215
+Andrew,NW/SW,,,,LIB,0
+Andrew,NW/SW,,,,GRN,3
+Andrew,NW/SW,,,,CST,2
+Andrew,NW/SW,U.S. Senate,,Tony Monetti,REP,40
+Andrew,NW/SW,U.S. Senate,,Austin Petersen,REP,35
+Andrew,NW/SW,U.S. Senate,,Josh Hawley,REP,261
+Andrew,NW/SW,U.S. Senate,,Fred Ryman,REP,9
+Andrew,NW/SW,U.S. Senate,,Christina Smith,REP,36
+Andrew,NW/SW,U.S. Senate,,Kristi Nichols,REP,60
+Andrew,NW/SW,U.S. Senate,,Bradley Krembs,REP,2
+Andrew,NW/SW,U.S. Senate,,Ken Patterson,REP,22
+Andrew,NW/SW,U.S. Senate,,Brian G. Hagg,REP,14
+Andrew,NW/SW,U.S. Senate,,Courtland Sykes,REP,6
+Andrew,NW/SW,U.S. Senate,,Peter Pfeifer,REP,21
+Andrew,NW/SW,State Auditor,,Kevin M. Roach,REP,153
+Andrew,NW/SW,State Auditor,,David Wasinger,REP,77
+Andrew,NW/SW,State Auditor,,Paul Curtman,REP,36
+Andrew,NW/SW,State Auditor,,Saundra McDowell,REP,195
+Andrew,NW/SW,U.S. House,6,Sam Graves,REP,487
+Andrew,NW/SW,State Senate,12,Dan Hegeman,REP,506
+Andrew,NW/SW,State House,9,Sheila Solon,REP,223
+Andrew,NW/SW,State House,9,Tina Goodrick,REP,25
+Andrew,NW/SW,State House,9,Christopher Evans,REP,85
+Andrew,NW/SW,State House,9,Mik Chester,REP,220
+Andrew,NW/SW,U.S. Senate,,Carla (Coffee) Wright,DEM,11
+Andrew,NW/SW,U.S. Senate,,Angelica Earl,DEM,7
+Andrew,NW/SW,U.S. Senate,,Leonard Joseph Steinman II,DEM,3
+Andrew,NW/SW,U.S. Senate,,John Hogan,DEM,8
+Andrew,NW/SW,U.S. Senate,,Travis Gonzalez,DEM,5
+Andrew,NW/SW,U.S. Senate,,David Faust,DEM,8
+Andrew,NW/SW,U.S. Senate,,Claire McCaskill,DEM,165
+Andrew,NW/SW,State Auditor,,Nicole Galloway,DEM,179
+Andrew,NW/SW,U.S. House,6,Winston Apple,DEM,54
+Andrew,NW/SW,U.S. House,6,Henry Robert Martin,DEM,62
+Andrew,NW/SW,U.S. House,6,Ed Andres,DEM,80
+Andrew,NW/SW,State Senate,12,Terry Richard,DEM,177
+Andrew,NW/SW,State House,9,Bob Bergland,DEM,181
+Andrew,NW/SW,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,NW/SW,State Auditor,,Sean O'Toole,LIB,0
+Andrew,NW/SW,U.S. House,6,Dan Hogan,LIB,0
+Andrew,NW/SW,U.S. Senate,,Jo Crain,GRN,2
+Andrew,NW/SW,U.S. Senate,,Jerome Bauer,GRN,1
+Andrew,NW/SW,State Auditor,,Don Fitz,GRN,3
+Andrew,NW/SW,State Auditor,,Jacob Luetkemeyer,CST,2
+Andrew,BEELER/JG/CC,,,Registered Voters,,3666
+Andrew,BEELER/JG/CC,,,Ballots Cast,,1192
+Andrew,BEELER/JG/CC,,,,Non-Partisan,11
+Andrew,BEELER/JG/CC,,,,REP,847
+Andrew,BEELER/JG/CC,,,,DEM,323
+Andrew,BEELER/JG/CC,,,,LIB,4
+Andrew,BEELER/JG/CC,,,,GRN,3
+Andrew,BEELER/JG/CC,,,,CST,4
+Andrew,BEELER/JG/CC,U.S. Senate,,Tony Monetti,REP,58
+Andrew,BEELER/JG/CC,U.S. Senate,,Austin Petersen,REP,57
+Andrew,BEELER/JG/CC,U.S. Senate,,Josh Hawley,REP,455
+Andrew,BEELER/JG/CC,U.S. Senate,,Fred Ryman,REP,6
+Andrew,BEELER/JG/CC,U.S. Senate,,Christina Smith,REP,40
+Andrew,BEELER/JG/CC,U.S. Senate,,Kristi Nichols,REP,66
+Andrew,BEELER/JG/CC,U.S. Senate,,Bradley Krembs,REP,8
+Andrew,BEELER/JG/CC,U.S. Senate,,Ken Patterson,REP,28
+Andrew,BEELER/JG/CC,U.S. Senate,,Brian G. Hagg,REP,11
+Andrew,BEELER/JG/CC,U.S. Senate,,Courtland Sykes,REP,9
+Andrew,BEELER/JG/CC,U.S. Senate,,Peter Pfeifer,REP,15
+Andrew,BEELER/JG/CC,State Auditor,,Kevin M. Roach,REP,200
+Andrew,BEELER/JG/CC,State Auditor,,David Wasinger,REP,113
+Andrew,BEELER/JG/CC,State Auditor,,Paul Curtman,REP,65
+Andrew,BEELER/JG/CC,State Auditor,,Saundra McDowell,REP,305
+Andrew,BEELER/JG/CC,U.S. House,6,Sam Graves,REP,712
+Andrew,BEELER/JG/CC,State Senate,12,Dan Hegeman,REP,722
+Andrew,BEELER/JG/CC,State House,9,Sheila Solon,REP,290
+Andrew,BEELER/JG/CC,State House,9,Tina Goodrick,REP,76
+Andrew,BEELER/JG/CC,State House,9,Christopher Evans,REP,109
+Andrew,BEELER/JG/CC,State House,9,Mik Chester,REP,328
+Andrew,BEELER/JG/CC,U.S. Senate,,Carla (Coffee) Wright,DEM,14
+Andrew,BEELER/JG/CC,U.S. Senate,,Angelica Earl,DEM,5
+Andrew,BEELER/JG/CC,U.S. Senate,,Leonard Joseph Steinman II,DEM,3
+Andrew,BEELER/JG/CC,U.S. Senate,,John Hogan,DEM,15
+Andrew,BEELER/JG/CC,U.S. Senate,,Travis Gonzalez,DEM,6
+Andrew,BEELER/JG/CC,U.S. Senate,,David Faust,DEM,9
+Andrew,BEELER/JG/CC,U.S. Senate,,Claire McCaskill,DEM,257
+Andrew,BEELER/JG/CC,State Auditor,,Nicole Galloway,DEM,264
+Andrew,BEELER/JG/CC,U.S. House,6,Winston Apple,DEM,69
+Andrew,BEELER/JG/CC,U.S. House,6,Henry Robert Martin,DEM,73
+Andrew,BEELER/JG/CC,U.S. House,6,Ed Andres,DEM,149
+Andrew,BEELER/JG/CC,State Senate,12,Terry Richard,DEM,269
+Andrew,BEELER/JG/CC,State House,9,Bob Bergland,DEM,273
+Andrew,BEELER/JG/CC,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,BEELER/JG/CC,State Auditor,,Sean O'Toole,LIB,0
+Andrew,BEELER/JG/CC,U.S. House,6,Dan Hogan,LIB,0
+Andrew,BEELER/JG/CC,U.S. Senate,,Jo Crain,GRN,0
+Andrew,BEELER/JG/CC,U.S. Senate,,Jerome Bauer,GRN,2
+Andrew,BEELER/JG/CC,State Auditor,,Don Fitz,GRN,2
+Andrew,BEELER/JG/CC,State Auditor,,Jacob Luetkemeyer,CST,1
+Andrew,BOLCKOW/RDALE/WPLT,,,Registered Voters,,938
+Andrew,BOLCKOW/RDALE/WPLT,,,Ballots Cast,,374
+Andrew,BOLCKOW/RDALE/WPLT,,,,Non-Partisan,6
+Andrew,BOLCKOW/RDALE/WPLT,,,,REP,286
+Andrew,BOLCKOW/RDALE/WPLT,,,,DEM,78
+Andrew,BOLCKOW/RDALE/WPLT,,,,LIB,3
+Andrew,BOLCKOW/RDALE/WPLT,,,,GRN,0
+Andrew,BOLCKOW/RDALE/WPLT,,,,CST,1
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Tony Monetti,REP,30
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Austin Petersen,REP,21
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Josh Hawley,REP,135
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Fred Ryman,REP,4
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Christina Smith,REP,13
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Kristi Nichols,REP,17
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Bradley Krembs,REP,1
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Ken Patterson,REP,11
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Brian G. Hagg,REP,6
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Courtland Sykes,REP,2
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Peter Pfeifer,REP,8
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,Kevin M. Roach,REP,88
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,David Wasinger,REP,43
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,Paul Curtman,REP,26
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,Saundra McDowell,REP,70
+Andrew,BOLCKOW/RDALE/WPLT,U.S. House,6,Sam Graves,REP,248
+Andrew,BOLCKOW/RDALE/WPLT,State Senate,12,Dan Hegeman,REP,253
+Andrew,BOLCKOW/RDALE/WPLT,State House,9,Sheila Solon,REP,65
+Andrew,BOLCKOW/RDALE/WPLT,State House,9,Tina Goodrick,REP,22
+Andrew,BOLCKOW/RDALE/WPLT,State House,9,Christopher Evans,REP,45
+Andrew,BOLCKOW/RDALE/WPLT,State House,9,Mik Chester,REP,133
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Carla (Coffee) Wright,DEM,7
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Angelica Earl,DEM,2
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,John Hogan,DEM,8
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Travis Gonzalez,DEM,1
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,David Faust,DEM,0
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Claire McCaskill,DEM,57
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,Nicole Galloway,DEM,61
+Andrew,BOLCKOW/RDALE/WPLT,U.S. House,6,Winston Apple,DEM,12
+Andrew,BOLCKOW/RDALE/WPLT,U.S. House,6,Henry Robert Martin,DEM,31
+Andrew,BOLCKOW/RDALE/WPLT,U.S. House,6,Ed Andres,DEM,29
+Andrew,BOLCKOW/RDALE/WPLT,State Senate,12,Terry Richard,DEM,65
+Andrew,BOLCKOW/RDALE/WPLT,State House,9,Bob Bergland,DEM,61
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Japheth Campbell,LIB,3
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,Sean O'Toole,LIB,3
+Andrew,BOLCKOW/RDALE/WPLT,U.S. House,6,Dan Hogan,LIB,3
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Jo Crain,GRN,0
+Andrew,BOLCKOW/RDALE/WPLT,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,Don Fitz,GRN,0
+Andrew,BOLCKOW/RDALE/WPLT,State Auditor,,Jacob Luetkemeyer,CST,0
+Andrew,EPLATTE/EEMPIRE,,,Registered Voters,,305
+Andrew,EPLATTE/EEMPIRE,,,Ballots Cast,,130
+Andrew,EPLATTE/EEMPIRE,,,,Non-Partisan,4
+Andrew,EPLATTE/EEMPIRE,,,,REP,110
+Andrew,EPLATTE/EEMPIRE,,,,DEM,13
+Andrew,EPLATTE/EEMPIRE,,,,LIB,0
+Andrew,EPLATTE/EEMPIRE,,,,GRN,2
+Andrew,EPLATTE/EEMPIRE,,,,CST,1
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Tony Monetti,REP,6
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Austin Petersen,REP,7
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Josh Hawley,REP,59
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Fred Ryman,REP,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Christina Smith,REP,8
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Kristi Nichols,REP,8
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Bradley Krembs,REP,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Ken Patterson,REP,4
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Brian G. Hagg,REP,2
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Courtland Sykes,REP,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Peter Pfeifer,REP,2
+Andrew,EPLATTE/EEMPIRE,State Auditor,,Kevin M. Roach,REP,32
+Andrew,EPLATTE/EEMPIRE,State Auditor,,David Wasinger,REP,13
+Andrew,EPLATTE/EEMPIRE,State Auditor,,Paul Curtman,REP,5
+Andrew,EPLATTE/EEMPIRE,State Auditor,,Saundra McDowell,REP,34
+Andrew,EPLATTE/EEMPIRE,U.S. House,6,Sam Graves,REP,87
+Andrew,EPLATTE/EEMPIRE,State Senate,12,Dan Hegeman,REP,87
+Andrew,EPLATTE/EEMPIRE,State House,9,Sheila Solon,REP,39
+Andrew,EPLATTE/EEMPIRE,State House,9,Tina Goodrick,REP,11
+Andrew,EPLATTE/EEMPIRE,State House,9,Christopher Evans,REP,13
+Andrew,EPLATTE/EEMPIRE,State House,9,Mik Chester,REP,44
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Carla (Coffee) Wright,DEM,1
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Angelica Earl,DEM,1
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,John Hogan,DEM,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Travis Gonzalez,DEM,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,David Faust,DEM,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Claire McCaskill,DEM,11
+Andrew,EPLATTE/EEMPIRE,State Auditor,,Nicole Galloway,DEM,12
+Andrew,EPLATTE/EEMPIRE,U.S. House,6,Winston Apple,DEM,5
+Andrew,EPLATTE/EEMPIRE,U.S. House,6,Henry Robert Martin,DEM,5
+Andrew,EPLATTE/EEMPIRE,U.S. House,6,Ed Andres,DEM,3
+Andrew,EPLATTE/EEMPIRE,State Senate,12,Terry Richard,DEM,12
+Andrew,EPLATTE/EEMPIRE,State House,9,Bob Bergland,DEM,12
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,EPLATTE/EEMPIRE,State Auditor,,Sean O'Toole,LIB,0
+Andrew,EPLATTE/EEMPIRE,U.S. House,6,Dan Hogan,LIB,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Jo Crain,GRN,0
+Andrew,EPLATTE/EEMPIRE,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,EPLATTE/EEMPIRE,State Auditor,,Don Fitz,GRN,1
+Andrew,EPLATTE/EEMPIRE,State Auditor,,Jacob Luetkemeyer,CST,0
+Andrew,ROCHESTER,,,Registered Voters,,523
+Andrew,ROCHESTER,,,Ballots Cast,,227
+Andrew,ROCHESTER,,,,Non-Partisan,1
+Andrew,ROCHESTER,,,,REP,185
+Andrew,ROCHESTER,,,,DEM,39
+Andrew,ROCHESTER,,,,LIB,0
+Andrew,ROCHESTER,,,,GRN,0
+Andrew,ROCHESTER,,,,CST,2
+Andrew,ROCHESTER,U.S. Senate,,Tony Monetti,REP,18
+Andrew,ROCHESTER,U.S. Senate,,Austin Petersen,REP,9
+Andrew,ROCHESTER,U.S. Senate,,Josh Hawley,REP,99
+Andrew,ROCHESTER,U.S. Senate,,Fred Ryman,REP,1
+Andrew,ROCHESTER,U.S. Senate,,Christina Smith,REP,12
+Andrew,ROCHESTER,U.S. Senate,,Kristi Nichols,REP,12
+Andrew,ROCHESTER,U.S. Senate,,Bradley Krembs,REP,2
+Andrew,ROCHESTER,U.S. Senate,,Ken Patterson,REP,5
+Andrew,ROCHESTER,U.S. Senate,,Brian G. Hagg,REP,6
+Andrew,ROCHESTER,U.S. Senate,,Courtland Sykes,REP,1
+Andrew,ROCHESTER,U.S. Senate,,Peter Pfeifer,REP,3
+Andrew,ROCHESTER,State Auditor,,Kevin M. Roach,REP,44
+Andrew,ROCHESTER,State Auditor,,David Wasinger,REP,18
+Andrew,ROCHESTER,State Auditor,,Paul Curtman,REP,15
+Andrew,ROCHESTER,State Auditor,,Saundra McDowell,REP,60
+Andrew,ROCHESTER,U.S. House,6,Sam Graves,REP,152
+Andrew,ROCHESTER,State Senate,12,Dan Hegeman,REP,147
+Andrew,ROCHESTER,State House,9,Sheila Solon,REP,61
+Andrew,ROCHESTER,State House,9,Tina Goodrick,REP,14
+Andrew,ROCHESTER,State House,9,Christopher Evans,REP,28
+Andrew,ROCHESTER,State House,9,Mik Chester,REP,69
+Andrew,ROCHESTER,U.S. Senate,,Carla (Coffee) Wright,DEM,0
+Andrew,ROCHESTER,U.S. Senate,,Angelica Earl,DEM,2
+Andrew,ROCHESTER,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Andrew,ROCHESTER,U.S. Senate,,John Hogan,DEM,2
+Andrew,ROCHESTER,U.S. Senate,,Travis Gonzalez,DEM,1
+Andrew,ROCHESTER,U.S. Senate,,David Faust,DEM,1
+Andrew,ROCHESTER,U.S. Senate,,Claire McCaskill,DEM,32
+Andrew,ROCHESTER,State Auditor,,Nicole Galloway,DEM,37
+Andrew,ROCHESTER,U.S. House,6,Winston Apple,DEM,6
+Andrew,ROCHESTER,U.S. House,6,Henry Robert Martin,DEM,13
+Andrew,ROCHESTER,U.S. House,6,Ed Andres,DEM,19
+Andrew,ROCHESTER,State Senate,12,Terry Richard,DEM,36
+Andrew,ROCHESTER,State House,9,Bob Bergland,DEM,37
+Andrew,ROCHESTER,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,ROCHESTER,State Auditor,,Sean O'Toole,LIB,0
+Andrew,ROCHESTER,U.S. House,6,Dan Hogan,LIB,0
+Andrew,ROCHESTER,U.S. Senate,,Jo Crain,GRN,0
+Andrew,ROCHESTER,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,ROCHESTER,State Auditor,,Don Fitz,GRN,0
+Andrew,ROCHESTER,State Auditor,,Jacob Luetkemeyer,CST,1
+Andrew,HELENA,,,Registered Voters,,408
+Andrew,HELENA,,,Ballots Cast,,165
+Andrew,HELENA,,,,Non-Partisan,4
+Andrew,HELENA,,,,REP,135
+Andrew,HELENA,,,,DEM,26
+Andrew,HELENA,,,,LIB,0
+Andrew,HELENA,,,,GRN,0
+Andrew,HELENA,,,,CST,0
+Andrew,HELENA,U.S. Senate,,Tony Monetti,REP,8
+Andrew,HELENA,U.S. Senate,,Austin Petersen,REP,6
+Andrew,HELENA,U.S. Senate,,Josh Hawley,REP,70
+Andrew,HELENA,U.S. Senate,,Fred Ryman,REP,3
+Andrew,HELENA,U.S. Senate,,Christina Smith,REP,11
+Andrew,HELENA,U.S. Senate,,Kristi Nichols,REP,15
+Andrew,HELENA,U.S. Senate,,Bradley Krembs,REP,1
+Andrew,HELENA,U.S. Senate,,Ken Patterson,REP,8
+Andrew,HELENA,U.S. Senate,,Brian G. Hagg,REP,6
+Andrew,HELENA,U.S. Senate,,Courtland Sykes,REP,1
+Andrew,HELENA,U.S. Senate,,Peter Pfeifer,REP,2
+Andrew,HELENA,State Auditor,,Kevin M. Roach,REP,28
+Andrew,HELENA,State Auditor,,David Wasinger,REP,13
+Andrew,HELENA,State Auditor,,Paul Curtman,REP,13
+Andrew,HELENA,State Auditor,,Saundra McDowell,REP,64
+Andrew,HELENA,U.S. House,6,Sam Graves,REP,122
+Andrew,HELENA,State Senate,12,Dan Hegeman,REP,124
+Andrew,HELENA,State House,9,Sheila Solon,REP,33
+Andrew,HELENA,State House,9,Tina Goodrick,REP,13
+Andrew,HELENA,State House,9,Christopher Evans,REP,31
+Andrew,HELENA,State House,9,Mik Chester,REP,53
+Andrew,HELENA,U.S. Senate,,Carla (Coffee) Wright,DEM,2
+Andrew,HELENA,U.S. Senate,,Angelica Earl,DEM,1
+Andrew,HELENA,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Andrew,HELENA,U.S. Senate,,John Hogan,DEM,3
+Andrew,HELENA,U.S. Senate,,Travis Gonzalez,DEM,0
+Andrew,HELENA,U.S. Senate,,David Faust,DEM,2
+Andrew,HELENA,U.S. Senate,,Claire McCaskill,DEM,17
+Andrew,HELENA,State Auditor,,Nicole Galloway,DEM,22
+Andrew,HELENA,U.S. House,6,Winston Apple,DEM,2
+Andrew,HELENA,U.S. House,6,Henry Robert Martin,DEM,4
+Andrew,HELENA,U.S. House,6,Ed Andres,DEM,17
+Andrew,HELENA,State Senate,12,Terry Richard,DEM,21
+Andrew,HELENA,State House,9,Bob Bergland,DEM,22
+Andrew,HELENA,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,HELENA,State Auditor,,Sean O'Toole,LIB,0
+Andrew,HELENA,U.S. House,6,Dan Hogan,LIB,0
+Andrew,HELENA,U.S. Senate,,Jo Crain,GRN,0
+Andrew,HELENA,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,HELENA,State Auditor,,Don Fitz,GRN,0
+Andrew,HELENA,State Auditor,,Jacob Luetkemeyer,CST,0
+Andrew,EMONROE,,,Registered Voters,,271
+Andrew,EMONROE,,,Ballots Cast,,120
+Andrew,EMONROE,,,,Non-Partisan,5
+Andrew,EMONROE,,,,REP,97
+Andrew,EMONROE,,,,DEM,17
+Andrew,EMONROE,,,,LIB,1
+Andrew,EMONROE,,,,GRN,0
+Andrew,EMONROE,,,,CST,0
+Andrew,EMONROE,U.S. Senate,,Tony Monetti,REP,1
+Andrew,EMONROE,U.S. Senate,,Austin Petersen,REP,10
+Andrew,EMONROE,U.S. Senate,,Josh Hawley,REP,59
+Andrew,EMONROE,U.S. Senate,,Fred Ryman,REP,2
+Andrew,EMONROE,U.S. Senate,,Christina Smith,REP,5
+Andrew,EMONROE,U.S. Senate,,Kristi Nichols,REP,7
+Andrew,EMONROE,U.S. Senate,,Bradley Krembs,REP,1
+Andrew,EMONROE,U.S. Senate,,Ken Patterson,REP,0
+Andrew,EMONROE,U.S. Senate,,Brian G. Hagg,REP,1
+Andrew,EMONROE,U.S. Senate,,Courtland Sykes,REP,0
+Andrew,EMONROE,U.S. Senate,,Peter Pfeifer,REP,2
+Andrew,EMONROE,State Auditor,,Kevin M. Roach,REP,16
+Andrew,EMONROE,State Auditor,,David Wasinger,REP,19
+Andrew,EMONROE,State Auditor,,Paul Curtman,REP,8
+Andrew,EMONROE,State Auditor,,Saundra McDowell,REP,24
+Andrew,EMONROE,U.S. House,6,Sam Graves,REP,79
+Andrew,EMONROE,State Senate,12,Dan Hegeman,REP,85
+Andrew,EMONROE,State House,9,Sheila Solon,REP,24
+Andrew,EMONROE,State House,9,Tina Goodrick,REP,4
+Andrew,EMONROE,State House,9,Christopher Evans,REP,9
+Andrew,EMONROE,State House,9,Mik Chester,REP,57
+Andrew,EMONROE,U.S. Senate,,Carla (Coffee) Wright,DEM,1
+Andrew,EMONROE,U.S. Senate,,Angelica Earl,DEM,1
+Andrew,EMONROE,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Andrew,EMONROE,U.S. Senate,,John Hogan,DEM,1
+Andrew,EMONROE,U.S. Senate,,Travis Gonzalez,DEM,0
+Andrew,EMONROE,U.S. Senate,,David Faust,DEM,1
+Andrew,EMONROE,U.S. Senate,,Claire McCaskill,DEM,13
+Andrew,EMONROE,State Auditor,,Nicole Galloway,DEM,15
+Andrew,EMONROE,U.S. House,6,Winston Apple,DEM,2
+Andrew,EMONROE,U.S. House,6,Henry Robert Martin,DEM,6
+Andrew,EMONROE,U.S. House,6,Ed Andres,DEM,7
+Andrew,EMONROE,State Senate,12,Terry Richard,DEM,16
+Andrew,EMONROE,State House,9,Bob Bergland,DEM,16
+Andrew,EMONROE,U.S. Senate,,Japheth Campbell,LIB,1
+Andrew,EMONROE,State Auditor,,Sean O'Toole,LIB,1
+Andrew,EMONROE,U.S. House,6,Dan Hogan,LIB,1
+Andrew,EMONROE,U.S. Senate,,Jo Crain,GRN,0
+Andrew,EMONROE,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,EMONROE,State Auditor,,Don Fitz,GRN,0
+Andrew,EMONROE,State Auditor,,Jacob Luetkemeyer,CST,0
+Andrew,WMONROE,,,Registered Voters,,345
+Andrew,WMONROE,,,Ballots Cast,,147
+Andrew,WMONROE,,,,Non-Partisan,1
+Andrew,WMONROE,,,,REP,127
+Andrew,WMONROE,,,,DEM,19
+Andrew,WMONROE,,,,LIB,0
+Andrew,WMONROE,,,,GRN,0
+Andrew,WMONROE,,,,CST,0
+Andrew,WMONROE,U.S. Senate,,Tony Monetti,REP,13
+Andrew,WMONROE,U.S. Senate,,Austin Petersen,REP,8
+Andrew,WMONROE,U.S. Senate,,Josh Hawley,REP,61
+Andrew,WMONROE,U.S. Senate,,Fred Ryman,REP,3
+Andrew,WMONROE,U.S. Senate,,Christina Smith,REP,7
+Andrew,WMONROE,U.S. Senate,,Kristi Nichols,REP,6
+Andrew,WMONROE,U.S. Senate,,Bradley Krembs,REP,0
+Andrew,WMONROE,U.S. Senate,,Ken Patterson,REP,7
+Andrew,WMONROE,U.S. Senate,,Brian G. Hagg,REP,2
+Andrew,WMONROE,U.S. Senate,,Courtland Sykes,REP,0
+Andrew,WMONROE,U.S. Senate,,Peter Pfeifer,REP,2
+Andrew,WMONROE,State Auditor,,Kevin M. Roach,REP,28
+Andrew,WMONROE,State Auditor,,David Wasinger,REP,20
+Andrew,WMONROE,State Auditor,,Paul Curtman,REP,10
+Andrew,WMONROE,State Auditor,,Saundra McDowell,REP,32
+Andrew,WMONROE,U.S. House,6,Sam Graves,REP,106
+Andrew,WMONROE,State Senate,12,Dan Hegeman,REP,110
+Andrew,WMONROE,State House,9,Sheila Solon,REP,33
+Andrew,WMONROE,State House,9,Tina Goodrick,REP,4
+Andrew,WMONROE,State House,9,Christopher Evans,REP,20
+Andrew,WMONROE,State House,9,Mik Chester,REP,56
+Andrew,WMONROE,U.S. Senate,,Carla (Coffee) Wright,DEM,0
+Andrew,WMONROE,U.S. Senate,,Angelica Earl,DEM,0
+Andrew,WMONROE,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Andrew,WMONROE,U.S. Senate,,John Hogan,DEM,1
+Andrew,WMONROE,U.S. Senate,,Travis Gonzalez,DEM,0
+Andrew,WMONROE,U.S. Senate,,David Faust,DEM,0
+Andrew,WMONROE,U.S. Senate,,Claire McCaskill,DEM,18
+Andrew,WMONROE,State Auditor,,Nicole Galloway,DEM,15
+Andrew,WMONROE,U.S. House,6,Winston Apple,DEM,4
+Andrew,WMONROE,U.S. House,6,Henry Robert Martin,DEM,4
+Andrew,WMONROE,U.S. House,6,Ed Andres,DEM,9
+Andrew,WMONROE,State Senate,12,Terry Richard,DEM,14
+Andrew,WMONROE,State House,9,Bob Bergland,DEM,15
+Andrew,WMONROE,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,WMONROE,State Auditor,,Sean O'Toole,LIB,0
+Andrew,WMONROE,U.S. House,6,Dan Hogan,LIB,0
+Andrew,WMONROE,U.S. Senate,,Jo Crain,GRN,0
+Andrew,WMONROE,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,WMONROE,State Auditor,,Don Fitz,GRN,0
+Andrew,WMONROE,State Auditor,,Jacob Luetkemeyer,CST,0
+Andrew,ABSENTEE,,,Registered Voters,,0
+Andrew,ABSENTEE,,,Ballots Cast,,280
+Andrew,ABSENTEE,,,,Non-Partisan,3
+Andrew,ABSENTEE,,,,REP,200
+Andrew,ABSENTEE,,,,DEM,77
+Andrew,ABSENTEE,,,,LIB,0
+Andrew,ABSENTEE,,,,GRN,0
+Andrew,ABSENTEE,,,,CST,0
+Andrew,ABSENTEE,U.S. Senate,,Tony Monetti,REP,16
+Andrew,ABSENTEE,U.S. Senate,,Austin Petersen,REP,9
+Andrew,ABSENTEE,U.S. Senate,,Josh Hawley,REP,115
+Andrew,ABSENTEE,U.S. Senate,,Fred Ryman,REP,1
+Andrew,ABSENTEE,U.S. Senate,,Christina Smith,REP,8
+Andrew,ABSENTEE,U.S. Senate,,Kristi Nichols,REP,14
+Andrew,ABSENTEE,U.S. Senate,,Bradley Krembs,REP,1
+Andrew,ABSENTEE,U.S. Senate,,Ken Patterson,REP,5
+Andrew,ABSENTEE,U.S. Senate,,Brian G. Hagg,REP,2
+Andrew,ABSENTEE,U.S. Senate,,Courtland Sykes,REP,3
+Andrew,ABSENTEE,U.S. Senate,,Peter Pfeifer,REP,4
+Andrew,ABSENTEE,State Auditor,,Kevin M. Roach,REP,45
+Andrew,ABSENTEE,State Auditor,,David Wasinger,REP,26
+Andrew,ABSENTEE,State Auditor,,Paul Curtman,REP,13
+Andrew,ABSENTEE,State Auditor,,Saundra McDowell,REP,63
+Andrew,ABSENTEE,U.S. House,6,Sam Graves,REP,165
+Andrew,ABSENTEE,State Senate,12,Dan Hegeman,REP,170
+Andrew,ABSENTEE,State House,9,Sheila Solon,REP,63
+Andrew,ABSENTEE,State House,9,Tina Goodrick,REP,10
+Andrew,ABSENTEE,State House,9,Christopher Evans,REP,30
+Andrew,ABSENTEE,State House,9,Mik Chester,REP,74
+Andrew,ABSENTEE,U.S. Senate,,Carla (Coffee) Wright,DEM,3
+Andrew,ABSENTEE,U.S. Senate,,Angelica Earl,DEM,3
+Andrew,ABSENTEE,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Andrew,ABSENTEE,U.S. Senate,,John Hogan,DEM,2
+Andrew,ABSENTEE,U.S. Senate,,Travis Gonzalez,DEM,1
+Andrew,ABSENTEE,U.S. Senate,,David Faust,DEM,1
+Andrew,ABSENTEE,U.S. Senate,,Claire McCaskill,DEM,67
+Andrew,ABSENTEE,State Auditor,,Nicole Galloway,DEM,64
+Andrew,ABSENTEE,U.S. House,6,Winston Apple,DEM,16
+Andrew,ABSENTEE,U.S. House,6,Henry Robert Martin,DEM,25
+Andrew,ABSENTEE,U.S. House,6,Ed Andres,DEM,30
+Andrew,ABSENTEE,State Senate,12,Terry Richard,DEM,64
+Andrew,ABSENTEE,State House,9,Bob Bergland,DEM,65
+Andrew,ABSENTEE,U.S. Senate,,Japheth Campbell,LIB,0
+Andrew,ABSENTEE,State Auditor,,Sean O'Toole,LIB,0
+Andrew,ABSENTEE,U.S. House,6,Dan Hogan,LIB,0
+Andrew,ABSENTEE,U.S. Senate,,Jo Crain,GRN,0
+Andrew,ABSENTEE,U.S. Senate,,Jerome Bauer,GRN,0
+Andrew,ABSENTEE,State Auditor,,Don Fitz,GRN,0
+Andrew,ABSENTEE,State Auditor,,Jacob Luetkemeyer,CST,0
