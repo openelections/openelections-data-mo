@@ -1,17 +1,281 @@
 county,precinct,office,district,candidate,party,votes
 Phelps,Doolittle Ward 1,,,Registered Voters,,950
+Phelps,Jerome,,,Registered Voters,,277
+Phelps,Newburg Ward 1,,,Registered Voters,,548
+Phelps,Edgar Springs North,,,Registered Voters,,1447
+Phelps,Dawson,,,Registered Voters,,2492
+Phelps,Dillon Central,,,Registered Voters,,2176
+Phelps,Dillon North,,,Registered Voters,,1307
+Phelps,Dillon South,,,Registered Voters,,1018
+Phelps,Cold Springs East,,,Registered Voters,,529
+Phelps,Cold Springs West,,,Registered Voters,,1105
+Phelps,Meramec North & South,,,Registered Voters,,2365
+Phelps,Miller East,,,Registered Voters,,2483
+Phelps,Rolla Ward 1,,,Registered Voters,,1809
+Phelps,Rolla Ward 2,,,Registered Voters,,1940
+Phelps,Rolla Ward 3,,,Registered Voters,,2067
+Phelps,Rolla Ward 4,,,Registered Voters,,2398
+Phelps,Rolla Ward 5,,,Registered Voters,,1541
+Phelps,Rolla Ward 6,,,Registered Voters,,1056
+Phelps,Rolla Outside South,,,Registered Voters,,1024
+Phelps,Federal,,,Registered Voters,,0
+Phelps,Absentee,,,Registered Voters,,0
 Phelps,Doolittle Ward 1,,,Ballots Cast,,306
-Phelps,Doolittle Ward 1,U.S. Senate,,Carla (Coffee) Wright,DEM,1
+Phelps,Jerome,,,Ballots Cast,,89
+Phelps,Newburg Ward 1,,,Ballots Cast,,142
+Phelps,Edgar Springs North,,,Ballots Cast,,492
+Phelps,Dawson,,,Ballots Cast,,750
+Phelps,Dillon Central,,,Ballots Cast,,906
+Phelps,Dillon North,,,Ballots Cast,,430
+Phelps,Dillon South,,,Ballots Cast,,443
+Phelps,Cold Springs East,,,Ballots Cast,,225
+Phelps,Cold Springs West,,,Ballots Cast,,416
+Phelps,Meramec North & South,,,Ballots Cast,,772
+Phelps,Miller East,,,Ballots Cast,,857
+Phelps,Rolla Ward 1,,,Ballots Cast,,292
+Phelps,Rolla Ward 2,,,Ballots Cast,,418
+Phelps,Rolla Ward 3,,,Ballots Cast,,690
+Phelps,Rolla Ward 4,,,Ballots Cast,,972
+Phelps,Rolla Ward 5,,,Ballots Cast,,336
+Phelps,Rolla Ward 6,,,Ballots Cast,,124
+Phelps,Rolla Outside South,,,Ballots Cast,,296
+Phelps,Federal,,,Ballots Cast,,2
+Phelps,Absentee,,,Ballots Cast,,509
+Phelps,Doolittle Ward 1,U.S. Senate,,Carla Coffee Wright,DEM,1
 Phelps,Doolittle Ward 1,U.S. Senate,,Angelica Earl,DEM,1
 Phelps,Doolittle Ward 1,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
 Phelps,Doolittle Ward 1,U.S. Senate,,John Hogan,DEM,2
 Phelps,Doolittle Ward 1,U.S. Senate,,Travis Gonzalez,DEM,0
 Phelps,Doolittle Ward 1,U.S. Senate,,David Faust,DEM,3
 Phelps,Doolittle Ward 1,U.S. Senate,,Claire McCaskill,DEM,55
+Phelps,Jerome,U.S. Senate,,Carla Coffee Wright,DEM,1
+Phelps,Jerome,U.S. Senate,,Angelica Earl,DEM,1
+Phelps,Jerome,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Jerome,U.S. Senate,,John Hogan,DEM,0
+Phelps,Jerome,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Jerome,U.S. Senate,,David Faust,DEM,3
+Phelps,Jerome,U.S. Senate,,Claire McCaskill,DEM,15
+Phelps,Newburg Ward 1,U.S. Senate,,Carla Coffee Wright,DEM,2
+Phelps,Newburg Ward 1,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Newburg Ward 1,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Newburg Ward 1,U.S. Senate,,John Hogan,DEM,3
+Phelps,Newburg Ward 1,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Newburg Ward 1,U.S. Senate,,David Faust,DEM,4
+Phelps,Newburg Ward 1,U.S. Senate,,Claire McCaskill,DEM,40
+Phelps,Edgar Springs North,U.S. Senate,,Carla Coffee Wright,DEM,4
+Phelps,Edgar Springs North,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Edgar Springs North,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Phelps,Edgar Springs North,U.S. Senate,,John Hogan,DEM,6
+Phelps,Edgar Springs North,U.S. Senate,,Travis Gonzalez,DEM,3
+Phelps,Edgar Springs North,U.S. Senate,,David Faust,DEM,4
+Phelps,Edgar Springs North,U.S. Senate,,Claire McCaskill,DEM,82
+Phelps,Dawson,U.S. Senate,,Carla Coffee Wright,DEM,6
+Phelps,Dawson,U.S. Senate,,Angelica Earl,DEM,7
+Phelps,Dawson,U.S. Senate,,Leonard Joseph Steinman II,DEM,4
+Phelps,Dawson,U.S. Senate,,John Hogan,DEM,4
+Phelps,Dawson,U.S. Senate,,Travis Gonzalez,DEM,2
+Phelps,Dawson,U.S. Senate,,David Faust,DEM,4
+Phelps,Dawson,U.S. Senate,,Claire McCaskill,DEM,132
+Phelps,Dillon Central,U.S. Senate,,Carla Coffee Wright,DEM,6
+Phelps,Dillon Central,U.S. Senate,,Angelica Earl,DEM,6
+Phelps,Dillon Central,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Dillon Central,U.S. Senate,,John Hogan,DEM,1
+Phelps,Dillon Central,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Dillon Central,U.S. Senate,,David Faust,DEM,4
+Phelps,Dillon Central,U.S. Senate,,Claire McCaskill,DEM,142
+Phelps,Dillon North,U.S. Senate,,Carla Coffee Wright,DEM,3
+Phelps,Dillon North,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Dillon North,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Dillon North,U.S. Senate,,John Hogan,DEM,0
+Phelps,Dillon North,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Dillon North,U.S. Senate,,David Faust,DEM,2
+Phelps,Dillon North,U.S. Senate,,Claire McCaskill,DEM,58
+Phelps,Dillon South,U.S. Senate,,Carla Coffee Wright,DEM,0
+Phelps,Dillon South,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Dillon South,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Dillon South,U.S. Senate,,John Hogan,DEM,0
+Phelps,Dillon South,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Dillon South,U.S. Senate,,David Faust,DEM,1
+Phelps,Dillon South,U.S. Senate,,Claire McCaskill,DEM,70
+Phelps,Cold Springs East,U.S. Senate,,Carla Coffee Wright,DEM,0
+Phelps,Cold Springs East,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Cold Springs East,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Phelps,Cold Springs East,U.S. Senate,,John Hogan,DEM,0
+Phelps,Cold Springs East,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Cold Springs East,U.S. Senate,,David Faust,DEM,2
+Phelps,Cold Springs East,U.S. Senate,,Claire McCaskill,DEM,27
+Phelps,Cold Springs West,U.S. Senate,,Carla Coffee Wright,DEM,6
+Phelps,Cold Springs West,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Cold Springs West,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Cold Springs West,U.S. Senate,,John Hogan,DEM,2
+Phelps,Cold Springs West,U.S. Senate,,Travis Gonzalez,DEM,1
+Phelps,Cold Springs West,U.S. Senate,,David Faust,DEM,4
+Phelps,Cold Springs West,U.S. Senate,,Claire McCaskill,DEM,50
+Phelps,Meramec North & South,U.S. Senate,,Carla Coffee Wright,DEM,12
+Phelps,Meramec North & South,U.S. Senate,,Angelica Earl,DEM,4
+Phelps,Meramec North & South,U.S. Senate,,Leonard Joseph Steinman II,DEM,3
+Phelps,Meramec North & South,U.S. Senate,,John Hogan,DEM,5
+Phelps,Meramec North & South,U.S. Senate,,Travis Gonzalez,DEM,2
+Phelps,Meramec North & South,U.S. Senate,,David Faust,DEM,3
+Phelps,Meramec North & South,U.S. Senate,,Claire McCaskill,DEM,143
+Phelps,Miller East,U.S. Senate,,Carla Coffee Wright,DEM,5
+Phelps,Miller East,U.S. Senate,,Angelica Earl,DEM,3
+Phelps,Miller East,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Phelps,Miller East,U.S. Senate,,John Hogan,DEM,1
+Phelps,Miller East,U.S. Senate,,Travis Gonzalez,DEM,5
+Phelps,Miller East,U.S. Senate,,David Faust,DEM,3
+Phelps,Miller East,U.S. Senate,,Claire McCaskill,DEM,125
+Phelps,Rolla Ward 1,U.S. Senate,,Carla Coffee Wright,DEM,6
+Phelps,Rolla Ward 1,U.S. Senate,,Angelica Earl,DEM,13
+Phelps,Rolla Ward 1,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Rolla Ward 1,U.S. Senate,,John Hogan,DEM,2
+Phelps,Rolla Ward 1,U.S. Senate,,Travis Gonzalez,DEM,1
+Phelps,Rolla Ward 1,U.S. Senate,,David Faust,DEM,0
+Phelps,Rolla Ward 1,U.S. Senate,,Claire McCaskill,DEM,80
+Phelps,Rolla Ward 2,U.S. Senate,,Carla Coffee Wright,DEM,1
+Phelps,Rolla Ward 2,U.S. Senate,,Angelica Earl,DEM,1
+Phelps,Rolla Ward 2,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Rolla Ward 2,U.S. Senate,,John Hogan,DEM,1
+Phelps,Rolla Ward 2,U.S. Senate,,Travis Gonzalez,DEM,1
+Phelps,Rolla Ward 2,U.S. Senate,,David Faust,DEM,0
+Phelps,Rolla Ward 2,U.S. Senate,,Claire McCaskill,DEM,106
+Phelps,Rolla Ward 3,U.S. Senate,,Carla Coffee Wright,DEM,10
+Phelps,Rolla Ward 3,U.S. Senate,,Angelica Earl,DEM,5
+Phelps,Rolla Ward 3,U.S. Senate,,Leonard Joseph Steinman II,DEM,3
+Phelps,Rolla Ward 3,U.S. Senate,,John Hogan,DEM,0
+Phelps,Rolla Ward 3,U.S. Senate,,Travis Gonzalez,DEM,5
+Phelps,Rolla Ward 3,U.S. Senate,,David Faust,DEM,4
+Phelps,Rolla Ward 3,U.S. Senate,,Claire McCaskill,DEM,166
+Phelps,Rolla Ward 4,U.S. Senate,,Carla Coffee Wright,DEM,9
+Phelps,Rolla Ward 4,U.S. Senate,,Angelica Earl,DEM,3
+Phelps,Rolla Ward 4,U.S. Senate,,Leonard Joseph Steinman II,DEM,2
+Phelps,Rolla Ward 4,U.S. Senate,,John Hogan,DEM,4
+Phelps,Rolla Ward 4,U.S. Senate,,Travis Gonzalez,DEM,1
+Phelps,Rolla Ward 4,U.S. Senate,,David Faust,DEM,4
+Phelps,Rolla Ward 4,U.S. Senate,,Claire McCaskill,DEM,184
+Phelps,Rolla Ward 5,U.S. Senate,,Carla Coffee Wright,DEM,7
+Phelps,Rolla Ward 5,U.S. Senate,,Angelica Earl,DEM,4
+Phelps,Rolla Ward 5,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Rolla Ward 5,U.S. Senate,,John Hogan,DEM,2
+Phelps,Rolla Ward 5,U.S. Senate,,Travis Gonzalez,DEM,2
+Phelps,Rolla Ward 5,U.S. Senate,,David Faust,DEM,3
+Phelps,Rolla Ward 5,U.S. Senate,,Claire McCaskill,DEM,72
+Phelps,Rolla Ward 6,U.S. Senate,,Carla Coffee Wright,DEM,0
+Phelps,Rolla Ward 6,U.S. Senate,,Angelica Earl,DEM,2
+Phelps,Rolla Ward 6,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Rolla Ward 6,U.S. Senate,,John Hogan,DEM,0
+Phelps,Rolla Ward 6,U.S. Senate,,Travis Gonzalez,DEM,1
+Phelps,Rolla Ward 6,U.S. Senate,,David Faust,DEM,1
+Phelps,Rolla Ward 6,U.S. Senate,,Claire McCaskill,DEM,34
+Phelps,Rolla Outside South,U.S. Senate,,Carla Coffee Wright,DEM,1
+Phelps,Rolla Outside South,U.S. Senate,,Angelica Earl,DEM,1
+Phelps,Rolla Outside South,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Rolla Outside South,U.S. Senate,,John Hogan,DEM,0
+Phelps,Rolla Outside South,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Rolla Outside South,U.S. Senate,,David Faust,DEM,4
+Phelps,Rolla Outside South,U.S. Senate,,Claire McCaskill,DEM,55
+Phelps,Federal,U.S. Senate,,Carla Coffee Wright,DEM,0
+Phelps,Federal,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Federal,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Phelps,Federal,U.S. Senate,,John Hogan,DEM,0
+Phelps,Federal,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Federal,U.S. Senate,,David Faust,DEM,0
+Phelps,Federal,U.S. Senate,,Claire McCaskill,DEM,0
+Phelps,Absentee,U.S. Senate,,Carla Coffee Wright,DEM,1
+Phelps,Absentee,U.S. Senate,,Angelica Earl,DEM,0
+Phelps,Absentee,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Phelps,Absentee,U.S. Senate,,John Hogan,DEM,3
+Phelps,Absentee,U.S. Senate,,Travis Gonzalez,DEM,0
+Phelps,Absentee,U.S. Senate,,David Faust,DEM,4
+Phelps,Absentee,U.S. Senate,,Claire McCaskill,DEM,128
 Phelps,Doolittle Ward 1,State Auditor,,Nicole Galloway,DEM,57
+Phelps,Jerome,State Auditor,,Nicole Galloway,DEM,20
+Phelps,Newburg Ward 1,State Auditor,,Nicole Galloway,DEM,47
+Phelps,Edgar Springs North,State Auditor,,Nicole Galloway,DEM,93
+Phelps,Dawson,State Auditor,,Nicole Galloway,DEM,142
+Phelps,Dillon Central,State Auditor,,Nicole Galloway,DEM,143
+Phelps,Dillon North,State Auditor,,Nicole Galloway,DEM,58
+Phelps,Dillon South,State Auditor,,Nicole Galloway,DEM,68
+Phelps,Cold Springs East,State Auditor,,Nicole Galloway,DEM,29
+Phelps,Cold Springs West,State Auditor,,Nicole Galloway,DEM,58
+Phelps,Meramec North & South,State Auditor,,Nicole Galloway,DEM,146
+Phelps,Miller East,State Auditor,,Nicole Galloway,DEM,128
+Phelps,Rolla Ward 1,State Auditor,,Nicole Galloway,DEM,93
+Phelps,Rolla Ward 2,State Auditor,,Nicole Galloway,DEM,103
+Phelps,Rolla Ward 3,State Auditor,,Nicole Galloway,DEM,178
+Phelps,Rolla Ward 4,State Auditor,,Nicole Galloway,DEM,190
+Phelps,Rolla Ward 5,State Auditor,,Nicole Galloway,DEM,81
+Phelps,Rolla Ward 6,State Auditor,,Nicole Galloway,DEM,37
+Phelps,Rolla Outside South,State Auditor,,Nicole Galloway,DEM,55
+Phelps,Federal,State Auditor,,Nicole Galloway,DEM,0
+Phelps,Absentee,State Auditor,,Nicole Galloway,DEM,120
 Phelps,Doolittle Ward 1,U.S. House,8,Kathy Ellis,DEM,54
+Phelps,Jerome,U.S. House,8,Kathy Ellis,DEM,21
+Phelps,Newburg Ward 1,U.S. House,8,Kathy Ellis,DEM,46
+Phelps,Edgar Springs North,U.S. House,8,Kathy Ellis,DEM,88
+Phelps,Dawson,U.S. House,8,Kathy Ellis,DEM,146
+Phelps,Dillon Central,U.S. House,8,Kathy Ellis,DEM,146
+Phelps,Dillon North,U.S. House,8,Kathy Ellis,DEM,61
+Phelps,Dillon South,U.S. House,8,Kathy Ellis,DEM,68
+Phelps,Cold Springs East,U.S. House,8,Kathy Ellis,DEM,28
+Phelps,Cold Springs West,U.S. House,8,Kathy Ellis,DEM,60
+Phelps,Meramec North & South,U.S. House,8,Kathy Ellis,DEM,146
+Phelps,Miller East,U.S. House,8,Kathy Ellis,DEM,129
+Phelps,Rolla Ward 1,U.S. House,8,Kathy Ellis,DEM,94
+Phelps,Rolla Ward 2,U.S. House,8,Kathy Ellis,DEM,103
+Phelps,Rolla Ward 3,U.S. House,8,Kathy Ellis,DEM,178
+Phelps,Rolla Ward 4,U.S. House,8,Kathy Ellis,DEM,190
+Phelps,Rolla Ward 5,U.S. House,8,Kathy Ellis,DEM,81
+Phelps,Rolla Ward 6,U.S. House,8,Kathy Ellis,DEM,36
+Phelps,Rolla Outside South,U.S. House,8,Kathy Ellis,DEM,58
+Phelps,Federal,U.S. House,8,Kathy Ellis,DEM,0
+Phelps,Absentee,U.S. House,8,Kathy Ellis,DEM,124
 Phelps,Doolittle Ward 1,State Senate,16,Ryan Dillon,DEM,55
+Phelps,Jerome,State Senate,16,Ryan Dillon,DEM,21
+Phelps,Newburg Ward 1,State Senate,16,Ryan Dillon,DEM,46
+Phelps,Edgar Springs North,State Senate,16,Ryan Dillon,DEM,87
+Phelps,Dawson,State Senate,16,Ryan Dillon,DEM,143
+Phelps,Dillon Central,State Senate,16,Ryan Dillon,DEM,145
+Phelps,Dillon North,State Senate,16,Ryan Dillon,DEM,62
+Phelps,Dillon South,State Senate,16,Ryan Dillon,DEM,70
+Phelps,Cold Springs East,State Senate,16,Ryan Dillon,DEM,28
+Phelps,Cold Springs West,State Senate,16,Ryan Dillon,DEM,59
+Phelps,Meramec North & South,State Senate,16,Ryan Dillon,DEM,147
+Phelps,Miller East,State Senate,16,Ryan Dillon,DEM,131
+Phelps,Rolla Ward 1,State Senate,16,Ryan Dillon,DEM,95
+Phelps,Rolla Ward 2,State Senate,16,Ryan Dillon,DEM,103
+Phelps,Rolla Ward 3,State Senate,16,Ryan Dillon,DEM,176
+Phelps,Rolla Ward 4,State Senate,16,Ryan Dillon,DEM,189
+Phelps,Rolla Ward 5,State Senate,16,Ryan Dillon,DEM,78
+Phelps,Rolla Ward 6,State Senate,16,Ryan Dillon,DEM,37
+Phelps,Rolla Outside South,State Senate,16,Ryan Dillon,DEM,59
+Phelps,Federal,State Senate,16,Ryan Dillon,DEM,0
+Phelps,Absentee,State Senate,16,Ryan Dillon,DEM,122
+Phelps,Dillon North,State House,62,Ashley D. Fajkowski,DEM,58
+Phelps,Miller East,State House,62,Ashley D. Fajkowski,DEM,97
+Phelps,Federal,State House,62,Ashley D. Fajkowski,DEM,0
+Phelps,Absentee,State House,62,Ashley D. Fajkowski,DEM,12
+Phelps,Dawson,State House,120,Theresa Schmitt,DEM,143
+Phelps,Dillon Central,State House,120,Theresa Schmitt,DEM,144
+Phelps,Dillon South,State House,120,Theresa Schmitt,DEM,69
+Phelps,Cold Springs East,State House,120,Theresa Schmitt,DEM,29
+Phelps,Meramec North & South,State House,120,Theresa Schmitt,DEM,145
+Phelps,Federal,State House,120,Theresa Schmitt,DEM,0
+Phelps,Absentee,State House,120,Theresa Schmitt,DEM,31
 Phelps,Doolittle Ward 1,State House,121,Matt Heltz,DEM,47
+Phelps,Jerome,State House,121,Matt Heltz,DEM,19
+Phelps,Newburg Ward 1,State House,121,Matt Heltz,DEM,46
+Phelps,Cold Springs West,State House,121,Matt Heltz,DEM,59
+Phelps,Miller East,State House,121,Matt Heltz,DEM,25
+Phelps,Rolla Ward 1,State House,121,Matt Heltz,DEM,92
+Phelps,Rolla Ward 2,State House,121,Matt Heltz,DEM,99
+Phelps,Rolla Ward 3,State House,121,Matt Heltz,DEM,170
+Phelps,Rolla Ward 4,State House,121,Matt Heltz,DEM,184
+Phelps,Rolla Ward 5,State House,121,Matt Heltz,DEM,78
+Phelps,Rolla Ward 6,State House,121,Matt Heltz,DEM,37
+Phelps,Rolla Outside South,State House,121,Matt Heltz,DEM,56
+Phelps,Federal,State House,121,Matt Heltz,DEM,0
+Phelps,Absentee,State House,121,Matt Heltz,DEM,69
 Phelps,Doolittle Ward 1,U.S. Senate,,Tony Monetti,REP,14
 Phelps,Doolittle Ward 1,U.S. Senate,,Austin Petersen,REP,15
 Phelps,Doolittle Ward 1,U.S. Senate,,Josh Hawley,REP,132
@@ -23,37 +287,6 @@ Phelps,Doolittle Ward 1,U.S. Senate,,Ken Patterson,REP,8
 Phelps,Doolittle Ward 1,U.S. Senate,,Brian G. Hagg,REP,2
 Phelps,Doolittle Ward 1,U.S. Senate,,Courtland Sykes,REP,3
 Phelps,Doolittle Ward 1,U.S. Senate,,Peter Pfeifer,REP,4
-Phelps,Doolittle Ward 1,State Auditor,,Kevin M. Roach,REP,68
-Phelps,Doolittle Ward 1,State Auditor,,David Wasinger,REP,39
-Phelps,Doolittle Ward 1,State Auditor,,Paul Curtman,REP,24
-Phelps,Doolittle Ward 1,State Auditor,,Saundra McDowell,REP,49
-Phelps,Doolittle Ward 1,U.S. House,8,Jason smith,REP,199
-Phelps,Doolittle Ward 1,State Senate,16,Justin Dan Brown,REP,98
-Phelps,Doolittle Ward 1,State Senate,16,Diane Franklin,REP,40
-Phelps,Doolittle Ward 1,State Senate,16,Keith Frederick,REP,94
-Phelps,Doolittle Ward 1,State House,121,Don Mayhew,REP,97
-Phelps,Doolittle Ward 1,State House,121,Matt Miller,REP,84
-Phelps,Doolittle Ward 1,State House,121,Bruce Goodrich,REP,30
-Phelps,Doolittle Ward 1,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Doolittle Ward 1,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Doolittle Ward 1,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Doolittle Ward 1,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Doolittle Ward 1,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Doolittle Ward 1,State Auditor,,Don Fitz,GRN,0
-Phelps,Doolittle Ward 1,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Jerome,,,Registered Voters,,277
-Phelps,Jerome,,,Ballots Cast,,89
-Phelps,Jerome,U.S. Senate,,Carla (Coffee) Wright,DEM,1
-Phelps,Jerome,U.S. Senate,,Angelica Earl,DEM,1
-Phelps,Jerome,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Jerome,U.S. Senate,,John Hogan,DEM,0
-Phelps,Jerome,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Jerome,U.S. Senate,,David Faust,DEM,3
-Phelps,Jerome,U.S. Senate,,Claire McCaskill,DEM,15
-Phelps,Jerome,State Auditor,,Nicole Galloway,DEM,20
-Phelps,Jerome,U.S. House,8,Kathy Ellis,DEM,21
-Phelps,Jerome,State Senate,16,Ryan Dillon,DEM,21
-Phelps,Jerome,State House,121,Matt Heltz,DEM,19
 Phelps,Jerome,U.S. Senate,,Tony Monetti,REP,4
 Phelps,Jerome,U.S. Senate,,Austin Petersen,REP,5
 Phelps,Jerome,U.S. Senate,,Josh Hawley,REP,35
@@ -65,37 +298,6 @@ Phelps,Jerome,U.S. Senate,,Ken Patterson,REP,1
 Phelps,Jerome,U.S. Senate,,Brian G. Hagg,REP,1
 Phelps,Jerome,U.S. Senate,,Courtland Sykes,REP,1
 Phelps,Jerome,U.S. Senate,,Peter Pfeifer,REP,2
-Phelps,Jerome,State Auditor,,Kevin M. Roach,REP,18
-Phelps,Jerome,State Auditor,,David Wasinger,REP,11
-Phelps,Jerome,State Auditor,,Paul Curtman,REP,7
-Phelps,Jerome,State Auditor,,Saundra McDowell,REP,12
-Phelps,Jerome,U.S. House,8,Jason smith,REP,48
-Phelps,Jerome,State Senate,16,Justin Dan Brown,REP,34
-Phelps,Jerome,State Senate,16,Diane Franklin,REP,9
-Phelps,Jerome,State Senate,16,Keith Frederick,REP,11
-Phelps,Jerome,State House,121,Don Mayhew,REP,35
-Phelps,Jerome,State House,121,Matt Miller,REP,8
-Phelps,Jerome,State House,121,Bruce Goodrich,REP,8
-Phelps,Jerome,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Jerome,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Jerome,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Jerome,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Jerome,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Jerome,State Auditor,,Don Fitz,GRN,0
-Phelps,Jerome,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Newburg Ward 1,,,Registered Voters,,548
-Phelps,Newburg Ward 1,,,Ballots Cast,,142
-Phelps,Newburg Ward 1,U.S. Senate,,Carla (Coffee) Wright,DEM,2
-Phelps,Newburg Ward 1,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Newburg Ward 1,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Newburg Ward 1,U.S. Senate,,John Hogan,DEM,3
-Phelps,Newburg Ward 1,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Newburg Ward 1,U.S. Senate,,David Faust,DEM,4
-Phelps,Newburg Ward 1,U.S. Senate,,Claire McCaskill,DEM,40
-Phelps,Newburg Ward 1,State Auditor,,Nicole Galloway,DEM,47
-Phelps,Newburg Ward 1,U.S. House,8,Kathy Ellis,DEM,46
-Phelps,Newburg Ward 1,State Senate,16,Ryan Dillon,DEM,46
-Phelps,Newburg Ward 1,State House,121,Matt Heltz,DEM,46
 Phelps,Newburg Ward 1,U.S. Senate,,Tony Monetti,REP,4
 Phelps,Newburg Ward 1,U.S. Senate,,Austin Petersen,REP,10
 Phelps,Newburg Ward 1,U.S. Senate,,Josh Hawley,REP,41
@@ -107,36 +309,6 @@ Phelps,Newburg Ward 1,U.S. Senate,,Ken Patterson,REP,12
 Phelps,Newburg Ward 1,U.S. Senate,,Brian G. Hagg,REP,2
 Phelps,Newburg Ward 1,U.S. Senate,,Courtland Sykes,REP,2
 Phelps,Newburg Ward 1,U.S. Senate,,Peter Pfeifer,REP,1
-Phelps,Newburg Ward 1,State Auditor,,Kevin M. Roach,REP,30
-Phelps,Newburg Ward 1,State Auditor,,David Wasinger,REP,22
-Phelps,Newburg Ward 1,State Auditor,,Paul Curtman,REP,8
-Phelps,Newburg Ward 1,State Auditor,,Saundra McDowell,REP,19
-Phelps,Newburg Ward 1,U.S. House,8,Jason smith,REP,84
-Phelps,Newburg Ward 1,State Senate,16,Justin Dan Brown,REP,35
-Phelps,Newburg Ward 1,State Senate,16,Diane Franklin,REP,10
-Phelps,Newburg Ward 1,State Senate,16,Keith Frederick,REP,41
-Phelps,Newburg Ward 1,State House,121,Don Mayhew,REP,41
-Phelps,Newburg Ward 1,State House,121,Matt Miller,REP,23
-Phelps,Newburg Ward 1,State House,121,Bruce Goodrich,REP,19
-Phelps,Newburg Ward 1,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Newburg Ward 1,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Newburg Ward 1,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Newburg Ward 1,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Newburg Ward 1,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Newburg Ward 1,State Auditor,,Don Fitz,GRN,0
-Phelps,Newburg Ward 1,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Edgar Springs North,,,Registered Voters,,1447
-Phelps,Edgar Springs North,,,Ballots Cast,,492
-Phelps,Edgar Springs North,U.S. Senate,,Carla (Coffee) Wright,DEM,4
-Phelps,Edgar Springs North,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Edgar Springs North,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
-Phelps,Edgar Springs North,U.S. Senate,,John Hogan,DEM,6
-Phelps,Edgar Springs North,U.S. Senate,,Travis Gonzalez,DEM,3
-Phelps,Edgar Springs North,U.S. Senate,,David Faust,DEM,4
-Phelps,Edgar Springs North,U.S. Senate,,Claire McCaskill,DEM,82
-Phelps,Edgar Springs North,State Auditor,,Nicole Galloway,DEM,93
-Phelps,Edgar Springs North,U.S. House,8,Kathy Ellis,DEM,88
-Phelps,Edgar Springs North,State Senate,16,Ryan Dillon,DEM,87
 Phelps,Edgar Springs North,U.S. Senate,,Tony Monetti,REP,18
 Phelps,Edgar Springs North,U.S. Senate,,Austin Petersen,REP,24
 Phelps,Edgar Springs North,U.S. Senate,,Josh Hawley,REP,211
@@ -148,35 +320,6 @@ Phelps,Edgar Springs North,U.S. Senate,,Ken Patterson,REP,13
 Phelps,Edgar Springs North,U.S. Senate,,Brian G. Hagg,REP,7
 Phelps,Edgar Springs North,U.S. Senate,,Courtland Sykes,REP,9
 Phelps,Edgar Springs North,U.S. Senate,,Peter Pfeifer,REP,12
-Phelps,Edgar Springs North,State Auditor,,Kevin M. Roach,REP,111
-Phelps,Edgar Springs North,State Auditor,,David Wasinger,REP,60
-Phelps,Edgar Springs North,State Auditor,,Paul Curtman,REP,61
-Phelps,Edgar Springs North,State Auditor,,Saundra McDowell,REP,94
-Phelps,Edgar Springs North,U.S. House,8,Jason smith,REP,329
-Phelps,Edgar Springs North,State Senate,16,Justin Dan Brown,REP,187
-Phelps,Edgar Springs North,State Senate,16,Diane Franklin,REP,53
-Phelps,Edgar Springs North,State Senate,16,Keith Frederick,REP,120
-Phelps,Edgar Springs North,State House,142,Robert Ross,REP,311
-Phelps,Edgar Springs North,U.S. Senate,,Japheth Campbell,LIB,1
-Phelps,Edgar Springs North,State Auditor,,Sean O'Toole,LIB,1
-Phelps,Edgar Springs North,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Edgar Springs North,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Edgar Springs North,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Edgar Springs North,State Auditor,,Don Fitz,GRN,0
-Phelps,Edgar Springs North,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Dawson,,,Registered Voters,,2492
-Phelps,Dawson,,,Ballots Cast,,750
-Phelps,Dawson,U.S. Senate,,Carla (Coffee) Wright,DEM,6
-Phelps,Dawson,U.S. Senate,,Angelica Earl,DEM,7
-Phelps,Dawson,U.S. Senate,,Leonard Joseph Steinman II,DEM,4
-Phelps,Dawson,U.S. Senate,,John Hogan,DEM,4
-Phelps,Dawson,U.S. Senate,,Travis Gonzalez,DEM,2
-Phelps,Dawson,U.S. Senate,,David Faust,DEM,4
-Phelps,Dawson,U.S. Senate,,Claire McCaskill,DEM,132
-Phelps,Dawson,State Auditor,,Nicole Galloway,DEM,142
-Phelps,Dawson,U.S. House,8,Kathy Ellis,DEM,146
-Phelps,Dawson,State Senate,16,Ryan Dillon,DEM,143
-Phelps,Dawson,State House,120,Theresa Schmitt,DEM,143
 Phelps,Dawson,U.S. Senate,,Tony Monetti,REP,52
 Phelps,Dawson,U.S. Senate,,Austin Petersen,REP,35
 Phelps,Dawson,U.S. Senate,,Josh Hawley,REP,298
@@ -188,35 +331,6 @@ Phelps,Dawson,U.S. Senate,,Ken Patterson,REP,11
 Phelps,Dawson,U.S. Senate,,Brian G. Hagg,REP,6
 Phelps,Dawson,U.S. Senate,,Courtland Sykes,REP,17
 Phelps,Dawson,U.S. Senate,,Peter Pfeifer,REP,15
-Phelps,Dawson,State Auditor,,Kevin M. Roach,REP,155
-Phelps,Dawson,State Auditor,,David Wasinger,REP,107
-Phelps,Dawson,State Auditor,,Paul Curtman,REP,67
-Phelps,Dawson,State Auditor,,Saundra McDowell,REP,154
-Phelps,Dawson,U.S. House,8,Jason smith,REP,518
-Phelps,Dawson,State Senate,16,Justin Dan Brown,REP,280
-Phelps,Dawson,State Senate,16,Diane Franklin,REP,107
-Phelps,Dawson,State Senate,16,Keith Frederick,REP,168
-Phelps,Dawson,State House,120,Jason Chipman,REP,500
-Phelps,Dawson,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Dawson,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Dawson,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Dawson,U.S. Senate,,Jo Crain,GRN,2
-Phelps,Dawson,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Dawson,State Auditor,,Don Fitz,GRN,2
-Phelps,Dawson,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Dillon Central,,,Registered Voters,,2176
-Phelps,Dillon Central,,,Ballots Cast,,906
-Phelps,Dillon Central,U.S. Senate,,Carla (Coffee) Wright,DEM,6
-Phelps,Dillon Central,U.S. Senate,,Angelica Earl,DEM,6
-Phelps,Dillon Central,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Dillon Central,U.S. Senate,,John Hogan,DEM,1
-Phelps,Dillon Central,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Dillon Central,U.S. Senate,,David Faust,DEM,4
-Phelps,Dillon Central,U.S. Senate,,Claire McCaskill,DEM,142
-Phelps,Dillon Central,State Auditor,,Nicole Galloway,DEM,143
-Phelps,Dillon Central,U.S. House,8,Kathy Ellis,DEM,146
-Phelps,Dillon Central,State Senate,16,Ryan Dillon,DEM,145
-Phelps,Dillon Central,State House,120,Theresa Schmitt,DEM,144
 Phelps,Dillon Central,U.S. Senate,,Tony Monetti,REP,42
 Phelps,Dillon Central,U.S. Senate,,Austin Petersen,REP,52
 Phelps,Dillon Central,U.S. Senate,,Josh Hawley,REP,418
@@ -228,35 +342,6 @@ Phelps,Dillon Central,U.S. Senate,,Ken Patterson,REP,27
 Phelps,Dillon Central,U.S. Senate,,Brian G. Hagg,REP,4
 Phelps,Dillon Central,U.S. Senate,,Courtland Sykes,REP,30
 Phelps,Dillon Central,U.S. Senate,,Peter Pfeifer,REP,14
-Phelps,Dillon Central,State Auditor,,Kevin M. Roach,REP,164
-Phelps,Dillon Central,State Auditor,,David Wasinger,REP,169
-Phelps,Dillon Central,State Auditor,,Paul Curtman,REP,75
-Phelps,Dillon Central,State Auditor,,Saundra McDowell,REP,201
-Phelps,Dillon Central,U.S. House,8,Jason smith,REP,646
-Phelps,Dillon Central,State Senate,16,Justin Dan Brown,REP,312
-Phelps,Dillon Central,State Senate,16,Diane Franklin,REP,98
-Phelps,Dillon Central,State Senate,16,Keith Frederick,REP,315
-Phelps,Dillon Central,State House,120,Jason Chipman,REP,624
-Phelps,Dillon Central,U.S. Senate,,Japheth Campbell,LIB,2
-Phelps,Dillon Central,State Auditor,,Sean O'Toole,LIB,2
-Phelps,Dillon Central,U.S. House,8,Jonathan L. Shell,LIB,2
-Phelps,Dillon Central,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Dillon Central,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Dillon Central,State Auditor,,Don Fitz,GRN,0
-Phelps,Dillon Central,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Dillon North,,,Registered Voters,,1307
-Phelps,Dillon North,,,Ballots Cast,,430
-Phelps,Dillon North,U.S. Senate,,Carla (Coffee) Wright,DEM,3
-Phelps,Dillon North,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Dillon North,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Dillon North,U.S. Senate,,John Hogan,DEM,0
-Phelps,Dillon North,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Dillon North,U.S. Senate,,David Faust,DEM,2
-Phelps,Dillon North,U.S. Senate,,Claire McCaskill,DEM,58
-Phelps,Dillon North,State Auditor,,Nicole Galloway,DEM,58
-Phelps,Dillon North,U.S. House,8,Kathy Ellis,DEM,61
-Phelps,Dillon North,State Senate,16,Ryan Dillon,DEM,62
-Phelps,Dillon North,State House,62,Ashley D. Fajkowski,DEM,58
 Phelps,Dillon North,U.S. Senate,,Tony Monetti,REP,18
 Phelps,Dillon North,U.S. Senate,,Austin Petersen,REP,36
 Phelps,Dillon North,U.S. Senate,,Josh Hawley,REP,196
@@ -268,35 +353,6 @@ Phelps,Dillon North,U.S. Senate,,Ken Patterson,REP,6
 Phelps,Dillon North,U.S. Senate,,Brian G. Hagg,REP,4
 Phelps,Dillon North,U.S. Senate,,Courtland Sykes,REP,2
 Phelps,Dillon North,U.S. Senate,,Peter Pfeifer,REP,8
-Phelps,Dillon North,State Auditor,,Kevin M. Roach,REP,102
-Phelps,Dillon North,State Auditor,,David Wasinger,REP,81
-Phelps,Dillon North,State Auditor,,Paul Curtman,REP,48
-Phelps,Dillon North,State Auditor,,Saundra McDowell,REP,83
-Phelps,Dillon North,U.S. House,8,Jason smith,REP,307
-Phelps,Dillon North,State Senate,16,Justin Dan Brown,REP,169
-Phelps,Dillon North,State Senate,16,Diane Franklin,REP,53
-Phelps,Dillon North,State Senate,16,Keith Frederick,REP,133
-Phelps,Dillon North,State House,62,Tom Hurst,REP,295
-Phelps,Dillon North,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Dillon North,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Dillon North,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Dillon North,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Dillon North,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Dillon North,State Auditor,,Don Fitz,GRN,0
-Phelps,Dillon North,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Dillon South,,,Registered Voters,,1018
-Phelps,Dillon South,,,Ballots Cast,,443
-Phelps,Dillon South,U.S. Senate,,Carla (Coffee) Wright,DEM,0
-Phelps,Dillon South,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Dillon South,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Dillon South,U.S. Senate,,John Hogan,DEM,0
-Phelps,Dillon South,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Dillon South,U.S. Senate,,David Faust,DEM,1
-Phelps,Dillon South,U.S. Senate,,Claire McCaskill,DEM,70
-Phelps,Dillon South,State Auditor,,Nicole Galloway,DEM,68
-Phelps,Dillon South,U.S. House,8,Kathy Ellis,DEM,68
-Phelps,Dillon South,State Senate,16,Ryan Dillon,DEM,70
-Phelps,Dillon South,State House,120,Theresa Schmitt,DEM,69
 Phelps,Dillon South,U.S. Senate,,Tony Monetti,REP,13
 Phelps,Dillon South,U.S. Senate,,Austin Petersen,REP,35
 Phelps,Dillon South,U.S. Senate,,Josh Hawley,REP,215
@@ -308,35 +364,6 @@ Phelps,Dillon South,U.S. Senate,,Ken Patterson,REP,12
 Phelps,Dillon South,U.S. Senate,,Brian G. Hagg,REP,1
 Phelps,Dillon South,U.S. Senate,,Courtland Sykes,REP,18
 Phelps,Dillon South,U.S. Senate,,Peter Pfeifer,REP,9
-Phelps,Dillon South,State Auditor,,Kevin M. Roach,REP,97
-Phelps,Dillon South,State Auditor,,David Wasinger,REP,66
-Phelps,Dillon South,State Auditor,,Paul Curtman,REP,38
-Phelps,Dillon South,State Auditor,,Saundra McDowell,REP,80
-Phelps,Dillon South,U.S. House,8,Jason smith,REP,322
-Phelps,Dillon South,State Senate,16,Justin Dan Brown,REP,155
-Phelps,Dillon South,State Senate,16,Diane Franklin,REP,47
-Phelps,Dillon South,State Senate,16,Keith Frederick,REP,156
-Phelps,Dillon South,State House,120,Jason Chipman,REP,301
-Phelps,Dillon South,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Dillon South,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Dillon South,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Dillon South,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Dillon South,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Dillon South,State Auditor,,Don Fitz,GRN,0
-Phelps,Dillon South,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Cold Springs East,,,Registered Voters,,529
-Phelps,Cold Springs East,,,Ballots Cast,,225
-Phelps,Cold Springs East,U.S. Senate,,Carla (Coffee) Wright,DEM,0
-Phelps,Cold Springs East,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Cold Springs East,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
-Phelps,Cold Springs East,U.S. Senate,,John Hogan,DEM,0
-Phelps,Cold Springs East,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Cold Springs East,U.S. Senate,,David Faust,DEM,2
-Phelps,Cold Springs East,U.S. Senate,,Claire McCaskill,DEM,27
-Phelps,Cold Springs East,State Auditor,,Nicole Galloway,DEM,29
-Phelps,Cold Springs East,U.S. House,8,Kathy Ellis,DEM,28
-Phelps,Cold Springs East,State Senate,16,Ryan Dillon,DEM,28
-Phelps,Cold Springs East,State House,120,Theresa Schmitt,DEM,29
 Phelps,Cold Springs East,U.S. Senate,,Tony Monetti,REP,12
 Phelps,Cold Springs East,U.S. Senate,,Austin Petersen,REP,11
 Phelps,Cold Springs East,U.S. Senate,,Josh Hawley,REP,98
@@ -348,35 +375,6 @@ Phelps,Cold Springs East,U.S. Senate,,Ken Patterson,REP,4
 Phelps,Cold Springs East,U.S. Senate,,Brian G. Hagg,REP,0
 Phelps,Cold Springs East,U.S. Senate,,Courtland Sykes,REP,12
 Phelps,Cold Springs East,U.S. Senate,,Peter Pfeifer,REP,7
-Phelps,Cold Springs East,State Auditor,,Kevin M. Roach,REP,56
-Phelps,Cold Springs East,State Auditor,,David Wasinger,REP,42
-Phelps,Cold Springs East,State Auditor,,Paul Curtman,REP,19
-Phelps,Cold Springs East,State Auditor,,Saundra McDowell,REP,43
-Phelps,Cold Springs East,U.S. House,8,Jason smith,REP,176
-Phelps,Cold Springs East,State Senate,16,Justin Dan Brown,REP,91
-Phelps,Cold Springs East,State Senate,16,Diane Franklin,REP,33
-Phelps,Cold Springs East,State Senate,16,Keith Frederick,REP,68
-Phelps,Cold Springs East,State House,120,Jason Chipman,REP,166
-Phelps,Cold Springs East,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Cold Springs East,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Cold Springs East,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Cold Springs East,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Cold Springs East,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Cold Springs East,State Auditor,,Don Fitz,GRN,0
-Phelps,Cold Springs East,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Cold Springs West,,,Registered Voters,,1105
-Phelps,Cold Springs West,,,Ballots Cast,,416
-Phelps,Cold Springs West,U.S. Senate,,Carla (Coffee) Wright,DEM,6
-Phelps,Cold Springs West,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Cold Springs West,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Cold Springs West,U.S. Senate,,John Hogan,DEM,2
-Phelps,Cold Springs West,U.S. Senate,,Travis Gonzalez,DEM,1
-Phelps,Cold Springs West,U.S. Senate,,David Faust,DEM,4
-Phelps,Cold Springs West,U.S. Senate,,Claire McCaskill,DEM,50
-Phelps,Cold Springs West,State Auditor,,Nicole Galloway,DEM,58
-Phelps,Cold Springs West,U.S. House,8,Kathy Ellis,DEM,60
-Phelps,Cold Springs West,State Senate,16,Ryan Dillon,DEM,59
-Phelps,Cold Springs West,State House,121,Matt Heltz,DEM,59
 Phelps,Cold Springs West,U.S. Senate,,Tony Monetti,REP,22
 Phelps,Cold Springs West,U.S. Senate,,Austin Petersen,REP,18
 Phelps,Cold Springs West,U.S. Senate,,Josh Hawley,REP,195
@@ -388,37 +386,6 @@ Phelps,Cold Springs West,U.S. Senate,,Ken Patterson,REP,11
 Phelps,Cold Springs West,U.S. Senate,,Brian G. Hagg,REP,5
 Phelps,Cold Springs West,U.S. Senate,,Courtland Sykes,REP,11
 Phelps,Cold Springs West,U.S. Senate,,Peter Pfeifer,REP,5
-Phelps,Cold Springs West,State Auditor,,Kevin M. Roach,REP,82
-Phelps,Cold Springs West,State Auditor,,David Wasinger,REP,86
-Phelps,Cold Springs West,State Auditor,,Paul Curtman,REP,46
-Phelps,Cold Springs West,State Auditor,,Saundra McDowell,REP,83
-Phelps,Cold Springs West,U.S. House,8,Jason smith,REP,296
-Phelps,Cold Springs West,State Senate,16,Justin Dan Brown,REP,167
-Phelps,Cold Springs West,State Senate,16,Diane Franklin,REP,48
-Phelps,Cold Springs West,State Senate,16,Keith Frederick,REP,123
-Phelps,Cold Springs West,State House,121,Don Mayhew,REP,133
-Phelps,Cold Springs West,State House,121,Matt Miller,REP,128
-Phelps,Cold Springs West,State House,121,Bruce Goodrich,REP,50
-Phelps,Cold Springs West,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Cold Springs West,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Cold Springs West,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Cold Springs West,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Cold Springs West,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Cold Springs West,State Auditor,,Don Fitz,GRN,0
-Phelps,Cold Springs West,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Meramec North & South,,,Registered Voters,,2365
-Phelps,Meramec North & South,,,Ballots Cast,,772
-Phelps,Meramec North & South,U.S. Senate,,Carla (Coffee) Wright,DEM,12
-Phelps,Meramec North & South,U.S. Senate,,Angelica Earl,DEM,4
-Phelps,Meramec North & South,U.S. Senate,,Leonard Joseph Steinman II,DEM,3
-Phelps,Meramec North & South,U.S. Senate,,John Hogan,DEM,5
-Phelps,Meramec North & South,U.S. Senate,,Travis Gonzalez,DEM,2
-Phelps,Meramec North & South,U.S. Senate,,David Faust,DEM,3
-Phelps,Meramec North & South,U.S. Senate,,Claire McCaskill,DEM,143
-Phelps,Meramec North & South,State Auditor,,Nicole Galloway,DEM,146
-Phelps,Meramec North & South,U.S. House,8,Kathy Ellis,DEM,146
-Phelps,Meramec North & South,State Senate,16,Ryan Dillon,DEM,147
-Phelps,Meramec North & South,State House,120,Theresa Schmitt,DEM,145
 Phelps,Meramec North & South,U.S. Senate,,Tony Monetti,REP,48
 Phelps,Meramec North & South,U.S. Senate,,Austin Petersen,REP,31
 Phelps,Meramec North & South,U.S. Senate,,Josh Hawley,REP,307
@@ -430,36 +397,6 @@ Phelps,Meramec North & South,U.S. Senate,,Ken Patterson,REP,13
 Phelps,Meramec North & South,U.S. Senate,,Brian G. Hagg,REP,7
 Phelps,Meramec North & South,U.S. Senate,,Courtland Sykes,REP,14
 Phelps,Meramec North & South,U.S. Senate,,Peter Pfeifer,REP,12
-Phelps,Meramec North & South,State Auditor,,Kevin M. Roach,REP,142
-Phelps,Meramec North & South,State Auditor,,David Wasinger,REP,129
-Phelps,Meramec North & South,State Auditor,,Paul Curtman,REP,74
-Phelps,Meramec North & South,State Auditor,,Saundra McDowell,REP,158
-Phelps,Meramec North & South,U.S. House,8,Jason smith,REP,521
-Phelps,Meramec North & South,State Senate,16,Justin Dan Brown,REP,262
-Phelps,Meramec North & South,State Senate,16,Diane Franklin,REP,112
-Phelps,Meramec North & South,State Senate,16,Keith Frederick,REP,196
-Phelps,Meramec North & South,State House,120,Jason Chipman,REP,512
-Phelps,Meramec North & South,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Meramec North & South,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Meramec North & South,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Meramec North & South,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Meramec North & South,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Meramec North & South,State Auditor,,Don Fitz,GRN,0
-Phelps,Meramec North & South,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Miller East,,,Registered Voters,,2483
-Phelps,Miller East,,,Ballots Cast,,857
-Phelps,Miller East,U.S. Senate,,Carla (Coffee) Wright,DEM,5
-Phelps,Miller East,U.S. Senate,,Angelica Earl,DEM,3
-Phelps,Miller East,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
-Phelps,Miller East,U.S. Senate,,John Hogan,DEM,1
-Phelps,Miller East,U.S. Senate,,Travis Gonzalez,DEM,5
-Phelps,Miller East,U.S. Senate,,David Faust,DEM,3
-Phelps,Miller East,U.S. Senate,,Claire McCaskill,DEM,125
-Phelps,Miller East,State Auditor,,Nicole Galloway,DEM,128
-Phelps,Miller East,U.S. House,8,Kathy Ellis,DEM,129
-Phelps,Miller East,State Senate,16,Ryan Dillon,DEM,131
-Phelps,Miller East,State House,62,Ashley D. Fajkowski,DEM,97
-Phelps,Miller East,State House,121,Matt Heltz,DEM,25
 Phelps,Miller East,U.S. Senate,,Tony Monetti,REP,39
 Phelps,Miller East,U.S. Senate,,Austin Petersen,REP,48
 Phelps,Miller East,U.S. Senate,,Josh Hawley,REP,387
@@ -471,38 +408,6 @@ Phelps,Miller East,U.S. Senate,,Ken Patterson,REP,21
 Phelps,Miller East,U.S. Senate,,Brian G. Hagg,REP,9
 Phelps,Miller East,U.S. Senate,,Courtland Sykes,REP,19
 Phelps,Miller East,U.S. Senate,,Peter Pfeifer,REP,16
-Phelps,Miller East,State Auditor,,Kevin M. Roach,REP,170
-Phelps,Miller East,State Auditor,,David Wasinger,REP,123
-Phelps,Miller East,State Auditor,,Paul Curtman,REP,88
-Phelps,Miller East,State Auditor,,Saundra McDowell,REP,194
-Phelps,Miller East,U.S. House,8,Jason smith,REP,592
-Phelps,Miller East,State Senate,16,Justin Dan Brown,REP,338
-Phelps,Miller East,State Senate,16,Diane Franklin,REP,95
-Phelps,Miller East,State Senate,16,Keith Frederick,REP,252
-Phelps,Miller East,State House,62,Tom Hurst,REP,416
-Phelps,Miller East,State House,121,Don Mayhew,REP,41
-Phelps,Miller East,State House,121,Matt Miller,REP,76
-Phelps,Miller East,State House,121,Bruce Goodrich,REP,32
-Phelps,Miller East,U.S. Senate,,Japheth Campbell,LIB,1
-Phelps,Miller East,State Auditor,,Sean O'Toole,LIB,1
-Phelps,Miller East,U.S. House,8,Jonathan L. Shell,LIB,1
-Phelps,Miller East,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Miller East,U.S. Senate,,Jerome Bauer,GRN,1
-Phelps,Miller East,State Auditor,,Don Fitz,GRN,1
-Phelps,Miller East,State Auditor,,Jacob Luetkemeyer,CST,1
-Phelps,Rolla Ward 1,,,Registered Voters,,1809
-Phelps,Rolla Ward 1,,,Ballots Cast,,292
-Phelps,Rolla Ward 1,U.S. Senate,,Carla (Coffee) Wright,DEM,6
-Phelps,Rolla Ward 1,U.S. Senate,,Angelica Earl,DEM,13
-Phelps,Rolla Ward 1,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Rolla Ward 1,U.S. Senate,,John Hogan,DEM,2
-Phelps,Rolla Ward 1,U.S. Senate,,Travis Gonzalez,DEM,1
-Phelps,Rolla Ward 1,U.S. Senate,,David Faust,DEM,0
-Phelps,Rolla Ward 1,U.S. Senate,,Claire McCaskill,DEM,80
-Phelps,Rolla Ward 1,State Auditor,,Nicole Galloway,DEM,93
-Phelps,Rolla Ward 1,U.S. House,8,Kathy Ellis,DEM,94
-Phelps,Rolla Ward 1,State Senate,16,Ryan Dillon,DEM,95
-Phelps,Rolla Ward 1,State House,121,Matt Heltz,DEM,92
 Phelps,Rolla Ward 1,U.S. Senate,,Tony Monetti,REP,9
 Phelps,Rolla Ward 1,U.S. Senate,,Austin Petersen,REP,12
 Phelps,Rolla Ward 1,U.S. Senate,,Josh Hawley,REP,90
@@ -514,37 +419,6 @@ Phelps,Rolla Ward 1,U.S. Senate,,Ken Patterson,REP,6
 Phelps,Rolla Ward 1,U.S. Senate,,Brian G. Hagg,REP,3
 Phelps,Rolla Ward 1,U.S. Senate,,Courtland Sykes,REP,6
 Phelps,Rolla Ward 1,U.S. Senate,,Peter Pfeifer,REP,2
-Phelps,Rolla Ward 1,State Auditor,,Kevin M. Roach,REP,41
-Phelps,Rolla Ward 1,State Auditor,,David Wasinger,REP,39
-Phelps,Rolla Ward 1,State Auditor,,Paul Curtman,REP,18
-Phelps,Rolla Ward 1,State Auditor,,Saundra McDowell,REP,44
-Phelps,Rolla Ward 1,U.S. House,8,Jason smith,REP,149
-Phelps,Rolla Ward 1,State Senate,16,Justin Dan Brown,REP,65
-Phelps,Rolla Ward 1,State Senate,16,Diane Franklin,REP,19
-Phelps,Rolla Ward 1,State Senate,16,Keith Frederick,REP,77
-Phelps,Rolla Ward 1,State House,121,Don Mayhew,REP,49
-Phelps,Rolla Ward 1,State House,121,Matt Miller,REP,77
-Phelps,Rolla Ward 1,State House,121,Bruce Goodrich,REP,25
-Phelps,Rolla Ward 1,U.S. Senate,,Japheth Campbell,LIB,2
-Phelps,Rolla Ward 1,State Auditor,,Sean O'Toole,LIB,2
-Phelps,Rolla Ward 1,U.S. House,8,Jonathan L. Shell,LIB,2
-Phelps,Rolla Ward 1,U.S. Senate,,Jo Crain,GRN,2
-Phelps,Rolla Ward 1,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Rolla Ward 1,State Auditor,,Don Fitz,GRN,2
-Phelps,Rolla Ward 1,State Auditor,,Jacob Luetkemeyer,CST,1
-Phelps,Rolla Ward 2,,,Registered Voters,,1940
-Phelps,Rolla Ward 2,,,Ballots Cast,,418
-Phelps,Rolla Ward 2,U.S. Senate,,Carla (Coffee) Wright,DEM,1
-Phelps,Rolla Ward 2,U.S. Senate,,Angelica Earl,DEM,1
-Phelps,Rolla Ward 2,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Rolla Ward 2,U.S. Senate,,John Hogan,DEM,1
-Phelps,Rolla Ward 2,U.S. Senate,,Travis Gonzalez,DEM,1
-Phelps,Rolla Ward 2,U.S. Senate,,David Faust,DEM,0
-Phelps,Rolla Ward 2,U.S. Senate,,Claire McCaskill,DEM,106
-Phelps,Rolla Ward 2,State Auditor,,Nicole Galloway,DEM,103
-Phelps,Rolla Ward 2,U.S. House,8,Kathy Ellis,DEM,103
-Phelps,Rolla Ward 2,State Senate,16,Ryan Dillon,DEM,103
-Phelps,Rolla Ward 2,State House,121,Matt Heltz,DEM,99
 Phelps,Rolla Ward 2,U.S. Senate,,Tony Monetti,REP,12
 Phelps,Rolla Ward 2,U.S. Senate,,Austin Petersen,REP,19
 Phelps,Rolla Ward 2,U.S. Senate,,Josh Hawley,REP,155
@@ -556,37 +430,6 @@ Phelps,Rolla Ward 2,U.S. Senate,,Ken Patterson,REP,8
 Phelps,Rolla Ward 2,U.S. Senate,,Brian G. Hagg,REP,5
 Phelps,Rolla Ward 2,U.S. Senate,,Courtland Sykes,REP,17
 Phelps,Rolla Ward 2,U.S. Senate,,Peter Pfeifer,REP,13
-Phelps,Rolla Ward 2,State Auditor,,Kevin M. Roach,REP,68
-Phelps,Rolla Ward 2,State Auditor,,David Wasinger,REP,53
-Phelps,Rolla Ward 2,State Auditor,,Paul Curtman,REP,42
-Phelps,Rolla Ward 2,State Auditor,,Saundra McDowell,REP,80
-Phelps,Rolla Ward 2,U.S. House,8,Jason smith,REP,245
-Phelps,Rolla Ward 2,State Senate,16,Justin Dan Brown,REP,123
-Phelps,Rolla Ward 2,State Senate,16,Diane Franklin,REP,34
-Phelps,Rolla Ward 2,State Senate,16,Keith Frederick,REP,130
-Phelps,Rolla Ward 2,State House,121,Don Mayhew,REP,103
-Phelps,Rolla Ward 2,State House,121,Matt Miller,REP,131
-Phelps,Rolla Ward 2,State House,121,Bruce Goodrich,REP,29
-Phelps,Rolla Ward 2,U.S. Senate,,Japheth Campbell,LIB,1
-Phelps,Rolla Ward 2,State Auditor,,Sean O'Toole,LIB,1
-Phelps,Rolla Ward 2,U.S. House,8,Jonathan L. Shell,LIB,1
-Phelps,Rolla Ward 2,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Rolla Ward 2,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Rolla Ward 2,State Auditor,,Don Fitz,GRN,0
-Phelps,Rolla Ward 2,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Rolla Ward 3,,,Registered Voters,,2067
-Phelps,Rolla Ward 3,,,Ballots Cast,,690
-Phelps,Rolla Ward 3,U.S. Senate,,Carla (Coffee) Wright,DEM,10
-Phelps,Rolla Ward 3,U.S. Senate,,Angelica Earl,DEM,5
-Phelps,Rolla Ward 3,U.S. Senate,,Leonard Joseph Steinman II,DEM,3
-Phelps,Rolla Ward 3,U.S. Senate,,John Hogan,DEM,0
-Phelps,Rolla Ward 3,U.S. Senate,,Travis Gonzalez,DEM,5
-Phelps,Rolla Ward 3,U.S. Senate,,David Faust,DEM,4
-Phelps,Rolla Ward 3,U.S. Senate,,Claire McCaskill,DEM,166
-Phelps,Rolla Ward 3,State Auditor,,Nicole Galloway,DEM,178
-Phelps,Rolla Ward 3,U.S. House,8,Kathy Ellis,DEM,178
-Phelps,Rolla Ward 3,State Senate,16,Ryan Dillon,DEM,176
-Phelps,Rolla Ward 3,State House,121,Matt Heltz,DEM,170
 Phelps,Rolla Ward 3,U.S. Senate,,Tony Monetti,REP,24
 Phelps,Rolla Ward 3,U.S. Senate,,Austin Petersen,REP,45
 Phelps,Rolla Ward 3,U.S. Senate,,Josh Hawley,REP,250
@@ -598,37 +441,6 @@ Phelps,Rolla Ward 3,U.S. Senate,,Ken Patterson,REP,13
 Phelps,Rolla Ward 3,U.S. Senate,,Brian G. Hagg,REP,4
 Phelps,Rolla Ward 3,U.S. Senate,,Courtland Sykes,REP,23
 Phelps,Rolla Ward 3,U.S. Senate,,Peter Pfeifer,REP,14
-Phelps,Rolla Ward 3,State Auditor,,Kevin M. Roach,REP,104
-Phelps,Rolla Ward 3,State Auditor,,David Wasinger,REP,106
-Phelps,Rolla Ward 3,State Auditor,,Paul Curtman,REP,64
-Phelps,Rolla Ward 3,State Auditor,,Saundra McDowell,REP,135
-Phelps,Rolla Ward 3,U.S. House,8,Jason smith,REP,425
-Phelps,Rolla Ward 3,State Senate,16,Justin Dan Brown,REP,200
-Phelps,Rolla Ward 3,State Senate,16,Diane Franklin,REP,72
-Phelps,Rolla Ward 3,State Senate,16,Keith Frederick,REP,198
-Phelps,Rolla Ward 3,State House,121,Don Mayhew,REP,169
-Phelps,Rolla Ward 3,State House,121,Matt Miller,REP,204
-Phelps,Rolla Ward 3,State House,121,Bruce Goodrich,REP,64
-Phelps,Rolla Ward 3,U.S. Senate,,Japheth Campbell,LIB,3
-Phelps,Rolla Ward 3,State Auditor,,Sean O'Toole,LIB,3
-Phelps,Rolla Ward 3,U.S. House,8,Jonathan L. Shell,LIB,3
-Phelps,Rolla Ward 3,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Rolla Ward 3,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Rolla Ward 3,State Auditor,,Don Fitz,GRN,0
-Phelps,Rolla Ward 3,State Auditor,,Jacob Luetkemeyer,CST,1
-Phelps,Rolla Ward 4,,,Registered Voters,,2398
-Phelps,Rolla Ward 4,,,Ballots Cast,,972
-Phelps,Rolla Ward 4,U.S. Senate,,Carla (Coffee) Wright,DEM,9
-Phelps,Rolla Ward 4,U.S. Senate,,Angelica Earl,DEM,3
-Phelps,Rolla Ward 4,U.S. Senate,,Leonard Joseph Steinman II,DEM,2
-Phelps,Rolla Ward 4,U.S. Senate,,John Hogan,DEM,4
-Phelps,Rolla Ward 4,U.S. Senate,,Travis Gonzalez,DEM,1
-Phelps,Rolla Ward 4,U.S. Senate,,David Faust,DEM,4
-Phelps,Rolla Ward 4,U.S. Senate,,Claire McCaskill,DEM,184
-Phelps,Rolla Ward 4,State Auditor,,Nicole Galloway,DEM,190
-Phelps,Rolla Ward 4,U.S. House,8,Kathy Ellis,DEM,190
-Phelps,Rolla Ward 4,State Senate,16,Ryan Dillon,DEM,189
-Phelps,Rolla Ward 4,State House,121,Matt Heltz,DEM,184
 Phelps,Rolla Ward 4,U.S. Senate,,Tony Monetti,REP,47
 Phelps,Rolla Ward 4,U.S. Senate,,Austin Petersen,REP,37
 Phelps,Rolla Ward 4,U.S. Senate,,Josh Hawley,REP,413
@@ -640,37 +452,6 @@ Phelps,Rolla Ward 4,U.S. Senate,,Ken Patterson,REP,18
 Phelps,Rolla Ward 4,U.S. Senate,,Brian G. Hagg,REP,7
 Phelps,Rolla Ward 4,U.S. Senate,,Courtland Sykes,REP,63
 Phelps,Rolla Ward 4,U.S. Senate,,Peter Pfeifer,REP,17
-Phelps,Rolla Ward 4,State Auditor,,Kevin M. Roach,REP,154
-Phelps,Rolla Ward 4,State Auditor,,David Wasinger,REP,176
-Phelps,Rolla Ward 4,State Auditor,,Paul Curtman,REP,76
-Phelps,Rolla Ward 4,State Auditor,,Saundra McDowell,REP,193
-Phelps,Rolla Ward 4,U.S. House,8,Jason smith,REP,629
-Phelps,Rolla Ward 4,State Senate,16,Justin Dan Brown,REP,265
-Phelps,Rolla Ward 4,State Senate,16,Diane Franklin,REP,107
-Phelps,Rolla Ward 4,State Senate,16,Keith Frederick,REP,362
-Phelps,Rolla Ward 4,State House,121,Don Mayhew,REP,267
-Phelps,Rolla Ward 4,State House,121,Matt Miller,REP,318
-Phelps,Rolla Ward 4,State House,121,Bruce Goodrich,REP,82
-Phelps,Rolla Ward 4,U.S. Senate,,Japheth Campbell,LIB,5
-Phelps,Rolla Ward 4,State Auditor,,Sean O'Toole,LIB,5
-Phelps,Rolla Ward 4,U.S. House,8,Jonathan L. Shell,LIB,5
-Phelps,Rolla Ward 4,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Rolla Ward 4,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Rolla Ward 4,State Auditor,,Don Fitz,GRN,0
-Phelps,Rolla Ward 4,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Rolla Ward 5,,,Registered Voters,,1541
-Phelps,Rolla Ward 5,,,Ballots Cast,,336
-Phelps,Rolla Ward 5,U.S. Senate,,Carla (Coffee) Wright,DEM,7
-Phelps,Rolla Ward 5,U.S. Senate,,Angelica Earl,DEM,4
-Phelps,Rolla Ward 5,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Rolla Ward 5,U.S. Senate,,John Hogan,DEM,2
-Phelps,Rolla Ward 5,U.S. Senate,,Travis Gonzalez,DEM,2
-Phelps,Rolla Ward 5,U.S. Senate,,David Faust,DEM,3
-Phelps,Rolla Ward 5,U.S. Senate,,Claire McCaskill,DEM,72
-Phelps,Rolla Ward 5,State Auditor,,Nicole Galloway,DEM,81
-Phelps,Rolla Ward 5,U.S. House,8,Kathy Ellis,DEM,81
-Phelps,Rolla Ward 5,State Senate,16,Ryan Dillon,DEM,78
-Phelps,Rolla Ward 5,State House,121,Matt Heltz,DEM,78
 Phelps,Rolla Ward 5,U.S. Senate,,Tony Monetti,REP,16
 Phelps,Rolla Ward 5,U.S. Senate,,Austin Petersen,REP,12
 Phelps,Rolla Ward 5,U.S. Senate,,Josh Hawley,REP,126
@@ -682,37 +463,6 @@ Phelps,Rolla Ward 5,U.S. Senate,,Ken Patterson,REP,7
 Phelps,Rolla Ward 5,U.S. Senate,,Brian G. Hagg,REP,6
 Phelps,Rolla Ward 5,U.S. Senate,,Courtland Sykes,REP,7
 Phelps,Rolla Ward 5,U.S. Senate,,Peter Pfeifer,REP,4
-Phelps,Rolla Ward 5,State Auditor,,Kevin M. Roach,REP,56
-Phelps,Rolla Ward 5,State Auditor,,David Wasinger,REP,38
-Phelps,Rolla Ward 5,State Auditor,,Paul Curtman,REP,31
-Phelps,Rolla Ward 5,State Auditor,,Saundra McDowell,REP,71
-Phelps,Rolla Ward 5,U.S. House,8,Jason smith,REP,208
-Phelps,Rolla Ward 5,State Senate,16,Justin Dan Brown,REP,87
-Phelps,Rolla Ward 5,State Senate,16,Diane Franklin,REP,35
-Phelps,Rolla Ward 5,State Senate,16,Keith Frederick,REP,108
-Phelps,Rolla Ward 5,State House,121,Don Mayhew,REP,77
-Phelps,Rolla Ward 5,State House,121,Matt Miller,REP,104
-Phelps,Rolla Ward 5,State House,121,Bruce Goodrich,REP,33
-Phelps,Rolla Ward 5,U.S. Senate,,Japheth Campbell,LIB,2
-Phelps,Rolla Ward 5,State Auditor,,Sean O'Toole,LIB,2
-Phelps,Rolla Ward 5,U.S. House,8,Jonathan L. Shell,LIB,2
-Phelps,Rolla Ward 5,U.S. Senate,,Jo Crain,GRN,1
-Phelps,Rolla Ward 5,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Rolla Ward 5,State Auditor,,Don Fitz,GRN,1
-Phelps,Rolla Ward 5,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Rolla Ward 6,,,Registered Voters,,1056
-Phelps,Rolla Ward 6,,,Ballots Cast,,124
-Phelps,Rolla Ward 6,U.S. Senate,,Carla (Coffee) Wright,DEM,0
-Phelps,Rolla Ward 6,U.S. Senate,,Angelica Earl,DEM,2
-Phelps,Rolla Ward 6,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Rolla Ward 6,U.S. Senate,,John Hogan,DEM,0
-Phelps,Rolla Ward 6,U.S. Senate,,Travis Gonzalez,DEM,1
-Phelps,Rolla Ward 6,U.S. Senate,,David Faust,DEM,1
-Phelps,Rolla Ward 6,U.S. Senate,,Claire McCaskill,DEM,34
-Phelps,Rolla Ward 6,State Auditor,,Nicole Galloway,DEM,37
-Phelps,Rolla Ward 6,U.S. House,8,Kathy Ellis,DEM,36
-Phelps,Rolla Ward 6,State Senate,16,Ryan Dillon,DEM,37
-Phelps,Rolla Ward 6,State House,121,Matt Heltz,DEM,37
 Phelps,Rolla Ward 6,U.S. Senate,,Tony Monetti,REP,3
 Phelps,Rolla Ward 6,U.S. Senate,,Austin Petersen,REP,11
 Phelps,Rolla Ward 6,U.S. Senate,,Josh Hawley,REP,32
@@ -724,37 +474,6 @@ Phelps,Rolla Ward 6,U.S. Senate,,Ken Patterson,REP,3
 Phelps,Rolla Ward 6,U.S. Senate,,Brian G. Hagg,REP,1
 Phelps,Rolla Ward 6,U.S. Senate,,Courtland Sykes,REP,6
 Phelps,Rolla Ward 6,U.S. Senate,,Peter Pfeifer,REP,1
-Phelps,Rolla Ward 6,State Auditor,,Kevin M. Roach,REP,23
-Phelps,Rolla Ward 6,State Auditor,,David Wasinger,REP,15
-Phelps,Rolla Ward 6,State Auditor,,Paul Curtman,REP,13
-Phelps,Rolla Ward 6,State Auditor,,Saundra McDowell,REP,25
-Phelps,Rolla Ward 6,U.S. House,8,Jason smith,REP,71
-Phelps,Rolla Ward 6,State Senate,16,Justin Dan Brown,REP,39
-Phelps,Rolla Ward 6,State Senate,16,Diane Franklin,REP,20
-Phelps,Rolla Ward 6,State Senate,16,Keith Frederick,REP,23
-Phelps,Rolla Ward 6,State House,121,Don Mayhew,REP,32
-Phelps,Rolla Ward 6,State House,121,Matt Miller,REP,35
-Phelps,Rolla Ward 6,State House,121,Bruce Goodrich,REP,9
-Phelps,Rolla Ward 6,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Rolla Ward 6,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Rolla Ward 6,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Rolla Ward 6,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Rolla Ward 6,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Rolla Ward 6,State Auditor,,Don Fitz,GRN,0
-Phelps,Rolla Ward 6,State Auditor,,Jacob Luetkemeyer,CST,1
-Phelps,Rolla Outside South,,,Registered Voters,,1024
-Phelps,Rolla Outside South,,,Ballots Cast,,296
-Phelps,Rolla Outside South,U.S. Senate,,Carla (Coffee) Wright,DEM,1
-Phelps,Rolla Outside South,U.S. Senate,,Angelica Earl,DEM,1
-Phelps,Rolla Outside South,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Rolla Outside South,U.S. Senate,,John Hogan,DEM,0
-Phelps,Rolla Outside South,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Rolla Outside South,U.S. Senate,,David Faust,DEM,4
-Phelps,Rolla Outside South,U.S. Senate,,Claire McCaskill,DEM,55
-Phelps,Rolla Outside South,State Auditor,,Nicole Galloway,DEM,55
-Phelps,Rolla Outside South,U.S. House,8,Kathy Ellis,DEM,58
-Phelps,Rolla Outside South,State Senate,16,Ryan Dillon,DEM,59
-Phelps,Rolla Outside South,State House,121,Matt Heltz,DEM,56
 Phelps,Rolla Outside South,U.S. Senate,,Tony Monetti,REP,14
 Phelps,Rolla Outside South,U.S. Senate,,Austin Petersen,REP,17
 Phelps,Rolla Outside South,U.S. Senate,,Josh Hawley,REP,126
@@ -766,39 +485,6 @@ Phelps,Rolla Outside South,U.S. Senate,,Ken Patterson,REP,11
 Phelps,Rolla Outside South,U.S. Senate,,Brian G. Hagg,REP,2
 Phelps,Rolla Outside South,U.S. Senate,,Courtland Sykes,REP,13
 Phelps,Rolla Outside South,U.S. Senate,,Peter Pfeifer,REP,5
-Phelps,Rolla Outside South,State Auditor,,Kevin M. Roach,REP,46
-Phelps,Rolla Outside South,State Auditor,,David Wasinger,REP,57
-Phelps,Rolla Outside South,State Auditor,,Paul Curtman,REP,30
-Phelps,Rolla Outside South,State Auditor,,Saundra McDowell,REP,61
-Phelps,Rolla Outside South,U.S. House,8,Jason smith,REP,196
-Phelps,Rolla Outside South,State Senate,16,Justin Dan Brown,REP,86
-Phelps,Rolla Outside South,State Senate,16,Diane Franklin,REP,28
-Phelps,Rolla Outside South,State Senate,16,Keith Frederick,REP,111
-Phelps,Rolla Outside South,State House,121,Don Mayhew,REP,85
-Phelps,Rolla Outside South,State House,121,Matt Miller,REP,79
-Phelps,Rolla Outside South,State House,121,Bruce Goodrich,REP,41
-Phelps,Rolla Outside South,U.S. Senate,,Japheth Campbell,LIB,1
-Phelps,Rolla Outside South,State Auditor,,Sean O'Toole,LIB,1
-Phelps,Rolla Outside South,U.S. House,8,Jonathan L. Shell,LIB,1
-Phelps,Rolla Outside South,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Rolla Outside South,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Rolla Outside South,State Auditor,,Don Fitz,GRN,0
-Phelps,Rolla Outside South,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Federal,,,Registered Voters,,0
-Phelps,Federal,,,Ballots Cast,,2
-Phelps,Federal,U.S. Senate,,Carla (Coffee) Wright,DEM,0
-Phelps,Federal,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Federal,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
-Phelps,Federal,U.S. Senate,,John Hogan,DEM,0
-Phelps,Federal,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Federal,U.S. Senate,,David Faust,DEM,0
-Phelps,Federal,U.S. Senate,,Claire McCaskill,DEM,0
-Phelps,Federal,State Auditor,,Nicole Galloway,DEM,0
-Phelps,Federal,U.S. House,8,Kathy Ellis,DEM,0
-Phelps,Federal,State Senate,16,Ryan Dillon,DEM,0
-Phelps,Federal,State House,62,Ashley D. Fajkowski,DEM,0
-Phelps,Federal,State House,120,Theresa Schmitt,DEM,0
-Phelps,Federal,State House,121,Matt Heltz,DEM,0
 Phelps,Federal,U.S. Senate,,Tony Monetti,REP,0
 Phelps,Federal,U.S. Senate,,Austin Petersen,REP,2
 Phelps,Federal,U.S. Senate,,Josh Hawley,REP,0
@@ -810,42 +496,6 @@ Phelps,Federal,U.S. Senate,,Ken Patterson,REP,0
 Phelps,Federal,U.S. Senate,,Brian G. Hagg,REP,0
 Phelps,Federal,U.S. Senate,,Courtland Sykes,REP,0
 Phelps,Federal,U.S. Senate,,Peter Pfeifer,REP,0
-Phelps,Federal,State Auditor,,Kevin M. Roach,REP,0
-Phelps,Federal,State Auditor,,David Wasinger,REP,0
-Phelps,Federal,State Auditor,,Paul Curtman,REP,2
-Phelps,Federal,State Auditor,,Saundra McDowell,REP,0
-Phelps,Federal,U.S. House,8,Jason smith,REP,2
-Phelps,Federal,State Senate,16,Justin Dan Brown,REP,2
-Phelps,Federal,State Senate,16,Diane Franklin,REP,0
-Phelps,Federal,State Senate,16,Keith Frederick,REP,0
-Phelps,Federal,State House,62,Tom Hurst,REP,0
-Phelps,Federal,State House,120,Jason Chipman,REP,2
-Phelps,Federal,State House,121,Don Mayhew,REP,0
-Phelps,Federal,State House,121,Matt Miller,REP,0
-Phelps,Federal,State House,121,Bruce Goodrich,REP,0
-Phelps,Federal,State House,142,Robert Ross,REP,0
-Phelps,Federal,U.S. Senate,,Japheth Campbell,LIB,0
-Phelps,Federal,State Auditor,,Sean O'Toole,LIB,0
-Phelps,Federal,U.S. House,8,Jonathan L. Shell,LIB,0
-Phelps,Federal,U.S. Senate,,Jo Crain,GRN,0
-Phelps,Federal,U.S. Senate,,Jerome Bauer,GRN,0
-Phelps,Federal,State Auditor,,Don Fitz,GRN,0
-Phelps,Federal,State Auditor,,Jacob Luetkemeyer,CST,0
-Phelps,Absentee,,,Registered Voters,,0
-Phelps,Absentee,,,Ballots Cast,,509
-Phelps,Absentee,U.S. Senate,,Carla (Coffee) Wright,DEM,1
-Phelps,Absentee,U.S. Senate,,Angelica Earl,DEM,0
-Phelps,Absentee,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
-Phelps,Absentee,U.S. Senate,,John Hogan,DEM,3
-Phelps,Absentee,U.S. Senate,,Travis Gonzalez,DEM,0
-Phelps,Absentee,U.S. Senate,,David Faust,DEM,4
-Phelps,Absentee,U.S. Senate,,Claire McCaskill,DEM,128
-Phelps,Absentee,State Auditor,,Nicole Galloway,DEM,120
-Phelps,Absentee,U.S. House,8,Kathy Ellis,DEM,124
-Phelps,Absentee,State Senate,16,Ryan Dillon,DEM,122
-Phelps,Absentee,State House,62,Ashley D. Fajkowski,DEM,12
-Phelps,Absentee,State House,120,Theresa Schmitt,DEM,31
-Phelps,Absentee,State House,121,Matt Heltz,DEM,69
 Phelps,Absentee,U.S. Senate,,Tony Monetti,REP,31
 Phelps,Absentee,U.S. Senate,,Austin Petersen,REP,18
 Phelps,Absentee,U.S. Senate,,Josh Hawley,REP,208
@@ -857,24 +507,374 @@ Phelps,Absentee,U.S. Senate,,Ken Patterson,REP,5
 Phelps,Absentee,U.S. Senate,,Brian G. Hagg,REP,6
 Phelps,Absentee,U.S. Senate,,Courtland Sykes,REP,13
 Phelps,Absentee,U.S. Senate,,Peter Pfeifer,REP,11
+Phelps,Doolittle Ward 1,State Auditor,,Kevin M. Roach,REP,68
+Phelps,Doolittle Ward 1,State Auditor,,David Wasinger,REP,39
+Phelps,Doolittle Ward 1,State Auditor,,Paul Curtman,REP,24
+Phelps,Doolittle Ward 1,State Auditor,,Saundra McDowell,REP,49
+Phelps,Jerome,State Auditor,,Kevin M. Roach,REP,18
+Phelps,Jerome,State Auditor,,David Wasinger,REP,11
+Phelps,Jerome,State Auditor,,Paul Curtman,REP,7
+Phelps,Jerome,State Auditor,,Saundra McDowell,REP,12
+Phelps,Newburg Ward 1,State Auditor,,Kevin M. Roach,REP,30
+Phelps,Newburg Ward 1,State Auditor,,David Wasinger,REP,22
+Phelps,Newburg Ward 1,State Auditor,,Paul Curtman,REP,8
+Phelps,Newburg Ward 1,State Auditor,,Saundra McDowell,REP,19
+Phelps,Edgar Springs North,State Auditor,,Kevin M. Roach,REP,111
+Phelps,Edgar Springs North,State Auditor,,David Wasinger,REP,60
+Phelps,Edgar Springs North,State Auditor,,Paul Curtman,REP,61
+Phelps,Edgar Springs North,State Auditor,,Saundra McDowell,REP,94
+Phelps,Dawson,State Auditor,,Kevin M. Roach,REP,155
+Phelps,Dawson,State Auditor,,David Wasinger,REP,107
+Phelps,Dawson,State Auditor,,Paul Curtman,REP,67
+Phelps,Dawson,State Auditor,,Saundra McDowell,REP,154
+Phelps,Dillon Central,State Auditor,,Kevin M. Roach,REP,164
+Phelps,Dillon Central,State Auditor,,David Wasinger,REP,169
+Phelps,Dillon Central,State Auditor,,Paul Curtman,REP,75
+Phelps,Dillon Central,State Auditor,,Saundra McDowell,REP,201
+Phelps,Dillon North,State Auditor,,Kevin M. Roach,REP,102
+Phelps,Dillon North,State Auditor,,David Wasinger,REP,81
+Phelps,Dillon North,State Auditor,,Paul Curtman,REP,48
+Phelps,Dillon North,State Auditor,,Saundra McDowell,REP,83
+Phelps,Dillon South,State Auditor,,Kevin M. Roach,REP,97
+Phelps,Dillon South,State Auditor,,David Wasinger,REP,66
+Phelps,Dillon South,State Auditor,,Paul Curtman,REP,38
+Phelps,Dillon South,State Auditor,,Saundra McDowell,REP,80
+Phelps,Cold Springs East,State Auditor,,Kevin M. Roach,REP,56
+Phelps,Cold Springs East,State Auditor,,David Wasinger,REP,42
+Phelps,Cold Springs East,State Auditor,,Paul Curtman,REP,19
+Phelps,Cold Springs East,State Auditor,,Saundra McDowell,REP,43
+Phelps,Cold Springs West,State Auditor,,Kevin M. Roach,REP,82
+Phelps,Cold Springs West,State Auditor,,David Wasinger,REP,86
+Phelps,Cold Springs West,State Auditor,,Paul Curtman,REP,46
+Phelps,Cold Springs West,State Auditor,,Saundra McDowell,REP,83
+Phelps,Meramec North & South,State Auditor,,Kevin M. Roach,REP,142
+Phelps,Meramec North & South,State Auditor,,David Wasinger,REP,129
+Phelps,Meramec North & South,State Auditor,,Paul Curtman,REP,74
+Phelps,Meramec North & South,State Auditor,,Saundra McDowell,REP,158
+Phelps,Miller East,State Auditor,,Kevin M. Roach,REP,170
+Phelps,Miller East,State Auditor,,David Wasinger,REP,123
+Phelps,Miller East,State Auditor,,Paul Curtman,REP,88
+Phelps,Miller East,State Auditor,,Saundra McDowell,REP,194
+Phelps,Rolla Ward 1,State Auditor,,Kevin M. Roach,REP,41
+Phelps,Rolla Ward 1,State Auditor,,David Wasinger,REP,39
+Phelps,Rolla Ward 1,State Auditor,,Paul Curtman,REP,18
+Phelps,Rolla Ward 1,State Auditor,,Saundra McDowell,REP,44
+Phelps,Rolla Ward 2,State Auditor,,Kevin M. Roach,REP,68
+Phelps,Rolla Ward 2,State Auditor,,David Wasinger,REP,53
+Phelps,Rolla Ward 2,State Auditor,,Paul Curtman,REP,42
+Phelps,Rolla Ward 2,State Auditor,,Saundra McDowell,REP,80
+Phelps,Rolla Ward 3,State Auditor,,Kevin M. Roach,REP,104
+Phelps,Rolla Ward 3,State Auditor,,David Wasinger,REP,106
+Phelps,Rolla Ward 3,State Auditor,,Paul Curtman,REP,64
+Phelps,Rolla Ward 3,State Auditor,,Saundra McDowell,REP,135
+Phelps,Rolla Ward 4,State Auditor,,Kevin M. Roach,REP,154
+Phelps,Rolla Ward 4,State Auditor,,David Wasinger,REP,176
+Phelps,Rolla Ward 4,State Auditor,,Paul Curtman,REP,76
+Phelps,Rolla Ward 4,State Auditor,,Saundra McDowell,REP,193
+Phelps,Rolla Ward 5,State Auditor,,Kevin M. Roach,REP,56
+Phelps,Rolla Ward 5,State Auditor,,David Wasinger,REP,38
+Phelps,Rolla Ward 5,State Auditor,,Paul Curtman,REP,31
+Phelps,Rolla Ward 5,State Auditor,,Saundra McDowell,REP,71
+Phelps,Rolla Ward 6,State Auditor,,Kevin M. Roach,REP,23
+Phelps,Rolla Ward 6,State Auditor,,David Wasinger,REP,15
+Phelps,Rolla Ward 6,State Auditor,,Paul Curtman,REP,13
+Phelps,Rolla Ward 6,State Auditor,,Saundra McDowell,REP,25
+Phelps,Rolla Outside South,State Auditor,,Kevin M. Roach,REP,46
+Phelps,Rolla Outside South,State Auditor,,David Wasinger,REP,57
+Phelps,Rolla Outside South,State Auditor,,Paul Curtman,REP,30
+Phelps,Rolla Outside South,State Auditor,,Saundra McDowell,REP,61
+Phelps,Federal,State Auditor,,Kevin M. Roach,REP,0
+Phelps,Federal,State Auditor,,David Wasinger,REP,0
+Phelps,Federal,State Auditor,,Paul Curtman,REP,2
+Phelps,Federal,State Auditor,,Saundra McDowell,REP,0
 Phelps,Absentee,State Auditor,,Kevin M. Roach,REP,99
 Phelps,Absentee,State Auditor,,David Wasinger,REP,68
 Phelps,Absentee,State Auditor,,Paul Curtman,REP,49
 Phelps,Absentee,State Auditor,,Saundra McDowell,REP,91
-Phelps,Absentee,U.S. House,8,Jason smith,REP,306
+Phelps,Doolittle Ward 1,U.S. House,8,Jason Smith,REP,199
+Phelps,Jerome,U.S. House,8,Jason Smith,REP,48
+Phelps,Newburg Ward 1,U.S. House,8,Jason Smith,REP,84
+Phelps,Edgar Springs North,U.S. House,8,Jason Smith,REP,329
+Phelps,Dawson,U.S. House,8,Jason Smith,REP,518
+Phelps,Dillon Central,U.S. House,8,Jason Smith,REP,646
+Phelps,Dillon North,U.S. House,8,Jason Smith,REP,307
+Phelps,Dillon South,U.S. House,8,Jason Smith,REP,322
+Phelps,Cold Springs East,U.S. House,8,Jason Smith,REP,176
+Phelps,Cold Springs West,U.S. House,8,Jason Smith,REP,296
+Phelps,Meramec North & South,U.S. House,8,Jason Smith,REP,521
+Phelps,Miller East,U.S. House,8,Jason Smith,REP,592
+Phelps,Rolla Ward 1,U.S. House,8,Jason Smith,REP,149
+Phelps,Rolla Ward 2,U.S. House,8,Jason Smith,REP,245
+Phelps,Rolla Ward 3,U.S. House,8,Jason Smith,REP,425
+Phelps,Rolla Ward 4,U.S. House,8,Jason Smith,REP,629
+Phelps,Rolla Ward 5,U.S. House,8,Jason Smith,REP,208
+Phelps,Rolla Ward 6,U.S. House,8,Jason Smith,REP,71
+Phelps,Rolla Outside South,U.S. House,8,Jason Smith,REP,196
+Phelps,Federal,U.S. House,8,Jason Smith,REP,2
+Phelps,Absentee,U.S. House,8,Jason Smith,REP,306
+Phelps,Doolittle Ward 1,State Senate,16,Justin Dan Brown,REP,98
+Phelps,Doolittle Ward 1,State Senate,16,Diane Franklin,REP,40
+Phelps,Doolittle Ward 1,State Senate,16,Keith Frederick,REP,94
+Phelps,Jerome,State Senate,16,Justin Dan Brown,REP,34
+Phelps,Jerome,State Senate,16,Diane Franklin,REP,9
+Phelps,Jerome,State Senate,16,Keith Frederick,REP,11
+Phelps,Newburg Ward 1,State Senate,16,Justin Dan Brown,REP,35
+Phelps,Newburg Ward 1,State Senate,16,Diane Franklin,REP,10
+Phelps,Newburg Ward 1,State Senate,16,Keith Frederick,REP,41
+Phelps,Edgar Springs North,State Senate,16,Justin Dan Brown,REP,187
+Phelps,Edgar Springs North,State Senate,16,Diane Franklin,REP,53
+Phelps,Edgar Springs North,State Senate,16,Keith Frederick,REP,120
+Phelps,Dawson,State Senate,16,Justin Dan Brown,REP,280
+Phelps,Dawson,State Senate,16,Diane Franklin,REP,107
+Phelps,Dawson,State Senate,16,Keith Frederick,REP,168
+Phelps,Dillon Central,State Senate,16,Justin Dan Brown,REP,312
+Phelps,Dillon Central,State Senate,16,Diane Franklin,REP,98
+Phelps,Dillon Central,State Senate,16,Keith Frederick,REP,315
+Phelps,Dillon North,State Senate,16,Justin Dan Brown,REP,169
+Phelps,Dillon North,State Senate,16,Diane Franklin,REP,53
+Phelps,Dillon North,State Senate,16,Keith Frederick,REP,133
+Phelps,Dillon South,State Senate,16,Justin Dan Brown,REP,155
+Phelps,Dillon South,State Senate,16,Diane Franklin,REP,47
+Phelps,Dillon South,State Senate,16,Keith Frederick,REP,156
+Phelps,Cold Springs East,State Senate,16,Justin Dan Brown,REP,91
+Phelps,Cold Springs East,State Senate,16,Diane Franklin,REP,33
+Phelps,Cold Springs East,State Senate,16,Keith Frederick,REP,68
+Phelps,Cold Springs West,State Senate,16,Justin Dan Brown,REP,167
+Phelps,Cold Springs West,State Senate,16,Diane Franklin,REP,48
+Phelps,Cold Springs West,State Senate,16,Keith Frederick,REP,123
+Phelps,Meramec North & South,State Senate,16,Justin Dan Brown,REP,262
+Phelps,Meramec North & South,State Senate,16,Diane Franklin,REP,112
+Phelps,Meramec North & South,State Senate,16,Keith Frederick,REP,196
+Phelps,Miller East,State Senate,16,Justin Dan Brown,REP,338
+Phelps,Miller East,State Senate,16,Diane Franklin,REP,95
+Phelps,Miller East,State Senate,16,Keith Frederick,REP,252
+Phelps,Rolla Ward 1,State Senate,16,Justin Dan Brown,REP,65
+Phelps,Rolla Ward 1,State Senate,16,Diane Franklin,REP,19
+Phelps,Rolla Ward 1,State Senate,16,Keith Frederick,REP,77
+Phelps,Rolla Ward 2,State Senate,16,Justin Dan Brown,REP,123
+Phelps,Rolla Ward 2,State Senate,16,Diane Franklin,REP,34
+Phelps,Rolla Ward 2,State Senate,16,Keith Frederick,REP,130
+Phelps,Rolla Ward 3,State Senate,16,Justin Dan Brown,REP,200
+Phelps,Rolla Ward 3,State Senate,16,Diane Franklin,REP,72
+Phelps,Rolla Ward 3,State Senate,16,Keith Frederick,REP,198
+Phelps,Rolla Ward 4,State Senate,16,Justin Dan Brown,REP,265
+Phelps,Rolla Ward 4,State Senate,16,Diane Franklin,REP,107
+Phelps,Rolla Ward 4,State Senate,16,Keith Frederick,REP,362
+Phelps,Rolla Ward 5,State Senate,16,Justin Dan Brown,REP,87
+Phelps,Rolla Ward 5,State Senate,16,Diane Franklin,REP,35
+Phelps,Rolla Ward 5,State Senate,16,Keith Frederick,REP,108
+Phelps,Rolla Ward 6,State Senate,16,Justin Dan Brown,REP,39
+Phelps,Rolla Ward 6,State Senate,16,Diane Franklin,REP,20
+Phelps,Rolla Ward 6,State Senate,16,Keith Frederick,REP,23
+Phelps,Rolla Outside South,State Senate,16,Justin Dan Brown,REP,86
+Phelps,Rolla Outside South,State Senate,16,Diane Franklin,REP,28
+Phelps,Rolla Outside South,State Senate,16,Keith Frederick,REP,111
+Phelps,Federal,State Senate,16,Justin Dan Brown,REP,2
+Phelps,Federal,State Senate,16,Diane Franklin,REP,0
+Phelps,Federal,State Senate,16,Keith Frederick,REP,0
 Phelps,Absentee,State Senate,16,Justin Dan Brown,REP,138
 Phelps,Absentee,State Senate,16,Diane Franklin,REP,74
 Phelps,Absentee,State Senate,16,Keith Frederick,REP,146
+Phelps,Dillon North,State House,62,Tom Hurst,REP,295
+Phelps,Miller East,State House,62,Tom Hurst,REP,416
+Phelps,Federal,State House,62,Tom Hurst,REP,0
 Phelps,Absentee,State House,62,Tom Hurst,REP,37
+Phelps,Dawson,State House,120,Jason Chipman,REP,500
+Phelps,Dillon Central,State House,120,Jason Chipman,REP,624
+Phelps,Dillon South,State House,120,Jason Chipman,REP,301
+Phelps,Cold Springs East,State House,120,Jason Chipman,REP,166
+Phelps,Meramec North & South,State House,120,Jason Chipman,REP,512
+Phelps,Federal,State House,120,Jason Chipman,REP,2
 Phelps,Absentee,State House,120,Jason Chipman,REP,103
+Phelps,Doolittle Ward 1,State House,121,Don Mayhew,REP,97
+Phelps,Doolittle Ward 1,State House,121,Matt Miller,REP,84
+Phelps,Doolittle Ward 1,State House,121,Bruce Goodrich,REP,30
+Phelps,Jerome,State House,121,Don Mayhew,REP,35
+Phelps,Jerome,State House,121,Matt Miller,REP,8
+Phelps,Jerome,State House,121,Bruce Goodrich,REP,8
+Phelps,Newburg Ward 1,State House,121,Don Mayhew,REP,41
+Phelps,Newburg Ward 1,State House,121,Matt Miller,REP,23
+Phelps,Newburg Ward 1,State House,121,Bruce Goodrich,REP,19
+Phelps,Cold Springs West,State House,121,Don Mayhew,REP,133
+Phelps,Cold Springs West,State House,121,Matt Miller,REP,128
+Phelps,Cold Springs West,State House,121,Bruce Goodrich,REP,50
+Phelps,Miller East,State House,121,Don Mayhew,REP,41
+Phelps,Miller East,State House,121,Matt Miller,REP,76
+Phelps,Miller East,State House,121,Bruce Goodrich,REP,32
+Phelps,Rolla Ward 1,State House,121,Don Mayhew,REP,49
+Phelps,Rolla Ward 1,State House,121,Matt Miller,REP,77
+Phelps,Rolla Ward 1,State House,121,Bruce Goodrich,REP,25
+Phelps,Rolla Ward 2,State House,121,Don Mayhew,REP,103
+Phelps,Rolla Ward 2,State House,121,Matt Miller,REP,131
+Phelps,Rolla Ward 2,State House,121,Bruce Goodrich,REP,29
+Phelps,Rolla Ward 3,State House,121,Don Mayhew,REP,169
+Phelps,Rolla Ward 3,State House,121,Matt Miller,REP,204
+Phelps,Rolla Ward 3,State House,121,Bruce Goodrich,REP,64
+Phelps,Rolla Ward 4,State House,121,Don Mayhew,REP,267
+Phelps,Rolla Ward 4,State House,121,Matt Miller,REP,318
+Phelps,Rolla Ward 4,State House,121,Bruce Goodrich,REP,82
+Phelps,Rolla Ward 5,State House,121,Don Mayhew,REP,77
+Phelps,Rolla Ward 5,State House,121,Matt Miller,REP,104
+Phelps,Rolla Ward 5,State House,121,Bruce Goodrich,REP,33
+Phelps,Rolla Ward 6,State House,121,Don Mayhew,REP,32
+Phelps,Rolla Ward 6,State House,121,Matt Miller,REP,35
+Phelps,Rolla Ward 6,State House,121,Bruce Goodrich,REP,9
+Phelps,Rolla Outside South,State House,121,Don Mayhew,REP,85
+Phelps,Rolla Outside South,State House,121,Matt Miller,REP,79
+Phelps,Rolla Outside South,State House,121,Bruce Goodrich,REP,41
+Phelps,Federal,State House,121,Don Mayhew,REP,0
+Phelps,Federal,State House,121,Matt Miller,REP,0
+Phelps,Federal,State House,121,Bruce Goodrich,REP,0
 Phelps,Absentee,State House,121,Don Mayhew,REP,46
 Phelps,Absentee,State House,121,Matt Miller,REP,82
 Phelps,Absentee,State House,121,Bruce Goodrich,REP,31
+Phelps,Edgar Springs North,State House,142,Robert Ross,REP,311
+Phelps,Federal,State House,142,Robert Ross,REP,0
 Phelps,Absentee,State House,142,Robert Ross,REP,13
+Phelps,Doolittle Ward 1,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Jerome,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Newburg Ward 1,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Edgar Springs North,U.S. Senate,,Japheth Campbell,LIB,1
+Phelps,Dawson,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Dillon Central,U.S. Senate,,Japheth Campbell,LIB,2
+Phelps,Dillon North,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Dillon South,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Cold Springs East,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Cold Springs West,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Meramec North & South,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Miller East,U.S. Senate,,Japheth Campbell,LIB,1
+Phelps,Rolla Ward 1,U.S. Senate,,Japheth Campbell,LIB,2
+Phelps,Rolla Ward 2,U.S. Senate,,Japheth Campbell,LIB,1
+Phelps,Rolla Ward 3,U.S. Senate,,Japheth Campbell,LIB,3
+Phelps,Rolla Ward 4,U.S. Senate,,Japheth Campbell,LIB,5
+Phelps,Rolla Ward 5,U.S. Senate,,Japheth Campbell,LIB,2
+Phelps,Rolla Ward 6,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Rolla Outside South,U.S. Senate,,Japheth Campbell,LIB,1
+Phelps,Federal,U.S. Senate,,Japheth Campbell,LIB,0
 Phelps,Absentee,U.S. Senate,,Japheth Campbell,LIB,0
+Phelps,Doolittle Ward 1,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Jerome,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Newburg Ward 1,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Edgar Springs North,State Auditor,,Sean O'Toole,LIB,1
+Phelps,Dawson,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Dillon Central,State Auditor,,Sean O'Toole,LIB,2
+Phelps,Dillon North,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Dillon South,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Cold Springs East,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Cold Springs West,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Meramec North & South,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Miller East,State Auditor,,Sean O'Toole,LIB,1
+Phelps,Rolla Ward 1,State Auditor,,Sean O'Toole,LIB,2
+Phelps,Rolla Ward 2,State Auditor,,Sean O'Toole,LIB,1
+Phelps,Rolla Ward 3,State Auditor,,Sean O'Toole,LIB,3
+Phelps,Rolla Ward 4,State Auditor,,Sean O'Toole,LIB,5
+Phelps,Rolla Ward 5,State Auditor,,Sean O'Toole,LIB,2
+Phelps,Rolla Ward 6,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Rolla Outside South,State Auditor,,Sean O'Toole,LIB,1
+Phelps,Federal,State Auditor,,Sean O'Toole,LIB,0
 Phelps,Absentee,State Auditor,,Sean O'Toole,LIB,0
+Phelps,Doolittle Ward 1,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Jerome,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Newburg Ward 1,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Edgar Springs North,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Dawson,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Dillon Central,U.S. House,8,Jonathan L. Shell,LIB,2
+Phelps,Dillon North,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Dillon South,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Cold Springs East,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Cold Springs West,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Meramec North & South,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Miller East,U.S. House,8,Jonathan L. Shell,LIB,1
+Phelps,Rolla Ward 1,U.S. House,8,Jonathan L. Shell,LIB,2
+Phelps,Rolla Ward 2,U.S. House,8,Jonathan L. Shell,LIB,1
+Phelps,Rolla Ward 3,U.S. House,8,Jonathan L. Shell,LIB,3
+Phelps,Rolla Ward 4,U.S. House,8,Jonathan L. Shell,LIB,5
+Phelps,Rolla Ward 5,U.S. House,8,Jonathan L. Shell,LIB,2
+Phelps,Rolla Ward 6,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Rolla Outside South,U.S. House,8,Jonathan L. Shell,LIB,1
+Phelps,Federal,U.S. House,8,Jonathan L. Shell,LIB,0
 Phelps,Absentee,U.S. House,8,Jonathan L. Shell,LIB,0
+Phelps,Doolittle Ward 1,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Doolittle Ward 1,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Jerome,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Jerome,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Newburg Ward 1,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Newburg Ward 1,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Edgar Springs North,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Edgar Springs North,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Dawson,U.S. Senate,,Jo Crain,GRN,2
+Phelps,Dawson,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Dillon Central,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Dillon Central,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Dillon North,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Dillon North,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Dillon South,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Dillon South,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Cold Springs East,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Cold Springs East,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Cold Springs West,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Cold Springs West,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Meramec North & South,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Meramec North & South,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Miller East,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Miller East,U.S. Senate,,Jerome Bauer,GRN,1
+Phelps,Rolla Ward 1,U.S. Senate,,Jo Crain,GRN,2
+Phelps,Rolla Ward 1,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Rolla Ward 2,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Rolla Ward 2,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Rolla Ward 3,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Rolla Ward 3,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Rolla Ward 4,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Rolla Ward 4,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Rolla Ward 5,U.S. Senate,,Jo Crain,GRN,1
+Phelps,Rolla Ward 5,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Rolla Ward 6,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Rolla Ward 6,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Rolla Outside South,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Rolla Outside South,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Federal,U.S. Senate,,Jo Crain,GRN,0
+Phelps,Federal,U.S. Senate,,Jerome Bauer,GRN,0
 Phelps,Absentee,U.S. Senate,,Jo Crain,GRN,0
 Phelps,Absentee,U.S. Senate,,Jerome Bauer,GRN,0
+Phelps,Doolittle Ward 1,State Auditor,,Don Fitz,GRN,0
+Phelps,Jerome,State Auditor,,Don Fitz,GRN,0
+Phelps,Newburg Ward 1,State Auditor,,Don Fitz,GRN,0
+Phelps,Edgar Springs North,State Auditor,,Don Fitz,GRN,0
+Phelps,Dawson,State Auditor,,Don Fitz,GRN,2
+Phelps,Dillon Central,State Auditor,,Don Fitz,GRN,0
+Phelps,Dillon North,State Auditor,,Don Fitz,GRN,0
+Phelps,Dillon South,State Auditor,,Don Fitz,GRN,0
+Phelps,Cold Springs East,State Auditor,,Don Fitz,GRN,0
+Phelps,Cold Springs West,State Auditor,,Don Fitz,GRN,0
+Phelps,Meramec North & South,State Auditor,,Don Fitz,GRN,0
+Phelps,Miller East,State Auditor,,Don Fitz,GRN,1
+Phelps,Rolla Ward 1,State Auditor,,Don Fitz,GRN,2
+Phelps,Rolla Ward 2,State Auditor,,Don Fitz,GRN,0
+Phelps,Rolla Ward 3,State Auditor,,Don Fitz,GRN,0
+Phelps,Rolla Ward 4,State Auditor,,Don Fitz,GRN,0
+Phelps,Rolla Ward 5,State Auditor,,Don Fitz,GRN,1
+Phelps,Rolla Ward 6,State Auditor,,Don Fitz,GRN,0
+Phelps,Rolla Outside South,State Auditor,,Don Fitz,GRN,0
+Phelps,Federal,State Auditor,,Don Fitz,GRN,0
 Phelps,Absentee,State Auditor,,Don Fitz,GRN,0
+Phelps,Doolittle Ward 1,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Jerome,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Newburg Ward 1,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Edgar Springs North,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Dawson,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Dillon Central,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Dillon North,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Dillon South,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Cold Springs East,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Cold Springs West,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Meramec North & South,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Miller East,State Auditor,,Jacob Luetkemeyer,CST,1
+Phelps,Rolla Ward 1,State Auditor,,Jacob Luetkemeyer,CST,1
+Phelps,Rolla Ward 2,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Rolla Ward 3,State Auditor,,Jacob Luetkemeyer,CST,1
+Phelps,Rolla Ward 4,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Rolla Ward 5,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Rolla Ward 6,State Auditor,,Jacob Luetkemeyer,CST,1
+Phelps,Rolla Outside South,State Auditor,,Jacob Luetkemeyer,CST,0
+Phelps,Federal,State Auditor,,Jacob Luetkemeyer,CST,0
 Phelps,Absentee,State Auditor,,Jacob Luetkemeyer,CST,0
