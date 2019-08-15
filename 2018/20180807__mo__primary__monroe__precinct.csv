@@ -1,0 +1,431 @@
+county,precinct,office,district,candidate,party,votes
+Monroe,Madison Community Center,,,Registered Voters,,868
+Monroe,Madison Community Center,,,Total Ballots,,322
+Monroe,Madison Community Center,,,,Non-Partisan,7
+Monroe,Madison Community Center,,,,REP,194
+Monroe,Madison Community Center,,,,DEM,115
+Monroe,Madison Community Center,,,,LIB,3
+Monroe,Madison Community Center,,,,GRN,0
+Monroe,Madison Community Center,,,,CST,1
+Monroe,Madison Community Center,U.S. Senate,,Tony Monetti,REP,10
+Monroe,Madison Community Center,U.S. Senate,,Austin Petersen,REP,27
+Monroe,Madison Community Center,U.S. Senate,,Josh Hawley,REP,88
+Monroe,Madison Community Center,U.S. Senate,,Fred Ryman,REP,4
+Monroe,Madison Community Center,U.S. Senate,,Christina Smith,REP,9
+Monroe,Madison Community Center,U.S. Senate,,Kristi Nichols,REP,16
+Monroe,Madison Community Center,U.S. Senate,,Bradley Krembs,REP,3
+Monroe,Madison Community Center,U.S. Senate,,Ken Patterson,REP,5
+Monroe,Madison Community Center,U.S. Senate,,Brian G. Hagg,REP,2
+Monroe,Madison Community Center,U.S. Senate,,Courtland Sykes,REP,4
+Monroe,Madison Community Center,U.S. Senate,,Peter Pfeifer,REP,3
+Monroe,Madison Community Center,State Auditor,,Kevin M. Roach,REP,20
+Monroe,Madison Community Center,State Auditor,,David Wasinger,REP,49
+Monroe,Madison Community Center,State Auditor,,Paul Curtman,REP,23
+Monroe,Madison Community Center,State Auditor,,Saundra McDowell,REP,59
+Monroe,Madison Community Center,U.S. House,6,Sam Graves,REP,168
+Monroe,Madison Community Center,State Senate,10,Jeanie Riddle,REP,164
+Monroe,Madison Community Center,State House,5,Neal R. Minor,REP,4
+Monroe,Madison Community Center,State House,5,Louis Riggs,REP,5
+Monroe,Madison Community Center,State House,5,Loren L. Graham,REP,0
+Monroe,Madison Community Center,State House,5,John Paul Tomko,REP,1
+Monroe,Madison Community Center,State House,40,Jim Hansen,REP,157
+Monroe,Madison Community Center,U.S. Senate,,Carla (Coffee) Wright,DEM,11
+Monroe,Madison Community Center,U.S. Senate,,Angelica Earl,DEM,3
+Monroe,Madison Community Center,U.S. Senate,,Leonard Joseph Steinman II,DEM,5
+Monroe,Madison Community Center,U.S. Senate,,John Hogan,DEM,12
+Monroe,Madison Community Center,U.S. Senate,,Travis Gonzalez,DEM,3
+Monroe,Madison Community Center,U.S. Senate,,David Faust,DEM,7
+Monroe,Madison Community Center,U.S. Senate,,Claire McCaskill,DEM,66
+Monroe,Madison Community Center,State Auditor,,Nicole Galloway,DEM,86
+Monroe,Madison Community Center,U.S. House,6,Winston Apple,DEM,23
+Monroe,Madison Community Center,U.S. House,6,Henry Robert Martin,DEM,48
+Monroe,Madison Community Center,U.S. House,6,Ed Andres,DEM,16
+Monroe,Madison Community Center,State Senate,10,Ayanna Shivers,DEM,81
+Monroe,Madison Community Center,State House ,5,Joe Frese,DEM,6
+Monroe,Madison Community Center,U.S. Senate,,Japheth Campbell,LIB,3
+Monroe,Madison Community Center,State Auditor,,Sean O'Toole,LIB,3
+Monroe,Madison Community Center,U.S. House,6,Dan Hogan,LIB,3
+Monroe,Madison Community Center,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Madison Community Center,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Madison Community Center,State Auditor,,Don Fitz,GRN,0
+Monroe,Madison Community Center,State Auditor,,Jacob Luetkemeyer,CST,1
+Monroe,Middle Grove,,,Registered Voters,,383
+Monroe,Middle Grove,,,Total Ballots,,155
+Monroe,Middle Grove,,,,Non-Partisan,3
+Monroe,Middle Grove,,,,REP,102
+Monroe,Middle Grove,,,,DEM,49
+Monroe,Middle Grove,,,,LIB,0
+Monroe,Middle Grove,,,,GRN,0
+Monroe,Middle Grove,,,,CST,0
+Monroe,Middle Grove,U.S. Senate,,Tony Monetti,REP,12
+Monroe,Middle Grove,U.S. Senate,,Austin Petersen,REP,15
+Monroe,Middle Grove,U.S. Senate,,Josh Hawley,REP,44
+Monroe,Middle Grove,U.S. Senate,,Fred Ryman,REP,5
+Monroe,Middle Grove,U.S. Senate,,Christina Smith,REP,4
+Monroe,Middle Grove,U.S. Senate,,Kristi Nichols,REP,8
+Monroe,Middle Grove,U.S. Senate,,Bradley Krembs,REP,0
+Monroe,Middle Grove,U.S. Senate,,Ken Patterson,REP,3
+Monroe,Middle Grove,U.S. Senate,,Brian G. Hagg,REP,0
+Monroe,Middle Grove,U.S. Senate,,Courtland Sykes,REP,1
+Monroe,Middle Grove,U.S. Senate,,Peter Pfeifer,REP,1
+Monroe,Middle Grove,State Auditor,,Kevin M. Roach,REP,17
+Monroe,Middle Grove,State Auditor,,David Wasinger,REP,24
+Monroe,Middle Grove,State Auditor,,Paul Curtman,REP,13
+Monroe,Middle Grove,State Auditor,,Saundra McDowell,REP,28
+Monroe,Middle Grove,U.S. House,6,Sam Graves,REP,82
+Monroe,Middle Grove,State Senate,10,Jeanie Riddle,REP,78
+Monroe,Middle Grove,State House,40,Jim Hansen,REP,78
+Monroe,Middle Grove,U.S. Senate,,Carla (Coffee) Wright,DEM,2
+Monroe,Middle Grove,U.S. Senate,,Angelica Earl,DEM,1
+Monroe,Middle Grove,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Monroe,Middle Grove,U.S. Senate,,John Hogan,DEM,3
+Monroe,Middle Grove,U.S. Senate,,Travis Gonzalez,DEM,2
+Monroe,Middle Grove,U.S. Senate,,David Faust,DEM,2
+Monroe,Middle Grove,U.S. Senate,,Claire McCaskill,DEM,36
+Monroe,Middle Grove,State Auditor,,Nicole Galloway,DEM,39
+Monroe,Middle Grove,U.S. House,6,Winston Apple,DEM,13
+Monroe,Middle Grove,U.S. House,6,Henry Robert Martin,DEM,23
+Monroe,Middle Grove,U.S. House,6,Ed Andres,DEM,8
+Monroe,Middle Grove,State Senate,10,Ayanna Shivers,DEM,41
+Monroe,Middle Grove,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Middle Grove,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Middle Grove,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Middle Grove,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Middle Grove,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Middle Grove,State Auditor,,Don Fitz,GRN,0
+Monroe,Middle Grove,State Auditor,,Jacob Luetkemeyer,CST,0
+Monroe,Holliday School,,,Registered Voters,,198
+Monroe,Holliday School,,,Total Ballots,,91
+Monroe,Holliday School,,,,Non-Partisan,1
+Monroe,Holliday School,,,,REP,48
+Monroe,Holliday School,,,,DEM,42
+Monroe,Holliday School,,,,LIB,0
+Monroe,Holliday School,,,,GRN,0
+Monroe,Holliday School,,,,CST,0
+Monroe,Holliday School,U.S. Senate,,Tony Monetti,REP,5
+Monroe,Holliday School,U.S. Senate,,Austin Petersen,REP,6
+Monroe,Holliday School,U.S. Senate,,Josh Hawley,REP,16
+Monroe,Holliday School,U.S. Senate,,Fred Ryman,REP,1
+Monroe,Holliday School,U.S. Senate,,Christina Smith,REP,5
+Monroe,Holliday School,U.S. Senate,,Kristi Nichols,REP,2
+Monroe,Holliday School,U.S. Senate,,Bradley Krembs,REP,1
+Monroe,Holliday School,U.S. Senate,,Ken Patterson,REP,1
+Monroe,Holliday School,U.S. Senate,,Brian G. Hagg,REP,1
+Monroe,Holliday School,U.S. Senate,,Courtland Sykes,REP,2
+Monroe,Holliday School,U.S. Senate,,Peter Pfeifer,REP,1
+Monroe,Holliday School,State Auditor,,Kevin M. Roach,REP,7
+Monroe,Holliday School,State Auditor,,David Wasinger,REP,15
+Monroe,Holliday School,State Auditor,,Paul Curtman,REP,5
+Monroe,Holliday School,State Auditor,,Saundra McDowell,REP,13
+Monroe,Holliday School,U.S. House,6,Sam Graves,REP,41
+Monroe,Holliday School,State Senate,10,Jeanie Riddle,REP,40
+Monroe,Holliday School,State House,40,Jim Hansen,REP,41
+Monroe,Holliday School,U.S. Senate,,Carla (Coffee) Wright,DEM,3
+Monroe,Holliday School,U.S. Senate,,Angelica Earl,DEM,0
+Monroe,Holliday School,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Monroe,Holliday School,U.S. Senate,,John Hogan,DEM,6
+Monroe,Holliday School,U.S. Senate,,Travis Gonzalez,DEM,0
+Monroe,Holliday School,U.S. Senate,,David Faust,DEM,2
+Monroe,Holliday School,U.S. Senate,,Claire McCaskill,DEM,27
+Monroe,Holliday School,State Auditor,,Nicole Galloway,DEM,29
+Monroe,Holliday School,U.S. House,6,Winston Apple,DEM,12
+Monroe,Holliday School,U.S. House,6,Henry Robert Martin,DEM,15
+Monroe,Holliday School,U.S. House,6,Ed Andres,DEM,7
+Monroe,Holliday School,State Senate,10,Ayanna Shivers,DEM,33
+Monroe,Holliday School,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Holliday School,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Holliday School,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Holliday School,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Holliday School,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Holliday School,State Auditor,,Don Fitz,GRN,0
+Monroe,Holliday School,State Auditor,,Jacob Luetkemeyer,CST,0
+Monroe,Monroe County Courthouse,,,Registered Voters,,1006
+Monroe,Monroe County Courthouse,,,Total Ballots,,421
+Monroe,Monroe County Courthouse,,,,Non-Partisan,2
+Monroe,Monroe County Courthouse,,,,REP,256
+Monroe,Monroe County Courthouse,,,,DEM,162
+Monroe,Monroe County Courthouse,,,,LIB,0
+Monroe,Monroe County Courthouse,,,,GRN,0
+Monroe,Monroe County Courthouse,,,,CST,0
+Monroe,Monroe County Courthouse,U.S. Senate,,Tony Monetti,REP,12
+Monroe,Monroe County Courthouse,U.S. Senate,,Austin Petersen,REP,14
+Monroe,Monroe County Courthouse,U.S. Senate,,Josh Hawley,REP,95
+Monroe,Monroe County Courthouse,U.S. Senate,,Fred Ryman,REP,3
+Monroe,Monroe County Courthouse,U.S. Senate,,Christina Smith,REP,12
+Monroe,Monroe County Courthouse,U.S. Senate,,Kristi Nichols,REP,22
+Monroe,Monroe County Courthouse,U.S. Senate,,Bradley Krembs,REP,2
+Monroe,Monroe County Courthouse,U.S. Senate,,Ken Patterson,REP,6
+Monroe,Monroe County Courthouse,U.S. Senate,,Brian G. Hagg,REP,5
+Monroe,Monroe County Courthouse,U.S. Senate,,Courtland Sykes,REP,17
+Monroe,Monroe County Courthouse,U.S. Senate,,Peter Pfeifer,REP,8
+Monroe,Monroe County Courthouse,State Auditor,,Kevin M. Roach,REP,23
+Monroe,Monroe County Courthouse,State Auditor,,David Wasinger,REP,61
+Monroe,Monroe County Courthouse,State Auditor,,Paul Curtman,REP,24
+Monroe,Monroe County Courthouse,State Auditor,,Saundra McDowell,REP,64
+Monroe,Monroe County Courthouse,U.S. House,6,Sam Graves,REP,188
+Monroe,Monroe County Courthouse,State Senate,10,Jeanie Riddle,REP,175
+Monroe,Monroe County Courthouse,State House,5,Neal R. Minor,REP,9
+Monroe,Monroe County Courthouse,State House,5,Louis Riggs,REP,16
+Monroe,Monroe County Courthouse,State House,5,Loren L. Graham,REP,4
+Monroe,Monroe County Courthouse,State House,5,John Paul Tomko,REP,4
+Monroe,Monroe County Courthouse,State House,40,Jim Hansen,REP,162
+Monroe,Monroe County Courthouse,U.S. Senate,,Carla (Coffee) Wright,DEM,12
+Monroe,Monroe County Courthouse,U.S. Senate,,Angelica Earl,DEM,2
+Monroe,Monroe County Courthouse,U.S. Senate,,Leonard Joseph Steinman II,DEM,8
+Monroe,Monroe County Courthouse,U.S. Senate,,John Hogan,DEM,12
+Monroe,Monroe County Courthouse,U.S. Senate,,Travis Gonzalez,DEM,3
+Monroe,Monroe County Courthouse,U.S. Senate,,David Faust,DEM,2
+Monroe,Monroe County Courthouse,U.S. Senate,,Claire McCaskill,DEM,88
+Monroe,Monroe County Courthouse,State Auditor,,Nicole Galloway,DEM,106
+Monroe,Monroe County Courthouse,U.S. House,6,Winston Apple,DEM,29
+Monroe,Monroe County Courthouse,U.S. House,6,Henry Robert Martin,DEM,59
+Monroe,Monroe County Courthouse,U.S. House,6,Ed Andres,DEM,20
+Monroe,Monroe County Courthouse,State Senate,10,Ayanna Shivers,DEM,112
+Monroe,Monroe County Courthouse,State House ,5,Joe Frese,DEM,2
+Monroe,Monroe County Courthouse,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Monroe County Courthouse,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Monroe County Courthouse,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Monroe County Courthouse,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Monroe County Courthouse,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Monroe County Courthouse,State Auditor,,Don Fitz,GRN,0
+Monroe,Monroe County Courthouse,State Auditor,,Jacob Luetkemeyer,CST,0
+Monroe,Paris Library,,,Registered Voters,,874
+Monroe,Paris Library,,,Total Ballots,,379
+Monroe,Paris Library,,,,Non-Partisan,0
+Monroe,Paris Library,,,,REP,219
+Monroe,Paris Library,,,,DEM,158
+Monroe,Paris Library,,,,LIB,0
+Monroe,Paris Library,,,,GRN,0
+Monroe,Paris Library,,,,CST,0
+Monroe,Paris Library,U.S. Senate,,Tony Monetti,REP,8
+Monroe,Paris Library,U.S. Senate,,Austin Petersen,REP,41
+Monroe,Paris Library,U.S. Senate,,Josh Hawley,REP,80
+Monroe,Paris Library,U.S. Senate,,Fred Ryman,REP,4
+Monroe,Paris Library,U.S. Senate,,Christina Smith,REP,15
+Monroe,Paris Library,U.S. Senate,,Kristi Nichols,REP,19
+Monroe,Paris Library,U.S. Senate,,Bradley Krembs,REP,1
+Monroe,Paris Library,U.S. Senate,,Ken Patterson,REP,4
+Monroe,Paris Library,U.S. Senate,,Brian G. Hagg,REP,2
+Monroe,Paris Library,U.S. Senate,,Courtland Sykes,REP,3
+Monroe,Paris Library,U.S. Senate,,Peter Pfeifer,REP,5
+Monroe,Paris Library,State Auditor,,Kevin M. Roach,REP,31
+Monroe,Paris Library,State Auditor,,David Wasinger,REP,56
+Monroe,Paris Library,State Auditor,,Paul Curtman,REP,24
+Monroe,Paris Library,State Auditor,,Saundra McDowell,REP,54
+Monroe,Paris Library,U.S. House,6,Sam Graves,REP,166
+Monroe,Paris Library,State Senate,10,Jeanie Riddle,REP,157
+Monroe,Paris Library,State House,40,Jim Hansen,REP,172
+Monroe,Paris Library,U.S. Senate,,Carla (Coffee) Wright,DEM,8
+Monroe,Paris Library,U.S. Senate,,Angelica Earl,DEM,9
+Monroe,Paris Library,U.S. Senate,,Leonard Joseph Steinman II,DEM,6
+Monroe,Paris Library,U.S. Senate,,John Hogan,DEM,17
+Monroe,Paris Library,U.S. Senate,,Travis Gonzalez,DEM,5
+Monroe,Paris Library,U.S. Senate,,David Faust,DEM,6
+Monroe,Paris Library,U.S. Senate,,Claire McCaskill,DEM,71
+Monroe,Paris Library,State Auditor,,Nicole Galloway,DEM,95
+Monroe,Paris Library,U.S. House,6,Winston Apple,DEM,27
+Monroe,Paris Library,U.S. House,6,Henry Robert Martin,DEM,47
+Monroe,Paris Library,U.S. House,6,Ed Andres,DEM,21
+Monroe,Paris Library,State Senate,10,Ayanna Shivers,DEM,102
+Monroe,Paris Library,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Paris Library,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Paris Library,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Paris Library,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Paris Library,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Paris Library,State Auditor,,Don Fitz,GRN,0
+Monroe,Paris Library,State Auditor,,Jacob Luetkemeyer,CST,0
+Monroe,Santa Fe Christian Church,,,Registered Voters,,326
+Monroe,Santa Fe Christian Church,,,Total Ballots,,143
+Monroe,Santa Fe Christian Church,,,,Non-Partisan,0
+Monroe,Santa Fe Christian Church,,,,REP,85
+Monroe,Santa Fe Christian Church,,,,DEM,58
+Monroe,Santa Fe Christian Church,,,,LIB,0
+Monroe,Santa Fe Christian Church,,,,GRN,0
+Monroe,Santa Fe Christian Church,,,,CST,0
+Monroe,Santa Fe Christian Church,U.S. Senate,,Tony Monetti,REP,9
+Monroe,Santa Fe Christian Church,U.S. Senate,,Austin Petersen,REP,6
+Monroe,Santa Fe Christian Church,U.S. Senate,,Josh Hawley,REP,47
+Monroe,Santa Fe Christian Church,U.S. Senate,,Fred Ryman,REP,3
+Monroe,Santa Fe Christian Church,U.S. Senate,,Christina Smith,REP,3
+Monroe,Santa Fe Christian Church,U.S. Senate,,Kristi Nichols,REP,2
+Monroe,Santa Fe Christian Church,U.S. Senate,,Bradley Krembs,REP,1
+Monroe,Santa Fe Christian Church,U.S. Senate,,Ken Patterson,REP,1
+Monroe,Santa Fe Christian Church,U.S. Senate,,Brian G. Hagg,REP,3
+Monroe,Santa Fe Christian Church,U.S. Senate,,Courtland Sykes,REP,0
+Monroe,Santa Fe Christian Church,U.S. Senate,,Peter Pfeifer,REP,1
+Monroe,Santa Fe Christian Church,State Auditor,,Kevin M. Roach,REP,8
+Monroe,Santa Fe Christian Church,State Auditor,,David Wasinger,REP,29
+Monroe,Santa Fe Christian Church,State Auditor,,Paul Curtman,REP,8
+Monroe,Santa Fe Christian Church,State Auditor,,Saundra McDowell,REP,21
+Monroe,Santa Fe Christian Church,U.S. House,6,Sam Graves,REP,68
+Monroe,Santa Fe Christian Church,State Senate,10,Jeanie Riddle,REP,67
+Monroe,Santa Fe Christian Church,State House,40,Jim Hansen,REP,66
+Monroe,Santa Fe Christian Church,U.S. Senate,,Carla (Coffee) Wright,DEM,6
+Monroe,Santa Fe Christian Church,U.S. Senate,,Angelica Earl,DEM,0
+Monroe,Santa Fe Christian Church,U.S. Senate,,Leonard Joseph Steinman II,DEM,2
+Monroe,Santa Fe Christian Church,U.S. Senate,,John Hogan,DEM,4
+Monroe,Santa Fe Christian Church,U.S. Senate,,Travis Gonzalez,DEM,0
+Monroe,Santa Fe Christian Church,U.S. Senate,,David Faust,DEM,1
+Monroe,Santa Fe Christian Church,U.S. Senate,,Claire McCaskill,DEM,36
+Monroe,Santa Fe Christian Church,State Auditor,,Nicole Galloway,DEM,43
+Monroe,Santa Fe Christian Church,U.S. House,6,Winston Apple,DEM,8
+Monroe,Santa Fe Christian Church,U.S. House,6,Henry Robert Martin,DEM,24
+Monroe,Santa Fe Christian Church,U.S. House,6,Ed Andres,DEM,4
+Monroe,Santa Fe Christian Church,State Senate,10,Ayanna Shivers,DEM,40
+Monroe,Santa Fe Christian Church,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Santa Fe Christian Church,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Santa Fe Christian Church,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Santa Fe Christian Church,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Santa Fe Christian Church,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Santa Fe Christian Church,State Auditor,,Don Fitz,GRN,0
+Monroe,Santa Fe Christian Church,State Auditor,,Jacob Luetkemeyer,CST,0
+Monroe,Stoutsville Community Center,,,Registered Voters,,543
+Monroe,Stoutsville Community Center,,,Total Ballots,,223
+Monroe,Stoutsville Community Center,,,,Non-Partisan,1
+Monroe,Stoutsville Community Center,,,,REP,171
+Monroe,Stoutsville Community Center,,,,DEM,50
+Monroe,Stoutsville Community Center,,,,LIB,0
+Monroe,Stoutsville Community Center,,,,GRN,0
+Monroe,Stoutsville Community Center,,,,CST,0
+Monroe,Stoutsville Community Center,U.S. Senate,,Tony Monetti,REP,12
+Monroe,Stoutsville Community Center,U.S. Senate,,Austin Petersen,REP,19
+Monroe,Stoutsville Community Center,U.S. Senate,,Josh Hawley,REP,78
+Monroe,Stoutsville Community Center,U.S. Senate,,Fred Ryman,REP,2
+Monroe,Stoutsville Community Center,U.S. Senate,,Christina Smith,REP,7
+Monroe,Stoutsville Community Center,U.S. Senate,,Kristi Nichols,REP,18
+Monroe,Stoutsville Community Center,U.S. Senate,,Bradley Krembs,REP,1
+Monroe,Stoutsville Community Center,U.S. Senate,,Ken Patterson,REP,7
+Monroe,Stoutsville Community Center,U.S. Senate,,Brian G. Hagg,REP,3
+Monroe,Stoutsville Community Center,U.S. Senate,,Courtland Sykes,REP,4
+Monroe,Stoutsville Community Center,U.S. Senate,,Peter Pfeifer,REP,3
+Monroe,Stoutsville Community Center,State Auditor,,Kevin M. Roach,REP,17
+Monroe,Stoutsville Community Center,State Auditor,,David Wasinger,REP,63
+Monroe,Stoutsville Community Center,State Auditor,,Paul Curtman,REP,19
+Monroe,Stoutsville Community Center,State Auditor,,Saundra McDowell,REP,39
+Monroe,Stoutsville Community Center,U.S. House,6,Sam Graves,REP,138
+Monroe,Stoutsville Community Center,State Senate,10,Jeanie Riddle,REP,136
+Monroe,Stoutsville Community Center,State House,5,Neal R. Minor,REP,21
+Monroe,Stoutsville Community Center,State House,5,Louis Riggs,REP,13
+Monroe,Stoutsville Community Center,State House,5,Loren L. Graham,REP,9
+Monroe,Stoutsville Community Center,State House,5,John Paul Tomko,REP,2
+Monroe,Stoutsville Community Center,State House,40,Jim Hansen,REP,102
+Monroe,Stoutsville Community Center,U.S. Senate,,Carla (Coffee) Wright,DEM,4
+Monroe,Stoutsville Community Center,U.S. Senate,,Angelica Earl,DEM,1
+Monroe,Stoutsville Community Center,U.S. Senate,,Leonard Joseph Steinman II,DEM,0
+Monroe,Stoutsville Community Center,U.S. Senate,,John Hogan,DEM,6
+Monroe,Stoutsville Community Center,U.S. Senate,,Travis Gonzalez,DEM,1
+Monroe,Stoutsville Community Center,U.S. Senate,,David Faust,DEM,2
+Monroe,Stoutsville Community Center,U.S. Senate,,Claire McCaskill,DEM,35
+Monroe,Stoutsville Community Center,State Auditor,,Nicole Galloway,DEM,40
+Monroe,Stoutsville Community Center,U.S. House,6,Winston Apple,DEM,12
+Monroe,Stoutsville Community Center,U.S. House,6,Henry Robert Martin,DEM,21
+Monroe,Stoutsville Community Center,U.S. House,6,Ed Andres,DEM,8
+Monroe,Stoutsville Community Center,State Senate,10,Ayanna Shivers,DEM,40
+Monroe,Stoutsville Community Center,State House ,5,Joe Frese,DEM,5
+Monroe,Stoutsville Community Center,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Stoutsville Community Center,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Stoutsville Community Center,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Stoutsville Community Center,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Stoutsville Community Center,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Stoutsville Community Center,State Auditor,,Don Fitz,GRN,0
+Monroe,Stoutsville Community Center,State Auditor,,Jacob Luetkemeyer,CST,0
+Monroe,Monroe City VFW Hall,,,Registered Voters,,1789
+Monroe,Monroe City VFW Hall,,,Total Ballots,,572
+Monroe,Monroe City VFW Hall,,,,Non-Partisan,1
+Monroe,Monroe City VFW Hall,,,,REP,428
+Monroe,Monroe City VFW Hall,,,,DEM,143
+Monroe,Monroe City VFW Hall,,,,LIB,0
+Monroe,Monroe City VFW Hall,,,,GRN,0
+Monroe,Monroe City VFW Hall,,,,CST,0
+Monroe,Monroe City VFW Hall,U.S. Senate,,Tony Monetti,REP,54
+Monroe,Monroe City VFW Hall,U.S. Senate,,Austin Petersen,REP,18
+Monroe,Monroe City VFW Hall,U.S. Senate,,Josh Hawley,REP,166
+Monroe,Monroe City VFW Hall,U.S. Senate,,Fred Ryman,REP,5
+Monroe,Monroe City VFW Hall,U.S. Senate,,Christina Smith,REP,35
+Monroe,Monroe City VFW Hall,U.S. Senate,,Kristi Nichols,REP,37
+Monroe,Monroe City VFW Hall,U.S. Senate,,Bradley Krembs,REP,0
+Monroe,Monroe City VFW Hall,U.S. Senate,,Ken Patterson,REP,18
+Monroe,Monroe City VFW Hall,U.S. Senate,,Brian G. Hagg,REP,14
+Monroe,Monroe City VFW Hall,U.S. Senate,,Courtland Sykes,REP,8
+Monroe,Monroe City VFW Hall,U.S. Senate,,Peter Pfeifer,REP,10
+Monroe,Monroe City VFW Hall,State Auditor,,Kevin M. Roach,REP,40
+Monroe,Monroe City VFW Hall,State Auditor,,David Wasinger,REP,165
+Monroe,Monroe City VFW Hall,State Auditor,,Paul Curtman,REP,32
+Monroe,Monroe City VFW Hall,State Auditor,,Saundra McDowell,REP,115
+Monroe,Monroe City VFW Hall,U.S. House,6,Sam Graves,REP,351
+Monroe,Monroe City VFW Hall,State Senate,10,Jeanie Riddle,REP,333
+Monroe,Monroe City VFW Hall,State House,5,Neal R. Minor,REP,157
+Monroe,Monroe City VFW Hall,State House,5,Louis Riggs,REP,106
+Monroe,Monroe City VFW Hall,State House,5,Loren L. Graham,REP,45
+Monroe,Monroe City VFW Hall,State House,5,John Paul Tomko,REP,8
+Monroe,Monroe City VFW Hall,State House,40,Jim Hansen,REP,74
+Monroe,Monroe City VFW Hall,U.S. Senate,,Carla (Coffee) Wright,DEM,5
+Monroe,Monroe City VFW Hall,U.S. Senate,,Angelica Earl,DEM,6
+Monroe,Monroe City VFW Hall,U.S. Senate,,Leonard Joseph Steinman II,DEM,1
+Monroe,Monroe City VFW Hall,U.S. Senate,,John Hogan,DEM,8
+Monroe,Monroe City VFW Hall,U.S. Senate,,Travis Gonzalez,DEM,3
+Monroe,Monroe City VFW Hall,U.S. Senate,,David Faust,DEM,2
+Monroe,Monroe City VFW Hall,U.S. Senate,,Claire McCaskill,DEM,108
+Monroe,Monroe City VFW Hall,State Auditor,,Nicole Galloway,DEM,115
+Monroe,Monroe City VFW Hall,U.S. House,6,Winston Apple,DEM,33
+Monroe,Monroe City VFW Hall,U.S. House,6,Henry Robert Martin,DEM,56
+Monroe,Monroe City VFW Hall,U.S. House,6,Ed Andres,DEM,18
+Monroe,Monroe City VFW Hall,State Senate,10,Ayanna Shivers,DEM,112
+Monroe,Monroe City VFW Hall,State House ,5,Joe Frese,DEM,84
+Monroe,Monroe City VFW Hall,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Monroe City VFW Hall,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Monroe City VFW Hall,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Monroe City VFW Hall,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Monroe City VFW Hall,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Monroe City VFW Hall,State Auditor,,Don Fitz,GRN,0
+Monroe,Monroe City VFW Hall,State Auditor,,Jacob Luetkemeyer,CST,0
+Monroe,Absentee,,,Registered Voters,,0
+Monroe,Absentee,,,Total Ballots,,200
+Monroe,Absentee,,,,Non-Partisan,3
+Monroe,Absentee,,,,REP,118
+Monroe,Absentee,,,,DEM,77
+Monroe,Absentee,,,,LIB,0
+Monroe,Absentee,,,,GRN,0
+Monroe,Absentee,,,,CST,0
+Monroe,Absentee,U.S. Senate,,Tony Monetti,REP,12
+Monroe,Absentee,U.S. Senate,,Austin Petersen,REP,11
+Monroe,Absentee,U.S. Senate,,Josh Hawley,REP,47
+Monroe,Absentee,U.S. Senate,,Fred Ryman,REP,0
+Monroe,Absentee,U.S. Senate,,Christina Smith,REP,7
+Monroe,Absentee,U.S. Senate,,Kristi Nichols,REP,9
+Monroe,Absentee,U.S. Senate,,Bradley Krembs,REP,0
+Monroe,Absentee,U.S. Senate,,Ken Patterson,REP,3
+Monroe,Absentee,U.S. Senate,,Brian G. Hagg,REP,2
+Monroe,Absentee,U.S. Senate,,Courtland Sykes,REP,2
+Monroe,Absentee,U.S. Senate,,Peter Pfeifer,REP,1
+Monroe,Absentee,State Auditor,,Kevin M. Roach,REP,11
+Monroe,Absentee,State Auditor,,David Wasinger,REP,34
+Monroe,Absentee,State Auditor,,Paul Curtman,REP,15
+Monroe,Absentee,State Auditor,,Saundra McDowell,REP,20
+Monroe,Absentee,U.S. House,6,Sam Graves,REP,92
+Monroe,Absentee,State Senate,10,Jeanie Riddle,REP,84
+Monroe,Absentee,State House,5,Neal R. Minor,REP,11
+Monroe,Absentee,State House,5,Louis Riggs,REP,8
+Monroe,Absentee,State House,5,Loren L. Graham,REP,2
+Monroe,Absentee,State House,5,John Paul Tomko,REP,0
+Monroe,Absentee,State House,40,Jim Hansen,REP,71
+Monroe,Absentee,U.S. Senate,,Carla (Coffee) Wright,DEM,4
+Monroe,Absentee,U.S. Senate,,Angelica Earl,DEM,2
+Monroe,Absentee,U.S. Senate,,Leonard Joseph Steinman II,DEM,2
+Monroe,Absentee,U.S. Senate,,John Hogan,DEM,4
+Monroe,Absentee,U.S. Senate,,Travis Gonzalez,DEM,1
+Monroe,Absentee,U.S. Senate,,David Faust,DEM,2
+Monroe,Absentee,U.S. Senate,,Claire McCaskill,DEM,54
+Monroe,Absentee,State Auditor,,Nicole Galloway,DEM,55
+Monroe,Absentee,U.S. House,6,Winston Apple,DEM,14
+Monroe,Absentee,U.S. House,6,Henry Robert Martin,DEM,31
+Monroe,Absentee,U.S. House,6,Ed Andres,DEM,11
+Monroe,Absentee,State Senate,10,Ayanna Shivers,DEM,55
+Monroe,Absentee,State House ,5,Joe Frese,DEM,14
+Monroe,Absentee,U.S. Senate,,Japheth Campbell,LIB,0
+Monroe,Absentee,State Auditor,,Sean O'Toole,LIB,0
+Monroe,Absentee,U.S. House,6,Dan Hogan,LIB,0
+Monroe,Absentee,U.S. Senate,,Jo Crain,GRN,0
+Monroe,Absentee,U.S. Senate,,Jerome Bauer,GRN,0
+Monroe,Absentee,State Auditor,,Don Fitz,GRN,0
+Monroe,Absentee,State Auditor,,Jacob Luetkemeyer,CST,0
