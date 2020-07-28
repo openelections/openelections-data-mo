@@ -1,51 +1,51 @@
 candidate,office,district,party,county,precinct,votes
-,Registered Voters,,REP,Newton,Crowder,1616
-,Ballots Cast,,REP,Newton,Crowder,455
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Crowder,27
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Crowder,6
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Crowder,180
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Crowder,7
-Christina Smith,ÊU.S. Senate,,REP,Newton,Crowder,21
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Crowder,40
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Crowder,4
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Crowder,20
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Crowder,6
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Crowder,9
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Crowder,5
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Crowder,5
-Angelica Earl,U S Senate,,DEM,Newton,Crowder,4
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Crowder,1
-John Hogan,U S Senate,,DEM,Newton,Crowder,0
-Travis Gonzalez,U S Senate,,DEM,Newton,Crowder,1
-David Faust,U S Senate,,DEM,Newton,Crowder,1
-Claire McCaskill,U S Senate,,DEM,Newton,Crowder,38
-Japheth Campbell,U S Senate,,LIB,Newton,Crowder,0
-Jo Crain,U S Senate,,GRN,Newton,Crowder,0
-Jerome Bauer,U S Senate,,GRN,Newton,Crowder,0
-Kevin M Roach,State Auditor,,REP,Newton,Crowder,88
-David Wasinger,State Auditor,,REP,Newton,Crowder,45
-Paul Curtman,State Auditor,,REP,Newton,Crowder,69
-Saundra McDowell,State Auditor,,REP,Newton,Crowder,126
-Nicole Galloway,State Auditor,,DEM,Newton,Crowder,49
-Sean O'Toole,State Auditor,,LIB,Newton,Crowder,0
-Don Fitz,State Auditor,,GRN,Newton,Crowder,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Crowder,0
-Billy Long,U S House,7,REP,Newton,Crowder,254
-Lance Norris,U S House,7,REP,Newton,Crowder,37
-Benjamin Holcomb,U S House,7,REP,Newton,Crowder,27
-Jim Evans,U S House,7,REP,Newton,Crowder,59
-Vince Jennings,U S House,7,DEM,Newton,Crowder,10
-John Farmer de la Torre,U S House,7,DEM,Newton,Crowder,6
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Crowder,14
-Kenneth Hatfield,U S House,7,DEM,Newton,Crowder,18
-Benjamin T Brixey,U S House,7,LIB,Newton,Crowder,0
-Bill White,State Senate,32,REP,Newton,Crowder,227
-Rob O'Brian,State Senate,32,REP,Newton,Crowder,156
-Carolyn McGowan,State Senate,32,DEM,Newton,Crowder,49
-Conon Gillis,State Senate,32,GRN,Newton,Crowder,0
-Mark Bartley,State Representative,159,REP,Newton,Crowder,103
-Dirk E Deaton,State Representative,159,REP,Newton,Crowder,264
-Jerry Sparks,State Representative,159,DEM,Newton,Crowder,48
+,Registered Voters,,REP,Newton,Crowder,1616.0
+,Ballots Cast,,REP,Newton,Crowder,455.0
+Tony Monetti,U.S. Senate,,REP,Newton,Crowder,27.0
+Austin Petersen,U.S. Senate,,REP,Newton,Crowder,6.0
+Josh Hawley,U.S. Senate,,REP,Newton,Crowder,180.0
+Fred Ryman,U.S. Senate,,REP,Newton,Crowder,7.0
+Christina Smith,U.S. Senate,,REP,Newton,Crowder,21.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Crowder,40.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Crowder,4.0
+Ken Patterson,U.S. Senate,,REP,Newton,Crowder,20.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Crowder,6.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Crowder,9.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Crowder,5.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Crowder,5.0
+Angelica Earl,U S Senate,,DEM,Newton,Crowder,4.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Crowder,1.0
+John Hogan,U S Senate,,DEM,Newton,Crowder,0.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Crowder,1.0
+David Faust,U S Senate,,DEM,Newton,Crowder,1.0
+Claire McCaskill,U S Senate,,DEM,Newton,Crowder,38.0
+Japheth Campbell,U S Senate,,LIB,Newton,Crowder,0.0
+Jo Crain,U S Senate,,GRN,Newton,Crowder,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Crowder,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Crowder,88.0
+David Wasinger,State Auditor,,REP,Newton,Crowder,45.0
+Paul Curtman,State Auditor,,REP,Newton,Crowder,69.0
+Saundra McDowell,State Auditor,,REP,Newton,Crowder,126.0
+Nicole Galloway,State Auditor,,DEM,Newton,Crowder,49.0
+Sean O'Toole,State Auditor,,LIB,Newton,Crowder,0.0
+Don Fitz,State Auditor,,GRN,Newton,Crowder,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Crowder,0.0
+Billy Long,U S House,7,REP,Newton,Crowder,254.0
+Lance Norris,U S House,7,REP,Newton,Crowder,37.0
+Benjamin Holcomb,U S House,7,REP,Newton,Crowder,27.0
+Jim Evans,U S House,7,REP,Newton,Crowder,59.0
+Vince Jennings,U S House,7,DEM,Newton,Crowder,10.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Crowder,6.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Crowder,14.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Crowder,18.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Crowder,0.0
+Bill White,State Senate,32,REP,Newton,Crowder,227.0
+Rob O'Brian,State Senate,32,REP,Newton,Crowder,156.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Crowder,49.0
+Conon Gillis,State Senate,32,GRN,Newton,Crowder,0.0
+Mark Bartley,State Representative,159,REP,Newton,Crowder,103.0
+Dirk E Deaton,State Representative,159,REP,Newton,Crowder,264.0
+Jerry Sparks,State Representative,159,DEM,Newton,Crowder,48.0
 Raleigh Drue Ritter,State Representative,160,REP,Newton,Crowder,
 Ben Baker,State Representative,160,REP,Newton,Crowder,
 David Osborn,State Representative,160,REP,Newton,Crowder,
@@ -56,110 +56,110 @@ Robert W Stokes,State Representative,162,REP,Newton,Crowder,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Crowder,
 Sarah Hinkle,State Representative,162,DEM,Newton,Crowder,
 Mollie Dyer,State Representative,162,GRN,Newton,Crowder,
-,Registered Voters,,REP,Newton,Diamond,2791
-,Ballots Cast,,REP,Newton,Diamond,802
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Diamond,58
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Diamond,73
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Diamond,323
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Diamond,15
-Christina Smith,ÊU.S. Senate,,REP,Newton,Diamond,27
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Diamond,91
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Diamond,1
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Diamond,28
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Diamond,6
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Diamond,11
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Diamond,14
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Diamond,13
-Angelica Earl,U S Senate,,DEM,Newton,Diamond,2
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Diamond,0
-John Hogan,U S Senate,,DEM,Newton,Diamond,10
-Travis Gonzalez,U S Senate,,DEM,Newton,Diamond,0
-David Faust,U S Senate,,DEM,Newton,Diamond,9
-Claire McCaskill,U S Senate,,DEM,Newton,Diamond,69
-Japheth Campbell,U S Senate,,LIB,Newton,Diamond,1
-Jo Crain,U S Senate,,GRN,Newton,Diamond,1
-Jerome Bauer,U S Senate,,GRN,Newton,Diamond,0
-Kevin M Roach,State Auditor,,REP,Newton,Diamond,192
-David Wasinger,State Auditor,,REP,Newton,Diamond,126
-Paul Curtman,State Auditor,,REP,Newton,Diamond,89
-Saundra McDowell,State Auditor,,REP,Newton,Diamond,175
-Nicole Galloway,State Auditor,,DEM,Newton,Diamond,90
-Sean O'Toole,State Auditor,,LIB,Newton,Diamond,1
-Don Fitz,State Auditor,,GRN,Newton,Diamond,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Diamond,0
-Billy Long,U S House,7,REP,Newton,Diamond,449
-Lance Norris,U S House,7,REP,Newton,Diamond,65
-Benjamin Holcomb,U S House,7,REP,Newton,Diamond,36
-Jim Evans,U S House,7,REP,Newton,Diamond,104
-Vince Jennings,U S House,7,DEM,Newton,Diamond,20
-John Farmer de la Torre,U S House,7,DEM,Newton,Diamond,30
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Diamond,20
-Kenneth Hatfield,U S House,7,DEM,Newton,Diamond,27
-Benjamin T Brixey,U S House,7,LIB,Newton,Diamond,1
-Bill White,State Senate,32,REP,Newton,Diamond,419
-Rob O'Brian,State Senate,32,REP,Newton,Diamond,235
-Carolyn McGowan,State Senate,32,DEM,Newton,Diamond,91
-Conon Gillis,State Senate,32,GRN,Newton,Diamond,1
+,Registered Voters,,REP,Newton,Diamond,2791.0
+,Ballots Cast,,REP,Newton,Diamond,802.0
+Tony Monetti,U.S. Senate,,REP,Newton,Diamond,58.0
+Austin Petersen,U.S. Senate,,REP,Newton,Diamond,73.0
+Josh Hawley,U.S. Senate,,REP,Newton,Diamond,323.0
+Fred Ryman,U.S. Senate,,REP,Newton,Diamond,15.0
+Christina Smith,U.S. Senate,,REP,Newton,Diamond,27.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Diamond,91.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Diamond,1.0
+Ken Patterson,U.S. Senate,,REP,Newton,Diamond,28.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Diamond,6.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Diamond,11.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Diamond,14.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Diamond,13.0
+Angelica Earl,U S Senate,,DEM,Newton,Diamond,2.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Diamond,0.0
+John Hogan,U S Senate,,DEM,Newton,Diamond,10.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Diamond,0.0
+David Faust,U S Senate,,DEM,Newton,Diamond,9.0
+Claire McCaskill,U S Senate,,DEM,Newton,Diamond,69.0
+Japheth Campbell,U S Senate,,LIB,Newton,Diamond,1.0
+Jo Crain,U S Senate,,GRN,Newton,Diamond,1.0
+Jerome Bauer,U S Senate,,GRN,Newton,Diamond,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Diamond,192.0
+David Wasinger,State Auditor,,REP,Newton,Diamond,126.0
+Paul Curtman,State Auditor,,REP,Newton,Diamond,89.0
+Saundra McDowell,State Auditor,,REP,Newton,Diamond,175.0
+Nicole Galloway,State Auditor,,DEM,Newton,Diamond,90.0
+Sean O'Toole,State Auditor,,LIB,Newton,Diamond,1.0
+Don Fitz,State Auditor,,GRN,Newton,Diamond,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Diamond,0.0
+Billy Long,U S House,7,REP,Newton,Diamond,449.0
+Lance Norris,U S House,7,REP,Newton,Diamond,65.0
+Benjamin Holcomb,U S House,7,REP,Newton,Diamond,36.0
+Jim Evans,U S House,7,REP,Newton,Diamond,104.0
+Vince Jennings,U S House,7,DEM,Newton,Diamond,20.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Diamond,30.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Diamond,20.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Diamond,27.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Diamond,1.0
+Bill White,State Senate,32,REP,Newton,Diamond,419.0
+Rob O'Brian,State Senate,32,REP,Newton,Diamond,235.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Diamond,91.0
+Conon Gillis,State Senate,32,GRN,Newton,Diamond,1.0
 Mark Bartley,State Representative,159,REP,Newton,Diamond,
 Dirk E Deaton,State Representative,159,REP,Newton,Diamond,
 Jerry Sparks,State Representative,159,DEM,Newton,Diamond,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Diamond,155
-Ben Baker,State Representative,160,REP,Newton,Diamond,354
-David Osborn,State Representative,160,REP,Newton,Diamond,114
-Angela R Thomas,State Representative,160,DEM,Newton,Diamond,93
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Diamond,155.0
+Ben Baker,State Representative,160,REP,Newton,Diamond,354.0
+David Osborn,State Representative,160,REP,Newton,Diamond,114.0
+Angela R Thomas,State Representative,160,DEM,Newton,Diamond,93.0
 Lane Roberts,State Representative,161,REP,Newton,Diamond,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Diamond,
-Robert W Stokes,State Representative,162,REP,Newton,Diamond,2
-Robert (Bob) Bromley,State Representative,162,REP,Newton,Diamond,2
-Sarah Hinkle,State Representative,162,DEM,Newton,Diamond,0
-Mollie Dyer,State Representative,162,GRN,Newton,Diamond,0
-,Registered Voters,,REP,Newton,Fairview,631
-,Ballots Cast,,REP,Newton,Fairview,161
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Fairview,8
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Fairview,2
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Fairview,78
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Fairview,2
-Christina Smith,ÊU.S. Senate,,REP,Newton,Fairview,9
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Fairview,11
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Fairview,3
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Fairview,13
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Fairview,4
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Fairview,0
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Fairview,2
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Fairview,1
-Angelica Earl,U S Senate,,DEM,Newton,Fairview,1
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Fairview,1
-John Hogan,U S Senate,,DEM,Newton,Fairview,1
-Travis Gonzalez,U S Senate,,DEM,Newton,Fairview,0
-David Faust,U S Senate,,DEM,Newton,Fairview,1
-Claire McCaskill,U S Senate,,DEM,Newton,Fairview,11
-Japheth Campbell,U S Senate,,LIB,Newton,Fairview,0
-Jo Crain,U S Senate,,GRN,Newton,Fairview,0
-Jerome Bauer,U S Senate,,GRN,Newton,Fairview,0
-Kevin M Roach,State Auditor,,REP,Newton,Fairview,23
-David Wasinger,State Auditor,,REP,Newton,Fairview,25
-Paul Curtman,State Auditor,,REP,Newton,Fairview,25
-Saundra McDowell,State Auditor,,REP,Newton,Fairview,44
-Nicole Galloway,State Auditor,,DEM,Newton,Fairview,12
-Sean O'Toole,State Auditor,,LIB,Newton,Fairview,0
-Don Fitz,State Auditor,,GRN,Newton,Fairview,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Fairview,0
-Billy Long,U S House,7,REP,Newton,Fairview,90
-Lance Norris,U S House,7,REP,Newton,Fairview,10
-Benjamin Holcomb,U S House,7,REP,Newton,Fairview,8
-Jim Evans,U S House,7,REP,Newton,Fairview,31
-Vince Jennings,U S House,7,DEM,Newton,Fairview,0
-John Farmer de la Torre,U S House,7,DEM,Newton,Fairview,6
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Fairview,5
-Kenneth Hatfield,U S House,7,DEM,Newton,Fairview,5
-Benjamin T Brixey,U S House,7,LIB,Newton,Fairview,0
-Bill White,State Senate,32,REP,Newton,Fairview,85
-Rob O'Brian,State Senate,32,REP,Newton,Fairview,47
-Carolyn McGowan,State Senate,32,DEM,Newton,Fairview,15
-Conon Gillis,State Senate,32,GRN,Newton,Fairview,0
-Mark Bartley,State Representative,159,REP,Newton,Fairview,48
-Dirk E Deaton,State Representative,159,REP,Newton,Fairview,84
-Jerry Sparks,State Representative,159,DEM,Newton,Fairview,14
+Robert W Stokes,State Representative,162,REP,Newton,Diamond,2.0
+Robert (Bob) Bromley,State Representative,162,REP,Newton,Diamond,2.0
+Sarah Hinkle,State Representative,162,DEM,Newton,Diamond,0.0
+Mollie Dyer,State Representative,162,GRN,Newton,Diamond,0.0
+,Registered Voters,,REP,Newton,Fairview,631.0
+,Ballots Cast,,REP,Newton,Fairview,161.0
+Tony Monetti,U.S. Senate,,REP,Newton,Fairview,8.0
+Austin Petersen,U.S. Senate,,REP,Newton,Fairview,2.0
+Josh Hawley,U.S. Senate,,REP,Newton,Fairview,78.0
+Fred Ryman,U.S. Senate,,REP,Newton,Fairview,2.0
+Christina Smith,U.S. Senate,,REP,Newton,Fairview,9.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Fairview,11.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Fairview,3.0
+Ken Patterson,U.S. Senate,,REP,Newton,Fairview,13.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Fairview,4.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Fairview,0.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Fairview,2.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Fairview,1.0
+Angelica Earl,U S Senate,,DEM,Newton,Fairview,1.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Fairview,1.0
+John Hogan,U S Senate,,DEM,Newton,Fairview,1.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Fairview,0.0
+David Faust,U S Senate,,DEM,Newton,Fairview,1.0
+Claire McCaskill,U S Senate,,DEM,Newton,Fairview,11.0
+Japheth Campbell,U S Senate,,LIB,Newton,Fairview,0.0
+Jo Crain,U S Senate,,GRN,Newton,Fairview,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Fairview,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Fairview,23.0
+David Wasinger,State Auditor,,REP,Newton,Fairview,25.0
+Paul Curtman,State Auditor,,REP,Newton,Fairview,25.0
+Saundra McDowell,State Auditor,,REP,Newton,Fairview,44.0
+Nicole Galloway,State Auditor,,DEM,Newton,Fairview,12.0
+Sean O'Toole,State Auditor,,LIB,Newton,Fairview,0.0
+Don Fitz,State Auditor,,GRN,Newton,Fairview,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Fairview,0.0
+Billy Long,U S House,7,REP,Newton,Fairview,90.0
+Lance Norris,U S House,7,REP,Newton,Fairview,10.0
+Benjamin Holcomb,U S House,7,REP,Newton,Fairview,8.0
+Jim Evans,U S House,7,REP,Newton,Fairview,31.0
+Vince Jennings,U S House,7,DEM,Newton,Fairview,0.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Fairview,6.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Fairview,5.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Fairview,5.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Fairview,0.0
+Bill White,State Senate,32,REP,Newton,Fairview,85.0
+Rob O'Brian,State Senate,32,REP,Newton,Fairview,47.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Fairview,15.0
+Conon Gillis,State Senate,32,GRN,Newton,Fairview,0.0
+Mark Bartley,State Representative,159,REP,Newton,Fairview,48.0
+Dirk E Deaton,State Representative,159,REP,Newton,Fairview,84.0
+Jerry Sparks,State Representative,159,DEM,Newton,Fairview,14.0
 Raleigh Drue Ritter,State Representative,160,REP,Newton,Fairview,
 Ben Baker,State Representative,160,REP,Newton,Fairview,
 David Osborn,State Representative,160,REP,Newton,Fairview,
@@ -170,509 +170,509 @@ Robert W Stokes,State Representative,162,REP,Newton,Fairview,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Fairview,
 Sarah Hinkle,State Representative,162,DEM,Newton,Fairview,
 Mollie Dyer,State Representative,162,GRN,Newton,Fairview,
-,Registered Voters,,REP,Newton,Grandby,2684
-,Ballots Cast,,REP,Newton,Grandby,741
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Grandby,44
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Grandby,34
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Grandby,299
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Grandby,12
-Christina Smith,ÊU.S. Senate,,REP,Newton,Grandby,27
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Grandby,51
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Grandby,4
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Grandby,32
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Grandby,12
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Grandby,34
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Grandby,18
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Grandby,6
-Angelica Earl,U S Senate,,DEM,Newton,Grandby,4
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Grandby,0
-John Hogan,U S Senate,,DEM,Newton,Grandby,5
-Travis Gonzalez,U S Senate,,DEM,Newton,Grandby,3
-David Faust,U S Senate,,DEM,Newton,Grandby,5
-Claire McCaskill,U S Senate,,DEM,Newton,Grandby,80
-Japheth Campbell,U S Senate,,LIB,Newton,Grandby,0
-Jo Crain,U S Senate,,GRN,Newton,Grandby,1
-Jerome Bauer,U S Senate,,GRN,Newton,Grandby,0
-Kevin M Roach,State Auditor,,REP,Newton,Grandby,135
-David Wasinger,State Auditor,,REP,Newton,Grandby,91
-Paul Curtman,State Auditor,,REP,Newton,Grandby,97
-Saundra McDowell,State Auditor,,REP,Newton,Grandby,211
-Nicole Galloway,State Auditor,,DEM,Newton,Grandby,93
-Sean O'Toole,State Auditor,,LIB,Newton,Grandby,0
-Don Fitz,State Auditor,,GRN,Newton,Grandby,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Grandby,0
-Billy Long,U S House,7,REP,Newton,Grandby,409
-Lance Norris,U S House,7,REP,Newton,Grandby,47
-Benjamin Holcomb,U S House,7,REP,Newton,Grandby,30
-Jim Evans,U S House,7,REP,Newton,Grandby,100
-Vince Jennings,U S House,7,DEM,Newton,Grandby,20
-John Farmer de la Torre,U S House,7,DEM,Newton,Grandby,36
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Grandby,12
-Kenneth Hatfield,U S House,7,DEM,Newton,Grandby,28
-Benjamin T Brixey,U S House,7,LIB,Newton,Grandby,0
-Bill White,State Senate,32,REP,Newton,Grandby,396
-Rob O'Brian,State Senate,32,REP,Newton,Grandby,185
-Carolyn McGowan,State Senate,32,DEM,Newton,Grandby,93
-Conon Gillis,State Senate,32,GRN,Newton,Grandby,1
+,Registered Voters,,REP,Newton,Grandby,2684.0
+,Ballots Cast,,REP,Newton,Grandby,741.0
+Tony Monetti,U.S. Senate,,REP,Newton,Grandby,44.0
+Austin Petersen,U.S. Senate,,REP,Newton,Grandby,34.0
+Josh Hawley,U.S. Senate,,REP,Newton,Grandby,299.0
+Fred Ryman,U.S. Senate,,REP,Newton,Grandby,12.0
+Christina Smith,U.S. Senate,,REP,Newton,Grandby,27.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Grandby,51.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Grandby,4.0
+Ken Patterson,U.S. Senate,,REP,Newton,Grandby,32.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Grandby,12.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Grandby,34.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Grandby,18.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Grandby,6.0
+Angelica Earl,U S Senate,,DEM,Newton,Grandby,4.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Grandby,0.0
+John Hogan,U S Senate,,DEM,Newton,Grandby,5.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Grandby,3.0
+David Faust,U S Senate,,DEM,Newton,Grandby,5.0
+Claire McCaskill,U S Senate,,DEM,Newton,Grandby,80.0
+Japheth Campbell,U S Senate,,LIB,Newton,Grandby,0.0
+Jo Crain,U S Senate,,GRN,Newton,Grandby,1.0
+Jerome Bauer,U S Senate,,GRN,Newton,Grandby,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Grandby,135.0
+David Wasinger,State Auditor,,REP,Newton,Grandby,91.0
+Paul Curtman,State Auditor,,REP,Newton,Grandby,97.0
+Saundra McDowell,State Auditor,,REP,Newton,Grandby,211.0
+Nicole Galloway,State Auditor,,DEM,Newton,Grandby,93.0
+Sean O'Toole,State Auditor,,LIB,Newton,Grandby,0.0
+Don Fitz,State Auditor,,GRN,Newton,Grandby,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Grandby,0.0
+Billy Long,U S House,7,REP,Newton,Grandby,409.0
+Lance Norris,U S House,7,REP,Newton,Grandby,47.0
+Benjamin Holcomb,U S House,7,REP,Newton,Grandby,30.0
+Jim Evans,U S House,7,REP,Newton,Grandby,100.0
+Vince Jennings,U S House,7,DEM,Newton,Grandby,20.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Grandby,36.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Grandby,12.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Grandby,28.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Grandby,0.0
+Bill White,State Senate,32,REP,Newton,Grandby,396.0
+Rob O'Brian,State Senate,32,REP,Newton,Grandby,185.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Grandby,93.0
+Conon Gillis,State Senate,32,GRN,Newton,Grandby,1.0
 Mark Bartley,State Representative,159,REP,Newton,Grandby,
 Dirk E Deaton,State Representative,159,REP,Newton,Grandby,
 Jerry Sparks,State Representative,159,DEM,Newton,Grandby,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Grandby,127
-Ben Baker,State Representative,160,REP,Newton,Grandby,405
-David Osborn,State Representative,160,REP,Newton,Grandby,71
-Angela R Thomas,State Representative,160,DEM,Newton,Grandby,95
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Grandby,127.0
+Ben Baker,State Representative,160,REP,Newton,Grandby,405.0
+David Osborn,State Representative,160,REP,Newton,Grandby,71.0
+Angela R Thomas,State Representative,160,DEM,Newton,Grandby,95.0
 Lane Roberts,State Representative,161,REP,Newton,Grandby,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Grandby,
 Robert W Stokes,State Representative,162,REP,Newton,Grandby,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Grandby,
 Sarah Hinkle,State Representative,162,DEM,Newton,Grandby,
 Mollie Dyer,State Representative,162,GRN,Newton,Grandby,
-,Registered Voters,,REP,Newton,Hornet,2777
-,Ballots Cast,,REP,Newton,Hornet,775
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Hornet,48
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Hornet,53
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Hornet,338
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Hornet,16
-Christina Smith,ÊU.S. Senate,,REP,Newton,Hornet,32
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Hornet,67
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Hornet,3
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Hornet,31
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Hornet,8
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Hornet,9
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Hornet,12
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Hornet,14
-Angelica Earl,U S Senate,,DEM,Newton,Hornet,3
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Hornet,0
-John Hogan,U S Senate,,DEM,Newton,Hornet,5
-Travis Gonzalez,U S Senate,,DEM,Newton,Hornet,2
-David Faust,U S Senate,,DEM,Newton,Hornet,6
-Claire McCaskill,U S Senate,,DEM,Newton,Hornet,83
-Japheth Campbell,U S Senate,,LIB,Newton,Hornet,0
-Jo Crain,U S Senate,,GRN,Newton,Hornet,0
-Jerome Bauer,U S Senate,,GRN,Newton,Hornet,0
-Kevin M Roach,State Auditor,,REP,Newton,Hornet,147
-David Wasinger,State Auditor,,REP,Newton,Hornet,117
-Paul Curtman,State Auditor,,REP,Newton,Hornet,83
-Saundra McDowell,State Auditor,,REP,Newton,Hornet,219
-Nicole Galloway,State Auditor,,DEM,Newton,Hornet,104
-Sean O'Toole,State Auditor,,LIB,Newton,Hornet,0
-Don Fitz,State Auditor,,GRN,Newton,Hornet,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Hornet,0
-Billy Long,U S House,7,REP,Newton,Hornet,405
-Lance Norris,U S House,7,REP,Newton,Hornet,62
-Benjamin Holcomb,U S House,7,REP,Newton,Hornet,66
-Jim Evans,U S House,7,REP,Newton,Hornet,97
-Vince Jennings,U S House,7,DEM,Newton,Hornet,20
-John Farmer de la Torre,U S House,7,DEM,Newton,Hornet,22
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Hornet,36
-Kenneth Hatfield,U S House,7,DEM,Newton,Hornet,31
-Benjamin T Brixey,U S House,7,LIB,Newton,Hornet,0
-Bill White,State Senate,32,REP,Newton,Hornet,409
-Rob O'Brian,State Senate,32,REP,Newton,Hornet,228
-Carolyn McGowan,State Senate,32,DEM,Newton,Hornet,108
-Conon Gillis,State Senate,32,GRN,Newton,Hornet,0
+,Registered Voters,,REP,Newton,Hornet,2777.0
+,Ballots Cast,,REP,Newton,Hornet,775.0
+Tony Monetti,U.S. Senate,,REP,Newton,Hornet,48.0
+Austin Petersen,U.S. Senate,,REP,Newton,Hornet,53.0
+Josh Hawley,U.S. Senate,,REP,Newton,Hornet,338.0
+Fred Ryman,U.S. Senate,,REP,Newton,Hornet,16.0
+Christina Smith,U.S. Senate,,REP,Newton,Hornet,32.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Hornet,67.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Hornet,3.0
+Ken Patterson,U.S. Senate,,REP,Newton,Hornet,31.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Hornet,8.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Hornet,9.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Hornet,12.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Hornet,14.0
+Angelica Earl,U S Senate,,DEM,Newton,Hornet,3.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Hornet,0.0
+John Hogan,U S Senate,,DEM,Newton,Hornet,5.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Hornet,2.0
+David Faust,U S Senate,,DEM,Newton,Hornet,6.0
+Claire McCaskill,U S Senate,,DEM,Newton,Hornet,83.0
+Japheth Campbell,U S Senate,,LIB,Newton,Hornet,0.0
+Jo Crain,U S Senate,,GRN,Newton,Hornet,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Hornet,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Hornet,147.0
+David Wasinger,State Auditor,,REP,Newton,Hornet,117.0
+Paul Curtman,State Auditor,,REP,Newton,Hornet,83.0
+Saundra McDowell,State Auditor,,REP,Newton,Hornet,219.0
+Nicole Galloway,State Auditor,,DEM,Newton,Hornet,104.0
+Sean O'Toole,State Auditor,,LIB,Newton,Hornet,0.0
+Don Fitz,State Auditor,,GRN,Newton,Hornet,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Hornet,0.0
+Billy Long,U S House,7,REP,Newton,Hornet,405.0
+Lance Norris,U S House,7,REP,Newton,Hornet,62.0
+Benjamin Holcomb,U S House,7,REP,Newton,Hornet,66.0
+Jim Evans,U S House,7,REP,Newton,Hornet,97.0
+Vince Jennings,U S House,7,DEM,Newton,Hornet,20.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Hornet,22.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Hornet,36.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Hornet,31.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Hornet,0.0
+Bill White,State Senate,32,REP,Newton,Hornet,409.0
+Rob O'Brian,State Senate,32,REP,Newton,Hornet,228.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Hornet,108.0
+Conon Gillis,State Senate,32,GRN,Newton,Hornet,0.0
 Mark Bartley,State Representative,159,REP,Newton,Hornet,
 Dirk E Deaton,State Representative,159,REP,Newton,Hornet,
 Jerry Sparks,State Representative,159,DEM,Newton,Hornet,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Hornet,269
-Ben Baker,State Representative,160,REP,Newton,Hornet,265
-David Osborn,State Representative,160,REP,Newton,Hornet,91
-Angela R Thomas,State Representative,160,DEM,Newton,Hornet,104
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Hornet,269.0
+Ben Baker,State Representative,160,REP,Newton,Hornet,265.0
+David Osborn,State Representative,160,REP,Newton,Hornet,91.0
+Angela R Thomas,State Representative,160,DEM,Newton,Hornet,104.0
 Lane Roberts,State Representative,161,REP,Newton,Hornet,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Hornet,
 Robert W Stokes,State Representative,162,REP,Newton,Hornet,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Hornet,
 Sarah Hinkle,State Representative,162,DEM,Newton,Hornet,
 Mollie Dyer,State Representative,162,GRN,Newton,Hornet,
-,Registered Voters,,REP,Newton,East Neosho,1710
-,Ballots Cast,,REP,Newton,East Neosho,559
-Tony Monetti,ÊU.S. Senate,,REP,Newton,East Neosho,26
-Austin Petersen,ÊU.S. Senate,,REP,Newton,East Neosho,52
-Josh Hawley,ÊU.S. Senate,,REP,Newton,East Neosho,224
-Fred Ryman,ÊU.S. Senate,,REP,Newton,East Neosho,12
-Christina Smith,ÊU.S. Senate,,REP,Newton,East Neosho,25
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,East Neosho,50
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,East Neosho,4
-Ken Patterson,ÊU.S. Senate,,REP,Newton,East Neosho,17
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,East Neosho,6
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,East Neosho,13
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,East Neosho,15
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,East Neosho,6
-Angelica Earl,U S Senate,,DEM,Newton,East Neosho,5
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,East Neosho,2
-John Hogan,U S Senate,,DEM,Newton,East Neosho,2
-Travis Gonzalez,U S Senate,,DEM,Newton,East Neosho,1
-David Faust,U S Senate,,DEM,Newton,East Neosho,5
-Claire McCaskill,U S Senate,,DEM,Newton,East Neosho,36
-Japheth Campbell,U S Senate,,LIB,Newton,East Neosho,3
-Jo Crain,U S Senate,,GRN,Newton,East Neosho,0
-Jerome Bauer,U S Senate,,GRN,Newton,East Neosho,0
-Kevin M Roach,State Auditor,,REP,Newton,East Neosho,117
-David Wasinger,State Auditor,,REP,Newton,East Neosho,85
-Paul Curtman,State Auditor,,REP,Newton,East Neosho,63
-Saundra McDowell,State Auditor,,REP,Newton,East Neosho,138
-Nicole Galloway,State Auditor,,DEM,Newton,East Neosho,51
-Sean O'Toole,State Auditor,,LIB,Newton,East Neosho,3
-Don Fitz,State Auditor,,GRN,Newton,East Neosho,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,East Neosho,0
-Billy Long,U S House,7,REP,Newton,East Neosho,306
-Lance Norris,U S House,7,REP,Newton,East Neosho,47
-Benjamin Holcomb,U S House,7,REP,Newton,East Neosho,26
-Jim Evans,U S House,7,REP,Newton,East Neosho,77
-Vince Jennings,U S House,7,DEM,Newton,East Neosho,6
-John Farmer de la Torre,U S House,7,DEM,Newton,East Neosho,15
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,East Neosho,8
-Kenneth Hatfield,U S House,7,DEM,Newton,East Neosho,26
-Benjamin T Brixey,U S House,7,LIB,Newton,East Neosho,3
-Bill White,State Senate,32,REP,Newton,East Neosho,265
-Rob O'Brian,State Senate,32,REP,Newton,East Neosho,188
-Carolyn McGowan,State Senate,32,DEM,Newton,East Neosho,49
-Conon Gillis,State Senate,32,GRN,Newton,East Neosho,0
+,Registered Voters,,REP,Newton,East Neosho,1710.0
+,Ballots Cast,,REP,Newton,East Neosho,559.0
+Tony Monetti,U.S. Senate,,REP,Newton,East Neosho,26.0
+Austin Petersen,U.S. Senate,,REP,Newton,East Neosho,52.0
+Josh Hawley,U.S. Senate,,REP,Newton,East Neosho,224.0
+Fred Ryman,U.S. Senate,,REP,Newton,East Neosho,12.0
+Christina Smith,U.S. Senate,,REP,Newton,East Neosho,25.0
+Kristi Nichols,U.S. Senate,,REP,Newton,East Neosho,50.0
+Bradley Krembs,U.S. Senate,,REP,Newton,East Neosho,4.0
+Ken Patterson,U.S. Senate,,REP,Newton,East Neosho,17.0
+Brian G Hagg,U.S. Senate,,REP,Newton,East Neosho,6.0
+Courtland Sykes,U.S. Senate,,REP,Newton,East Neosho,13.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,East Neosho,15.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,East Neosho,6.0
+Angelica Earl,U S Senate,,DEM,Newton,East Neosho,5.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,East Neosho,2.0
+John Hogan,U S Senate,,DEM,Newton,East Neosho,2.0
+Travis Gonzalez,U S Senate,,DEM,Newton,East Neosho,1.0
+David Faust,U S Senate,,DEM,Newton,East Neosho,5.0
+Claire McCaskill,U S Senate,,DEM,Newton,East Neosho,36.0
+Japheth Campbell,U S Senate,,LIB,Newton,East Neosho,3.0
+Jo Crain,U S Senate,,GRN,Newton,East Neosho,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,East Neosho,0.0
+Kevin M Roach,State Auditor,,REP,Newton,East Neosho,117.0
+David Wasinger,State Auditor,,REP,Newton,East Neosho,85.0
+Paul Curtman,State Auditor,,REP,Newton,East Neosho,63.0
+Saundra McDowell,State Auditor,,REP,Newton,East Neosho,138.0
+Nicole Galloway,State Auditor,,DEM,Newton,East Neosho,51.0
+Sean O'Toole,State Auditor,,LIB,Newton,East Neosho,3.0
+Don Fitz,State Auditor,,GRN,Newton,East Neosho,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,East Neosho,0.0
+Billy Long,U S House,7,REP,Newton,East Neosho,306.0
+Lance Norris,U S House,7,REP,Newton,East Neosho,47.0
+Benjamin Holcomb,U S House,7,REP,Newton,East Neosho,26.0
+Jim Evans,U S House,7,REP,Newton,East Neosho,77.0
+Vince Jennings,U S House,7,DEM,Newton,East Neosho,6.0
+John Farmer de la Torre,U S House,7,DEM,Newton,East Neosho,15.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,East Neosho,8.0
+Kenneth Hatfield,U S House,7,DEM,Newton,East Neosho,26.0
+Benjamin T Brixey,U S House,7,LIB,Newton,East Neosho,3.0
+Bill White,State Senate,32,REP,Newton,East Neosho,265.0
+Rob O'Brian,State Senate,32,REP,Newton,East Neosho,188.0
+Carolyn McGowan,State Senate,32,DEM,Newton,East Neosho,49.0
+Conon Gillis,State Senate,32,GRN,Newton,East Neosho,0.0
 Mark Bartley,State Representative,159,REP,Newton,East Neosho,
 Dirk E Deaton,State Representative,159,REP,Newton,East Neosho,
 Jerry Sparks,State Representative,159,DEM,Newton,East Neosho,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,East Neosho,92
-Ben Baker,State Representative,160,REP,Newton,East Neosho,319
-David Osborn,State Representative,160,REP,Newton,East Neosho,57
-Angela R Thomas,State Representative,160,DEM,Newton,East Neosho,53
+Raleigh Drue Ritter,State Representative,160,REP,Newton,East Neosho,92.0
+Ben Baker,State Representative,160,REP,Newton,East Neosho,319.0
+David Osborn,State Representative,160,REP,Newton,East Neosho,57.0
+Angela R Thomas,State Representative,160,DEM,Newton,East Neosho,53.0
 Lane Roberts,State Representative,161,REP,Newton,East Neosho,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,East Neosho,
 Robert W Stokes,State Representative,162,REP,Newton,East Neosho,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,East Neosho,
 Sarah Hinkle,State Representative,162,DEM,Newton,East Neosho,
 Mollie Dyer,State Representative,162,GRN,Newton,East Neosho,
-,Registered Voters,,REP,Newton,West Neosho,3111
-,Ballots Cast,,REP,Newton,West Neosho,1104
-Tony Monetti,ÊU.S. Senate,,REP,Newton,West Neosho,65
-Austin Petersen,ÊU.S. Senate,,REP,Newton,West Neosho,135
-Josh Hawley,ÊU.S. Senate,,REP,Newton,West Neosho,431
-Fred Ryman,ÊU.S. Senate,,REP,Newton,West Neosho,18
-Christina Smith,ÊU.S. Senate,,REP,Newton,West Neosho,42
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,West Neosho,82
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,West Neosho,10
-Ken Patterson,ÊU.S. Senate,,REP,Newton,West Neosho,32
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,West Neosho,15
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,West Neosho,28
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,West Neosho,18
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,West Neosho,11
-Angelica Earl,U S Senate,,DEM,Newton,West Neosho,1
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,West Neosho,3
-John Hogan,U S Senate,,DEM,Newton,West Neosho,2
-Travis Gonzalez,U S Senate,,DEM,Newton,West Neosho,2
-David Faust,U S Senate,,DEM,Newton,West Neosho,3
-Claire McCaskill,U S Senate,,DEM,Newton,West Neosho,74
-Japheth Campbell,U S Senate,,LIB,Newton,West Neosho,2
-Jo Crain,U S Senate,,GRN,Newton,West Neosho,0
-Jerome Bauer,U S Senate,,GRN,Newton,West Neosho,0
-Kevin M Roach,State Auditor,,REP,Newton,West Neosho,210
-David Wasinger,State Auditor,,REP,Newton,West Neosho,152
-Paul Curtman,State Auditor,,REP,Newton,West Neosho,167
-Saundra McDowell,State Auditor,,REP,Newton,West Neosho,278
-Nicole Galloway,State Auditor,,DEM,Newton,West Neosho,79
-Sean O'Toole,State Auditor,,LIB,Newton,West Neosho,2
-Don Fitz,State Auditor,,GRN,Newton,West Neosho,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,West Neosho,0
-Billy Long,U S House,7,REP,Newton,West Neosho,663
-Lance Norris,U S House,7,REP,Newton,West Neosho,65
-Benjamin Holcomb,U S House,7,REP,Newton,West Neosho,89
-Jim Evans,U S House,7,REP,Newton,West Neosho,115
-Vince Jennings,U S House,7,DEM,Newton,West Neosho,16
-John Farmer de la Torre,U S House,7,DEM,Newton,West Neosho,18
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,West Neosho,19
-Kenneth Hatfield,U S House,7,DEM,Newton,West Neosho,40
-Benjamin T Brixey,U S House,7,LIB,Newton,West Neosho,2
-Bill White,State Senate,32,REP,Newton,West Neosho,615
-Rob O'Brian,State Senate,32,REP,Newton,West Neosho,322
-Carolyn McGowan,State Senate,32,DEM,Newton,West Neosho,90
-Conon Gillis,State Senate,32,GRN,Newton,West Neosho,0
+,Registered Voters,,REP,Newton,West Neosho,3111.0
+,Ballots Cast,,REP,Newton,West Neosho,1104.0
+Tony Monetti,U.S. Senate,,REP,Newton,West Neosho,65.0
+Austin Petersen,U.S. Senate,,REP,Newton,West Neosho,135.0
+Josh Hawley,U.S. Senate,,REP,Newton,West Neosho,431.0
+Fred Ryman,U.S. Senate,,REP,Newton,West Neosho,18.0
+Christina Smith,U.S. Senate,,REP,Newton,West Neosho,42.0
+Kristi Nichols,U.S. Senate,,REP,Newton,West Neosho,82.0
+Bradley Krembs,U.S. Senate,,REP,Newton,West Neosho,10.0
+Ken Patterson,U.S. Senate,,REP,Newton,West Neosho,32.0
+Brian G Hagg,U.S. Senate,,REP,Newton,West Neosho,15.0
+Courtland Sykes,U.S. Senate,,REP,Newton,West Neosho,28.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,West Neosho,18.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,West Neosho,11.0
+Angelica Earl,U S Senate,,DEM,Newton,West Neosho,1.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,West Neosho,3.0
+John Hogan,U S Senate,,DEM,Newton,West Neosho,2.0
+Travis Gonzalez,U S Senate,,DEM,Newton,West Neosho,2.0
+David Faust,U S Senate,,DEM,Newton,West Neosho,3.0
+Claire McCaskill,U S Senate,,DEM,Newton,West Neosho,74.0
+Japheth Campbell,U S Senate,,LIB,Newton,West Neosho,2.0
+Jo Crain,U S Senate,,GRN,Newton,West Neosho,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,West Neosho,0.0
+Kevin M Roach,State Auditor,,REP,Newton,West Neosho,210.0
+David Wasinger,State Auditor,,REP,Newton,West Neosho,152.0
+Paul Curtman,State Auditor,,REP,Newton,West Neosho,167.0
+Saundra McDowell,State Auditor,,REP,Newton,West Neosho,278.0
+Nicole Galloway,State Auditor,,DEM,Newton,West Neosho,79.0
+Sean O'Toole,State Auditor,,LIB,Newton,West Neosho,2.0
+Don Fitz,State Auditor,,GRN,Newton,West Neosho,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,West Neosho,0.0
+Billy Long,U S House,7,REP,Newton,West Neosho,663.0
+Lance Norris,U S House,7,REP,Newton,West Neosho,65.0
+Benjamin Holcomb,U S House,7,REP,Newton,West Neosho,89.0
+Jim Evans,U S House,7,REP,Newton,West Neosho,115.0
+Vince Jennings,U S House,7,DEM,Newton,West Neosho,16.0
+John Farmer de la Torre,U S House,7,DEM,Newton,West Neosho,18.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,West Neosho,19.0
+Kenneth Hatfield,U S House,7,DEM,Newton,West Neosho,40.0
+Benjamin T Brixey,U S House,7,LIB,Newton,West Neosho,2.0
+Bill White,State Senate,32,REP,Newton,West Neosho,615.0
+Rob O'Brian,State Senate,32,REP,Newton,West Neosho,322.0
+Carolyn McGowan,State Senate,32,DEM,Newton,West Neosho,90.0
+Conon Gillis,State Senate,32,GRN,Newton,West Neosho,0.0
 Mark Bartley,State Representative,159,REP,Newton,West Neosho,
 Dirk E Deaton,State Representative,159,REP,Newton,West Neosho,
 Jerry Sparks,State Representative,159,DEM,Newton,West Neosho,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,West Neosho,210
-Ben Baker,State Representative,160,REP,Newton,West Neosho,574
-David Osborn,State Representative,160,REP,Newton,West Neosho,145
-Angela R Thomas,State Representative,160,DEM,Newton,West Neosho,91
+Raleigh Drue Ritter,State Representative,160,REP,Newton,West Neosho,210.0
+Ben Baker,State Representative,160,REP,Newton,West Neosho,574.0
+David Osborn,State Representative,160,REP,Newton,West Neosho,145.0
+Angela R Thomas,State Representative,160,DEM,Newton,West Neosho,91.0
 Lane Roberts,State Representative,161,REP,Newton,West Neosho,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,West Neosho,
 Robert W Stokes,State Representative,162,REP,Newton,West Neosho,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,West Neosho,
 Sarah Hinkle,State Representative,162,DEM,Newton,West Neosho,
 Mollie Dyer,State Representative,162,GRN,Newton,West Neosho,
-,Registered Voters,,REP,Newton,Neosho #1,2275
-,Ballots Cast,,REP,Newton,Neosho #1,821
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Neosho #1,34
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Neosho #1,54
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Neosho #1,356
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Neosho #1,5
-Christina Smith,ÊU.S. Senate,,REP,Newton,Neosho #1,45
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Neosho #1,64
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Neosho #1,4
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Neosho #1,19
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Neosho #1,10
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Neosho #1,11
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Neosho #1,20
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #1,7
-Angelica Earl,U S Senate,,DEM,Newton,Neosho #1,9
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #1,0
-John Hogan,U S Senate,,DEM,Newton,Neosho #1,0
-Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #1,4
-David Faust,U S Senate,,DEM,Newton,Neosho #1,1
-Claire McCaskill,U S Senate,,DEM,Newton,Neosho #1,90
-Japheth Campbell,U S Senate,,LIB,Newton,Neosho #1,2
-Jo Crain,U S Senate,,GRN,Newton,Neosho #1,1
-Jerome Bauer,U S Senate,,GRN,Newton,Neosho #1,1
-Kevin M Roach,State Auditor,,REP,Newton,Neosho #1,158
-David Wasinger,State Auditor,,REP,Newton,Neosho #1,94
-Paul Curtman,State Auditor,,REP,Newton,Neosho #1,77
-Saundra McDowell,State Auditor,,REP,Newton,Neosho #1,209
-Nicole Galloway,State Auditor,,DEM,Newton,Neosho #1,96
-Sean O'Toole,State Auditor,,LIB,Newton,Neosho #1,2
-Don Fitz,State Auditor,,GRN,Newton,Neosho #1,2
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #1,0
-Billy Long,U S House,7,REP,Newton,Neosho #1,401
-Lance Norris,U S House,7,REP,Newton,Neosho #1,44
-Benjamin Holcomb,U S House,7,REP,Newton,Neosho #1,53
-Jim Evans,U S House,7,REP,Newton,Neosho #1,128
-Vince Jennings,U S House,7,DEM,Newton,Neosho #1,14
-John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #1,35
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #1,16
-Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #1,38
-Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #1,2
-Bill White,State Senate,32,REP,Newton,Neosho #1,361
-Rob O'Brian,State Senate,32,REP,Newton,Neosho #1,277
-Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #1,97
-Conon Gillis,State Senate,32,GRN,Newton,Neosho #1,2
+,Registered Voters,,REP,Newton,Neosho #1,2275.0
+,Ballots Cast,,REP,Newton,Neosho #1,821.0
+Tony Monetti,U.S. Senate,,REP,Newton,Neosho #1,34.0
+Austin Petersen,U.S. Senate,,REP,Newton,Neosho #1,54.0
+Josh Hawley,U.S. Senate,,REP,Newton,Neosho #1,356.0
+Fred Ryman,U.S. Senate,,REP,Newton,Neosho #1,5.0
+Christina Smith,U.S. Senate,,REP,Newton,Neosho #1,45.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Neosho #1,64.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Neosho #1,4.0
+Ken Patterson,U.S. Senate,,REP,Newton,Neosho #1,19.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Neosho #1,10.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Neosho #1,11.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Neosho #1,20.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #1,7.0
+Angelica Earl,U S Senate,,DEM,Newton,Neosho #1,9.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #1,0.0
+John Hogan,U S Senate,,DEM,Newton,Neosho #1,0.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #1,4.0
+David Faust,U S Senate,,DEM,Newton,Neosho #1,1.0
+Claire McCaskill,U S Senate,,DEM,Newton,Neosho #1,90.0
+Japheth Campbell,U S Senate,,LIB,Newton,Neosho #1,2.0
+Jo Crain,U S Senate,,GRN,Newton,Neosho #1,1.0
+Jerome Bauer,U S Senate,,GRN,Newton,Neosho #1,1.0
+Kevin M Roach,State Auditor,,REP,Newton,Neosho #1,158.0
+David Wasinger,State Auditor,,REP,Newton,Neosho #1,94.0
+Paul Curtman,State Auditor,,REP,Newton,Neosho #1,77.0
+Saundra McDowell,State Auditor,,REP,Newton,Neosho #1,209.0
+Nicole Galloway,State Auditor,,DEM,Newton,Neosho #1,96.0
+Sean O'Toole,State Auditor,,LIB,Newton,Neosho #1,2.0
+Don Fitz,State Auditor,,GRN,Newton,Neosho #1,2.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #1,0.0
+Billy Long,U S House,7,REP,Newton,Neosho #1,401.0
+Lance Norris,U S House,7,REP,Newton,Neosho #1,44.0
+Benjamin Holcomb,U S House,7,REP,Newton,Neosho #1,53.0
+Jim Evans,U S House,7,REP,Newton,Neosho #1,128.0
+Vince Jennings,U S House,7,DEM,Newton,Neosho #1,14.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #1,35.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #1,16.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #1,38.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #1,2.0
+Bill White,State Senate,32,REP,Newton,Neosho #1,361.0
+Rob O'Brian,State Senate,32,REP,Newton,Neosho #1,277.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #1,97.0
+Conon Gillis,State Senate,32,GRN,Newton,Neosho #1,2.0
 Mark Bartley,State Representative,159,REP,Newton,Neosho #1,
 Dirk E Deaton,State Representative,159,REP,Newton,Neosho #1,
 Jerry Sparks,State Representative,159,DEM,Newton,Neosho #1,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #1,198
-Ben Baker,State Representative,160,REP,Newton,Neosho #1,387
-David Osborn,State Representative,160,REP,Newton,Neosho #1,79
-Angela R Thomas,State Representative,160,DEM,Newton,Neosho #1,101
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #1,198.0
+Ben Baker,State Representative,160,REP,Newton,Neosho #1,387.0
+David Osborn,State Representative,160,REP,Newton,Neosho #1,79.0
+Angela R Thomas,State Representative,160,DEM,Newton,Neosho #1,101.0
 Lane Roberts,State Representative,161,REP,Newton,Neosho #1,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Neosho #1,
 Robert W Stokes,State Representative,162,REP,Newton,Neosho #1,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Neosho #1,
 Sarah Hinkle,State Representative,162,DEM,Newton,Neosho #1,
 Mollie Dyer,State Representative,162,GRN,Newton,Neosho #1,
-,Registered Voters,,REP,Newton,Neosho #2,1493
-,Ballots Cast,,REP,Newton,Neosho #2,471
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Neosho #2,21
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Neosho #2,66
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Neosho #2,173
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Neosho #2,9
-Christina Smith,ÊU.S. Senate,,REP,Newton,Neosho #2,21
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Neosho #2,36
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Neosho #2,3
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Neosho #2,17
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Neosho #2,5
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Neosho #2,18
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Neosho #2,7
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #2,8
-Angelica Earl,U S Senate,,DEM,Newton,Neosho #2,4
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #2,1
-John Hogan,U S Senate,,DEM,Newton,Neosho #2,1
-Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #2,1
-David Faust,U S Senate,,DEM,Newton,Neosho #2,0
-Claire McCaskill,U S Senate,,DEM,Newton,Neosho #2,37
-Japheth Campbell,U S Senate,,LIB,Newton,Neosho #2,0
-Jo Crain,U S Senate,,GRN,Newton,Neosho #2,1
-Jerome Bauer,U S Senate,,GRN,Newton,Neosho #2,0
-Kevin M Roach,State Auditor,,REP,Newton,Neosho #2,103
-David Wasinger,State Auditor,,REP,Newton,Neosho #2,66
-Paul Curtman,State Auditor,,REP,Newton,Neosho #2,72
-Saundra McDowell,State Auditor,,REP,Newton,Neosho #2,98
-Nicole Galloway,State Auditor,,DEM,Newton,Neosho #2,45
-Sean O'Toole,State Auditor,,LIB,Newton,Neosho #2,0
-Don Fitz,State Auditor,,GRN,Newton,Neosho #2,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #2,0
-Billy Long,U S House,7,REP,Newton,Neosho #2,245
-Lance Norris,U S House,7,REP,Newton,Neosho #2,37
-Benjamin Holcomb,U S House,7,REP,Newton,Neosho #2,28
-Jim Evans,U S House,7,REP,Newton,Neosho #2,73
-Vince Jennings,U S House,7,DEM,Newton,Neosho #2,9
-John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #2,16
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #2,12
-Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #2,13
-Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #2,0
-Bill White,State Senate,32,REP,Newton,Neosho #2,263
-Rob O'Brian,State Senate,32,REP,Newton,Neosho #2,130
-Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #2,47
-Conon Gillis,State Senate,32,GRN,Newton,Neosho #2,1
+,Registered Voters,,REP,Newton,Neosho #2,1493.0
+,Ballots Cast,,REP,Newton,Neosho #2,471.0
+Tony Monetti,U.S. Senate,,REP,Newton,Neosho #2,21.0
+Austin Petersen,U.S. Senate,,REP,Newton,Neosho #2,66.0
+Josh Hawley,U.S. Senate,,REP,Newton,Neosho #2,173.0
+Fred Ryman,U.S. Senate,,REP,Newton,Neosho #2,9.0
+Christina Smith,U.S. Senate,,REP,Newton,Neosho #2,21.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Neosho #2,36.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Neosho #2,3.0
+Ken Patterson,U.S. Senate,,REP,Newton,Neosho #2,17.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Neosho #2,5.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Neosho #2,18.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Neosho #2,7.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #2,8.0
+Angelica Earl,U S Senate,,DEM,Newton,Neosho #2,4.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #2,1.0
+John Hogan,U S Senate,,DEM,Newton,Neosho #2,1.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #2,1.0
+David Faust,U S Senate,,DEM,Newton,Neosho #2,0.0
+Claire McCaskill,U S Senate,,DEM,Newton,Neosho #2,37.0
+Japheth Campbell,U S Senate,,LIB,Newton,Neosho #2,0.0
+Jo Crain,U S Senate,,GRN,Newton,Neosho #2,1.0
+Jerome Bauer,U S Senate,,GRN,Newton,Neosho #2,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Neosho #2,103.0
+David Wasinger,State Auditor,,REP,Newton,Neosho #2,66.0
+Paul Curtman,State Auditor,,REP,Newton,Neosho #2,72.0
+Saundra McDowell,State Auditor,,REP,Newton,Neosho #2,98.0
+Nicole Galloway,State Auditor,,DEM,Newton,Neosho #2,45.0
+Sean O'Toole,State Auditor,,LIB,Newton,Neosho #2,0.0
+Don Fitz,State Auditor,,GRN,Newton,Neosho #2,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #2,0.0
+Billy Long,U S House,7,REP,Newton,Neosho #2,245.0
+Lance Norris,U S House,7,REP,Newton,Neosho #2,37.0
+Benjamin Holcomb,U S House,7,REP,Newton,Neosho #2,28.0
+Jim Evans,U S House,7,REP,Newton,Neosho #2,73.0
+Vince Jennings,U S House,7,DEM,Newton,Neosho #2,9.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #2,16.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #2,12.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #2,13.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #2,0.0
+Bill White,State Senate,32,REP,Newton,Neosho #2,263.0
+Rob O'Brian,State Senate,32,REP,Newton,Neosho #2,130.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #2,47.0
+Conon Gillis,State Senate,32,GRN,Newton,Neosho #2,1.0
 Mark Bartley,State Representative,159,REP,Newton,Neosho #2,
 Dirk E Deaton,State Representative,159,REP,Newton,Neosho #2,
 Jerry Sparks,State Representative,159,DEM,Newton,Neosho #2,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #2,87
-Ben Baker,State Representative,160,REP,Newton,Neosho #2,277
-David Osborn,State Representative,160,REP,Newton,Neosho #2,36
-Angela R Thomas,State Representative,160,DEM,Newton,Neosho #2,51
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #2,87.0
+Ben Baker,State Representative,160,REP,Newton,Neosho #2,277.0
+David Osborn,State Representative,160,REP,Newton,Neosho #2,36.0
+Angela R Thomas,State Representative,160,DEM,Newton,Neosho #2,51.0
 Lane Roberts,State Representative,161,REP,Newton,Neosho #2,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Neosho #2,
 Robert W Stokes,State Representative,162,REP,Newton,Neosho #2,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Neosho #2,
 Sarah Hinkle,State Representative,162,DEM,Newton,Neosho #2,
 Mollie Dyer,State Representative,162,GRN,Newton,Neosho #2,
-,Registered Voters,,REP,Newton,Neosho #3,1428
-,Ballots Cast,,REP,Newton,Neosho #3,374
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Neosho #3,23
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Neosho #3,37
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Neosho #3,114
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Neosho #3,6
-Christina Smith,ÊU.S. Senate,,REP,Newton,Neosho #3,29
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Neosho #3,27
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Neosho #3,3
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Neosho #3,20
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Neosho #3,8
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Neosho #3,10
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Neosho #3,6
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #3,5
-Angelica Earl,U S Senate,,DEM,Newton,Neosho #3,5
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #3,1
-John Hogan,U S Senate,,DEM,Newton,Neosho #3,2
-Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #3,3
-David Faust,U S Senate,,DEM,Newton,Neosho #3,7
-Claire McCaskill,U S Senate,,DEM,Newton,Neosho #3,37
-Japheth Campbell,U S Senate,,LIB,Newton,Neosho #3,1
-Jo Crain,U S Senate,,GRN,Newton,Neosho #3,0
-Jerome Bauer,U S Senate,,GRN,Newton,Neosho #3,0
-Kevin M Roach,State Auditor,,REP,Newton,Neosho #3,65
-David Wasinger,State Auditor,,REP,Newton,Neosho #3,48
-Paul Curtman,State Auditor,,REP,Newton,Neosho #3,42
-Saundra McDowell,State Auditor,,REP,Newton,Neosho #3,110
-Nicole Galloway,State Auditor,,DEM,Newton,Neosho #3,52
-Sean O'Toole,State Auditor,,LIB,Newton,Neosho #3,1
-Don Fitz,State Auditor,,GRN,Newton,Neosho #3,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #3,0
-Billy Long,U S House,7,REP,Newton,Neosho #3,169
-Lance Norris,U S House,7,REP,Newton,Neosho #3,16
-Benjamin Holcomb,U S House,7,REP,Newton,Neosho #3,34
-Jim Evans,U S House,7,REP,Newton,Neosho #3,69
-Vince Jennings,U S House,7,DEM,Newton,Neosho #3,17
-John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #3,10
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #3,7
-Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #3,24
-Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #3,1
-Bill White,State Senate,32,REP,Newton,Neosho #3,166
-Rob O'Brian,State Senate,32,REP,Newton,Neosho #3,125
-Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #3,57
-Conon Gillis,State Senate,32,GRN,Newton,Neosho #3,0
-Mark Bartley,State Representative,159,REP,Newton,Neosho #3,19
-Dirk E Deaton,State Representative,159,REP,Newton,Neosho #3,28
-Jerry Sparks,State Representative,159,DEM,Newton,Neosho #3,10
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #3,76
-Ben Baker,State Representative,160,REP,Newton,Neosho #3,145
-David Osborn,State Representative,160,REP,Newton,Neosho #3,25
-Angela R Thomas,State Representative,160,DEM,Newton,Neosho #3,47
+,Registered Voters,,REP,Newton,Neosho #3,1428.0
+,Ballots Cast,,REP,Newton,Neosho #3,374.0
+Tony Monetti,U.S. Senate,,REP,Newton,Neosho #3,23.0
+Austin Petersen,U.S. Senate,,REP,Newton,Neosho #3,37.0
+Josh Hawley,U.S. Senate,,REP,Newton,Neosho #3,114.0
+Fred Ryman,U.S. Senate,,REP,Newton,Neosho #3,6.0
+Christina Smith,U.S. Senate,,REP,Newton,Neosho #3,29.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Neosho #3,27.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Neosho #3,3.0
+Ken Patterson,U.S. Senate,,REP,Newton,Neosho #3,20.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Neosho #3,8.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Neosho #3,10.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Neosho #3,6.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #3,5.0
+Angelica Earl,U S Senate,,DEM,Newton,Neosho #3,5.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #3,1.0
+John Hogan,U S Senate,,DEM,Newton,Neosho #3,2.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #3,3.0
+David Faust,U S Senate,,DEM,Newton,Neosho #3,7.0
+Claire McCaskill,U S Senate,,DEM,Newton,Neosho #3,37.0
+Japheth Campbell,U S Senate,,LIB,Newton,Neosho #3,1.0
+Jo Crain,U S Senate,,GRN,Newton,Neosho #3,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Neosho #3,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Neosho #3,65.0
+David Wasinger,State Auditor,,REP,Newton,Neosho #3,48.0
+Paul Curtman,State Auditor,,REP,Newton,Neosho #3,42.0
+Saundra McDowell,State Auditor,,REP,Newton,Neosho #3,110.0
+Nicole Galloway,State Auditor,,DEM,Newton,Neosho #3,52.0
+Sean O'Toole,State Auditor,,LIB,Newton,Neosho #3,1.0
+Don Fitz,State Auditor,,GRN,Newton,Neosho #3,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #3,0.0
+Billy Long,U S House,7,REP,Newton,Neosho #3,169.0
+Lance Norris,U S House,7,REP,Newton,Neosho #3,16.0
+Benjamin Holcomb,U S House,7,REP,Newton,Neosho #3,34.0
+Jim Evans,U S House,7,REP,Newton,Neosho #3,69.0
+Vince Jennings,U S House,7,DEM,Newton,Neosho #3,17.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #3,10.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #3,7.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #3,24.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #3,1.0
+Bill White,State Senate,32,REP,Newton,Neosho #3,166.0
+Rob O'Brian,State Senate,32,REP,Newton,Neosho #3,125.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #3,57.0
+Conon Gillis,State Senate,32,GRN,Newton,Neosho #3,0.0
+Mark Bartley,State Representative,159,REP,Newton,Neosho #3,19.0
+Dirk E Deaton,State Representative,159,REP,Newton,Neosho #3,28.0
+Jerry Sparks,State Representative,159,DEM,Newton,Neosho #3,10.0
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #3,76.0
+Ben Baker,State Representative,160,REP,Newton,Neosho #3,145.0
+David Osborn,State Representative,160,REP,Newton,Neosho #3,25.0
+Angela R Thomas,State Representative,160,DEM,Newton,Neosho #3,47.0
 Lane Roberts,State Representative,161,REP,Newton,Neosho #3,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Neosho #3,
 Robert W Stokes,State Representative,162,REP,Newton,Neosho #3,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Neosho #3,
 Sarah Hinkle,State Representative,162,DEM,Newton,Neosho #3,
 Mollie Dyer,State Representative,162,GRN,Newton,Neosho #3,
-,Registered Voters,,REP,Newton,Neosho #4,1794
-,Ballots Cast,,REP,Newton,Neosho #4,459
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Neosho #4,18
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Neosho #4,33
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Neosho #4,188
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Neosho #4,8
-Christina Smith,ÊU.S. Senate,,REP,Newton,Neosho #4,24
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Neosho #4,33
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Neosho #4,3
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Neosho #4,18
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Neosho #4,3
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Neosho #4,3
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Neosho #4,8
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #4,8
-Angelica Earl,U S Senate,,DEM,Newton,Neosho #4,3
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #4,0
-John Hogan,U S Senate,,DEM,Newton,Neosho #4,1
-Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #4,1
-David Faust,U S Senate,,DEM,Newton,Neosho #4,2
-Claire McCaskill,U S Senate,,DEM,Newton,Neosho #4,62
-Japheth Campbell,U S Senate,,LIB,Newton,Neosho #4,1
-Jo Crain,U S Senate,,GRN,Newton,Neosho #4,1
-Jerome Bauer,U S Senate,,GRN,Newton,Neosho #4,0
-Kevin M Roach,State Auditor,,REP,Newton,Neosho #4,84
-David Wasinger,State Auditor,,REP,Newton,Neosho #4,62
-Paul Curtman,State Auditor,,REP,Newton,Neosho #4,61
-Saundra McDowell,State Auditor,,REP,Newton,Neosho #4,111
-Nicole Galloway,State Auditor,,DEM,Newton,Neosho #4,72
-Sean O'Toole,State Auditor,,LIB,Newton,Neosho #4,1
-Don Fitz,State Auditor,,GRN,Newton,Neosho #4,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #4,0
-Billy Long,U S House,7,REP,Newton,Neosho #4,197
-Lance Norris,U S House,7,REP,Newton,Neosho #4,42
-Benjamin Holcomb,U S House,7,REP,Newton,Neosho #4,31
-Jim Evans,U S House,7,REP,Newton,Neosho #4,74
-Vince Jennings,U S House,7,DEM,Newton,Neosho #4,15
-John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #4,26
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #4,15
-Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #4,20
-Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #4,1
-Bill White,State Senate,32,REP,Newton,Neosho #4,205
-Rob O'Brian,State Senate,32,REP,Newton,Neosho #4,133
-Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #4,72
-Conon Gillis,State Senate,32,GRN,Newton,Neosho #4,1
+,Registered Voters,,REP,Newton,Neosho #4,1794.0
+,Ballots Cast,,REP,Newton,Neosho #4,459.0
+Tony Monetti,U.S. Senate,,REP,Newton,Neosho #4,18.0
+Austin Petersen,U.S. Senate,,REP,Newton,Neosho #4,33.0
+Josh Hawley,U.S. Senate,,REP,Newton,Neosho #4,188.0
+Fred Ryman,U.S. Senate,,REP,Newton,Neosho #4,8.0
+Christina Smith,U.S. Senate,,REP,Newton,Neosho #4,24.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Neosho #4,33.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Neosho #4,3.0
+Ken Patterson,U.S. Senate,,REP,Newton,Neosho #4,18.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Neosho #4,3.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Neosho #4,3.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Neosho #4,8.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Neosho #4,8.0
+Angelica Earl,U S Senate,,DEM,Newton,Neosho #4,3.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Neosho #4,0.0
+John Hogan,U S Senate,,DEM,Newton,Neosho #4,1.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Neosho #4,1.0
+David Faust,U S Senate,,DEM,Newton,Neosho #4,2.0
+Claire McCaskill,U S Senate,,DEM,Newton,Neosho #4,62.0
+Japheth Campbell,U S Senate,,LIB,Newton,Neosho #4,1.0
+Jo Crain,U S Senate,,GRN,Newton,Neosho #4,1.0
+Jerome Bauer,U S Senate,,GRN,Newton,Neosho #4,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Neosho #4,84.0
+David Wasinger,State Auditor,,REP,Newton,Neosho #4,62.0
+Paul Curtman,State Auditor,,REP,Newton,Neosho #4,61.0
+Saundra McDowell,State Auditor,,REP,Newton,Neosho #4,111.0
+Nicole Galloway,State Auditor,,DEM,Newton,Neosho #4,72.0
+Sean O'Toole,State Auditor,,LIB,Newton,Neosho #4,1.0
+Don Fitz,State Auditor,,GRN,Newton,Neosho #4,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Neosho #4,0.0
+Billy Long,U S House,7,REP,Newton,Neosho #4,197.0
+Lance Norris,U S House,7,REP,Newton,Neosho #4,42.0
+Benjamin Holcomb,U S House,7,REP,Newton,Neosho #4,31.0
+Jim Evans,U S House,7,REP,Newton,Neosho #4,74.0
+Vince Jennings,U S House,7,DEM,Newton,Neosho #4,15.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Neosho #4,26.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Neosho #4,15.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Neosho #4,20.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Neosho #4,1.0
+Bill White,State Senate,32,REP,Newton,Neosho #4,205.0
+Rob O'Brian,State Senate,32,REP,Newton,Neosho #4,133.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Neosho #4,72.0
+Conon Gillis,State Senate,32,GRN,Newton,Neosho #4,1.0
 Mark Bartley,State Representative,159,REP,Newton,Neosho #4,
 Dirk E Deaton,State Representative,159,REP,Newton,Neosho #4,
 Jerry Sparks,State Representative,159,DEM,Newton,Neosho #4,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #4,80
-Ben Baker,State Representative,160,REP,Newton,Neosho #4,246
-David Osborn,State Representative,160,REP,Newton,Neosho #4,34
-Angela R Thomas,State Representative,160,DEM,Newton,Neosho #4,75
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Neosho #4,80.0
+Ben Baker,State Representative,160,REP,Newton,Neosho #4,246.0
+David Osborn,State Representative,160,REP,Newton,Neosho #4,34.0
+Angela R Thomas,State Representative,160,DEM,Newton,Neosho #4,75.0
 Lane Roberts,State Representative,161,REP,Newton,Neosho #4,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Neosho #4,
 Robert W Stokes,State Representative,162,REP,Newton,Neosho #4,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Neosho #4,
 Sarah Hinkle,State Representative,162,DEM,Newton,Neosho #4,
 Mollie Dyer,State Representative,162,GRN,Newton,Neosho #4,
-,Registered Voters,,REP,Newton,Newtonia,509
-,Ballots Cast,,REP,Newton,Newtonia,178
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Newtonia,15
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Newtonia,13
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Newtonia,54
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Newtonia,3
-Christina Smith,ÊU.S. Senate,,REP,Newton,Newtonia,6
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Newtonia,22
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Newtonia,5
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Newtonia,8
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Newtonia,4
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Newtonia,5
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Newtonia,5
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Newtonia,3
-Angelica Earl,U S Senate,,DEM,Newton,Newtonia,2
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Newtonia,1
-John Hogan,U S Senate,,DEM,Newton,Newtonia,2
-Travis Gonzalez,U S Senate,,DEM,Newton,Newtonia,1
-David Faust,U S Senate,,DEM,Newton,Newtonia,0
-Claire McCaskill,U S Senate,,DEM,Newton,Newtonia,16
-Japheth Campbell,U S Senate,,LIB,Newton,Newtonia,1
-Jo Crain,U S Senate,,GRN,Newton,Newtonia,1
-Jerome Bauer,U S Senate,,GRN,Newton,Newtonia,0
-Kevin M Roach,State Auditor,,REP,Newton,Newtonia,37
-David Wasinger,State Auditor,,REP,Newton,Newtonia,27
-Paul Curtman,State Auditor,,REP,Newton,Newtonia,16
-Saundra McDowell,State Auditor,,REP,Newton,Newtonia,44
-Nicole Galloway,State Auditor,,DEM,Newton,Newtonia,21
-Sean O'Toole,State Auditor,,LIB,Newton,Newtonia,1
-Don Fitz,State Auditor,,GRN,Newton,Newtonia,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Newtonia,0
-Billy Long,U S House,7,REP,Newton,Newtonia,77
-Lance Norris,U S House,7,REP,Newton,Newtonia,12
-Benjamin Holcomb,U S House,7,REP,Newton,Newtonia,18
-Jim Evans,U S House,7,REP,Newton,Newtonia,35
-Vince Jennings,U S House,7,DEM,Newton,Newtonia,5
-John Farmer de la Torre,U S House,7,DEM,Newton,Newtonia,6
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Newtonia,7
-Kenneth Hatfield,U S House,7,DEM,Newton,Newtonia,6
-Benjamin T Brixey,U S House,7,LIB,Newton,Newtonia,1
-Bill White,State Senate,32,REP,Newton,Newtonia,78
-Rob O'Brian,State Senate,32,REP,Newton,Newtonia,65
-Carolyn McGowan,State Senate,32,DEM,Newton,Newtonia,22
-Conon Gillis,State Senate,32,GRN,Newton,Newtonia,1
-Mark Bartley,State Representative,159,REP,Newton,Newtonia,65
-Dirk E Deaton,State Representative,159,REP,Newton,Newtonia,75
-Jerry Sparks,State Representative,159,DEM,Newton,Newtonia,22
+,Registered Voters,,REP,Newton,Newtonia,509.0
+,Ballots Cast,,REP,Newton,Newtonia,178.0
+Tony Monetti,U.S. Senate,,REP,Newton,Newtonia,15.0
+Austin Petersen,U.S. Senate,,REP,Newton,Newtonia,13.0
+Josh Hawley,U.S. Senate,,REP,Newton,Newtonia,54.0
+Fred Ryman,U.S. Senate,,REP,Newton,Newtonia,3.0
+Christina Smith,U.S. Senate,,REP,Newton,Newtonia,6.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Newtonia,22.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Newtonia,5.0
+Ken Patterson,U.S. Senate,,REP,Newton,Newtonia,8.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Newtonia,4.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Newtonia,5.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Newtonia,5.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Newtonia,3.0
+Angelica Earl,U S Senate,,DEM,Newton,Newtonia,2.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Newtonia,1.0
+John Hogan,U S Senate,,DEM,Newton,Newtonia,2.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Newtonia,1.0
+David Faust,U S Senate,,DEM,Newton,Newtonia,0.0
+Claire McCaskill,U S Senate,,DEM,Newton,Newtonia,16.0
+Japheth Campbell,U S Senate,,LIB,Newton,Newtonia,1.0
+Jo Crain,U S Senate,,GRN,Newton,Newtonia,1.0
+Jerome Bauer,U S Senate,,GRN,Newton,Newtonia,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Newtonia,37.0
+David Wasinger,State Auditor,,REP,Newton,Newtonia,27.0
+Paul Curtman,State Auditor,,REP,Newton,Newtonia,16.0
+Saundra McDowell,State Auditor,,REP,Newton,Newtonia,44.0
+Nicole Galloway,State Auditor,,DEM,Newton,Newtonia,21.0
+Sean O'Toole,State Auditor,,LIB,Newton,Newtonia,1.0
+Don Fitz,State Auditor,,GRN,Newton,Newtonia,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Newtonia,0.0
+Billy Long,U S House,7,REP,Newton,Newtonia,77.0
+Lance Norris,U S House,7,REP,Newton,Newtonia,12.0
+Benjamin Holcomb,U S House,7,REP,Newton,Newtonia,18.0
+Jim Evans,U S House,7,REP,Newton,Newtonia,35.0
+Vince Jennings,U S House,7,DEM,Newton,Newtonia,5.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Newtonia,6.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Newtonia,7.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Newtonia,6.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Newtonia,1.0
+Bill White,State Senate,32,REP,Newton,Newtonia,78.0
+Rob O'Brian,State Senate,32,REP,Newton,Newtonia,65.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Newtonia,22.0
+Conon Gillis,State Senate,32,GRN,Newton,Newtonia,1.0
+Mark Bartley,State Representative,159,REP,Newton,Newtonia,65.0
+Dirk E Deaton,State Representative,159,REP,Newton,Newtonia,75.0
+Jerry Sparks,State Representative,159,DEM,Newton,Newtonia,22.0
 Raleigh Drue Ritter,State Representative,160,REP,Newton,Newtonia,
 Ben Baker,State Representative,160,REP,Newton,Newtonia,
 David Osborn,State Representative,160,REP,Newton,Newtonia,
@@ -683,110 +683,110 @@ Robert W Stokes,State Representative,162,REP,Newton,Newtonia,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Newtonia,
 Sarah Hinkle,State Representative,162,DEM,Newton,Newtonia,
 Mollie Dyer,State Representative,162,GRN,Newton,Newtonia,
-,Registered Voters,,REP,Newton,Reding,1315
-,Ballots Cast,,REP,Newton,Reding,422
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Reding,28
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Reding,37
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Reding,161
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Reding,5
-Christina Smith,ÊU.S. Senate,,REP,Newton,Reding,14
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Reding,42
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Reding,1
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Reding,8
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Reding,7
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Reding,11
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Reding,4
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Reding,5
-Angelica Earl,U S Senate,,DEM,Newton,Reding,9
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Reding,1
-John Hogan,U S Senate,,DEM,Newton,Reding,3
-Travis Gonzalez,U S Senate,,DEM,Newton,Reding,7
-David Faust,U S Senate,,DEM,Newton,Reding,1
-Claire McCaskill,U S Senate,,DEM,Newton,Reding,56
-Japheth Campbell,U S Senate,,LIB,Newton,Reding,1
-Jo Crain,U S Senate,,GRN,Newton,Reding,0
-Jerome Bauer,U S Senate,,GRN,Newton,Reding,0
-Kevin M Roach,State Auditor,,REP,Newton,Reding,86
-David Wasinger,State Auditor,,REP,Newton,Reding,49
-Paul Curtman,State Auditor,,REP,Newton,Reding,49
-Saundra McDowell,State Auditor,,REP,Newton,Reding,102
-Nicole Galloway,State Auditor,,DEM,Newton,Reding,73
-Sean O'Toole,State Auditor,,LIB,Newton,Reding,1
-Don Fitz,State Auditor,,GRN,Newton,Reding,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Reding,0
-Billy Long,U S House,7,REP,Newton,Reding,204
-Lance Norris,U S House,7,REP,Newton,Reding,31
-Benjamin Holcomb,U S House,7,REP,Newton,Reding,34
-Jim Evans,U S House,7,REP,Newton,Reding,49
-Vince Jennings,U S House,7,DEM,Newton,Reding,21
-John Farmer de la Torre,U S House,7,DEM,Newton,Reding,16
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Reding,11
-Kenneth Hatfield,U S House,7,DEM,Newton,Reding,22
-Benjamin T Brixey,U S House,7,LIB,Newton,Reding,1
-Bill White,State Senate,32,REP,Newton,Reding,217
-Rob O'Brian,State Senate,32,REP,Newton,Reding,107
-Carolyn McGowan,State Senate,32,DEM,Newton,Reding,74
-Conon Gillis,State Senate,32,GRN,Newton,Reding,0
+,Registered Voters,,REP,Newton,Reding,1315.0
+,Ballots Cast,,REP,Newton,Reding,422.0
+Tony Monetti,U.S. Senate,,REP,Newton,Reding,28.0
+Austin Petersen,U.S. Senate,,REP,Newton,Reding,37.0
+Josh Hawley,U.S. Senate,,REP,Newton,Reding,161.0
+Fred Ryman,U.S. Senate,,REP,Newton,Reding,5.0
+Christina Smith,U.S. Senate,,REP,Newton,Reding,14.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Reding,42.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Reding,1.0
+Ken Patterson,U.S. Senate,,REP,Newton,Reding,8.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Reding,7.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Reding,11.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Reding,4.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Reding,5.0
+Angelica Earl,U S Senate,,DEM,Newton,Reding,9.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Reding,1.0
+John Hogan,U S Senate,,DEM,Newton,Reding,3.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Reding,7.0
+David Faust,U S Senate,,DEM,Newton,Reding,1.0
+Claire McCaskill,U S Senate,,DEM,Newton,Reding,56.0
+Japheth Campbell,U S Senate,,LIB,Newton,Reding,1.0
+Jo Crain,U S Senate,,GRN,Newton,Reding,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Reding,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Reding,86.0
+David Wasinger,State Auditor,,REP,Newton,Reding,49.0
+Paul Curtman,State Auditor,,REP,Newton,Reding,49.0
+Saundra McDowell,State Auditor,,REP,Newton,Reding,102.0
+Nicole Galloway,State Auditor,,DEM,Newton,Reding,73.0
+Sean O'Toole,State Auditor,,LIB,Newton,Reding,1.0
+Don Fitz,State Auditor,,GRN,Newton,Reding,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Reding,0.0
+Billy Long,U S House,7,REP,Newton,Reding,204.0
+Lance Norris,U S House,7,REP,Newton,Reding,31.0
+Benjamin Holcomb,U S House,7,REP,Newton,Reding,34.0
+Jim Evans,U S House,7,REP,Newton,Reding,49.0
+Vince Jennings,U S House,7,DEM,Newton,Reding,21.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Reding,16.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Reding,11.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Reding,22.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Reding,1.0
+Bill White,State Senate,32,REP,Newton,Reding,217.0
+Rob O'Brian,State Senate,32,REP,Newton,Reding,107.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Reding,74.0
+Conon Gillis,State Senate,32,GRN,Newton,Reding,0.0
 Mark Bartley,State Representative,159,REP,Newton,Reding,
 Dirk E Deaton,State Representative,159,REP,Newton,Reding,
 Jerry Sparks,State Representative,159,DEM,Newton,Reding,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Reding,86
-Ben Baker,State Representative,160,REP,Newton,Reding,130
-David Osborn,State Representative,160,REP,Newton,Reding,39
-Angela R Thomas,State Representative,160,DEM,Newton,Reding,51
-Lane Roberts,State Representative,161,REP,Newton,Reding,38
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Reding,23
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Reding,86.0
+Ben Baker,State Representative,160,REP,Newton,Reding,130.0
+David Osborn,State Representative,160,REP,Newton,Reding,39.0
+Angela R Thomas,State Representative,160,DEM,Newton,Reding,51.0
+Lane Roberts,State Representative,161,REP,Newton,Reding,38.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Reding,23.0
 Robert W Stokes,State Representative,162,REP,Newton,Reding,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Reding,
 Sarah Hinkle,State Representative,162,DEM,Newton,Reding,
 Mollie Dyer,State Representative,162,GRN,Newton,Reding,
-,Registered Voters,,REP,Newton,Ritchey,554
-,Ballots Cast,,REP,Newton,Ritchey,168
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Ritchey,8
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Ritchey,4
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Ritchey,83
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Ritchey,3
-Christina Smith,ÊU.S. Senate,,REP,Newton,Ritchey,4
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Ritchey,12
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Ritchey,0
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Ritchey,8
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Ritchey,1
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Ritchey,3
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Ritchey,5
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Ritchey,1
-Angelica Earl,U S Senate,,DEM,Newton,Ritchey,1
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Ritchey,1
-John Hogan,U S Senate,,DEM,Newton,Ritchey,2
-Travis Gonzalez,U S Senate,,DEM,Newton,Ritchey,1
-David Faust,U S Senate,,DEM,Newton,Ritchey,0
-Claire McCaskill,U S Senate,,DEM,Newton,Ritchey,20
-Japheth Campbell,U S Senate,,LIB,Newton,Ritchey,0
-Jo Crain,U S Senate,,GRN,Newton,Ritchey,0
-Jerome Bauer,U S Senate,,GRN,Newton,Ritchey,0
-Kevin M Roach,State Auditor,,REP,Newton,Ritchey,28
-David Wasinger,State Auditor,,REP,Newton,Ritchey,30
-Paul Curtman,State Auditor,,REP,Newton,Ritchey,18
-Saundra McDowell,State Auditor,,REP,Newton,Ritchey,47
-Nicole Galloway,State Auditor,,DEM,Newton,Ritchey,23
-Sean O'Toole,State Auditor,,LIB,Newton,Ritchey,1
-Don Fitz,State Auditor,,GRN,Newton,Ritchey,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Ritchey,0
-Billy Long,U S House,7,REP,Newton,Ritchey,88
-Lance Norris,U S House,7,REP,Newton,Ritchey,14
-Benjamin Holcomb,U S House,7,REP,Newton,Ritchey,9
-Jim Evans,U S House,7,REP,Newton,Ritchey,24
-Vince Jennings,U S House,7,DEM,Newton,Ritchey,2
-John Farmer de la Torre,U S House,7,DEM,Newton,Ritchey,8
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Ritchey,3
-Kenneth Hatfield,U S House,7,DEM,Newton,Ritchey,10
-Benjamin T Brixey,U S House,7,LIB,Newton,Ritchey,0
-Bill White,State Senate,32,REP,Newton,Ritchey,77
-Rob O'Brian,State Senate,32,REP,Newton,Ritchey,55
-Carolyn McGowan,State Senate,32,DEM,Newton,Ritchey,23
-Conon Gillis,State Senate,32,GRN,Newton,Ritchey,0
-Mark Bartley,State Representative,159,REP,Newton,Ritchey,37
-Dirk E Deaton,State Representative,159,REP,Newton,Ritchey,94
-Jerry Sparks,State Representative,159,DEM,Newton,Ritchey,24
+,Registered Voters,,REP,Newton,Ritchey,554.0
+,Ballots Cast,,REP,Newton,Ritchey,168.0
+Tony Monetti,U.S. Senate,,REP,Newton,Ritchey,8.0
+Austin Petersen,U.S. Senate,,REP,Newton,Ritchey,4.0
+Josh Hawley,U.S. Senate,,REP,Newton,Ritchey,83.0
+Fred Ryman,U.S. Senate,,REP,Newton,Ritchey,3.0
+Christina Smith,U.S. Senate,,REP,Newton,Ritchey,4.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Ritchey,12.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Ritchey,0.0
+Ken Patterson,U.S. Senate,,REP,Newton,Ritchey,8.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Ritchey,1.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Ritchey,3.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Ritchey,5.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Ritchey,1.0
+Angelica Earl,U S Senate,,DEM,Newton,Ritchey,1.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Ritchey,1.0
+John Hogan,U S Senate,,DEM,Newton,Ritchey,2.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Ritchey,1.0
+David Faust,U S Senate,,DEM,Newton,Ritchey,0.0
+Claire McCaskill,U S Senate,,DEM,Newton,Ritchey,20.0
+Japheth Campbell,U S Senate,,LIB,Newton,Ritchey,0.0
+Jo Crain,U S Senate,,GRN,Newton,Ritchey,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Ritchey,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Ritchey,28.0
+David Wasinger,State Auditor,,REP,Newton,Ritchey,30.0
+Paul Curtman,State Auditor,,REP,Newton,Ritchey,18.0
+Saundra McDowell,State Auditor,,REP,Newton,Ritchey,47.0
+Nicole Galloway,State Auditor,,DEM,Newton,Ritchey,23.0
+Sean O'Toole,State Auditor,,LIB,Newton,Ritchey,1.0
+Don Fitz,State Auditor,,GRN,Newton,Ritchey,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Ritchey,0.0
+Billy Long,U S House,7,REP,Newton,Ritchey,88.0
+Lance Norris,U S House,7,REP,Newton,Ritchey,14.0
+Benjamin Holcomb,U S House,7,REP,Newton,Ritchey,9.0
+Jim Evans,U S House,7,REP,Newton,Ritchey,24.0
+Vince Jennings,U S House,7,DEM,Newton,Ritchey,2.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Ritchey,8.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Ritchey,3.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Ritchey,10.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Ritchey,0.0
+Bill White,State Senate,32,REP,Newton,Ritchey,77.0
+Rob O'Brian,State Senate,32,REP,Newton,Ritchey,55.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Ritchey,23.0
+Conon Gillis,State Senate,32,GRN,Newton,Ritchey,0.0
+Mark Bartley,State Representative,159,REP,Newton,Ritchey,37.0
+Dirk E Deaton,State Representative,159,REP,Newton,Ritchey,94.0
+Jerry Sparks,State Representative,159,DEM,Newton,Ritchey,24.0
 Raleigh Drue Ritter,State Representative,160,REP,Newton,Ritchey,
 Ben Baker,State Representative,160,REP,Newton,Ritchey,
 David Osborn,State Representative,160,REP,Newton,Ritchey,
@@ -797,53 +797,53 @@ Robert W Stokes,State Representative,162,REP,Newton,Ritchey,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Ritchey,
 Sarah Hinkle,State Representative,162,DEM,Newton,Ritchey,
 Mollie Dyer,State Representative,162,GRN,Newton,Ritchey,
-,Registered Voters,,REP,Newton,Senecca,2669
-,Ballots Cast,,REP,Newton,Senecca,696
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Senecca,47
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Senecca,53
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Senecca,253
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Senecca,16
-Christina Smith,ÊU.S. Senate,,REP,Newton,Senecca,29
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Senecca,64
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Senecca,7
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Senecca,27
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Senecca,9
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Senecca,9
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Senecca,13
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Senecca,5
-Angelica Earl,U S Senate,,DEM,Newton,Senecca,4
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Senecca,0
-John Hogan,U S Senate,,DEM,Newton,Senecca,6
-Travis Gonzalez,U S Senate,,DEM,Newton,Senecca,5
-David Faust,U S Senate,,DEM,Newton,Senecca,2
-Claire McCaskill,U S Senate,,DEM,Newton,Senecca,68
-Japheth Campbell,U S Senate,,LIB,Newton,Senecca,3
-Jo Crain,U S Senate,,GRN,Newton,Senecca,0
-Jerome Bauer,U S Senate,,GRN,Newton,Senecca,0
-Kevin M Roach,State Auditor,,REP,Newton,Senecca,148
-David Wasinger,State Auditor,,REP,Newton,Senecca,77
-Paul Curtman,State Auditor,,REP,Newton,Senecca,91
-Saundra McDowell,State Auditor,,REP,Newton,Senecca,170
-Nicole Galloway,State Auditor,,DEM,Newton,Senecca,74
-Sean O'Toole,State Auditor,,LIB,Newton,Senecca,3
-Don Fitz,State Auditor,,GRN,Newton,Senecca,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Senecca,0
-Billy Long,U S House,7,REP,Newton,Senecca,369
-Lance Norris,U S House,7,REP,Newton,Senecca,56
-Benjamin Holcomb,U S House,7,REP,Newton,Senecca,33
-Jim Evans,U S House,7,REP,Newton,Senecca,98
-Vince Jennings,U S House,7,DEM,Newton,Senecca,21
-John Farmer de la Torre,U S House,7,DEM,Newton,Senecca,15
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Senecca,18
-Kenneth Hatfield,U S House,7,DEM,Newton,Senecca,26
-Benjamin T Brixey,U S House,7,LIB,Newton,Senecca,3
-Bill White,State Senate,32,REP,Newton,Senecca,354
-Rob O'Brian,State Senate,32,REP,Newton,Senecca,200
-Carolyn McGowan,State Senate,32,DEM,Newton,Senecca,74
-Conon Gillis,State Senate,32,GRN,Newton,Senecca,0
-Mark Bartley,State Representative,159,REP,Newton,Senecca,132
-Dirk E Deaton,State Representative,159,REP,Newton,Senecca,433
-Jerry Sparks,State Representative,159,DEM,Newton,Senecca,79
+,Registered Voters,,REP,Newton,Senecca,2669.0
+,Ballots Cast,,REP,Newton,Senecca,696.0
+Tony Monetti,U.S. Senate,,REP,Newton,Senecca,47.0
+Austin Petersen,U.S. Senate,,REP,Newton,Senecca,53.0
+Josh Hawley,U.S. Senate,,REP,Newton,Senecca,253.0
+Fred Ryman,U.S. Senate,,REP,Newton,Senecca,16.0
+Christina Smith,U.S. Senate,,REP,Newton,Senecca,29.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Senecca,64.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Senecca,7.0
+Ken Patterson,U.S. Senate,,REP,Newton,Senecca,27.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Senecca,9.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Senecca,9.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Senecca,13.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Senecca,5.0
+Angelica Earl,U S Senate,,DEM,Newton,Senecca,4.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Senecca,0.0
+John Hogan,U S Senate,,DEM,Newton,Senecca,6.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Senecca,5.0
+David Faust,U S Senate,,DEM,Newton,Senecca,2.0
+Claire McCaskill,U S Senate,,DEM,Newton,Senecca,68.0
+Japheth Campbell,U S Senate,,LIB,Newton,Senecca,3.0
+Jo Crain,U S Senate,,GRN,Newton,Senecca,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Senecca,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Senecca,148.0
+David Wasinger,State Auditor,,REP,Newton,Senecca,77.0
+Paul Curtman,State Auditor,,REP,Newton,Senecca,91.0
+Saundra McDowell,State Auditor,,REP,Newton,Senecca,170.0
+Nicole Galloway,State Auditor,,DEM,Newton,Senecca,74.0
+Sean O'Toole,State Auditor,,LIB,Newton,Senecca,3.0
+Don Fitz,State Auditor,,GRN,Newton,Senecca,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Senecca,0.0
+Billy Long,U S House,7,REP,Newton,Senecca,369.0
+Lance Norris,U S House,7,REP,Newton,Senecca,56.0
+Benjamin Holcomb,U S House,7,REP,Newton,Senecca,33.0
+Jim Evans,U S House,7,REP,Newton,Senecca,98.0
+Vince Jennings,U S House,7,DEM,Newton,Senecca,21.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Senecca,15.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Senecca,18.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Senecca,26.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Senecca,3.0
+Bill White,State Senate,32,REP,Newton,Senecca,354.0
+Rob O'Brian,State Senate,32,REP,Newton,Senecca,200.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Senecca,74.0
+Conon Gillis,State Senate,32,GRN,Newton,Senecca,0.0
+Mark Bartley,State Representative,159,REP,Newton,Senecca,132.0
+Dirk E Deaton,State Representative,159,REP,Newton,Senecca,433.0
+Jerry Sparks,State Representative,159,DEM,Newton,Senecca,79.0
 Raleigh Drue Ritter,State Representative,160,REP,Newton,Senecca,
 Ben Baker,State Representative,160,REP,Newton,Senecca,
 David Osborn,State Representative,160,REP,Newton,Senecca,
@@ -854,50 +854,50 @@ Robert W Stokes,State Representative,162,REP,Newton,Senecca,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Senecca,
 Sarah Hinkle,State Representative,162,DEM,Newton,Senecca,
 Mollie Dyer,State Representative,162,GRN,Newton,Senecca,
-,Registered Voters,,REP,Newton,Staples East,670
-,Ballots Cast,,REP,Newton,Staples East,269
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Staples East,6
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Staples East,16
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Staples East,126
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Staples East,0
-Christina Smith,ÊU.S. Senate,,REP,Newton,Staples East,13
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Staples East,21
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Staples East,0
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Staples East,7
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Staples East,1
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Staples East,2
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Staples East,6
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples East,1
-Angelica Earl,U S Senate,,DEM,Newton,Staples East,0
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples East,0
-John Hogan,U S Senate,,DEM,Newton,Staples East,1
-Travis Gonzalez,U S Senate,,DEM,Newton,Staples East,1
-David Faust,U S Senate,,DEM,Newton,Staples East,1
-Claire McCaskill,U S Senate,,DEM,Newton,Staples East,45
-Japheth Campbell,U S Senate,,LIB,Newton,Staples East,0
-Jo Crain,U S Senate,,GRN,Newton,Staples East,0
-Jerome Bauer,U S Senate,,GRN,Newton,Staples East,0
-Kevin M Roach,State Auditor,,REP,Newton,Staples East,36
-David Wasinger,State Auditor,,REP,Newton,Staples East,42
-Paul Curtman,State Auditor,,REP,Newton,Staples East,20
-Saundra McDowell,State Auditor,,REP,Newton,Staples East,67
-Nicole Galloway,State Auditor,,DEM,Newton,Staples East,42
-Sean O'Toole,State Auditor,,LIB,Newton,Staples East,0
-Don Fitz,State Auditor,,GRN,Newton,Staples East,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples East,0
-Billy Long,U S House,7,REP,Newton,Staples East,147
-Lance Norris,U S House,7,REP,Newton,Staples East,9
-Benjamin Holcomb,U S House,7,REP,Newton,Staples East,9
-Jim Evans,U S House,7,REP,Newton,Staples East,40
-Vince Jennings,U S House,7,DEM,Newton,Staples East,10
-John Farmer de la Torre,U S House,7,DEM,Newton,Staples East,15
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples East,10
-Kenneth Hatfield,U S House,7,DEM,Newton,Staples East,10
-Benjamin T Brixey,U S House,7,LIB,Newton,Staples East,0
-Bill White,State Senate,32,REP,Newton,Staples East,156
-Rob O'Brian,State Senate,32,REP,Newton,Staples East,59
-Carolyn McGowan,State Senate,32,DEM,Newton,Staples East,47
-Conon Gillis,State Senate,32,GRN,Newton,Staples East,0
+,Registered Voters,,REP,Newton,Staples East,670.0
+,Ballots Cast,,REP,Newton,Staples East,269.0
+Tony Monetti,U.S. Senate,,REP,Newton,Staples East,6.0
+Austin Petersen,U.S. Senate,,REP,Newton,Staples East,16.0
+Josh Hawley,U.S. Senate,,REP,Newton,Staples East,126.0
+Fred Ryman,U.S. Senate,,REP,Newton,Staples East,0.0
+Christina Smith,U.S. Senate,,REP,Newton,Staples East,13.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Staples East,21.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Staples East,0.0
+Ken Patterson,U.S. Senate,,REP,Newton,Staples East,7.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Staples East,1.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Staples East,2.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Staples East,6.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples East,1.0
+Angelica Earl,U S Senate,,DEM,Newton,Staples East,0.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples East,0.0
+John Hogan,U S Senate,,DEM,Newton,Staples East,1.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Staples East,1.0
+David Faust,U S Senate,,DEM,Newton,Staples East,1.0
+Claire McCaskill,U S Senate,,DEM,Newton,Staples East,45.0
+Japheth Campbell,U S Senate,,LIB,Newton,Staples East,0.0
+Jo Crain,U S Senate,,GRN,Newton,Staples East,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Staples East,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Staples East,36.0
+David Wasinger,State Auditor,,REP,Newton,Staples East,42.0
+Paul Curtman,State Auditor,,REP,Newton,Staples East,20.0
+Saundra McDowell,State Auditor,,REP,Newton,Staples East,67.0
+Nicole Galloway,State Auditor,,DEM,Newton,Staples East,42.0
+Sean O'Toole,State Auditor,,LIB,Newton,Staples East,0.0
+Don Fitz,State Auditor,,GRN,Newton,Staples East,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples East,0.0
+Billy Long,U S House,7,REP,Newton,Staples East,147.0
+Lance Norris,U S House,7,REP,Newton,Staples East,9.0
+Benjamin Holcomb,U S House,7,REP,Newton,Staples East,9.0
+Jim Evans,U S House,7,REP,Newton,Staples East,40.0
+Vince Jennings,U S House,7,DEM,Newton,Staples East,10.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Staples East,15.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples East,10.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Staples East,10.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Staples East,0.0
+Bill White,State Senate,32,REP,Newton,Staples East,156.0
+Rob O'Brian,State Senate,32,REP,Newton,Staples East,59.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Staples East,47.0
+Conon Gillis,State Senate,32,GRN,Newton,Staples East,0.0
 Mark Bartley,State Representative,159,REP,Newton,Staples East,
 Dirk E Deaton,State Representative,159,REP,Newton,Staples East,
 Jerry Sparks,State Representative,159,DEM,Newton,Staples East,
@@ -905,170 +905,170 @@ Raleigh Drue Ritter,State Representative,160,REP,Newton,Staples East,
 Ben Baker,State Representative,160,REP,Newton,Staples East,
 David Osborn,State Representative,160,REP,Newton,Staples East,
 Angela R Thomas,State Representative,160,DEM,Newton,Staples East,
-Lane Roberts,State Representative,161,REP,Newton,Staples East,172
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples East,47
+Lane Roberts,State Representative,161,REP,Newton,Staples East,172.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples East,47.0
 Robert W Stokes,State Representative,162,REP,Newton,Staples East,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Staples East,
 Sarah Hinkle,State Representative,162,DEM,Newton,Staples East,
 Mollie Dyer,State Representative,162,GRN,Newton,Staples East,
-,Registered Voters,,REP,Newton,Staples West,1405
-,Ballots Cast,,REP,Newton,Staples West,455
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Staples West,34
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Staples West,32
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Staples West,187
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Staples West,10
-Christina Smith,ÊU.S. Senate,,REP,Newton,Staples West,21
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Staples West,40
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Staples West,1
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Staples West,14
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Staples West,2
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Staples West,8
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Staples West,2
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples West,4
-Angelica Earl,U S Senate,,DEM,Newton,Staples West,3
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples West,0
-John Hogan,U S Senate,,DEM,Newton,Staples West,6
-Travis Gonzalez,U S Senate,,DEM,Newton,Staples West,3
-David Faust,U S Senate,,DEM,Newton,Staples West,2
-Claire McCaskill,U S Senate,,DEM,Newton,Staples West,51
-Japheth Campbell,U S Senate,,LIB,Newton,Staples West,0
-Jo Crain,U S Senate,,GRN,Newton,Staples West,3
-Jerome Bauer,U S Senate,,GRN,Newton,Staples West,0
-Kevin M Roach,State Auditor,,REP,Newton,Staples West,83
-David Wasinger,State Auditor,,REP,Newton,Staples West,60
-Paul Curtman,State Auditor,,REP,Newton,Staples West,44
-Saundra McDowell,State Auditor,,REP,Newton,Staples West,126
-Nicole Galloway,State Auditor,,DEM,Newton,Staples West,63
-Sean O'Toole,State Auditor,,LIB,Newton,Staples West,0
-Don Fitz,State Auditor,,GRN,Newton,Staples West,2
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples West,0
-Billy Long,U S House,7,REP,Newton,Staples West,216
-Lance Norris,U S House,7,REP,Newton,Staples West,35
-Benjamin Holcomb,U S House,7,REP,Newton,Staples West,35
-Jim Evans,U S House,7,REP,Newton,Staples West,64
-Vince Jennings,U S House,7,DEM,Newton,Staples West,5
-John Farmer de la Torre,U S House,7,DEM,Newton,Staples West,13
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples West,18
-Kenneth Hatfield,U S House,7,DEM,Newton,Staples West,19
-Benjamin T Brixey,U S House,7,LIB,Newton,Staples West,0
-Bill White,State Senate,32,REP,Newton,Staples West,245
-Rob O'Brian,State Senate,32,REP,Newton,Staples West,121
-Carolyn McGowan,State Senate,32,DEM,Newton,Staples West,61
-Conon Gillis,State Senate,32,GRN,Newton,Staples West,3
+,Registered Voters,,REP,Newton,Staples West,1405.0
+,Ballots Cast,,REP,Newton,Staples West,455.0
+Tony Monetti,U.S. Senate,,REP,Newton,Staples West,34.0
+Austin Petersen,U.S. Senate,,REP,Newton,Staples West,32.0
+Josh Hawley,U.S. Senate,,REP,Newton,Staples West,187.0
+Fred Ryman,U.S. Senate,,REP,Newton,Staples West,10.0
+Christina Smith,U.S. Senate,,REP,Newton,Staples West,21.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Staples West,40.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Staples West,1.0
+Ken Patterson,U.S. Senate,,REP,Newton,Staples West,14.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Staples West,2.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Staples West,8.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Staples West,2.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples West,4.0
+Angelica Earl,U S Senate,,DEM,Newton,Staples West,3.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples West,0.0
+John Hogan,U S Senate,,DEM,Newton,Staples West,6.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Staples West,3.0
+David Faust,U S Senate,,DEM,Newton,Staples West,2.0
+Claire McCaskill,U S Senate,,DEM,Newton,Staples West,51.0
+Japheth Campbell,U S Senate,,LIB,Newton,Staples West,0.0
+Jo Crain,U S Senate,,GRN,Newton,Staples West,3.0
+Jerome Bauer,U S Senate,,GRN,Newton,Staples West,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Staples West,83.0
+David Wasinger,State Auditor,,REP,Newton,Staples West,60.0
+Paul Curtman,State Auditor,,REP,Newton,Staples West,44.0
+Saundra McDowell,State Auditor,,REP,Newton,Staples West,126.0
+Nicole Galloway,State Auditor,,DEM,Newton,Staples West,63.0
+Sean O'Toole,State Auditor,,LIB,Newton,Staples West,0.0
+Don Fitz,State Auditor,,GRN,Newton,Staples West,2.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples West,0.0
+Billy Long,U S House,7,REP,Newton,Staples West,216.0
+Lance Norris,U S House,7,REP,Newton,Staples West,35.0
+Benjamin Holcomb,U S House,7,REP,Newton,Staples West,35.0
+Jim Evans,U S House,7,REP,Newton,Staples West,64.0
+Vince Jennings,U S House,7,DEM,Newton,Staples West,5.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Staples West,13.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples West,18.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Staples West,19.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Staples West,0.0
+Bill White,State Senate,32,REP,Newton,Staples West,245.0
+Rob O'Brian,State Senate,32,REP,Newton,Staples West,121.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Staples West,61.0
+Conon Gillis,State Senate,32,GRN,Newton,Staples West,3.0
 Mark Bartley,State Representative,159,REP,Newton,Staples West,
 Dirk E Deaton,State Representative,159,REP,Newton,Staples West,
 Jerry Sparks,State Representative,159,DEM,Newton,Staples West,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Staples West,63
-Ben Baker,State Representative,160,REP,Newton,Staples West,82
-David Osborn,State Representative,160,REP,Newton,Staples West,83
-Angela R Thomas,State Representative,160,DEM,Newton,Staples West,39
-Lane Roberts,State Representative,161,REP,Newton,Staples West,88
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples West,22
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Staples West,63.0
+Ben Baker,State Representative,160,REP,Newton,Staples West,82.0
+David Osborn,State Representative,160,REP,Newton,Staples West,83.0
+Angela R Thomas,State Representative,160,DEM,Newton,Staples West,39.0
+Lane Roberts,State Representative,161,REP,Newton,Staples West,88.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples West,22.0
 Robert W Stokes,State Representative,162,REP,Newton,Staples West,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Staples West,
 Sarah Hinkle,State Representative,162,DEM,Newton,Staples West,
 Mollie Dyer,State Representative,162,GRN,Newton,Staples West,
-,Registered Voters,,REP,Newton,Staples #21,1308
-,Ballots Cast,,REP,Newton,Staples #21,399
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Staples #21,17
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Staples #21,32
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Staples #21,167
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Staples #21,1
-Christina Smith,ÊU.S. Senate,,REP,Newton,Staples #21,14
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Staples #21,32
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Staples #21,4
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Staples #21,6
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Staples #21,5
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Staples #21,5
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Staples #21,4
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples #21,4
-Angelica Earl,U S Senate,,DEM,Newton,Staples #21,5
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples #21,1
-John Hogan,U S Senate,,DEM,Newton,Staples #21,1
-Travis Gonzalez,U S Senate,,DEM,Newton,Staples #21,2
-David Faust,U S Senate,,DEM,Newton,Staples #21,1
-Claire McCaskill,U S Senate,,DEM,Newton,Staples #21,64
-Japheth Campbell,U S Senate,,LIB,Newton,Staples #21,2
-Jo Crain,U S Senate,,GRN,Newton,Staples #21,0
-Jerome Bauer,U S Senate,,GRN,Newton,Staples #21,1
-Kevin M Roach,State Auditor,,REP,Newton,Staples #21,63
-David Wasinger,State Auditor,,REP,Newton,Staples #21,59
-Paul Curtman,State Auditor,,REP,Newton,Staples #21,30
-Saundra McDowell,State Auditor,,REP,Newton,Staples #21,105
-Nicole Galloway,State Auditor,,DEM,Newton,Staples #21,73
-Sean O'Toole,State Auditor,,LIB,Newton,Staples #21,2
-Don Fitz,State Auditor,,GRN,Newton,Staples #21,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples #21,0
-Billy Long,U S House,7,REP,Newton,Staples #21,204
-Lance Norris,U S House,7,REP,Newton,Staples #21,27
-Benjamin Holcomb,U S House,7,REP,Newton,Staples #21,17
-Jim Evans,U S House,7,REP,Newton,Staples #21,40
-Vince Jennings,U S House,7,DEM,Newton,Staples #21,13
-John Farmer de la Torre,U S House,7,DEM,Newton,Staples #21,22
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples #21,30
-Kenneth Hatfield,U S House,7,DEM,Newton,Staples #21,11
-Benjamin T Brixey,U S House,7,LIB,Newton,Staples #21,2
-Bill White,State Senate,32,REP,Newton,Staples #21,217
-Rob O'Brian,State Senate,32,REP,Newton,Staples #21,86
-Carolyn McGowan,State Senate,32,DEM,Newton,Staples #21,76
-Conon Gillis,State Senate,32,GRN,Newton,Staples #21,1
+,Registered Voters,,REP,Newton,Staples #21,1308.0
+,Ballots Cast,,REP,Newton,Staples #21,399.0
+Tony Monetti,U.S. Senate,,REP,Newton,Staples #21,17.0
+Austin Petersen,U.S. Senate,,REP,Newton,Staples #21,32.0
+Josh Hawley,U.S. Senate,,REP,Newton,Staples #21,167.0
+Fred Ryman,U.S. Senate,,REP,Newton,Staples #21,1.0
+Christina Smith,U.S. Senate,,REP,Newton,Staples #21,14.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Staples #21,32.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Staples #21,4.0
+Ken Patterson,U.S. Senate,,REP,Newton,Staples #21,6.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Staples #21,5.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Staples #21,5.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Staples #21,4.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples #21,4.0
+Angelica Earl,U S Senate,,DEM,Newton,Staples #21,5.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples #21,1.0
+John Hogan,U S Senate,,DEM,Newton,Staples #21,1.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Staples #21,2.0
+David Faust,U S Senate,,DEM,Newton,Staples #21,1.0
+Claire McCaskill,U S Senate,,DEM,Newton,Staples #21,64.0
+Japheth Campbell,U S Senate,,LIB,Newton,Staples #21,2.0
+Jo Crain,U S Senate,,GRN,Newton,Staples #21,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Staples #21,1.0
+Kevin M Roach,State Auditor,,REP,Newton,Staples #21,63.0
+David Wasinger,State Auditor,,REP,Newton,Staples #21,59.0
+Paul Curtman,State Auditor,,REP,Newton,Staples #21,30.0
+Saundra McDowell,State Auditor,,REP,Newton,Staples #21,105.0
+Nicole Galloway,State Auditor,,DEM,Newton,Staples #21,73.0
+Sean O'Toole,State Auditor,,LIB,Newton,Staples #21,2.0
+Don Fitz,State Auditor,,GRN,Newton,Staples #21,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples #21,0.0
+Billy Long,U S House,7,REP,Newton,Staples #21,204.0
+Lance Norris,U S House,7,REP,Newton,Staples #21,27.0
+Benjamin Holcomb,U S House,7,REP,Newton,Staples #21,17.0
+Jim Evans,U S House,7,REP,Newton,Staples #21,40.0
+Vince Jennings,U S House,7,DEM,Newton,Staples #21,13.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Staples #21,22.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples #21,30.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Staples #21,11.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Staples #21,2.0
+Bill White,State Senate,32,REP,Newton,Staples #21,217.0
+Rob O'Brian,State Senate,32,REP,Newton,Staples #21,86.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Staples #21,76.0
+Conon Gillis,State Senate,32,GRN,Newton,Staples #21,1.0
 Mark Bartley,State Representative,159,REP,Newton,Staples #21,
 Dirk E Deaton,State Representative,159,REP,Newton,Staples #21,
 Jerry Sparks,State Representative,159,DEM,Newton,Staples #21,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Staples #21,0
-Ben Baker,State Representative,160,REP,Newton,Staples #21,0
-David Osborn,State Representative,160,REP,Newton,Staples #21,0
-Angela R Thomas,State Representative,160,DEM,Newton,Staples #21,0
-Lane Roberts,State Representative,161,REP,Newton,Staples #21,244
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples #21,76
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Staples #21,0.0
+Ben Baker,State Representative,160,REP,Newton,Staples #21,0.0
+David Osborn,State Representative,160,REP,Newton,Staples #21,0.0
+Angela R Thomas,State Representative,160,DEM,Newton,Staples #21,0.0
+Lane Roberts,State Representative,161,REP,Newton,Staples #21,244.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples #21,76.0
 Robert W Stokes,State Representative,162,REP,Newton,Staples #21,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Staples #21,
 Sarah Hinkle,State Representative,162,DEM,Newton,Staples #21,
 Mollie Dyer,State Representative,162,GRN,Newton,Staples #21,
-,Registered Voters,,REP,Newton,Staples #27,2551
-,Ballots Cast,,REP,Newton,Staples #27,820
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Staples #27,46
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Staples #27,39
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Staples #27,402
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Staples #27,6
-Christina Smith,ÊU.S. Senate,,REP,Newton,Staples #27,28
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Staples #27,44
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Staples #27,3
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Staples #27,16
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Staples #27,3
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Staples #27,16
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Staples #27,10
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples #27,7
-Angelica Earl,U S Senate,,DEM,Newton,Staples #27,4
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples #27,1
-John Hogan,U S Senate,,DEM,Newton,Staples #27,4
-Travis Gonzalez,U S Senate,,DEM,Newton,Staples #27,3
-David Faust,U S Senate,,DEM,Newton,Staples #27,3
-Claire McCaskill,U S Senate,,DEM,Newton,Staples #27,122
-Japheth Campbell,U S Senate,,LIB,Newton,Staples #27,1
-Jo Crain,U S Senate,,GRN,Newton,Staples #27,0
-Jerome Bauer,U S Senate,,GRN,Newton,Staples #27,1
-Kevin M Roach,State Auditor,,REP,Newton,Staples #27,141
-David Wasinger,State Auditor,,REP,Newton,Staples #27,107
-Paul Curtman,State Auditor,,REP,Newton,Staples #27,68
-Saundra McDowell,State Auditor,,REP,Newton,Staples #27,216
-Nicole Galloway,State Auditor,,DEM,Newton,Staples #27,130
-Sean O'Toole,State Auditor,,LIB,Newton,Staples #27,1
-Don Fitz,State Auditor,,GRN,Newton,Staples #27,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples #27,0
-Billy Long,U S House,7,REP,Newton,Staples #27,427
-Lance Norris,U S House,7,REP,Newton,Staples #27,71
-Benjamin Holcomb,U S House,7,REP,Newton,Staples #27,36
-Jim Evans,U S House,7,REP,Newton,Staples #27,83
-Vince Jennings,U S House,7,DEM,Newton,Staples #27,29
-John Farmer de la Torre,U S House,7,DEM,Newton,Staples #27,31
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples #27,38
-Kenneth Hatfield,U S House,7,DEM,Newton,Staples #27,38
-Benjamin T Brixey,U S House,7,LIB,Newton,Staples #27,1
-Bill White,State Senate,32,REP,Newton,Staples #27,447
-Rob O'Brian,State Senate,32,REP,Newton,Staples #27,197
-Carolyn McGowan,State Senate,32,DEM,Newton,Staples #27,135
-Conon Gillis,State Senate,32,GRN,Newton,Staples #27,1
+,Registered Voters,,REP,Newton,Staples #27,2551.0
+,Ballots Cast,,REP,Newton,Staples #27,820.0
+Tony Monetti,U.S. Senate,,REP,Newton,Staples #27,46.0
+Austin Petersen,U.S. Senate,,REP,Newton,Staples #27,39.0
+Josh Hawley,U.S. Senate,,REP,Newton,Staples #27,402.0
+Fred Ryman,U.S. Senate,,REP,Newton,Staples #27,6.0
+Christina Smith,U.S. Senate,,REP,Newton,Staples #27,28.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Staples #27,44.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Staples #27,3.0
+Ken Patterson,U.S. Senate,,REP,Newton,Staples #27,16.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Staples #27,3.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Staples #27,16.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Staples #27,10.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Staples #27,7.0
+Angelica Earl,U S Senate,,DEM,Newton,Staples #27,4.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Staples #27,1.0
+John Hogan,U S Senate,,DEM,Newton,Staples #27,4.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Staples #27,3.0
+David Faust,U S Senate,,DEM,Newton,Staples #27,3.0
+Claire McCaskill,U S Senate,,DEM,Newton,Staples #27,122.0
+Japheth Campbell,U S Senate,,LIB,Newton,Staples #27,1.0
+Jo Crain,U S Senate,,GRN,Newton,Staples #27,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Staples #27,1.0
+Kevin M Roach,State Auditor,,REP,Newton,Staples #27,141.0
+David Wasinger,State Auditor,,REP,Newton,Staples #27,107.0
+Paul Curtman,State Auditor,,REP,Newton,Staples #27,68.0
+Saundra McDowell,State Auditor,,REP,Newton,Staples #27,216.0
+Nicole Galloway,State Auditor,,DEM,Newton,Staples #27,130.0
+Sean O'Toole,State Auditor,,LIB,Newton,Staples #27,1.0
+Don Fitz,State Auditor,,GRN,Newton,Staples #27,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Staples #27,0.0
+Billy Long,U S House,7,REP,Newton,Staples #27,427.0
+Lance Norris,U S House,7,REP,Newton,Staples #27,71.0
+Benjamin Holcomb,U S House,7,REP,Newton,Staples #27,36.0
+Jim Evans,U S House,7,REP,Newton,Staples #27,83.0
+Vince Jennings,U S House,7,DEM,Newton,Staples #27,29.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Staples #27,31.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Staples #27,38.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Staples #27,38.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Staples #27,1.0
+Bill White,State Senate,32,REP,Newton,Staples #27,447.0
+Rob O'Brian,State Senate,32,REP,Newton,Staples #27,197.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Staples #27,135.0
+Conon Gillis,State Senate,32,GRN,Newton,Staples #27,1.0
 Mark Bartley,State Representative,159,REP,Newton,Staples #27,
 Dirk E Deaton,State Representative,159,REP,Newton,Staples #27,
 Jerry Sparks,State Representative,159,DEM,Newton,Staples #27,
@@ -1076,59 +1076,59 @@ Raleigh Drue Ritter,State Representative,160,REP,Newton,Staples #27,
 Ben Baker,State Representative,160,REP,Newton,Staples #27,
 David Osborn,State Representative,160,REP,Newton,Staples #27,
 Angela R Thomas,State Representative,160,DEM,Newton,Staples #27,
-Lane Roberts,State Representative,161,REP,Newton,Staples #27,538
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples #27,138
+Lane Roberts,State Representative,161,REP,Newton,Staples #27,538.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Staples #27,138.0
 Robert W Stokes,State Representative,162,REP,Newton,Staples #27,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Staples #27,
 Sarah Hinkle,State Representative,162,DEM,Newton,Staples #27,
 Mollie Dyer,State Representative,162,GRN,Newton,Staples #27,
-,Registered Voters,,REP,Newton,Stella,686
-,Ballots Cast,,REP,Newton,Stella,190
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Stella,11
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Stella,8
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Stella,96
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Stella,3
-Christina Smith,ÊU.S. Senate,,REP,Newton,Stella,4
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Stella,13
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Stella,2
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Stella,8
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Stella,3
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Stella,9
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Stella,4
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Stella,0
-Angelica Earl,U S Senate,,DEM,Newton,Stella,3
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Stella,0
-John Hogan,U S Senate,,DEM,Newton,Stella,0
-Travis Gonzalez,U S Senate,,DEM,Newton,Stella,2
-David Faust,U S Senate,,DEM,Newton,Stella,0
-Claire McCaskill,U S Senate,,DEM,Newton,Stella,11
-Japheth Campbell,U S Senate,,LIB,Newton,Stella,0
-Jo Crain,U S Senate,,GRN,Newton,Stella,0
-Jerome Bauer,U S Senate,,GRN,Newton,Stella,0
-Kevin M Roach,State Auditor,,REP,Newton,Stella,38
-David Wasinger,State Auditor,,REP,Newton,Stella,40
-Paul Curtman,State Auditor,,REP,Newton,Stella,22
-Saundra McDowell,State Auditor,,REP,Newton,Stella,46
-Nicole Galloway,State Auditor,,DEM,Newton,Stella,12
-Sean O'Toole,State Auditor,,LIB,Newton,Stella,0
-Don Fitz,State Auditor,,GRN,Newton,Stella,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Stella,0
-Billy Long,U S House,7,REP,Newton,Stella,124
-Lance Norris,U S House,7,REP,Newton,Stella,16
-Benjamin Holcomb,U S House,7,REP,Newton,Stella,7
-Jim Evans,U S House,7,REP,Newton,Stella,18
-Vince Jennings,U S House,7,DEM,Newton,Stella,3
-John Farmer de la Torre,U S House,7,DEM,Newton,Stella,8
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Stella,1
-Kenneth Hatfield,U S House,7,DEM,Newton,Stella,3
-Benjamin T Brixey,U S House,7,LIB,Newton,Stella,0
-Bill White,State Senate,32,REP,Newton,Stella,112
-Rob O'Brian,State Senate,32,REP,Newton,Stella,53
-Carolyn McGowan,State Senate,32,DEM,Newton,Stella,14
-Conon Gillis,State Senate,32,GRN,Newton,Stella,0
-Mark Bartley,State Representative,159,REP,Newton,Stella,34
-Dirk E Deaton,State Representative,159,REP,Newton,Stella,130
-Jerry Sparks,State Representative,159,DEM,Newton,Stella,13
+,Registered Voters,,REP,Newton,Stella,686.0
+,Ballots Cast,,REP,Newton,Stella,190.0
+Tony Monetti,U.S. Senate,,REP,Newton,Stella,11.0
+Austin Petersen,U.S. Senate,,REP,Newton,Stella,8.0
+Josh Hawley,U.S. Senate,,REP,Newton,Stella,96.0
+Fred Ryman,U.S. Senate,,REP,Newton,Stella,3.0
+Christina Smith,U.S. Senate,,REP,Newton,Stella,4.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Stella,13.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Stella,2.0
+Ken Patterson,U.S. Senate,,REP,Newton,Stella,8.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Stella,3.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Stella,9.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Stella,4.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Stella,0.0
+Angelica Earl,U S Senate,,DEM,Newton,Stella,3.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Stella,0.0
+John Hogan,U S Senate,,DEM,Newton,Stella,0.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Stella,2.0
+David Faust,U S Senate,,DEM,Newton,Stella,0.0
+Claire McCaskill,U S Senate,,DEM,Newton,Stella,11.0
+Japheth Campbell,U S Senate,,LIB,Newton,Stella,0.0
+Jo Crain,U S Senate,,GRN,Newton,Stella,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Stella,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Stella,38.0
+David Wasinger,State Auditor,,REP,Newton,Stella,40.0
+Paul Curtman,State Auditor,,REP,Newton,Stella,22.0
+Saundra McDowell,State Auditor,,REP,Newton,Stella,46.0
+Nicole Galloway,State Auditor,,DEM,Newton,Stella,12.0
+Sean O'Toole,State Auditor,,LIB,Newton,Stella,0.0
+Don Fitz,State Auditor,,GRN,Newton,Stella,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Stella,0.0
+Billy Long,U S House,7,REP,Newton,Stella,124.0
+Lance Norris,U S House,7,REP,Newton,Stella,16.0
+Benjamin Holcomb,U S House,7,REP,Newton,Stella,7.0
+Jim Evans,U S House,7,REP,Newton,Stella,18.0
+Vince Jennings,U S House,7,DEM,Newton,Stella,3.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Stella,8.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Stella,1.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Stella,3.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Stella,0.0
+Bill White,State Senate,32,REP,Newton,Stella,112.0
+Rob O'Brian,State Senate,32,REP,Newton,Stella,53.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Stella,14.0
+Conon Gillis,State Senate,32,GRN,Newton,Stella,0.0
+Mark Bartley,State Representative,159,REP,Newton,Stella,34.0
+Dirk E Deaton,State Representative,159,REP,Newton,Stella,130.0
+Jerry Sparks,State Representative,159,DEM,Newton,Stella,13.0
 Raleigh Drue Ritter,State Representative,160,REP,Newton,Stella,
 Ben Baker,State Representative,160,REP,Newton,Stella,
 David Osborn,State Representative,160,REP,Newton,Stella,
@@ -1139,167 +1139,167 @@ Robert W Stokes,State Representative,162,REP,Newton,Stella,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Stella,
 Sarah Hinkle,State Representative,162,DEM,Newton,Stella,
 Mollie Dyer,State Representative,162,GRN,Newton,Stella,
-,Registered Voters,,REP,Newton,Thurman,2477
-,Ballots Cast,,REP,Newton,Thurman,746
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Thurman,49
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Thurman,53
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Thurman,326
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Thurman,6
-Christina Smith,ÊU.S. Senate,,REP,Newton,Thurman,26
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Thurman,61
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Thurman,6
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Thurman,12
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Thurman,9
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Thurman,14
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Thurman,24
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Thurman,2
-Angelica Earl,U S Senate,,DEM,Newton,Thurman,4
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Thurman,0
-John Hogan,U S Senate,,DEM,Newton,Thurman,5
-Travis Gonzalez,U S Senate,,DEM,Newton,Thurman,5
-David Faust,U S Senate,,DEM,Newton,Thurman,2
-Claire McCaskill,U S Senate,,DEM,Newton,Thurman,85
-Japheth Campbell,U S Senate,,LIB,Newton,Thurman,0
-Jo Crain,U S Senate,,GRN,Newton,Thurman,0
-Jerome Bauer,U S Senate,,GRN,Newton,Thurman,1
-Kevin M Roach,State Auditor,,REP,Newton,Thurman,146
-David Wasinger,State Auditor,,REP,Newton,Thurman,102
-Paul Curtman,State Auditor,,REP,Newton,Thurman,80
-Saundra McDowell,State Auditor,,REP,Newton,Thurman,197
-Nicole Galloway,State Auditor,,DEM,Newton,Thurman,92
-Sean O'Toole,State Auditor,,LIB,Newton,Thurman,0
-Don Fitz,State Auditor,,GRN,Newton,Thurman,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Thurman,0
-Billy Long,U S House,7,REP,Newton,Thurman,381
-Lance Norris,U S House,7,REP,Newton,Thurman,48
-Benjamin Holcomb,U S House,7,REP,Newton,Thurman,56
-Jim Evans,U S House,7,REP,Newton,Thurman,102
-Vince Jennings,U S House,7,DEM,Newton,Thurman,19
-John Farmer de la Torre,U S House,7,DEM,Newton,Thurman,20
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Thurman,18
-Kenneth Hatfield,U S House,7,DEM,Newton,Thurman,33
-Benjamin T Brixey,U S House,7,LIB,Newton,Thurman,0
-Bill White,State Senate,32,REP,Newton,Thurman,407
-Rob O'Brian,State Senate,32,REP,Newton,Thurman,195
-Carolyn McGowan,State Senate,32,DEM,Newton,Thurman,94
-Conon Gillis,State Senate,32,GRN,Newton,Thurman,1
+,Registered Voters,,REP,Newton,Thurman,2477.0
+,Ballots Cast,,REP,Newton,Thurman,746.0
+Tony Monetti,U.S. Senate,,REP,Newton,Thurman,49.0
+Austin Petersen,U.S. Senate,,REP,Newton,Thurman,53.0
+Josh Hawley,U.S. Senate,,REP,Newton,Thurman,326.0
+Fred Ryman,U.S. Senate,,REP,Newton,Thurman,6.0
+Christina Smith,U.S. Senate,,REP,Newton,Thurman,26.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Thurman,61.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Thurman,6.0
+Ken Patterson,U.S. Senate,,REP,Newton,Thurman,12.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Thurman,9.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Thurman,14.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Thurman,24.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Thurman,2.0
+Angelica Earl,U S Senate,,DEM,Newton,Thurman,4.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Thurman,0.0
+John Hogan,U S Senate,,DEM,Newton,Thurman,5.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Thurman,5.0
+David Faust,U S Senate,,DEM,Newton,Thurman,2.0
+Claire McCaskill,U S Senate,,DEM,Newton,Thurman,85.0
+Japheth Campbell,U S Senate,,LIB,Newton,Thurman,0.0
+Jo Crain,U S Senate,,GRN,Newton,Thurman,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Thurman,1.0
+Kevin M Roach,State Auditor,,REP,Newton,Thurman,146.0
+David Wasinger,State Auditor,,REP,Newton,Thurman,102.0
+Paul Curtman,State Auditor,,REP,Newton,Thurman,80.0
+Saundra McDowell,State Auditor,,REP,Newton,Thurman,197.0
+Nicole Galloway,State Auditor,,DEM,Newton,Thurman,92.0
+Sean O'Toole,State Auditor,,LIB,Newton,Thurman,0.0
+Don Fitz,State Auditor,,GRN,Newton,Thurman,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Thurman,0.0
+Billy Long,U S House,7,REP,Newton,Thurman,381.0
+Lance Norris,U S House,7,REP,Newton,Thurman,48.0
+Benjamin Holcomb,U S House,7,REP,Newton,Thurman,56.0
+Jim Evans,U S House,7,REP,Newton,Thurman,102.0
+Vince Jennings,U S House,7,DEM,Newton,Thurman,19.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Thurman,20.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Thurman,18.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Thurman,33.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Thurman,0.0
+Bill White,State Senate,32,REP,Newton,Thurman,407.0
+Rob O'Brian,State Senate,32,REP,Newton,Thurman,195.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Thurman,94.0
+Conon Gillis,State Senate,32,GRN,Newton,Thurman,1.0
 Mark Bartley,State Representative,159,REP,Newton,Thurman,
 Dirk E Deaton,State Representative,159,REP,Newton,Thurman,
 Jerry Sparks,State Representative,159,DEM,Newton,Thurman,
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Thurman,125
-Ben Baker,State Representative,160,REP,Newton,Thurman,300
-David Osborn,State Representative,160,REP,Newton,Thurman,100
-Angela R Thomas,State Representative,160,DEM,Newton,Thurman,77
-Lane Roberts,State Representative,161,REP,Newton,Thurman,41
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Thurman,13
-Robert W Stokes,State Representative,162,REP,Newton,Thurman,2
-Robert (Bob) Bromley,State Representative,162,REP,Newton,Thurman,3
-Sarah Hinkle,State Representative,162,DEM,Newton,Thurman,1
-Mollie Dyer,State Representative,162,GRN,Newton,Thurman,0
-,Registered Voters,,REP,Newton,Wentworth,598
-,Ballots Cast,,REP,Newton,Wentworth,201
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Wentworth,16
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Wentworth,4
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Wentworth,76
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Wentworth,4
-Christina Smith,ÊU.S. Senate,,REP,Newton,Wentworth,6
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Wentworth,21
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Wentworth,3
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Wentworth,7
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Wentworth,0
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Wentworth,5
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Wentworth,5
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Wentworth,2
-Angelica Earl,U S Senate,,DEM,Newton,Wentworth,4
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Wentworth,2
-John Hogan,U S Senate,,DEM,Newton,Wentworth,1
-Travis Gonzalez,U S Senate,,DEM,Newton,Wentworth,1
-David Faust,U S Senate,,DEM,Newton,Wentworth,3
-Claire McCaskill,U S Senate,,DEM,Newton,Wentworth,24
-Japheth Campbell,U S Senate,,LIB,Newton,Wentworth,1
-Jo Crain,U S Senate,,GRN,Newton,Wentworth,0
-Jerome Bauer,U S Senate,,GRN,Newton,Wentworth,0
-Kevin M Roach,State Auditor,,REP,Newton,Wentworth,37
-David Wasinger,State Auditor,,REP,Newton,Wentworth,22
-Paul Curtman,State Auditor,,REP,Newton,Wentworth,17
-Saundra McDowell,State Auditor,,REP,Newton,Wentworth,55
-Nicole Galloway,State Auditor,,DEM,Newton,Wentworth,29
-Sean O'Toole,State Auditor,,LIB,Newton,Wentworth,1
-Don Fitz,State Auditor,,GRN,Newton,Wentworth,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Wentworth,0
-Billy Long,U S House,7,REP,Newton,Wentworth,86
-Lance Norris,U S House,7,REP,Newton,Wentworth,28
-Benjamin Holcomb,U S House,7,REP,Newton,Wentworth,11
-Jim Evans,U S House,7,REP,Newton,Wentworth,28
-Vince Jennings,U S House,7,DEM,Newton,Wentworth,8
-John Farmer de la Torre,U S House,7,DEM,Newton,Wentworth,6
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Wentworth,7
-Kenneth Hatfield,U S House,7,DEM,Newton,Wentworth,14
-Benjamin T Brixey,U S House,7,LIB,Newton,Wentworth,1
-Bill White,State Senate,32,REP,Newton,Wentworth,84
-Rob O'Brian,State Senate,32,REP,Newton,Wentworth,54
-Carolyn McGowan,State Senate,32,DEM,Newton,Wentworth,33
-Conon Gillis,State Senate,32,GRN,Newton,Wentworth,0
-Mark Bartley,State Representative,159,REP,Newton,Wentworth,2
-Dirk E Deaton,State Representative,159,REP,Newton,Wentworth,2
-Jerry Sparks,State Representative,159,DEM,Newton,Wentworth,1
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Wentworth,35
-Ben Baker,State Representative,160,REP,Newton,Wentworth,54
-David Osborn,State Representative,160,REP,Newton,Wentworth,46
-Angela R Thomas,State Representative,160,DEM,Newton,Wentworth,29
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Thurman,125.0
+Ben Baker,State Representative,160,REP,Newton,Thurman,300.0
+David Osborn,State Representative,160,REP,Newton,Thurman,100.0
+Angela R Thomas,State Representative,160,DEM,Newton,Thurman,77.0
+Lane Roberts,State Representative,161,REP,Newton,Thurman,41.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Thurman,13.0
+Robert W Stokes,State Representative,162,REP,Newton,Thurman,2.0
+Robert (Bob) Bromley,State Representative,162,REP,Newton,Thurman,3.0
+Sarah Hinkle,State Representative,162,DEM,Newton,Thurman,1.0
+Mollie Dyer,State Representative,162,GRN,Newton,Thurman,0.0
+,Registered Voters,,REP,Newton,Wentworth,598.0
+,Ballots Cast,,REP,Newton,Wentworth,201.0
+Tony Monetti,U.S. Senate,,REP,Newton,Wentworth,16.0
+Austin Petersen,U.S. Senate,,REP,Newton,Wentworth,4.0
+Josh Hawley,U.S. Senate,,REP,Newton,Wentworth,76.0
+Fred Ryman,U.S. Senate,,REP,Newton,Wentworth,4.0
+Christina Smith,U.S. Senate,,REP,Newton,Wentworth,6.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Wentworth,21.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Wentworth,3.0
+Ken Patterson,U.S. Senate,,REP,Newton,Wentworth,7.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Wentworth,0.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Wentworth,5.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Wentworth,5.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Wentworth,2.0
+Angelica Earl,U S Senate,,DEM,Newton,Wentworth,4.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Wentworth,2.0
+John Hogan,U S Senate,,DEM,Newton,Wentworth,1.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Wentworth,1.0
+David Faust,U S Senate,,DEM,Newton,Wentworth,3.0
+Claire McCaskill,U S Senate,,DEM,Newton,Wentworth,24.0
+Japheth Campbell,U S Senate,,LIB,Newton,Wentworth,1.0
+Jo Crain,U S Senate,,GRN,Newton,Wentworth,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Wentworth,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Wentworth,37.0
+David Wasinger,State Auditor,,REP,Newton,Wentworth,22.0
+Paul Curtman,State Auditor,,REP,Newton,Wentworth,17.0
+Saundra McDowell,State Auditor,,REP,Newton,Wentworth,55.0
+Nicole Galloway,State Auditor,,DEM,Newton,Wentworth,29.0
+Sean O'Toole,State Auditor,,LIB,Newton,Wentworth,1.0
+Don Fitz,State Auditor,,GRN,Newton,Wentworth,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Wentworth,0.0
+Billy Long,U S House,7,REP,Newton,Wentworth,86.0
+Lance Norris,U S House,7,REP,Newton,Wentworth,28.0
+Benjamin Holcomb,U S House,7,REP,Newton,Wentworth,11.0
+Jim Evans,U S House,7,REP,Newton,Wentworth,28.0
+Vince Jennings,U S House,7,DEM,Newton,Wentworth,8.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Wentworth,6.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Wentworth,7.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Wentworth,14.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Wentworth,1.0
+Bill White,State Senate,32,REP,Newton,Wentworth,84.0
+Rob O'Brian,State Senate,32,REP,Newton,Wentworth,54.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Wentworth,33.0
+Conon Gillis,State Senate,32,GRN,Newton,Wentworth,0.0
+Mark Bartley,State Representative,159,REP,Newton,Wentworth,2.0
+Dirk E Deaton,State Representative,159,REP,Newton,Wentworth,2.0
+Jerry Sparks,State Representative,159,DEM,Newton,Wentworth,1.0
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Wentworth,35.0
+Ben Baker,State Representative,160,REP,Newton,Wentworth,54.0
+David Osborn,State Representative,160,REP,Newton,Wentworth,46.0
+Angela R Thomas,State Representative,160,DEM,Newton,Wentworth,29.0
 Lane Roberts,State Representative,161,REP,Newton,Wentworth,
 Elizabeth Lundstrum,State Representative,161,DEM,Newton,Wentworth,
 Robert W Stokes,State Representative,162,REP,Newton,Wentworth,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Wentworth,
 Sarah Hinkle,State Representative,162,DEM,Newton,Wentworth,
 Mollie Dyer,State Representative,162,GRN,Newton,Wentworth,
-,Registered Voters,,REP,Newton,Westview,1726
-,Ballots Cast,,REP,Newton,Westview,520
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Westview,38
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Westview,46
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Westview,235
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Westview,12
-Christina Smith,ÊU.S. Senate,,REP,Newton,Westview,28
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Westview,34
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Westview,10
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Westview,33
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Westview,5
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Westview,5
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Westview,8
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Westview,2
-Angelica Earl,U S Senate,,DEM,Newton,Westview,0
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Westview,0
-John Hogan,U S Senate,,DEM,Newton,Westview,1
-Travis Gonzalez,U S Senate,,DEM,Newton,Westview,0
-David Faust,U S Senate,,DEM,Newton,Westview,1
-Claire McCaskill,U S Senate,,DEM,Newton,Westview,23
-Japheth Campbell,U S Senate,,LIB,Newton,Westview,0
-Jo Crain,U S Senate,,GRN,Newton,Westview,0
-Jerome Bauer,U S Senate,,GRN,Newton,Westview,0
-Kevin M Roach,State Auditor,,REP,Newton,Westview,122
-David Wasinger,State Auditor,,REP,Newton,Westview,79
-Paul Curtman,State Auditor,,REP,Newton,Westview,79
-Saundra McDowell,State Auditor,,REP,Newton,Westview,131
-Nicole Galloway,State Auditor,,DEM,Newton,Westview,25
-Sean O'Toole,State Auditor,,LIB,Newton,Westview,0
-Don Fitz,State Auditor,,GRN,Newton,Westview,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Westview,0
-Billy Long,U S House,7,REP,Newton,Westview,313
-Lance Norris,U S House,7,REP,Newton,Westview,36
-Benjamin Holcomb,U S House,7,REP,Newton,Westview,37
-Jim Evans,U S House,7,REP,Newton,Westview,74
-Vince Jennings,U S House,7,DEM,Newton,Westview,4
-John Farmer de la Torre,U S House,7,DEM,Newton,Westview,7
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Westview,3
-Kenneth Hatfield,U S House,7,DEM,Newton,Westview,11
-Benjamin T Brixey,U S House,7,LIB,Newton,Westview,0
-Bill White,State Senate,32,REP,Newton,Westview,280
-Rob O'Brian,State Senate,32,REP,Newton,Westview,178
-Carolyn McGowan,State Senate,32,DEM,Newton,Westview,24
-Conon Gillis,State Senate,32,GRN,Newton,Westview,0
-Mark Bartley,State Representative,159,REP,Newton,Westview,132
-Dirk E Deaton,State Representative,159,REP,Newton,Westview,320
-Jerry Sparks,State Representative,159,DEM,Newton,Westview,23
+,Registered Voters,,REP,Newton,Westview,1726.0
+,Ballots Cast,,REP,Newton,Westview,520.0
+Tony Monetti,U.S. Senate,,REP,Newton,Westview,38.0
+Austin Petersen,U.S. Senate,,REP,Newton,Westview,46.0
+Josh Hawley,U.S. Senate,,REP,Newton,Westview,235.0
+Fred Ryman,U.S. Senate,,REP,Newton,Westview,12.0
+Christina Smith,U.S. Senate,,REP,Newton,Westview,28.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Westview,34.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Westview,10.0
+Ken Patterson,U.S. Senate,,REP,Newton,Westview,33.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Westview,5.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Westview,5.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Westview,8.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Westview,2.0
+Angelica Earl,U S Senate,,DEM,Newton,Westview,0.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Westview,0.0
+John Hogan,U S Senate,,DEM,Newton,Westview,1.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Westview,0.0
+David Faust,U S Senate,,DEM,Newton,Westview,1.0
+Claire McCaskill,U S Senate,,DEM,Newton,Westview,23.0
+Japheth Campbell,U S Senate,,LIB,Newton,Westview,0.0
+Jo Crain,U S Senate,,GRN,Newton,Westview,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Westview,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Westview,122.0
+David Wasinger,State Auditor,,REP,Newton,Westview,79.0
+Paul Curtman,State Auditor,,REP,Newton,Westview,79.0
+Saundra McDowell,State Auditor,,REP,Newton,Westview,131.0
+Nicole Galloway,State Auditor,,DEM,Newton,Westview,25.0
+Sean O'Toole,State Auditor,,LIB,Newton,Westview,0.0
+Don Fitz,State Auditor,,GRN,Newton,Westview,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Westview,0.0
+Billy Long,U S House,7,REP,Newton,Westview,313.0
+Lance Norris,U S House,7,REP,Newton,Westview,36.0
+Benjamin Holcomb,U S House,7,REP,Newton,Westview,37.0
+Jim Evans,U S House,7,REP,Newton,Westview,74.0
+Vince Jennings,U S House,7,DEM,Newton,Westview,4.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Westview,7.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Westview,3.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Westview,11.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Westview,0.0
+Bill White,State Senate,32,REP,Newton,Westview,280.0
+Rob O'Brian,State Senate,32,REP,Newton,Westview,178.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Westview,24.0
+Conon Gillis,State Senate,32,GRN,Newton,Westview,0.0
+Mark Bartley,State Representative,159,REP,Newton,Westview,132.0
+Dirk E Deaton,State Representative,159,REP,Newton,Westview,320.0
+Jerry Sparks,State Representative,159,DEM,Newton,Westview,23.0
 Raleigh Drue Ritter,State Representative,160,REP,Newton,Westview,
 Ben Baker,State Representative,160,REP,Newton,Westview,
 David Osborn,State Representative,160,REP,Newton,Westview,
@@ -1310,120 +1310,120 @@ Robert W Stokes,State Representative,162,REP,Newton,Westview,
 Robert (Bob) Bromley,State Representative,162,REP,Newton,Westview,
 Sarah Hinkle,State Representative,162,DEM,Newton,Westview,
 Mollie Dyer,State Representative,162,GRN,Newton,Westview,
-,Registered Voters,,REP,Newton,Federal,0
-,Ballots Cast,,REP,Newton,Federal,4
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Federal,0
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Federal,1
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Federal,3
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Federal,0
-Christina Smith,ÊU.S. Senate,,REP,Newton,Federal,0
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Federal,0
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Federal,0
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Federal,0
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Federal,0
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Federal,0
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Federal,0
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Federal,0
-Angelica Earl,U S Senate,,DEM,Newton,Federal,0
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Federal,0
-John Hogan,U S Senate,,DEM,Newton,Federal,0
-Travis Gonzalez,U S Senate,,DEM,Newton,Federal,0
-David Faust,U S Senate,,DEM,Newton,Federal,0
-Claire McCaskill,U S Senate,,DEM,Newton,Federal,0
-Japheth Campbell,U S Senate,,LIB,Newton,Federal,0
-Jo Crain,U S Senate,,GRN,Newton,Federal,0
-Jerome Bauer,U S Senate,,GRN,Newton,Federal,0
-Kevin M Roach,State Auditor,,REP,Newton,Federal,2
-David Wasinger,State Auditor,,REP,Newton,Federal,0
-Paul Curtman,State Auditor,,REP,Newton,Federal,2
-Saundra McDowell,State Auditor,,REP,Newton,Federal,0
-Nicole Galloway,State Auditor,,DEM,Newton,Federal,0
-Sean O'Toole,State Auditor,,LIB,Newton,Federal,0
-Don Fitz,State Auditor,,GRN,Newton,Federal,0
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Federal,0
-Billy Long,U S House,7,REP,Newton,Federal,1
-Lance Norris,U S House,7,REP,Newton,Federal,0
-Benjamin Holcomb,U S House,7,REP,Newton,Federal,2
-Jim Evans,U S House,7,REP,Newton,Federal,1
-Vince Jennings,U S House,7,DEM,Newton,Federal,0
-John Farmer de la Torre,U S House,7,DEM,Newton,Federal,0
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Federal,0
-Kenneth Hatfield,U S House,7,DEM,Newton,Federal,0
-Benjamin T Brixey,U S House,7,LIB,Newton,Federal,0
-Bill White,State Senate,32,REP,Newton,Federal,0
-Rob O'Brian,State Senate,32,REP,Newton,Federal,0
-Carolyn McGowan,State Senate,32,DEM,Newton,Federal,0
-Conon Gillis,State Senate,32,GRN,Newton,Federal,0
-Mark Bartley,State Representative,159,REP,Newton,Federal,0
-Dirk E Deaton,State Representative,159,REP,Newton,Federal,0
-Jerry Sparks,State Representative,159,DEM,Newton,Federal,0
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Federal,0
-Ben Baker,State Representative,160,REP,Newton,Federal,0
-David Osborn,State Representative,160,REP,Newton,Federal,0
-Angela R Thomas,State Representative,160,DEM,Newton,Federal,0
-Lane Roberts,State Representative,161,REP,Newton,Federal,0
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Federal,0
-Robert W Stokes,State Representative,162,REP,Newton,Federal,0
-Robert (Bob) Bromley,State Representative,162,REP,Newton,Federal,0
-Sarah Hinkle,State Representative,162,DEM,Newton,Federal,0
-Mollie Dyer,State Representative,162,GRN,Newton,Federal,0
-,Registered Voters,,REP,Newton,Absentee,0
-,Ballots Cast,,REP,Newton,Absentee,647
-Tony Monetti,ÊU.S. Senate,,REP,Newton,Absentee,56
-Austin Petersen,ÊU.S. Senate,,REP,Newton,Absentee,49
-Josh Hawley,ÊU.S. Senate,,REP,Newton,Absentee,273
-Fred Ryman,ÊU.S. Senate,,REP,Newton,Absentee,8
-Christina Smith,ÊU.S. Senate,,REP,Newton,Absentee,32
-Kristi Nichols,ÊU.S. Senate,,REP,Newton,Absentee,30
-Bradley Krembs,ÊU.S. Senate,,REP,Newton,Absentee,1
-Ken Patterson,ÊU.S. Senate,,REP,Newton,Absentee,7
-Brian G Hagg,ÊU.S. Senate,,REP,Newton,Absentee,6
-Courtland Sykes,ÊU.S. Senate,,REP,Newton,Absentee,5
-Peter Pfeifer,ÊU.S. Senate,,REP,Newton,Absentee,16
-Carla (Coffee) Wright,U S Senate,,DEM,Newton,Absentee,4
-Angelica Earl,U S Senate,,DEM,Newton,Absentee,3
-Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Absentee,0
-John Hogan,U S Senate,,DEM,Newton,Absentee,0
-Travis Gonzalez,U S Senate,,DEM,Newton,Absentee,1
-David Faust,U S Senate,,DEM,Newton,Absentee,2
-Claire McCaskill,U S Senate,,DEM,Newton,Absentee,88
-Japheth Campbell,U S Senate,,LIB,Newton,Absentee,1
-Jo Crain,U S Senate,,GRN,Newton,Absentee,1
-Jerome Bauer,U S Senate,,GRN,Newton,Absentee,0
-Kevin M Roach,State Auditor,,REP,Newton,Absentee,107
-David Wasinger,State Auditor,,REP,Newton,Absentee,85
-Paul Curtman,State Auditor,,REP,Newton,Absentee,100
-Saundra McDowell,State Auditor,,REP,Newton,Absentee,132
-Nicole Galloway,State Auditor,,DEM,Newton,Absentee,88
-Sean O'Toole,State Auditor,,LIB,Newton,Absentee,1
-Don Fitz,State Auditor,,GRN,Newton,Absentee,1
-Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Absentee,0
-Billy Long,U S House,7,REP,Newton,Absentee,333
-Lance Norris,U S House,7,REP,Newton,Absentee,48
-Benjamin Holcomb,U S House,7,REP,Newton,Absentee,33
-Jim Evans,U S House,7,REP,Newton,Absentee,87
-Vince Jennings,U S House,7,DEM,Newton,Absentee,17
-John Farmer de la Torre,U S House,7,DEM,Newton,Absentee,30
-Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Absentee,20
-Kenneth Hatfield,U S House,7,DEM,Newton,Absentee,28
-Benjamin T Brixey,U S House,7,LIB,Newton,Absentee,1
-Bill White,State Senate,32,REP,Newton,Absentee,333
-Rob O'Brian,State Senate,32,REP,Newton,Absentee,166
-Carolyn McGowan,State Senate,32,DEM,Newton,Absentee,85
-Conon Gillis,State Senate,32,GRN,Newton,Absentee,1
-Mark Bartley,State Representative,159,REP,Newton,Absentee,22
-Dirk E Deaton,State Representative,159,REP,Newton,Absentee,53
-Jerry Sparks,State Representative,159,DEM,Newton,Absentee,6
-Raleigh Drue Ritter,State Representative,160,REP,Newton,Absentee,83
-Ben Baker,State Representative,160,REP,Newton,Absentee,171
-David Osborn,State Representative,160,REP,Newton,Absentee,66
-Angela R Thomas,State Representative,160,DEM,Newton,Absentee,67
-Lane Roberts,State Representative,161,REP,Newton,Absentee,84
-Elizabeth Lundstrum,State Representative,161,DEM,Newton,Absentee,19
-Robert W Stokes,State Representative,162,REP,Newton,Absentee,0
-Robert (Bob) Bromley,State Representative,162,REP,Newton,Absentee,0
-Sarah Hinkle,State Representative,162,DEM,Newton,Absentee,0
-Mollie Dyer,State Representative,162,GRN,Newton,Absentee,0
+,Registered Voters,,REP,Newton,Federal,0.0
+,Ballots Cast,,REP,Newton,Federal,4.0
+Tony Monetti,U.S. Senate,,REP,Newton,Federal,0.0
+Austin Petersen,U.S. Senate,,REP,Newton,Federal,1.0
+Josh Hawley,U.S. Senate,,REP,Newton,Federal,3.0
+Fred Ryman,U.S. Senate,,REP,Newton,Federal,0.0
+Christina Smith,U.S. Senate,,REP,Newton,Federal,0.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Federal,0.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Federal,0.0
+Ken Patterson,U.S. Senate,,REP,Newton,Federal,0.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Federal,0.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Federal,0.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Federal,0.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Federal,0.0
+Angelica Earl,U S Senate,,DEM,Newton,Federal,0.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Federal,0.0
+John Hogan,U S Senate,,DEM,Newton,Federal,0.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Federal,0.0
+David Faust,U S Senate,,DEM,Newton,Federal,0.0
+Claire McCaskill,U S Senate,,DEM,Newton,Federal,0.0
+Japheth Campbell,U S Senate,,LIB,Newton,Federal,0.0
+Jo Crain,U S Senate,,GRN,Newton,Federal,0.0
+Jerome Bauer,U S Senate,,GRN,Newton,Federal,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Federal,2.0
+David Wasinger,State Auditor,,REP,Newton,Federal,0.0
+Paul Curtman,State Auditor,,REP,Newton,Federal,2.0
+Saundra McDowell,State Auditor,,REP,Newton,Federal,0.0
+Nicole Galloway,State Auditor,,DEM,Newton,Federal,0.0
+Sean O'Toole,State Auditor,,LIB,Newton,Federal,0.0
+Don Fitz,State Auditor,,GRN,Newton,Federal,0.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Federal,0.0
+Billy Long,U S House,7,REP,Newton,Federal,1.0
+Lance Norris,U S House,7,REP,Newton,Federal,0.0
+Benjamin Holcomb,U S House,7,REP,Newton,Federal,2.0
+Jim Evans,U S House,7,REP,Newton,Federal,1.0
+Vince Jennings,U S House,7,DEM,Newton,Federal,0.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Federal,0.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Federal,0.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Federal,0.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Federal,0.0
+Bill White,State Senate,32,REP,Newton,Federal,0.0
+Rob O'Brian,State Senate,32,REP,Newton,Federal,0.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Federal,0.0
+Conon Gillis,State Senate,32,GRN,Newton,Federal,0.0
+Mark Bartley,State Representative,159,REP,Newton,Federal,0.0
+Dirk E Deaton,State Representative,159,REP,Newton,Federal,0.0
+Jerry Sparks,State Representative,159,DEM,Newton,Federal,0.0
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Federal,0.0
+Ben Baker,State Representative,160,REP,Newton,Federal,0.0
+David Osborn,State Representative,160,REP,Newton,Federal,0.0
+Angela R Thomas,State Representative,160,DEM,Newton,Federal,0.0
+Lane Roberts,State Representative,161,REP,Newton,Federal,0.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Federal,0.0
+Robert W Stokes,State Representative,162,REP,Newton,Federal,0.0
+Robert (Bob) Bromley,State Representative,162,REP,Newton,Federal,0.0
+Sarah Hinkle,State Representative,162,DEM,Newton,Federal,0.0
+Mollie Dyer,State Representative,162,GRN,Newton,Federal,0.0
+,Registered Voters,,REP,Newton,Absentee,0.0
+,Ballots Cast,,REP,Newton,Absentee,647.0
+Tony Monetti,U.S. Senate,,REP,Newton,Absentee,56.0
+Austin Petersen,U.S. Senate,,REP,Newton,Absentee,49.0
+Josh Hawley,U.S. Senate,,REP,Newton,Absentee,273.0
+Fred Ryman,U.S. Senate,,REP,Newton,Absentee,8.0
+Christina Smith,U.S. Senate,,REP,Newton,Absentee,32.0
+Kristi Nichols,U.S. Senate,,REP,Newton,Absentee,30.0
+Bradley Krembs,U.S. Senate,,REP,Newton,Absentee,1.0
+Ken Patterson,U.S. Senate,,REP,Newton,Absentee,7.0
+Brian G Hagg,U.S. Senate,,REP,Newton,Absentee,6.0
+Courtland Sykes,U.S. Senate,,REP,Newton,Absentee,5.0
+Peter Pfeifer,U.S. Senate,,REP,Newton,Absentee,16.0
+Carla (Coffee) Wright,U S Senate,,DEM,Newton,Absentee,4.0
+Angelica Earl,U S Senate,,DEM,Newton,Absentee,3.0
+Leonard Joseph Steinman II,U S Senate,,DEM,Newton,Absentee,0.0
+John Hogan,U S Senate,,DEM,Newton,Absentee,0.0
+Travis Gonzalez,U S Senate,,DEM,Newton,Absentee,1.0
+David Faust,U S Senate,,DEM,Newton,Absentee,2.0
+Claire McCaskill,U S Senate,,DEM,Newton,Absentee,88.0
+Japheth Campbell,U S Senate,,LIB,Newton,Absentee,1.0
+Jo Crain,U S Senate,,GRN,Newton,Absentee,1.0
+Jerome Bauer,U S Senate,,GRN,Newton,Absentee,0.0
+Kevin M Roach,State Auditor,,REP,Newton,Absentee,107.0
+David Wasinger,State Auditor,,REP,Newton,Absentee,85.0
+Paul Curtman,State Auditor,,REP,Newton,Absentee,100.0
+Saundra McDowell,State Auditor,,REP,Newton,Absentee,132.0
+Nicole Galloway,State Auditor,,DEM,Newton,Absentee,88.0
+Sean O'Toole,State Auditor,,LIB,Newton,Absentee,1.0
+Don Fitz,State Auditor,,GRN,Newton,Absentee,1.0
+Jacob Luetkemeyer,State Auditor,,CSTEG,Newton,Absentee,0.0
+Billy Long,U S House,7,REP,Newton,Absentee,333.0
+Lance Norris,U S House,7,REP,Newton,Absentee,48.0
+Benjamin Holcomb,U S House,7,REP,Newton,Absentee,33.0
+Jim Evans,U S House,7,REP,Newton,Absentee,87.0
+Vince Jennings,U S House,7,DEM,Newton,Absentee,17.0
+John Farmer de la Torre,U S House,7,DEM,Newton,Absentee,30.0
+Jamie Daniel Schoolcraft,U S House,7,DEM,Newton,Absentee,20.0
+Kenneth Hatfield,U S House,7,DEM,Newton,Absentee,28.0
+Benjamin T Brixey,U S House,7,LIB,Newton,Absentee,1.0
+Bill White,State Senate,32,REP,Newton,Absentee,333.0
+Rob O'Brian,State Senate,32,REP,Newton,Absentee,166.0
+Carolyn McGowan,State Senate,32,DEM,Newton,Absentee,85.0
+Conon Gillis,State Senate,32,GRN,Newton,Absentee,1.0
+Mark Bartley,State Representative,159,REP,Newton,Absentee,22.0
+Dirk E Deaton,State Representative,159,REP,Newton,Absentee,53.0
+Jerry Sparks,State Representative,159,DEM,Newton,Absentee,6.0
+Raleigh Drue Ritter,State Representative,160,REP,Newton,Absentee,83.0
+Ben Baker,State Representative,160,REP,Newton,Absentee,171.0
+David Osborn,State Representative,160,REP,Newton,Absentee,66.0
+Angela R Thomas,State Representative,160,DEM,Newton,Absentee,67.0
+Lane Roberts,State Representative,161,REP,Newton,Absentee,84.0
+Elizabeth Lundstrum,State Representative,161,DEM,Newton,Absentee,19.0
+Robert W Stokes,State Representative,162,REP,Newton,Absentee,0.0
+Robert (Bob) Bromley,State Representative,162,REP,Newton,Absentee,0.0
+Sarah Hinkle,State Representative,162,DEM,Newton,Absentee,0.0
+Mollie Dyer,State Representative,162,GRN,Newton,Absentee,0.0
 ,,,,,,
 ,,,,,,
 ,,,,,,
