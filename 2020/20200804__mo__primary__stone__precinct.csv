@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,votes
+﻿county,precinct,office,district,candidate,party,votes
 Stone,Alpine,Registered Voters,,,,445
 Stone,Alpine,Ballots Cast,,,,161
 Stone,Alpine,Governor,,Raleigh Ritter,REP,2
@@ -18,7 +18,7 @@ Stone,Alpine,U S House,7,Steve Chentnik,REP,4
 Stone,Alpine,U S House,7,Billy Long,REP,96
 Stone,Alpine,U S House,7,Camille Lombardi-Olive,REP,10
 Stone,Alpine,State Senate,29,Mike Moon,REP,44
-Stone,Alpine,State Senate,29,David Coole,REP,78
+Stone,Alpine,State Senate,29,David Cole,REP,78
 Stone,Alpine,State House,138,Brad Hudson,REP,107
 Stone,Alpine,State House,158,Scott Cupps,REP,
 Stone,Alpine,Governor,,Nicole Galloway,DEM,23
@@ -64,7 +64,7 @@ Stone,Cass,U S House,7,Steve Chentnik,REP,22
 Stone,Cass,U S House,7,Billy Long,REP,152
 Stone,Cass,U S House,7,Camille Lombardi-Olive,REP,15
 Stone,Cass,State Senate,29,Mike Moon,REP,146
-Stone,Cass,State Senate,29,David Coole,REP,96
+Stone,Cass,State Senate,29,David Cole,REP,96
 Stone,Cass,State House,138,Brad Hudson,REP,217
 Stone,Cass,State House,158,Scott Cupps,REP,
 Stone,Cass,Governor,,Nicole Galloway,DEM,39
@@ -110,7 +110,7 @@ Stone,Flat Creek A/Flat Creek B,U S House,7,Steve Chentnik,REP,38
 Stone,Flat Creek A/Flat Creek B,U S House,7,Billy Long,REP,377
 Stone,Flat Creek A/Flat Creek B,U S House,7,Camille Lombardi-Olive,REP,31
 Stone,Flat Creek A/Flat Creek B,State Senate,29,Mike Moon,REP,274
-Stone,Flat Creek A/Flat Creek B,State Senate,29,David Coole,REP,239
+Stone,Flat Creek A/Flat Creek B,State Senate,29,David Cole,REP,239
 Stone,Flat Creek A/Flat Creek B,State House,138,Brad Hudson,REP,454
 Stone,Flat Creek A/Flat Creek B,State House,158,Scott Cupps,REP,
 Stone,Flat Creek A/Flat Creek B,Governor,,Nicole Galloway,DEM,62
@@ -156,7 +156,7 @@ Stone,Grant/Pierce,U S House,7,Steve Chentnik,REP,21
 Stone,Grant/Pierce,U S House,7,Billy Long,REP,319
 Stone,Grant/Pierce,U S House,7,Camille Lombardi-Olive,REP,30
 Stone,Grant/Pierce,State Senate,29,Mike Moon,REP,280
-Stone,Grant/Pierce,State Senate,29,David Coole,REP,218
+Stone,Grant/Pierce,State Senate,29,David Cole,REP,218
 Stone,Grant/Pierce,State House,138,Brad Hudson,REP,422
 Stone,Grant/Pierce,State House,158,Scott Cupps,REP,17
 Stone,Grant/Pierce,Governor,,Nicole Galloway,DEM,24
@@ -202,7 +202,7 @@ Stone,Hurley,U S House,7,Steve Chentnik,REP,16
 Stone,Hurley,U S House,7,Billy Long,REP,165
 Stone,Hurley,U S House,7,Camille Lombardi-Olive,REP,15
 Stone,Hurley,State Senate,29,Mike Moon,REP,150
-Stone,Hurley,State Senate,29,David Coole,REP,108
+Stone,Hurley,State Senate,29,David Cole,REP,108
 Stone,Hurley,State House,138,Brad Hudson,REP,216
 Stone,Hurley,State House,158,Scott Cupps,REP,
 Stone,Hurley,Governor,,Nicole Galloway,DEM,14
@@ -248,7 +248,7 @@ Stone,Lincoln,U S House,7,Steve Chentnik,REP,6
 Stone,Lincoln,U S House,7,Billy Long,REP,142
 Stone,Lincoln,U S House,7,Camille Lombardi-Olive,REP,5
 Stone,Lincoln,State Senate,29,Mike Moon,REP,113
-Stone,Lincoln,State Senate,29,David Coole,REP,77
+Stone,Lincoln,State Senate,29,David Cole,REP,77
 Stone,Lincoln,State House,138,Brad Hudson,REP,111
 Stone,Lincoln,State House,158,Scott Cupps,REP,43
 Stone,Lincoln,Governor,,Nicole Galloway,DEM,6
@@ -294,7 +294,7 @@ Stone,McKinley/Ponce De Leon,U S House,7,Steve Chentnik,REP,12
 Stone,McKinley/Ponce De Leon,U S House,7,Billy Long,REP,138
 Stone,McKinley/Ponce De Leon,U S House,7,Camille Lombardi-Olive,REP,13
 Stone,McKinley/Ponce De Leon,State Senate,29,Mike Moon,REP,157
-Stone,McKinley/Ponce De Leon,State Senate,29,David Coole,REP,80
+Stone,McKinley/Ponce De Leon,State Senate,29,David Cole,REP,80
 Stone,McKinley/Ponce De Leon,State House,138,Brad Hudson,REP,200
 Stone,McKinley/Ponce De Leon,State House,158,Scott Cupps,REP,
 Stone,McKinley/Ponce De Leon,Governor,,Nicole Galloway,DEM,12
@@ -340,7 +340,7 @@ Stone,Pine A,U S House,7,Steve Chentnik,REP,20
 Stone,Pine A,U S House,7,Billy Long,REP,339
 Stone,Pine A,U S House,7,Camille Lombardi-Olive,REP,15
 Stone,Pine A,State Senate,29,Mike Moon,REP,243
-Stone,Pine A,State Senate,29,David Coole,REP,218
+Stone,Pine A,State Senate,29,David Cole,REP,218
 Stone,Pine A,State House,138,Brad Hudson,REP,415
 Stone,Pine A,State House,158,Scott Cupps,REP,
 Stone,Pine A,Governor,,Nicole Galloway,DEM,38
@@ -386,7 +386,7 @@ Stone,Pine B,U S House,7,Steve Chentnik,REP,19
 Stone,Pine B,U S House,7,Billy Long,REP,334
 Stone,Pine B,U S House,7,Camille Lombardi-Olive,REP,21
 Stone,Pine B,State Senate,29,Mike Moon,REP,221
-Stone,Pine B,State Senate,29,David Coole,REP,236
+Stone,Pine B,State Senate,29,David Cole,REP,236
 Stone,Pine B,State House,138,Brad Hudson,REP,420
 Stone,Pine B,State House,158,Scott Cupps,REP,
 Stone,Pine B,Governor,,Nicole Galloway,DEM,36
@@ -432,7 +432,7 @@ Stone,Ruth A,U S House,7,Steve Chentnik,REP,50
 Stone,Ruth A,U S House,7,Billy Long,REP,531
 Stone,Ruth A,U S House,7,Camille Lombardi-Olive,REP,56
 Stone,Ruth A,State Senate,29,Mike Moon,REP,407
-Stone,Ruth A,State Senate,29,David Coole,REP,379
+Stone,Ruth A,State Senate,29,David Cole,REP,379
 Stone,Ruth A,State House,138,Brad Hudson,REP,707
 Stone,Ruth A,State House,158,Scott Cupps,REP,
 Stone,Ruth A,Governor,,Nicole Galloway,DEM,77
@@ -478,7 +478,7 @@ Stone,Ruth B City,U S House,7,Steve Chentnik,REP,22
 Stone,Ruth B City,U S House,7,Billy Long,REP,386
 Stone,Ruth B City,U S House,7,Camille Lombardi-Olive,REP,25
 Stone,Ruth B City,State Senate,29,Mike Moon,REP,242
-Stone,Ruth B City,State Senate,29,David Coole,REP,303
+Stone,Ruth B City,State Senate,29,David Cole,REP,303
 Stone,Ruth B City,State House,138,Brad Hudson,REP,476
 Stone,Ruth B City,State House,158,Scott Cupps,REP,
 Stone,Ruth B City,Governor,,Nicole Galloway,DEM,73
@@ -524,7 +524,7 @@ Stone,Ruth B Rural,U S House,7,Steve Chentnik,REP,28
 Stone,Ruth B Rural,U S House,7,Billy Long,REP,490
 Stone,Ruth B Rural,U S House,7,Camille Lombardi-Olive,REP,28
 Stone,Ruth B Rural,State Senate,29,Mike Moon,REP,323
-Stone,Ruth B Rural,State Senate,29,David Coole,REP,336
+Stone,Ruth B Rural,State Senate,29,David Cole,REP,336
 Stone,Ruth B Rural,State House,138,Brad Hudson,REP,608
 Stone,Ruth B Rural,State House,158,Scott Cupps,REP,
 Stone,Ruth B Rural,Governor,,Nicole Galloway,DEM,70
@@ -566,7 +566,7 @@ Stone,Ruth C,U S House,7,Steve Chentnik,REP,51
 Stone,Ruth C,U S House,7,Billy Long,REP,647
 Stone,Ruth C,U S House,7,Camille Lombardi-Olive,REP,42
 Stone,Ruth C,State Senate,29,Mike Moon,REP,464
-Stone,Ruth C,State Senate,29,David Coole,REP,409
+Stone,Ruth C,State Senate,29,David Cole,REP,409
 Stone,Ruth C,State House,138,Brad Hudson,REP,770
 Stone,Ruth C,State House,158,Scott Cupps,REP,
 Stone,Ruth C,Governor,,Nicole Galloway,DEM,73
@@ -608,7 +608,7 @@ Stone,Ruth C Rural/Sunset Cove,U S House,7,Steve Chentnik,REP,23
 Stone,Ruth C Rural/Sunset Cove,U S House,7,Billy Long,REP,177
 Stone,Ruth C Rural/Sunset Cove,U S House,7,Camille Lombardi-Olive,REP,14
 Stone,Ruth C Rural/Sunset Cove,State Senate,29,Mike Moon,REP,123
-Stone,Ruth C Rural/Sunset Cove,State Senate,29,David Coole,REP,114
+Stone,Ruth C Rural/Sunset Cove,State Senate,29,David Cole,REP,114
 Stone,Ruth C Rural/Sunset Cove,State House,138,Brad Hudson,REP,204
 Stone,Ruth C Rural/Sunset Cove,State House,158,Scott Cupps,REP,
 Stone,Ruth C Rural/Sunset Cove,Governor,,Nicole Galloway,DEM,31
@@ -650,7 +650,7 @@ Stone,Union,U S House,7,Steve Chentnik,REP,16
 Stone,Union,U S House,7,Billy Long,REP,67
 Stone,Union,U S House,7,Camille Lombardi-Olive,REP,9
 Stone,Union,State Senate,29,Mike Moon,REP,63
-Stone,Union,State Senate,29,David Coole,REP,61
+Stone,Union,State Senate,29,David Cole,REP,61
 Stone,Union,State House,138,Brad Hudson,REP,115
 Stone,Union,State House,158,Scott Cupps,REP,
 Stone,Union,Governor,,Nicole Galloway,DEM,18
@@ -692,7 +692,7 @@ Stone,Washington,U S House,7,Steve Chentnik,REP,18
 Stone,Washington,U S House,7,Billy Long,REP,265
 Stone,Washington,U S House,7,Camille Lombardi-Olive,REP,32
 Stone,Washington,State Senate,29,Mike Moon,REP,215
-Stone,Washington,State Senate,29,David Coole,REP,169
+Stone,Washington,State Senate,29,David Cole,REP,169
 Stone,Washington,State House,138,Brad Hudson,REP,353
 Stone,Washington,State House,158,Scott Cupps,REP,
 Stone,Washington,Governor,,Nicole Galloway,DEM,30
@@ -734,7 +734,7 @@ Stone,Williams,U S House,7,Steve Chentnik,REP,11
 Stone,Williams,U S House,7,Billy Long,REP,131
 Stone,Williams,U S House,7,Camille Lombardi-Olive,REP,8
 Stone,Williams,State Senate,29,Mike Moon,REP,87
-Stone,Williams,State Senate,29,David Coole,REP,100
+Stone,Williams,State Senate,29,David Cole,REP,100
 Stone,Williams,State House,138,Brad Hudson,REP,169
 Stone,Williams,State House,158,Scott Cupps,REP,
 Stone,Williams,Governor,,Nicole Galloway,DEM,29
@@ -761,3 +761,68 @@ Stone,Williams,Lieutenant Governor,,Kelley Dragoo,GRN,0
 Stone,Williams,Secretary of State,,Paul Lehman,GRN,0
 Stone,Williams,State Treasurer,,Joseph Civettini,GRN,0
 Stone,Williams,Secretary of State,,Paul Venable,CON,1
+Stone,Ruth C,Governor,,Raleigh Ritter,REP,20
+Stone,Ruth C,Governor,,Mike Parson,REP,754
+Stone,Ruth C,Governor,,James W. (JIM) Neely,REP,41
+Stone,Ruth C,Governor,,Saundra McDowell,REP,79
+Stone,Ruth C Rural/Sunset Cove,Governor,,Raleigh Ritter,REP,2
+Stone,Ruth C Rural/Sunset Cove,Governor,,Mike Parson,REP,204
+Stone,Ruth C Rural/Sunset Cove,Governor,,James W. (JIM) Neely,REP,9
+Stone,Ruth C Rural/Sunset Cove,Governor,,Saundra McDowell,REP,28
+Stone,Union,Governor,,Raleigh Ritter,REP,6
+Stone,Union,Governor,,Mike Parson,REP,93
+Stone,Union,Governor,,James W. (JIM) Neely,REP,7
+Stone,Union,Governor,,Saundra McDowell,REP,24
+Stone,Washington,Governor,,Raleigh Ritter,REP,11
+Stone,Washington,Governor,,Mike Parson,REP,305
+Stone,Washington,Governor,,James W. (JIM) Neely,REP,29
+Stone,Washington,Governor,,Saundra McDowell,REP,51
+Stone,Williams,Governor,,Raleigh Ritter,REP,5
+Stone,Williams,Governor,,Mike Parson,REP,162
+Stone,Williams,Governor,,James W. (JIM) Neely,REP,21
+Stone,Williams,Governor,,Saundra McDowell,REP,7
+Stone,Absentee,Ballots Cast,,,,641
+Stone,Absentee,Governor,,Raleigh Ritter,REP,16
+Stone,Absentee,Governor,,Mike Parson,REP,333
+Stone,Absentee,Governor,,James W. (JIM) Neely,REP,21
+Stone,Absentee,Governor,,Saundra McDowell,REP,56
+Stone,Absentee,Lieutenant Governor,,Arnie C. AC Dienoff,REP,12
+Stone,Absentee,Lieutenant Governor,,Mike Kehoe,REP,258
+Stone,Absentee,Lieutenant Governor,,Aaron T. Wisdom,REP,20
+Stone,Absentee,Lieutenant Governor,,Mike Carter,REP,78
+Stone,Absentee,Secretary of State,,John R. (JAY) Ashcroft,REP,370
+Stone,Absentee,State Treasurer,,Scott Fitzpatrick,REP,350
+Stone,Absentee,Attorney General,,Eric Schmitt,REP,357
+Stone,Absentee,U S House,7,Eric Harleman,REP,34
+Stone,Absentee,U S House,7,Kevin VanStory,REP,15
+Stone,Absentee,U S House,7,Steve Chentnik,REP,29
+Stone,Absentee,U S House,7,Billy Long,REP,293
+Stone,Absentee,U S House,7,Camille Lombardi-Olive,REP,46
+Stone,Absentee,State Senate,29,Mike Moon,REP,202
+Stone,Absentee,State Senate,29,David Cole,REP,205
+Stone,Absentee,State House,138,Brad Hudson,REP,356
+Stone,Absentee,State House,158,Scott Cupps,REP,2
+Stone,Absentee,Governor,,Nicole Galloway,DEM,161
+Stone,Absentee,Governor,,Jimmie Matthews,DEM,4
+Stone,Absentee,Governor,,Antoin Johnson,DEM,7
+Stone,Absentee,Governor,,Eric Morrison,DEM,6
+Stone,Absentee,Governor,,Robin John Daniel Van Quaethem,DEM,2
+Stone,Absentee,Lieutenant Governor,,Gregory A Upchurch,DEM,53
+Stone,Absentee,Lieutenant Governor,,Alissia Canady,DEM,120
+Stone,Absentee,Secretary of State,,Yinka Faleti,DEM,156
+Stone,Absentee,State Treasurer,,Vicki Lorenz Englund,DEM,158
+Stone,Absentee,Attorney General,,Rich Finneran,DEM,103
+Stone,Absentee,Attorney General,,Elad Gross,DEM,59
+Stone,Absentee,U S House,7,Teresa Montseny,DEM,152
+Stone,Absentee,State House,158,Brenda McKinney,DEM,0
+Stone,Absentee,Governor,,Rik Combs,LIB,2
+Stone,Absentee,Lieutenant Governor,,Bill Slantz,LIB,2
+Stone,Absentee,Secretary of State,,Carl Herman Freese,LIB,2
+Stone,Absentee,State Treasurer,,Nicholas (Nick) Kasoff,LIB,2
+Stone,Absentee,Attorney General,,Kevin Babcock,LIB,2
+Stone,Absentee,U S House,7,Kevin Craig,LIB,2
+Stone,Absentee,Governor,,Jerome Howard Bauer,GRN,0
+Stone,Absentee,Lieutenant Governor,,Kelley Dragoo,GRN,0
+Stone,Absentee,Secretary of State,,Paul Lehman,GRN,0
+Stone,Absentee,State Treasurer,,Joseph Civettini,GRN,0
+Stone,Absentee,Secretary of State,,Paul Venable,CON,0
