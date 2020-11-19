@@ -1,0 +1,973 @@
+﻿county,precinct,office,district,candidate,party,votes
+Stone,Alpine,Registered Voters,,,,485
+Stone,Alpine,Ballots Cast,,,,320
+Stone,Alpine,President/Vice President,,Donald J. Trump/Michael R.,REP,263
+Stone,Alpine,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,50
+Stone,Alpine,President/Vice President,,Jo Jorgensen/Jeremy,LIB,1
+Stone,Alpine,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Alpine,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Alpine,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Alpine,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Alpine,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Alpine,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Alpine,President/Vice President,,Write-In,,2
+Stone,Alpine,Governor,,Mike Parson,REP,260
+Stone,Alpine,Governor,,Nicole Galloway,DEM,48
+Stone,Alpine,Governor,,Rik Combs,LIB,4
+Stone,Alpine,Governor,,Jerome Howard Bauer,GRN,3
+Stone,Alpine,Governor,,Arnie C. AC Dienoff,,0
+Stone,Alpine,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Alpine,Governor,,Martin Lindstedt,,0
+Stone,Alpine,Governor,,Write-In,,2
+Stone,Alpine,Lieutenant Governor,,Mike Kehoe,REP,256
+Stone,Alpine,Lieutenant Governor,,Alissia Canady,DEM,50
+Stone,Alpine,Lieutenant Governor,,Bill Slantz,LIB,4
+Stone,Alpine,Lieutenant Governor,,Kelley Dragoo,GRN,2
+Stone,Alpine,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Alpine,Lieutenant Governor,,Write-In,,2
+Stone,Alpine,Secretary of State,,John R. (Jay) Ashcroft,REP,249
+Stone,Alpine,Secretary of State,,Yinka Faleti,DEM,58
+Stone,Alpine,Secretary of State,,Carl Herman Freese,LIB,4
+Stone,Alpine,Secretary of State,,Paul Lehmann,GRN,0
+Stone,Alpine,Secretary of State,,Paul Venable,CST,2
+Stone,Alpine,Secretary of State,,Write-In,,2
+Stone,Alpine,State Treasurer,,Scott Fitzpatrick,REP,266
+Stone,Alpine,State Treasurer,,Vicki Lorenz Englund,DEM,44
+Stone,Alpine,State Treasurer,,Nicholas (Nick) Kasoff,LIB,3
+Stone,Alpine,State Treasurer,,Joseph Civettini,GRN,2
+Stone,Alpine,State Treasurer,,Write-In,,2
+Stone,Alpine,Attorney General,,Eric Schmitt,REP,256
+Stone,Alpine,Attorney General,,Rich Finneran,DEM,46
+Stone,Alpine,Attorney General,,Kevin C. Babcock,LIB,9
+Stone,Alpine,Attorney General,,Write-In,,3
+Stone,Alpine,U S House,7,Billy Long,REP,258
+Stone,Alpine,U S House,7,Teresa Montseny,DEM,41
+Stone,Alpine,U S House,7,Kevin Craig,LIB,7
+Stone,Alpine,U S House,7,Audrey Richards,,0
+Stone,Alpine,U S House,7,Dennis Davis,,0
+Stone,Alpine,U S House,7,Write-In,,7
+Stone,Alpine,State Senate,29,Mike Moon,REP,267
+Stone,Alpine,State Senate,29,Write-In,,6
+Stone,Alpine,State House,138,Brad Hudson,REP,267
+Stone,Alpine,State House,138,Write-In,,4
+Stone,Alpine,State House,158,Scott Cupps,REP,
+Stone,Alpine,State House,158,Brenda McKinney,DEM,
+Stone,Alpine,State House,158,Write-In,,
+Stone,Cass,Registered Voters,,,,1174
+Stone,Cass,Ballots Cast,,,,806
+Stone,Cass,President/Vice President,,Donald J. Trump/Michael R.,REP,629
+Stone,Cass,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,158
+Stone,Cass,President/Vice President,,Jo Jorgensen/Jeremy,LIB,12
+Stone,Cass,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Cass,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Cass,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Cass,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Cass,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Cass,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Cass,President/Vice President,,Write-In,,3
+Stone,Cass,Governor,,Mike Parson,REP,625
+Stone,Cass,Governor,,Nicole Galloway,DEM,153
+Stone,Cass,Governor,,Rik Combs,LIB,17
+Stone,Cass,Governor,,Jerome Howard Bauer,GRN,1
+Stone,Cass,Governor,,Arnie C. AC Dienoff,,0
+Stone,Cass,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Cass,Governor,,Martin Lindstedt,,0
+Stone,Cass,Governor,,Write-In,,2
+Stone,Cass,Lieutenant Governor,,Mike Kehoe,REP,630
+Stone,Cass,Lieutenant Governor,,Alissia Canady,DEM,137
+Stone,Cass,Lieutenant Governor,,Bill Slantz,LIB,11
+Stone,Cass,Lieutenant Governor,,Kelley Dragoo,GRN,5
+Stone,Cass,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Cass,Lieutenant Governor,,Write-In,,0
+Stone,Cass,Secretary of State,,John R. (Jay) Ashcroft,REP,633
+Stone,Cass,Secretary of State,,Yinka Faleti,DEM,132
+Stone,Cass,Secretary of State,,Carl Herman Freese,LIB,11
+Stone,Cass,Secretary of State,,Paul Lehmann,GRN,3
+Stone,Cass,Secretary of State,,Paul Venable,CST,5
+Stone,Cass,Secretary of State,,Write-In,,0
+Stone,Cass,State Treasurer,,Scott Fitzpatrick,REP,628
+Stone,Cass,State Treasurer,,Vicki Lorenz Englund,DEM,134
+Stone,Cass,State Treasurer,,Nicholas (Nick) Kasoff,LIB,18
+Stone,Cass,State Treasurer,,Joseph Civettini,GRN,0
+Stone,Cass,State Treasurer,,Write-In,,0
+Stone,Cass,Attorney General,,Eric Schmitt,REP,635
+Stone,Cass,Attorney General,,Rich Finneran,DEM,134
+Stone,Cass,Attorney General,,Kevin C. Babcock,LIB,16
+Stone,Cass,Attorney General,,Write-In,,0
+Stone,Cass,U S House,7,Billy Long,REP,601
+Stone,Cass,U S House,7,Teresa Montseny,DEM,156
+Stone,Cass,U S House,7,Kevin Craig,LIB,31
+Stone,Cass,U S House,7,Audrey Richards,,0
+Stone,Cass,U S House,7,Dennis Davis,,0
+Stone,Cass,U S House,7,Write-In,,0
+Stone,Cass,State Senate,29,Mike Moon,REP,696
+Stone,Cass,State Senate,29,Write-In,,12
+Stone,Cass,State House,138,Brad Hudson,REP,704
+Stone,Cass,State House,138,Write-In,,8
+Stone,Cass,State House,158,Scott Cupps,REP,
+Stone,Cass,State House,158,Brenda McKinney,DEM,
+Stone,Cass,State House,158,Write-In,,
+Stone,Flat Creek A/Flat Creek B,Registered Voters,,,,1812
+Stone,Flat Creek A/Flat Creek B,Ballots Cast,,,,1075
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Donald J. Trump/Michael R.,REP,862
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,205
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Jo Jorgensen/Jeremy,LIB,5
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Howie Hawkins/Angela,GRN,0
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Don Blankenship/William,UST,1
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Flat Creek A/Flat Creek B,President/Vice President,,Write-In,,1
+Stone,Flat Creek A/Flat Creek B,Governor,,Mike Parson,REP,855
+Stone,Flat Creek A/Flat Creek B,Governor,,Nicole Galloway,DEM,191
+Stone,Flat Creek A/Flat Creek B,Governor,,Rik Combs,LIB,15
+Stone,Flat Creek A/Flat Creek B,Governor,,Jerome Howard Bauer,GRN,6
+Stone,Flat Creek A/Flat Creek B,Governor,,Arnie C. AC Dienoff,,0
+Stone,Flat Creek A/Flat Creek B,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Flat Creek A/Flat Creek B,Governor,,Martin Lindstedt,,0
+Stone,Flat Creek A/Flat Creek B,Governor,,Write-In,,1
+Stone,Flat Creek A/Flat Creek B,Lieutenant Governor,,Mike Kehoe,REP,860
+Stone,Flat Creek A/Flat Creek B,Lieutenant Governor,,Alissia Canady,DEM,172
+Stone,Flat Creek A/Flat Creek B,Lieutenant Governor,,Bill Slantz,LIB,13
+Stone,Flat Creek A/Flat Creek B,Lieutenant Governor,,Kelley Dragoo,GRN,10
+Stone,Flat Creek A/Flat Creek B,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Flat Creek A/Flat Creek B,Lieutenant Governor,,Write-In,,0
+Stone,Flat Creek A/Flat Creek B,Secretary of State,,John R. (Jay) Ashcroft,REP,861
+Stone,Flat Creek A/Flat Creek B,Secretary of State,,Yinka Faleti,DEM,172
+Stone,Flat Creek A/Flat Creek B,Secretary of State,,Carl Herman Freese,LIB,13
+Stone,Flat Creek A/Flat Creek B,Secretary of State,,Paul Lehmann,GRN,7
+Stone,Flat Creek A/Flat Creek B,Secretary of State,,Paul Venable,CST,3
+Stone,Flat Creek A/Flat Creek B,Secretary of State,,Write-In,,0
+Stone,Flat Creek A/Flat Creek B,State Treasurer,,Scott Fitzpatrick,REP,853
+Stone,Flat Creek A/Flat Creek B,State Treasurer,,Vicki Lorenz Englund,DEM,180
+Stone,Flat Creek A/Flat Creek B,State Treasurer,,Nicholas (Nick) Kasoff,LIB,16
+Stone,Flat Creek A/Flat Creek B,State Treasurer,,Joseph Civettini,GRN,3
+Stone,Flat Creek A/Flat Creek B,State Treasurer,,Write-In,,0
+Stone,Flat Creek A/Flat Creek B,Attorney General,,Eric Schmitt,REP,865
+Stone,Flat Creek A/Flat Creek B,Attorney General,,Rich Finneran,DEM,168
+Stone,Flat Creek A/Flat Creek B,Attorney General,,Kevin C. Babcock,LIB,20
+Stone,Flat Creek A/Flat Creek B,Attorney General,,Write-In,,0
+Stone,Flat Creek A/Flat Creek B,U S House,7,Billy Long,REP,821
+Stone,Flat Creek A/Flat Creek B,U S House,7,Teresa Montseny,DEM,194
+Stone,Flat Creek A/Flat Creek B,U S House,7,Kevin Craig,LIB,37
+Stone,Flat Creek A/Flat Creek B,U S House,7,Audrey Richards,,0
+Stone,Flat Creek A/Flat Creek B,U S House,7,Dennis Davis,,0
+Stone,Flat Creek A/Flat Creek B,U S House,7,Write-In,,1
+Stone,Flat Creek A/Flat Creek B,State Senate,29,Mike Moon,REP,920
+Stone,Flat Creek A/Flat Creek B,State Senate,29,Write-In,,16
+Stone,Flat Creek A/Flat Creek B,State House,138,Brad Hudson,REP,927
+Stone,Flat Creek A/Flat Creek B,State House,138,Write-In,,11
+Stone,Flat Creek A/Flat Creek B,State House,158,Scott Cupps,REP,
+Stone,Flat Creek A/Flat Creek B,State House,158,Brenda McKinney,DEM,
+Stone,Flat Creek A/Flat Creek B,State House,158,Write-In,,
+Stone,Grant/Pierce,Registered Voters,,,,1837
+Stone,Grant/Pierce,Ballots Cast,,,,1085
+Stone,Grant/Pierce,President/Vice President,,Donald J. Trump/Michael R.,REP,933
+Stone,Grant/Pierce,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,131
+Stone,Grant/Pierce,President/Vice President,,Jo Jorgensen/Jeremy,LIB,10
+Stone,Grant/Pierce,President/Vice President,,Howie Hawkins/Angela,GRN,2
+Stone,Grant/Pierce,President/Vice President,,Don Blankenship/William,UST,1
+Stone,Grant/Pierce,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Grant/Pierce,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Grant/Pierce,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Grant/Pierce,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Grant/Pierce,President/Vice President,,Write-In,,4
+Stone,Grant/Pierce,Governor,,Mike Parson,REP,912
+Stone,Grant/Pierce,Governor,,Nicole Galloway,DEM,143
+Stone,Grant/Pierce,Governor,,Rik Combs,LIB,18
+Stone,Grant/Pierce,Governor,,Jerome Howard Bauer,GRN,2
+Stone,Grant/Pierce,Governor,,Arnie C. AC Dienoff,,0
+Stone,Grant/Pierce,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Grant/Pierce,Governor,,Martin Lindstedt,,0
+Stone,Grant/Pierce,Governor,,Write-In,,1
+Stone,Grant/Pierce,Lieutenant Governor,,Mike Kehoe,REP,923
+Stone,Grant/Pierce,Lieutenant Governor,,Alissia Canady,DEM,105
+Stone,Grant/Pierce,Lieutenant Governor,,Bill Slantz,LIB,11
+Stone,Grant/Pierce,Lieutenant Governor,,Kelley Dragoo,GRN,13
+Stone,Grant/Pierce,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Grant/Pierce,Lieutenant Governor,,Write-In,,1
+Stone,Grant/Pierce,Secretary of State,,John R. (Jay) Ashcroft,REP,932
+Stone,Grant/Pierce,Secretary of State,,Yinka Faleti,DEM,110
+Stone,Grant/Pierce,Secretary of State,,Carl Herman Freese,LIB,12
+Stone,Grant/Pierce,Secretary of State,,Paul Lehmann,GRN,8
+Stone,Grant/Pierce,Secretary of State,,Paul Venable,CST,4
+Stone,Grant/Pierce,Secretary of State,,Write-In,,1
+Stone,Grant/Pierce,State Treasurer,,Scott Fitzpatrick,REP,931
+Stone,Grant/Pierce,State Treasurer,,Vicki Lorenz Englund,DEM,95
+Stone,Grant/Pierce,State Treasurer,,Nicholas (Nick) Kasoff,LIB,15
+Stone,Grant/Pierce,State Treasurer,,Joseph Civettini,GRN,8
+Stone,Grant/Pierce,State Treasurer,,Write-In,,1
+Stone,Grant/Pierce,Attorney General,,Eric Schmitt,REP,918
+Stone,Grant/Pierce,Attorney General,,Rich Finneran,DEM,106
+Stone,Grant/Pierce,Attorney General,,Kevin C. Babcock,LIB,27
+Stone,Grant/Pierce,Attorney General,,Write-In,,1
+Stone,Grant/Pierce,U S House,7,Billy Long,REP,883
+Stone,Grant/Pierce,U S House,7,Teresa Montseny,DEM,128
+Stone,Grant/Pierce,U S House,7,Kevin Craig,LIB,42
+Stone,Grant/Pierce,U S House,7,Audrey Richards,,0
+Stone,Grant/Pierce,U S House,7,Dennis Davis,,0
+Stone,Grant/Pierce,U S House,7,Write-In,,2
+Stone,Grant/Pierce,State Senate,29,Mike Moon,REP,957
+Stone,Grant/Pierce,State Senate,29,Write-In,,16
+Stone,Grant/Pierce,State House,138,Brad Hudson,REP,934
+Stone,Grant/Pierce,State House,138,Write-In,,11
+Stone,Grant/Pierce,State House,158,Scott Cupps,REP,29
+Stone,Grant/Pierce,State House,158,Brenda McKinney,DEM,4
+Stone,Grant/Pierce,State House,158,Write-In,,0
+Stone,Hurley,Registered Voters,,,,824
+Stone,Hurley,Ballots Cast,,,,539
+Stone,Hurley,President/Vice President,,Donald J. Trump/Michael R.,REP,483
+Stone,Hurley,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,48
+Stone,Hurley,President/Vice President,,Jo Jorgensen/Jeremy,LIB,6
+Stone,Hurley,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Hurley,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Hurley,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Hurley,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Hurley,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Hurley,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Hurley,President/Vice President,,Write-In,,0
+Stone,Hurley,Governor,,Mike Parson,REP,470
+Stone,Hurley,Governor,,Nicole Galloway,DEM,56
+Stone,Hurley,Governor,,Rik Combs,LIB,9
+Stone,Hurley,Governor,,Jerome Howard Bauer,GRN,3
+Stone,Hurley,Governor,,Arnie C. AC Dienoff,,0
+Stone,Hurley,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Hurley,Governor,,Martin Lindstedt,,0
+Stone,Hurley,Governor,,Write-In,,0
+Stone,Hurley,Lieutenant Governor,,Mike Kehoe,REP,466
+Stone,Hurley,Lieutenant Governor,,Alissia Canady,DEM,51
+Stone,Hurley,Lieutenant Governor,,Bill Slantz,LIB,11
+Stone,Hurley,Lieutenant Governor,,Kelley Dragoo,GRN,1
+Stone,Hurley,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Hurley,Lieutenant Governor,,Write-In,,0
+Stone,Hurley,Secretary of State,,John R. (Jay) Ashcroft,REP,467
+Stone,Hurley,Secretary of State,,Yinka Faleti,DEM,50
+Stone,Hurley,Secretary of State,,Carl Herman Freese,LIB,9
+Stone,Hurley,Secretary of State,,Paul Lehmann,GRN,2
+Stone,Hurley,Secretary of State,,Paul Venable,CST,3
+Stone,Hurley,Secretary of State,,Write-In,,0
+Stone,Hurley,State Treasurer,,Scott Fitzpatrick,REP,471
+Stone,Hurley,State Treasurer,,Vicki Lorenz Englund,DEM,45
+Stone,Hurley,State Treasurer,,Nicholas (Nick) Kasoff,LIB,10
+Stone,Hurley,State Treasurer,,Joseph Civettini,GRN,1
+Stone,Hurley,State Treasurer,,Write-In,,0
+Stone,Hurley,Attorney General,,Eric Schmitt,REP,466
+Stone,Hurley,Attorney General,,Rich Finneran,DEM,41
+Stone,Hurley,Attorney General,,Kevin C. Babcock,LIB,15
+Stone,Hurley,Attorney General,,Write-In,,0
+Stone,Hurley,U S House,7,Billy Long,REP,447
+Stone,Hurley,U S House,7,Teresa Montseny,DEM,49
+Stone,Hurley,U S House,7,Kevin Craig,LIB,23
+Stone,Hurley,U S House,7,Audrey Richards,,0
+Stone,Hurley,U S House,7,Dennis Davis,,0
+Stone,Hurley,U S House,7,Write-In,,3
+Stone,Hurley,State Senate,29,Mike Moon,REP,476
+Stone,Hurley,State Senate,29,Write-In,,4
+Stone,Hurley,State House,138,Brad Hudson,REP,483
+Stone,Hurley,State House,138,Write-In,,5
+Stone,Hurley,State House,158,Scott Cupps,REP,
+Stone,Hurley,State House,158,Brenda McKinney,DEM,
+Stone,Hurley,State House,158,Write-In,,
+Stone,Lincoln,Registered Voters,,,,530
+Stone,Lincoln,Ballots Cast,,,,354
+Stone,Lincoln,President/Vice President,,Donald J. Trump/Michael R.,REP,320
+Stone,Lincoln,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,32
+Stone,Lincoln,President/Vice President,,Jo Jorgensen/Jeremy,LIB,0
+Stone,Lincoln,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Lincoln,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Lincoln,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Lincoln,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Lincoln,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Lincoln,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Lincoln,President/Vice President,,Write-In,,0
+Stone,Lincoln,Governor,,Mike Parson,REP,316
+Stone,Lincoln,Governor,,Nicole Galloway,DEM,33
+Stone,Lincoln,Governor,,Rik Combs,LIB,1
+Stone,Lincoln,Governor,,Jerome Howard Bauer,GRN,0
+Stone,Lincoln,Governor,,Arnie C. AC Dienoff,,0
+Stone,Lincoln,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Lincoln,Governor,,Martin Lindstedt,,0
+Stone,Lincoln,Governor,,Write-In,,1
+Stone,Lincoln,Lieutenant Governor,,Mike Kehoe,REP,309
+Stone,Lincoln,Lieutenant Governor,,Alissia Canady,DEM,26
+Stone,Lincoln,Lieutenant Governor,,Bill Slantz,LIB,2
+Stone,Lincoln,Lieutenant Governor,,Kelley Dragoo,GRN,0
+Stone,Lincoln,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Lincoln,Lieutenant Governor,,Write-In,,0
+Stone,Lincoln,Secretary of State,,John R. (Jay) Ashcroft,REP,314
+Stone,Lincoln,Secretary of State,,Yinka Faleti,DEM,25
+Stone,Lincoln,Secretary of State,,Carl Herman Freese,LIB,2
+Stone,Lincoln,Secretary of State,,Paul Lehmann,GRN,2
+Stone,Lincoln,Secretary of State,,Paul Venable,CST,1
+Stone,Lincoln,Secretary of State,,Write-In,,0
+Stone,Lincoln,State Treasurer,,Scott Fitzpatrick,REP,307
+Stone,Lincoln,State Treasurer,,Vicki Lorenz Englund,DEM,24
+Stone,Lincoln,State Treasurer,,Nicholas (Nick) Kasoff,LIB,6
+Stone,Lincoln,State Treasurer,,Joseph Civettini,GRN,0
+Stone,Lincoln,State Treasurer,,Write-In,,0
+Stone,Lincoln,Attorney General,,Eric Schmitt,REP,307
+Stone,Lincoln,Attorney General,,Rich Finneran,DEM,24
+Stone,Lincoln,Attorney General,,Kevin C. Babcock,LIB,3
+Stone,Lincoln,Attorney General,,Write-In,,0
+Stone,Lincoln,U S House,7,Billy Long,REP,300
+Stone,Lincoln,U S House,7,Teresa Montseny,DEM,31
+Stone,Lincoln,U S House,7,Kevin Craig,LIB,7
+Stone,Lincoln,U S House,7,Audrey Richards,,0
+Stone,Lincoln,U S House,7,Dennis Davis,,0
+Stone,Lincoln,U S House,7,Write-In,,3
+Stone,Lincoln,State Senate,29,Mike Moon,REP,307
+Stone,Lincoln,State Senate,29,Write-In,,3
+Stone,Lincoln,State House,138,Brad Hudson,REP,219
+Stone,Lincoln,State House,138,Write-In,,4
+Stone,Lincoln,State House,158,Scott Cupps,REP,89
+Stone,Lincoln,State House,158,Brenda McKinney,DEM,7
+Stone,Lincoln,State House,158,Write-In,,0
+Stone,McKinley/Ponce De Leon,Registered Voters,,,,1221
+Stone,McKinley/Ponce De Leon,Ballots Cast,,,,525
+Stone,McKinley/Ponce De Leon,President/Vice President,,Donald J. Trump/Michael R.,REP,447
+Stone,McKinley/Ponce De Leon,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,65
+Stone,McKinley/Ponce De Leon,President/Vice President,,Jo Jorgensen/Jeremy,LIB,7
+Stone,McKinley/Ponce De Leon,President/Vice President,,Howie Hawkins/Angela,GRN,0
+Stone,McKinley/Ponce De Leon,President/Vice President,,Don Blankenship/William,UST,0
+Stone,McKinley/Ponce De Leon,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,McKinley/Ponce De Leon,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,McKinley/Ponce De Leon,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,McKinley/Ponce De Leon,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,McKinley/Ponce De Leon,President/Vice President,,Write-In,,3
+Stone,McKinley/Ponce De Leon,Governor,,Mike Parson,REP,435
+Stone,McKinley/Ponce De Leon,Governor,,Nicole Galloway,DEM,78
+Stone,McKinley/Ponce De Leon,Governor,,Rik Combs,LIB,6
+Stone,McKinley/Ponce De Leon,Governor,,Jerome Howard Bauer,GRN,3
+Stone,McKinley/Ponce De Leon,Governor,,Arnie C. AC Dienoff,,0
+Stone,McKinley/Ponce De Leon,Governor,,Theo (Ted) Brown Sr,,0
+Stone,McKinley/Ponce De Leon,Governor,,Martin Lindstedt,,0
+Stone,McKinley/Ponce De Leon,Governor,,Write-In,,1
+Stone,McKinley/Ponce De Leon,Lieutenant Governor,,Mike Kehoe,REP,438
+Stone,McKinley/Ponce De Leon,Lieutenant Governor,,Alissia Canady,DEM,60
+Stone,McKinley/Ponce De Leon,Lieutenant Governor,,Bill Slantz,LIB,9
+Stone,McKinley/Ponce De Leon,Lieutenant Governor,,Kelley Dragoo,GRN,2
+Stone,McKinley/Ponce De Leon,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,McKinley/Ponce De Leon,Lieutenant Governor,,Write-In,,0
+Stone,McKinley/Ponce De Leon,Secretary of State,,John R. (Jay) Ashcroft,REP,435
+Stone,McKinley/Ponce De Leon,Secretary of State,,Yinka Faleti,DEM,70
+Stone,McKinley/Ponce De Leon,Secretary of State,,Carl Herman Freese,LIB,4
+Stone,McKinley/Ponce De Leon,Secretary of State,,Paul Lehmann,GRN,1
+Stone,McKinley/Ponce De Leon,Secretary of State,,Paul Venable,CST,2
+Stone,McKinley/Ponce De Leon,Secretary of State,,Write-In,,1
+Stone,McKinley/Ponce De Leon,State Treasurer,,Scott Fitzpatrick,REP,433
+Stone,McKinley/Ponce De Leon,State Treasurer,,Vicki Lorenz Englund,DEM,67
+Stone,McKinley/Ponce De Leon,State Treasurer,,Nicholas (Nick) Kasoff,LIB,8
+Stone,McKinley/Ponce De Leon,State Treasurer,,Joseph Civettini,GRN,0
+Stone,McKinley/Ponce De Leon,State Treasurer,,Write-In,,0
+Stone,McKinley/Ponce De Leon,Attorney General,,Eric Schmitt,REP,434
+Stone,McKinley/Ponce De Leon,Attorney General,,Rich Finneran,DEM,65
+Stone,McKinley/Ponce De Leon,Attorney General,,Kevin C. Babcock,LIB,6
+Stone,McKinley/Ponce De Leon,Attorney General,,Write-In,,0
+Stone,McKinley/Ponce De Leon,U S House,7,Billy Long,REP,415
+Stone,McKinley/Ponce De Leon,U S House,7,Teresa Montseny,DEM,72
+Stone,McKinley/Ponce De Leon,U S House,7,Kevin Craig,LIB,19
+Stone,McKinley/Ponce De Leon,U S House,7,Audrey Richards,,0
+Stone,McKinley/Ponce De Leon,U S House,7,Dennis Davis,,0
+Stone,McKinley/Ponce De Leon,U S House,7,Write-In,,0
+Stone,McKinley/Ponce De Leon,State Senate,29,Mike Moon,REP,455
+Stone,McKinley/Ponce De Leon,State Senate,29,Write-In,,4
+Stone,McKinley/Ponce De Leon,State House,138,Brad Hudson,REP,452
+Stone,McKinley/Ponce De Leon,State House,138,Write-In,,7
+Stone,McKinley/Ponce De Leon,State House,158,Scott Cupps,REP,
+Stone,McKinley/Ponce De Leon,State House,158,Brenda McKinney,DEM,
+Stone,McKinley/Ponce De Leon,State House,158,Write-In,,
+Stone,Pine A,Registered Voters,,,,1808
+Stone,Pine A,Ballots Cast,,,,1099
+Stone,Pine A,President/Vice President,,Donald J. Trump/Michael R.,REP,940
+Stone,Pine A,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,145
+Stone,Pine A,President/Vice President,,Jo Jorgensen/Jeremy,LIB,11
+Stone,Pine A,President/Vice President,,Howie Hawkins/Angela,GRN,0
+Stone,Pine A,President/Vice President,,Don Blankenship/William,UST,1
+Stone,Pine A,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Pine A,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Pine A,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Pine A,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Pine A,President/Vice President,,Write-In,,0
+Stone,Pine A,Governor,,Mike Parson,REP,935
+Stone,Pine A,Governor,,Nicole Galloway,DEM,139
+Stone,Pine A,Governor,,Rik Combs,LIB,12
+Stone,Pine A,Governor,,Jerome Howard Bauer,GRN,6
+Stone,Pine A,Governor,,Arnie C. AC Dienoff,,0
+Stone,Pine A,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Pine A,Governor,,Martin Lindstedt,,0
+Stone,Pine A,Governor,,Write-In,,0
+Stone,Pine A,Lieutenant Governor,,Mike Kehoe,REP,927
+Stone,Pine A,Lieutenant Governor,,Alissia Canady,DEM,131
+Stone,Pine A,Lieutenant Governor,,Bill Slantz,LIB,16
+Stone,Pine A,Lieutenant Governor,,Kelley Dragoo,GRN,8
+Stone,Pine A,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Pine A,Lieutenant Governor,,Write-In,,0
+Stone,Pine A,Secretary of State,,John R. (Jay) Ashcroft,REP,929
+Stone,Pine A,Secretary of State,,Yinka Faleti,DEM,131
+Stone,Pine A,Secretary of State,,Carl Herman Freese,LIB,11
+Stone,Pine A,Secretary of State,,Paul Lehmann,GRN,4
+Stone,Pine A,Secretary of State,,Paul Venable,CST,7
+Stone,Pine A,Secretary of State,,Write-In,,2
+Stone,Pine A,State Treasurer,,Scott Fitzpatrick,REP,919
+Stone,Pine A,State Treasurer,,Vicki Lorenz Englund,DEM,142
+Stone,Pine A,State Treasurer,,Nicholas (Nick) Kasoff,LIB,13
+Stone,Pine A,State Treasurer,,Joseph Civettini,GRN,3
+Stone,Pine A,State Treasurer,,Write-In,,0
+Stone,Pine A,Attorney General,,Eric Schmitt,REP,930
+Stone,Pine A,Attorney General,,Rich Finneran,DEM,125
+Stone,Pine A,Attorney General,,Kevin C. Babcock,LIB,22
+Stone,Pine A,Attorney General,,Write-In,,1
+Stone,Pine A,U S House,7,Billy Long,REP,913
+Stone,Pine A,U S House,7,Teresa Montseny,DEM,143
+Stone,Pine A,U S House,7,Kevin Craig,LIB,25
+Stone,Pine A,U S House,7,Audrey Richards,,0
+Stone,Pine A,U S House,7,Dennis Davis,,0
+Stone,Pine A,U S House,7,Write-In,,1
+Stone,Pine A,State Senate,29,Mike Moon,REP,995
+Stone,Pine A,State Senate,29,Write-In,,7
+Stone,Pine A,State House,138,Brad Hudson,REP,993
+Stone,Pine A,State House,138,Write-In,,8
+Stone,Pine A,State House,158,Scott Cupps,REP,
+Stone,Pine A,State House,158,Brenda McKinney,DEM,
+Stone,Pine A,State House,158,Write-In,,
+Stone,Pine B,Registered Voters,,,,1588
+Stone,Pine B,Ballots Cast,,,,878
+Stone,Pine B,President/Vice President,,Donald J. Trump/Michael R.,REP,750
+Stone,Pine B,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,119
+Stone,Pine B,President/Vice President,,Jo Jorgensen/Jeremy,LIB,3
+Stone,Pine B,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Pine B,President/Vice President,,Don Blankenship/William,UST,1
+Stone,Pine B,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Pine B,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Pine B,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Pine B,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Pine B,President/Vice President,,Write-In,,1
+Stone,Pine B,Governor,,Mike Parson,REP,750
+Stone,Pine B,Governor,,Nicole Galloway,DEM,111
+Stone,Pine B,Governor,,Rik Combs,LIB,7
+Stone,Pine B,Governor,,Jerome Howard Bauer,GRN,3
+Stone,Pine B,Governor,,Arnie C. AC Dienoff,,0
+Stone,Pine B,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Pine B,Governor,,Martin Lindstedt,,0
+Stone,Pine B,Governor,,Write-In,,0
+Stone,Pine B,Lieutenant Governor,,Mike Kehoe,REP,751
+Stone,Pine B,Lieutenant Governor,,Alissia Canady,DEM,103
+Stone,Pine B,Lieutenant Governor,,Bill Slantz,LIB,7
+Stone,Pine B,Lieutenant Governor,,Kelley Dragoo,GRN,3
+Stone,Pine B,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Pine B,Lieutenant Governor,,Write-In,,1
+Stone,Pine B,Secretary of State,,John R. (Jay) Ashcroft,REP,747
+Stone,Pine B,Secretary of State,,Yinka Faleti,DEM,105
+Stone,Pine B,Secretary of State,,Carl Herman Freese,LIB,9
+Stone,Pine B,Secretary of State,,Paul Lehmann,GRN,5
+Stone,Pine B,Secretary of State,,Paul Venable,CST,3
+Stone,Pine B,Secretary of State,,Write-In,,0
+Stone,Pine B,State Treasurer,,Scott Fitzpatrick,REP,754
+Stone,Pine B,State Treasurer,,Vicki Lorenz Englund,DEM,103
+Stone,Pine B,State Treasurer,,Nicholas (Nick) Kasoff,LIB,7
+Stone,Pine B,State Treasurer,,Joseph Civettini,GRN,1
+Stone,Pine B,State Treasurer,,Write-In,,0
+Stone,Pine B,Attorney General,,Eric Schmitt,REP,751
+Stone,Pine B,Attorney General,,Rich Finneran,DEM,103
+Stone,Pine B,Attorney General,,Kevin C. Babcock,LIB,9
+Stone,Pine B,Attorney General,,Write-In,,0
+Stone,Pine B,U S House,7,Billy Long,REP,730
+Stone,Pine B,U S House,7,Teresa Montseny,DEM,112
+Stone,Pine B,U S House,7,Kevin Craig,LIB,21
+Stone,Pine B,U S House,7,Audrey Richards,,0
+Stone,Pine B,U S House,7,Dennis Davis,,0
+Stone,Pine B,U S House,7,Write-In,,3
+Stone,Pine B,State Senate,29,Mike Moon,REP,800
+Stone,Pine B,State Senate,29,Write-In,,7
+Stone,Pine B,State House,138,Brad Hudson,REP,806
+Stone,Pine B,State House,138,Write-In,,7
+Stone,Pine B,State House,158,Scott Cupps,REP,
+Stone,Pine B,State House,158,Brenda McKinney,DEM,
+Stone,Pine B,State House,158,Write-In,,
+Stone,Ruth A,Registered Voters,,,,3029
+Stone,Ruth A,Ballots Cast,,,,1647
+Stone,Ruth A,President/Vice President,,Donald J. Trump/Michael R.,REP,1368
+Stone,Ruth A,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,253
+Stone,Ruth A,President/Vice President,,Jo Jorgensen/Jeremy,LIB,20
+Stone,Ruth A,President/Vice President,,Howie Hawkins/Angela,GRN,3
+Stone,Ruth A,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Ruth A,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Ruth A,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Ruth A,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Ruth A,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Ruth A,President/Vice President,,Write-In,,1
+Stone,Ruth A,Governor,,Mike Parson,REP,1322
+Stone,Ruth A,Governor,,Nicole Galloway,DEM,269
+Stone,Ruth A,Governor,,Rik Combs,LIB,31
+Stone,Ruth A,Governor,,Jerome Howard Bauer,GRN,6
+Stone,Ruth A,Governor,,Arnie C. AC Dienoff,,0
+Stone,Ruth A,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Ruth A,Governor,,Martin Lindstedt,,0
+Stone,Ruth A,Governor,,Write-In,,2
+Stone,Ruth A,Lieutenant Governor,,Mike Kehoe,REP,1338
+Stone,Ruth A,Lieutenant Governor,,Alissia Canady,DEM,224
+Stone,Ruth A,Lieutenant Governor,,Bill Slantz,LIB,33
+Stone,Ruth A,Lieutenant Governor,,Kelley Dragoo,GRN,10
+Stone,Ruth A,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Ruth A,Lieutenant Governor,,Write-In,,2
+Stone,Ruth A,Secretary of State,,John R. (Jay) Ashcroft,REP,1350
+Stone,Ruth A,Secretary of State,,Yinka Faleti,DEM,222
+Stone,Ruth A,Secretary of State,,Carl Herman Freese,LIB,30
+Stone,Ruth A,Secretary of State,,Paul Lehmann,GRN,7
+Stone,Ruth A,Secretary of State,,Paul Venable,CST,6
+Stone,Ruth A,Secretary of State,,Write-In,,2
+Stone,Ruth A,State Treasurer,,Scott Fitzpatrick,REP,1332
+Stone,Ruth A,State Treasurer,,Vicki Lorenz Englund,DEM,226
+Stone,Ruth A,State Treasurer,,Nicholas (Nick) Kasoff,LIB,30
+Stone,Ruth A,State Treasurer,,Joseph Civettini,GRN,9
+Stone,Ruth A,State Treasurer,,Write-In,,2
+Stone,Ruth A,Attorney General,,Eric Schmitt,REP,1358
+Stone,Ruth A,Attorney General,,Rich Finneran,DEM,204
+Stone,Ruth A,Attorney General,,Kevin C. Babcock,LIB,40
+Stone,Ruth A,Attorney General,,Write-In,,2
+Stone,Ruth A,U S House,7,Billy Long,REP,1295
+Stone,Ruth A,U S House,7,Teresa Montseny,DEM,238
+Stone,Ruth A,U S House,7,Kevin Craig,LIB,52
+Stone,Ruth A,U S House,7,Audrey Richards,,0
+Stone,Ruth A,U S House,7,Dennis Davis,,0
+Stone,Ruth A,U S House,7,Write-In,,22
+Stone,Ruth A,State Senate,29,Mike Moon,REP,1468
+Stone,Ruth A,State Senate,29,Write-In,,25
+Stone,Ruth A,State House,138,Brad Hudson,REP,1469
+Stone,Ruth A,State House,138,Write-In,,21
+Stone,Ruth A,State House,158,Scott Cupps,REP,
+Stone,Ruth A,State House,158,Brenda McKinney,DEM,
+Stone,Ruth A,State House,158,Write-In,,
+Stone,Ruth B City,Registered Voters,,,,1935
+Stone,Ruth B City,Ballots Cast,,,,1143
+Stone,Ruth B City,President/Vice President,,Donald J. Trump/Michael R.,REP,879
+Stone,Ruth B City,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,247
+Stone,Ruth B City,President/Vice President,,Jo Jorgensen/Jeremy,LIB,12
+Stone,Ruth B City,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Ruth B City,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Ruth B City,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Ruth B City,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Ruth B City,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Ruth B City,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Ruth B City,President/Vice President,,Write-In,,2
+Stone,Ruth B City,Governor,,Mike Parson,REP,882
+Stone,Ruth B City,Governor,,Nicole Galloway,DEM,226
+Stone,Ruth B City,Governor,,Rik Combs,LIB,23
+Stone,Ruth B City,Governor,,Jerome Howard Bauer,GRN,4
+Stone,Ruth B City,Governor,,Arnie C. AC Dienoff,,0
+Stone,Ruth B City,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Ruth B City,Governor,,Martin Lindstedt,,0
+Stone,Ruth B City,Governor,,Write-In,,0
+Stone,Ruth B City,Lieutenant Governor,,Mike Kehoe,REP,893
+Stone,Ruth B City,Lieutenant Governor,,Alissia Canady,DEM,206
+Stone,Ruth B City,Lieutenant Governor,,Bill Slantz,LIB,19
+Stone,Ruth B City,Lieutenant Governor,,Kelley Dragoo,GRN,2
+Stone,Ruth B City,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Ruth B City,Lieutenant Governor,,Write-In,,0
+Stone,Ruth B City,Secretary of State,,John R. (Jay) Ashcroft,REP,884
+Stone,Ruth B City,Secretary of State,,Yinka Faleti,DEM,207
+Stone,Ruth B City,Secretary of State,,Carl Herman Freese,LIB,20
+Stone,Ruth B City,Secretary of State,,Paul Lehmann,GRN,3
+Stone,Ruth B City,Secretary of State,,Paul Venable,CST,1
+Stone,Ruth B City,Secretary of State,,Write-In,,1
+Stone,Ruth B City,State Treasurer,,Scott Fitzpatrick,REP,894
+Stone,Ruth B City,State Treasurer,,Vicki Lorenz Englund,DEM,202
+Stone,Ruth B City,State Treasurer,,Nicholas (Nick) Kasoff,LIB,20
+Stone,Ruth B City,State Treasurer,,Joseph Civettini,GRN,2
+Stone,Ruth B City,State Treasurer,,Write-In,,0
+Stone,Ruth B City,Attorney General,,Eric Schmitt,REP,900
+Stone,Ruth B City,Attorney General,,Rich Finneran,DEM,186
+Stone,Ruth B City,Attorney General,,Kevin C. Babcock,LIB,28
+Stone,Ruth B City,Attorney General,,Write-In,,0
+Stone,Ruth B City,U S House,7,Billy Long,REP,846
+Stone,Ruth B City,U S House,7,Teresa Montseny,DEM,211
+Stone,Ruth B City,U S House,7,Kevin Craig,LIB,41
+Stone,Ruth B City,U S House,7,Audrey Richards,,0
+Stone,Ruth B City,U S House,7,Dennis Davis,,0
+Stone,Ruth B City,U S House,7,Write-In,,24
+Stone,Ruth B City,State Senate,29,Mike Moon,REP,992
+Stone,Ruth B City,State Senate,29,Write-In,,21
+Stone,Ruth B City,State House,138,Brad Hudson,REP,998
+Stone,Ruth B City,State House,138,Write-In,,17
+Stone,Ruth B City,State House,158,Scott Cupps,REP,
+Stone,Ruth B City,State House,158,Brenda McKinney,DEM,
+Stone,Ruth B City,State House,158,Write-In,,
+Stone,Ruth B Rural,Registered Voters,,,,2383
+Stone,Ruth B Rural,Ballots Cast,,,,1341
+Stone,Ruth B Rural,President/Vice President,,Donald J. Trump/Michael R.,REP,1079
+Stone,Ruth B Rural,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,248
+Stone,Ruth B Rural,President/Vice President,,Jo Jorgensen/Jeremy,LIB,5
+Stone,Ruth B Rural,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Ruth B Rural,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Ruth B Rural,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Ruth B Rural,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Ruth B Rural,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Ruth B Rural,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Ruth B Rural,President/Vice President,,Write-In,,1
+Stone,Ruth B Rural,Governor,,Mike Parson,REP,1073
+Stone,Ruth B Rural,Governor,,Nicole Galloway,DEM,230
+Stone,Ruth B Rural,Governor,,Rik Combs,LIB,17
+Stone,Ruth B Rural,Governor,,Jerome Howard Bauer,GRN,3
+Stone,Ruth B Rural,Governor,,Arnie C. AC Dienoff,,0
+Stone,Ruth B Rural,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Ruth B Rural,Governor,,Martin Lindstedt,,0
+Stone,Ruth B Rural,Governor,,Write-In,,3
+Stone,Ruth B Rural,Lieutenant Governor,,Mike Kehoe,REP,1092
+Stone,Ruth B Rural,Lieutenant Governor,,Alissia Canady,DEM,201
+Stone,Ruth B Rural,Lieutenant Governor,,Bill Slantz,LIB,15
+Stone,Ruth B Rural,Lieutenant Governor,,Kelley Dragoo,GRN,8
+Stone,Ruth B Rural,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Ruth B Rural,Lieutenant Governor,,Write-In,,1
+Stone,Ruth B Rural,Secretary of State,,John R. (Jay) Ashcroft,REP,1085
+Stone,Ruth B Rural,Secretary of State,,Yinka Faleti,DEM,205
+Stone,Ruth B Rural,Secretary of State,,Carl Herman Freese,LIB,21
+Stone,Ruth B Rural,Secretary of State,,Paul Lehmann,GRN,6
+Stone,Ruth B Rural,Secretary of State,,Paul Venable,CST,2
+Stone,Ruth B Rural,Secretary of State,,Write-In,,1
+Stone,Ruth B Rural,State Treasurer,,Scott Fitzpatrick,REP,1105
+Stone,Ruth B Rural,State Treasurer,,Vicki Lorenz Englund,DEM,188
+Stone,Ruth B Rural,State Treasurer,,Nicholas (Nick) Kasoff,LIB,14
+Stone,Ruth B Rural,State Treasurer,,Joseph Civettini,GRN,3
+Stone,Ruth B Rural,State Treasurer,,Write-In,,1
+Stone,Ruth B Rural,Attorney General,,Eric Schmitt,REP,1096
+Stone,Ruth B Rural,Attorney General,,Rich Finneran,DEM,191
+Stone,Ruth B Rural,Attorney General,,Kevin C. Babcock,LIB,22
+Stone,Ruth B Rural,Attorney General,,Write-In,,1
+Stone,Ruth B Rural,U S House,7,Billy Long,REP,1051
+Stone,Ruth B Rural,U S House,7,Teresa Montseny,DEM,211
+Stone,Ruth B Rural,U S House,7,Kevin Craig,LIB,31
+Stone,Ruth B Rural,U S House,7,Audrey Richards,,0
+Stone,Ruth B Rural,U S House,7,Dennis Davis,,0
+Stone,Ruth B Rural,U S House,7,Write-In,,19
+Stone,Ruth B Rural,State Senate,29,Mike Moon,REP,1193
+Stone,Ruth B Rural,State Senate,29,Write-In,,14
+Stone,Ruth B Rural,State House,138,Brad Hudson,REP,1188
+Stone,Ruth B Rural,State House,138,Write-In,,15
+Stone,Ruth B Rural,State House,158,Scott Cupps,REP,
+Stone,Ruth B Rural,State House,158,Brenda McKinney,DEM,
+Stone,Ruth B Rural,State House,158,Write-In,,
+Stone,Ruth C,Registered Voters,,,,3132
+Stone,Ruth C,Ballots Cast,,,,1579
+Stone,Ruth C,President/Vice President,,Donald J. Trump/Michael R.,REP,1312
+Stone,Ruth C,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,240
+Stone,Ruth C,President/Vice President,,Jo Jorgensen/Jeremy,LIB,13
+Stone,Ruth C,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Ruth C,President/Vice President,,Don Blankenship/William,UST,1
+Stone,Ruth C,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Ruth C,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Ruth C,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Ruth C,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Ruth C,President/Vice President,,Write-In,,6
+Stone,Ruth C,Governor,,Mike Parson,REP,1316
+Stone,Ruth C,Governor,,Nicole Galloway,DEM,220
+Stone,Ruth C,Governor,,Rik Combs,LIB,25
+Stone,Ruth C,Governor,,Jerome Howard Bauer,GRN,4
+Stone,Ruth C,Governor,,Arnie C. AC Dienoff,,0
+Stone,Ruth C,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Ruth C,Governor,,Martin Lindstedt,,0
+Stone,Ruth C,Governor,,Write-In,,3
+Stone,Ruth C,Lieutenant Governor,,Mike Kehoe,REP,1337
+Stone,Ruth C,Lieutenant Governor,,Alissia Canady,DEM,196
+Stone,Ruth C,Lieutenant Governor,,Bill Slantz,LIB,14
+Stone,Ruth C,Lieutenant Governor,,Kelley Dragoo,GRN,8
+Stone,Ruth C,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Ruth C,Lieutenant Governor,,Write-In,,3
+Stone,Ruth C,Secretary of State,,John R. (Jay) Ashcroft,REP,1321
+Stone,Ruth C,Secretary of State,,Yinka Faleti,DEM,206
+Stone,Ruth C,Secretary of State,,Carl Herman Freese,LIB,20
+Stone,Ruth C,Secretary of State,,Paul Lehmann,GRN,4
+Stone,Ruth C,Secretary of State,,Paul Venable,CST,4
+Stone,Ruth C,Secretary of State,,Write-In,,3
+Stone,Ruth C,State Treasurer,,Scott Fitzpatrick,REP,1325
+Stone,Ruth C,State Treasurer,,Vicki Lorenz Englund,DEM,201
+Stone,Ruth C,State Treasurer,,Nicholas (Nick) Kasoff,LIB,21
+Stone,Ruth C,State Treasurer,,Joseph Civettini,GRN,4
+Stone,Ruth C,State Treasurer,,Write-In,,3
+Stone,Ruth C,Attorney General,,Eric Schmitt,REP,1333
+Stone,Ruth C,Attorney General,,Rich Finneran,DEM,186
+Stone,Ruth C,Attorney General,,Kevin C. Babcock,LIB,30
+Stone,Ruth C,Attorney General,,Write-In,,3
+Stone,Ruth C,U S House,7,Billy Long,REP,1293
+Stone,Ruth C,U S House,7,Teresa Montseny,DEM,199
+Stone,Ruth C,U S House,7,Kevin Craig,LIB,42
+Stone,Ruth C,U S House,7,Audrey Richards,,0
+Stone,Ruth C,U S House,7,Dennis Davis,,0
+Stone,Ruth C,U S House,7,Write-In,,24
+Stone,Ruth C,State Senate,29,Mike Moon,REP,1419
+Stone,Ruth C,State Senate,29,Write-In,,18
+Stone,Ruth C,State House,138,Brad Hudson,REP,1421
+Stone,Ruth C,State House,138,Write-In,,18
+Stone,Ruth C,State House,158,Scott Cupps,REP,
+Stone,Ruth C,State House,158,Brenda McKinney,DEM,
+Stone,Ruth C,State House,158,Write-In,,
+Stone,Ruth C Rural/Sunset Cove,Registered Voters,,,,1109
+Stone,Ruth C Rural/Sunset Cove,Ballots Cast,,,,607
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Donald J. Trump/Michael R.,REP,488
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,106
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Jo Jorgensen/Jeremy,LIB,8
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Howie Hawkins/Angela,GRN,3
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Ruth C Rural/Sunset Cove,President/Vice President,,Write-In,,1
+Stone,Ruth C Rural/Sunset Cove,Governor,,Mike Parson,REP,489
+Stone,Ruth C Rural/Sunset Cove,Governor,,Nicole Galloway,DEM,100
+Stone,Ruth C Rural/Sunset Cove,Governor,,Rik Combs,LIB,11
+Stone,Ruth C Rural/Sunset Cove,Governor,,Jerome Howard Bauer,GRN,3
+Stone,Ruth C Rural/Sunset Cove,Governor,,Arnie C. AC Dienoff,,0
+Stone,Ruth C Rural/Sunset Cove,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Ruth C Rural/Sunset Cove,Governor,,Martin Lindstedt,,0
+Stone,Ruth C Rural/Sunset Cove,Governor,,Write-In,,1
+Stone,Ruth C Rural/Sunset Cove,Lieutenant Governor,,Mike Kehoe,REP,484
+Stone,Ruth C Rural/Sunset Cove,Lieutenant Governor,,Alissia Canady,DEM,92
+Stone,Ruth C Rural/Sunset Cove,Lieutenant Governor,,Bill Slantz,LIB,8
+Stone,Ruth C Rural/Sunset Cove,Lieutenant Governor,,Kelley Dragoo,GRN,7
+Stone,Ruth C Rural/Sunset Cove,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Ruth C Rural/Sunset Cove,Lieutenant Governor,,Write-In,,1
+Stone,Ruth C Rural/Sunset Cove,Secretary of State,,John R. (Jay) Ashcroft,REP,492
+Stone,Ruth C Rural/Sunset Cove,Secretary of State,,Yinka Faleti,DEM,91
+Stone,Ruth C Rural/Sunset Cove,Secretary of State,,Carl Herman Freese,LIB,7
+Stone,Ruth C Rural/Sunset Cove,Secretary of State,,Paul Lehmann,GRN,4
+Stone,Ruth C Rural/Sunset Cove,Secretary of State,,Paul Venable,CST,1
+Stone,Ruth C Rural/Sunset Cove,Secretary of State,,Write-In,,1
+Stone,Ruth C Rural/Sunset Cove,State Treasurer,,Scott Fitzpatrick,REP,487
+Stone,Ruth C Rural/Sunset Cove,State Treasurer,,Vicki Lorenz Englund,DEM,87
+Stone,Ruth C Rural/Sunset Cove,State Treasurer,,Nicholas (Nick) Kasoff,LIB,11
+Stone,Ruth C Rural/Sunset Cove,State Treasurer,,Joseph Civettini,GRN,2
+Stone,Ruth C Rural/Sunset Cove,State Treasurer,,Write-In,,1
+Stone,Ruth C Rural/Sunset Cove,Attorney General,,Eric Schmitt,REP,488
+Stone,Ruth C Rural/Sunset Cove,Attorney General,,Rich Finneran,DEM,86
+Stone,Ruth C Rural/Sunset Cove,Attorney General,,Kevin C. Babcock,LIB,13
+Stone,Ruth C Rural/Sunset Cove,Attorney General,,Write-In,,1
+Stone,Ruth C Rural/Sunset Cove,U S House,7,Billy Long,REP,472
+Stone,Ruth C Rural/Sunset Cove,U S House,7,Teresa Montseny,DEM,94
+Stone,Ruth C Rural/Sunset Cove,U S House,7,Kevin Craig,LIB,22
+Stone,Ruth C Rural/Sunset Cove,U S House,7,Audrey Richards,,0
+Stone,Ruth C Rural/Sunset Cove,U S House,7,Dennis Davis,,0
+Stone,Ruth C Rural/Sunset Cove,U S House,7,Write-In,,6
+Stone,Ruth C Rural/Sunset Cove,State Senate,29,Mike Moon,REP,522
+Stone,Ruth C Rural/Sunset Cove,State Senate,29,Write-In,,8
+Stone,Ruth C Rural/Sunset Cove,State House,138,Brad Hudson,REP,521
+Stone,Ruth C Rural/Sunset Cove,State House,138,Write-In,,8
+Stone,Ruth C Rural/Sunset Cove,State House,158,Scott Cupps,REP,
+Stone,Ruth C Rural/Sunset Cove,State House,158,Brenda McKinney,DEM,
+Stone,Ruth C Rural/Sunset Cove,State House,158,Write-In,,
+Stone,Union,Registered Voters,,,,406
+Stone,Union,Ballots Cast,,,,302
+Stone,Union,President/Vice President,,Donald J. Trump/Michael R.,REP,261
+Stone,Union,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,37
+Stone,Union,President/Vice President,,Jo Jorgensen/Jeremy,LIB,3
+Stone,Union,President/Vice President,,Howie Hawkins/Angela,GRN,0
+Stone,Union,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Union,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Union,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Union,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Union,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Union,President/Vice President,,Write-In,,1
+Stone,Union,Governor,,Mike Parson,REP,258
+Stone,Union,Governor,,Nicole Galloway,DEM,42
+Stone,Union,Governor,,Rik Combs,LIB,1
+Stone,Union,Governor,,Jerome Howard Bauer,GRN,1
+Stone,Union,Governor,,Arnie C. AC Dienoff,,0
+Stone,Union,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Union,Governor,,Martin Lindstedt,,0
+Stone,Union,Governor,,Write-In,,0
+Stone,Union,Lieutenant Governor,,Mike Kehoe,REP,249
+Stone,Union,Lieutenant Governor,,Alissia Canady,DEM,33
+Stone,Union,Lieutenant Governor,,Bill Slantz,LIB,5
+Stone,Union,Lieutenant Governor,,Kelley Dragoo,GRN,2
+Stone,Union,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Union,Lieutenant Governor,,Write-In,,1
+Stone,Union,Secretary of State,,John R. (Jay) Ashcroft,REP,259
+Stone,Union,Secretary of State,,Yinka Faleti,DEM,35
+Stone,Union,Secretary of State,,Carl Herman Freese,LIB,1
+Stone,Union,Secretary of State,,Paul Lehmann,GRN,1
+Stone,Union,Secretary of State,,Paul Venable,CST,0
+Stone,Union,Secretary of State,,Write-In,,0
+Stone,Union,State Treasurer,,Scott Fitzpatrick,REP,249
+Stone,Union,State Treasurer,,Vicki Lorenz Englund,DEM,37
+Stone,Union,State Treasurer,,Nicholas (Nick) Kasoff,LIB,4
+Stone,Union,State Treasurer,,Joseph Civettini,GRN,1
+Stone,Union,State Treasurer,,Write-In,,0
+Stone,Union,Attorney General,,Eric Schmitt,REP,251
+Stone,Union,Attorney General,,Rich Finneran,DEM,35
+Stone,Union,Attorney General,,Kevin C. Babcock,LIB,3
+Stone,Union,Attorney General,,Write-In,,0
+Stone,Union,U S House,7,Billy Long,REP,225
+Stone,Union,U S House,7,Teresa Montseny,DEM,40
+Stone,Union,U S House,7,Kevin Craig,LIB,17
+Stone,Union,U S House,7,Audrey Richards,,0
+Stone,Union,U S House,7,Dennis Davis,,0
+Stone,Union,U S House,7,Write-In,,6
+Stone,Union,State Senate,29,Mike Moon,REP,263
+Stone,Union,State Senate,29,Write-In,,0
+Stone,Union,State House,138,Brad Hudson,REP,260
+Stone,Union,State House,138,Write-In,,0
+Stone,Union,State House,158,Scott Cupps,REP,
+Stone,Union,State House,158,Brenda McKinney,DEM,
+Stone,Union,State House,158,Write-In,,
+Stone,Washington,Registered Voters,,,,1390
+Stone,Washington,Ballots Cast,,,,729
+Stone,Washington,President/Vice President,,Donald J. Trump/Michael R.,REP,602
+Stone,Washington,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,117
+Stone,Washington,President/Vice President,,Jo Jorgensen/Jeremy,LIB,3
+Stone,Washington,President/Vice President,,Howie Hawkins/Angela,GRN,1
+Stone,Washington,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Washington,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Washington,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Washington,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Washington,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Washington,President/Vice President,,Write-In,,1
+Stone,Washington,Governor,,Mike Parson,REP,591
+Stone,Washington,Governor,,Nicole Galloway,DEM,113
+Stone,Washington,Governor,,Rik Combs,LIB,11
+Stone,Washington,Governor,,Jerome Howard Bauer,GRN,3
+Stone,Washington,Governor,,Arnie C. AC Dienoff,,0
+Stone,Washington,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Washington,Governor,,Martin Lindstedt,,0
+Stone,Washington,Governor,,Write-In,,0
+Stone,Washington,Lieutenant Governor,,Mike Kehoe,REP,583
+Stone,Washington,Lieutenant Governor,,Alissia Canady,DEM,104
+Stone,Washington,Lieutenant Governor,,Bill Slantz,LIB,14
+Stone,Washington,Lieutenant Governor,,Kelley Dragoo,GRN,5
+Stone,Washington,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Washington,Lieutenant Governor,,Write-In,,0
+Stone,Washington,Secretary of State,,John R. (Jay) Ashcroft,REP,594
+Stone,Washington,Secretary of State,,Yinka Faleti,DEM,94
+Stone,Washington,Secretary of State,,Carl Herman Freese,LIB,16
+Stone,Washington,Secretary of State,,Paul Lehmann,GRN,2
+Stone,Washington,Secretary of State,,Paul Venable,CST,3
+Stone,Washington,Secretary of State,,Write-In,,0
+Stone,Washington,State Treasurer,,Scott Fitzpatrick,REP,593
+Stone,Washington,State Treasurer,,Vicki Lorenz Englund,DEM,93
+Stone,Washington,State Treasurer,,Nicholas (Nick) Kasoff,LIB,13
+Stone,Washington,State Treasurer,,Joseph Civettini,GRN,3
+Stone,Washington,State Treasurer,,Write-In,,0
+Stone,Washington,Attorney General,,Eric Schmitt,REP,579
+Stone,Washington,Attorney General,,Rich Finneran,DEM,92
+Stone,Washington,Attorney General,,Kevin C. Babcock,LIB,20
+Stone,Washington,Attorney General,,Write-In,,0
+Stone,Washington,U S House,7,Billy Long,REP,556
+Stone,Washington,U S House,7,Teresa Montseny,DEM,100
+Stone,Washington,U S House,7,Kevin Craig,LIB,39
+Stone,Washington,U S House,7,Audrey Richards,,0
+Stone,Washington,U S House,7,Dennis Davis,,0
+Stone,Washington,U S House,7,Write-In,,4
+Stone,Washington,State Senate,29,Mike Moon,REP,621
+Stone,Washington,State Senate,29,Write-In,,6
+Stone,Washington,State House,138,Brad Hudson,REP,631
+Stone,Washington,State House,138,Write-In,,3
+Stone,Washington,State House,158,Scott Cupps,REP,
+Stone,Washington,State House,158,Brenda McKinney,DEM,
+Stone,Washington,State House,158,Write-In,,
+Stone,Williams,Registered Voters,,,,878
+Stone,Williams,Ballots Cast,,,,519
+Stone,Williams,President/Vice President,,Donald J. Trump/Michael R.,REP,422
+Stone,Williams,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,86
+Stone,Williams,President/Vice President,,Jo Jorgensen/Jeremy,LIB,6
+Stone,Williams,President/Vice President,,Howie Hawkins/Angela,GRN,2
+Stone,Williams,President/Vice President,,Don Blankenship/William,UST,0
+Stone,Williams,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Williams,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Williams,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Williams,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Williams,President/Vice President,,Write-In,,0
+Stone,Williams,Governor,,Mike Parson,REP,418
+Stone,Williams,Governor,,Nicole Galloway,DEM,87
+Stone,Williams,Governor,,Rik Combs,LIB,11
+Stone,Williams,Governor,,Jerome Howard Bauer,GRN,0
+Stone,Williams,Governor,,Arnie C. AC Dienoff,,0
+Stone,Williams,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Williams,Governor,,Martin Lindstedt,,0
+Stone,Williams,Governor,,Write-In,,0
+Stone,Williams,Lieutenant Governor,,Mike Kehoe,REP,414
+Stone,Williams,Lieutenant Governor,,Alissia Canady,DEM,78
+Stone,Williams,Lieutenant Governor,,Bill Slantz,LIB,12
+Stone,Williams,Lieutenant Governor,,Kelley Dragoo,GRN,3
+Stone,Williams,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Williams,Lieutenant Governor,,Write-In,,0
+Stone,Williams,Secretary of State,,John R. (Jay) Ashcroft,REP,414
+Stone,Williams,Secretary of State,,Yinka Faleti,DEM,82
+Stone,Williams,Secretary of State,,Carl Herman Freese,LIB,11
+Stone,Williams,Secretary of State,,Paul Lehmann,GRN,2
+Stone,Williams,Secretary of State,,Paul Venable,CST,2
+Stone,Williams,Secretary of State,,Write-In,,0
+Stone,Williams,State Treasurer,,Scott Fitzpatrick,REP,436
+Stone,Williams,State Treasurer,,Vicki Lorenz Englund,DEM,63
+Stone,Williams,State Treasurer,,Nicholas (Nick) Kasoff,LIB,9
+Stone,Williams,State Treasurer,,Joseph Civettini,GRN,2
+Stone,Williams,State Treasurer,,Write-In,,0
+Stone,Williams,Attorney General,,Eric Schmitt,REP,420
+Stone,Williams,Attorney General,,Rich Finneran,DEM,68
+Stone,Williams,Attorney General,,Kevin C. Babcock,LIB,21
+Stone,Williams,Attorney General,,Write-In,,0
+Stone,Williams,U S House,7,Billy Long,REP,416
+Stone,Williams,U S House,7,Teresa Montseny,DEM,77
+Stone,Williams,U S House,7,Kevin Craig,LIB,15
+Stone,Williams,U S House,7,Audrey Richards,,0
+Stone,Williams,U S House,7,Dennis Davis,,0
+Stone,Williams,U S House,7,Write-In,,4
+Stone,Williams,State Senate,29,Mike Moon,REP,463
+Stone,Williams,State Senate,29,Write-In,,5
+Stone,Williams,State House,138,Brad Hudson,REP,462
+Stone,Williams,State House,138,Write-In,,5
+Stone,Williams,State House,158,Scott Cupps,REP,0
+Stone,Williams,State House,158,Brenda McKinney,DEM,0
+Stone,Williams,State House,158,Write-In,,0
+Stone,Absentee,Registered Voters,,,,
+Stone,Absentee,Ballots Cast,,,,4046
+Stone,Absentee,President/Vice President,,Donald J. Trump/Michael R.,REP,2762
+Stone,Absentee,President/Vice President,,Joseph R. Biden/Kamala D.,DEM,1219
+Stone,Absentee,President/Vice President,,Jo Jorgensen/Jeremy,LIB,21
+Stone,Absentee,President/Vice President,,Howie Hawkins/Angela,GRN,3
+Stone,Absentee,President/Vice President,,Don Blankenship/William,UST,4
+Stone,Absentee,President/Vice President,,Kasey Wells/Rachel Wells,,0
+Stone,Absentee,President/Vice President,,Jade Simmons/Claudeliah J.,,0
+Stone,Absentee,President/Vice President,,Brian Carroll/Amar Patel,,0
+Stone,Absentee,President/Vice President,,Gloria LaRiva/Sunil Freeman,,0
+Stone,Absentee,President/Vice President,,Write-In,,10
+Stone,Absentee,Governor,,Mike Parson,REP,2797
+Stone,Absentee,Governor,,Nicole Galloway,DEM,1160
+Stone,Absentee,Governor,,Rik Combs,LIB,31
+Stone,Absentee,Governor,,Jerome Howard Bauer,GRN,13
+Stone,Absentee,Governor,,Arnie C. AC Dienoff,,0
+Stone,Absentee,Governor,,Theo (Ted) Brown Sr,,0
+Stone,Absentee,Governor,,Martin Lindstedt,,0
+Stone,Absentee,Governor,,Write-In,,2
+Stone,Absentee,Lieutenant Governor,,Mike Kehoe,REP,2813
+Stone,Absentee,Lieutenant Governor,,Alissia Canady,DEM,1075
+Stone,Absentee,Lieutenant Governor,,Bill Slantz,LIB,38
+Stone,Absentee,Lieutenant Governor,,Kelley Dragoo,GRN,14
+Stone,Absentee,Lieutenant Governor,,Jeremy Gundel,,0
+Stone,Absentee,Lieutenant Governor,,Write-In,,1
+Stone,Absentee,Secretary of State,,John R. (Jay) Ashcroft,REP,2923
+Stone,Absentee,Secretary of State,,Yinka Faleti,DEM,955
+Stone,Absentee,Secretary of State,,Carl Herman Freese,LIB,44
+Stone,Absentee,Secretary of State,,Paul Lehmann,GRN,17
+Stone,Absentee,Secretary of State,,Paul Venable,CST,19
+Stone,Absentee,Secretary of State,,Write-In,,0
+Stone,Absentee,State Treasurer,,Scott Fitzpatrick,REP,2851
+Stone,Absentee,State Treasurer,,Vicki Lorenz Englund,DEM,1034
+Stone,Absentee,State Treasurer,,Nicholas (Nick) Kasoff,LIB,34
+Stone,Absentee,State Treasurer,,Joseph Civettini,GRN,6
+Stone,Absentee,State Treasurer,,Write-In,,1
+Stone,Absentee,Attorney General,,Eric Schmitt,REP,2862
+Stone,Absentee,Attorney General,,Rich Finneran,DEM,1005
+Stone,Absentee,Attorney General,,Kevin C. Babcock,LIB,60
+Stone,Absentee,Attorney General,,Write-In,,1
+Stone,Absentee,U S House,7,Billy Long,REP,2742
+Stone,Absentee,U S House,7,Teresa Montseny,DEM,1044
+Stone,Absentee,U S House,7,Kevin Craig,LIB,96
+Stone,Absentee,U S House,7,Audrey Richards,,0
+Stone,Absentee,U S House,7,Dennis Davis,,0
+Stone,Absentee,U S House,7,Write-In,,57
+Stone,Absentee,State Senate,29,Mike Moon,REP,3225
+Stone,Absentee,State Senate,29,Write-In,,63
+Stone,Absentee,State House,138,Brad Hudson,REP,3260
+Stone,Absentee,State House,138,Write-In,,55
+Stone,Absentee,State House,158,Scott Cupps,REP,19
+Stone,Absentee,State House,158,Brenda McKinney,DEM,4
+Stone,Absentee,State House,158,Write-In,,0
