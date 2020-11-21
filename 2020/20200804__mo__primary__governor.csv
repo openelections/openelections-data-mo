@@ -9,7 +9,7 @@ All,Governor,All,DEM,Antoin Johnson,20254
 All,Governor,All,DEM,Eric Morrison,32403
 All,Governor,All,DEM,Robin John Daniel Van Quaethem,9481
 All,Governor,All,LIB,Rik Combs,4171
-All,Governor,All,Green,Jerome Howard Bauer,862
+All,Governor,All,GRE,Jerome Howard Bauer,862
 All,Lt. Governor  ,All,REP,Arnie C. AC Dienoff,35929
 All,Lt. Governor  ,All,REP,Mike Kehoe,362442
 All,Lt. Governor  ,All,REP,Aaron T Wisdom,52810
@@ -17,16 +17,16 @@ All,Lt. Governor  ,All,REP,Mike Carter,158914
 All,Lt. Governor  ,All,DEM,Gregory A Upchurch,133751
 All,Lt. Governor  ,All,DEM,Alissia Canady,371802
 All,Lt. Governor  ,All,LIB,Bill Slantz,4103
-All,Lt. Governor  ,All,Green,Kelley Dragoo,860
+All,Lt. Governor  ,All,GRE,Kelley Dragoo,860
 All,Secretary of State  ,All,REP,John R. (Jay) Ashcroft,620822
 All,Secretary of State  ,All,DEM,Yinka Faleti,470955
 All,Secretary of State  ,All,LIB,Carl Herman Freese,4074
-All,Secretary of State  ,All,Green,Paul Lehmann,860
-All,Secretary of State  ,All,Constitution,Paul Venable,573
+All,Secretary of State  ,All,GRE,Paul Lehmann,860
+All,Secretary of State  ,All,CON,Paul Venable,573
 All,Treasurer   ,All,REP,Scott Fitzpatrick,597408
 All,Treasurer   ,All,DEM,Vicki Lorenz Englund,473904
 All,Treasurer   ,All,LIB,Nicholas (Nick) Kasoff,4096
-All,Treasurer   ,All,Green,Joseph Civettini,852
+All,Treasurer   ,All,GRE,Joseph Civettini,852
 All,Attorney General,All,REP,"
 Eric Schmitt",602577
 All,Attorney General,All,DEM,Rich Finneran,272516
@@ -97,7 +97,7 @@ All,State Senator   ,District 5   ,DEM,Steve Roberts,12293
 All,State Senator   ,District 5   ,DEM,McFarlane E. Duncan,387
 All,State Senator  ,District 7  ,DEM,Michael R. Brown,9456
 All,State Senator  ,District 7  ,DEM,Greg Razer,21042
-All,State Senator  ,District 7  ,Green,Nathan Kline,46
+All,State Senator  ,District 7  ,GRE,Nathan Kline,46
 All,State Senator ,District 9 ,REP,"State Senator - District 9
 David Martin",2637
 All,State Senator ,District 9 ,DEM,Barbara Anne Washington,17937
@@ -220,7 +220,7 @@ All,State Representative,District 36,DEM,Mark A. Sharp,3268
 All,State Representative,District 36,DEM,Laura L. Loyacono,1832
 All,State Representative,District 37,REP,"John D. Boyd, Jr.",2110
 All,State Representative,District 37,DEM,Annette Turnbaugh,3814
-All,State Representative,District 37,Green,Daniel Karam,8
+All,State Representative,District 37,GRE,Daniel Karam,8
 All,State Representative,District 38,REP,Doug Richey,3696
 All,State Representative,District 39,REP,Peggy McGaugh,4580
 All,State Representative,District 40,REP,Chad Perkins,3853
@@ -383,7 +383,7 @@ All,State Representative,District 121,REP,Don Mayhew,4096
 All,State Representative ,District 122 ,REP,Bill Hardwick,2522
 All,State Representative ,District 122 ,DEM,Yvonne Reeves-Chong,614
 All,State Representative ,District 123 ,REP,Suzie Pollock,6205
-All,State Representative ,District 123 ,Constitution,Pat Bellew,7
+All,State Representative ,District 123 ,CON,Pat Bellew,7
 All,State Representative  ,District 124  ,REP,Lisa Thomas,2304
 All,State Representative  ,District 124  ,REP,Bernie Mowinski,252
 All,State Representative  ,District 124  ,REP,Duell Wayne Lauderdale,1401
@@ -415,7 +415,7 @@ All,State Representative,District 134,REP,Daniel Romine,994
 All,State Representative,District 134,DEM,Derrick Nowlin,2918
 All,State Representative  ,District 135  ,REP,Steve Helms,2867
 All,State Representative  ,District 135  ,DEM,Betsy Fogle,3707
-All,State Representative  ,District 135  ,Green,Vicke Kepling,31
+All,State Representative  ,District 135  ,GRE,Vicke Kepling,31
 All,State Representative ,District 136 ,REP,Craig Fishel,5131
 All,State Representative ,District 136 ,DEM,Jeff Munzinger,3617
 All,State Representative ,District 137 ,REP,John F. Black,5742
@@ -487,9 +487,9 @@ All,Circuit Judge,Circuit 26 Division 3    ,REP,Aaron Koeppen,13019
 All,Circuit Judge,Circuit 26 Division 3    ,REP,Jeffrey E. Green,7472
 All,Circuit Judge,Circuit 26 Division 3    ,REP,Richelle Christensen Grosvenor,4244
 All,Circuit Judge,Circuit 32 Division 1,REP,Scott A. Lipke,18070
-All,Circuit Judge,Circuit 36,REP,Michael Pritchett  ,8865
-All,Circuit Judge,Circuit 42 Division 2,REP,Mike Randazzo ,4654
-All,Circuit Judge,Circuit 42 Division 2,REP,Kristopher D. Crews ,1436
+All,Circuit Judge,Circuit 36,REP,Michael Pritchett,8865
+All,Circuit Judge,Circuit 42 Division 2,REP,Mike Randazzo,4654
+All,Circuit Judge,Circuit 42 Division 2,REP,Kristopher D. Crews,1436
 All,Circuit Judge,Circuit 42 Division 2,REP,Brandi L. Baird,3712
 All,Circuit Judge,Circuit 42 Division 2,REP,Stephen K. Paulus,1366
 All,Circuit Judge,Circuit 42 Division 2,REP,Christopher Piatt,1566
