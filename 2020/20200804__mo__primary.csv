@@ -1,0 +1,487 @@
+office,district,party,candidate,votes
+Governor,,REP,Raleigh Ritter,27264
+Governor,,REP,Mike Parson,511566
+Governor,,REP,James W. (Jim) Neely,59514
+Governor,,REP,Saundra McDowell,84412
+Governor,,DEM,Nicole Galloway,455203
+Governor,,DEM,Jimmie Matthews,20586
+Governor,,DEM,Antoin Johnson,20254
+Governor,,DEM,Eric Morrison,32403
+Governor,,DEM,Robin John Daniel Van Quaethem,9481
+Governor,,LIB,Rik Combs,4171
+Governor,,GRE,Jerome Howard Bauer,862
+Lt. Governor,,REP,Arnie C. AC Dienoff,35929
+Lt. Governor,,REP,Mike Kehoe,362442
+Lt. Governor,,REP,Aaron T Wisdom,52810
+Lt. Governor,,REP,Mike Carter,158914
+Lt. Governor,,DEM,Gregory A Upchurch,133751
+Lt. Governor,,DEM,Alissia Canady,371802
+Lt. Governor,,LIB,Bill Slantz,4103
+Lt. Governor,,GRE,Kelley Dragoo,860
+Secretary of State,,REP,John R. (Jay) Ashcroft,620822
+Secretary of State,,DEM,Yinka Faleti,470955
+Secretary of State,,LIB,Carl Herman Freese,4074
+Secretary of State,,GRE,Paul Lehmann,860
+Secretary of State,,CON,Paul Venable,573
+Treasurer,,REP,Scott Fitzpatrick,597408
+Treasurer,,DEM,Vicki Lorenz Englund,473904
+Treasurer,,LIB,Nicholas (Nick) Kasoff,4096
+Treasurer,,GRE,Joseph Civettini,852
+Attorney General,,REP,Eric Schmitt,602577
+Attorney General,,DEM,Rich Finneran,272516
+Attorney General,,DEM,Elad Gross,219462
+Attorney General,,LIB,Kevin C Babcock,4089
+U.S. House,1,REP,Winnie Heartstrong,4367
+U.S. House,1,REP,Anthony Rogers,6979
+U.S. House,1,DEM,Cori Bush,73274
+U.S. House,1,DEM,Lacy Clay,68887
+U.S. House,1,DEM,Katherine (Kat) Bruckner,8850
+U.S. House,1,LIB,Alex Furman,337
+U.S. House,2,REP,Ann Wagner,63686
+U.S. House,2,DEM,Jill Schupp,103164
+U.S. House,2,LIB,Martin Schulte,737
+U.S. House,3,REP,Brandon Wilkinson,15901
+U.S. House,3,REP,Adela Wisdom,3485
+U.S. House,3,REP,Blaine Luetkemeyer,80627
+U.S. House,3,REP,Jeffrey Nowak,3517
+U.S. House,3,REP,Lynette Trares,4197
+U.S. House,3,DEM,Megan Rezabek,27826
+U.S. House,3,DEM,Dennis Oglesby,13801
+U.S. House,3,LIB,Leonard J Steinman II,627
+U.S. House,4,REP,Neal Gist,24646
+U.S. House,4,REP,Vicky Hartzler,80652
+U.S. House,4,DEM,Lindsey Simmons,38339
+U.S. House,4,LIB,Robert E Smith,316
+U.S. House,4,LIB,Steven K. Koonse,357
+U.S. House,5,REP,Clay Chastain,7519
+U.S. House,5,REP,Ryan Derks,13832
+U.S. House,5,REP,Weldon (Wilbur) Woodward,2381
+U.S. House,5,REP,Richonda Oaks,1872
+U.S. House,5,REP,R H (Twin Bears) Hess,2207
+U.S. House,5,REP,Jerry W Barham,12880
+U.S. House,5,DEM,Emanuel Cleaver II,75040
+U.S. House,5,DEM,Maite Salazar,12923
+U.S. House,5,LIB,Robin Dominick,542
+U.S. House,6,REP,Sam Graves,81584
+U.S. House,6,REP,Chris Ryan,20826
+U.S. House,6,DEM,Ramona Farris,11882
+U.S. House,6,DEM,Charles West,6951
+U.S. House,6,DEM,Gena L. Ross,14503
+U.S. House,6,DEM,Henry Martin,9393
+U.S. House,6,DEM,Donald Robert Sartain,1447
+U.S. House,6,LIB,Jim Higgins,431
+U.S. House,7,REP,Eric Harleman,11696
+U.S. House,7,REP,Kevin VanStory,10486
+U.S. House,7,REP,Steve Chentnik,7407
+U.S. House,7,REP,Billy Long,69407
+U.S. House,7,REP,Camille Lombardi-Olive,5969
+U.S. House,7,DEM,Teresa Montseny,30568
+U.S. House,7,LIB,Kevin Craig,508
+U.S. House,8,REP,Jason Smith,114074
+U.S. House,8,DEM,Kathy Ellis,20354
+U.S. House,8,LIB,Tom Schmitz,265
+State Senator,1,REP,David Lenihan,7299
+State Senator,1,REP,Mitchell Kohlberg,3744
+State Senator,1,DEM,Doug Beck,26601
+State Senator,3,REP,Kent Scism,5437
+State Senator,3,REP,Joshua Barrett,9211
+State Senator,3,REP,Elaine Freeman Gannon,10646
+State Senator,5,REP,Michael Hebron,989
+State Senator,5,DEM,William C. (Bill) Haas,2068
+State Senator,5,DEM,Megan Ellyia Green,11241
+State Senator,5,DEM,Jeremiah Church,893
+State Senator,5,DEM,Michelle Sherod,7817
+State Senator,5,DEM,Steve Roberts,12293
+State Senator,5,DEM,McFarlane E. Duncan,387
+State Senator,7,DEM,Michael R. Brown,9456
+State Senator,7,DEM,Greg Razer,21042
+State Senator,7,GRE,Nathan Kline,46
+State Senator,9,REP,David Martin,2637
+State Senator,9,DEM,Barbara Anne Washington,17937
+State Senator,9,DEM,Ryan Myers,2383
+State Senator,11,DEM,John Joseph Rizzo,12012
+State Senator,13,DEM,Alan (Al) Green,6156
+State Senator,13,DEM,Tommie Pierson Jr,13219
+State Senator,13,DEM,Angela Walton Mosley,13580
+State Senator,13,LIB,Jeff Coleman,83
+State Senator,15,REP,Andrew Koenig,15519
+State Senator,15,DEM,Deb Lavender,27050
+State Senator,17,REP,Mickey Younghanz,12634
+State Senator,17,DEM,Lauren Arthur,16354
+State Senator,19,REP,Caleb Rowden,15010
+State Senator,19,DEM,Judy Baker,18623
+State Senator,21,REP,Denny Hoskins,21430
+State Senator,21,LIB,Mark Bliss,151
+State Senator,23,REP,Dan O'Connell,2737
+State Senator,23,REP,Bill Eigel,15018
+State Senator,23,REP,Eric Wulff,3310
+State Senator,23,DEM,Richard Orr,14370
+State Senator,25,REP,Jeff Shawan,5765
+State Senator,25,REP,Jason Bean,12791
+State Senator,25,REP,Eddy Justice,4920
+State Senator,25,REP,Stephen Carroll Cookson,4223
+State Senator,27,REP,Holly Rehder,16839
+State Senator,27,REP,Kathy Swan,16698
+State Senator,27,DEM,Donnie Owens,4176
+State Senator,29,REP,Mike Moon,17781
+State Senator,29,REP,David Cole,16093
+State Senator,31,REP,Jack Bondon,12467
+State Senator,31,REP,Rick Brattin,14012
+State Senator,31,REP,Bill Yarberry,1774
+State Senator,31,DEM,Raymond Kinney,7971
+State Senator,33,REP,Robert Ross,12562
+State Senator,33,REP,Karla Eslinger,12704
+State Senator,33,REP,Van Kelly,8958
+State Senator,33,DEM,Tammy Harty,3274
+State Representative,1,REP,Allen Andrews,6023
+State Representative,2,REP,J. Eggleston,6071
+State Representative,2,DEM,Mindi Smith,802
+State Representative,3,REP,Danny Busick,4589
+State Representative,4,REP,Greg Sharpe,4530
+State Representative,5,REP,Louis Riggs,4825
+State Representative,6,REP,Ed Lewis,5041
+State Representative,6,DEM,Terrence Fiala,1328
+State Representative,7,REP,Rusty Black,6537
+State Representative,8,REP,Gary Stroud,369
+State Representative,8,REP,Darlene Breckenridge,1096
+State Representative,8,REP,Randy Railsback,2959
+State Representative,8,REP,David Woody,2214
+State Representative,9,REP,Dean VanSchoiack,4046
+State Representative,9,REP,Tina Goodrick,3075
+State Representative,9,DEM,Karen Planalp,1690
+State Representative,10,REP,Bill Falkner,2384
+State Representative,10,DEM,Colby Murphy,1514
+State Representative,11,REP,Brenda Shields,3918
+State Representative,11,DEM,Brady Lee ODell,1747
+State Representative,12,REP,Josh Hurlbert,3710
+State Representative,12,REP,Deannette Lemons,796
+State Representative,12,DEM,Wade Hugh Kiefer,2594
+State Representative,13,REP,Vic Allred,3927
+State Representative,13,DEM,Vic Abundis,3578
+State Representative,14,REP,Eric Holmes,3113
+State Representative,14,DEM,Ashley Aune,4224
+State Representative,15,REP,Adam Richardson,1281
+State Representative,15,REP,Steve West,1342
+State Representative,15,DEM,Maggie Nurrenbern,3489
+State Representative,16,REP,Chris Brown,3664
+State Representative,16,DEM,James Shackelford,3693
+State Representative,17,REP,Brandt Vircks,2718
+State Representative,17,DEM,Mark Ellebracht,3057
+State Representative,18,DEM,Wes Rogers,3630
+State Representative,19,DEM,Ingrid Burnett,892
+State Representative,19,DEM,Nicholas (Wick) Thomas,544
+State Representative,19,DEM,Phyllis Hardwick,779
+State Representative,20,REP,Bill E. Kidd,2697
+State Representative,20,DEM,Mike Englert,2256
+State Representative,21,REP,Vicki Riley,2155
+State Representative,21,DEM,Robert Sauls,2519
+State Representative,22,DEM,Yolanda Young,2836
+State Representative,22,DEM,Kevon Graves,647
+State Representative,22,DEM,Bryce Bradford,258
+State Representative,22,DEM,Sheoni Givens,136
+State Representative,22,DEM,Jeff Francis,317
+State Representative,23,DEM,Michael L. Johnson,1810
+State Representative,23,DEM,Derron Black,1473
+State Representative,24,DEM,Emily Weber,5850
+State Representative,24,DEM,Connor Nowalk,1762
+State Representative,24,DEM,Sammie Arnold,769
+State Representative,24,LIB,Andrew Miller,33
+State Representative,25,DEM,Drew Rogers,2575
+State Representative,25,DEM,Patty Lewis,7100
+State Representative,25,DEM,Josh Swafford,157
+State Representative,26,DEM,Ashley Bland Manlove,5158
+State Representative,26,DEM,Jamie T. Braden,1146
+State Representative,27,DEM,Richard Brown,3984
+State Representative,28,DEM,Jerome Barnes,3969
+State Representative,29,DEM,Rory Rowland,3790
+State Representative,30,REP,Jon Patterson,3269
+State Representative,30,DEM,Art Schaaf,3898
+State Representative,31,REP,Dan Stacy,2783
+State Representative,31,REP,Ronie Swinton,338
+State Representative,31,DEM,Rhonda R Dolan,2484
+State Representative,31,DEM,Jamar Buford,634
+State Representative,32,REP,Jeff Coleman,3196
+State Representative,33,REP,Chris Sander,3602
+State Representative,33,REP,Alex Holt,1139
+State Representative,34,REP,Rick Roeber,2697
+State Representative,34,DEM,Chris Hager,3190
+State Representative,35,REP,Sean Smith,2607
+State Representative,35,DEM,Keri Ingle,4275
+State Representative,36,REP,Nola Wood,1376
+State Representative,36,DEM,Mark A. Sharp,3268
+State Representative,36,DEM,Laura L. Loyacono,1832
+State Representative,37,REP,"John D. Boyd, Jr.",2110
+State Representative,37,DEM,Annette Turnbaugh,3814
+State Representative,37,GRE,Daniel Karam,8
+State Representative,38,REP,Doug Richey,3696
+State Representative,39,REP,Peggy McGaugh,4580
+State Representative,40,REP,Chad Perkins,3853
+State Representative,40,REP,Heather Dodd,1488
+State Representative,40,REP,Ron Staggs,1575
+State Representative,40,REP,Woodrow Polston,294
+State Representative,40,REP,Thomas R. (Tommy) Schultz,400
+State Representative,41,REP,Randy Pietzman,6709
+State Representative,42,REP,Jeff Porter,6610
+State Representative,43,REP,Kent Haden,3757
+State Representative,44,REP,Cheri Toalson Reisch,2956
+State Representative,44,DEM,Jacque Sample,2605
+State Representative,45,DEM,Kip Kendrick,2969
+State Representative,46,DEM,Martha Stevens,6103
+State Representative,47,REP,Charles (Chuck) Basye,3340
+State Representative,47,DEM,Adrian Plank,3146
+State Representative,48,REP,Tim Taylor,3874
+State Representative,48,REP,Don (Donnie) Baragary,1913
+State Representative,48,DEM,William (Bill) Betteridge,1572
+State Representative,49,REP,Travis Fitzwater,4244
+State Representative,50,REP,Sara Walsh,5098
+State Representative,50,DEM,Kari L. Chesney,3464
+State Representative,51,REP,Kurtis Gregory,3593
+State Representative,51,LIB,William Truman (Bill) Wayne,35
+State Representative,52,REP,Bradley Pollitt,4096
+State Representative,53,REP,Terry Thompson,4527
+State Representative,53,DEM,Connie Simmons,1362
+State Representative,53,DEM,Ron Fauss,606
+State Representative,53,LIB,Cameron Pack,15
+State Representative,54,REP,Dan Houx,4360
+State Representative,54,DEM,James Williams,1572
+State Representative,55,REP,Mike Haffner,5325
+State Representative,56,REP,Michael Davis,2270
+State Representative,56,REP,Chip Anderson,1394
+State Representative,56,REP,John Webb,1077
+State Representative,56,DEM,Neal Barnes,2011
+State Representative,57,REP,Rodger L. Reedy,5090
+State Representative,58,REP,Willard Haley,3853
+State Representative,58,REP,Timothy T. Faber,1870
+State Representative,59,REP,Rudy Veit,6559
+State Representative,60,REP,Dave Griffith,5334
+State Representative,60,DEM,Joshua Dunne,2058
+State Representative,61,REP,Aaron D. Griesheimer,5492
+State Representative,62,REP,Chris Beyer,1924
+State Representative,62,REP,Bruce Sassmann,3161
+State Representative,62,REP,Tom Reed,2708
+State Representative,62,DEM,Nancy J. Ragan,993
+State Representative,63,REP,Richard W West,3748
+State Representative,63,REP,Dale Schaper,2011
+State Representative,64,REP,Tony Lovasco,4575
+State Representative,64,DEM,Aaliyah Bailey,1457
+State Representative,64,DEM,Michael Howard,871
+State Representative,65,REP,Tom Hannegan,3665
+State Representative,65,DEM,Bill Otto,3090
+State Representative,66,DEM,Marlene Terry,3551
+State Representative,66,DEM,Troy A Jefferson,1286
+State Representative,66,DEM,Thomas (Tommie) Gary Bradley,748
+State Representative,67,DEM,Aaron Craig,4393
+State Representative,67,DEM,Neil Smith,4953
+State Representative,68,DEM,Jay Mosley,4611
+State Representative,68,DEM,Mike Moehlenkamp,2144
+State Representative,69,REP,Scott E. Cazadd,1329
+State Representative,69,DEM,Gretchen Bangert,5421
+State Representative,70,REP,Jerry Adzima,2551
+State Representative,70,DEM,Paula Brown,4508
+State Representative,71,DEM,Boris Abadzhyan,1048
+State Representative,71,DEM,LaDonna Appelbaum,5269
+State Representative,72,REP,Darren L. Grant,1725
+State Representative,72,DEM,Doug Clemens,4289
+State Representative,73,DEM,Raychel C Proudie,4226
+State Representative,74,DEM,Gary Johnson,1454
+State Representative,74,DEM,Yolonda (Yonnee) Fortson,1807
+State Representative,74,DEM,Mike Person,1944
+State Representative,75,DEM,Alan Gray,3975
+State Representative,75,DEM,Teona McGhaw-Boure`,2715
+State Representative,76,DEM,Chris Carter,3410
+State Representative,76,DEM,Marlon Anderson,3452
+State Representative,77,DEM,Darryl Gray,2798
+State Representative,77,DEM,Kimberly-Ann Collins,4374
+State Representative,78,REP,Timothy Gartin,180
+State Representative,78,DEM,Rasheen Aldridge Jr,5578
+State Representative,79,DEM,LaKeySha Bosley,7653
+State Representative,80,DEM,Peter Merideth,8907
+State Representative,81,DEM,Steve Butz,5606
+State Representative,82,REP,Robert J. Crump,721
+State Representative,82,DEM,Donna M.C. Baringer,9282
+State Representative,83,DEM,Tyler Merkel,3385
+State Representative,83,DEM,Jo Doll,5412
+State Representative,83,LIB,Andrew Bolin,41
+State Representative,84,DEM,Wiley (Chip) Price IV,6745
+State Representative,85,DEM,Kevin Windham Jr.,5640
+State Representative,86,DEM,Joe Adams,7558
+State Representative,87,DEM,Ian Mackey,7444
+State Representative,88,REP,Karan Pujji,1637
+State Representative,88,DEM,Tracy McCreery,7413
+State Representative,88,LIB,Stephen R. Johnson,31
+State Representative,89,REP,Dean Plocher,3410
+State Representative,89,DEM,Luke Barber,5715
+State Representative,90,REP,Rick Perry,2259
+State Representative,90,DEM,Barbara Phifer,7544
+State Representative,91,DEM,Sarah Unsicker,8471
+State Representative,92,REP,Bill Heisse,2165
+State Representative,92,DEM,Michael Burton,5319
+State Representative,93,REP,Gabriel Jones,1653
+State Representative,93,DEM,Bridget Walsh Moore,3781
+State Representative,94,REP,Jim Murphy,2578
+State Representative,94,DEM,Jean Pretto,4107
+State Representative,95,REP,Michael A. O'Donnell,3338
+State Representative,95,DEM,Ann L Zimpfer,4600
+State Representative,96,REP,David J Gregory,3909
+State Representative,96,DEM,Erica Hoffman,5106
+State Representative,97,REP,Mary Elizabeth Coleman,3148
+State Representative,98,REP,Shamed Dogan,2258
+State Representative,98,REP,Brant Harber,1194
+State Representative,98,DEM,Angie Schaefer,4432
+State Representative,99,REP,Lee Ann Pitman,2218
+State Representative,99,REP,"Vince (John) Moreland, Jr.",475
+State Representative,99,DEM,Trish Gunby,5068
+State Representative,100,REP,Derek Grier,3511
+State Representative,100,DEM,Helena Webb,5336
+State Representative,101,REP,Bruce DeGroot,3263
+State Representative,102,REP,Ron Hicks,3715
+State Representative,102,DEM,Tracy Grundy,2587
+State Representative,103,REP,John D. Wiemann,4239
+State Representative,103,DEM,Lisa Rees,2641
+State Representative,104,REP,Adam Schnelting,3484
+State Representative,104,DEM,Jessica DeVoto,2795
+State Representative,105,REP,Phil Christofanelli,4012
+State Representative,105,DEM,Christine Hyman,3223
+State Representative,106,REP,Adam Schwadron,3067
+State Representative,106,DEM,Cindy Berne,2842
+State Representative,107,REP,Nick Schroer,3465
+State Representative,107,DEM,Victoria Witt Datt,2526
+State Representative,107,LIB,Mike Copeland,52
+State Representative,108,REP,Justin S. Hill,4143
+State Representative,108,DEM,Susan Shumway,2566
+State Representative,109,REP,John Simmons,4277
+State Representative,110,REP,Dottie Bailey,3376
+State Representative,110,DEM,John Kiehne,3585
+State Representative,111,REP,Shane Roden,3903
+State Representative,111,DEM,Daniel (Vern) Cherry,1985
+State Representative,112,REP,Rob Vescovo,3201
+State Representative,112,REP,Chad Bicknell,860
+State Representative,113,REP,Dan Shaul,3205
+State Representative,113,DEM,Terry Burgess,2099
+State Representative,114,REP,Becky Ruth,3683
+State Representative,115,REP,Cyndi Buchheit-Courtway,2399
+State Representative,115,REP,Marvin Fricke,467
+State Representative,115,REP,Ryan Jones,1719
+State Representative,115,DEM,Cynthia D Nugent,1510
+State Representative,116,REP,Bryant Wolfin,2670
+State Representative,116,REP,Dale Wright,3779
+State Representative,117,REP,Mike Henderson,4300
+State Representative,117,DEM,Tony Dorsett,1031
+State Representative,118,REP,Mike McGirl,4331
+State Representative,119,REP,Nate Tate,3644
+State Representative,120,REP,Jason Chipman,5454
+State Representative,120,DEM,Theresa Schmitt,1069
+State Representative,121,REP,Don Mayhew,4096
+State Representative,122,REP,Bill Hardwick,2522
+State Representative,122,DEM,Yvonne Reeves-Chong,614
+State Representative,123,REP,Suzie Pollock,6205
+State Representative,123,CON,Pat Bellew,7
+State Representative,124,REP,Lisa Thomas,2304
+State Representative,124,REP,Bernie Mowinski,252
+State Representative,124,REP,Duell Wayne Lauderdale,1401
+State Representative,124,REP,Benny Earl Thomas,1944
+State Representative,124,REP,Luke A. Hagedorn,1515
+State Representative,125,REP,Jim Kalberloh,4184
+State Representative,125,REP,Nick Allison,3007
+State Representative,126,REP,Stephen Biles,1431
+State Representative,126,REP,Patricia Pike,5007
+State Representative,126,DEM,Jim Hogan,1260
+State Representative,127,REP,Ann Kelley,6949
+State Representative,128,REP,Mike Stephens,6008
+State Representative,128,DEM,Marvin Manring,944
+State Representative,129,REP,Jeff Knight,5632
+State Representative,129,DEM,Dewanna (Dee) Marquez,778
+State Representative,130,REP,Bishop Davidson,2868
+State Representative,130,REP,Macy Mitchell,2704
+State Representative,130,REP,Sam Snider,747
+State Representative,130,DEM,Dave Gragg,1429
+State Representative,131,REP,Bill Owen,3088
+State Representative,131,REP,Stephanos Freeman,509
+State Representative,131,DEM,Allison Schoolcraft,1567
+State Representative,132,REP,Sarah Semple,1168
+State Representative,132,DEM,Crystal Quade,2028
+State Representative,133,REP,Curtis D. Trent,4206
+State Representative,133,DEM,Cindy Slimp,2264
+State Representative,134,REP,Alex Riley,2404
+State Representative,134,REP,Daniel Romine,994
+State Representative,134,DEM,Derrick Nowlin,2918
+State Representative,135,REP,Steve Helms,2867
+State Representative,135,DEM,Betsy Fogle,3707
+State Representative,135,GRE,Vicke Kepling,31
+State Representative,136,REP,Craig Fishel,5131
+State Representative,136,DEM,Jeff Munzinger,3617
+State Representative,137,REP,John F. Black,5742
+State Representative,137,DEM,Raymond Lampert,1553
+State Representative,138,REP,Brad Hudson,7094
+State Representative,139,REP,Jered Taylor,4777
+State Representative,139,DEM,Darlene Graham,1385
+State Representative,140,REP,Jamie Ray Gragg,1143
+State Representative,140,REP,Jason N. Shaffer,1626
+State Representative,140,REP,Tricia Derges,2018
+State Representative,140,REP,Jeff Parnell,1879
+State Representative,141,REP,Hannah S. Kelly,6476
+State Representative,142,REP,Terry Brown,2821
+State Representative,142,REP,David J. Giarratano,297
+State Representative,142,REP,Bennie Cook,3102
+State Representative,143,REP,Jack Bates,601
+State Representative,143,REP,William R. Parsons,496
+State Representative,143,REP,Jaret Holden,1609
+State Representative,143,REP,Ron Copeland,3631
+State Representative,143,REP,Frank DeVenuto,1769
+State Representative,144,REP,Chris Dinkins,5512
+State Representative,145,REP,Rick Francis,6335
+State Representative,145,DEM,Mike Lindley,762
+State Representative,146,REP,Barry D. Hovis,7900
+State Representative,147,REP,John Voss,2609
+State Representative,147,REP,Wayne Wallingford,2801
+State Representative,147,DEM,Andy Leighton,1394
+State Representative,148,REP,Will Perry,3435
+State Representative,148,REP,Jamie Burger,4175
+State Representative,149,REP,Don Rone,3652
+State Representative,150,REP,Andrew McDaniel,2424
+State Representative,150,REP,Jeff McCormick,1553
+State Representative,151,REP,Herman Morse,6701
+State Representative,152,REP,Hardy Billington,4906
+State Representative,153,REP,Larry Kimbrow,2602
+State Representative,153,REP,Jack (Skip) Johnson,1235
+State Representative,153,REP,Darrell Atchison,3615
+State Representative,154,REP,David Paul Evans,5892
+State Representative,155,REP,Joe Combs,3761
+State Representative,155,REP,Travis Smith,5486
+State Representative,155,DEM,Mike Lind,585
+State Representative,156,REP,Karen Best,2989
+State Representative,156,REP,Brian H. Seitz,3474
+State Representative,156,DEM,Dale Speelman,766
+State Representative,157,REP,Nathan Bowen,1625
+State Representative,157,REP,Wally Long,2372
+State Representative,157,REP,Mitch Boggs,2656
+State Representative,158,REP,Scott Cupps,5979
+State Representative,158,DEM,Brenda McKinney,741
+State Representative,159,REP,Mark Bartley,1344
+State Representative,159,REP,Dirk Deaton,4313
+State Representative,160,REP,Ben Baker,4974
+State Representative,160,DEM,Angela Thomas,955
+State Representative,161,REP,Lane Roberts,3111
+State Representative,161,DEM,Elizabeth Lundstrum,1409
+State Representative,162,REP,Bob Bromley,3500
+State Representative,163,REP,Cody Smith,3764
+State Representative,163,DEM,Aaron Hailey,822
+Circuit Judge,Circuit 11 Division 1,REP,Rebeca McKelvey,20992
+Circuit Judge,Circuit 11 Division 1,REP,Matthew Thornhill,20271
+Circuit Judge,Circuit 13 Division 4,REP,Josh Devine,16234
+Circuit Judge,Circuit 13 Division 4,DEM,Andy Hirth,18822
+Circuit Judge,Circuit 19 Division 2,REP,David G. Bandr,3783
+Circuit Judge,Circuit 19 Division 2,REP,Daniel Green,10178
+Circuit Judge,Circuit 19 Division 3,REP,Cotton Walker,10418
+Circuit Judge,Circuit 19 Division 3,REP,Mark Richardson,3948
+Circuit Judge,Circuit 23 Division 2,REP,Darrell Missey,21737
+Circuit Judge,Circuit 26 Division 3,REP,Aaron Koeppen,13019
+Circuit Judge,Circuit 26 Division 3,REP,Jeffrey E. Green,7472
+Circuit Judge,Circuit 26 Division 3,REP,Richelle Christensen Grosvenor,4244
+Circuit Judge,Circuit 32 Division 1,REP,Scott A. Lipke,18070
+Circuit Judge,Circuit 36,REP,Michael Pritchett,8865
+Circuit Judge,Circuit 42 Division 2,REP,Mike Randazzo,4654
+Circuit Judge,Circuit 42 Division 2,REP,Kristopher D. Crews,1436
+Circuit Judge,Circuit 42 Division 2,REP,Brandi L. Baird,3712
+Circuit Judge,Circuit 42 Division 2,REP,Stephen K. Paulus,1366
+Circuit Judge,Circuit 42 Division 2,REP,Christopher Piatt,1566
