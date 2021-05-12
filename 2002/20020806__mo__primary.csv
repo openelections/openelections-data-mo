@@ -212,8 +212,8 @@ BOLLINGER,U.S. House,8,REP,"Emerson, Jo Ann",1621
 BOLLINGER,U.S. House,8,REP,"Kline, Richard Allen",187
 BOLLINGER,U.S. House,8,LIB,"Van Oostrom, Eric",7
 BOLLINGER,State House,156,REP,"Jetton, Rodney (Rod)",1515
-BOLLINGER,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",1143
-BOLLINGER,Circuit Judge  Circuit 32 Division 1,,REP,"Keller, Bryan",508
+BOLLINGER,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",1143
+BOLLINGER,Circuit Judge Circuit 32 Division 1,,REP,"Keller, Bryan",508
 BOONE,U.S. Senate,,DEM,"Carnahan, Jean",10752
 BOONE,U.S. Senate,,DEM,"Day, Darrel D.",1302
 BOONE,U.S. Senate,,REP,"May, Joseph A.",272
@@ -306,8 +306,8 @@ BUTLER,State House,153,REP,"Dethrow, Mike",81
 BUTLER,State House,163,DEM,"Robinson, Brent",112
 BUTLER,State House,163,REP,"Steward, Curtis W.",132
 BUTLER,State House,163,REP,"Bean, Otto Jr.",133
-BUTLER,Circuit Judge  Circuit 36,,DEM,"Smith, Robert L.",795
-BUTLER,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",3789
+BUTLER,Circuit Judge Circuit 36,,DEM,"Smith, Robert L.",795
+BUTLER,Circuit Judge Circuit 36,,REP,"Richardson, Mark L.",3789
 CALDWELL,U.S. Senate,,DEM,"Carnahan, Jean",496
 CALDWELL,U.S. Senate,,DEM,"Day, Darrel D.",69
 CALDWELL,U.S. Senate,,REP,"May, Joseph A.",96
@@ -422,8 +422,8 @@ CAPE GIRARDEAU,State House,160,DEM,"Kiefer, Donnie",32
 CAPE GIRARDEAU,State House,160,REP,"Myers, Peter",138
 CAPE GIRARDEAU,State House,161,DEM,"Petitt, Wayne",0
 CAPE GIRARDEAU,State House,161,REP,"Black, Lanie",0
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",6573
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 1,,REP,"Keller, Bryan",2980
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",6573
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 1,,REP,"Keller, Bryan",2980
 CARROLL,U.S. Senate,,DEM,"Carnahan, Jean",591
 CARROLL,U.S. Senate,,DEM,"Day, Darrel D.",86
 CARROLL,U.S. Senate,,REP,"May, Joseph A.",33
@@ -685,9 +685,9 @@ COLE,State House,114,REP,"Deeken, Bill",3253
 COLE,State House,114,REP,"Walker, James (Jimmy)",332
 COLE,State House,115,DEM,"Bonar, Ronald C.",288
 COLE,State House,115,REP,"Luetkemeyer, Blaine",397
-COLE,Circuit Judge  Circuit 19 Division 2,,DEM,"Callahan, Richard G.",5424
-COLE,Circuit Judge  Circuit 19 Division 2,,DEM,"Hendricks, C.",3762
-COLE,Circuit Judge  Circuit 19 Division 4,,DEM,"Joyce, Pat",7639
+COLE,Circuit Judge Circuit 19 Division 2,,DEM,"Callahan, Richard G.",5424
+COLE,Circuit Judge Circuit 19 Division 2,,DEM,"Hendricks, C.",3762
+COLE,Circuit Judge Circuit 19 Division 4,,DEM,"Joyce, Pat",7639
 COOPER,U.S. Senate,,DEM,"Carnahan, Jean",706
 COOPER,U.S. Senate,,DEM,"Day, Darrel D.",117
 COOPER,U.S. Senate,,REP,"May, Joseph A.",78
@@ -732,7 +732,7 @@ CRAWFORD,State House,111,REP,"Schlottach, Charles W.",157
 CRAWFORD,State House,111,REP,"Hardy, J. T.",276
 CRAWFORD,State House,150,DEM,"Barnitz, Frank A.",743
 CRAWFORD,State House,150,REP,"Leonard, Gary M.",947
-CRAWFORD,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",888
+CRAWFORD,Circuit Judge Circuit 42 Division 2,,DEM,"Price, J. Max",888
 DADE,U.S. Senate,,DEM,"Carnahan, Jean",150
 DADE,U.S. Senate,,DEM,"Day, Darrel D.",21
 DADE,U.S. Senate,,REP,"May, Joseph A.",106
@@ -851,7 +851,7 @@ DENT,State Senate,16,DEM,"Ichord, Clara",956
 DENT,State Senate,16,REP,"Steelman, Sarah",1473
 DENT,State House,150,DEM,"Barnitz, Frank A.",1158
 DENT,State House,150,REP,"Leonard, Gary M.",1369
-DENT,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1119
+DENT,Circuit Judge Circuit 42 Division 2,,DEM,"Price, J. Max",1119
 DOUGLAS,U.S. Senate,,DEM,"Carnahan, Jean",153
 DOUGLAS,U.S. Senate,,DEM,"Day, Darrel D.",32
 DOUGLAS,U.S. Senate,,REP,"May, Joseph A.",120
@@ -1028,7 +1028,7 @@ GREENE,State House,145,DEM,"Wommack, Ken G.",68
 GREENE,State House,145,REP,"Myers, Martha",36
 GREENE,State House,145,REP,"Cunningham, Mike",176
 GREENE,State House,145,REP,"Mackie, Keith R.",80
-GREENE,Circuit Judge  Circuit 31 Division 2,,REP,"Sweeney, J. Miles",18457
+GREENE,Circuit Judge Circuit 31 Division 2,,REP,"Sweeney, J. Miles",18457
 GRUNDY,U.S. Senate,,DEM,"Carnahan, Jean",351
 GRUNDY,U.S. Senate,,DEM,"Day, Darrel D.",58
 GRUNDY,U.S. Senate,,REP,"May, Joseph A.",105
@@ -1219,7 +1219,7 @@ IRON,State House,152,DEM,"Weber, Winnie P. Faulkenberry",177
 IRON,State House,152,REP,"Dennison, Gale",109
 IRON,State House,152,REP,"Masters, Roy L.",115
 IRON,State House,152,LIB,"Mecey, David F.",3
-IRON,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1498
+IRON,Circuit Judge Circuit 42 Division 2,,DEM,"Price, J. Max",1498
 JACKSON,U.S. Senate,,DEM,"Carnahan, Jean",20553
 JACKSON,U.S. Senate,,DEM,"Day, Darrel D.",2695
 JACKSON,U.S. Senate,,REP,"May, Joseph A.",1387
@@ -1365,7 +1365,7 @@ JEFFERSON,State House,110,DEM,"Harris, Belinda",1158
 JEFFERSON,State House,110,DEM,"Saunders, John",168
 JEFFERSON,State House,110,DEM,"Roland, Frank A. Jr.",899
 JEFFERSON,State House,110,REP,"Sayers, Connie",493
-JEFFERSON,Circuit Judge  Circuit 23 Division 2,,DEM,"Kramer, Gary P.",11488
+JEFFERSON,Circuit Judge Circuit 23 Division 2,,DEM,"Kramer, Gary P.",11488
 JOHNSON,U.S. Senate,,DEM,"Carnahan, Jean",2429
 JOHNSON,U.S. Senate,,DEM,"Day, Darrel D.",410
 JOHNSON,U.S. Senate,,REP,"May, Joseph A.",124
@@ -2100,8 +2100,8 @@ PERRY,State House,157,REP,"Adams, Gerald",240
 PERRY,State House,157,REP,"Sachse, Tom",518
 PERRY,State House,157,REP,"Lipke, Scott A.",298
 PERRY,State House,157,LIB,"Doubledee, Timothy",2
-PERRY,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",1886
-PERRY,Circuit Judge  Circuit 32 Division 1,,REP,"Keller, Bryan",1317
+PERRY,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",1886
+PERRY,Circuit Judge Circuit 32 Division 1,,REP,"Keller, Bryan",1317
 PETTIS,U.S. Senate,,DEM,"Carnahan, Jean",1528
 PETTIS,U.S. Senate,,DEM,"Day, Darrel D.",267
 PETTIS,U.S. Senate,,REP,"May, Joseph A.",283
@@ -2381,7 +2381,7 @@ REYNOLDS,State House,152,DEM,"Weber, Winnie P. Faulkenberry",280
 REYNOLDS,State House,152,REP,"Dennison, Gale",33
 REYNOLDS,State House,152,REP,"Masters, Roy L.",57
 REYNOLDS,State House,152,LIB,"Mecey, David F.",0
-REYNOLDS,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1499
+REYNOLDS,Circuit Judge Circuit 42 Division 2,,DEM,"Price, J. Max",1499
 RIPLEY,U.S. Senate,,DEM,"Carnahan, Jean",990
 RIPLEY,U.S. Senate,,DEM,"Day, Darrel D.",287
 RIPLEY,U.S. Senate,,REP,"May, Joseph A.",74
@@ -2402,8 +2402,8 @@ RIPLEY,U.S. House,8,LIB,"Van Oostrom, Eric",5
 RIPLEY,State House,153,DEM,"Jackson, Larry",1046
 RIPLEY,State House,153,REP,"Slayton, Tim",860
 RIPLEY,State House,153,REP,"Dethrow, Mike",454
-RIPLEY,Circuit Judge  Circuit 36,,DEM,"Smith, Robert L.",869
-RIPLEY,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",949
+RIPLEY,Circuit Judge Circuit 36,,DEM,"Smith, Robert L.",869
+RIPLEY,Circuit Judge Circuit 36,,REP,"Richardson, Mark L.",949
 SALINE,U.S. Senate,,DEM,"Carnahan, Jean",3711
 SALINE,U.S. Senate,,DEM,"Day, Darrel D.",1233
 SALINE,U.S. Senate,,REP,"May, Joseph A.",16
@@ -2585,7 +2585,7 @@ ST CHARLES,State House,19,REP,"Field, Marilyn",657
 ST CHARLES,State House,19,REP,"Haynes, Mark",389
 ST CHARLES,State House,109,DEM,"Scott, Gene",418
 ST CHARLES,State House,109,REP,"Threlkeld, Kevin",925
-ST CHARLES,Circuit Judge  Circuit 11 Division 1,,REP,"Ehlmann, Steve",21175
+ST CHARLES,Circuit Judge Circuit 11 Division 1,,REP,"Ehlmann, Steve",21175
 ST CLAIR,U.S. Senate,,DEM,"Carnahan, Jean",979
 ST CLAIR,U.S. Senate,,DEM,"Day, Darrel D.",249
 ST CLAIR,U.S. Senate,,REP,"May, Joseph A.",56
@@ -3068,7 +3068,7 @@ WAYNE,State House,153,REP,"Slayton, Tim",97
 WAYNE,State House,153,REP,"Dethrow, Mike",39
 WAYNE,State House,156,REP,"Jetton, Rodney (Rod)",788
 WAYNE,State House,159,REP,"Mayer, Robert (Rob)",72
-WAYNE,Circuit Judge  Circuit 42 Division 2,,DEM,"Price, J. Max",1012
+WAYNE,Circuit Judge Circuit 42 Division 2,,DEM,"Price, J. Max",1012
 WEBSTER,U.S. Senate,,DEM,"Carnahan, Jean",825
 WEBSTER,U.S. Senate,,DEM,"Day, Darrel D.",141
 WEBSTER,U.S. Senate,,REP,"May, Joseph A.",339

@@ -24,8 +24,8 @@ ADAIR,State House,1,REP,"Munzlinger, Brian",1
 ADAIR,State House,1,DEM,"Hicks, Beau J.",5
 ADAIR,State House,2,REP,"Summers, Nancy",865
 ADAIR,State House,2,DEM,"McClanahan, Rebecca",903
-ADAIR,Circuit Judge  Circuit 2,,REP,"Hensley, Tom",763
-ADAIR,Circuit Judge  Circuit 2,,DEM,"Steele, Russell E.",928
+ADAIR,Circuit Judge Circuit 2,,REP,"Hensley, Tom",763
+ADAIR,Circuit Judge Circuit 2,,DEM,"Steele, Russell E.",928
 ANDREW,U.S. Senate,,REP,"Hair, Isaiah Jr",26
 ANDREW,U.S. Senate,,REP,"Talent, Jim",1344
 ANDREW,U.S. Senate,,REP,"Lea, Joyce P.",52
@@ -49,10 +49,10 @@ ANDREW,State Senate,12,REP,"Lager, Brad",1282
 ANDREW,State Senate,12,DEM,"Neely, James W. (Jim)",686
 ANDREW,State House,28,REP,"Schaaf, Rob",1376
 ANDREW,State House,28,DEM,"Mejia, David",705
-ANDREW,Circuit Judge  Circuit 5 Division 1,,REP,"Jackson, Randall R.",1334
-ANDREW,Circuit Judge  Circuit 5 Division 3,,DEM,"Robb, Patrick K.",587
-ANDREW,Circuit Judge  Circuit 5 Division 3,,DEM,"Radke, Daniel L",320
-ANDREW,Circuit Judge  Circuit 5 Division 4,,DEM,"Kellogg, Daniel F.",778
+ANDREW,Circuit Judge Circuit 5 Division 1,,REP,"Jackson, Randall R.",1334
+ANDREW,Circuit Judge Circuit 5 Division 3,,DEM,"Robb, Patrick K.",587
+ANDREW,Circuit Judge Circuit 5 Division 3,,DEM,"Radke, Daniel L",320
+ANDREW,Circuit Judge Circuit 5 Division 4,,DEM,"Kellogg, Daniel F.",778
 ATCHISON,U.S. Senate,,REP,"Hair, Isaiah Jr",6
 ATCHISON,U.S. Senate,,REP,"Talent, Jim",380
 ATCHISON,U.S. Senate,,REP,"Lea, Joyce P.",8
@@ -76,7 +76,7 @@ ATCHISON,State Senate,12,REP,"Lager, Brad",401
 ATCHISON,State Senate,12,DEM,"Neely, James W. (Jim)",250
 ATCHISON,State House,4,REP,"Thomson, Mike",375
 ATCHISON,State House,4,DEM,"Oswald, Richard R.",285
-ATCHISON,Circuit Judge  Circuit 4,,REP,"Prokes, Roger M.",390
+ATCHISON,Circuit Judge Circuit 4,,REP,"Prokes, Roger M.",390
 AUDRAIN,U.S. Senate,,REP,"Hair, Isaiah Jr",4
 AUDRAIN,U.S. Senate,,REP,"Talent, Jim",640
 AUDRAIN,U.S. Senate,,REP,"Lea, Joyce P.",13
@@ -105,7 +105,7 @@ AUDRAIN,State House,10,REP,"Swarnes, John W.",102
 AUDRAIN,State House,10,DEM,"Witte, Terry L.",527
 AUDRAIN,State House,21,REP,"Hobbs, Steve",484
 AUDRAIN,State House,21,DEM,"Elkin, Skip",1313
-AUDRAIN,Circuit Judge  Circuit 12,,REP,"Sutherland, Keith M.",565
+AUDRAIN,Circuit Judge Circuit 12,,REP,"Sutherland, Keith M.",565
 BARRY,U.S. Senate,,REP,"Hair, Isaiah Jr",33
 BARRY,U.S. Senate,,REP,"Talent, Jim",1881
 BARRY,U.S. Senate,,REP,"Lea, Joyce P.",72
@@ -132,7 +132,7 @@ BARRY,U.S. House,7,DEM,"Truman, Jack",361
 BARRY,U.S. House,7,LIB,"Craig, Kevin",6
 BARRY,State House,68,REP,"Sater, David",1889
 BARRY,State House,68,DEM,"Wells, Adam",679
-BARRY,Circuit Judge  Circuit 39,,REP,"Wiley, Robert S.",1745
+BARRY,Circuit Judge Circuit 39,,REP,"Wiley, Robert S.",1745
 BARTON,U.S. Senate,,REP,"Hair, Isaiah Jr",40
 BARTON,U.S. Senate,,REP,"Talent, Jim",1968
 BARTON,U.S. Senate,,REP,"Lea, Joyce P.",92
@@ -158,7 +158,7 @@ BARTON,U.S. House,4,LIB,"Holthouse, Bryce A.",2
 BARTON,State Senate,28,REP,"Scott, Delbert L.",1985
 BARTON,State House,126,REP,"Emery, Ed",2109
 BARTON,State House,126,DEM,"Meyer, Rich",131
-BARTON,Circuit Judge  Circuit 28,,REP,"Bickel, James R.",2081
+BARTON,Circuit Judge Circuit 28,,REP,"Bickel, James R.",2081
 BATES,U.S. Senate,,REP,"Hair, Isaiah Jr",24
 BATES,U.S. Senate,,REP,"Talent, Jim",1185
 BATES,U.S. Senate,,REP,"Lea, Joyce P.",38
@@ -185,7 +185,7 @@ BATES,State House,120,REP,"Cooper, Shannon",241
 BATES,State House,120,DEM,"Kenney, Kristi L.",281
 BATES,State House,125,REP,"Fisher, Barney",941
 BATES,State House,125,DEM,"Wells, Timothy L. (Tim)",1930
-BATES,Circuit Judge  Circuit 27,,DEM,"Journey, James K.",2154
+BATES,Circuit Judge Circuit 27,,DEM,"Journey, James K.",2154
 BENTON,U.S. Senate,,REP,"Hair, Isaiah Jr",16
 BENTON,U.S. Senate,,REP,"Talent, Jim",1293
 BENTON,U.S. Senate,,REP,"Lea, Joyce P.",44
@@ -210,7 +210,7 @@ BENTON,U.S. House,4,DEM,"Skelton, Ike",1120
 BENTON,U.S. House,4,LIB,"Holthouse, Bryce A.",1
 BENTON,State Senate,28,REP,"Scott, Delbert L.",1376
 BENTON,State House,116,REP,"Self, Tom",1368
-BENTON,Circuit Judge  Circuit 30,,REP,"Sims, John W. (Bill)",1213
+BENTON,Circuit Judge Circuit 30,,REP,"Sims, John W. (Bill)",1213
 BOLLINGER,U.S. Senate,,REP,"Hair, Isaiah Jr",20
 BOLLINGER,U.S. Senate,,REP,"Talent, Jim",1102
 BOLLINGER,U.S. Senate,,REP,"Lea, Joyce P.",20
@@ -234,8 +234,8 @@ BOLLINGER,U.S. House,8,DEM,"Durnell, E. Earl",173
 BOLLINGER,U.S. House,8,LIB,"McCullough, Branden C.",5
 BOLLINGER,State House,156,REP,"Jetton, Rod (Rodney)",1041
 BOLLINGER,State House,156,DEM,"Winder, Michael R.",435
-BOLLINGER,Circuit Judge  Circuit 32 Division 2,,REP,"Lewis, Ben",935
-BOLLINGER,Circuit Judge  Circuit 32 Division 2,,DEM,"Heisserer, John P.",445
+BOLLINGER,Circuit Judge Circuit 32 Division 2,,REP,"Lewis, Ben",935
+BOLLINGER,Circuit Judge Circuit 32 Division 2,,DEM,"Heisserer, John P.",445
 BOONE,U.S. Senate,,REP,"Hair, Isaiah Jr",71
 BOONE,U.S. Senate,,REP,"Talent, Jim",6230
 BOONE,U.S. Senate,,REP,"Lea, Joyce P.",119
@@ -266,9 +266,9 @@ BOONE,State House,24,REP,"Robb, Ed",2155
 BOONE,State House,24,DEM,"Sullivan, Sid",667
 BOONE,State House,24,DEM,"Ritter, Jim",2749
 BOONE,State House,25,DEM,"Baker, Judy",1641
-BOONE,Circuit Judge  Circuit 13 Division 1,,DEM,"Hamilton, Gene",10100
-BOONE,Circuit Judge  Circuit 13 Division 3,,REP,"Crane, Kevin",6161
-BOONE,Circuit Judge  Circuit 13 Division 4,,REP,"Asel, Jodie C.",5793
+BOONE,Circuit Judge Circuit 13 Division 1,,DEM,"Hamilton, Gene",10100
+BOONE,Circuit Judge Circuit 13 Division 3,,REP,"Crane, Kevin",6161
+BOONE,Circuit Judge Circuit 13 Division 4,,REP,"Asel, Jodie C.",5793
 BUCHANAN,U.S. Senate,,REP,"Hair, Isaiah Jr",31
 BUCHANAN,U.S. Senate,,REP,"Talent, Jim",2028
 BUCHANAN,U.S. Senate,,REP,"Lea, Joyce P.",70
@@ -300,10 +300,10 @@ BUCHANAN,State House,29,REP,"Sartain, Donny",564
 BUCHANAN,State House,29,DEM,"Rucker, Martin T.",2810
 BUCHANAN,State House,30,REP,"Brown, Jason",0
 BUCHANAN,State House,30,DEM,"Welch, Jared",0
-BUCHANAN,Circuit Judge  Circuit 5 Division 1,,REP,"Jackson, Randall R.",1954
-BUCHANAN,Circuit Judge  Circuit 5 Division 3,,DEM,"Robb, Patrick K.",6021
-BUCHANAN,Circuit Judge  Circuit 5 Division 3,,DEM,"Radke, Daniel L",2923
-BUCHANAN,Circuit Judge  Circuit 5 Division 4,,DEM,"Kellogg, Daniel F.",7265
+BUCHANAN,Circuit Judge Circuit 5 Division 1,,REP,"Jackson, Randall R.",1954
+BUCHANAN,Circuit Judge Circuit 5 Division 3,,DEM,"Robb, Patrick K.",6021
+BUCHANAN,Circuit Judge Circuit 5 Division 3,,DEM,"Radke, Daniel L",2923
+BUCHANAN,Circuit Judge Circuit 5 Division 4,,DEM,"Kellogg, Daniel F.",7265
 BUTLER,U.S. Senate,,REP,"Hair, Isaiah Jr",68
 BUTLER,U.S. Senate,,REP,"Talent, Jim",3248
 BUTLER,U.S. Senate,,REP,"Lea, Joyce P.",112
@@ -356,8 +356,8 @@ CALDWELL,State Senate,12,DEM,"Neely, James W. (Jim)",227
 CALDWELL,State House,7,REP,"Quinn, John",1061
 CALDWELL,State House,7,DEM,"Mulkey, Rene",136
 CALDWELL,State House,7,DEM,"Rice, Karl D.",111
-CALDWELL,Circuit Judge  Circuit 43 Division 1,,REP,"McElwain, Warren L.",1033
-CALDWELL,Circuit Judge  Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",218
+CALDWELL,Circuit Judge Circuit 43 Division 1,,REP,"McElwain, Warren L.",1033
+CALDWELL,Circuit Judge Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",218
 CALLAWAY,U.S. Senate,,REP,"Hair, Isaiah Jr",19
 CALLAWAY,U.S. Senate,,REP,"Talent, Jim",1466
 CALLAWAY,U.S. Senate,,REP,"Lea, Joyce P.",37
@@ -385,9 +385,9 @@ CALLAWAY,State House,20,REP,"Moore, Danielle (Danie)",979
 CALLAWAY,State House,20,DEM,"Salcedo, Don",2191
 CALLAWAY,State House,21,REP,"Hobbs, Steve",176
 CALLAWAY,State House,21,DEM,"Elkin, Skip",217
-CALLAWAY,Circuit Judge  Circuit 13 Division 1,,DEM,"Hamilton, Gene",3203
-CALLAWAY,Circuit Judge  Circuit 13 Division 3,,REP,"Crane, Kevin",1353
-CALLAWAY,Circuit Judge  Circuit 13 Division 4,,REP,"Asel, Jodie C.",1247
+CALLAWAY,Circuit Judge Circuit 13 Division 1,,DEM,"Hamilton, Gene",3203
+CALLAWAY,Circuit Judge Circuit 13 Division 3,,REP,"Crane, Kevin",1353
+CALLAWAY,Circuit Judge Circuit 13 Division 4,,REP,"Asel, Jodie C.",1247
 CAMDEN,U.S. Senate,,REP,"Hair, Isaiah Jr",105
 CAMDEN,U.S. Senate,,REP,"Talent, Jim",4765
 CAMDEN,U.S. Senate,,REP,"Lea, Joyce P.",308
@@ -422,11 +422,11 @@ CAMDEN,State House,148,REP,"Day, David",5
 CAMDEN,State House,148,DEM,"Bomar, Kyle Weston",1
 CAMDEN,State House,155,REP,"Cooper, Wayne",4516
 CAMDEN,State House,155,REP,"Mowinski, Bernie",834
-CAMDEN,Circuit Judge  Circuit 26 Division 1,,REP,"Seek, Robert J.",589
-CAMDEN,Circuit Judge  Circuit 26 Division 1,,REP,"Lutz, Mary Kay",942
-CAMDEN,Circuit Judge  Circuit 26 Division 1,,REP,"Walker, John",1983
-CAMDEN,Circuit Judge  Circuit 26 Division 1,,REP,"Rives, W. Steven",1085
-CAMDEN,Circuit Judge  Circuit 26 Division 1,,REP,"Moore, G. Stanley",1041
+CAMDEN,Circuit Judge Circuit 26 Division 1,,REP,"Seek, Robert J.",589
+CAMDEN,Circuit Judge Circuit 26 Division 1,,REP,"Lutz, Mary Kay",942
+CAMDEN,Circuit Judge Circuit 26 Division 1,,REP,"Walker, John",1983
+CAMDEN,Circuit Judge Circuit 26 Division 1,,REP,"Rives, W. Steven",1085
+CAMDEN,Circuit Judge Circuit 26 Division 1,,REP,"Moore, G. Stanley",1041
 CAPE GIRARDEAU,U.S. Senate,,REP,"Hair, Isaiah Jr",77
 CAPE GIRARDEAU,U.S. Senate,,REP,"Talent, Jim",6869
 CAPE GIRARDEAU,U.S. Senate,,REP,"Lea, Joyce P.",226
@@ -458,8 +458,8 @@ CAPE GIRARDEAU,State House,160,REP,"Brandom, Ellen",116
 CAPE GIRARDEAU,State House,160,DEM,"Tetley, Larry",24
 CAPE GIRARDEAU,State House,161,REP,"Branum, Gary",0
 CAPE GIRARDEAU,State House,161,DEM,"Hodges, Steve",0
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 2,,REP,"Lewis, Ben",6558
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 2,,DEM,"Heisserer, John P.",1670
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 2,,REP,"Lewis, Ben",6558
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 2,,DEM,"Heisserer, John P.",1670
 CARROLL,U.S. Senate,,REP,"Hair, Isaiah Jr",27
 CARROLL,U.S. Senate,,REP,"Talent, Jim",1079
 CARROLL,U.S. Senate,,REP,"Lea, Joyce P.",33
@@ -482,7 +482,7 @@ CARROLL,U.S. House,6,LIB,"Buck, Erik",2
 CARROLL,State House,7,REP,"Quinn, John",1120
 CARROLL,State House,7,DEM,"Mulkey, Rene",74
 CARROLL,State House,7,DEM,"Rice, Karl D.",132
-CARROLL,Circuit Judge  Circuit 8,,REP,"Moentmann, Werner A.",1094
+CARROLL,Circuit Judge Circuit 8,,REP,"Moentmann, Werner A.",1094
 CARTER,U.S. Senate,,REP,"Hair, Isaiah Jr",28
 CARTER,U.S. Senate,,REP,"Talent, Jim",807
 CARTER,U.S. Senate,,REP,"Lea, Joyce P.",54
@@ -506,8 +506,8 @@ CARTER,U.S. House,8,DEM,"Durnell, E. Earl",52
 CARTER,U.S. House,8,LIB,"McCullough, Branden C.",0
 CARTER,State House,153,REP,"Dethrow, Mike",791
 CARTER,State House,153,DEM,"Burke, Kenny D.",198
-CARTER,Circuit Judge  Circuit 37,,REP,"Moore, Richard",550
-CARTER,Circuit Judge  Circuit 37,,REP,"Evans, David Paul",453
+CARTER,Circuit Judge Circuit 37,,REP,"Moore, Richard",550
+CARTER,Circuit Judge Circuit 37,,REP,"Evans, David Paul",453
 CASS,U.S. Senate,,REP,"Hair, Isaiah Jr",36
 CASS,U.S. Senate,,REP,"Talent, Jim",3550
 CASS,U.S. Senate,,REP,"Lea, Joyce P.",80
@@ -540,7 +540,7 @@ CASS,State House,122,DEM,"Hudson, Kathy J.",264
 CASS,State House,123,REP,"Baker, Brian L.",1775
 CASS,State House,124,REP,"Rector, Rex",1381
 CASS,State House,124,DEM,"Scavuzzo, Luke",1892
-CASS,Circuit Judge  Circuit 17 Division 1,,DEM,"Cook, Jacqueline",3821
+CASS,Circuit Judge Circuit 17 Division 1,,DEM,"Cook, Jacqueline",3821
 CEDAR,U.S. Senate,,REP,"Hair, Isaiah Jr",50
 CEDAR,U.S. Senate,,REP,"Talent, Jim",1608
 CEDAR,U.S. Senate,,REP,"Lea, Joyce P.",82
@@ -565,7 +565,7 @@ CEDAR,U.S. House,4,DEM,"Skelton, Ike",558
 CEDAR,U.S. House,4,LIB,"Holthouse, Bryce A.",3
 CEDAR,State Senate,28,REP,"Scott, Delbert L.",1620
 CEDAR,State House,133,REP,"Parson, Mike",1713
-CEDAR,Circuit Judge  Circuit 28,,REP,"Bickel, James R.",1459
+CEDAR,Circuit Judge Circuit 28,,REP,"Bickel, James R.",1459
 CHARITON,U.S. Senate,,REP,"Hair, Isaiah Jr",3
 CHARITON,U.S. Senate,,REP,"Talent, Jim",127
 CHARITON,U.S. Senate,,REP,"Lea, Joyce P.",2
@@ -592,7 +592,7 @@ CHARITON,State House,9,DEM,"Lawson, Ewell",4
 CHARITON,State House,9,DEM,"Quinn, Paul",7
 CHARITON,State House,22,REP,"Sander, Therese",129
 CHARITON,State House,22,DEM,"Harrington, Robert",1845
-CHARITON,Circuit Judge  Circuit 9,,DEM,"Ravens, Gary E.",1914
+CHARITON,Circuit Judge Circuit 9,,DEM,"Ravens, Gary E.",1914
 CHRISTIAN,U.S. Senate,,REP,"Hair, Isaiah Jr",208
 CHRISTIAN,U.S. Senate,,REP,"Talent, Jim",6802
 CHRISTIAN,U.S. Senate,,REP,"Lea, Joyce P.",460
@@ -624,9 +624,9 @@ CHRISTIAN,State House,141,DEM,"Blevins, Mark S.",476
 CHRISTIAN,State House,141,DEM,"Blankenship, Kyle",236
 CHRISTIAN,State House,142,REP,"Weter, Raymond (Ray)",3638
 CHRISTIAN,State House,142,REP,"Owens, Jon",1480
-CHRISTIAN,Circuit Judge  Circuit 38,,REP,"Sanders, Rita Kay",1197
-CHRISTIAN,Circuit Judge  Circuit 38,,REP,"Orr, Mark",5853
-CHRISTIAN,Circuit Judge  Circuit 38,,REP,"Daniels, Rodney",1104
+CHRISTIAN,Circuit Judge Circuit 38,,REP,"Sanders, Rita Kay",1197
+CHRISTIAN,Circuit Judge Circuit 38,,REP,"Orr, Mark",5853
+CHRISTIAN,Circuit Judge Circuit 38,,REP,"Daniels, Rodney",1104
 CLARK,U.S. Senate,,REP,"Hair, Isaiah Jr",19
 CLARK,U.S. Senate,,REP,"Talent, Jim",768
 CLARK,U.S. Senate,,REP,"Lea, Joyce P.",27
@@ -706,8 +706,8 @@ CLINTON,State House,5,DEM,"Waltemath, Mike",1487
 CLINTON,State House,7,REP,"Quinn, John",21
 CLINTON,State House,7,DEM,"Mulkey, Rene",19
 CLINTON,State House,7,DEM,"Rice, Karl D.",22
-CLINTON,Circuit Judge  Circuit 43 Division 1,,REP,"McElwain, Warren L.",643
-CLINTON,Circuit Judge  Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",1557
+CLINTON,Circuit Judge Circuit 43 Division 1,,REP,"McElwain, Warren L.",643
+CLINTON,Circuit Judge Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",1557
 COLE,U.S. Senate,,REP,"Hair, Isaiah Jr",75
 COLE,U.S. Senate,,REP,"Talent, Jim",4802
 COLE,U.S. Senate,,REP,"Lea, Joyce P.",107
@@ -739,8 +739,8 @@ COLE,State House,114,DEM,"Smith, David E.",2833
 COLE,State House,115,REP,"Schad, Rodney",300
 COLE,State House,115,DEM,"Barnicle, Tony",150
 COLE,State House,115,DEM,"Gray, Kerry Dean",135
-COLE,Circuit Judge  Circuit 19 Division 1,,REP,"Angle, Clyde P.",3686
-COLE,Circuit Judge  Circuit 19 Division 1,,DEM,"Brown, Thomas J. III",5806
+COLE,Circuit Judge Circuit 19 Division 1,,REP,"Angle, Clyde P.",3686
+COLE,Circuit Judge Circuit 19 Division 1,,DEM,"Brown, Thomas J. III",5806
 COOPER,U.S. Senate,,REP,"Hair, Isaiah Jr",33
 COOPER,U.S. Senate,,REP,"Talent, Jim",1415
 COOPER,U.S. Senate,,REP,"Lea, Joyce P.",35
@@ -762,7 +762,7 @@ COOPER,U.S. House,6,DEM,"Shettles, Sara Jo",670
 COOPER,U.S. House,6,LIB,"Buck, Erik",6
 COOPER,State House,117,REP,"Jones, Kenny",1381
 COOPER,State House,117,DEM,"Dubovick, John",670
-COOPER,Circuit Judge  Circuit 18,,REP,"Koffman, Robert L.",1091
+COOPER,Circuit Judge Circuit 18,,REP,"Koffman, Robert L.",1091
 CRAWFORD,U.S. Senate,,REP,"Hair, Isaiah Jr",65
 CRAWFORD,U.S. Senate,,REP,"Talent, Jim",2007
 CRAWFORD,U.S. Senate,,REP,"Lea, Joyce P.",169
@@ -790,10 +790,10 @@ CRAWFORD,State House,111,DEM,"DeVeydt, Tod C.",124
 CRAWFORD,State House,150,REP,"Smith, Jason T.",1744
 CRAWFORD,State House,150,DEM,"O'Donnell, Jim",449
 CRAWFORD,State House,150,LIB,"Dubie, Chief Wana",4
-CRAWFORD,Circuit Judge  Circuit 42 Division 1,,REP,"Hall, Glenn",1609
-CRAWFORD,Circuit Judge  Circuit 42 Division 1,,DEM,"Seay, William Camm",563
-CRAWFORD,Circuit Judge  Circuit 42 Division 2,,REP,"Howald, J. Kent",2010
-CRAWFORD,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",583
+CRAWFORD,Circuit Judge Circuit 42 Division 1,,REP,"Hall, Glenn",1609
+CRAWFORD,Circuit Judge Circuit 42 Division 1,,DEM,"Seay, William Camm",563
+CRAWFORD,Circuit Judge Circuit 42 Division 2,,REP,"Howald, J. Kent",2010
+CRAWFORD,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",583
 DADE,U.S. Senate,,REP,"Hair, Isaiah Jr",33
 DADE,U.S. Senate,,REP,"Talent, Jim",1377
 DADE,U.S. Senate,,REP,"Lea, Joyce P.",55
@@ -819,7 +819,7 @@ DADE,U.S. House,4,LIB,"Holthouse, Bryce A.",1
 DADE,State Senate,32,REP,"Nodler, Gary",1346
 DADE,State House,126,REP,"Emery, Ed",1390
 DADE,State House,126,DEM,"Meyer, Rich",101
-DADE,Circuit Judge  Circuit 28,,REP,"Bickel, James R.",1278
+DADE,Circuit Judge Circuit 28,,REP,"Bickel, James R.",1278
 DALLAS,U.S. Senate,,REP,"Hair, Isaiah Jr",61
 DALLAS,U.S. Senate,,REP,"Talent, Jim",1834
 DALLAS,U.S. Senate,,REP,"Lea, Joyce P.",150
@@ -845,7 +845,7 @@ DALLAS,U.S. House,4,LIB,"Holthouse, Bryce A.",3
 DALLAS,State Senate,28,REP,"Scott, Delbert L.",1851
 DALLAS,State House,119,REP,"Wilson, Larry D.",1908
 DALLAS,State House,119,LIB,"Casebolt, Benjamin J.",3
-DALLAS,Circuit Judge  Circuit 30,,REP,"Sims, John W. (Bill)",1820
+DALLAS,Circuit Judge Circuit 30,,REP,"Sims, John W. (Bill)",1820
 DAVIESS,U.S. Senate,,REP,"Hair, Isaiah Jr",1
 DAVIESS,U.S. Senate,,REP,"Talent, Jim",224
 DAVIESS,U.S. Senate,,REP,"Lea, Joyce P.",6
@@ -869,8 +869,8 @@ DAVIESS,State Senate,12,REP,"Lager, Brad",206
 DAVIESS,State Senate,12,DEM,"Neely, James W. (Jim)",1192
 DAVIESS,State House,3,REP,"Guernsey, Casey",209
 DAVIESS,State House,3,DEM,"Whorton, Jim",1334
-DAVIESS,Circuit Judge  Circuit 43 Division 1,,REP,"McElwain, Warren L.",212
-DAVIESS,Circuit Judge  Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",1217
+DAVIESS,Circuit Judge Circuit 43 Division 1,,REP,"McElwain, Warren L.",212
+DAVIESS,Circuit Judge Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",1217
 DEKALB,U.S. Senate,,REP,"Hair, Isaiah Jr",5
 DEKALB,U.S. Senate,,REP,"Talent, Jim",613
 DEKALB,U.S. Senate,,REP,"Lea, Joyce P.",14
@@ -894,8 +894,8 @@ DEKALB,State Senate,12,REP,"Lager, Brad",558
 DEKALB,State Senate,12,DEM,"Neely, James W. (Jim)",635
 DEKALB,State House,5,REP,"Guest, Jim",609
 DEKALB,State House,5,DEM,"Waltemath, Mike",674
-DEKALB,Circuit Judge  Circuit 43 Division 1,,REP,"McElwain, Warren L.",609
-DEKALB,Circuit Judge  Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",655
+DEKALB,Circuit Judge Circuit 43 Division 1,,REP,"McElwain, Warren L.",609
+DEKALB,Circuit Judge Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",655
 DENT,U.S. Senate,,REP,"Hair, Isaiah Jr",25
 DENT,U.S. Senate,,REP,"Talent, Jim",1279
 DENT,U.S. Senate,,REP,"Lea, Joyce P.",57
@@ -923,10 +923,10 @@ DENT,State Senate,16,DEM,"Barnitz, Frank A.",1384
 DENT,State House,150,REP,"Smith, Jason T.",1376
 DENT,State House,150,DEM,"O'Donnell, Jim",1063
 DENT,State House,150,LIB,"Dubie, Chief Wana",4
-DENT,Circuit Judge  Circuit 42 Division 1,,REP,"Hall, Glenn",1088
-DENT,Circuit Judge  Circuit 42 Division 1,,DEM,"Seay, William Camm",1289
-DENT,Circuit Judge  Circuit 42 Division 2,,REP,"Howald, J. Kent",1113
-DENT,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",1208
+DENT,Circuit Judge Circuit 42 Division 1,,REP,"Hall, Glenn",1088
+DENT,Circuit Judge Circuit 42 Division 1,,DEM,"Seay, William Camm",1289
+DENT,Circuit Judge Circuit 42 Division 2,,REP,"Howald, J. Kent",1113
+DENT,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",1208
 DOUGLAS,U.S. Senate,,REP,"Hair, Isaiah Jr",93
 DOUGLAS,U.S. Senate,,REP,"Talent, Jim",3288
 DOUGLAS,U.S. Senate,,REP,"Lea, Joyce P.",267
@@ -951,8 +951,8 @@ DOUGLAS,U.S. House,8,LIB,"McCullough, Branden C.",6
 DOUGLAS,State Senate,20,REP,"Clemens, Dan",3425
 DOUGLAS,State Senate,20,DEM,"KreiderAdams, Barbie",240
 DOUGLAS,State House,144,REP,"Kelly, Van",3610
-DOUGLAS,Circuit Judge  Circuit 44,,REP,"Moody, John Garner",3440
-DOUGLAS,Circuit Judge  Circuit 44,,REP,"Bruffett, John W.",840
+DOUGLAS,Circuit Judge Circuit 44,,REP,"Moody, John Garner",3440
+DOUGLAS,Circuit Judge Circuit 44,,REP,"Bruffett, John W.",840
 DUNKLIN,U.S. Senate,,REP,"Hair, Isaiah Jr",4
 DUNKLIN,U.S. Senate,,REP,"Talent, Jim",271
 DUNKLIN,U.S. Senate,,REP,"Lea, Joyce P.",9
@@ -978,7 +978,7 @@ DUNKLIN,State House,162,DEM,"Swinger, Terry",437
 DUNKLIN,State House,163,REP,"Mitchell, Keith",234
 DUNKLIN,State House,163,DEM,"Allen, Pat",938
 DUNKLIN,State House,163,DEM,"Todd, Thomas (Tom)",2671
-DUNKLIN,Circuit Judge  Circuit 35,,DEM,"Sharp, Stephen R.",3433
+DUNKLIN,Circuit Judge Circuit 35,,DEM,"Sharp, Stephen R.",3433
 FRANKLIN,U.S. Senate,,REP,"Hair, Isaiah Jr",80
 FRANKLIN,U.S. Senate,,REP,"Talent, Jim",5529
 FRANKLIN,U.S. Senate,,REP,"Lea, Joyce P.",150
@@ -1009,7 +1009,7 @@ FRANKLIN,State House,109,REP,"Threlkeld, Kevin",2100
 FRANKLIN,State House,110,DEM,"Harris, Belinda",55
 FRANKLIN,State House,111,REP,"Schlottach, Charlie W.",1260
 FRANKLIN,State House,111,DEM,"DeVeydt, Tod C.",917
-FRANKLIN,Circuit Judge  Circuit 20 Division 1,,REP,"Wood, Gael D.",5148
+FRANKLIN,Circuit Judge Circuit 20 Division 1,,REP,"Wood, Gael D.",5148
 GASCONADE,U.S. Senate,,REP,"Hair, Isaiah Jr",56
 GASCONADE,U.S. Senate,,REP,"Talent, Jim",2069
 GASCONADE,U.S. Senate,,REP,"Lea, Joyce P.",97
@@ -1037,7 +1037,7 @@ GASCONADE,State House,111,DEM,"DeVeydt, Tod C.",105
 GASCONADE,State House,112,REP,"Loehner, Tom",1614
 GASCONADE,State House,112,DEM,"Tramel, Tom",85
 GASCONADE,State House,112,DEM,"Schaeperkoetter, Mark A.",238
-GASCONADE,Circuit Judge  Circuit 20 Division 1,,REP,"Wood, Gael D.",1797
+GASCONADE,Circuit Judge Circuit 20 Division 1,,REP,"Wood, Gael D.",1797
 GENTRY,U.S. Senate,,REP,"Hair, Isaiah Jr",14
 GENTRY,U.S. Senate,,REP,"Talent, Jim",619
 GENTRY,U.S. Senate,,REP,"Lea, Joyce P.",26
@@ -1061,7 +1061,7 @@ GENTRY,State Senate,12,REP,"Lager, Brad",678
 GENTRY,State Senate,12,DEM,"Neely, James W. (Jim)",818
 GENTRY,State House,3,REP,"Guernsey, Casey",172
 GENTRY,State House,3,DEM,"Whorton, Jim",213
-GENTRY,Circuit Judge  Circuit 4,,REP,"Prokes, Roger M.",656
+GENTRY,Circuit Judge Circuit 4,,REP,"Prokes, Roger M.",656
 GREENE,U.S. Senate,,REP,"Hair, Isaiah Jr",482
 GREENE,U.S. Senate,,REP,"Talent, Jim",16768
 GREENE,U.S. Senate,,REP,"Lea, Joyce P.",806
@@ -1119,10 +1119,10 @@ GREENE,State House,140,REP,"Dixon, Bob",2499
 GREENE,State House,140,DEM,"Cunningham, Tonya R.",1014
 GREENE,State House,140,LIB,"Boone, Bill",24
 GREENE,State House,145,REP,"Cunningham, Mike",178
-GREENE,Circuit Judge  Circuit 31 Division 1,,REP,"Burrell, Don",16058
-GREENE,Circuit Judge  Circuit 31 Division 4,,DEM,"Mountjoy, Tom",8386
-GREENE,Circuit Judge  Circuit 31 Division 5,,REP,"Lawson, Bob Jr.",14832
-GREENE,Circuit Judge  Circuit 31 Division 5,,DEM,"Holden, Calvin R.",8284
+GREENE,Circuit Judge Circuit 31 Division 1,,REP,"Burrell, Don",16058
+GREENE,Circuit Judge Circuit 31 Division 4,,DEM,"Mountjoy, Tom",8386
+GREENE,Circuit Judge Circuit 31 Division 5,,REP,"Lawson, Bob Jr.",14832
+GREENE,Circuit Judge Circuit 31 Division 5,,DEM,"Holden, Calvin R.",8284
 GRUNDY,U.S. Senate,,REP,"Hair, Isaiah Jr",29
 GRUNDY,U.S. Senate,,REP,"Talent, Jim",1163
 GRUNDY,U.S. Senate,,REP,"Lea, Joyce P.",46
@@ -1146,7 +1146,7 @@ GRUNDY,State Senate,12,REP,"Lager, Brad",1081
 GRUNDY,State Senate,12,DEM,"Neely, James W. (Jim)",238
 GRUNDY,State House,3,REP,"Guernsey, Casey",1053
 GRUNDY,State House,3,DEM,"Whorton, Jim",289
-GRUNDY,Circuit Judge  Circuit 3,,REP,"Peace, Jack",1212
+GRUNDY,Circuit Judge Circuit 3,,REP,"Peace, Jack",1212
 HARRISON,U.S. Senate,,REP,"Hair, Isaiah Jr",17
 HARRISON,U.S. Senate,,REP,"Talent, Jim",901
 HARRISON,U.S. Senate,,REP,"Lea, Joyce P.",33
@@ -1170,7 +1170,7 @@ HARRISON,State Senate,12,REP,"Lager, Brad",871
 HARRISON,State Senate,12,DEM,"Neely, James W. (Jim)",163
 HARRISON,State House,3,REP,"Guernsey, Casey",948
 HARRISON,State House,3,DEM,"Whorton, Jim",175
-HARRISON,Circuit Judge  Circuit 3,,REP,"Peace, Jack",862
+HARRISON,Circuit Judge Circuit 3,,REP,"Peace, Jack",862
 HENRY,U.S. Senate,,REP,"Hair, Isaiah Jr",10
 HENRY,U.S. Senate,,REP,"Talent, Jim",583
 HENRY,U.S. Senate,,REP,"Lea, Joyce P.",18
@@ -1196,7 +1196,7 @@ HENRY,U.S. House,4,LIB,"Holthouse, Bryce A.",4
 HENRY,State Senate,28,REP,"Scott, Delbert L.",597
 HENRY,State House,120,REP,"Cooper, Shannon",620
 HENRY,State House,120,DEM,"Kenney, Kristi L.",3288
-HENRY,Circuit Judge  Circuit 27,,DEM,"Journey, James K.",3521
+HENRY,Circuit Judge Circuit 27,,DEM,"Journey, James K.",3521
 HICKORY,U.S. Senate,,REP,"Hair, Isaiah Jr",51
 HICKORY,U.S. Senate,,REP,"Talent, Jim",1406
 HICKORY,U.S. Senate,,REP,"Lea, Joyce P.",141
@@ -1222,7 +1222,7 @@ HICKORY,U.S. House,4,LIB,"Holthouse, Bryce A.",8
 HICKORY,State Senate,28,REP,"Scott, Delbert L.",1736
 HICKORY,State House,119,REP,"Wilson, Larry D.",1772
 HICKORY,State House,119,LIB,"Casebolt, Benjamin J.",8
-HICKORY,Circuit Judge  Circuit 30,,REP,"Sims, John W. (Bill)",1531
+HICKORY,Circuit Judge Circuit 30,,REP,"Sims, John W. (Bill)",1531
 HOLT,U.S. Senate,,REP,"Hair, Isaiah Jr",40
 HOLT,U.S. Senate,,REP,"Talent, Jim",1140
 HOLT,U.S. Senate,,REP,"Lea, Joyce P.",35
@@ -1246,7 +1246,7 @@ HOLT,State Senate,12,REP,"Lager, Brad",1236
 HOLT,State Senate,12,DEM,"Neely, James W. (Jim)",102
 HOLT,State House,4,REP,"Thomson, Mike",1208
 HOLT,State House,4,DEM,"Oswald, Richard R.",98
-HOLT,Circuit Judge  Circuit 4,,REP,"Prokes, Roger M.",1170
+HOLT,Circuit Judge Circuit 4,,REP,"Prokes, Roger M.",1170
 HOWARD,U.S. Senate,,REP,"Hair, Isaiah Jr",1
 HOWARD,U.S. Senate,,REP,"Talent, Jim",111
 HOWARD,U.S. Senate,,REP,"Lea, Joyce P.",4
@@ -1269,9 +1269,9 @@ HOWARD,U.S. House,6,LIB,"Buck, Erik",0
 HOWARD,State House,9,REP,"Harper, Kathyrne",109
 HOWARD,State House,9,DEM,"Lawson, Ewell",1043
 HOWARD,State House,9,DEM,"Quinn, Paul",1362
-HOWARD,Circuit Judge  Circuit 14,,REP,"Cooksey, Jim",99
-HOWARD,Circuit Judge  Circuit 14,,DEM,"Hayes, Scott A.",1807
-HOWARD,Circuit Judge  Circuit 14,,DEM,"Shea, Thomas Michael",386
+HOWARD,Circuit Judge Circuit 14,,REP,"Cooksey, Jim",99
+HOWARD,Circuit Judge Circuit 14,,DEM,"Hayes, Scott A.",1807
+HOWARD,Circuit Judge Circuit 14,,DEM,"Shea, Thomas Michael",386
 HOWELL,U.S. Senate,,REP,"Hair, Isaiah Jr",132
 HOWELL,U.S. Senate,,REP,"Talent, Jim",4285
 HOWELL,U.S. Senate,,REP,"Lea, Joyce P.",246
@@ -1298,8 +1298,8 @@ HOWELL,State House,143,REP,"Lind, Mike",88
 HOWELL,State House,143,DEM,"Hilliard, Cathy",63
 HOWELL,State House,151,REP,"Franz, Ward",4304
 HOWELL,State House,151,DEM,"Proffitt, Dean P.",886
-HOWELL,Circuit Judge  Circuit 37,,REP,"Moore, Richard",2283
-HOWELL,Circuit Judge  Circuit 37,,REP,"Evans, David Paul",3045
+HOWELL,Circuit Judge Circuit 37,,REP,"Moore, Richard",2283
+HOWELL,Circuit Judge Circuit 37,,REP,"Evans, David Paul",3045
 IRON,U.S. Senate,,REP,"Hair, Isaiah Jr",2
 IRON,U.S. Senate,,REP,"Talent, Jim",232
 IRON,U.S. Senate,,REP,"Lea, Joyce P.",6
@@ -1322,10 +1322,10 @@ IRON,U.S. House,8,DEM,"Curtis, Gene",276
 IRON,U.S. House,8,DEM,"Durnell, E. Earl",291
 IRON,U.S. House,8,LIB,"McCullough, Branden C.",3
 IRON,State House,152,DEM,"Kuessner, J. C.",1043
-IRON,Circuit Judge  Circuit 42 Division 1,,REP,"Hall, Glenn",191
-IRON,Circuit Judge  Circuit 42 Division 1,,DEM,"Seay, William Camm",914
-IRON,Circuit Judge  Circuit 42 Division 2,,REP,"Howald, J. Kent",198
-IRON,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",955
+IRON,Circuit Judge Circuit 42 Division 1,,REP,"Hall, Glenn",191
+IRON,Circuit Judge Circuit 42 Division 1,,DEM,"Seay, William Camm",914
+IRON,Circuit Judge Circuit 42 Division 2,,REP,"Howald, J. Kent",198
+IRON,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",955
 JACKSON,U.S. Senate,,REP,"Hair, Isaiah Jr",555
 JACKSON,U.S. Senate,,REP,"Talent, Jim",17166
 JACKSON,U.S. Senate,,REP,"Lea, Joyce P.",762
@@ -1418,11 +1418,11 @@ JASPER,State House,127,REP,"Hunter, Steve",3127
 JASPER,State House,127,DEM,"Daniels, Steve",310
 JASPER,State House,128,REP,"Stevenson, Bryan P.",2596
 JASPER,State House,129,REP,"Richard, Ronald F.",1606
-JASPER,Circuit Judge  Circuit 29 Division 1,,REP,"Blanchard, Karl W.",4838
-JASPER,Circuit Judge  Circuit 29 Division 1,,REP,"Crane, Gayle L.",5223
-JASPER,Circuit Judge  Circuit 29 Division 3,,REP,"Lonardo, Charles H. (Chuck)",2399
-JASPER,Circuit Judge  Circuit 29 Division 3,,REP,"Mouton, David Boyce",6267
-JASPER,Circuit Judge  Circuit 29 Division 3,,REP,"Kitchen, Donna",1405
+JASPER,Circuit Judge Circuit 29 Division 1,,REP,"Blanchard, Karl W.",4838
+JASPER,Circuit Judge Circuit 29 Division 1,,REP,"Crane, Gayle L.",5223
+JASPER,Circuit Judge Circuit 29 Division 3,,REP,"Lonardo, Charles H. (Chuck)",2399
+JASPER,Circuit Judge Circuit 29 Division 3,,REP,"Mouton, David Boyce",6267
+JASPER,Circuit Judge Circuit 29 Division 3,,REP,"Kitchen, Donna",1405
 JEFFERSON,U.S. Senate,,REP,"Hair, Isaiah Jr",70
 JEFFERSON,U.S. Senate,,REP,"Talent, Jim",4775
 JEFFERSON,U.S. Senate,,REP,"Lea, Joyce P.",132
@@ -1459,12 +1459,12 @@ JEFFERSON,State House,104,DEM,"Fallert, Joseph Jr.",279
 JEFFERSON,State House,105,REP,"Groom, Ed",656
 JEFFERSON,State House,105,DEM,"Frame, Michael R.",1239
 JEFFERSON,State House,110,DEM,"Harris, Belinda",1637
-JEFFERSON,Circuit Judge  Circuit 23 Division 1,,DEM,"Wilkins, Robert G. (Bob)",12632
-JEFFERSON,Circuit Judge  Circuit 23 Division 4,,DEM,"Stoll, Mark T.",12928
-JEFFERSON,Circuit Judge  Circuit 23 Division 5,,DEM,"Page, Lisa",12333
-JEFFERSON,Circuit Judge  Circuit 23 Division 6,,DEM,"Cardona, Troy",6301
-JEFFERSON,Circuit Judge  Circuit 23 Division 6,,DEM,"Davis, Steve",3330
-JEFFERSON,Circuit Judge  Circuit 23 Division 6,,DEM,"Lednick, Steve",5163
+JEFFERSON,Circuit Judge Circuit 23 Division 1,,DEM,"Wilkins, Robert G. (Bob)",12632
+JEFFERSON,Circuit Judge Circuit 23 Division 4,,DEM,"Stoll, Mark T.",12928
+JEFFERSON,Circuit Judge Circuit 23 Division 5,,DEM,"Page, Lisa",12333
+JEFFERSON,Circuit Judge Circuit 23 Division 6,,DEM,"Cardona, Troy",6301
+JEFFERSON,Circuit Judge Circuit 23 Division 6,,DEM,"Davis, Steve",3330
+JEFFERSON,Circuit Judge Circuit 23 Division 6,,DEM,"Lednick, Steve",5163
 JOHNSON,U.S. Senate,,REP,"Hair, Isaiah Jr",40
 JOHNSON,U.S. Senate,,REP,"Talent, Jim",2095
 JOHNSON,U.S. Senate,,REP,"Lea, Joyce P.",105
@@ -1494,7 +1494,7 @@ JOHNSON,State House,121,DEM,"Alvarado, Jeffrey",779
 JOHNSON,State House,121,LIB,"Wayne, William Truman (Bill)",7
 JOHNSON,State House,122,REP,"McGhee, Mike",363
 JOHNSON,State House,122,DEM,"Hudson, Kathy J.",270
-JOHNSON,Circuit Judge  Circuit 17 Division 1,,DEM,"Cook, Jacqueline",1246
+JOHNSON,Circuit Judge Circuit 17 Division 1,,DEM,"Cook, Jacqueline",1246
 JOHNSON,U.S. Senate,,REP,"Hair, Isaiah Jr",69
 JOHNSON,U.S. Senate,,REP,"Talent, Jim",3944
 JOHNSON,U.S. Senate,,REP,"Lea, Joyce P.",107
@@ -1572,8 +1572,8 @@ KNOX,State Senate,18,REP,"Behnen, Robert J. (Bob)",166
 KNOX,State Senate,18,DEM,"Shoemyer, Wes",426
 KNOX,State House,1,REP,"Munzlinger, Brian",193
 KNOX,State House,1,DEM,"Hicks, Beau J.",434
-KNOX,Circuit Judge  Circuit 2,,REP,"Hensley, Tom",159
-KNOX,Circuit Judge  Circuit 2,,DEM,"Steele, Russell E.",466
+KNOX,Circuit Judge Circuit 2,,REP,"Hensley, Tom",159
+KNOX,Circuit Judge Circuit 2,,DEM,"Steele, Russell E.",466
 LACLEDE,U.S. Senate,,REP,"Hair, Isaiah Jr",98
 LACLEDE,U.S. Senate,,REP,"Talent, Jim",3173
 LACLEDE,U.S. Senate,,REP,"Lea, Joyce P.",154
@@ -1600,11 +1600,11 @@ LACLEDE,State House,146,REP,"Pollock, Darrell",3424
 LACLEDE,State House,146,DEM,"Clay, Kermit M.",741
 LACLEDE,State House,148,REP,"Day, David",2
 LACLEDE,State House,148,DEM,"Bomar, Kyle Weston",1
-LACLEDE,Circuit Judge  Circuit 26 Division 1,,REP,"Seek, Robert J.",229
-LACLEDE,Circuit Judge  Circuit 26 Division 1,,REP,"Lutz, Mary Kay",390
-LACLEDE,Circuit Judge  Circuit 26 Division 1,,REP,"Walker, John",497
-LACLEDE,Circuit Judge  Circuit 26 Division 1,,REP,"Rives, W. Steven",459
-LACLEDE,Circuit Judge  Circuit 26 Division 1,,REP,"Moore, G. Stanley",2124
+LACLEDE,Circuit Judge Circuit 26 Division 1,,REP,"Seek, Robert J.",229
+LACLEDE,Circuit Judge Circuit 26 Division 1,,REP,"Lutz, Mary Kay",390
+LACLEDE,Circuit Judge Circuit 26 Division 1,,REP,"Walker, John",497
+LACLEDE,Circuit Judge Circuit 26 Division 1,,REP,"Rives, W. Steven",459
+LACLEDE,Circuit Judge Circuit 26 Division 1,,REP,"Moore, G. Stanley",2124
 LAFAYETTE,U.S. Senate,,REP,"Hair, Isaiah Jr",18
 LAFAYETTE,U.S. Senate,,REP,"Talent, Jim",1263
 LAFAYETTE,U.S. Senate,,REP,"Lea, Joyce P.",16
@@ -1635,9 +1635,9 @@ LAFAYETTE,State House,118,REP,"Smith, Todd",7
 LAFAYETTE,State House,118,DEM,"Beck, Jerry Garth",7
 LAFAYETTE,State House,122,REP,"McGhee, Mike",611
 LAFAYETTE,State House,122,DEM,"Hudson, Kathy J.",805
-LAFAYETTE,Circuit Judge  Circuit 15,,REP,"Perry, Weldon W. (Chip) Jr.",1100
-LAFAYETTE,Circuit Judge  Circuit 15,,DEM,"Rolf, Dennis A.",1590
-LAFAYETTE,Circuit Judge  Circuit 15,,DEM,"Barton, Jay Jr.",770
+LAFAYETTE,Circuit Judge Circuit 15,,REP,"Perry, Weldon W. (Chip) Jr.",1100
+LAFAYETTE,Circuit Judge Circuit 15,,DEM,"Rolf, Dennis A.",1590
+LAFAYETTE,Circuit Judge Circuit 15,,DEM,"Barton, Jay Jr.",770
 LAWRENCE,U.S. Senate,,REP,"Hair, Isaiah Jr",169
 LAWRENCE,U.S. Senate,,REP,"Talent, Jim",3906
 LAWRENCE,U.S. Senate,,REP,"Lea, Joyce P.",197
@@ -1670,7 +1670,7 @@ LAWRENCE,State House,132,DEM,"Dake, Charles A.",703
 LAWRENCE,State House,141,REP,"Wasson, Jay",92
 LAWRENCE,State House,141,DEM,"Blevins, Mark S.",13
 LAWRENCE,State House,141,DEM,"Blankenship, Kyle",8
-LAWRENCE,Circuit Judge  Circuit 39,,REP,"Wiley, Robert S.",3720
+LAWRENCE,Circuit Judge Circuit 39,,REP,"Wiley, Robert S.",3720
 LEWIS,U.S. Senate,,REP,"Hair, Isaiah Jr",6
 LEWIS,U.S. Senate,,REP,"Talent, Jim",172
 LEWIS,U.S. Senate,,REP,"Lea, Joyce P.",3
@@ -1694,8 +1694,8 @@ LEWIS,State Senate,18,REP,"Behnen, Robert J. (Bob)",154
 LEWIS,State Senate,18,DEM,"Shoemyer, Wes",923
 LEWIS,State House,1,REP,"Munzlinger, Brian",182
 LEWIS,State House,1,DEM,"Hicks, Beau J.",1001
-LEWIS,Circuit Judge  Circuit 2,,REP,"Hensley, Tom",149
-LEWIS,Circuit Judge  Circuit 2,,DEM,"Steele, Russell E.",959
+LEWIS,Circuit Judge Circuit 2,,REP,"Hensley, Tom",149
+LEWIS,Circuit Judge Circuit 2,,DEM,"Steele, Russell E.",959
 LINCOLN,U.S. Senate,,REP,"Hair, Isaiah Jr",19
 LINCOLN,U.S. Senate,,REP,"Talent, Jim",1795
 LINCOLN,U.S. Senate,,REP,"Lea, Joyce P.",33
@@ -1729,7 +1729,7 @@ LINCOLN,State House,11,DEM,"Volmert, Jim",1234
 LINCOLN,State House,11,DEM,"Keiser, Jeffrey S.",456
 LINCOLN,State House,11,DEM,"Schieffer, Ed",1507
 LINCOLN,State House,11,LIB,"Arrigo, Gregory James",9
-LINCOLN,Circuit Judge  Circuit 45,,DEM,"Dildine, Dan",3078
+LINCOLN,Circuit Judge Circuit 45,,DEM,"Dildine, Dan",3078
 LINN,U.S. Senate,,REP,"Hair, Isaiah Jr",7
 LINN,U.S. Senate,,REP,"Talent, Jim",390
 LINN,U.S. Senate,,REP,"Lea, Joyce P.",6
@@ -1753,7 +1753,7 @@ LINN,State Senate,12,REP,"Lager, Brad",338
 LINN,State Senate,12,DEM,"Neely, James W. (Jim)",1062
 LINN,State House,8,REP,"Chinn, Kathy L.",354
 LINN,State House,8,DEM,"Shively, Tom",1225
-LINN,Circuit Judge  Circuit 9,,DEM,"Ravens, Gary E.",1162
+LINN,Circuit Judge Circuit 9,,DEM,"Ravens, Gary E.",1162
 LIVINGSTON,U.S. Senate,,REP,"Hair, Isaiah Jr",8
 LIVINGSTON,U.S. Senate,,REP,"Talent, Jim",425
 LIVINGSTON,U.S. Senate,,REP,"Lea, Joyce P.",13
@@ -1778,8 +1778,8 @@ LIVINGSTON,State Senate,12,DEM,"Neely, James W. (Jim)",904
 LIVINGSTON,State House,7,REP,"Quinn, John",443
 LIVINGSTON,State House,7,DEM,"Mulkey, Rene",406
 LIVINGSTON,State House,7,DEM,"Rice, Karl D.",824
-LIVINGSTON,Circuit Judge  Circuit 43 Division 1,,REP,"McElwain, Warren L.",354
-LIVINGSTON,Circuit Judge  Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",927
+LIVINGSTON,Circuit Judge Circuit 43 Division 1,,REP,"McElwain, Warren L.",354
+LIVINGSTON,Circuit Judge Circuit 43 Division 2,,DEM,"Griffin, Stephen K.",927
 MACON,U.S. Senate,,REP,"Hair, Isaiah Jr",5
 MACON,U.S. Senate,,REP,"Talent, Jim",415
 MACON,U.S. Senate,,REP,"Lea, Joyce P.",12
@@ -1803,7 +1803,7 @@ MACON,State House,8,REP,"Chinn, Kathy L.",342
 MACON,State House,8,DEM,"Shively, Tom",1778
 MACON,State House,22,REP,"Sander, Therese",45
 MACON,State House,22,DEM,"Harrington, Robert",132
-MACON,Circuit Judge  Circuit 41,,DEM,"Grimm, Hadley E.",2013
+MACON,Circuit Judge Circuit 41,,DEM,"Grimm, Hadley E.",2013
 MADISON,U.S. Senate,,REP,"Hair, Isaiah Jr",13
 MADISON,U.S. Senate,,REP,"Talent, Jim",906
 MADISON,U.S. Senate,,REP,"Lea, Joyce P.",22
@@ -1827,9 +1827,9 @@ MADISON,U.S. House,8,DEM,"Durnell, E. Earl",208
 MADISON,U.S. House,8,LIB,"McCullough, Branden C.",2
 MADISON,State House,156,REP,"Jetton, Rod (Rodney)",893
 MADISON,State House,156,DEM,"Winder, Michael R.",951
-MADISON,Circuit Judge  Circuit 24 Division 1,,DEM,"Kinsky, Carl",508
-MADISON,Circuit Judge  Circuit 24 Division 1,,DEM,"Martinez, Sandy",550
-MADISON,Circuit Judge  Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",944
+MADISON,Circuit Judge Circuit 24 Division 1,,DEM,"Kinsky, Carl",508
+MADISON,Circuit Judge Circuit 24 Division 1,,DEM,"Martinez, Sandy",550
+MADISON,Circuit Judge Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",944
 MARIES,U.S. Senate,,REP,"Hair, Isaiah Jr",10
 MARIES,U.S. Senate,,REP,"Talent, Jim",359
 MARIES,U.S. Senate,,REP,"Lea, Joyce P.",13
@@ -1855,7 +1855,7 @@ MARIES,State Senate,16,DEM,"Barnitz, Frank A.",1427
 MARIES,State House,112,REP,"Loehner, Tom",351
 MARIES,State House,112,DEM,"Tramel, Tom",531
 MARIES,State House,112,DEM,"Schaeperkoetter, Mark A.",1056
-MARIES,Circuit Judge  Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1227
+MARIES,Circuit Judge Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1227
 MARION,U.S. Senate,,REP,"Hair, Isaiah Jr",4
 MARION,U.S. Senate,,REP,"Talent, Jim",568
 MARION,U.S. Senate,,REP,"Lea, Joyce P.",14
@@ -1881,7 +1881,7 @@ MARION,State House,1,REP,"Munzlinger, Brian",61
 MARION,State House,1,DEM,"Hicks, Beau J.",291
 MARION,State House,6,REP,"Koetters, Chris",448
 MARION,State House,6,DEM,"Bringer, Rachel",2295
-MARION,Circuit Judge  Circuit 10,,DEM,"Clayton, Robert M. II",2447
+MARION,Circuit Judge Circuit 10,,DEM,"Clayton, Robert M. II",2447
 MCDONALD,U.S. Senate,,REP,"Hair, Isaiah Jr",53
 MCDONALD,U.S. Senate,,REP,"Talent, Jim",1458
 MCDONALD,U.S. Senate,,REP,"Lea, Joyce P.",75
@@ -1910,7 +1910,7 @@ MCDONALD,State House,130,REP,"Wilson, Kevin",746
 MCDONALD,State House,130,DEM,"Felder, John",155
 MCDONALD,State House,131,REP,"Ruestman, Marilyn M.",845
 MCDONALD,State House,131,DEM,"Carnahan, Ben",171
-MCDONALD,Circuit Judge  Circuit 40,,REP,"Perigo, Timothy W.",1527
+MCDONALD,Circuit Judge Circuit 40,,REP,"Perigo, Timothy W.",1527
 MERCER,U.S. Senate,,REP,"Hair, Isaiah Jr",15
 MERCER,U.S. Senate,,REP,"Talent, Jim",436
 MERCER,U.S. Senate,,REP,"Lea, Joyce P.",19
@@ -1934,7 +1934,7 @@ MERCER,State Senate,12,REP,"Lager, Brad",370
 MERCER,State Senate,12,DEM,"Neely, James W. (Jim)",58
 MERCER,State House,3,REP,"Guernsey, Casey",376
 MERCER,State House,3,DEM,"Whorton, Jim",67
-MERCER,Circuit Judge  Circuit 3,,REP,"Peace, Jack",457
+MERCER,Circuit Judge Circuit 3,,REP,"Peace, Jack",457
 MILLER,U.S. Senate,,REP,"Hair, Isaiah Jr",73
 MILLER,U.S. Senate,,REP,"Talent, Jim",2902
 MILLER,U.S. Senate,,REP,"Lea, Joyce P.",187
@@ -1961,11 +1961,11 @@ MILLER,State House,115,DEM,"Barnicle, Tony",239
 MILLER,State House,115,DEM,"Gray, Kerry Dean",284
 MILLER,State House,155,REP,"Cooper, Wayne",37
 MILLER,State House,155,REP,"Mowinski, Bernie",7
-MILLER,Circuit Judge  Circuit 26 Division 1,,REP,"Seek, Robert J.",1155
-MILLER,Circuit Judge  Circuit 26 Division 1,,REP,"Lutz, Mary Kay",889
-MILLER,Circuit Judge  Circuit 26 Division 1,,REP,"Walker, John",585
-MILLER,Circuit Judge  Circuit 26 Division 1,,REP,"Rives, W. Steven",588
-MILLER,Circuit Judge  Circuit 26 Division 1,,REP,"Moore, G. Stanley",266
+MILLER,Circuit Judge Circuit 26 Division 1,,REP,"Seek, Robert J.",1155
+MILLER,Circuit Judge Circuit 26 Division 1,,REP,"Lutz, Mary Kay",889
+MILLER,Circuit Judge Circuit 26 Division 1,,REP,"Walker, John",585
+MILLER,Circuit Judge Circuit 26 Division 1,,REP,"Rives, W. Steven",588
+MILLER,Circuit Judge Circuit 26 Division 1,,REP,"Moore, G. Stanley",266
 MISSISSIPPI,U.S. Senate,,REP,"Hair, Isaiah Jr",1
 MISSISSIPPI,U.S. Senate,,REP,"Talent, Jim",25
 MISSISSIPPI,U.S. Senate,,REP,"Lea, Joyce P.",1
@@ -1991,7 +1991,7 @@ MISSISSIPPI,State House,160,REP,"Brandom, Ellen",0
 MISSISSIPPI,State House,160,DEM,"Tetley, Larry",0
 MISSISSIPPI,State House,161,REP,"Branum, Gary",27
 MISSISSIPPI,State House,161,DEM,"Hodges, Steve",2354
-MISSISSIPPI,Circuit Judge  Circuit 33,,DEM,"Dolan, David A.",2275
+MISSISSIPPI,Circuit Judge Circuit 33,,DEM,"Dolan, David A.",2275
 MONITEAU,U.S. Senate,,REP,"Hair, Isaiah Jr",25
 MONITEAU,U.S. Senate,,REP,"Talent, Jim",1072
 MONITEAU,U.S. Senate,,REP,"Lea, Joyce P.",38
@@ -2018,11 +2018,11 @@ MONITEAU,State Senate,6,REP,"Vogel, Carl M.",1077
 MONITEAU,State Senate,6,DEM,"Bonar, Ronald",324
 MONITEAU,State House,117,REP,"Jones, Kenny",1079
 MONITEAU,State House,117,DEM,"Dubovick, John",328
-MONITEAU,Circuit Judge  Circuit 26 Division 1,,REP,"Seek, Robert J.",262
-MONITEAU,Circuit Judge  Circuit 26 Division 1,,REP,"Lutz, Mary Kay",649
-MONITEAU,Circuit Judge  Circuit 26 Division 1,,REP,"Walker, John",163
-MONITEAU,Circuit Judge  Circuit 26 Division 1,,REP,"Rives, W. Steven",60
-MONITEAU,Circuit Judge  Circuit 26 Division 1,,REP,"Moore, G. Stanley",112
+MONITEAU,Circuit Judge Circuit 26 Division 1,,REP,"Seek, Robert J.",262
+MONITEAU,Circuit Judge Circuit 26 Division 1,,REP,"Lutz, Mary Kay",649
+MONITEAU,Circuit Judge Circuit 26 Division 1,,REP,"Walker, John",163
+MONITEAU,Circuit Judge Circuit 26 Division 1,,REP,"Rives, W. Steven",60
+MONITEAU,Circuit Judge Circuit 26 Division 1,,REP,"Moore, G. Stanley",112
 MONROE,U.S. Senate,,REP,"Hair, Isaiah Jr",0
 MONROE,U.S. Senate,,REP,"Talent, Jim",94
 MONROE,U.S. Senate,,REP,"Lea, Joyce P.",2
@@ -2049,7 +2049,7 @@ MONROE,State House,9,DEM,"Lawson, Ewell",603
 MONROE,State House,9,DEM,"Quinn, Paul",1565
 MONROE,State House,21,REP,"Hobbs, Steve",5
 MONROE,State House,21,DEM,"Elkin, Skip",124
-MONROE,Circuit Judge  Circuit 10,,DEM,"Clayton, Robert M. II",1876
+MONROE,Circuit Judge Circuit 10,,DEM,"Clayton, Robert M. II",1876
 MONTGOMERY,U.S. Senate,,REP,"Hair, Isaiah Jr",30
 MONTGOMERY,U.S. Senate,,REP,"Talent, Jim",1450
 MONTGOMERY,U.S. Senate,,REP,"Lea, Joyce P.",71
@@ -2076,7 +2076,7 @@ MONTGOMERY,State House,10,REP,"Swarnes, John W.",156
 MONTGOMERY,State House,10,DEM,"Witte, Terry L.",24
 MONTGOMERY,State House,99,REP,"Sutherland, Mike",1350
 MONTGOMERY,State House,99,DEM,"Marshall, Kyle L.",249
-MONTGOMERY,Circuit Judge  Circuit 12,,REP,"Sutherland, Keith M.",1428
+MONTGOMERY,Circuit Judge Circuit 12,,REP,"Sutherland, Keith M.",1428
 MORGAN,U.S. Senate,,REP,"Hair, Isaiah Jr",31
 MORGAN,U.S. Senate,,REP,"Talent, Jim",1906
 MORGAN,U.S. Senate,,REP,"Lea, Joyce P.",102
@@ -2109,11 +2109,11 @@ MORGAN,State House,117,REP,"Jones, Kenny",59
 MORGAN,State House,117,DEM,"Dubovick, John",15
 MORGAN,State House,155,REP,"Cooper, Wayne",5
 MORGAN,State House,155,REP,"Mowinski, Bernie",2
-MORGAN,Circuit Judge  Circuit 26 Division 1,,REP,"Seek, Robert J.",524
-MORGAN,Circuit Judge  Circuit 26 Division 1,,REP,"Lutz, Mary Kay",647
-MORGAN,Circuit Judge  Circuit 26 Division 1,,REP,"Walker, John",430
-MORGAN,Circuit Judge  Circuit 26 Division 1,,REP,"Rives, W. Steven",207
-MORGAN,Circuit Judge  Circuit 26 Division 1,,REP,"Moore, G. Stanley",319
+MORGAN,Circuit Judge Circuit 26 Division 1,,REP,"Seek, Robert J.",524
+MORGAN,Circuit Judge Circuit 26 Division 1,,REP,"Lutz, Mary Kay",647
+MORGAN,Circuit Judge Circuit 26 Division 1,,REP,"Walker, John",430
+MORGAN,Circuit Judge Circuit 26 Division 1,,REP,"Rives, W. Steven",207
+MORGAN,Circuit Judge Circuit 26 Division 1,,REP,"Moore, G. Stanley",319
 NEW MADRID,U.S. Senate,,REP,"Hair, Isaiah Jr",3
 NEW MADRID,U.S. Senate,,REP,"Talent, Jim",303
 NEW MADRID,U.S. Senate,,REP,"Lea, Joyce P.",6
@@ -2140,7 +2140,7 @@ NEW MADRID,State House,160,DEM,"Tetley, Larry",50
 NEW MADRID,State House,161,REP,"Branum, Gary",210
 NEW MADRID,State House,161,DEM,"Hodges, Steve",442
 NEW MADRID,State House,162,DEM,"Swinger, Terry",239
-NEW MADRID,Circuit Judge  Circuit 34,,DEM,"Copeland, Fred W.",727
+NEW MADRID,Circuit Judge Circuit 34,,DEM,"Copeland, Fred W.",727
 NEWTON,U.S. Senate,,REP,"Hair, Isaiah Jr",83
 NEWTON,U.S. Senate,,REP,"Talent, Jim",2546
 NEWTON,U.S. Senate,,REP,"Lea, Joyce P.",140
@@ -2172,7 +2172,7 @@ NEWTON,State House,130,REP,"Wilson, Kevin",1181
 NEWTON,State House,130,DEM,"Felder, John",253
 NEWTON,State House,131,REP,"Ruestman, Marilyn M.",1016
 NEWTON,State House,131,DEM,"Carnahan, Ben",338
-NEWTON,Circuit Judge  Circuit 40,,REP,"Perigo, Timothy W.",2543
+NEWTON,Circuit Judge Circuit 40,,REP,"Perigo, Timothy W.",2543
 NODAWAY,U.S. Senate,,REP,"Hair, Isaiah Jr",18
 NODAWAY,U.S. Senate,,REP,"Talent, Jim",1286
 NODAWAY,U.S. Senate,,REP,"Lea, Joyce P.",48
@@ -2196,7 +2196,7 @@ NODAWAY,State Senate,12,REP,"Lager, Brad",1367
 NODAWAY,State Senate,12,DEM,"Neely, James W. (Jim)",1804
 NODAWAY,State House,4,REP,"Thomson, Mike",1328
 NODAWAY,State House,4,DEM,"Oswald, Richard R.",1780
-NODAWAY,Circuit Judge  Circuit 4,,REP,"Prokes, Roger M.",1314
+NODAWAY,Circuit Judge Circuit 4,,REP,"Prokes, Roger M.",1314
 OREGON,U.S. Senate,,REP,"Hair, Isaiah Jr",5
 OREGON,U.S. Senate,,REP,"Talent, Jim",438
 OREGON,U.S. Senate,,REP,"Lea, Joyce P.",14
@@ -2220,8 +2220,8 @@ OREGON,U.S. House,8,DEM,"Durnell, E. Earl",295
 OREGON,U.S. House,8,LIB,"McCullough, Branden C.",4
 OREGON,State House,153,REP,"Dethrow, Mike",500
 OREGON,State House,153,DEM,"Burke, Kenny D.",921
-OREGON,Circuit Judge  Circuit 37,,REP,"Moore, Richard",206
-OREGON,Circuit Judge  Circuit 37,,REP,"Evans, David Paul",301
+OREGON,Circuit Judge Circuit 37,,REP,"Moore, Richard",206
+OREGON,Circuit Judge Circuit 37,,REP,"Evans, David Paul",301
 OSAGE,U.S. Senate,,REP,"Hair, Isaiah Jr",27
 OSAGE,U.S. Senate,,REP,"Talent, Jim",1532
 OSAGE,U.S. Senate,,REP,"Lea, Joyce P.",38
@@ -2247,7 +2247,7 @@ OSAGE,State Senate,16,DEM,"Barnitz, Frank A.",849
 OSAGE,State House,112,REP,"Loehner, Tom",1558
 OSAGE,State House,112,DEM,"Tramel, Tom",219
 OSAGE,State House,112,DEM,"Schaeperkoetter, Mark A.",744
-OSAGE,Circuit Judge  Circuit 20 Division 1,,REP,"Wood, Gael D.",1217
+OSAGE,Circuit Judge Circuit 20 Division 1,,REP,"Wood, Gael D.",1217
 OZARK,U.S. Senate,,REP,"Hair, Isaiah Jr",39
 OZARK,U.S. Senate,,REP,"Talent, Jim",1114
 OZARK,U.S. Senate,,REP,"Lea, Joyce P.",99
@@ -2272,8 +2272,8 @@ OZARK,U.S. House,8,LIB,"McCullough, Branden C.",2
 OZARK,State House,143,REP,"Wallace, Maynard",1184
 OZARK,State House,143,REP,"Lind, Mike",248
 OZARK,State House,143,DEM,"Hilliard, Cathy",190
-OZARK,Circuit Judge  Circuit 44,,REP,"Moody, John Garner",977
-OZARK,Circuit Judge  Circuit 44,,REP,"Bruffett, John W.",417
+OZARK,Circuit Judge Circuit 44,,REP,"Moody, John Garner",977
+OZARK,Circuit Judge Circuit 44,,REP,"Bruffett, John W.",417
 PEMISCOT,U.S. Senate,,REP,"Hair, Isaiah Jr",2
 PEMISCOT,U.S. Senate,,REP,"Talent, Jim",46
 PEMISCOT,U.S. Senate,,REP,"Lea, Joyce P.",0
@@ -2296,7 +2296,7 @@ PEMISCOT,U.S. House,8,DEM,"Curtis, Gene",395
 PEMISCOT,U.S. House,8,DEM,"Durnell, E. Earl",230
 PEMISCOT,U.S. House,8,LIB,"McCullough, Branden C.",1
 PEMISCOT,State House,162,DEM,"Swinger, Terry",1103
-PEMISCOT,Circuit Judge  Circuit 34,,DEM,"Copeland, Fred W.",939
+PEMISCOT,Circuit Judge Circuit 34,,DEM,"Copeland, Fred W.",939
 PERRY,U.S. Senate,,REP,"Hair, Isaiah Jr",55
 PERRY,U.S. Senate,,REP,"Talent, Jim",3040
 PERRY,U.S. Senate,,REP,"Lea, Joyce P.",145
@@ -2320,8 +2320,8 @@ PERRY,U.S. House,8,DEM,"Durnell, E. Earl",52
 PERRY,U.S. House,8,LIB,"McCullough, Branden C.",0
 PERRY,State House,106,REP,"Tilley, Steven",1632
 PERRY,State House,157,REP,"Lipke, Scott A.",1426
-PERRY,Circuit Judge  Circuit 32 Division 2,,REP,"Lewis, Ben",2782
-PERRY,Circuit Judge  Circuit 32 Division 2,,DEM,"Heisserer, John P.",181
+PERRY,Circuit Judge Circuit 32 Division 2,,REP,"Lewis, Ben",2782
+PERRY,Circuit Judge Circuit 32 Division 2,,DEM,"Heisserer, John P.",181
 PETTIS,U.S. Senate,,REP,"Hair, Isaiah Jr",59
 PETTIS,U.S. Senate,,REP,"Talent, Jim",2305
 PETTIS,U.S. Senate,,REP,"Lea, Joyce P.",78
@@ -2353,7 +2353,7 @@ PETTIS,State House,118,REP,"Smith, Todd",1539
 PETTIS,State House,118,DEM,"Beck, Jerry Garth",931
 PETTIS,State House,120,REP,"Cooper, Shannon",6
 PETTIS,State House,120,DEM,"Kenney, Kristi L.",2
-PETTIS,Circuit Judge  Circuit 18,,REP,"Koffman, Robert L.",2306
+PETTIS,Circuit Judge Circuit 18,,REP,"Koffman, Robert L.",2306
 PHELPS,U.S. Senate,,REP,"Hair, Isaiah Jr",31
 PHELPS,U.S. Senate,,REP,"Talent, Jim",2206
 PHELPS,U.S. Senate,,REP,"Lea, Joyce P.",71
@@ -2385,7 +2385,7 @@ PHELPS,State House,149,DEM,"Bledsoe, Wayne",1102
 PHELPS,State House,150,REP,"Smith, Jason T.",66
 PHELPS,State House,150,DEM,"O'Donnell, Jim",47
 PHELPS,State House,150,LIB,"Dubie, Chief Wana",1
-PHELPS,Circuit Judge  Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1289
+PHELPS,Circuit Judge Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1289
 PIKE,U.S. Senate,,REP,"Hair, Isaiah Jr",2
 PIKE,U.S. Senate,,REP,"Talent, Jim",290
 PIKE,U.S. Senate,,REP,"Lea, Joyce P.",5
@@ -2409,7 +2409,7 @@ PIKE,State Senate,18,REP,"Behnen, Robert J. (Bob)",260
 PIKE,State Senate,18,DEM,"Shoemyer, Wes",2362
 PIKE,State House,10,REP,"Swarnes, John W.",268
 PIKE,State House,10,DEM,"Witte, Terry L.",2555
-PIKE,Circuit Judge  Circuit 45,,DEM,"Dildine, Dan",2473
+PIKE,Circuit Judge Circuit 45,,DEM,"Dildine, Dan",2473
 PLATTE,U.S. Senate,,REP,"Hair, Isaiah Jr",52
 PLATTE,U.S. Senate,,REP,"Talent, Jim",3832
 PLATTE,U.S. Senate,,REP,"Lea, Joyce P.",121
@@ -2472,7 +2472,7 @@ POLK,State Senate,28,REP,"Scott, Delbert L.",2554
 POLK,State House,126,REP,"Emery, Ed",533
 POLK,State House,126,DEM,"Meyer, Rich",228
 POLK,State House,133,REP,"Parson, Mike",2163
-POLK,Circuit Judge  Circuit 30,,REP,"Sims, John W. (Bill)",2416
+POLK,Circuit Judge Circuit 30,,REP,"Sims, John W. (Bill)",2416
 PULASKI,U.S. Senate,,REP,"Hair, Isaiah Jr",51
 PULASKI,U.S. Senate,,REP,"Talent, Jim",1910
 PULASKI,U.S. Senate,,REP,"Lea, Joyce P.",68
@@ -2502,7 +2502,7 @@ PULASKI,State House,147,REP,"Wells, Don",23
 PULASKI,State House,147,DEM,"Baker, Larry W.",21
 PULASKI,State House,148,REP,"Day, David",1979
 PULASKI,State House,148,DEM,"Bomar, Kyle Weston",1204
-PULASKI,Circuit Judge  Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1395
+PULASKI,Circuit Judge Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1395
 PUTNAM,U.S. Senate,,REP,"Hair, Isaiah Jr",21
 PUTNAM,U.S. Senate,,REP,"Talent, Jim",843
 PUTNAM,U.S. Senate,,REP,"Lea, Joyce P.",60
@@ -2526,7 +2526,7 @@ PUTNAM,State Senate,18,REP,"Behnen, Robert J. (Bob)",939
 PUTNAM,State Senate,18,DEM,"Shoemyer, Wes",39
 PUTNAM,State House,2,REP,"Summers, Nancy",920
 PUTNAM,State House,2,DEM,"McClanahan, Rebecca",41
-PUTNAM,Circuit Judge  Circuit 3,,REP,"Peace, Jack",847
+PUTNAM,Circuit Judge Circuit 3,,REP,"Peace, Jack",847
 RALLS,U.S. Senate,,REP,"Hair, Isaiah Jr",0
 RALLS,U.S. Senate,,REP,"Talent, Jim",133
 RALLS,U.S. Senate,,REP,"Lea, Joyce P.",4
@@ -2552,7 +2552,7 @@ RALLS,State House,6,REP,"Koetters, Chris",124
 RALLS,State House,6,DEM,"Bringer, Rachel",1136
 RALLS,State House,10,REP,"Swarnes, John W.",0
 RALLS,State House,10,DEM,"Witte, Terry L.",0
-RALLS,Circuit Judge  Circuit 10,,DEM,"Clayton, Robert M. II",1004
+RALLS,Circuit Judge Circuit 10,,DEM,"Clayton, Robert M. II",1004
 RANDOLPH,U.S. Senate,,REP,"Hair, Isaiah Jr",3
 RANDOLPH,U.S. Senate,,REP,"Talent, Jim",617
 RANDOLPH,U.S. Senate,,REP,"Lea, Joyce P.",19
@@ -2574,9 +2574,9 @@ RANDOLPH,U.S. House,9,DEM,"Burghard, Duane N.",2202
 RANDOLPH,U.S. House,9,LIB,"Hedrick, Steven R.",1
 RANDOLPH,State House,22,REP,"Sander, Therese",624
 RANDOLPH,State House,22,DEM,"Harrington, Robert",2230
-RANDOLPH,Circuit Judge  Circuit 14,,REP,"Cooksey, Jim",557
-RANDOLPH,Circuit Judge  Circuit 14,,DEM,"Hayes, Scott A.",1731
-RANDOLPH,Circuit Judge  Circuit 14,,DEM,"Shea, Thomas Michael",1038
+RANDOLPH,Circuit Judge Circuit 14,,REP,"Cooksey, Jim",557
+RANDOLPH,Circuit Judge Circuit 14,,DEM,"Hayes, Scott A.",1731
+RANDOLPH,Circuit Judge Circuit 14,,DEM,"Shea, Thomas Michael",1038
 RAY,U.S. Senate,,REP,"Hair, Isaiah Jr",2
 RAY,U.S. Senate,,REP,"Talent, Jim",475
 RAY,U.S. Senate,,REP,"Lea, Joyce P.",10
@@ -2601,7 +2601,7 @@ RAY,U.S. House,4,DEM,"Skelton, Ike",1312
 RAY,U.S. House,4,LIB,"Holthouse, Bryce A.",5
 RAY,State House,36,REP,"Nance, Bob",482
 RAY,State House,36,DEM,"Cline, Jerry A.",1157
-RAY,Circuit Judge  Circuit 8,,REP,"Moentmann, Werner A.",431
+RAY,Circuit Judge Circuit 8,,REP,"Moentmann, Werner A.",431
 REYNOLDS,U.S. Senate,,REP,"Hair, Isaiah Jr",1
 REYNOLDS,U.S. Senate,,REP,"Talent, Jim",59
 REYNOLDS,U.S. Senate,,REP,"Lea, Joyce P.",2
@@ -2627,10 +2627,10 @@ REYNOLDS,State House,150,REP,"Smith, Jason T.",7
 REYNOLDS,State House,150,DEM,"O'Donnell, Jim",36
 REYNOLDS,State House,150,LIB,"Dubie, Chief Wana",0
 REYNOLDS,State House,152,DEM,"Kuessner, J. C.",1586
-REYNOLDS,Circuit Judge  Circuit 42 Division 1,,REP,"Hall, Glenn",47
-REYNOLDS,Circuit Judge  Circuit 42 Division 1,,DEM,"Seay, William Camm",1391
-REYNOLDS,Circuit Judge  Circuit 42 Division 2,,REP,"Howald, J. Kent",47
-REYNOLDS,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",1365
+REYNOLDS,Circuit Judge Circuit 42 Division 1,,REP,"Hall, Glenn",47
+REYNOLDS,Circuit Judge Circuit 42 Division 1,,DEM,"Seay, William Camm",1391
+REYNOLDS,Circuit Judge Circuit 42 Division 2,,REP,"Howald, J. Kent",47
+REYNOLDS,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",1365
 RIPLEY,U.S. Senate,,REP,"Hair, Isaiah Jr",17
 RIPLEY,U.S. Senate,,REP,"Talent, Jim",936
 RIPLEY,U.S. Senate,,REP,"Lea, Joyce P.",28
@@ -2680,9 +2680,9 @@ SALINE,State House,26,DEM,"Aull, Joe",2695
 SALINE,State House,118,REP,"Sherman, Philip J.",32
 SALINE,State House,118,REP,"Smith, Todd",57
 SALINE,State House,118,DEM,"Beck, Jerry Garth",226
-SALINE,Circuit Judge  Circuit 15,,REP,"Perry, Weldon W. (Chip) Jr.",326
-SALINE,Circuit Judge  Circuit 15,,DEM,"Rolf, Dennis A.",1483
-SALINE,Circuit Judge  Circuit 15,,DEM,"Barton, Jay Jr.",1802
+SALINE,Circuit Judge Circuit 15,,REP,"Perry, Weldon W. (Chip) Jr.",326
+SALINE,Circuit Judge Circuit 15,,DEM,"Rolf, Dennis A.",1483
+SALINE,Circuit Judge Circuit 15,,DEM,"Barton, Jay Jr.",1802
 SCHUYLER,U.S. Senate,,REP,"Hair, Isaiah Jr",1
 SCHUYLER,U.S. Senate,,REP,"Talent, Jim",74
 SCHUYLER,U.S. Senate,,REP,"Lea, Joyce P.",1
@@ -2757,7 +2757,7 @@ SCOTT,State House,160,REP,"Brandom, Ellen",402
 SCOTT,State House,160,DEM,"Tetley, Larry",3769
 SCOTT,State House,161,REP,"Branum, Gary",104
 SCOTT,State House,161,DEM,"Hodges, Steve",885
-SCOTT,Circuit Judge  Circuit 33,,DEM,"Dolan, David A.",5187
+SCOTT,Circuit Judge Circuit 33,,DEM,"Dolan, David A.",5187
 SHANNON,U.S. Senate,,REP,"Hair, Isaiah Jr",5
 SHANNON,U.S. Senate,,REP,"Talent, Jim",404
 SHANNON,U.S. Senate,,REP,"Lea, Joyce P.",14
@@ -2782,8 +2782,8 @@ SHANNON,U.S. House,8,LIB,"McCullough, Branden C.",1
 SHANNON,State House,147,REP,"Wells, Don",2
 SHANNON,State House,147,DEM,"Baker, Larry W.",5
 SHANNON,State House,152,DEM,"Kuessner, J. C.",1702
-SHANNON,Circuit Judge  Circuit 37,,REP,"Moore, Richard",245
-SHANNON,Circuit Judge  Circuit 37,,REP,"Evans, David Paul",208
+SHANNON,Circuit Judge Circuit 37,,REP,"Moore, Richard",245
+SHANNON,Circuit Judge Circuit 37,,REP,"Evans, David Paul",208
 SHELBY,U.S. Senate,,REP,"Hair, Isaiah Jr",5
 SHELBY,U.S. Senate,,REP,"Talent, Jim",166
 SHELBY,U.S. Senate,,REP,"Lea, Joyce P.",3
@@ -2807,7 +2807,7 @@ SHELBY,State Senate,18,REP,"Behnen, Robert J. (Bob)",164
 SHELBY,State Senate,18,DEM,"Shoemyer, Wes",1515
 SHELBY,State House,8,REP,"Chinn, Kathy L.",174
 SHELBY,State House,8,DEM,"Shively, Tom",1453
-SHELBY,Circuit Judge  Circuit 41,,DEM,"Grimm, Hadley E.",1406
+SHELBY,Circuit Judge Circuit 41,,DEM,"Grimm, Hadley E.",1406
 ST CHARLES,U.S. Senate,,REP,"Hair, Isaiah Jr",384
 ST CHARLES,U.S. Senate,,REP,"Talent, Jim",21837
 ST CHARLES,U.S. Senate,,REP,"Lea, Joyce P.",820
@@ -2858,13 +2858,13 @@ ST CHARLES,State House,18,DEM,"Koester, Joe",1248
 ST CHARLES,State House,19,REP,"Davis, Cynthia L.",2066
 ST CHARLES,State House,19,DEM,"Morris, Mike",1036
 ST CHARLES,State House,109,REP,"Threlkeld, Kevin",942
-ST CHARLES,Circuit Judge  Circuit 11 Division 3,,REP,"Rauch, Lucy D.",18989
-ST CHARLES,Circuit Judge  Circuit 11 Division 4,,REP,"Veit, Richard",3796
-ST CHARLES,Circuit Judge  Circuit 11 Division 4,,REP,"Conard, Frank A.",6272
-ST CHARLES,Circuit Judge  Circuit 11 Division 4,,REP,"Zerr, Rick",11678
-ST CHARLES,Circuit Judge  Circuit 11 Division 4,,DEM,"Carter, Michael E.",9569
-ST CHARLES,Circuit Judge  Circuit 11 Division 5,,REP,"Cunningham, Jon A.",18569
-ST CHARLES,Circuit Judge  Circuit 11 Division 7,,REP,"Pelikan, Daniel G.",18468
+ST CHARLES,Circuit Judge Circuit 11 Division 3,,REP,"Rauch, Lucy D.",18989
+ST CHARLES,Circuit Judge Circuit 11 Division 4,,REP,"Veit, Richard",3796
+ST CHARLES,Circuit Judge Circuit 11 Division 4,,REP,"Conard, Frank A.",6272
+ST CHARLES,Circuit Judge Circuit 11 Division 4,,REP,"Zerr, Rick",11678
+ST CHARLES,Circuit Judge Circuit 11 Division 4,,DEM,"Carter, Michael E.",9569
+ST CHARLES,Circuit Judge Circuit 11 Division 5,,REP,"Cunningham, Jon A.",18569
+ST CHARLES,Circuit Judge Circuit 11 Division 7,,REP,"Pelikan, Daniel G.",18468
 ST CLAIR,U.S. Senate,,REP,"Hair, Isaiah Jr",2
 ST CLAIR,U.S. Senate,,REP,"Talent, Jim",578
 ST CLAIR,U.S. Senate,,REP,"Lea, Joyce P.",13
@@ -2890,7 +2890,7 @@ ST CLAIR,U.S. House,4,LIB,"Holthouse, Bryce A.",6
 ST CLAIR,State Senate,28,REP,"Scott, Delbert L.",572
 ST CLAIR,State House,119,REP,"Wilson, Larry D.",569
 ST CLAIR,State House,119,LIB,"Casebolt, Benjamin J.",5
-ST CLAIR,Circuit Judge  Circuit 27,,DEM,"Journey, James K.",563
+ST CLAIR,Circuit Judge Circuit 27,,DEM,"Journey, James K.",563
 ST FRANCOIS,U.S. Senate,,REP,"Hair, Isaiah Jr",23
 ST FRANCOIS,U.S. Senate,,REP,"Talent, Jim",1855
 ST FRANCOIS,U.S. Senate,,REP,"Lea, Joyce P.",38
@@ -2915,9 +2915,9 @@ ST FRANCOIS,U.S. House,8,LIB,"McCullough, Branden C.",12
 ST FRANCOIS,State House,106,REP,"Tilley, Steven",1049
 ST FRANCOIS,State House,107,DEM,"Robinson, Brad",3823
 ST FRANCOIS,State House,107,LIB,"McElrath, Leroy",7
-ST FRANCOIS,Circuit Judge  Circuit 24 Division 1,,DEM,"Kinsky, Carl",3141
-ST FRANCOIS,Circuit Judge  Circuit 24 Division 1,,DEM,"Martinez, Sandy",3913
-ST FRANCOIS,Circuit Judge  Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",6090
+ST FRANCOIS,Circuit Judge Circuit 24 Division 1,,DEM,"Kinsky, Carl",3141
+ST FRANCOIS,Circuit Judge Circuit 24 Division 1,,DEM,"Martinez, Sandy",3913
+ST FRANCOIS,Circuit Judge Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",6090
 ST LOUIS,U.S. Senate,,REP,"Hair, Isaiah Jr",49
 ST LOUIS,U.S. Senate,,REP,"Talent, Jim",1933
 ST LOUIS,U.S. Senate,,REP,"Lea, Joyce P.",77
@@ -3095,9 +3095,9 @@ STE GENEVIEVE,State House,104,DEM,"Nugent, Robert H.",1002
 STE GENEVIEVE,State House,104,DEM,"Henry, Richard",248
 STE GENEVIEVE,State House,104,DEM,"Fallert, Joseph Jr.",2084
 STE GENEVIEVE,State House,106,REP,"Tilley, Steven",92
-STE GENEVIEVE,Circuit Judge  Circuit 24 Division 1,,DEM,"Kinsky, Carl",2167
-STE GENEVIEVE,Circuit Judge  Circuit 24 Division 1,,DEM,"Martinez, Sandy",1632
-STE GENEVIEVE,Circuit Judge  Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",2966
+STE GENEVIEVE,Circuit Judge Circuit 24 Division 1,,DEM,"Kinsky, Carl",2167
+STE GENEVIEVE,Circuit Judge Circuit 24 Division 1,,DEM,"Martinez, Sandy",1632
+STE GENEVIEVE,Circuit Judge Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",2966
 STODDARD,U.S. Senate,,REP,"Hair, Isaiah Jr",3
 STODDARD,U.S. Senate,,REP,"Talent, Jim",814
 STODDARD,U.S. Senate,,REP,"Lea, Joyce P.",14
@@ -3126,7 +3126,7 @@ STODDARD,State House,161,DEM,"Hodges, Steve",27
 STODDARD,State House,163,REP,"Mitchell, Keith",57
 STODDARD,State House,163,DEM,"Allen, Pat",62
 STODDARD,State House,163,DEM,"Todd, Thomas (Tom)",106
-STODDARD,Circuit Judge  Circuit 35,,DEM,"Sharp, Stephen R.",1177
+STODDARD,Circuit Judge Circuit 35,,DEM,"Sharp, Stephen R.",1177
 STONE,U.S. Senate,,REP,"Hair, Isaiah Jr",103
 STONE,U.S. Senate,,REP,"Talent, Jim",3776
 STONE,U.S. Senate,,REP,"Lea, Joyce P.",211
@@ -3162,7 +3162,7 @@ STONE,State House,141,DEM,"Blankenship, Kyle",66
 STONE,State House,143,REP,"Wallace, Maynard",118
 STONE,State House,143,REP,"Lind, Mike",39
 STONE,State House,143,DEM,"Hilliard, Cathy",47
-STONE,Circuit Judge  Circuit 39,,REP,"Wiley, Robert S.",4003
+STONE,Circuit Judge Circuit 39,,REP,"Wiley, Robert S.",4003
 SULLIVAN,U.S. Senate,,REP,"Hair, Isaiah Jr",10
 SULLIVAN,U.S. Senate,,REP,"Talent, Jim",484
 SULLIVAN,U.S. Senate,,REP,"Lea, Joyce P.",13
@@ -3190,7 +3190,7 @@ SULLIVAN,State House,3,REP,"Guernsey, Casey",146
 SULLIVAN,State House,3,DEM,"Whorton, Jim",327
 SULLIVAN,State House,8,REP,"Chinn, Kathy L.",1
 SULLIVAN,State House,8,DEM,"Shively, Tom",10
-SULLIVAN,Circuit Judge  Circuit 9,,DEM,"Ravens, Gary E.",909
+SULLIVAN,Circuit Judge Circuit 9,,DEM,"Ravens, Gary E.",909
 TANEY,U.S. Senate,,REP,"Hair, Isaiah Jr",148
 TANEY,U.S. Senate,,REP,"Talent, Jim",5097
 TANEY,U.S. Senate,,REP,"Lea, Joyce P.",364
@@ -3228,9 +3228,9 @@ TANEY,State House,142,REP,"Owens, Jon",214
 TANEY,State House,143,REP,"Wallace, Maynard",2471
 TANEY,State House,143,REP,"Lind, Mike",777
 TANEY,State House,143,DEM,"Hilliard, Cathy",374
-TANEY,Circuit Judge  Circuit 38,,REP,"Sanders, Rita Kay",777
-TANEY,Circuit Judge  Circuit 38,,REP,"Orr, Mark",2598
-TANEY,Circuit Judge  Circuit 38,,REP,"Daniels, Rodney",2922
+TANEY,Circuit Judge Circuit 38,,REP,"Sanders, Rita Kay",777
+TANEY,Circuit Judge Circuit 38,,REP,"Orr, Mark",2598
+TANEY,Circuit Judge Circuit 38,,REP,"Daniels, Rodney",2922
 TEXAS,U.S. Senate,,REP,"Hair, Isaiah Jr",17
 TEXAS,U.S. Senate,,REP,"Talent, Jim",943
 TEXAS,U.S. Senate,,REP,"Lea, Joyce P.",27
@@ -3255,7 +3255,7 @@ TEXAS,U.S. House,8,LIB,"McCullough, Branden C.",17
 TEXAS,State House,144,REP,"Kelly, Van",161
 TEXAS,State House,147,REP,"Wells, Don",795
 TEXAS,State House,147,DEM,"Baker, Larry W.",912
-TEXAS,Circuit Judge  Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1005
+TEXAS,Circuit Judge Circuit 25 Division 1,,DEM,"Storie, Tracy L.",1005
 VERNON,U.S. Senate,,REP,"Hair, Isaiah Jr",11
 VERNON,U.S. Senate,,REP,"Talent, Jim",525
 VERNON,U.S. Senate,,REP,"Lea, Joyce P.",12
@@ -3280,7 +3280,7 @@ VERNON,U.S. House,4,DEM,"Skelton, Ike",2185
 VERNON,U.S. House,4,LIB,"Holthouse, Bryce A.",2
 VERNON,State House,125,REP,"Fisher, Barney",550
 VERNON,State House,125,DEM,"Wells, Timothy L. (Tim)",1788
-VERNON,Circuit Judge  Circuit 28,,REP,"Bickel, James R.",488
+VERNON,Circuit Judge Circuit 28,,REP,"Bickel, James R.",488
 WARREN,U.S. Senate,,REP,"Hair, Isaiah Jr",55
 WARREN,U.S. Senate,,REP,"Talent, Jim",2265
 WARREN,U.S. Senate,,REP,"Lea, Joyce P.",118
@@ -3310,7 +3310,7 @@ WARREN,State House,13,REP,"Bell, Stephanie",1
 WARREN,State House,13,REP,"Hackman, Denise R.",3
 WARREN,State House,99,REP,"Sutherland, Mike",2312
 WARREN,State House,99,DEM,"Marshall, Kyle L.",656
-WARREN,Circuit Judge  Circuit 12,,REP,"Sutherland, Keith M.",2245
+WARREN,Circuit Judge Circuit 12,,REP,"Sutherland, Keith M.",2245
 WASHINGTON,U.S. Senate,,REP,"Hair, Isaiah Jr",7
 WASHINGTON,U.S. Senate,,REP,"Talent, Jim",395
 WASHINGTON,U.S. Senate,,REP,"Lea, Joyce P.",8
@@ -3334,9 +3334,9 @@ WASHINGTON,U.S. House,8,DEM,"Durnell, E. Earl",340
 WASHINGTON,U.S. House,8,LIB,"McCullough, Branden C.",4
 WASHINGTON,State House,110,DEM,"Harris, Belinda",1003
 WASHINGTON,State House,152,DEM,"Kuessner, J. C.",616
-WASHINGTON,Circuit Judge  Circuit 24 Division 1,,DEM,"Kinsky, Carl",682
-WASHINGTON,Circuit Judge  Circuit 24 Division 1,,DEM,"Martinez, Sandy",1108
-WASHINGTON,Circuit Judge  Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",1406
+WASHINGTON,Circuit Judge Circuit 24 Division 1,,DEM,"Kinsky, Carl",682
+WASHINGTON,Circuit Judge Circuit 24 Division 1,,DEM,"Martinez, Sandy",1108
+WASHINGTON,Circuit Judge Circuit 24 Division 2,,DEM,"Pratte, Kenneth W.",1406
 WAYNE,U.S. Senate,,REP,"Hair, Isaiah Jr",8
 WAYNE,U.S. Senate,,REP,"Talent, Jim",359
 WAYNE,U.S. Senate,,REP,"Lea, Joyce P.",5
@@ -3364,10 +3364,10 @@ WAYNE,State House,156,REP,"Jetton, Rod (Rodney)",291
 WAYNE,State House,156,DEM,"Winder, Michael R.",977
 WAYNE,State House,159,REP,"Wright, Billy Pat",31
 WAYNE,State House,159,DEM,"Wooley, Boyce",70
-WAYNE,Circuit Judge  Circuit 42 Division 1,,REP,"Hall, Glenn",269
-WAYNE,Circuit Judge  Circuit 42 Division 1,,DEM,"Seay, William Camm",1233
-WAYNE,Circuit Judge  Circuit 42 Division 2,,REP,"Howald, J. Kent",279
-WAYNE,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",1199
+WAYNE,Circuit Judge Circuit 42 Division 1,,REP,"Hall, Glenn",269
+WAYNE,Circuit Judge Circuit 42 Division 1,,DEM,"Seay, William Camm",1233
+WAYNE,Circuit Judge Circuit 42 Division 2,,REP,"Howald, J. Kent",279
+WAYNE,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",1199
 WEBSTER,U.S. Senate,,REP,"Hair, Isaiah Jr",162
 WEBSTER,U.S. Senate,,REP,"Talent, Jim",4791
 WEBSTER,U.S. Senate,,REP,"Lea, Joyce P.",331
@@ -3393,7 +3393,7 @@ WEBSTER,U.S. House,4,LIB,"Holthouse, Bryce A.",11
 WEBSTER,State Senate,20,REP,"Clemens, Dan",5057
 WEBSTER,State Senate,20,DEM,"KreiderAdams, Barbie",963
 WEBSTER,State House,145,REP,"Cunningham, Mike",5203
-WEBSTER,Circuit Judge  Circuit 30,,REP,"Sims, John W. (Bill)",5048
+WEBSTER,Circuit Judge Circuit 30,,REP,"Sims, John W. (Bill)",5048
 WORTH,U.S. Senate,,REP,"Hair, Isaiah Jr",16
 WORTH,U.S. Senate,,REP,"Talent, Jim",470
 WORTH,U.S. Senate,,REP,"Lea, Joyce P.",21
@@ -3419,7 +3419,7 @@ WORTH,State House,3,REP,"Guernsey, Casey",182
 WORTH,State House,3,DEM,"Whorton, Jim",46
 WORTH,State House,4,REP,"Thomson, Mike",276
 WORTH,State House,4,DEM,"Oswald, Richard R.",72
-WORTH,Circuit Judge  Circuit 4,,REP,"Prokes, Roger M.",524
+WORTH,Circuit Judge Circuit 4,,REP,"Prokes, Roger M.",524
 WRIGHT,U.S. Senate,,REP,"Hair, Isaiah Jr",110
 WRIGHT,U.S. Senate,,REP,"Talent, Jim",3210
 WRIGHT,U.S. Senate,,REP,"Lea, Joyce P.",214
@@ -3442,5 +3442,5 @@ WRIGHT,U.S. House,8,DEM,"Curtis, Gene",135
 WRIGHT,U.S. House,8,DEM,"Durnell, E. Earl",119
 WRIGHT,U.S. House,8,LIB,"McCullough, Branden C.",18
 WRIGHT,State House,144,REP,"Kelly, Van",3437
-WRIGHT,Circuit Judge  Circuit 44,,REP,"Moody, John Garner",3137
-WRIGHT,Circuit Judge  Circuit 44,,REP,"Bruffett, John W.",793
+WRIGHT,Circuit Judge Circuit 44,,REP,"Moody, John Garner",3137
+WRIGHT,Circuit Judge Circuit 44,,REP,"Bruffett, John W.",793
