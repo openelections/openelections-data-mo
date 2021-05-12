@@ -54,7 +54,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,1st Ward,1.0
 Don Fitz,State Auditor,,GRN,Pettis,1st Ward,1.0
 ,Registered Voters,,CON,Pettis,1st Ward,3261.0
 ,Ballots Cast,,CON,Pettis,1st Ward,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,1st Ward,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,1st Ward,0.0
 ,Registered Voters,,REP,Pettis,2nd Ward,2653.0
 ,Ballots Cast,,REP,Pettis,2nd Ward,204.0
 Tony Monetti,U.S. Senate,,REP,Pettis,2nd Ward,18.0
@@ -110,7 +110,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,2nd Ward,0.0
 Don Fitz,State Auditor,,GRN,Pettis,2nd Ward,1.0
 ,Registered Voters,,CON,Pettis,2nd Ward,2653.0
 ,Ballots Cast,,CON,Pettis,2nd Ward,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,2nd Ward,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,2nd Ward,0.0
 ,Registered Voters,,REP,Pettis,3rd Ward,3189.0
 ,Ballots Cast,,REP,Pettis,3rd Ward,409.0
 Tony Monetti,U.S. Senate,,REP,Pettis,3rd Ward,56.0
@@ -166,7 +166,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,3rd Ward,2.0
 Don Fitz,State Auditor,,GRN,Pettis,3rd Ward,2.0
 ,Registered Voters,,CON,Pettis,3rd Ward,3189.0
 ,Ballots Cast,,CON,Pettis,3rd Ward,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,3rd Ward,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,3rd Ward,0.0
 ,Registered Voters,,REP,Pettis,4th Ward,3624.0
 ,Ballots Cast,,REP,Pettis,4th Ward,593.0
 Tony Monetti,U.S. Senate,,REP,Pettis,4th Ward,78.0
@@ -222,7 +222,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,4th Ward,2.0
 Don Fitz,State Auditor,,GRN,Pettis,4th Ward,2.0
 ,Registered Voters,,CON,Pettis,4th Ward,3624.0
 ,Ballots Cast,,CON,Pettis,4th Ward,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,4th Ward,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,4th Ward,0.0
 ,Registered Voters,,REP,Pettis,Blackwater/La Monte,1091.0
 ,Ballots Cast,,REP,Pettis,Blackwater/La Monte,198.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Blackwater/La Monte,62.0
@@ -278,7 +278,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Blackwater/La Monte,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Blackwater/La Monte,0.0
 ,Registered Voters,,CON,Pettis,Blackwater/La Monte,1091.0
 ,Ballots Cast,,CON,Pettis,Blackwater/La Monte,3.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Blackwater/La Monte,3.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Blackwater/La Monte,3.0
 ,Registered Voters,,REP,Pettis,Bowling Green,578.0
 ,Ballots Cast,,REP,Pettis,Bowling Green,134.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Bowling Green,12.0
@@ -334,7 +334,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Bowling Green,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Bowling Green,0.0
 ,Registered Voters,,CON,Pettis,Bowling Green,578.0
 ,Ballots Cast,,CON,Pettis,Bowling Green,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Bowling Green,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Bowling Green,0.0
 ,Registered Voters,,REP,Pettis,Cedar,591.0
 ,Ballots Cast,,REP,Pettis,Cedar,112.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Cedar,17.0
@@ -390,7 +390,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Cedar,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Cedar,0.0
 ,Registered Voters,,CON,Pettis,Cedar,591.0
 ,Ballots Cast,,CON,Pettis,Cedar,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Cedar,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Cedar,0.0
 ,Registered Voters,,REP,Pettis,Dresden,477.0
 ,Ballots Cast,,REP,Pettis,Dresden,91.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Dresden,12.0
@@ -446,7 +446,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Dresden,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Dresden,0.0
 ,Registered Voters,,CON,Pettis,Dresden,477.0
 ,Ballots Cast,,CON,Pettis,Dresden,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Dresden,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Dresden,0.0
 ,Registered Voters,,REP,Pettis,Flat Creek,1374.0
 ,Ballots Cast,,REP,Pettis,Flat Creek,258.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Flat Creek,36.0
@@ -502,7 +502,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Flat Creek,1.0
 Don Fitz,State Auditor,,GRN,Pettis,Flat Creek,1.0
 ,Registered Voters,,CON,Pettis,Flat Creek,1374.0
 ,Ballots Cast,,CON,Pettis,Flat Creek,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Flat Creek,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Flat Creek,0.0
 ,Registered Voters,,REP,Pettis,Green Ridge/Elk,1566.0
 ,Ballots Cast,,REP,Pettis,Green Ridge/Elk,339.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Green Ridge/Elk,58.0
@@ -558,7 +558,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Green Ridge/Elk,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Green Ridge/Elk,0.0
 ,Registered Voters,,CON,Pettis,Green Ridge/Elk,1566.0
 ,Ballots Cast,,CON,Pettis,Green Ridge/Elk,2.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Green Ridge/Elk,2.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Green Ridge/Elk,2.0
 ,Registered Voters,,REP,Pettis,Heath Creek/Longwood,692.0
 ,Ballots Cast,,REP,Pettis,Heath Creek/Longwood,130.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Heath Creek/Longwood,26.0
@@ -614,7 +614,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Heath Creek/Longwood,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Heath Creek/Longwood,0.0
 ,Registered Voters,,CON,Pettis,Heath Creek/Longwood,692.0
 ,Ballots Cast,,CON,Pettis,Heath Creek/Longwood,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Heath Creek/Longwood,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Heath Creek/Longwood,0.0
 ,Registered Voters,,REP,Pettis,Houstonia,277.0
 ,Ballots Cast,,REP,Pettis,Houstonia,38.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Houstonia,3.0
@@ -670,7 +670,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Houstonia,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Houstonia,0.0
 ,Registered Voters,,CON,Pettis,Houstonia,277.0
 ,Ballots Cast,,CON,Pettis,Houstonia,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Houstonia,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Houstonia,0.0
 ,Registered Voters,,REP,Pettis,Hughesville,351.0
 ,Ballots Cast,,REP,Pettis,Hughesville,93.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Hughesville,13.0
@@ -726,7 +726,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Hughesville,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Hughesville,0.0
 ,Registered Voters,,CON,Pettis,Hughesville,351.0
 ,Ballots Cast,,CON,Pettis,Hughesville,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Hughesville,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Hughesville,0.0
 ,Registered Voters,,REP,Pettis,Lake Creek/Smithton/Brooking,2037.0
 ,Ballots Cast,,REP,Pettis,Lake Creek/Smithton/Brooking,380.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Lake Creek/Smithton/Brooking,60.0
@@ -782,7 +782,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Lake Creek/Smithton/Brooking,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Lake Creek/Smithton/Brooking,0.0
 ,Registered Voters,,CON,Pettis,Lake Creek/Smithton/Brooking,2037.0
 ,Ballots Cast,,CON,Pettis,Lake Creek/Smithton/Brooking,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Lake Creek/Smithton/Brooking,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Lake Creek/Smithton/Brooking,0.0
 ,Registered Voters,,REP,Pettis,Prairie,1993.0
 ,Ballots Cast,,REP,Pettis,Prairie,451.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Prairie,48.0
@@ -838,7 +838,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Prairie,1.0
 Don Fitz,State Auditor,,GRN,Pettis,Prairie,1.0
 ,Registered Voters,,CON,Pettis,Prairie,1993.0
 ,Ballots Cast,,CON,Pettis,Prairie,2.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Prairie,2.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Prairie,2.0
 ,Registered Voters,,REP,Pettis,Sedalia East,1630.0
 ,Ballots Cast,,REP,Pettis,Sedalia East,250.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Sedalia East,38.0
@@ -894,7 +894,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Sedalia East,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Sedalia East,0.0
 ,Registered Voters,,CON,Pettis,Sedalia East,1630.0
 ,Ballots Cast,,CON,Pettis,Sedalia East,1.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Sedalia East,1.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Sedalia East,1.0
 ,Registered Voters,,REP,Pettis,Sedalia West,791.0
 ,Ballots Cast,,REP,Pettis,Sedalia West,127.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Sedalia West,20.0
@@ -950,7 +950,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Sedalia West,0.0
 Don Fitz,State Auditor,,GRN,Pettis,Sedalia West,1.0
 ,Registered Voters,,CON,Pettis,Sedalia West,791.0
 ,Ballots Cast,,CON,Pettis,Sedalia West,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Sedalia West,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Sedalia West,0.0
 ,Registered Voters,,REP,Pettis,Absentee,0.0
 ,Ballots Cast,,REP,Pettis,Absentee,482.0
 Tony Monetti,U.S. Senate,,REP,Pettis,Absentee,65.0
@@ -1006,7 +1006,7 @@ Jerome Bauer,U S Senate,,GRN,Pettis,Absentee,1.0
 Don Fitz,State Auditor,,GRN,Pettis,Absentee,1.0
 ,Registered Voters,,CON,Pettis,Absentee,0.0
 ,Ballots Cast,,CON,Pettis,Absentee,0.0
-Jacob Luetkemeyer ,State Auditor,,CON,Pettis,Absentee,0.0
+Jacob Luetkemeyer,State Auditor,,CON,Pettis,Absentee,0.0
 ,,,,,,
 ,,,,,,
 ,,,,,,
