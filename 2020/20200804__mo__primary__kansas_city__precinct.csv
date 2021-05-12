@@ -1,4 +1,4 @@
-﻿county,precinct,office,district,party,candidate,votes,election_day,absentee,mail
+county,precinct,office,district,party,candidate,votes,election_day,absentee,mail
 Kansas City,"W1-P1,3,4",Ballots Cast,,,,1347,1177,62,108
 Kansas City,"W1-P1,3,4",Ballots Cast,,NON,,33,32,1,0
 Kansas City,"W1-P1,3,4",Ballots Cast,,REP,,113,102,3,8
