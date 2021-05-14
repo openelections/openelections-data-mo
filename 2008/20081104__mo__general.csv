@@ -268,7 +268,7 @@ BOLLINGER,State Senate,27,REP,"Crowell, Jason Glennon",3683
 BOLLINGER,State Senate,27,DEM,"Sanders, Linda",1935
 BOLLINGER,State House,156,REP,"Keeney, Shelley (White)",3400
 BOLLINGER,State House,156,DEM,"Winder, Michael R",2331
-BOLLINGER,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",4523
+BOLLINGER,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",4523
 BOONE,President,,REP,"John McCain, Sarah Palin",36849
 BOONE,President,,DEM,"Barack Obama, Joe Biden",47062
 BOONE,President,,LIB,"Bob Barr, Wayne A. Root",662
@@ -307,7 +307,7 @@ BOONE,State House,24,REP,"Robb, Ed",12091
 BOONE,State House,24,DEM,"Kelly, Chris",12507
 BOONE,State House,25,REP,"Asbridge, Ryan",6364
 BOONE,State House,25,DEM,"Still, Mary Wynne",11686
-BOONE,Circuit Judge  Circuit 13 Division 4,,REP,"Asel, Jodie C.",59685
+BOONE,Circuit Judge Circuit 13 Division 4,,REP,"Asel, Jodie C.",59685
 BUCHANAN,President,,REP,"John McCain, Sarah Palin",19110
 BUCHANAN,President,,DEM,"Barack Obama, Joe Biden",19164
 BUCHANAN,President,,LIB,"Bob Barr, Wayne A. Root",209
@@ -377,7 +377,7 @@ BUTLER,State House,153,REP,"Dethrow, Mike",958
 BUTLER,State House,154,REP,"Kingery, Gayle",10277
 BUTLER,State House,154,LIB,"Busby, Larry S.",3640
 BUTLER,State House,163,DEM,"Todd, Tom",901
-BUTLER,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",14826
+BUTLER,Circuit Judge Circuit 36,,REP,"Richardson, Mark L.",14826
 CALDWELL,President,,REP,"John McCain, Sarah Palin",2654
 CALDWELL,President,,DEM,"Barack Obama, Joe Biden",1814
 CALDWELL,President,,LIB,"Bob Barr, Wayne A. Root",24
@@ -440,7 +440,7 @@ CALLAWAY,State House,20,REP,"Riddle, Jeanie",10228
 CALLAWAY,State House,20,DEM,"Moen, David",6008
 CALLAWAY,State House,21,REP,"Hobbs, Steve",757
 CALLAWAY,State House,21,DEM,"Schultz, Kelly",463
-CALLAWAY,Circuit Judge  Circuit 13 Division 4,,REP,"Asel, Jodie C.",14875
+CALLAWAY,Circuit Judge Circuit 13 Division 4,,REP,"Asel, Jodie C.",14875
 CAMDEN,President,,REP,"John McCain, Sarah Palin",14074
 CAMDEN,President,,DEM,"Barack Obama, Joe Biden",7773
 CAMDEN,President,,LIB,"Bob Barr, Wayne A. Root",75
@@ -516,7 +516,7 @@ CAPE GIRARDEAU,State House,159,REP,"Wright, Billy Pat",2886
 CAPE GIRARDEAU,State House,159,DEM,"Burlison, Bill",1790
 CAPE GIRARDEAU,State House,160,REP,"Brandom, Ellen",682
 CAPE GIRARDEAU,State House,161,DEM,"Hodges, Steve",0
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",31297
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",31297
 CARROLL,President,,REP,"John McCain, Sarah Palin",2955
 CARROLL,President,,DEM,"Barack Obama, Joe Biden",1535
 CARROLL,President,,LIB,"Bob Barr, Wayne A. Root",10
@@ -615,8 +615,8 @@ CASS,State House,123,REP,"Molendorp, Chris",11643
 CASS,State House,123,DEM,"Alonzo, Juan I.",9058
 CASS,State House,124,REP,"Danner, Jim",8668
 CASS,State House,124,DEM,"Scavuzzo, Luke",12193
-CASS,Circuit Judge  Circuit 17 Division 2,,REP,"Stoppy, Lynn",22860
-CASS,Circuit Judge  Circuit 17 Division 2,,DEM,"Wagner, Mike",24518
+CASS,Circuit Judge Circuit 17 Division 2,,REP,"Stoppy, Lynn",22860
+CASS,Circuit Judge Circuit 17 Division 2,,DEM,"Wagner, Mike",24518
 CEDAR,President,,REP,"John McCain, Sarah Palin",4194
 CEDAR,President,,DEM,"Barack Obama, Joe Biden",2060
 CEDAR,President,,LIB,"Bob Barr, Wayne A. Root",28
@@ -841,8 +841,8 @@ COLE,State House,114,REP,"Deeken, Bill",14016
 COLE,State House,114,DEM,"Steinman, Leonard J.",5028
 COLE,State House,114,WI,"Steck, Janine",4
 COLE,State House,115,REP,"Schad, Rodney",1865
-COLE,Circuit Judge  Circuit 19 Division 2,,DEM,"Callahan, Richard G.",30790
-COLE,Circuit Judge  Circuit 19 Division 4,,DEM,"Joyce, Pat",30599
+COLE,Circuit Judge Circuit 19 Division 2,,DEM,"Callahan, Richard G.",30790
+COLE,Circuit Judge Circuit 19 Division 4,,DEM,"Joyce, Pat",30599
 COOPER,President,,REP,"John McCain, Sarah Palin",4902
 COOPER,President,,DEM,"Barack Obama, Joe Biden",2996
 COOPER,President,,LIB,"Bob Barr, Wayne A. Root",63
@@ -904,7 +904,7 @@ CRAWFORD,State House,111,REP,"Schlottach, Charlie W.",1036
 CRAWFORD,State House,111,DEM,"DeVeydt, Tod C.",1079
 CRAWFORD,State House,150,REP,"Smith, Jason T.",4923
 CRAWFORD,State House,150,DEM,"Ellis, James D.",2771
-CRAWFORD,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",7725
+CRAWFORD,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",7725
 DADE,President,,REP,"John McCain, Sarah Palin",2864
 DADE,President,,DEM,"Barack Obama, Joe Biden",1184
 DADE,President,,LIB,"Bob Barr, Wayne A. Root",11
@@ -1048,7 +1048,7 @@ DENT,U.S. House,8,LIB,"McCullough, Branden C.",99
 DENT,U.S. House,8,CST,"Smith, Richard L.",149
 DENT,State House,150,REP,"Smith, Jason T.",5213
 DENT,State House,150,DEM,"Ellis, James D.",1576
-DENT,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",5244
+DENT,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",5244
 DOUGLAS,President,,REP,"John McCain, Sarah Palin",4405
 DOUGLAS,President,,DEM,"Barack Obama, Joe Biden",2140
 DOUGLAS,President,,LIB,"Bob Barr, Wayne A. Root",24
@@ -1250,8 +1250,8 @@ GREENE,State House,139,REP,"Schoeller, Shane",13611
 GREENE,State House,139,DEM,"Adams, Janet",6057
 GREENE,State House,140,REP,"Dixon, Bob",15685
 GREENE,State House,145,REP,"Cunningham, Mike",1558
-GREENE,Circuit Judge  Circuit 31 Division 1,,REP,"Cordonnier, Michael J.",108179
-GREENE,Circuit Judge  Circuit 31 Division 2,,REP,"Jones, David",107843
+GREENE,Circuit Judge Circuit 31 Division 1,,REP,"Cordonnier, Michael J.",108179
+GREENE,Circuit Judge Circuit 31 Division 2,,REP,"Jones, David",107843
 GRUNDY,President,,REP,"John McCain, Sarah Palin",3006
 GRUNDY,President,,DEM,"Barack Obama, Joe Biden",1580
 GRUNDY,President,,LIB,"Bob Barr, Wayne A. Root",25
@@ -1491,7 +1491,7 @@ IRON,State Senate,3,DEM,"Riche, Dennis",1797
 IRON,State House,152,REP,"Mansfield, Eric (Rick)",904
 IRON,State House,152,DEM,"Kuessner, J.C.",3384
 IRON,State House,152,CST,"Wheeler, Thad",91
-IRON,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",3760
+IRON,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",3760
 JACKSON,President,,REP,"John McCain, Sarah Palin",92833
 JACKSON,President,,DEM,"Barack Obama, Joe Biden",90722
 JACKSON,President,,LIB,"Bob Barr, Wayne A. Root",612
@@ -1619,7 +1619,7 @@ JEFFERSON,State House,103,DEM,"Casey, Ron",15759
 JEFFERSON,State House,104,DEM,"Fallert, Joseph Jr.",7797
 JEFFERSON,State House,105,DEM,"Frame, Michael",9631
 JEFFERSON,State House,110,DEM,"Harris, Belinda",8217
-JEFFERSON,Circuit Judge  Circuit 23 Division 2,,DEM,"Kramer, Gary P.",78208
+JEFFERSON,Circuit Judge Circuit 23 Division 2,,DEM,"Kramer, Gary P.",78208
 JOHNSON,President,,REP,"John McCain, Sarah Palin",12183
 JOHNSON,President,,DEM,"Barack Obama, Joe Biden",9480
 JOHNSON,President,,LIB,"Bob Barr, Wayne A. Root",108
@@ -1654,8 +1654,8 @@ JOHNSON,State House,121,REP,"Hoskins, Denny L.",7008
 JOHNSON,State House,121,DEM,"Jackson, Jim",6886
 JOHNSON,State House,122,REP,"McGhee, Mike",3039
 JOHNSON,State House,122,DEM,"Grubb, Beth",2129
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,REP,"Stoppy, Lynn",11074
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,DEM,"Wagner, Mike",9998
+JOHNSON,Circuit Judge Circuit 17 Division 2,,REP,"Stoppy, Lynn",11074
+JOHNSON,Circuit Judge Circuit 17 Division 2,,DEM,"Wagner, Mike",9998
 JOHNSON,President,,REP,"John McCain, Sarah Palin",31854
 JOHNSON,President,,DEM,"Barack Obama, Joe Biden",120102
 JOHNSON,President,,LIB,"Bob Barr, Wayne A. Root",404
@@ -2568,7 +2568,7 @@ PERRY,State Senate,27,DEM,"Sanders, Linda",2496
 PERRY,State House,106,REP,"Tilley, Steven",3754
 PERRY,State House,157,REP,"Lipke, Scott A.",3257
 PERRY,State House,157,CST,"Friedrich, Jennifer",590
-PERRY,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",6797
+PERRY,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",6797
 PETTIS,President,,REP,"John McCain, Sarah Palin",11018
 PETTIS,President,,DEM,"Barack Obama, Joe Biden",6932
 PETTIS,President,,LIB,"Bob Barr, Wayne A. Root",80
@@ -2913,7 +2913,7 @@ REYNOLDS,State House,150,DEM,"Ellis, James D.",30
 REYNOLDS,State House,152,REP,"Mansfield, Eric (Rick)",747
 REYNOLDS,State House,152,DEM,"Kuessner, J.C.",2366
 REYNOLDS,State House,152,CST,"Wheeler, Thad",81
-REYNOLDS,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",2706
+REYNOLDS,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",2706
 RIPLEY,President,,REP,"John McCain, Sarah Palin",3407
 RIPLEY,President,,DEM,"Barack Obama, Joe Biden",1795
 RIPLEY,President,,LIB,"Bob Barr, Wayne A. Root",52
@@ -2945,7 +2945,7 @@ RIPLEY,U.S. House,8,CST,"Smith, Richard L.",49
 RIPLEY,State Senate,25,REP,"Mayer, Robert (Rob)",3496
 RIPLEY,State Senate,25,DEM,"Stoelting, M. Shane",1649
 RIPLEY,State House,153,REP,"Dethrow, Mike",4703
-RIPLEY,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",4342
+RIPLEY,Circuit Judge Circuit 36,,REP,"Richardson, Mark L.",4342
 SALINE,President,,REP,"John McCain, Sarah Palin",4962
 SALINE,President,,DEM,"Barack Obama, Joe Biden",4712
 SALINE,President,,LIB,"Bob Barr, Wayne A. Root",64
@@ -3183,8 +3183,8 @@ ST CHARLES,State House,19,REP,"Davis, Cynthia L.",13401
 ST CHARLES,State House,19,DEM,"Cook, Debbie",9140
 ST CHARLES,State House,109,REP,"Dieckhaus, Scott D.",3195
 ST CHARLES,State House,109,DEM,"Cunningham, Kent",2285
-ST CHARLES,Circuit Judge  Circuit 11 Division 1,,REP,"Horwitz, Lou",70505
-ST CHARLES,Circuit Judge  Circuit 11 Division 1,,DEM,"House, Ted",104858
+ST CHARLES,Circuit Judge Circuit 11 Division 1,,REP,"Horwitz, Lou",70505
+ST CHARLES,Circuit Judge Circuit 11 Division 1,,DEM,"House, Ted",104858
 ST CLAIR,President,,REP,"John McCain, Sarah Palin",2981
 ST CLAIR,President,,DEM,"Barack Obama, Joe Biden",1886
 ST CLAIR,President,,LIB,"Bob Barr, Wayne A. Root",31
@@ -3728,7 +3728,7 @@ WAYNE,State House,156,REP,"Keeney, Shelley (White)",2453
 WAYNE,State House,156,DEM,"Winder, Michael R",2105
 WAYNE,State House,159,REP,"Wright, Billy Pat",330
 WAYNE,State House,159,DEM,"Burlison, Bill",338
-WAYNE,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",4572
+WAYNE,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",4572
 WEBSTER,President,,REP,"John McCain, Sarah Palin",10431
 WEBSTER,President,,DEM,"Barack Obama, Joe Biden",5685
 WEBSTER,President,,LIB,"Bob Barr, Wayne A. Root",71

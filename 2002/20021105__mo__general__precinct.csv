@@ -334,10 +334,10 @@ ANDREW,012 Rosendale,U.S. Senate,,Jean Carnahan,DEM,81
 ANDREW,012 Rosendale,U.S. Senate,,Tamara Millay,LIB,6
 ANDREW,012 Rosendale,U.S. Senate,,Daniel Romano,GRE,0
 ANDREW,012 Rosendale,U.S. Senate,,Jim Talent,REP,102
-ANDREW,013 West  Platte,U.S. Senate,,Jean Carnahan,DEM,57
-ANDREW,013 West  Platte,U.S. Senate,,Tamara Millay,LIB,8
-ANDREW,013 West  Platte,U.S. Senate,,Daniel Romano,GRE,1
-ANDREW,013 West  Platte,U.S. Senate,,Jim Talent,REP,99
+ANDREW,013 West Platte,U.S. Senate,,Jean Carnahan,DEM,57
+ANDREW,013 West Platte,U.S. Senate,,Tamara Millay,LIB,8
+ANDREW,013 West Platte,U.S. Senate,,Daniel Romano,GRE,1
+ANDREW,013 West Platte,U.S. Senate,,Jim Talent,REP,99
 ANDREW,014 East Platte,U.S. Senate,,Jean Carnahan,DEM,19
 ANDREW,014 East Platte,U.S. Senate,,Tamara Millay,LIB,1
 ANDREW,014 East Platte,U.S. Senate,,Daniel Romano,GRE,0
@@ -430,11 +430,11 @@ ANDREW,012 Rosendale,State Auditor,,Allen Hanson,REP,66
 ANDREW,012 Rosendale,State Auditor,,Fred Kennell,GRE,4
 ANDREW,012 Rosendale,State Auditor,,Claire McCaskill,DEM,106
 ANDREW,012 Rosendale,State Auditor,,Arnold Trembley,LIB,3
-ANDREW,013 West  Platte,State Auditor,,Theo (Ted) Brown,WI,0
-ANDREW,013 West  Platte,State Auditor,,Allen Hanson,REP,77
-ANDREW,013 West  Platte,State Auditor,,Fred Kennell,GRE,1
-ANDREW,013 West  Platte,State Auditor,,Claire McCaskill,DEM,73
-ANDREW,013 West  Platte,State Auditor,,Arnold Trembley,LIB,1
+ANDREW,013 West Platte,State Auditor,,Theo (Ted) Brown,WI,0
+ANDREW,013 West Platte,State Auditor,,Allen Hanson,REP,77
+ANDREW,013 West Platte,State Auditor,,Fred Kennell,GRE,1
+ANDREW,013 West Platte,State Auditor,,Claire McCaskill,DEM,73
+ANDREW,013 West Platte,State Auditor,,Arnold Trembley,LIB,1
 ANDREW,014 East Platte,State Auditor,,Theo (Ted) Brown,WI,0
 ANDREW,014 East Platte,State Auditor,,Allen Hanson,REP,24
 ANDREW,014 East Platte,State Auditor,,Fred Kennell,GRE,2
@@ -511,9 +511,9 @@ ANDREW,011 Bolckow,U.S. House,6,Cathy Rinehart,DEM,24
 ANDREW,012 Rosendale,U.S. House,6,Erik Buck,LIB,2
 ANDREW,012 Rosendale,U.S. House,6,Samuel Graves,REP,136
 ANDREW,012 Rosendale,U.S. House,6,Cathy Rinehart,DEM,52
-ANDREW,013 West  Platte,U.S. House,6,Erik Buck,LIB,1
-ANDREW,013 West  Platte,U.S. House,6,Samuel Graves,REP,131
-ANDREW,013 West  Platte,U.S. House,6,Cathy Rinehart,DEM,34
+ANDREW,013 West Platte,U.S. House,6,Erik Buck,LIB,1
+ANDREW,013 West Platte,U.S. House,6,Samuel Graves,REP,131
+ANDREW,013 West Platte,U.S. House,6,Cathy Rinehart,DEM,34
 ANDREW,014 East Platte,U.S. House,6,Erik Buck,LIB,1
 ANDREW,014 East Platte,U.S. House,6,Samuel Graves,REP,48
 ANDREW,014 East Platte,U.S. House,6,Cathy Rinehart,DEM,13
@@ -550,7 +550,7 @@ ANDREW,009 John Glenn,State Senate,12,David Klindt,REP,333
 ANDREW,010 Country Club,State Senate,12,David Klindt,REP,377
 ANDREW,011 Bolckow,State Senate,12,David Klindt,REP,101
 ANDREW,012 Rosendale,State Senate,12,David Klindt,REP,144
-ANDREW,013 West  Platte,State Senate,12,David Klindt,REP,132
+ANDREW,013 West Platte,State Senate,12,David Klindt,REP,132
 ANDREW,014 East Platte,State Senate,12,David Klindt,REP,49
 ANDREW,015 East Empire,State Senate,12,David Klindt,REP,65
 ANDREW,016 Rochester,State Senate,12,David Klindt,REP,192
@@ -583,8 +583,8 @@ ANDREW,011 Bolckow,State House,28,Lance Davis,DEM,42
 ANDREW,011 Bolckow,State House,28,Robert Schaaf,REP,87
 ANDREW,012 Rosendale,State House,28,Lance Davis,DEM,73
 ANDREW,012 Rosendale,State House,28,Robert Schaaf,REP,112
-ANDREW,013 West  Platte,State House,28,Lance Davis,DEM,64
-ANDREW,013 West  Platte,State House,28,Robert Schaaf,REP,98
+ANDREW,013 West Platte,State House,28,Lance Davis,DEM,64
+ANDREW,013 West Platte,State House,28,Robert Schaaf,REP,98
 ANDREW,014 East Platte,State House,28,Lance Davis,DEM,20
 ANDREW,014 East Platte,State House,28,Robert Schaaf,REP,40
 ANDREW,015 East Empire,State House,28,Lance Davis,DEM,34
@@ -1218,10 +1218,10 @@ BARRY,WHEAT,U.S. Senate,,Jean Carnahan,DEM,179
 BARRY,WHEAT,U.S. Senate,,Tamara Millay,LIB,7
 BARRY,WHEAT,U.S. Senate,,Daniel Romano,GRE,4
 BARRY,WHEAT,U.S. Senate,,Jim Talent,REP,315
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. Senate,,Jean Carnahan,DEM,166
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. Senate,,Tamara Millay,LIB,3
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. Senate,,Daniel Romano,GRE,1
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. Senate,,Jim Talent,REP,254
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. Senate,,Jean Carnahan,DEM,166
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. Senate,,Tamara Millay,LIB,3
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. Senate,,Daniel Romano,GRE,1
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. Senate,,Jim Talent,REP,254
 BARRY,WR-2 -- WHITE RIVER #2,U.S. Senate,,Jean Carnahan,DEM,218
 BARRY,WR-2 -- WHITE RIVER #2,U.S. Senate,,Tamara Millay,LIB,5
 BARRY,WR-2 -- WHITE RIVER #2,U.S. Senate,,Daniel Romano,GRE,1
@@ -1321,11 +1321,11 @@ BARRY,WHEAT,State Auditor,,Allen Hanson,REP,257
 BARRY,WHEAT,State Auditor,,Fred Kennell,GRE,5
 BARRY,WHEAT,State Auditor,,Claire McCaskill,DEM,217
 BARRY,WHEAT,State Auditor,,Arnold Trembley,LIB,7
-BARRY,WR - 1 -- WHITE RIVER  #1,State Auditor,,Theo (Ted) Brown,WI,0
-BARRY,WR - 1 -- WHITE RIVER  #1,State Auditor,,Allen Hanson,REP,214
-BARRY,WR - 1 -- WHITE RIVER  #1,State Auditor,,Fred Kennell,GRE,3
-BARRY,WR - 1 -- WHITE RIVER  #1,State Auditor,,Claire McCaskill,DEM,200
-BARRY,WR - 1 -- WHITE RIVER  #1,State Auditor,,Arnold Trembley,LIB,5
+BARRY,WR - 1 -- WHITE RIVER #1,State Auditor,,Theo (Ted) Brown,WI,0
+BARRY,WR - 1 -- WHITE RIVER #1,State Auditor,,Allen Hanson,REP,214
+BARRY,WR - 1 -- WHITE RIVER #1,State Auditor,,Fred Kennell,GRE,3
+BARRY,WR - 1 -- WHITE RIVER #1,State Auditor,,Claire McCaskill,DEM,200
+BARRY,WR - 1 -- WHITE RIVER #1,State Auditor,,Arnold Trembley,LIB,5
 BARRY,WR-2 -- WHITE RIVER #2,State Auditor,,Theo (Ted) Brown,WI,0
 BARRY,WR-2 -- WHITE RIVER #2,State Auditor,,Allen Hanson,REP,296
 BARRY,WR-2 -- WHITE RIVER #2,State Auditor,,Fred Kennell,GRE,2
@@ -1407,10 +1407,10 @@ BARRY,WHEAT,U.S. House,7,Roy Blunt,REP,376
 BARRY,WHEAT,U.S. House,7,Douglas Burlison,LIB,5
 BARRY,WHEAT,U.S. House,7,Roland Lapham,DEM,123
 BARRY,WHEAT,U.S. House,7,Steven Reed,WI,0
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. House,7,Roy Blunt,REP,300
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. House,7,Douglas Burlison,LIB,3
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. House,7,Roland Lapham,DEM,122
-BARRY,WR - 1 -- WHITE RIVER  #1,U.S. House,7,Steven Reed,WI,0
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. House,7,Roy Blunt,REP,300
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. House,7,Douglas Burlison,LIB,3
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. House,7,Roland Lapham,DEM,122
+BARRY,WR - 1 -- WHITE RIVER #1,U.S. House,7,Steven Reed,WI,0
 BARRY,WR-2 -- WHITE RIVER #2,U.S. House,7,Roy Blunt,REP,425
 BARRY,WR-2 -- WHITE RIVER #2,U.S. House,7,Douglas Burlison,LIB,4
 BARRY,WR-2 -- WHITE RIVER #2,U.S. House,7,Roland Lapham,DEM,145
@@ -1453,8 +1453,8 @@ BARRY,WASH,State House,68,Larry Taylor,REP,228
 BARRY,WASH,State House,68,Ruby Vincent,DEM,142
 BARRY,WHEAT,State House,68,Larry Taylor,REP,289
 BARRY,WHEAT,State House,68,Ruby Vincent,DEM,208
-BARRY,WR - 1 -- WHITE RIVER  #1,State House,68,Larry Taylor,REP,243
-BARRY,WR - 1 -- WHITE RIVER  #1,State House,68,Ruby Vincent,DEM,170
+BARRY,WR - 1 -- WHITE RIVER #1,State House,68,Larry Taylor,REP,243
+BARRY,WR - 1 -- WHITE RIVER #1,State House,68,Ruby Vincent,DEM,170
 BARRY,WR-2 -- WHITE RIVER #2,State House,68,Larry Taylor,REP,384
 BARRY,WR-2 -- WHITE RIVER #2,State House,68,Ruby Vincent,DEM,188
 BARTON,BARTON CITY,U.S. Senate,,Jean Carnahan,DEM,18
@@ -11371,14 +11371,14 @@ DADE,05 E. Lockwood & E. Ward,U.S. Senate,,Jean Carnahan,DEM,89
 DADE,05 E. Lockwood & E. Ward,U.S. Senate,,Tamara Millay,LIB,0
 DADE,05 E. Lockwood & E. Ward,U.S. Senate,,Daniel Romano,GRE,0
 DADE,05 E. Lockwood & E. Ward,U.S. Senate,,Jim Talent,REP,149
-DADE,06  W. Lockwood & Marion,U.S. Senate,,Jean Carnahan,DEM,72
-DADE,06  W. Lockwood & Marion,U.S. Senate,,Tamara Millay,LIB,3
-DADE,06  W. Lockwood & Marion,U.S. Senate,,Daniel Romano,GRE,0
-DADE,06  W. Lockwood & Marion,U.S. Senate,,Jim Talent,REP,236
-DADE,07  N. Morgan & S. Morgan,U.S. Senate,,Jean Carnahan,DEM,73
-DADE,07  N. Morgan & S. Morgan,U.S. Senate,,Tamara Millay,LIB,6
-DADE,07  N. Morgan & S. Morgan,U.S. Senate,,Daniel Romano,GRE,2
-DADE,07  N. Morgan & S. Morgan,U.S. Senate,,Jim Talent,REP,180
+DADE,06 W. Lockwood & Marion,U.S. Senate,,Jean Carnahan,DEM,72
+DADE,06 W. Lockwood & Marion,U.S. Senate,,Tamara Millay,LIB,3
+DADE,06 W. Lockwood & Marion,U.S. Senate,,Daniel Romano,GRE,0
+DADE,06 W. Lockwood & Marion,U.S. Senate,,Jim Talent,REP,236
+DADE,07 N. Morgan & S. Morgan,U.S. Senate,,Jean Carnahan,DEM,73
+DADE,07 N. Morgan & S. Morgan,U.S. Senate,,Tamara Millay,LIB,6
+DADE,07 N. Morgan & S. Morgan,U.S. Senate,,Daniel Romano,GRE,2
+DADE,07 N. Morgan & S. Morgan,U.S. Senate,,Jim Talent,REP,180
 DADE,08 North & North Sac,U.S. Senate,,Jean Carnahan,DEM,60
 DADE,08 North & North Sac,U.S. Senate,,Tamara Millay,LIB,2
 DADE,08 North & North Sac,U.S. Senate,,Daniel Romano,GRE,2
@@ -11432,16 +11432,16 @@ DADE,05 E. Lockwood & E. Ward,State Auditor,,Allen Hanson,REP,100
 DADE,05 E. Lockwood & E. Ward,State Auditor,,Fred Kennell,GRE,2
 DADE,05 E. Lockwood & E. Ward,State Auditor,,Claire McCaskill,DEM,113
 DADE,05 E. Lockwood & E. Ward,State Auditor,,Arnold Trembley,LIB,2
-DADE,06  W. Lockwood & Marion,State Auditor,,Theo (Ted) Brown,WI,0
-DADE,06  W. Lockwood & Marion,State Auditor,,Allen Hanson,REP,183
-DADE,06  W. Lockwood & Marion,State Auditor,,Fred Kennell,GRE,2
-DADE,06  W. Lockwood & Marion,State Auditor,,Claire McCaskill,DEM,108
-DADE,06  W. Lockwood & Marion,State Auditor,,Arnold Trembley,LIB,3
-DADE,07  N. Morgan & S. Morgan,State Auditor,,Theo (Ted) Brown,WI,0
-DADE,07  N. Morgan & S. Morgan,State Auditor,,Allen Hanson,REP,111
-DADE,07  N. Morgan & S. Morgan,State Auditor,,Fred Kennell,GRE,1
-DADE,07  N. Morgan & S. Morgan,State Auditor,,Claire McCaskill,DEM,111
-DADE,07  N. Morgan & S. Morgan,State Auditor,,Arnold Trembley,LIB,9
+DADE,06 W. Lockwood & Marion,State Auditor,,Theo (Ted) Brown,WI,0
+DADE,06 W. Lockwood & Marion,State Auditor,,Allen Hanson,REP,183
+DADE,06 W. Lockwood & Marion,State Auditor,,Fred Kennell,GRE,2
+DADE,06 W. Lockwood & Marion,State Auditor,,Claire McCaskill,DEM,108
+DADE,06 W. Lockwood & Marion,State Auditor,,Arnold Trembley,LIB,3
+DADE,07 N. Morgan & S. Morgan,State Auditor,,Theo (Ted) Brown,WI,0
+DADE,07 N. Morgan & S. Morgan,State Auditor,,Allen Hanson,REP,111
+DADE,07 N. Morgan & S. Morgan,State Auditor,,Fred Kennell,GRE,1
+DADE,07 N. Morgan & S. Morgan,State Auditor,,Claire McCaskill,DEM,111
+DADE,07 N. Morgan & S. Morgan,State Auditor,,Arnold Trembley,LIB,9
 DADE,08 North & North Sac,State Auditor,,Theo (Ted) Brown,WI,0
 DADE,08 North & North Sac,State Auditor,,Allen Hanson,REP,102
 DADE,08 North & North Sac,State Auditor,,Fred Kennell,GRE,1
@@ -11492,12 +11492,12 @@ DADE,04 Grant & Smith R-1,U.S. House,4,Ike Skelton,DEM,51
 DADE,05 E. Lockwood & E. Ward,U.S. House,4,Daniel Nelson,LIB,1
 DADE,05 E. Lockwood & E. Ward,U.S. House,4,James Noland,REP,116
 DADE,05 E. Lockwood & E. Ward,U.S. House,4,Ike Skelton,DEM,112
-DADE,06  W. Lockwood & Marion,U.S. House,4,Daniel Nelson,LIB,4
-DADE,06  W. Lockwood & Marion,U.S. House,4,James Noland,REP,188
-DADE,06  W. Lockwood & Marion,U.S. House,4,Ike Skelton,DEM,113
-DADE,07  N. Morgan & S. Morgan,U.S. House,4,Daniel Nelson,LIB,9
-DADE,07  N. Morgan & S. Morgan,U.S. House,4,James Noland,REP,147
-DADE,07  N. Morgan & S. Morgan,U.S. House,4,Ike Skelton,DEM,91
+DADE,06 W. Lockwood & Marion,U.S. House,4,Daniel Nelson,LIB,4
+DADE,06 W. Lockwood & Marion,U.S. House,4,James Noland,REP,188
+DADE,06 W. Lockwood & Marion,U.S. House,4,Ike Skelton,DEM,113
+DADE,07 N. Morgan & S. Morgan,U.S. House,4,Daniel Nelson,LIB,9
+DADE,07 N. Morgan & S. Morgan,U.S. House,4,James Noland,REP,147
+DADE,07 N. Morgan & S. Morgan,U.S. House,4,Ike Skelton,DEM,91
 DADE,08 North & North Sac,U.S. House,4,Daniel Nelson,LIB,5
 DADE,08 North & North Sac,U.S. House,4,James Noland,REP,120
 DADE,08 North & North Sac,U.S. House,4,Ike Skelton,DEM,70
@@ -11524,8 +11524,8 @@ DADE,02 E Center & North Ward,State Senate,32,Gary Nodler,REP,295
 DADE,"03W Center, Sac & S. Ward",State Senate,32,Gary Nodler,REP,221
 DADE,04 Grant & Smith R-1,State Senate,32,Gary Nodler,REP,108
 DADE,05 E. Lockwood & E. Ward,State Senate,32,Gary Nodler,REP,155
-DADE,06  W. Lockwood & Marion,State Senate,32,Gary Nodler,REP,243
-DADE,07  N. Morgan & S. Morgan,State Senate,32,Gary Nodler,REP,183
+DADE,06 W. Lockwood & Marion,State Senate,32,Gary Nodler,REP,243
+DADE,07 N. Morgan & S. Morgan,State Senate,32,Gary Nodler,REP,183
 DADE,08 North & North Sac,State Senate,32,Gary Nodler,REP,143
 DADE,09 Pilgrim & Rock Prairie,State Senate,32,Gary Nodler,REP,239
 DADE,10 Polk,State Senate,32,Gary Nodler,REP,145
@@ -11543,10 +11543,10 @@ DADE,04 Grant & Smith R-1,State House,126,Edgar Emery,REP,100
 DADE,04 Grant & Smith R-1,State House,126,Douglas Sprouls,DEM,37
 DADE,05 E. Lockwood & E. Ward,State House,126,Edgar Emery,REP,149
 DADE,05 E. Lockwood & E. Ward,State House,126,Douglas Sprouls,DEM,86
-DADE,06  W. Lockwood & Marion,State House,126,Edgar Emery,REP,225
-DADE,06  W. Lockwood & Marion,State House,126,Douglas Sprouls,DEM,80
-DADE,07  N. Morgan & S. Morgan,State House,126,Edgar Emery,REP,176
-DADE,07  N. Morgan & S. Morgan,State House,126,Douglas Sprouls,DEM,63
+DADE,06 W. Lockwood & Marion,State House,126,Edgar Emery,REP,225
+DADE,06 W. Lockwood & Marion,State House,126,Douglas Sprouls,DEM,80
+DADE,07 N. Morgan & S. Morgan,State House,126,Edgar Emery,REP,176
+DADE,07 N. Morgan & S. Morgan,State House,126,Douglas Sprouls,DEM,63
 DADE,08 North & North Sac,State House,126,Edgar Emery,REP,153
 DADE,08 North & North Sac,State House,126,Douglas Sprouls,DEM,46
 DADE,09 Pilgrim & Rock Prairie,State House,126,Edgar Emery,REP,247
@@ -23034,10 +23034,10 @@ JASPER,004 CARL JUNCTION - 2,U.S. Senate,,Jean Carnahan,DEM,163
 JASPER,004 CARL JUNCTION - 2,U.S. Senate,,Tamara Millay,LIB,8
 JASPER,004 CARL JUNCTION - 2,U.S. Senate,,Daniel Romano,GRE,2
 JASPER,004 CARL JUNCTION - 2,U.S. Senate,,Jim Talent,REP,352
-JASPER,005 CARL  JUNCTION - 3,U.S. Senate,,Jean Carnahan,DEM,132
-JASPER,005 CARL  JUNCTION - 3,U.S. Senate,,Tamara Millay,LIB,7
-JASPER,005 CARL  JUNCTION - 3,U.S. Senate,,Daniel Romano,GRE,0
-JASPER,005 CARL  JUNCTION - 3,U.S. Senate,,Jim Talent,REP,547
+JASPER,005 CARL JUNCTION - 3,U.S. Senate,,Jean Carnahan,DEM,132
+JASPER,005 CARL JUNCTION - 3,U.S. Senate,,Tamara Millay,LIB,7
+JASPER,005 CARL JUNCTION - 3,U.S. Senate,,Daniel Romano,GRE,0
+JASPER,005 CARL JUNCTION - 3,U.S. Senate,,Jim Talent,REP,547
 JASPER,006 CARL JUNCTION - 4,U.S. Senate,,Jean Carnahan,DEM,110
 JASPER,006 CARL JUNCTION - 4,U.S. Senate,,Tamara Millay,LIB,5
 JASPER,006 CARL JUNCTION - 4,U.S. Senate,,Daniel Romano,GRE,1
@@ -23306,11 +23306,11 @@ JASPER,004 CARL JUNCTION - 2,State Auditor,,Allen Hanson,REP,281
 JASPER,004 CARL JUNCTION - 2,State Auditor,,Fred Kennell,GRE,4
 JASPER,004 CARL JUNCTION - 2,State Auditor,,Claire McCaskill,DEM,219
 JASPER,004 CARL JUNCTION - 2,State Auditor,,Arnold Trembley,LIB,13
-JASPER,005 CARL  JUNCTION - 3,State Auditor,,Theo (Ted) Brown,WI,0
-JASPER,005 CARL  JUNCTION - 3,State Auditor,,Allen Hanson,REP,439
-JASPER,005 CARL  JUNCTION - 3,State Auditor,,Fred Kennell,GRE,3
-JASPER,005 CARL  JUNCTION - 3,State Auditor,,Claire McCaskill,DEM,218
-JASPER,005 CARL  JUNCTION - 3,State Auditor,,Arnold Trembley,LIB,10
+JASPER,005 CARL JUNCTION - 3,State Auditor,,Theo (Ted) Brown,WI,0
+JASPER,005 CARL JUNCTION - 3,State Auditor,,Allen Hanson,REP,439
+JASPER,005 CARL JUNCTION - 3,State Auditor,,Fred Kennell,GRE,3
+JASPER,005 CARL JUNCTION - 3,State Auditor,,Claire McCaskill,DEM,218
+JASPER,005 CARL JUNCTION - 3,State Auditor,,Arnold Trembley,LIB,10
 JASPER,006 CARL JUNCTION - 4,State Auditor,,Theo (Ted) Brown,WI,0
 JASPER,006 CARL JUNCTION - 4,State Auditor,,Allen Hanson,REP,258
 JASPER,006 CARL JUNCTION - 4,State Auditor,,Fred Kennell,GRE,1
@@ -23637,10 +23637,10 @@ JASPER,004 CARL JUNCTION - 2,U.S. House,7,Roy Blunt,REP,403
 JASPER,004 CARL JUNCTION - 2,U.S. House,7,Douglas Burlison,LIB,9
 JASPER,004 CARL JUNCTION - 2,U.S. House,7,Roland Lapham,DEM,111
 JASPER,004 CARL JUNCTION - 2,U.S. House,7,Steven Reed,WI,0
-JASPER,005 CARL  JUNCTION - 3,U.S. House,7,Roy Blunt,REP,596
-JASPER,005 CARL  JUNCTION - 3,U.S. House,7,Douglas Burlison,LIB,6
-JASPER,005 CARL  JUNCTION - 3,U.S. House,7,Roland Lapham,DEM,80
-JASPER,005 CARL  JUNCTION - 3,U.S. House,7,Steven Reed,WI,0
+JASPER,005 CARL JUNCTION - 3,U.S. House,7,Roy Blunt,REP,596
+JASPER,005 CARL JUNCTION - 3,U.S. House,7,Douglas Burlison,LIB,6
+JASPER,005 CARL JUNCTION - 3,U.S. House,7,Roland Lapham,DEM,80
+JASPER,005 CARL JUNCTION - 3,U.S. House,7,Steven Reed,WI,0
 JASPER,006 CARL JUNCTION - 4,U.S. House,7,Roy Blunt,REP,359
 JASPER,006 CARL JUNCTION - 4,U.S. House,7,Douglas Burlison,LIB,4
 JASPER,006 CARL JUNCTION - 4,U.S. House,7,Roland Lapham,DEM,68
@@ -23893,7 +23893,7 @@ JASPER,001 ALBA,State Senate,32,Gary Nodler,REP,141
 JASPER,002 ASBURY/MEDOC/WACO,State Senate,32,Gary Nodler,REP,211
 JASPER,003 CARL JUNCTION - 1,State Senate,32,Gary Nodler,REP,481
 JASPER,004 CARL JUNCTION - 2,State Senate,32,Gary Nodler,REP,384
-JASPER,005 CARL  JUNCTION - 3,State Senate,32,Gary Nodler,REP,536
+JASPER,005 CARL JUNCTION - 3,State Senate,32,Gary Nodler,REP,536
 JASPER,006 CARL JUNCTION - 4,State Senate,32,Gary Nodler,REP,346
 JASPER,"007 CARTERVILLE 1,2,3,4",State Senate,32,Gary Nodler,REP,409
 JASPER,008 CARTHAGE 1-1/ 1-2,State Senate,32,Gary Nodler,REP,270
@@ -23984,8 +23984,8 @@ JASPER,003 CARL JUNCTION - 1,State House,127,Floyd Daniels,DEM,195
 JASPER,003 CARL JUNCTION - 1,State House,127,Stephen Hunter,REP,450
 JASPER,004 CARL JUNCTION - 2,State House,127,Floyd Daniels,DEM,165
 JASPER,004 CARL JUNCTION - 2,State House,127,Stephen Hunter,REP,360
-JASPER,005 CARL  JUNCTION - 3,State House,127,Floyd Daniels,DEM,130
-JASPER,005 CARL  JUNCTION - 3,State House,127,Stephen Hunter,REP,548
+JASPER,005 CARL JUNCTION - 3,State House,127,Floyd Daniels,DEM,130
+JASPER,005 CARL JUNCTION - 3,State House,127,Stephen Hunter,REP,548
 JASPER,006 CARL JUNCTION - 4,State House,127,Floyd Daniels,DEM,94
 JASPER,006 CARL JUNCTION - 4,State House,127,Stephen Hunter,REP,335
 JASPER,008 CARTHAGE 1-1/ 1-2,State House,127,Floyd Daniels,DEM,134
@@ -25852,10 +25852,10 @@ KANSAS CITY,PRC 14,U.S. Senate,,Jean Carnahan,DEM,10
 KANSAS CITY,PRC 14,U.S. Senate,,Tamara Millay,LIB,0
 KANSAS CITY,PRC 14,U.S. Senate,,Daniel Romano,GRE,0
 KANSAS CITY,PRC 14,U.S. Senate,,Jim Talent,REP,0
-KANSAS CITY,PRC  14,U.S. Senate,,Jean Carnahan,DEM,6
-KANSAS CITY,PRC  14,U.S. Senate,,Tamara Millay,LIB,0
-KANSAS CITY,PRC  14,U.S. Senate,,Daniel Romano,GRE,0
-KANSAS CITY,PRC  14,U.S. Senate,,Jim Talent,REP,0
+KANSAS CITY,PRC 14,U.S. Senate,,Jean Carnahan,DEM,6
+KANSAS CITY,PRC 14,U.S. Senate,,Tamara Millay,LIB,0
+KANSAS CITY,PRC 14,U.S. Senate,,Daniel Romano,GRE,0
+KANSAS CITY,PRC 14,U.S. Senate,,Jim Talent,REP,0
 KANSAS CITY,PRC 01,U.S. Senate,,Jean Carnahan,DEM,5
 KANSAS CITY,PRC 01,U.S. Senate,,Tamara Millay,LIB,0
 KANSAS CITY,PRC 01,U.S. Senate,,Daniel Romano,GRE,0
@@ -27571,11 +27571,11 @@ KANSAS CITY,PRC 14,State Auditor,,Allen Hanson,REP,0
 KANSAS CITY,PRC 14,State Auditor,,Fred Kennell,GRE,0
 KANSAS CITY,PRC 14,State Auditor,,Claire McCaskill,DEM,10
 KANSAS CITY,PRC 14,State Auditor,,Arnold Trembley,LIB,0
-KANSAS CITY,PRC  14,State Auditor,,Theo (Ted) Brown,WI,0
-KANSAS CITY,PRC  14,State Auditor,,Allen Hanson,REP,2
-KANSAS CITY,PRC  14,State Auditor,,Fred Kennell,GRE,0
-KANSAS CITY,PRC  14,State Auditor,,Claire McCaskill,DEM,7
-KANSAS CITY,PRC  14,State Auditor,,Arnold Trembley,LIB,0
+KANSAS CITY,PRC 14,State Auditor,,Theo (Ted) Brown,WI,0
+KANSAS CITY,PRC 14,State Auditor,,Allen Hanson,REP,2
+KANSAS CITY,PRC 14,State Auditor,,Fred Kennell,GRE,0
+KANSAS CITY,PRC 14,State Auditor,,Claire McCaskill,DEM,7
+KANSAS CITY,PRC 14,State Auditor,,Arnold Trembley,LIB,0
 KANSAS CITY,PRC 01,State Auditor,,Theo (Ted) Brown,WI,0
 KANSAS CITY,PRC 01,State Auditor,,Allen Hanson,REP,0
 KANSAS CITY,PRC 01,State Auditor,,Fred Kennell,GRE,0
@@ -29385,9 +29385,9 @@ KANSAS CITY,"PRC 13, 05",U.S. House,5,Karen McCarthy,DEM,0
 KANSAS CITY,PRC 14,U.S. House,5,Jeanne Bojarski,LIB,0
 KANSAS CITY,PRC 14,U.S. House,5,Stephen Gordon,REP,0
 KANSAS CITY,PRC 14,U.S. House,5,Karen McCarthy,DEM,10
-KANSAS CITY,PRC  14,U.S. House,5,Jeanne Bojarski,LIB,0
-KANSAS CITY,PRC  14,U.S. House,5,Stephen Gordon,REP,0
-KANSAS CITY,PRC  14,U.S. House,5,Karen McCarthy,DEM,6
+KANSAS CITY,PRC 14,U.S. House,5,Jeanne Bojarski,LIB,0
+KANSAS CITY,PRC 14,U.S. House,5,Stephen Gordon,REP,0
+KANSAS CITY,PRC 14,U.S. House,5,Karen McCarthy,DEM,6
 KANSAS CITY,PRC 01,U.S. House,5,Jeanne Bojarski,LIB,0
 KANSAS CITY,PRC 01,U.S. House,5,Stephen Gordon,REP,4
 KANSAS CITY,PRC 01,U.S. House,5,Karen McCarthy,DEM,5
@@ -30589,7 +30589,7 @@ KANSAS CITY,PRC 04,State House,41,Melba Curls,DEM,1
 KANSAS CITY,"PRC 11, 12",State House,41,Melba Curls,DEM,1
 KANSAS CITY,"PRC 13, 05",State House,41,Melba Curls,DEM,0
 KANSAS CITY,PRC 14,State House,41,Melba Curls,DEM,9
-KANSAS CITY,PRC  14,State House,41,Melba Curls,DEM,7
+KANSAS CITY,PRC 14,State House,41,Melba Curls,DEM,7
 KANSAS CITY,PRC 01,State House,41,Melba Curls,DEM,3
 KANSAS CITY,"PRC 02, 07",State House,41,Melba Curls,DEM,29
 KANSAS CITY,"PRC 06, 03, 04",State House,41,Melba Curls,DEM,6
@@ -31521,10 +31521,10 @@ LAFAYETTE,010 CONCORDIA,U.S. Senate,,Jean Carnahan,DEM,356
 LAFAYETTE,010 CONCORDIA,U.S. Senate,,Tamara Millay,LIB,8
 LAFAYETTE,010 CONCORDIA,U.S. Senate,,Daniel Romano,GRE,3
 LAFAYETTE,010 CONCORDIA,U.S. Senate,,Jim Talent,REP,826
-LAFAYETTE,011 LEX 1ST &  2ND,U.S. Senate,,Jean Carnahan,DEM,523
-LAFAYETTE,011 LEX 1ST &  2ND,U.S. Senate,,Tamara Millay,LIB,5
-LAFAYETTE,011 LEX 1ST &  2ND,U.S. Senate,,Daniel Romano,GRE,1
-LAFAYETTE,011 LEX 1ST &  2ND,U.S. Senate,,Jim Talent,REP,293
+LAFAYETTE,011 LEX 1ST & 2ND,U.S. Senate,,Jean Carnahan,DEM,523
+LAFAYETTE,011 LEX 1ST & 2ND,U.S. Senate,,Tamara Millay,LIB,5
+LAFAYETTE,011 LEX 1ST & 2ND,U.S. Senate,,Daniel Romano,GRE,1
+LAFAYETTE,011 LEX 1ST & 2ND,U.S. Senate,,Jim Talent,REP,293
 LAFAYETTE,012 LEX 3RD & 4TH,U.S. Senate,,Jean Carnahan,DEM,478
 LAFAYETTE,012 LEX 3RD & 4TH,U.S. Senate,,Tamara Millay,LIB,12
 LAFAYETTE,012 LEX 3RD & 4TH,U.S. Senate,,Daniel Romano,GRE,2
@@ -31619,11 +31619,11 @@ LAFAYETTE,010 CONCORDIA,State Auditor,,Allen Hanson,REP,345
 LAFAYETTE,010 CONCORDIA,State Auditor,,Fred Kennell,GRE,11
 LAFAYETTE,010 CONCORDIA,State Auditor,,Claire McCaskill,DEM,788
 LAFAYETTE,010 CONCORDIA,State Auditor,,Arnold Trembley,LIB,25
-LAFAYETTE,011 LEX 1ST &  2ND,State Auditor,,Theo (Ted) Brown,WI,0
-LAFAYETTE,011 LEX 1ST &  2ND,State Auditor,,Allen Hanson,REP,205
-LAFAYETTE,011 LEX 1ST &  2ND,State Auditor,,Fred Kennell,GRE,6
-LAFAYETTE,011 LEX 1ST &  2ND,State Auditor,,Claire McCaskill,DEM,584
-LAFAYETTE,011 LEX 1ST &  2ND,State Auditor,,Arnold Trembley,LIB,11
+LAFAYETTE,011 LEX 1ST & 2ND,State Auditor,,Theo (Ted) Brown,WI,0
+LAFAYETTE,011 LEX 1ST & 2ND,State Auditor,,Allen Hanson,REP,205
+LAFAYETTE,011 LEX 1ST & 2ND,State Auditor,,Fred Kennell,GRE,6
+LAFAYETTE,011 LEX 1ST & 2ND,State Auditor,,Claire McCaskill,DEM,584
+LAFAYETTE,011 LEX 1ST & 2ND,State Auditor,,Arnold Trembley,LIB,11
 LAFAYETTE,012 LEX 3RD & 4TH,State Auditor,,Theo (Ted) Brown,WI,0
 LAFAYETTE,012 LEX 3RD & 4TH,State Auditor,,Allen Hanson,REP,144
 LAFAYETTE,012 LEX 3RD & 4TH,State Auditor,,Fred Kennell,GRE,5
@@ -31709,9 +31709,9 @@ LAFAYETTE,009 DOVER,U.S. House,4,Ike Skelton,DEM,171
 LAFAYETTE,010 CONCORDIA,U.S. House,4,Daniel Nelson,LIB,5
 LAFAYETTE,010 CONCORDIA,U.S. House,4,James Noland,REP,248
 LAFAYETTE,010 CONCORDIA,U.S. House,4,Ike Skelton,DEM,939
-LAFAYETTE,011 LEX 1ST &  2ND,U.S. House,4,Daniel Nelson,LIB,9
-LAFAYETTE,011 LEX 1ST &  2ND,U.S. House,4,James Noland,REP,94
-LAFAYETTE,011 LEX 1ST &  2ND,U.S. House,4,Ike Skelton,DEM,712
+LAFAYETTE,011 LEX 1ST & 2ND,U.S. House,4,Daniel Nelson,LIB,9
+LAFAYETTE,011 LEX 1ST & 2ND,U.S. House,4,James Noland,REP,94
+LAFAYETTE,011 LEX 1ST & 2ND,U.S. House,4,Ike Skelton,DEM,712
 LAFAYETTE,012 LEX 3RD & 4TH,U.S. House,4,Daniel Nelson,LIB,11
 LAFAYETTE,012 LEX 3RD & 4TH,U.S. House,4,James Noland,REP,71
 LAFAYETTE,012 LEX 3RD & 4TH,U.S. House,4,Ike Skelton,DEM,637
@@ -31751,7 +31751,7 @@ LAFAYETTE,006 2ND/N./3RD HIGG,State House,26,James Seigfreid,DEM,21
 LAFAYETTE,008 CORDER,State House,26,James Seigfreid,DEM,198
 LAFAYETTE,009 DOVER,State House,26,James Seigfreid,DEM,170
 LAFAYETTE,010 CONCORDIA,State House,26,James Seigfreid,DEM,766
-LAFAYETTE,011 LEX 1ST &  2ND,State House,26,James Seigfreid,DEM,658
+LAFAYETTE,011 LEX 1ST & 2ND,State House,26,James Seigfreid,DEM,658
 LAFAYETTE,012 LEX 3RD & 4TH,State House,26,James Seigfreid,DEM,592
 LAFAYETTE,013 RURAL LEXINGTON,State House,26,James Seigfreid,DEM,366
 LAFAYETTE,014 ALMA/EAST DAVIS,State House,26,James Seigfreid,DEM,312
@@ -35649,10 +35649,10 @@ MONROE,INDIAN CREEK # 4,U.S. Senate,,Jean Carnahan,DEM,30
 MONROE,INDIAN CREEK # 4,U.S. Senate,,Tamara Millay,LIB,1
 MONROE,INDIAN CREEK # 4,U.S. Senate,,Daniel Romano,GRE,0
 MONROE,INDIAN CREEK # 4,U.S. Senate,,Jim Talent,REP,42
-MONROE,MADISON # 10  & 11,U.S. Senate,,Jean Carnahan,DEM,163
-MONROE,MADISON # 10  & 11,U.S. Senate,,Tamara Millay,LIB,7
-MONROE,MADISON # 10  & 11,U.S. Senate,,Daniel Romano,GRE,0
-MONROE,MADISON # 10  & 11,U.S. Senate,,Jim Talent,REP,150
+MONROE,MADISON # 10 & 11,U.S. Senate,,Jean Carnahan,DEM,163
+MONROE,MADISON # 10 & 11,U.S. Senate,,Tamara Millay,LIB,7
+MONROE,MADISON # 10 & 11,U.S. Senate,,Daniel Romano,GRE,0
+MONROE,MADISON # 10 & 11,U.S. Senate,,Jim Talent,REP,150
 MONROE,MONROE CITY # 1,U.S. Senate,,Jean Carnahan,DEM,125
 MONROE,MONROE CITY # 1,U.S. Senate,,Tamara Millay,LIB,2
 MONROE,MONROE CITY # 1,U.S. Senate,,Daniel Romano,GRE,1
@@ -35722,11 +35722,11 @@ MONROE,INDIAN CREEK # 4,State Auditor,,Allen Hanson,REP,22
 MONROE,INDIAN CREEK # 4,State Auditor,,Fred Kennell,GRE,0
 MONROE,INDIAN CREEK # 4,State Auditor,,Claire McCaskill,DEM,46
 MONROE,INDIAN CREEK # 4,State Auditor,,Arnold Trembley,LIB,2
-MONROE,MADISON # 10  & 11,State Auditor,,Theo (Ted) Brown,WI,0
-MONROE,MADISON # 10  & 11,State Auditor,,Allen Hanson,REP,98
-MONROE,MADISON # 10  & 11,State Auditor,,Fred Kennell,GRE,3
-MONROE,MADISON # 10  & 11,State Auditor,,Claire McCaskill,DEM,195
-MONROE,MADISON # 10  & 11,State Auditor,,Arnold Trembley,LIB,6
+MONROE,MADISON # 10 & 11,State Auditor,,Theo (Ted) Brown,WI,0
+MONROE,MADISON # 10 & 11,State Auditor,,Allen Hanson,REP,98
+MONROE,MADISON # 10 & 11,State Auditor,,Fred Kennell,GRE,3
+MONROE,MADISON # 10 & 11,State Auditor,,Claire McCaskill,DEM,195
+MONROE,MADISON # 10 & 11,State Auditor,,Arnold Trembley,LIB,6
 MONROE,MONROE CITY # 1,State Auditor,,Theo (Ted) Brown,WI,0
 MONROE,MONROE CITY # 1,State Auditor,,Allen Hanson,REP,74
 MONROE,MONROE CITY # 1,State Auditor,,Fred Kennell,GRE,3
@@ -35802,10 +35802,10 @@ MONROE,INDIAN CREEK # 4,U.S. House,9,Keith Brekhus,GRE,0
 MONROE,INDIAN CREEK # 4,U.S. House,9,Donald Deichman,DEM,17
 MONROE,INDIAN CREEK # 4,U.S. House,9,Kenny Hulshof,REP,55
 MONROE,INDIAN CREEK # 4,U.S. House,9,John Mruzik,LIB,1
-MONROE,MADISON # 10  & 11,U.S. House,9,Keith Brekhus,GRE,1
-MONROE,MADISON # 10  & 11,U.S. House,9,Donald Deichman,DEM,94
-MONROE,MADISON # 10  & 11,U.S. House,9,Kenny Hulshof,REP,217
-MONROE,MADISON # 10  & 11,U.S. House,9,John Mruzik,LIB,2
+MONROE,MADISON # 10 & 11,U.S. House,9,Keith Brekhus,GRE,1
+MONROE,MADISON # 10 & 11,U.S. House,9,Donald Deichman,DEM,94
+MONROE,MADISON # 10 & 11,U.S. House,9,Kenny Hulshof,REP,217
+MONROE,MADISON # 10 & 11,U.S. House,9,John Mruzik,LIB,2
 MONROE,MONROE CITY # 1,U.S. House,9,Keith Brekhus,GRE,2
 MONROE,MONROE CITY # 1,U.S. House,9,Donald Deichman,DEM,72
 MONROE,MONROE CITY # 1,U.S. House,9,Kenny Hulshof,REP,180
@@ -35860,8 +35860,8 @@ MONROE,HOLLIDAY # 9,State Senate,18,Samuel Berkowitz,DEM,64
 MONROE,HOLLIDAY # 9,State Senate,18,John Cauthorn,REP,51
 MONROE,INDIAN CREEK # 4,State Senate,18,Samuel Berkowitz,DEM,34
 MONROE,INDIAN CREEK # 4,State Senate,18,John Cauthorn,REP,39
-MONROE,MADISON # 10  & 11,State Senate,18,Samuel Berkowitz,DEM,138
-MONROE,MADISON # 10  & 11,State Senate,18,John Cauthorn,REP,173
+MONROE,MADISON # 10 & 11,State Senate,18,Samuel Berkowitz,DEM,138
+MONROE,MADISON # 10 & 11,State Senate,18,John Cauthorn,REP,173
 MONROE,MONROE CITY # 1,State Senate,18,Samuel Berkowitz,DEM,116
 MONROE,MONROE CITY # 1,State Senate,18,John Cauthorn,REP,141
 MONROE,MONROE CITY # 2,State Senate,18,Samuel Berkowitz,DEM,88
@@ -35899,9 +35899,9 @@ MONROE,HOLLIDAY # 9,State House,9,Wesley Shoemyer,DEM,96
 MONROE,INDIAN CREEK # 4,State House,9,Jeffrey Hedberg,REP,21
 MONROE,INDIAN CREEK # 4,State House,9,John Schultz,LIB,1
 MONROE,INDIAN CREEK # 4,State House,9,Wesley Shoemyer,DEM,51
-MONROE,MADISON # 10  & 11,State House,9,Jeffrey Hedberg,REP,77
-MONROE,MADISON # 10  & 11,State House,9,John Schultz,LIB,3
-MONROE,MADISON # 10  & 11,State House,9,Wesley Shoemyer,DEM,240
+MONROE,MADISON # 10 & 11,State House,9,Jeffrey Hedberg,REP,77
+MONROE,MADISON # 10 & 11,State House,9,John Schultz,LIB,3
+MONROE,MADISON # 10 & 11,State House,9,Wesley Shoemyer,DEM,240
 MONROE,MONROE CITY # 1,State House,9,Jeffrey Hedberg,REP,65
 MONROE,MONROE CITY # 1,State House,9,John Schultz,LIB,2
 MONROE,MONROE CITY # 1,State House,9,Wesley Shoemyer,DEM,192
@@ -36161,14 +36161,14 @@ MORGAN,SYRACUSE N&S,U.S. Senate,,Jean Carnahan,DEM,133
 MORGAN,SYRACUSE N&S,U.S. Senate,,Tamara Millay,LIB,5
 MORGAN,SYRACUSE N&S,U.S. Senate,,Daniel Romano,GRE,4
 MORGAN,SYRACUSE N&S,U.S. Senate,,Jim Talent,REP,178
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Jean Carnahan,DEM,380
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Tamara Millay,LIB,9
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Daniel Romano,GRE,9
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Jim Talent,REP,477
-MORGAN,VERSAILLES S  FAIRGROUNDS S,U.S. Senate,,Jean Carnahan,DEM,384
-MORGAN,VERSAILLES S  FAIRGROUNDS S,U.S. Senate,,Tamara Millay,LIB,16
-MORGAN,VERSAILLES S  FAIRGROUNDS S,U.S. Senate,,Daniel Romano,GRE,9
-MORGAN,VERSAILLES S  FAIRGROUNDS S,U.S. Senate,,Jim Talent,REP,502
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Jean Carnahan,DEM,380
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Tamara Millay,LIB,9
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Daniel Romano,GRE,9
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,U.S. Senate,,Jim Talent,REP,477
+MORGAN,VERSAILLES S FAIRGROUNDS S,U.S. Senate,,Jean Carnahan,DEM,384
+MORGAN,VERSAILLES S FAIRGROUNDS S,U.S. Senate,,Tamara Millay,LIB,16
+MORGAN,VERSAILLES S FAIRGROUNDS S,U.S. Senate,,Daniel Romano,GRE,9
+MORGAN,VERSAILLES S FAIRGROUNDS S,U.S. Senate,,Jim Talent,REP,502
 MORGAN,WEBB,U.S. Senate,,Jean Carnahan,DEM,304
 MORGAN,WEBB,U.S. Senate,,Tamara Millay,LIB,11
 MORGAN,WEBB,U.S. Senate,,Daniel Romano,GRE,6
@@ -36218,16 +36218,16 @@ MORGAN,SYRACUSE N&S,State Auditor,,Allen Hanson,REP,117
 MORGAN,SYRACUSE N&S,State Auditor,,Fred Kennell,GRE,7
 MORGAN,SYRACUSE N&S,State Auditor,,Claire McCaskill,DEM,177
 MORGAN,SYRACUSE N&S,State Auditor,,Arnold Trembley,LIB,10
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State Auditor,,Theo (Ted) Brown,WI,0
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State Auditor,,Allen Hanson,REP,306
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State Auditor,,Fred Kennell,GRE,8
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State Auditor,,Claire McCaskill,DEM,497
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State Auditor,,Arnold Trembley,LIB,21
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State Auditor,,Theo (Ted) Brown,WI,0
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State Auditor,,Allen Hanson,REP,349
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State Auditor,,Fred Kennell,GRE,15
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State Auditor,,Claire McCaskill,DEM,494
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State Auditor,,Arnold Trembley,LIB,20
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State Auditor,,Theo (Ted) Brown,WI,0
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State Auditor,,Allen Hanson,REP,306
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State Auditor,,Fred Kennell,GRE,8
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State Auditor,,Claire McCaskill,DEM,497
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State Auditor,,Arnold Trembley,LIB,21
+MORGAN,VERSAILLES S FAIRGROUNDS S,State Auditor,,Theo (Ted) Brown,WI,0
+MORGAN,VERSAILLES S FAIRGROUNDS S,State Auditor,,Allen Hanson,REP,349
+MORGAN,VERSAILLES S FAIRGROUNDS S,State Auditor,,Fred Kennell,GRE,15
+MORGAN,VERSAILLES S FAIRGROUNDS S,State Auditor,,Claire McCaskill,DEM,494
+MORGAN,VERSAILLES S FAIRGROUNDS S,State Auditor,,Arnold Trembley,LIB,20
 MORGAN,WEBB,State Auditor,,Theo (Ted) Brown,WI,0
 MORGAN,WEBB,State Auditor,,Allen Hanson,REP,150
 MORGAN,WEBB,State Auditor,,Fred Kennell,GRE,6
@@ -36260,12 +36260,12 @@ MORGAN,STOVER SOUTH,U.S. House,4,Ike Skelton,DEM,280
 MORGAN,SYRACUSE N&S,U.S. House,4,Daniel Nelson,LIB,4
 MORGAN,SYRACUSE N&S,U.S. House,4,James Noland,REP,97
 MORGAN,SYRACUSE N&S,U.S. House,4,Ike Skelton,DEM,219
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,U.S. House,4,Daniel Nelson,LIB,9
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,U.S. House,4,James Noland,REP,227
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,U.S. House,4,Ike Skelton,DEM,628
-MORGAN,VERSAILLES S  FAIRGROUNDS S,U.S. House,4,Daniel Nelson,LIB,23
-MORGAN,VERSAILLES S  FAIRGROUNDS S,U.S. House,4,James Noland,REP,254
-MORGAN,VERSAILLES S  FAIRGROUNDS S,U.S. House,4,Ike Skelton,DEM,632
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,U.S. House,4,Daniel Nelson,LIB,9
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,U.S. House,4,James Noland,REP,227
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,U.S. House,4,Ike Skelton,DEM,628
+MORGAN,VERSAILLES S FAIRGROUNDS S,U.S. House,4,Daniel Nelson,LIB,23
+MORGAN,VERSAILLES S FAIRGROUNDS S,U.S. House,4,James Noland,REP,254
+MORGAN,VERSAILLES S FAIRGROUNDS S,U.S. House,4,Ike Skelton,DEM,632
 MORGAN,WEBB,U.S. House,4,Daniel Nelson,LIB,18
 MORGAN,WEBB,U.S. House,4,James Noland,REP,123
 MORGAN,WEBB,U.S. House,4,Ike Skelton,DEM,371
@@ -36287,10 +36287,10 @@ MORGAN,STOVER SOUTH,State Senate,6,William Gratz,DEM,138
 MORGAN,STOVER SOUTH,State Senate,6,Carl Vogel,REP,261
 MORGAN,SYRACUSE N&S,State Senate,6,William Gratz,DEM,135
 MORGAN,SYRACUSE N&S,State Senate,6,Carl Vogel,REP,181
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State Senate,6,William Gratz,DEM,348
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State Senate,6,Carl Vogel,REP,498
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State Senate,6,William Gratz,DEM,354
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State Senate,6,Carl Vogel,REP,529
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State Senate,6,William Gratz,DEM,348
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State Senate,6,Carl Vogel,REP,498
+MORGAN,VERSAILLES S FAIRGROUNDS S,State Senate,6,William Gratz,DEM,354
+MORGAN,VERSAILLES S FAIRGROUNDS S,State Senate,6,Carl Vogel,REP,529
 MORGAN,WEBB,State Senate,6,William Gratz,DEM,274
 MORGAN,WEBB,State Senate,6,Carl Vogel,REP,228
 MORGAN,ABSENTEE,State House,115,Ronald Bonar,DEM,45
@@ -36305,8 +36305,8 @@ MORGAN,LAURIE,State House,115,Ronald Bonar,DEM,159
 MORGAN,LAURIE,State House,115,William Luetkemeyer,REP,245
 MORGAN,SYRACUSE N&S,State House,115,Ronald Bonar,DEM,54
 MORGAN,SYRACUSE N&S,State House,115,William Luetkemeyer,REP,76
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State House,115,Ronald Bonar,DEM,54
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State House,115,William Luetkemeyer,REP,95
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State House,115,Ronald Bonar,DEM,54
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State House,115,William Luetkemeyer,REP,95
 MORGAN,ABSENTEE,State House,116,Teresa Capps,DEM,155
 MORGAN,ABSENTEE,State House,116,Thomas Self,REP,234
 MORGAN,BARNETT I&II,State House,116,Teresa Capps,DEM,20
@@ -36319,10 +36319,10 @@ MORGAN,STOVER NORTH,State House,116,Teresa Capps,DEM,117
 MORGAN,STOVER NORTH,State House,116,Thomas Self,REP,275
 MORGAN,STOVER SOUTH,State House,116,Teresa Capps,DEM,140
 MORGAN,STOVER SOUTH,State House,116,Thomas Self,REP,269
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State House,116,Teresa Capps,DEM,298
-MORGAN,VERSAILLES N  EXCELSIOR & FAIRGROUNDS N,State House,116,Thomas Self,REP,421
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State House,116,Teresa Capps,DEM,337
-MORGAN,VERSAILLES S  FAIRGROUNDS S,State House,116,Thomas Self,REP,568
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State House,116,Teresa Capps,DEM,298
+MORGAN,VERSAILLES N EXCELSIOR & FAIRGROUNDS N,State House,116,Thomas Self,REP,421
+MORGAN,VERSAILLES S FAIRGROUNDS S,State House,116,Teresa Capps,DEM,337
+MORGAN,VERSAILLES S FAIRGROUNDS S,State House,116,Thomas Self,REP,568
 MORGAN,WEBB,State House,116,Teresa Capps,DEM,303
 MORGAN,WEBB,State House,116,Thomas Self,REP,212
 MORGAN,ABSENTEE,State House,117,Larry Crawford,REP,6
@@ -39206,10 +39206,10 @@ PHELPS,020 SPRING CREEK- O.S. E.,U.S. Senate,,Jean Carnahan,DEM,255
 PHELPS,020 SPRING CREEK- O.S. E.,U.S. Senate,,Tamara Millay,LIB,4
 PHELPS,020 SPRING CREEK- O.S. E.,U.S. Senate,,Daniel Romano,GRE,1
 PHELPS,020 SPRING CREEK- O.S. E.,U.S. Senate,,Jim Talent,REP,260
-PHELPS,021 SPRING CREEK- O.S.  W.,U.S. Senate,,Jean Carnahan,DEM,30
-PHELPS,021 SPRING CREEK- O.S.  W.,U.S. Senate,,Tamara Millay,LIB,3
-PHELPS,021 SPRING CREEK- O.S.  W.,U.S. Senate,,Daniel Romano,GRE,0
-PHELPS,021 SPRING CREEK- O.S.  W.,U.S. Senate,,Jim Talent,REP,36
+PHELPS,021 SPRING CREEK- O.S. W.,U.S. Senate,,Jean Carnahan,DEM,30
+PHELPS,021 SPRING CREEK- O.S. W.,U.S. Senate,,Tamara Millay,LIB,3
+PHELPS,021 SPRING CREEK- O.S. W.,U.S. Senate,,Daniel Romano,GRE,0
+PHELPS,021 SPRING CREEK- O.S. W.,U.S. Senate,,Jim Talent,REP,36
 PHELPS,022 MERAMEC- N&S 149TH,U.S. Senate,,Jean Carnahan,DEM,57
 PHELPS,022 MERAMEC- N&S 149TH,U.S. Senate,,Tamara Millay,LIB,0
 PHELPS,022 MERAMEC- N&S 149TH,U.S. Senate,,Daniel Romano,GRE,1
@@ -39382,11 +39382,11 @@ PHELPS,020 SPRING CREEK- O.S. E.,State Auditor,,Allen Hanson,REP,202
 PHELPS,020 SPRING CREEK- O.S. E.,State Auditor,,Fred Kennell,GRE,7
 PHELPS,020 SPRING CREEK- O.S. E.,State Auditor,,Claire McCaskill,DEM,281
 PHELPS,020 SPRING CREEK- O.S. E.,State Auditor,,Arnold Trembley,LIB,14
-PHELPS,021 SPRING CREEK- O.S.  W.,State Auditor,,Theo (Ted) Brown,WI,0
-PHELPS,021 SPRING CREEK- O.S.  W.,State Auditor,,Allen Hanson,REP,25
-PHELPS,021 SPRING CREEK- O.S.  W.,State Auditor,,Fred Kennell,GRE,0
-PHELPS,021 SPRING CREEK- O.S.  W.,State Auditor,,Claire McCaskill,DEM,41
-PHELPS,021 SPRING CREEK- O.S.  W.,State Auditor,,Arnold Trembley,LIB,1
+PHELPS,021 SPRING CREEK- O.S. W.,State Auditor,,Theo (Ted) Brown,WI,0
+PHELPS,021 SPRING CREEK- O.S. W.,State Auditor,,Allen Hanson,REP,25
+PHELPS,021 SPRING CREEK- O.S. W.,State Auditor,,Fred Kennell,GRE,0
+PHELPS,021 SPRING CREEK- O.S. W.,State Auditor,,Claire McCaskill,DEM,41
+PHELPS,021 SPRING CREEK- O.S. W.,State Auditor,,Arnold Trembley,LIB,1
 PHELPS,022 MERAMEC- N&S 149TH,State Auditor,,Theo (Ted) Brown,WI,0
 PHELPS,022 MERAMEC- N&S 149TH,State Auditor,,Allen Hanson,REP,35
 PHELPS,022 MERAMEC- N&S 149TH,State Auditor,,Fred Kennell,GRE,1
@@ -39537,9 +39537,9 @@ PHELPS,019 COLD SPRINGS-WEST,U.S. House,8,Eric Van Oostrom,LIB,7
 PHELPS,020 SPRING CREEK- O.S. E.,U.S. House,8,Gene Curtis,DEM,196
 PHELPS,020 SPRING CREEK- O.S. E.,U.S. House,8,Jo Ann Emerson,REP,315
 PHELPS,020 SPRING CREEK- O.S. E.,U.S. House,8,Eric Van Oostrom,LIB,9
-PHELPS,021 SPRING CREEK- O.S.  W.,U.S. House,8,Gene Curtis,DEM,25
-PHELPS,021 SPRING CREEK- O.S.  W.,U.S. House,8,Jo Ann Emerson,REP,43
-PHELPS,021 SPRING CREEK- O.S.  W.,U.S. House,8,Eric Van Oostrom,LIB,0
+PHELPS,021 SPRING CREEK- O.S. W.,U.S. House,8,Gene Curtis,DEM,25
+PHELPS,021 SPRING CREEK- O.S. W.,U.S. House,8,Jo Ann Emerson,REP,43
+PHELPS,021 SPRING CREEK- O.S. W.,U.S. House,8,Eric Van Oostrom,LIB,0
 PHELPS,022 MERAMEC- N&S 149TH,U.S. House,8,Gene Curtis,DEM,37
 PHELPS,022 MERAMEC- N&S 149TH,U.S. House,8,Jo Ann Emerson,REP,64
 PHELPS,022 MERAMEC- N&S 149TH,U.S. House,8,Eric Van Oostrom,LIB,1
@@ -39634,8 +39634,8 @@ PHELPS,019 COLD SPRINGS-WEST,State Senate,16,Clara Ichord,DEM,158
 PHELPS,019 COLD SPRINGS-WEST,State Senate,16,Sarah Steelman,REP,367
 PHELPS,020 SPRING CREEK- O.S. E.,State Senate,16,Clara Ichord,DEM,214
 PHELPS,020 SPRING CREEK- O.S. E.,State Senate,16,Sarah Steelman,REP,304
-PHELPS,021 SPRING CREEK- O.S.  W.,State Senate,16,Clara Ichord,DEM,25
-PHELPS,021 SPRING CREEK- O.S.  W.,State Senate,16,Sarah Steelman,REP,44
+PHELPS,021 SPRING CREEK- O.S. W.,State Senate,16,Clara Ichord,DEM,25
+PHELPS,021 SPRING CREEK- O.S. W.,State Senate,16,Sarah Steelman,REP,44
 PHELPS,022 MERAMEC- N&S 149TH,State Senate,16,Clara Ichord,DEM,36
 PHELPS,022 MERAMEC- N&S 149TH,State Senate,16,Sarah Steelman,REP,68
 PHELPS,023 MERAMEC N&S 150TH,State Senate,16,Clara Ichord,DEM,47
@@ -39688,8 +39688,8 @@ PHELPS,019 COLD SPRINGS-WEST,State House,147,Mark Hampton,DEM,272
 PHELPS,019 COLD SPRINGS-WEST,State House,147,John Williams,LIB,161
 PHELPS,020 SPRING CREEK- O.S. E.,State House,147,Mark Hampton,DEM,317
 PHELPS,020 SPRING CREEK- O.S. E.,State House,147,John Williams,LIB,91
-PHELPS,021 SPRING CREEK- O.S.  W.,State House,147,Mark Hampton,DEM,45
-PHELPS,021 SPRING CREEK- O.S.  W.,State House,147,John Williams,LIB,13
+PHELPS,021 SPRING CREEK- O.S. W.,State House,147,Mark Hampton,DEM,45
+PHELPS,021 SPRING CREEK- O.S. W.,State House,147,John Williams,LIB,13
 PHELPS,040 ROLLA- O.S. SOUTH,State House,147,Mark Hampton,DEM,274
 PHELPS,040 ROLLA- O.S. SOUTH,State House,147,John Williams,LIB,147
 PHELPS,001 DOOLITTLE-WD. 1,State House,149,Carol Gaddy,DEM,39
@@ -48184,10 +48184,10 @@ ST LOUIS CITY,PCT 15,U.S. Senate,,Jean Carnahan,DEM,9
 ST LOUIS CITY,PCT 15,U.S. Senate,,Tamara Millay,LIB,0
 ST LOUIS CITY,PCT 15,U.S. Senate,,Daniel Romano,GRE,0
 ST LOUIS CITY,PCT 15,U.S. Senate,,Jim Talent,REP,5
-ST LOUIS CITY,PCT  01,U.S. Senate,,Jean Carnahan,DEM,192
-ST LOUIS CITY,PCT  01,U.S. Senate,,Tamara Millay,LIB,0
-ST LOUIS CITY,PCT  01,U.S. Senate,,Daniel Romano,GRE,1
-ST LOUIS CITY,PCT  01,U.S. Senate,,Jim Talent,REP,1
+ST LOUIS CITY,PCT 01,U.S. Senate,,Jean Carnahan,DEM,192
+ST LOUIS CITY,PCT 01,U.S. Senate,,Tamara Millay,LIB,0
+ST LOUIS CITY,PCT 01,U.S. Senate,,Daniel Romano,GRE,1
+ST LOUIS CITY,PCT 01,U.S. Senate,,Jim Talent,REP,1
 ST LOUIS CITY,PCT 02,U.S. Senate,,Jean Carnahan,DEM,323
 ST LOUIS CITY,PCT 02,U.S. Senate,,Tamara Millay,LIB,1
 ST LOUIS CITY,PCT 02,U.S. Senate,,Daniel Romano,GRE,4
@@ -51424,11 +51424,11 @@ ST LOUIS CITY,PCT 15,State Auditor,,Allen Hanson,REP,3
 ST LOUIS CITY,PCT 15,State Auditor,,Fred Kennell,GRE,0
 ST LOUIS CITY,PCT 15,State Auditor,,Claire McCaskill,DEM,10
 ST LOUIS CITY,PCT 15,State Auditor,,Arnold Trembley,LIB,0
-ST LOUIS CITY,PCT  01,State Auditor,,Theo (Ted) Brown,WI,0
-ST LOUIS CITY,PCT  01,State Auditor,,Allen Hanson,REP,0
-ST LOUIS CITY,PCT  01,State Auditor,,Fred Kennell,GRE,1
-ST LOUIS CITY,PCT  01,State Auditor,,Claire McCaskill,DEM,173
-ST LOUIS CITY,PCT  01,State Auditor,,Arnold Trembley,LIB,1
+ST LOUIS CITY,PCT 01,State Auditor,,Theo (Ted) Brown,WI,0
+ST LOUIS CITY,PCT 01,State Auditor,,Allen Hanson,REP,0
+ST LOUIS CITY,PCT 01,State Auditor,,Fred Kennell,GRE,1
+ST LOUIS CITY,PCT 01,State Auditor,,Claire McCaskill,DEM,173
+ST LOUIS CITY,PCT 01,State Auditor,,Arnold Trembley,LIB,1
 ST LOUIS CITY,PCT 02,State Auditor,,Theo (Ted) Brown,WI,0
 ST LOUIS CITY,PCT 02,State Auditor,,Allen Hanson,REP,9
 ST LOUIS CITY,PCT 02,State Auditor,,Fred Kennell,GRE,10
@@ -53749,9 +53749,9 @@ ST LOUIS CITY,PCT 14,U.S. House,1,Richard Schwadron,REP,6
 ST LOUIS CITY,PCT 15,U.S. House,1,William Clay,DEM,7
 ST LOUIS CITY,PCT 15,U.S. House,1,James Higgins,LIB,1
 ST LOUIS CITY,PCT 15,U.S. House,1,Richard Schwadron,REP,5
-ST LOUIS CITY,PCT  01,U.S. House,1,William Clay,DEM,185
-ST LOUIS CITY,PCT  01,U.S. House,1,James Higgins,LIB,1
-ST LOUIS CITY,PCT  01,U.S. House,1,Richard Schwadron,REP,2
+ST LOUIS CITY,PCT 01,U.S. House,1,William Clay,DEM,185
+ST LOUIS CITY,PCT 01,U.S. House,1,James Higgins,LIB,1
+ST LOUIS CITY,PCT 01,U.S. House,1,Richard Schwadron,REP,2
 ST LOUIS CITY,PCT 02,U.S. House,1,William Clay,DEM,314
 ST LOUIS CITY,PCT 02,U.S. House,1,James Higgins,LIB,5
 ST LOUIS CITY,PCT 02,U.S. House,1,Richard Schwadron,REP,8
@@ -55556,7 +55556,7 @@ ST LOUIS CITY,PCT 09,State Senate,4,J. Dougherty,DEM,16
 ST LOUIS CITY,PCT 10,State Senate,4,J. Dougherty,DEM,18
 ST LOUIS CITY,PCT 11,State Senate,4,J. Dougherty,DEM,13
 ST LOUIS CITY,PCT 14,State Senate,4,J. Dougherty,DEM,16
-ST LOUIS CITY,PCT  01,State Senate,4,J. Dougherty,DEM,171
+ST LOUIS CITY,PCT 01,State Senate,4,J. Dougherty,DEM,171
 ST LOUIS CITY,PCT 02,State Senate,4,J. Dougherty,DEM,319
 ST LOUIS CITY,PCT 03,State Senate,4,J. Dougherty,DEM,269
 ST LOUIS CITY,PCT 04,State Senate,4,J. Dougherty,DEM,386
@@ -55763,7 +55763,7 @@ ST LOUIS CITY,PCT 10,State House,57,Yaphett El-Amin,DEM,2
 ST LOUIS CITY,PCT 11,State House,57,Yaphett El-Amin,DEM,1
 ST LOUIS CITY,PCT 12,State House,57,Yaphett El-Amin,DEM,1
 ST LOUIS CITY,PCT 03,State House,57,Yaphett El-Amin,DEM,0
-ST LOUIS CITY,PCT  01,State House,57,Yaphett El-Amin,DEM,183
+ST LOUIS CITY,PCT 01,State House,57,Yaphett El-Amin,DEM,183
 ST LOUIS CITY,PCT 04,State House,57,Yaphett El-Amin,DEM,393
 ST LOUIS CITY,PCT 09,State House,57,Yaphett El-Amin,DEM,242
 ST LOUIS CITY,PCT 11,State House,57,Yaphett El-Amin,DEM,263
@@ -58894,10 +58894,10 @@ ST LOUIS COUNTY,"0534 QUE 71,73",U.S. Senate,,Jean Carnahan,DEM,68
 ST LOUIS COUNTY,"0534 QUE 71,73",U.S. Senate,,Tamara Millay,LIB,2
 ST LOUIS COUNTY,"0534 QUE 71,73",U.S. Senate,,Daniel Romano,GRE,2
 ST LOUIS COUNTY,"0534 QUE 71,73",U.S. Senate,,Jim Talent,REP,112
-ST LOUIS COUNTY,"0535  QUE 5,74",U.S. Senate,,Jean Carnahan,DEM,290
-ST LOUIS COUNTY,"0535  QUE 5,74",U.S. Senate,,Tamara Millay,LIB,4
-ST LOUIS COUNTY,"0535  QUE 5,74",U.S. Senate,,Daniel Romano,GRE,5
-ST LOUIS COUNTY,"0535  QUE 5,74",U.S. Senate,,Jim Talent,REP,407
+ST LOUIS COUNTY,"0535 QUE 5,74",U.S. Senate,,Jean Carnahan,DEM,290
+ST LOUIS COUNTY,"0535 QUE 5,74",U.S. Senate,,Tamara Millay,LIB,4
+ST LOUIS COUNTY,"0535 QUE 5,74",U.S. Senate,,Daniel Romano,GRE,5
+ST LOUIS COUNTY,"0535 QUE 5,74",U.S. Senate,,Jim Talent,REP,407
 ST LOUIS COUNTY,"0536 QUE 4,20",U.S. Senate,,Jean Carnahan,DEM,59
 ST LOUIS COUNTY,"0536 QUE 4,20",U.S. Senate,,Tamara Millay,LIB,1
 ST LOUIS COUNTY,"0536 QUE 4,20",U.S. Senate,,Daniel Romano,GRE,1
@@ -59022,10 +59022,10 @@ ST LOUIS COUNTY,"0566 SPL 14,26",U.S. Senate,,Jean Carnahan,DEM,385
 ST LOUIS COUNTY,"0566 SPL 14,26",U.S. Senate,,Tamara Millay,LIB,1
 ST LOUIS COUNTY,"0566 SPL 14,26",U.S. Senate,,Daniel Romano,GRE,2
 ST LOUIS COUNTY,"0566 SPL 14,26",U.S. Senate,,Jim Talent,REP,221
-ST LOUIS COUNTY,"0567 SPL  9,21,33",U.S. Senate,,Jean Carnahan,DEM,246
-ST LOUIS COUNTY,"0567 SPL  9,21,33",U.S. Senate,,Tamara Millay,LIB,0
-ST LOUIS COUNTY,"0567 SPL  9,21,33",U.S. Senate,,Daniel Romano,GRE,2
-ST LOUIS COUNTY,"0567 SPL  9,21,33",U.S. Senate,,Jim Talent,REP,159
+ST LOUIS COUNTY,"0567 SPL 9,21,33",U.S. Senate,,Jean Carnahan,DEM,246
+ST LOUIS COUNTY,"0567 SPL 9,21,33",U.S. Senate,,Tamara Millay,LIB,0
+ST LOUIS COUNTY,"0567 SPL 9,21,33",U.S. Senate,,Daniel Romano,GRE,2
+ST LOUIS COUNTY,"0567 SPL 9,21,33",U.S. Senate,,Jim Talent,REP,159
 ST LOUIS COUNTY,0568 SPL 16,U.S. Senate,,Jean Carnahan,DEM,323
 ST LOUIS COUNTY,0568 SPL 16,U.S. Senate,,Tamara Millay,LIB,4
 ST LOUIS COUNTY,0568 SPL 16,U.S. Senate,,Daniel Romano,GRE,1
@@ -61920,11 +61920,11 @@ ST LOUIS COUNTY,"0534 QUE 71,73",State Auditor,,Allen Hanson,REP,77
 ST LOUIS COUNTY,"0534 QUE 71,73",State Auditor,,Fred Kennell,GRE,0
 ST LOUIS COUNTY,"0534 QUE 71,73",State Auditor,,Claire McCaskill,DEM,95
 ST LOUIS COUNTY,"0534 QUE 71,73",State Auditor,,Arnold Trembley,LIB,4
-ST LOUIS COUNTY,"0535  QUE 5,74",State Auditor,,Theo (Ted) Brown,WI,0
-ST LOUIS COUNTY,"0535  QUE 5,74",State Auditor,,Allen Hanson,REP,290
-ST LOUIS COUNTY,"0535  QUE 5,74",State Auditor,,Fred Kennell,GRE,10
-ST LOUIS COUNTY,"0535  QUE 5,74",State Auditor,,Claire McCaskill,DEM,361
-ST LOUIS COUNTY,"0535  QUE 5,74",State Auditor,,Arnold Trembley,LIB,23
+ST LOUIS COUNTY,"0535 QUE 5,74",State Auditor,,Theo (Ted) Brown,WI,0
+ST LOUIS COUNTY,"0535 QUE 5,74",State Auditor,,Allen Hanson,REP,290
+ST LOUIS COUNTY,"0535 QUE 5,74",State Auditor,,Fred Kennell,GRE,10
+ST LOUIS COUNTY,"0535 QUE 5,74",State Auditor,,Claire McCaskill,DEM,361
+ST LOUIS COUNTY,"0535 QUE 5,74",State Auditor,,Arnold Trembley,LIB,23
 ST LOUIS COUNTY,"0536 QUE 4,20",State Auditor,,Theo (Ted) Brown,WI,0
 ST LOUIS COUNTY,"0536 QUE 4,20",State Auditor,,Allen Hanson,REP,109
 ST LOUIS COUNTY,"0536 QUE 4,20",State Auditor,,Fred Kennell,GRE,4
@@ -62080,11 +62080,11 @@ ST LOUIS COUNTY,"0566 SPL 14,26",State Auditor,,Allen Hanson,REP,163
 ST LOUIS COUNTY,"0566 SPL 14,26",State Auditor,,Fred Kennell,GRE,10
 ST LOUIS COUNTY,"0566 SPL 14,26",State Auditor,,Claire McCaskill,DEM,414
 ST LOUIS COUNTY,"0566 SPL 14,26",State Auditor,,Arnold Trembley,LIB,9
-ST LOUIS COUNTY,"0567 SPL  9,21,33",State Auditor,,Theo (Ted) Brown,WI,0
-ST LOUIS COUNTY,"0567 SPL  9,21,33",State Auditor,,Allen Hanson,REP,106
-ST LOUIS COUNTY,"0567 SPL  9,21,33",State Auditor,,Fred Kennell,GRE,4
-ST LOUIS COUNTY,"0567 SPL  9,21,33",State Auditor,,Claire McCaskill,DEM,280
-ST LOUIS COUNTY,"0567 SPL  9,21,33",State Auditor,,Arnold Trembley,LIB,6
+ST LOUIS COUNTY,"0567 SPL 9,21,33",State Auditor,,Theo (Ted) Brown,WI,0
+ST LOUIS COUNTY,"0567 SPL 9,21,33",State Auditor,,Allen Hanson,REP,106
+ST LOUIS COUNTY,"0567 SPL 9,21,33",State Auditor,,Fred Kennell,GRE,4
+ST LOUIS COUNTY,"0567 SPL 9,21,33",State Auditor,,Claire McCaskill,DEM,280
+ST LOUIS COUNTY,"0567 SPL 9,21,33",State Auditor,,Arnold Trembley,LIB,6
 ST LOUIS COUNTY,0568 SPL 16,State Auditor,,Theo (Ted) Brown,WI,0
 ST LOUIS COUNTY,0568 SPL 16,State Auditor,,Allen Hanson,REP,146
 ST LOUIS COUNTY,0568 SPL 16,State Auditor,,Fred Kennell,GRE,3
@@ -63064,9 +63064,9 @@ ST LOUIS COUNTY,"0565 SPL 20,38",U.S. House,1,Richard Schwadron,REP,331
 ST LOUIS COUNTY,"0566 SPL 14,26",U.S. House,1,William Clay,DEM,361
 ST LOUIS COUNTY,"0566 SPL 14,26",U.S. House,1,James Higgins,LIB,7
 ST LOUIS COUNTY,"0566 SPL 14,26",U.S. House,1,Richard Schwadron,REP,231
-ST LOUIS COUNTY,"0567 SPL  9,21,33",U.S. House,1,William Clay,DEM,230
-ST LOUIS COUNTY,"0567 SPL  9,21,33",U.S. House,1,James Higgins,LIB,9
-ST LOUIS COUNTY,"0567 SPL  9,21,33",U.S. House,1,Richard Schwadron,REP,159
+ST LOUIS COUNTY,"0567 SPL 9,21,33",U.S. House,1,William Clay,DEM,230
+ST LOUIS COUNTY,"0567 SPL 9,21,33",U.S. House,1,James Higgins,LIB,9
+ST LOUIS COUNTY,"0567 SPL 9,21,33",U.S. House,1,Richard Schwadron,REP,159
 ST LOUIS COUNTY,0568 SPL 16,U.S. House,1,William Clay,DEM,300
 ST LOUIS COUNTY,0568 SPL 16,U.S. House,1,James Higgins,LIB,7
 ST LOUIS COUNTY,0568 SPL 16,U.S. House,1,Richard Schwadron,REP,224
@@ -63781,9 +63781,9 @@ ST LOUIS COUNTY,0533 QUE 69,U.S. House,2,Darla Maloney,LIB,2
 ST LOUIS COUNTY,"0534 QUE 71,73",U.S. House,2,W. Akin,REP,119
 ST LOUIS COUNTY,"0534 QUE 71,73",U.S. House,2,John Hogan,DEM,58
 ST LOUIS COUNTY,"0534 QUE 71,73",U.S. House,2,Darla Maloney,LIB,5
-ST LOUIS COUNTY,"0535  QUE 5,74",U.S. House,2,W. Akin,REP,469
-ST LOUIS COUNTY,"0535  QUE 5,74",U.S. House,2,John Hogan,DEM,204
-ST LOUIS COUNTY,"0535  QUE 5,74",U.S. House,2,Darla Maloney,LIB,17
+ST LOUIS COUNTY,"0535 QUE 5,74",U.S. House,2,W. Akin,REP,469
+ST LOUIS COUNTY,"0535 QUE 5,74",U.S. House,2,John Hogan,DEM,204
+ST LOUIS COUNTY,"0535 QUE 5,74",U.S. House,2,Darla Maloney,LIB,17
 ST LOUIS COUNTY,"0536 QUE 4,20",U.S. House,2,W. Akin,REP,188
 ST LOUIS COUNTY,"0536 QUE 4,20",U.S. House,2,John Hogan,DEM,40
 ST LOUIS COUNTY,"0536 QUE 4,20",U.S. House,2,Darla Maloney,LIB,2
@@ -65158,7 +65158,7 @@ ST LOUIS COUNTY,0238 FER 49,State House,80,Theodore Hoskins,DEM,92
 ST LOUIS COUNTY,"0467 NRW 1,2,3,4",State House,80,Theodore Hoskins,DEM,910
 ST LOUIS COUNTY,0564 SPL 7,State House,80,Theodore Hoskins,DEM,762
 ST LOUIS COUNTY,"0565 SPL 20,38",State House,80,Theodore Hoskins,DEM,526
-ST LOUIS COUNTY,"0567 SPL  9,21,33",State House,80,Theodore Hoskins,DEM,295
+ST LOUIS COUNTY,"0567 SPL 9,21,33",State House,80,Theodore Hoskins,DEM,295
 ST LOUIS COUNTY,"0570 SPL 15,22",State House,80,Theodore Hoskins,DEM,964
 ST LOUIS COUNTY,"0239 HLF 1,2,3,6",State House,81,Juanita Walton,DEM,966
 ST LOUIS COUNTY,0240 HLF 4,State House,81,Juanita Walton,DEM,801
@@ -65645,8 +65645,8 @@ ST LOUIS COUNTY,"0526 QUE 34,57",State House,92,Mary Maguire,DEM,96
 ST LOUIS COUNTY,"0526 QUE 34,57",State House,92,Charles Portwood,REP,153
 ST LOUIS COUNTY,"0534 QUE 71,73",State House,92,Mary Maguire,DEM,75
 ST LOUIS COUNTY,"0534 QUE 71,73",State House,92,Charles Portwood,REP,103
-ST LOUIS COUNTY,"0535  QUE 5,74",State House,92,Mary Maguire,DEM,269
-ST LOUIS COUNTY,"0535  QUE 5,74",State House,92,Charles Portwood,REP,397
+ST LOUIS COUNTY,"0535 QUE 5,74",State House,92,Mary Maguire,DEM,269
+ST LOUIS COUNTY,"0535 QUE 5,74",State House,92,Charles Portwood,REP,397
 ST LOUIS COUNTY,"0536 QUE 4,20",State House,92,Mary Maguire,DEM,59
 ST LOUIS COUNTY,"0536 QUE 4,20",State House,92,Charles Portwood,REP,166
 ST LOUIS COUNTY,0537 QUE 23,State House,92,Mary Maguire,DEM,214
@@ -66492,10 +66492,10 @@ STONE,007 LINCOLN,U.S. Senate,,Jean Carnahan,DEM,43
 STONE,007 LINCOLN,U.S. Senate,,Tamara Millay,LIB,5
 STONE,007 LINCOLN,U.S. Senate,,Daniel Romano,GRE,0
 STONE,007 LINCOLN,U.S. Senate,,Jim Talent,REP,169
-STONE,008  MCKINLEY,U.S. Senate,,Jean Carnahan,DEM,38
-STONE,008  MCKINLEY,U.S. Senate,,Tamara Millay,LIB,2
-STONE,008  MCKINLEY,U.S. Senate,,Daniel Romano,GRE,1
-STONE,008  MCKINLEY,U.S. Senate,,Jim Talent,REP,113
+STONE,008 MCKINLEY,U.S. Senate,,Jean Carnahan,DEM,38
+STONE,008 MCKINLEY,U.S. Senate,,Tamara Millay,LIB,2
+STONE,008 MCKINLEY,U.S. Senate,,Daniel Romano,GRE,1
+STONE,008 MCKINLEY,U.S. Senate,,Jim Talent,REP,113
 STONE,009 PRINCE,U.S. Senate,,Jean Carnahan,DEM,171
 STONE,009 PRINCE,U.S. Senate,,Tamara Millay,LIB,12
 STONE,009 PRINCE,U.S. Senate,,Daniel Romano,GRE,8
@@ -66583,11 +66583,11 @@ STONE,007 LINCOLN,State Auditor,,Allen Hanson,REP,125
 STONE,007 LINCOLN,State Auditor,,Fred Kennell,GRE,1
 STONE,007 LINCOLN,State Auditor,,Claire McCaskill,DEM,66
 STONE,007 LINCOLN,State Auditor,,Arnold Trembley,LIB,9
-STONE,008  MCKINLEY,State Auditor,,Theo (Ted) Brown,WI,0
-STONE,008  MCKINLEY,State Auditor,,Allen Hanson,REP,79
-STONE,008  MCKINLEY,State Auditor,,Fred Kennell,GRE,3
-STONE,008  MCKINLEY,State Auditor,,Claire McCaskill,DEM,58
-STONE,008  MCKINLEY,State Auditor,,Arnold Trembley,LIB,7
+STONE,008 MCKINLEY,State Auditor,,Theo (Ted) Brown,WI,0
+STONE,008 MCKINLEY,State Auditor,,Allen Hanson,REP,79
+STONE,008 MCKINLEY,State Auditor,,Fred Kennell,GRE,3
+STONE,008 MCKINLEY,State Auditor,,Claire McCaskill,DEM,58
+STONE,008 MCKINLEY,State Auditor,,Arnold Trembley,LIB,7
 STONE,009 PRINCE,State Auditor,,Theo (Ted) Brown,WI,0
 STONE,009 PRINCE,State Auditor,,Allen Hanson,REP,252
 STONE,009 PRINCE,State Auditor,,Fred Kennell,GRE,13
@@ -66681,10 +66681,10 @@ STONE,007 LINCOLN,U.S. House,7,Roy Blunt,REP,190
 STONE,007 LINCOLN,U.S. House,7,Douglas Burlison,LIB,3
 STONE,007 LINCOLN,U.S. House,7,Roland Lapham,DEM,20
 STONE,007 LINCOLN,U.S. House,7,Steven Reed,WI,0
-STONE,008  MCKINLEY,U.S. House,7,Roy Blunt,REP,125
-STONE,008  MCKINLEY,U.S. House,7,Douglas Burlison,LIB,5
-STONE,008  MCKINLEY,U.S. House,7,Roland Lapham,DEM,23
-STONE,008  MCKINLEY,U.S. House,7,Steven Reed,WI,0
+STONE,008 MCKINLEY,U.S. House,7,Roy Blunt,REP,125
+STONE,008 MCKINLEY,U.S. House,7,Douglas Burlison,LIB,5
+STONE,008 MCKINLEY,U.S. House,7,Roland Lapham,DEM,23
+STONE,008 MCKINLEY,U.S. House,7,Steven Reed,WI,0
 STONE,009 PRINCE,U.S. House,7,Roy Blunt,REP,444
 STONE,009 PRINCE,U.S. House,7,Douglas Burlison,LIB,13
 STONE,009 PRINCE,U.S. House,7,Roland Lapham,DEM,93
@@ -66767,8 +66767,8 @@ STONE,006 HARLEY,State House,141,Ann Elwell,DEM,80
 STONE,006 HARLEY,State House,141,John Wasson,REP,280
 STONE,007 LINCOLN,State House,141,Ann Elwell,DEM,45
 STONE,007 LINCOLN,State House,141,John Wasson,REP,162
-STONE,008  MCKINLEY,State House,141,Ann Elwell,DEM,45
-STONE,008  MCKINLEY,State House,141,John Wasson,REP,107
+STONE,008 MCKINLEY,State House,141,Ann Elwell,DEM,45
+STONE,008 MCKINLEY,State House,141,John Wasson,REP,107
 STONE,009 PRINCE,State House,141,Ann Elwell,DEM,167
 STONE,009 PRINCE,State House,141,John Wasson,REP,380
 STONE,012 PONCE DE LEON,State House,141,Ann Elwell,DEM,29
@@ -66815,10 +66815,10 @@ SULLIVAN,OSGOOD,U.S. Senate,,Jean Carnahan,DEM,16
 SULLIVAN,OSGOOD,U.S. Senate,,Tamara Millay,LIB,0
 SULLIVAN,OSGOOD,U.S. Senate,,Daniel Romano,GRE,1
 SULLIVAN,OSGOOD,U.S. Senate,,Jim Talent,REP,37
-SULLIVAN,POLK  NORTH,U.S. Senate,,Jean Carnahan,DEM,122
-SULLIVAN,POLK  NORTH,U.S. Senate,,Tamara Millay,LIB,4
-SULLIVAN,POLK  NORTH,U.S. Senate,,Daniel Romano,GRE,2
-SULLIVAN,POLK  NORTH,U.S. Senate,,Jim Talent,REP,133
+SULLIVAN,POLK NORTH,U.S. Senate,,Jean Carnahan,DEM,122
+SULLIVAN,POLK NORTH,U.S. Senate,,Tamara Millay,LIB,4
+SULLIVAN,POLK NORTH,U.S. Senate,,Daniel Romano,GRE,2
+SULLIVAN,POLK NORTH,U.S. Senate,,Jim Talent,REP,133
 SULLIVAN,POLK SOUTH,U.S. Senate,,Jean Carnahan,DEM,187
 SULLIVAN,POLK SOUTH,U.S. Senate,,Tamara Millay,LIB,4
 SULLIVAN,POLK SOUTH,U.S. Senate,,Daniel Romano,GRE,2
@@ -66884,11 +66884,11 @@ SULLIVAN,OSGOOD,State Auditor,,Allen Hanson,REP,28
 SULLIVAN,OSGOOD,State Auditor,,Fred Kennell,GRE,0
 SULLIVAN,OSGOOD,State Auditor,,Claire McCaskill,DEM,23
 SULLIVAN,OSGOOD,State Auditor,,Arnold Trembley,LIB,1
-SULLIVAN,POLK  NORTH,State Auditor,,Theo (Ted) Brown,WI,0
-SULLIVAN,POLK  NORTH,State Auditor,,Allen Hanson,REP,103
-SULLIVAN,POLK  NORTH,State Auditor,,Fred Kennell,GRE,0
-SULLIVAN,POLK  NORTH,State Auditor,,Claire McCaskill,DEM,139
-SULLIVAN,POLK  NORTH,State Auditor,,Arnold Trembley,LIB,5
+SULLIVAN,POLK NORTH,State Auditor,,Theo (Ted) Brown,WI,0
+SULLIVAN,POLK NORTH,State Auditor,,Allen Hanson,REP,103
+SULLIVAN,POLK NORTH,State Auditor,,Fred Kennell,GRE,0
+SULLIVAN,POLK NORTH,State Auditor,,Claire McCaskill,DEM,139
+SULLIVAN,POLK NORTH,State Auditor,,Arnold Trembley,LIB,5
 SULLIVAN,POLK SOUTH,State Auditor,,Theo (Ted) Brown,WI,0
 SULLIVAN,POLK SOUTH,State Auditor,,Allen Hanson,REP,188
 SULLIVAN,POLK SOUTH,State Auditor,,Fred Kennell,GRE,2
@@ -66941,9 +66941,9 @@ SULLIVAN,NEWTOWN,U.S. House,6,Cathy Rinehart,DEM,22
 SULLIVAN,OSGOOD,U.S. House,6,Erik Buck,LIB,0
 SULLIVAN,OSGOOD,U.S. House,6,Samuel Graves,REP,38
 SULLIVAN,OSGOOD,U.S. House,6,Cathy Rinehart,DEM,16
-SULLIVAN,POLK  NORTH,U.S. House,6,Erik Buck,LIB,3
-SULLIVAN,POLK  NORTH,U.S. House,6,Samuel Graves,REP,143
-SULLIVAN,POLK  NORTH,U.S. House,6,Cathy Rinehart,DEM,113
+SULLIVAN,POLK NORTH,U.S. House,6,Erik Buck,LIB,3
+SULLIVAN,POLK NORTH,U.S. House,6,Samuel Graves,REP,143
+SULLIVAN,POLK NORTH,U.S. House,6,Cathy Rinehart,DEM,113
 SULLIVAN,POLK SOUTH,U.S. House,6,Erik Buck,LIB,2
 SULLIVAN,POLK SOUTH,U.S. House,6,Samuel Graves,REP,278
 SULLIVAN,POLK SOUTH,U.S. House,6,Cathy Rinehart,DEM,128
@@ -66968,7 +66968,7 @@ SULLIVAN,HUMPHREYS/TAYLOR,State Senate,12,David Klindt,REP,118
 SULLIVAN,MYSTIC,State Senate,12,David Klindt,REP,60
 SULLIVAN,NEWTOWN,State Senate,12,David Klindt,REP,66
 SULLIVAN,OSGOOD,State Senate,12,David Klindt,REP,45
-SULLIVAN,POLK  NORTH,State Senate,12,David Klindt,REP,161
+SULLIVAN,POLK NORTH,State Senate,12,David Klindt,REP,161
 SULLIVAN,POLK SOUTH,State Senate,12,David Klindt,REP,288
 SULLIVAN,"POLK, WEST/ASBURY",State Senate,12,David Klindt,REP,261
 SULLIVAN,POLLOCK/BOYNTON,State Senate,12,David Klindt,REP,137
@@ -66981,8 +66981,8 @@ SULLIVAN,GREEN CITY/PENNVILLE,State House,2,Robert Behnen,REP,233
 SULLIVAN,GREEN CITY/PENNVILLE,State House,2,Charles Cooper,DEM,112
 SULLIVAN,MYSTIC,State House,2,Robert Behnen,REP,57
 SULLIVAN,MYSTIC,State House,2,Charles Cooper,DEM,29
-SULLIVAN,POLK  NORTH,State House,2,Robert Behnen,REP,144
-SULLIVAN,POLK  NORTH,State House,2,Charles Cooper,DEM,109
+SULLIVAN,POLK NORTH,State House,2,Robert Behnen,REP,144
+SULLIVAN,POLK NORTH,State House,2,Charles Cooper,DEM,109
 SULLIVAN,POLK SOUTH,State House,2,Robert Behnen,REP,162
 SULLIVAN,POLK SOUTH,State House,2,Charles Cooper,DEM,98
 SULLIVAN,"POLK, WEST/ASBURY",State House,2,Robert Behnen,REP,162
@@ -68851,10 +68851,10 @@ WAYNE,001 PIEDMONT WARD 1,U.S. Senate,,Jean Carnahan,DEM,305
 WAYNE,001 PIEDMONT WARD 1,U.S. Senate,,Tamara Millay,LIB,3
 WAYNE,001 PIEDMONT WARD 1,U.S. Senate,,Daniel Romano,GRE,2
 WAYNE,001 PIEDMONT WARD 1,U.S. Senate,,Jim Talent,REP,272
-WAYNE,002 PIEDMONT WARD  II,U.S. Senate,,Jean Carnahan,DEM,347
-WAYNE,002 PIEDMONT WARD  II,U.S. Senate,,Tamara Millay,LIB,7
-WAYNE,002 PIEDMONT WARD  II,U.S. Senate,,Daniel Romano,GRE,5
-WAYNE,002 PIEDMONT WARD  II,U.S. Senate,,Jim Talent,REP,372
+WAYNE,002 PIEDMONT WARD II,U.S. Senate,,Jean Carnahan,DEM,347
+WAYNE,002 PIEDMONT WARD II,U.S. Senate,,Tamara Millay,LIB,7
+WAYNE,002 PIEDMONT WARD II,U.S. Senate,,Daniel Romano,GRE,5
+WAYNE,002 PIEDMONT WARD II,U.S. Senate,,Jim Talent,REP,372
 WAYNE,003 WILLIAMSVILLE,U.S. Senate,,Jean Carnahan,DEM,138
 WAYNE,003 WILLIAMSVILLE,U.S. Senate,,Tamara Millay,LIB,2
 WAYNE,003 WILLIAMSVILLE,U.S. Senate,,Daniel Romano,GRE,0
@@ -68936,11 +68936,11 @@ WAYNE,001 PIEDMONT WARD 1,State Auditor,,Allen Hanson,REP,186
 WAYNE,001 PIEDMONT WARD 1,State Auditor,,Fred Kennell,GRE,12
 WAYNE,001 PIEDMONT WARD 1,State Auditor,,Claire McCaskill,DEM,338
 WAYNE,001 PIEDMONT WARD 1,State Auditor,,Arnold Trembley,LIB,13
-WAYNE,002 PIEDMONT WARD  II,State Auditor,,Theo (Ted) Brown,WI,0
-WAYNE,002 PIEDMONT WARD  II,State Auditor,,Allen Hanson,REP,248
-WAYNE,002 PIEDMONT WARD  II,State Auditor,,Fred Kennell,GRE,4
-WAYNE,002 PIEDMONT WARD  II,State Auditor,,Claire McCaskill,DEM,418
-WAYNE,002 PIEDMONT WARD  II,State Auditor,,Arnold Trembley,LIB,13
+WAYNE,002 PIEDMONT WARD II,State Auditor,,Theo (Ted) Brown,WI,0
+WAYNE,002 PIEDMONT WARD II,State Auditor,,Allen Hanson,REP,248
+WAYNE,002 PIEDMONT WARD II,State Auditor,,Fred Kennell,GRE,4
+WAYNE,002 PIEDMONT WARD II,State Auditor,,Claire McCaskill,DEM,418
+WAYNE,002 PIEDMONT WARD II,State Auditor,,Arnold Trembley,LIB,13
 WAYNE,003 WILLIAMSVILLE,State Auditor,,Theo (Ted) Brown,WI,0
 WAYNE,003 WILLIAMSVILLE,State Auditor,,Allen Hanson,REP,133
 WAYNE,003 WILLIAMSVILLE,State Auditor,,Fred Kennell,GRE,3
@@ -69039,9 +69039,9 @@ WAYNE,ABSENTEE,State Auditor,,Arnold Trembley,LIB,4
 WAYNE,001 PIEDMONT WARD 1,U.S. House,8,Gene Curtis,DEM,197
 WAYNE,001 PIEDMONT WARD 1,U.S. House,8,Jo Ann Emerson,REP,369
 WAYNE,001 PIEDMONT WARD 1,U.S. House,8,Eric Van Oostrom,LIB,8
-WAYNE,002 PIEDMONT WARD  II,U.S. House,8,Gene Curtis,DEM,242
-WAYNE,002 PIEDMONT WARD  II,U.S. House,8,Jo Ann Emerson,REP,479
-WAYNE,002 PIEDMONT WARD  II,U.S. House,8,Eric Van Oostrom,LIB,6
+WAYNE,002 PIEDMONT WARD II,U.S. House,8,Gene Curtis,DEM,242
+WAYNE,002 PIEDMONT WARD II,U.S. House,8,Jo Ann Emerson,REP,479
+WAYNE,002 PIEDMONT WARD II,U.S. House,8,Eric Van Oostrom,LIB,6
 WAYNE,003 WILLIAMSVILLE,U.S. House,8,Gene Curtis,DEM,97
 WAYNE,003 WILLIAMSVILLE,U.S. House,8,Jo Ann Emerson,REP,225
 WAYNE,003 WILLIAMSVILLE,U.S. House,8,Eric Van Oostrom,LIB,3
@@ -69106,7 +69106,7 @@ WAYNE,006 MILL SPRINGS/LEEPER,State House,153,Larry Jackson,DEM,158
 WAYNE,ABSENTEE,State House,153,Michael Dethrow,REP,8
 WAYNE,ABSENTEE,State House,153,Larry Jackson,DEM,12
 WAYNE,001 PIEDMONT WARD 1,State House,156,Rodney Jetton,REP,406
-WAYNE,002 PIEDMONT WARD  II,State House,156,Rodney Jetton,REP,513
+WAYNE,002 PIEDMONT WARD II,State House,156,Rodney Jetton,REP,513
 WAYNE,004 COOL SPRINGS,State House,156,Rodney Jetton,REP,97
 WAYNE,005 CHAONIA,State House,156,Rodney Jetton,REP,54
 WAYNE,007 BRUNOT,State House,156,Rodney Jetton,REP,25

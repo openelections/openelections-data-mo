@@ -71,7 +71,7 @@ ANDREW,U.S. House,6,DEM,"Broomfield, Charles S.",2147
 ANDREW,U.S. House,6,REP,"Graves, Sam",5969
 ANDREW,U.S. House,6,LIB,"Buck, Erik",84
 ANDREW,State House,28,REP,"Schaaf, Rob",6563
-ANDREW,Circuit Judge  Circuit 5 Division 2,,DEM,"Judah, Weldon C.",6160
+ANDREW,Circuit Judge Circuit 5 Division 2,,DEM,"Judah, Weldon C.",6160
 ATCHISON,President,,DEM,"John F. Kerry, John Edwards",1005
 ATCHISON,President,,REP,"George W. Bush, Dick Cheney",2137
 ATCHISON,President,,LIB,"Michael Badnarik, Richard V. Campagna",8
@@ -334,8 +334,8 @@ BOLLINGER,State Senate,27,REP,"Crowell, Jason G.",3938
 BOLLINGER,State Senate,27,LIB,"Morrill, Chris",60
 BOLLINGER,State House,156,DEM,"Howser, John",1502
 BOLLINGER,State House,156,REP,"Jetton, Rodney (Rod)",4297
-BOLLINGER,Circuit Judge  Circuit 32 Division 2,,DEM,"Heisserer, John P.",2282
-BOLLINGER,Circuit Judge  Circuit 32 Division 2,,REP,"Lewis, Ben",3254
+BOLLINGER,Circuit Judge Circuit 32 Division 2,,DEM,"Heisserer, John P.",2282
+BOLLINGER,Circuit Judge Circuit 32 Division 2,,REP,"Lewis, Ben",3254
 BOONE,President,,DEM,"John F. Kerry, John Edwards",37643
 BOONE,President,,REP,"George W. Bush, Dick Cheney",37801
 BOONE,President,,LIB,"Michael Badnarik, Richard V. Campagna",364
@@ -382,7 +382,7 @@ BOONE,State House,24,DEM,"Ballenger, Travis",9343
 BOONE,State House,24,REP,"Robb, Ed",11734
 BOONE,State House,25,DEM,"Baker, Judy",10811
 BOONE,State House,25,REP,"Northup, Robert L. (Bob)",5529
-BOONE,Circuit Judge  Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",55256
+BOONE,Circuit Judge Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",55256
 BUCHANAN,President,,DEM,"John F. Kerry, John Edwards",17799
 BUCHANAN,President,,REP,"George W. Bush, Dick Cheney",19812
 BUCHANAN,President,,LIB,"Michael Badnarik, Richard V. Campagna",221
@@ -424,7 +424,7 @@ BUCHANAN,State House,29,DEM,"Rucker, Martin T.",8276
 BUCHANAN,State House,29,REP,"Black, Linden (Lin)",6297
 BUCHANAN,State House,30,DEM,"Harding, Meg",0
 BUCHANAN,State House,30,REP,"Brown, Jason",0
-BUCHANAN,Circuit Judge  Circuit 5 Division 2,,DEM,"Judah, Weldon C.",28540
+BUCHANAN,Circuit Judge Circuit 5 Division 2,,DEM,"Judah, Weldon C.",28540
 BUTLER,President,,DEM,"John F. Kerry, John Edwards",4666
 BUTLER,President,,REP,"George W. Bush, Dick Cheney",11696
 BUTLER,President,,LIB,"Michael Badnarik, Richard V. Campagna",55
@@ -542,7 +542,7 @@ CALLAWAY,State House,20,DEM,"Stafford, John",5901
 CALLAWAY,State House,20,REP,"Moore, Danielle (Danie)",9066
 CALLAWAY,State House,21,DEM,"Becker, Lloyd",415
 CALLAWAY,State House,21,REP,"Hobbs, Steve",713
-CALLAWAY,Circuit Judge  Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",11900
+CALLAWAY,Circuit Judge Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",11900
 CAMDEN,President,,DEM,"John F. Kerry, John Edwards",6296
 CAMDEN,President,,REP,"George W. Bush, Dick Cheney",13122
 CAMDEN,President,,LIB,"Michael Badnarik, Richard V. Campagna",56
@@ -591,9 +591,9 @@ CAMDEN,State House,148,REP,"Day, David",23
 CAMDEN,State House,155,DEM,"Herron, Ralph H.",5581
 CAMDEN,State House,155,REP,"Cooper, Wayne",12500
 CAMDEN,State House,155,WI,"Mowinski, Bernie",9
-CAMDEN,Circuit Judge  Circuit 26 Division 2,,DEM,"Walker, John",7186
-CAMDEN,Circuit Judge  Circuit 26 Division 2,,REP,"Kays, Greg",11143
-CAMDEN,Circuit Judge  Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",797
+CAMDEN,Circuit Judge Circuit 26 Division 2,,DEM,"Walker, John",7186
+CAMDEN,Circuit Judge Circuit 26 Division 2,,REP,"Kays, Greg",11143
+CAMDEN,Circuit Judge Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",797
 CAPE GIRARDEAU,President,,DEM,"John F. Kerry, John Edwards",10568
 CAPE GIRARDEAU,President,,REP,"George W. Bush, Dick Cheney",23814
 CAPE GIRARDEAU,President,,LIB,"Michael Badnarik, Richard V. Campagna",136
@@ -640,8 +640,8 @@ CAPE GIRARDEAU,State House,160,REP,"Myers, Peter",493
 CAPE GIRARDEAU,State House,160,LIB,"Smith, Lane",10
 CAPE GIRARDEAU,State House,161,DEM,"Burch, Curtis",0
 CAPE GIRARDEAU,State House,161,REP,"Black, Lanie",0
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 2,,DEM,"Heisserer, John P.",16950
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 2,,REP,"Lewis, Ben",16697
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 2,,DEM,"Heisserer, John P.",16950
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 2,,REP,"Lewis, Ben",16697
 CARROLL,President,,DEM,"John F. Kerry, John Edwards",1568
 CARROLL,President,,REP,"George W. Bush, Dick Cheney",3155
 CARROLL,President,,LIB,"Michael Badnarik, Richard V. Campagna",13
@@ -766,7 +766,7 @@ CASS,State House,123,DEM,"Gregory, Lyle",6693
 CASS,State House,123,REP,"Baker, Brian L.",11269
 CASS,State House,124,DEM,"Franzeskos, Johnnie",6833
 CASS,State House,124,REP,"Rector, Rex",12027
-CASS,Circuit Judge  Circuit 17 Division 2,,DEM,"Dandurand, Joseph",30303
+CASS,Circuit Judge Circuit 17 Division 2,,DEM,"Dandurand, Joseph",30303
 CEDAR,President,,DEM,"John F. Kerry, John Edwards",1910
 CEDAR,President,,REP,"George W. Bush, Dick Cheney",4238
 CEDAR,President,,LIB,"Michael Badnarik, Richard V. Campagna",34
@@ -919,7 +919,7 @@ CLARK,U.S. House,9,LIB,"Millay, Tamara A.",56
 CLARK,U.S. House,9,CST,"Earl, Chris",21
 CLARK,State House,1,DEM,"Berkowitz, Sam",1714
 CLARK,State House,1,REP,"Munzlinger, Brian",2001
-CLARK,Circuit Judge  Circuit 1,,DEM,"Dial, Gary",2890
+CLARK,Circuit Judge Circuit 1,,DEM,"Dial, Gary",2890
 CLAY,President,,DEM,"John F. Kerry, John Edwards",44670
 CLAY,President,,REP,"George W. Bush, Dick Cheney",51193
 CLAY,President,,LIB,"Michael Badnarik, Richard V. Campagna",343
@@ -1412,8 +1412,8 @@ FRANKLIN,State House,109,REP,"Threlkeld, Kevin",10884
 FRANKLIN,State House,110,DEM,"Harris, Belinda",294
 FRANKLIN,State House,110,REP,"Rains, Gilbert Michael",179
 FRANKLIN,State House,111,REP,"Schlottach, Charlie",8810
-FRANKLIN,Circuit Judge  Circuit 20 Division 2,,DEM,"Williams, Stan",22085
-FRANKLIN,Circuit Judge  Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",22397
+FRANKLIN,Circuit Judge Circuit 20 Division 2,,DEM,"Williams, Stan",22085
+FRANKLIN,Circuit Judge Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",22397
 GASCONADE,President,,DEM,"John F. Kerry, John Edwards",2355
 GASCONADE,President,,REP,"George W. Bush, Dick Cheney",4753
 GASCONADE,President,,LIB,"Michael Badnarik, Richard V. Campagna",42
@@ -1451,8 +1451,8 @@ GASCONADE,U.S. House,9,CST,"Earl, Chris",40
 GASCONADE,State House,111,REP,"Schlottach, Charlie",1562
 GASCONADE,State House,112,DEM,"Tramel, Tom",1462
 GASCONADE,State House,112,REP,"Loehner, Tom",3690
-GASCONADE,Circuit Judge  Circuit 20 Division 2,,DEM,"Williams, Stan",2596
-GASCONADE,Circuit Judge  Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",4328
+GASCONADE,Circuit Judge Circuit 20 Division 2,,DEM,"Williams, Stan",2596
+GASCONADE,Circuit Judge Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",4328
 GENTRY,President,,DEM,"John F. Kerry, John Edwards",1201
 GENTRY,President,,REP,"George W. Bush, Dick Cheney",2085
 GENTRY,President,,LIB,"Michael Badnarik, Richard V. Campagna",11
@@ -1539,7 +1539,7 @@ GREENE,State House,139,DEM,"Glover, Carolyn",5755
 GREENE,State House,139,REP,"Roark, Brad",12434
 GREENE,State House,140,REP,"Dixon, Bob",12740
 GREENE,State House,145,REP,"Cunningham, Mike",1064
-GREENE,Circuit Judge  Circuit 31 Division 3,,REP,"Conklin, Dan",95569
+GREENE,Circuit Judge Circuit 31 Division 3,,REP,"Conklin, Dan",95569
 GRUNDY,President,,DEM,"John F. Kerry, John Edwards",1561
 GRUNDY,President,,REP,"George W. Bush, Dick Cheney",3172
 GRUNDY,President,,LIB,"Michael Badnarik, Richard V. Campagna",26
@@ -1930,7 +1930,7 @@ JASPER,State House,126,REP,"Emery, Ed",2824
 JASPER,State House,127,REP,"Hunter, Steve",12439
 JASPER,State House,128,REP,"Stevenson, Bryan P.",12146
 JASPER,State House,129,REP,"Richard, Ron",8236
-JASPER,Circuit Judge  Circuit 29 Division 2,,REP,"Dally, David C.",34652
+JASPER,Circuit Judge Circuit 29 Division 2,,REP,"Dally, David C.",34652
 JEFFERSON,President,,DEM,"John F. Kerry, John Edwards",46057
 JEFFERSON,President,,REP,"George W. Bush, Dick Cheney",46624
 JEFFERSON,President,,LIB,"Michael Badnarik, Richard V. Campagna",374
@@ -1981,7 +1981,7 @@ JEFFERSON,State House,104,REP,"Varner, Terry",2503
 JEFFERSON,State House,105,DEM,"Selby, Harold R.",8451
 JEFFERSON,State House,110,DEM,"Harris, Belinda",5838
 JEFFERSON,State House,110,REP,"Rains, Gilbert Michael",2836
-JEFFERSON,Circuit Judge  Circuit 23 Division 3,,DEM,"Williams, M. Edward",65064
+JEFFERSON,Circuit Judge Circuit 23 Division 3,,DEM,"Williams, M. Edward",65064
 JOHNSON,President,,DEM,"John F. Kerry, John Edwards",7790
 JOHNSON,President,,REP,"George W. Bush, Dick Cheney",12257
 JOHNSON,President,,LIB,"Michael Badnarik, Richard V. Campagna",93
@@ -2025,7 +2025,7 @@ JOHNSON,State House,121,REP,"Pearce, David",10112
 JOHNSON,State House,121,LIB,"Holthouse, Bryce",1685
 JOHNSON,State House,122,DEM,"Jones, Bruce E.",1735
 JOHNSON,State House,122,REP,"McGhee, Mike",2895
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,DEM,"Dandurand, Joseph",15659
+JOHNSON,Circuit Judge Circuit 17 Division 2,,DEM,"Dandurand, Joseph",15659
 JOHNSON,President,,DEM,"John F. Kerry, John Edwards",104625
 JOHNSON,President,,REP,"George W. Bush, Dick Cheney",36061
 JOHNSON,President,,LIB,"Michael Badnarik, Richard V. Campagna",497
@@ -2160,9 +2160,9 @@ LACLEDE,State House,146,DEM,"Jones, Larry",3803
 LACLEDE,State House,146,REP,"Pollock, Darrell",10785
 LACLEDE,State House,148,DEM,"Ichord, Clara",4
 LACLEDE,State House,148,REP,"Day, David",6
-LACLEDE,Circuit Judge  Circuit 26 Division 2,,DEM,"Walker, John",3077
-LACLEDE,Circuit Judge  Circuit 26 Division 2,,REP,"Kays, Greg",11143
-LACLEDE,Circuit Judge  Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",464
+LACLEDE,Circuit Judge Circuit 26 Division 2,,DEM,"Walker, John",3077
+LACLEDE,Circuit Judge Circuit 26 Division 2,,REP,"Kays, Greg",11143
+LACLEDE,Circuit Judge Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",464
 LAFAYETTE,President,,DEM,"John F. Kerry, John Edwards",6412
 LAFAYETTE,President,,REP,"George W. Bush, Dick Cheney",9656
 LAFAYETTE,President,,LIB,"Michael Badnarik, Richard V. Campagna",55
@@ -2505,8 +2505,8 @@ MARIES,U.S. House,9,LIB,"Millay, Tamara A.",46
 MARIES,U.S. House,9,CST,"Earl, Chris",25
 MARIES,State House,112,DEM,"Tramel, Tom",1428
 MARIES,State House,112,REP,"Loehner, Tom",2862
-MARIES,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",2121
-MARIES,Circuit Judge  Circuit 25 Division 2,,REP,"Hickle, Bill",2122
+MARIES,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",2121
+MARIES,Circuit Judge Circuit 25 Division 2,,REP,"Hickle, Bill",2122
 MARION,President,,DEM,"John F. Kerry, John Edwards",4568
 MARION,President,,REP,"George W. Bush, Dick Cheney",7815
 MARION,President,,LIB,"Michael Badnarik, Richard V. Campagna",35
@@ -2657,9 +2657,9 @@ MILLER,State House,115,REP,"Schad, Rodney",8694
 MILLER,State House,155,DEM,"Herron, Ralph H.",43
 MILLER,State House,155,REP,"Cooper, Wayne",104
 MILLER,State House,155,WI,"Mowinski, Bernie",0
-MILLER,Circuit Judge  Circuit 26 Division 2,,DEM,"Walker, John",2796
-MILLER,Circuit Judge  Circuit 26 Division 2,,REP,"Kays, Greg",7149
-MILLER,Circuit Judge  Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",442
+MILLER,Circuit Judge Circuit 26 Division 2,,DEM,"Walker, John",2796
+MILLER,Circuit Judge Circuit 26 Division 2,,REP,"Kays, Greg",7149
+MILLER,Circuit Judge Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",442
 MISSISSIPPI,President,,DEM,"John F. Kerry, John Edwards",2374
 MISSISSIPPI,President,,REP,"George W. Bush, Dick Cheney",2903
 MISSISSIPPI,President,,LIB,"Michael Badnarik, Richard V. Campagna",12
@@ -2737,9 +2737,9 @@ MONITEAU,U.S. House,4,REP,"Noland, James A. (Jim)",1809
 MONITEAU,U.S. House,4,LIB,"Lower, Bill",47
 MONITEAU,U.S. House,4,CST,"Lister, Raymond",20
 MONITEAU,State House,117,REP,"Jones, Kenny",5383
-MONITEAU,Circuit Judge  Circuit 26 Division 2,,DEM,"Walker, John",2025
-MONITEAU,Circuit Judge  Circuit 26 Division 2,,REP,"Kays, Greg",4085
-MONITEAU,Circuit Judge  Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",246
+MONITEAU,Circuit Judge Circuit 26 Division 2,,DEM,"Walker, John",2025
+MONITEAU,Circuit Judge Circuit 26 Division 2,,REP,"Kays, Greg",4085
+MONITEAU,Circuit Judge Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",246
 MONROE,President,,DEM,"John F. Kerry, John Edwards",1647
 MONROE,President,,REP,"George W. Bush, Dick Cheney",2632
 MONROE,President,,LIB,"Michael Badnarik, Richard V. Campagna",14
@@ -2855,9 +2855,9 @@ MORGAN,State House,117,REP,"Jones, Kenny",395
 MORGAN,State House,155,DEM,"Herron, Ralph H.",14
 MORGAN,State House,155,REP,"Cooper, Wayne",18
 MORGAN,State House,155,WI,"Mowinski, Bernie",0
-MORGAN,Circuit Judge  Circuit 26 Division 2,,DEM,"Walker, John",2618
-MORGAN,Circuit Judge  Circuit 26 Division 2,,REP,"Kays, Greg",5333
-MORGAN,Circuit Judge  Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",520
+MORGAN,Circuit Judge Circuit 26 Division 2,,DEM,"Walker, John",2618
+MORGAN,Circuit Judge Circuit 26 Division 2,,REP,"Kays, Greg",5333
+MORGAN,Circuit Judge Circuit 26 Division 2,,LIB,"McWilliams, Mary Clare",520
 NEW MADRID,President,,DEM,"John F. Kerry, John Edwards",3716
 NEW MADRID,President,,REP,"George W. Bush, Dick Cheney",4154
 NEW MADRID,President,,LIB,"Michael Badnarik, Richard V. Campagna",19
@@ -3045,8 +3045,8 @@ OSAGE,U.S. House,9,LIB,"Millay, Tamara A.",34
 OSAGE,U.S. House,9,CST,"Earl, Chris",17
 OSAGE,State House,112,DEM,"Tramel, Tom",1211
 OSAGE,State House,112,REP,"Loehner, Tom",5385
-OSAGE,Circuit Judge  Circuit 20 Division 2,,DEM,"Williams, Stan",3132
-OSAGE,Circuit Judge  Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",3266
+OSAGE,Circuit Judge Circuit 20 Division 2,,DEM,"Williams, Stan",3132
+OSAGE,Circuit Judge Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",3266
 OZARK,President,,DEM,"John F. Kerry, John Edwards",1561
 OZARK,President,,REP,"George W. Bush, Dick Cheney",3083
 OZARK,President,,LIB,"Michael Badnarik, Richard V. Campagna",19
@@ -3164,8 +3164,8 @@ PERRY,State Senate,27,LIB,"Morrill, Chris",132
 PERRY,State House,106,DEM,"Cramp, David",1307
 PERRY,State House,106,REP,"Tilley, Steven",2826
 PERRY,State House,157,REP,"Lipke, Scott A.",3283
-PERRY,Circuit Judge  Circuit 32 Division 2,,DEM,"Heisserer, John P.",4151
-PERRY,Circuit Judge  Circuit 32 Division 2,,REP,"Lewis, Ben",3704
+PERRY,Circuit Judge Circuit 32 Division 2,,DEM,"Heisserer, John P.",4151
+PERRY,Circuit Judge Circuit 32 Division 2,,REP,"Lewis, Ben",3704
 PETTIS,President,,DEM,"John F. Kerry, John Edwards",5801
 PETTIS,President,,REP,"George W. Bush, Dick Cheney",11603
 PETTIS,President,,LIB,"Michael Badnarik, Richard V. Campagna",70
@@ -3246,8 +3246,8 @@ PHELPS,State House,149,DEM,"Hagler, Jon M.",6736
 PHELPS,State House,149,REP,"May, Bob",8583
 PHELPS,State House,150,DEM,"Barnitz, Frank",347
 PHELPS,State House,150,REP,"Parks, Rich",260
-PHELPS,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",10502
-PHELPS,Circuit Judge  Circuit 25 Division 2,,REP,"Hickle, Bill",7927
+PHELPS,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",10502
+PHELPS,Circuit Judge Circuit 25 Division 2,,REP,"Hickle, Bill",7927
 PIKE,President,,DEM,"John F. Kerry, John Edwards",3670
 PIKE,President,,REP,"George W. Bush, Dick Cheney",4314
 PIKE,President,,LIB,"Michael Badnarik, Richard V. Campagna",31
@@ -3405,8 +3405,8 @@ PULASKI,State House,147,REP,"Wells, Don",162
 PULASKI,State House,147,LIB,"Williams, John W.",6
 PULASKI,State House,148,DEM,"Ichord, Clara",4128
 PULASKI,State House,148,REP,"Day, David",7000
-PULASKI,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",4967
-PULASKI,Circuit Judge  Circuit 25 Division 2,,REP,"Hickle, Bill",6301
+PULASKI,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",4967
+PULASKI,Circuit Judge Circuit 25 Division 2,,REP,"Hickle, Bill",6301
 PUTNAM,President,,DEM,"John F. Kerry, John Edwards",772
 PUTNAM,President,,REP,"George W. Bush, Dick Cheney",1660
 PUTNAM,President,,LIB,"Michael Badnarik, Richard V. Campagna",3
@@ -3708,7 +3708,7 @@ SCHUYLER,U.S. House,6,REP,"Graves, Sam",1289
 SCHUYLER,U.S. House,6,LIB,"Buck, Erik",23
 SCHUYLER,State House,1,DEM,"Berkowitz, Sam",1041
 SCHUYLER,State House,1,REP,"Munzlinger, Brian",945
-SCHUYLER,Circuit Judge  Circuit 1,,DEM,"Dial, Gary",1466
+SCHUYLER,Circuit Judge Circuit 1,,DEM,"Dial, Gary",1466
 SCOTLAND,President,,DEM,"John F. Kerry, John Edwards",828
 SCOTLAND,President,,REP,"George W. Bush, Dick Cheney",1352
 SCOTLAND,President,,LIB,"Michael Badnarik, Richard V. Campagna",10
@@ -3745,7 +3745,7 @@ SCOTLAND,U.S. House,9,LIB,"Millay, Tamara A.",12
 SCOTLAND,U.S. House,9,CST,"Earl, Chris",0
 SCOTLAND,State House,1,DEM,"Berkowitz, Sam",1187
 SCOTLAND,State House,1,REP,"Munzlinger, Brian",995
-SCOTLAND,Circuit Judge  Circuit 1,,DEM,"Dial, Gary",1571
+SCOTLAND,Circuit Judge Circuit 1,,DEM,"Dial, Gary",1571
 SCOTT,President,,DEM,"John F. Kerry, John Edwards",6057
 SCOTT,President,,REP,"George W. Bush, Dick Cheney",11330
 SCOTT,President,,LIB,"Michael Badnarik, Richard V. Campagna",35
@@ -3921,10 +3921,10 @@ ST CHARLES,State House,18,CST,"Thrower, John",666
 ST CHARLES,State House,19,DEM,"Simpson, Jeff T. Sr.",8178
 ST CHARLES,State House,19,REP,"Davis, Cynthia L.",12340
 ST CHARLES,State House,109,REP,"Threlkeld, Kevin",4084
-ST CHARLES,Circuit Judge  Circuit 11 Division 1,,DEM,"House, Ted",80232
-ST CHARLES,Circuit Judge  Circuit 11 Division 1,,REP,"Thornhill, Matthew",74679
-ST CHARLES,Circuit Judge  Circuit 11 Division 2,,REP,"Schneider, Nancy L.",108248
-ST CHARLES,Circuit Judge  Circuit 11 Division 2,,WI,"Carter, Michael E.",18
+ST CHARLES,Circuit Judge Circuit 11 Division 1,,DEM,"House, Ted",80232
+ST CHARLES,Circuit Judge Circuit 11 Division 1,,REP,"Thornhill, Matthew",74679
+ST CHARLES,Circuit Judge Circuit 11 Division 2,,REP,"Schneider, Nancy L.",108248
+ST CHARLES,Circuit Judge Circuit 11 Division 2,,WI,"Carter, Michael E.",18
 ST CLAIR,President,,DEM,"John F. Kerry, John Edwards",1841
 ST CLAIR,President,,REP,"George W. Bush, Dick Cheney",3098
 ST CLAIR,President,,LIB,"Michael Badnarik, Richard V. Campagna",14
@@ -4414,8 +4414,8 @@ TEXAS,State House,144,REP,"Kelly, Van",1075
 TEXAS,State House,147,DEM,"Montgomery, Jim Sr.",3635
 TEXAS,State House,147,REP,"Wells, Don",5604
 TEXAS,State House,147,LIB,"Williams, John W.",341
-TEXAS,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",4890
-TEXAS,Circuit Judge  Circuit 25 Division 2,,REP,"Hickle, Bill",5746
+TEXAS,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",4890
+TEXAS,Circuit Judge Circuit 25 Division 2,,REP,"Hickle, Bill",5746
 VERNON,President,,DEM,"John F. Kerry, John Edwards",3206
 VERNON,President,,REP,"George W. Bush, Dick Cheney",5732
 VERNON,President,,LIB,"Michael Badnarik, Richard V. Campagna",31

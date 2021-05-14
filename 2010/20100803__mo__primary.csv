@@ -61,7 +61,7 @@ ANDREW,State Senate,12,REP,"Lager, Brad",2005
 ANDREW,State House,28,DEM,"Sheehan, Mark",526
 ANDREW,State House,28,REP,"Johnson, Delus",1247
 ANDREW,State House,28,REP,"Chester, Mik",978
-ANDREW,Circuit Judge  Circuit 5 Division 2,,DEM,"Judah, Weldon C.",527
+ANDREW,Circuit Judge Circuit 5 Division 2,,DEM,"Judah, Weldon C.",527
 ATCHISON,U.S. Senate,,DEM,"Vangeli, Francis J.",7
 ATCHISON,U.S. Senate,,DEM,"Carnahan, Robin",191
 ATCHISON,U.S. Senate,,DEM,"Tolbert, Richard Charles",30
@@ -351,7 +351,7 @@ BOONE,State House,23,REP,"Szopa, Paul S.",1781
 BOONE,State House,24,DEM,"Kelly, Chris",2642
 BOONE,State House,24,REP,"Nauser, Laura E.",3256
 BOONE,State House,25,DEM,"Still, Mary Wynne",1334
-BOONE,Circuit Judge  Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",8018
+BOONE,Circuit Judge Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",8018
 BUCHANAN,U.S. Senate,,DEM,"Vangeli, Francis J.",351
 BUCHANAN,U.S. Senate,,DEM,"Carnahan, Robin",5485
 BUCHANAN,U.S. Senate,,DEM,"Tolbert, Richard Charles",894
@@ -396,7 +396,7 @@ BUCHANAN,State House,29,DEM,"Shearin, Ken",1239
 BUCHANAN,State House,29,REP,"Higdon, Jr., Galen Wayne",1974
 BUCHANAN,State House,30,DEM,"Norris, Lexi",0
 BUCHANAN,State House,30,REP,"Marshall, Nick",0
-BUCHANAN,Circuit Judge  Circuit 5 Division 2,,DEM,"Judah, Weldon C.",5791
+BUCHANAN,Circuit Judge Circuit 5 Division 2,,DEM,"Judah, Weldon C.",5791
 BUTLER,U.S. Senate,,DEM,"Vangeli, Francis J.",31
 BUTLER,U.S. Senate,,DEM,"Carnahan, Robin",586
 BUTLER,U.S. Senate,,DEM,"Tolbert, Richard Charles",110
@@ -433,9 +433,9 @@ BUTLER,State House,154,REP,"Woolard, C. R. (Rick Carl)",945
 BUTLER,State House,154,REP,"Richardson, Todd",2267
 BUTLER,State House,163,DEM,"Todd, Tom",72
 BUTLER,State House,163,REP,"Hampton, Kent",243
-BUTLER,Circuit Judge  Circuit 36,,DEM,"Smith, Robert L.",606
-BUTLER,Circuit Judge  Circuit 36,,REP,"Pritchett, Michael",2917
-BUTLER,Circuit Judge  Circuit 36,,REP,"Shock, John H.",2661
+BUTLER,Circuit Judge Circuit 36,,DEM,"Smith, Robert L.",606
+BUTLER,Circuit Judge Circuit 36,,REP,"Pritchett, Michael",2917
+BUTLER,Circuit Judge Circuit 36,,REP,"Shock, John H.",2661
 CALDWELL,U.S. Senate,,DEM,"Vangeli, Francis J.",13
 CALDWELL,U.S. Senate,,DEM,"Carnahan, Robin",261
 CALDWELL,U.S. Senate,,DEM,"Tolbert, Richard Charles",34
@@ -464,9 +464,9 @@ CALDWELL,U.S. House,6,REP,"Ryan, Christopher",279
 CALDWELL,State Senate,12,REP,"Lager, Brad",1139
 CALDWELL,State House,7,DEM,"Toms, Dale R.",268
 CALDWELL,State House,7,REP,"Lair, Mike",1145
-CALDWELL,Circuit Judge  Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",267
-CALDWELL,Circuit Judge  Circuit 43 Division 1,,REP,"Chapman, Tom",1051
-CALDWELL,Circuit Judge  Circuit 43 Division 2,,DEM,"Elliott, R. Brent",256
+CALDWELL,Circuit Judge Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",267
+CALDWELL,Circuit Judge Circuit 43 Division 1,,REP,"Chapman, Tom",1051
+CALDWELL,Circuit Judge Circuit 43 Division 2,,DEM,"Elliott, R. Brent",256
 CALLAWAY,U.S. Senate,,DEM,"Vangeli, Francis J.",152
 CALLAWAY,U.S. Senate,,DEM,"Carnahan, Robin",1903
 CALLAWAY,U.S. Senate,,DEM,"Tolbert, Richard Charles",346
@@ -506,7 +506,7 @@ CALLAWAY,State House,20,REP,"Riddle, Jeanie",3551
 CALLAWAY,State House,21,DEM,"Schultz, Kelly",136
 CALLAWAY,State House,21,REP,"Becker, Mike",122
 CALLAWAY,State House,21,REP,"Cauthorn, John W.",141
-CALLAWAY,Circuit Judge  Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",2017
+CALLAWAY,Circuit Judge Circuit 13 Division 2,,DEM,"Oxenhandler, Gary",2017
 CAMDEN,U.S. Senate,,DEM,"Vangeli, Francis J.",59
 CAMDEN,U.S. Senate,,DEM,"Carnahan, Robin",1117
 CAMDEN,U.S. Senate,,DEM,"Tolbert, Richard Charles",126
@@ -554,7 +554,7 @@ CAMDEN,State House,155,DEM,"Page, John W.",1106
 CAMDEN,State House,155,REP,"Franklin, Diane",4075
 CAMDEN,State House,155,REP,"Roeger, Joe",3578
 CAMDEN,State House,155,REP,"Mowinski, Bernie",508
-CAMDEN,Circuit Judge  Circuit 26 Division 2,,REP,"Hayden, Kenny",6708
+CAMDEN,Circuit Judge Circuit 26 Division 2,,REP,"Hayden, Kenny",6708
 CAPE GIRARDEAU,U.S. Senate,,DEM,"Vangeli, Francis J.",46
 CAPE GIRARDEAU,U.S. Senate,,DEM,"Carnahan, Robin",1296
 CAPE GIRARDEAU,U.S. Senate,,DEM,"Tolbert, Richard Charles",167
@@ -619,7 +619,7 @@ CARROLL,U.S. House,6,REP,"Graves, Sam",1267
 CARROLL,U.S. House,6,REP,"Ryan, Christopher",187
 CARROLL,State House,7,DEM,"Toms, Dale R.",211
 CARROLL,State House,7,REP,"Lair, Mike",1273
-CARROLL,Circuit Judge  Circuit 8,,REP,"Miller, David H.",1216
+CARROLL,Circuit Judge Circuit 8,,REP,"Miller, David H.",1216
 CARTER,U.S. Senate,,DEM,"Vangeli, Francis J.",13
 CARTER,U.S. Senate,,DEM,"Carnahan, Robin",218
 CARTER,U.S. Senate,,DEM,"Tolbert, Richard Charles",34
@@ -705,7 +705,7 @@ CASS,State House,123,REP,"Molendorp, Chris",3476
 CASS,State House,124,DEM,"Scavuzzo, Luke",2600
 CASS,State House,124,REP,"Brattin, Rick",4149
 CASS,State House,124,CST,"Cogan, Kent",18
-CASS,Circuit Judge  Circuit 17 Division 2,,DEM,"Wagner, Mike",4569
+CASS,Circuit Judge Circuit 17 Division 2,,DEM,"Wagner, Mike",4569
 CEDAR,U.S. Senate,,DEM,"Vangeli, Francis J.",8
 CEDAR,U.S. Senate,,DEM,"Carnahan, Robin",296
 CEDAR,U.S. Senate,,DEM,"Tolbert, Richard Charles",37
@@ -849,7 +849,7 @@ CLARK,State Senate,18,REP,"Munzlinger, Brian",1028
 CLARK,State House,1,DEM,"Cottrell, Keri",421
 CLARK,State House,1,REP,"Redmon, Craig",343
 CLARK,State House,1,REP,"McKee, Neill",819
-CLARK,Circuit Judge  Circuit 1,,DEM,"Dial, Gary",440
+CLARK,Circuit Judge Circuit 1,,DEM,"Dial, Gary",440
 CLAY,U.S. Senate,,DEM,"Vangeli, Francis J.",358
 CLAY,U.S. Senate,,DEM,"Carnahan, Robin",7976
 CLAY,U.S. Senate,,DEM,"Tolbert, Richard Charles",720
@@ -922,9 +922,9 @@ CLINTON,State House,5,REP,"Crowther, Glenn B.",131
 CLINTON,State House,5,CST,"Murray, Gary",8
 CLINTON,State House,7,DEM,"Toms, Dale R.",57
 CLINTON,State House,7,REP,"Lair, Mike",48
-CLINTON,Circuit Judge  Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",1396
-CLINTON,Circuit Judge  Circuit 43 Division 1,,REP,"Chapman, Tom",1636
-CLINTON,Circuit Judge  Circuit 43 Division 2,,DEM,"Elliott, R. Brent",1445
+CLINTON,Circuit Judge Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",1396
+CLINTON,Circuit Judge Circuit 43 Division 1,,REP,"Chapman, Tom",1636
+CLINTON,Circuit Judge Circuit 43 Division 2,,DEM,"Elliott, R. Brent",1445
 COLE,U.S. Senate,,DEM,"Vangeli, Francis J.",66
 COLE,U.S. Senate,,DEM,"Carnahan, Robin",2008
 COLE,U.S. Senate,,DEM,"Tolbert, Richard Charles",112
@@ -974,9 +974,9 @@ COLE,State House,114,REP,"Vogel, Edith G.",1617
 COLE,State House,114,REP,"Olsen, Clifford",938
 COLE,State House,114,LIB,"Steck, Janine Elizabeth",11
 COLE,State House,115,REP,"Schad, Rodney",793
-COLE,Circuit Judge  Circuit 19 Division 2,,DEM,"Wilson, Paul C.",1888
-COLE,Circuit Judge  Circuit 19 Division 2,,REP,"Green, Daniel",7172
-COLE,Circuit Judge  Circuit 19 Division 2,,REP,"Jarrett, Terry",6818
+COLE,Circuit Judge Circuit 19 Division 2,,DEM,"Wilson, Paul C.",1888
+COLE,Circuit Judge Circuit 19 Division 2,,REP,"Green, Daniel",7172
+COLE,Circuit Judge Circuit 19 Division 2,,REP,"Jarrett, Terry",6818
 COOPER,U.S. Senate,,DEM,"Vangeli, Francis J.",13
 COOPER,U.S. Senate,,DEM,"Carnahan, Robin",396
 COOPER,U.S. Senate,,DEM,"Tolbert, Richard Charles",30
@@ -1148,9 +1148,9 @@ DAVIESS,U.S. House,6,REP,"Graves, Sam",461
 DAVIESS,U.S. House,6,REP,"Ryan, Christopher",62
 DAVIESS,State Senate,12,REP,"Lager, Brad",471
 DAVIESS,State House,3,REP,"Guernsey, Casey",476
-DAVIESS,Circuit Judge  Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",1127
-DAVIESS,Circuit Judge  Circuit 43 Division 1,,REP,"Chapman, Tom",428
-DAVIESS,Circuit Judge  Circuit 43 Division 2,,DEM,"Elliott, R. Brent",1185
+DAVIESS,Circuit Judge Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",1127
+DAVIESS,Circuit Judge Circuit 43 Division 1,,REP,"Chapman, Tom",428
+DAVIESS,Circuit Judge Circuit 43 Division 2,,DEM,"Elliott, R. Brent",1185
 DEKALB,U.S. Senate,,DEM,"Vangeli, Francis J.",29
 DEKALB,U.S. Senate,,DEM,"Carnahan, Robin",405
 DEKALB,U.S. Senate,,DEM,"Tolbert, Richard Charles",60
@@ -1183,9 +1183,9 @@ DEKALB,State House,5,REP,"Klippenstein, Glen",974
 DEKALB,State House,5,REP,"Gillespie, Ken",335
 DEKALB,State House,5,REP,"Crowther, Glenn B.",84
 DEKALB,State House,5,CST,"Murray, Gary",5
-DEKALB,Circuit Judge  Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",385
-DEKALB,Circuit Judge  Circuit 43 Division 1,,REP,"Chapman, Tom",1092
-DEKALB,Circuit Judge  Circuit 43 Division 2,,DEM,"Elliott, R. Brent",439
+DEKALB,Circuit Judge Circuit 43 Division 1,,DEM,"Chadwick, Daniel Linus",385
+DEKALB,Circuit Judge Circuit 43 Division 1,,REP,"Chapman, Tom",1092
+DEKALB,Circuit Judge Circuit 43 Division 2,,DEM,"Elliott, R. Brent",439
 DENT,U.S. Senate,,DEM,"Vangeli, Francis J.",26
 DENT,U.S. Senate,,DEM,"Carnahan, Robin",398
 DENT,U.S. Senate,,DEM,"Tolbert, Richard Charles",55
@@ -1317,8 +1317,8 @@ FRANKLIN,State House,110,REP,"Cabral, Carrie",90
 FRANKLIN,State House,111,DEM,"DeVeydt, Tod",717
 FRANKLIN,State House,111,REP,"Charboneau, Justin K.",1124
 FRANKLIN,State House,111,REP,"Schatz , Dave",3092
-FRANKLIN,Circuit Judge  Circuit 20 Division 2,,REP,"Lamke, Ike",10137
-FRANKLIN,Circuit Judge  Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",6519
+FRANKLIN,Circuit Judge Circuit 20 Division 2,,REP,"Lamke, Ike",10137
+FRANKLIN,Circuit Judge Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",6519
 GASCONADE,U.S. Senate,,DEM,"Vangeli, Francis J.",16
 GASCONADE,U.S. Senate,,DEM,"Carnahan, Robin",331
 GASCONADE,U.S. Senate,,DEM,"Tolbert, Richard Charles",26
@@ -1352,8 +1352,8 @@ GASCONADE,State House,111,REP,"Charboneau, Justin K.",273
 GASCONADE,State House,111,REP,"Schatz , Dave",408
 GASCONADE,State House,112,DEM,"Schaeperkoetter, Mark A.",271
 GASCONADE,State House,112,REP,"Loehner, Tom",1827
-GASCONADE,Circuit Judge  Circuit 20 Division 2,,REP,"Lamke, Ike",1596
-GASCONADE,Circuit Judge  Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",1080
+GASCONADE,Circuit Judge Circuit 20 Division 2,,REP,"Lamke, Ike",1596
+GASCONADE,Circuit Judge Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",1080
 GENTRY,U.S. Senate,,DEM,"Vangeli, Francis J.",38
 GENTRY,U.S. Senate,,DEM,"Carnahan, Robin",727
 GENTRY,U.S. Senate,,DEM,"Tolbert, Richard Charles",145
@@ -1834,7 +1834,7 @@ JASPER,State House,128,REP,"Birkes, Bill",1351
 JASPER,State House,129,DEM,"West, Jim",455
 JASPER,State House,129,REP,"White, William (Bill)",2081
 JASPER,State House,129,REP,"Dreyer, Shelly",950
-JASPER,Circuit Judge  Circuit 29 Division 2,,REP,"Dally, David C.",11843
+JASPER,Circuit Judge Circuit 29 Division 2,,REP,"Dally, David C.",11843
 JEFFERSON,U.S. Senate,,DEM,"Vangeli, Francis J.",1333
 JEFFERSON,U.S. Senate,,DEM,"Carnahan, Robin",10197
 JEFFERSON,U.S. Senate,,DEM,"Tolbert, Richard Charles",2396
@@ -1884,7 +1884,7 @@ JEFFERSON,State House,110,DEM,"Kemp, Edward L.",510
 JEFFERSON,State House,110,DEM,"Harris, Ben",1067
 JEFFERSON,State House,110,DEM,"Detter, Joe",344
 JEFFERSON,State House,110,REP,"Cabral, Carrie",1130
-JEFFERSON,"Circuit Judge  Circuit 23, Division 3",,DEM,"Stewart, Nathan B.",11006
+JEFFERSON,"Circuit Judge Circuit 23, Division 3",,DEM,"Stewart, Nathan B.",11006
 JOHNSON,U.S. Senate,,DEM,"Vangeli, Francis J.",69
 JOHNSON,U.S. Senate,,DEM,"Carnahan, Robin",1924
 JOHNSON,U.S. Senate,,DEM,"Tolbert, Richard Charles",168
@@ -1930,7 +1930,7 @@ JOHNSON,State House,121,LIB,"Wayne, Bill",47
 JOHNSON,State House,122,DEM,"Grigsby, Gary",329
 JOHNSON,State House,122,DEM,"Osborne, Holmes",153
 JOHNSON,State House,122,REP,"McGhee, Mike",1142
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,DEM,"Wagner, Mike",1930
+JOHNSON,Circuit Judge Circuit 17 Division 2,,DEM,"Wagner, Mike",1930
 JOHNSON,U.S. Senate,,DEM,"Vangeli, Francis J.",1049
 JOHNSON,U.S. Senate,,DEM,"Carnahan, Robin",19022
 JOHNSON,U.S. Senate,,DEM,"Tolbert, Richard Charles",1654
@@ -2075,7 +2075,7 @@ LACLEDE,U.S. House,4,LIB,"Holbrook, II, Thomas",8
 LACLEDE,U.S. House,4,CST,"Cowan, Greg",19
 LACLEDE,State House,146,REP,"Pollock, Darrell",4758
 LACLEDE,State House,148,REP,"Day, David",1
-LACLEDE,Circuit Judge  Circuit 26 Division 2,,REP,"Hayden, Kenny",4047
+LACLEDE,Circuit Judge Circuit 26 Division 2,,REP,"Hayden, Kenny",4047
 LAFAYETTE,U.S. Senate,,DEM,"Vangeli, Francis J.",121
 LAFAYETTE,U.S. Senate,,DEM,"Carnahan, Robin",1755
 LAFAYETTE,U.S. Senate,,DEM,"Tolbert, Richard Charles",259
@@ -2286,7 +2286,7 @@ LIVINGSTON,U.S. House,6,REP,"Ryan, Christopher",92
 LIVINGSTON,State Senate,12,REP,"Lager, Brad",788
 LIVINGSTON,State House,7,DEM,"Toms, Dale R.",975
 LIVINGSTON,State House,7,REP,"Lair, Mike",804
-LIVINGSTON,Circuit Judge  Circuit 43 Division 2,,DEM,"Elliott, R. Brent",1107
+LIVINGSTON,Circuit Judge Circuit 43 Division 2,,DEM,"Elliott, R. Brent",1107
 MACON,U.S. Senate,,DEM,"Vangeli, Francis J.",89
 MACON,U.S. Senate,,DEM,"Carnahan, Robin",1022
 MACON,U.S. Senate,,DEM,"Tolbert, Richard Charles",148
@@ -2376,7 +2376,7 @@ MARIES,State Senate,16,DEM,"Barnitz, Frank A.",493
 MARIES,State Senate,16,REP,"Brown, Dan W.",789
 MARIES,State House,112,DEM,"Schaeperkoetter, Mark A.",453
 MARIES,State House,112,REP,"Loehner, Tom",844
-MARIES,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",440
+MARIES,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",440
 MARION,U.S. Senate,,DEM,"Vangeli, Francis J.",185
 MARION,U.S. Senate,,DEM,"Carnahan, Robin",1641
 MARION,U.S. Senate,,DEM,"Tolbert, Richard Charles",447
@@ -2510,7 +2510,7 @@ MILLER,State House,155,DEM,"Page, John W.",17
 MILLER,State House,155,REP,"Franklin, Diane",25
 MILLER,State House,155,REP,"Roeger, Joe",17
 MILLER,State House,155,REP,"Mowinski, Bernie",5
-MILLER,Circuit Judge  Circuit 26 Division 2,,REP,"Hayden, Kenny",3422
+MILLER,Circuit Judge Circuit 26 Division 2,,REP,"Hayden, Kenny",3422
 MISSISSIPPI,U.S. Senate,,DEM,"Vangeli, Francis J.",223
 MISSISSIPPI,U.S. Senate,,DEM,"Carnahan, Robin",1515
 MISSISSIPPI,U.S. Senate,,DEM,"Tolbert, Richard Charles",689
@@ -2581,7 +2581,7 @@ MONITEAU,State Senate,6,REP,"Kehoe, Mike",761
 MONITEAU,State House,117,REP,"Jones, Caleb",2126
 MONITEAU,State House,117,REP,"Lachner, Jeanie",1023
 MONITEAU,State House,117,CST,"Luetkemeyer, Jacob",3
-MONITEAU,Circuit Judge  Circuit 26 Division 2,,REP,"Hayden, Kenny",2256
+MONITEAU,Circuit Judge Circuit 26 Division 2,,REP,"Hayden, Kenny",2256
 MONROE,U.S. Senate,,DEM,"Vangeli, Francis J.",165
 MONROE,U.S. Senate,,DEM,"Carnahan, Robin",1227
 MONROE,U.S. Senate,,DEM,"Tolbert, Richard Charles",328
@@ -2703,7 +2703,7 @@ MORGAN,State House,155,DEM,"Page, John W.",1
 MORGAN,State House,155,REP,"Franklin, Diane",3
 MORGAN,State House,155,REP,"Roeger, Joe",0
 MORGAN,State House,155,REP,"Mowinski, Bernie",0
-MORGAN,Circuit Judge  Circuit 26 Division 2,,REP,"Hayden, Kenny",2575
+MORGAN,Circuit Judge Circuit 26 Division 2,,REP,"Hayden, Kenny",2575
 NEW MADRID,U.S. Senate,,DEM,"Vangeli, Francis J.",161
 NEW MADRID,U.S. Senate,,DEM,"Carnahan, Robin",1153
 NEW MADRID,U.S. Senate,,DEM,"Tolbert, Richard Charles",384
@@ -2866,8 +2866,8 @@ OSAGE,State Senate,16,DEM,"Barnitz, Frank A.",742
 OSAGE,State Senate,16,REP,"Brown, Dan W.",2149
 OSAGE,State House,112,DEM,"Schaeperkoetter, Mark A.",728
 OSAGE,State House,112,REP,"Loehner, Tom",2375
-OSAGE,Circuit Judge  Circuit 20 Division 2,,REP,"Lamke, Ike",1389
-OSAGE,Circuit Judge  Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",1096
+OSAGE,Circuit Judge Circuit 20 Division 2,,REP,"Lamke, Ike",1389
+OSAGE,Circuit Judge Circuit 20 Division 2,,REP,"Eckelkamp, Cynthia Marie (Cindy)",1096
 OZARK,U.S. Senate,,DEM,"Vangeli, Francis J.",12
 OZARK,U.S. Senate,,DEM,"Carnahan, Robin",127
 OZARK,U.S. Senate,,DEM,"Tolbert, Richard Charles",14
@@ -3043,7 +3043,7 @@ PHELPS,State House,149,REP,"Gospich, Eli Steve",371
 PHELPS,State House,149,REP,"Stoltz, Robert J.",1901
 PHELPS,State House,149,REP,"Frederick, Keith",2192
 PHELPS,State House,150,REP,"Smith, Jason T.",175
-PHELPS,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",1832
+PHELPS,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",1832
 PIKE,U.S. Senate,,DEM,"Vangeli, Francis J.",66
 PIKE,U.S. Senate,,DEM,"Carnahan, Robin",893
 PIKE,U.S. Senate,,DEM,"Tolbert, Richard Charles",175
@@ -3209,7 +3209,7 @@ PULASKI,State Senate,16,DEM,"Barnitz, Frank A.",932
 PULASKI,State Senate,16,REP,"Brown, Dan W.",2949
 PULASKI,State House,147,REP,"Wells, Don",37
 PULASKI,State House,148,REP,"Day, David",3347
-PULASKI,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",888
+PULASKI,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",888
 PUTNAM,U.S. Senate,,DEM,"Vangeli, Francis J.",5
 PUTNAM,U.S. Senate,,DEM,"Carnahan, Robin",47
 PUTNAM,U.S. Senate,,DEM,"Tolbert, Richard Charles",10
@@ -3342,7 +3342,7 @@ RAY,U.S. House,4,LIB,"Holbrook, II, Thomas",4
 RAY,U.S. House,4,CST,"Cowan, Greg",9
 RAY,State House,36,DEM,"Lanning, Barbara",2460
 RAY,State House,36,REP,"Nance, Bob",1281
-RAY,Circuit Judge  Circuit 8,,REP,"Miller, David H.",1130
+RAY,Circuit Judge Circuit 8,,REP,"Miller, David H.",1130
 REYNOLDS,U.S. Senate,,DEM,"Vangeli, Francis J.",193
 REYNOLDS,U.S. Senate,,DEM,"Carnahan, Robin",1355
 REYNOLDS,U.S. Senate,,DEM,"Tolbert, Richard Charles",464
@@ -3404,9 +3404,9 @@ RIPLEY,State House,153,DEM,"Meyers, George",420
 RIPLEY,State House,153,REP,"Cookson, Steve",1585
 RIPLEY,State House,153,REP,"Johnston, Chris",499
 RIPLEY,State House,153,CST,"Calhoun, Rory",10
-RIPLEY,Circuit Judge  Circuit 36,,DEM,"Smith, Robert L.",407
-RIPLEY,Circuit Judge  Circuit 36,,REP,"Pritchett, Michael",944
-RIPLEY,Circuit Judge  Circuit 36,,REP,"Shock, John H.",893
+RIPLEY,Circuit Judge Circuit 36,,DEM,"Smith, Robert L.",407
+RIPLEY,Circuit Judge Circuit 36,,REP,"Pritchett, Michael",944
+RIPLEY,Circuit Judge Circuit 36,,REP,"Shock, John H.",893
 SALINE,U.S. Senate,,DEM,"Vangeli, Francis J.",226
 SALINE,U.S. Senate,,DEM,"Carnahan, Robin",2548
 SALINE,U.S. Senate,,DEM,"Tolbert, Richard Charles",742
@@ -3478,7 +3478,7 @@ SCHUYLER,State Senate,18,REP,"Munzlinger, Brian",194
 SCHUYLER,State House,1,DEM,"Cottrell, Keri",758
 SCHUYLER,State House,1,REP,"Redmon, Craig",82
 SCHUYLER,State House,1,REP,"McKee, Neill",108
-SCHUYLER,Circuit Judge  Circuit 1,,DEM,"Dial, Gary",828
+SCHUYLER,Circuit Judge Circuit 1,,DEM,"Dial, Gary",828
 SCOTLAND,U.S. Senate,,DEM,"Vangeli, Francis J.",26
 SCOTLAND,U.S. Senate,,DEM,"Carnahan, Robin",615
 SCOTLAND,U.S. Senate,,DEM,"Tolbert, Richard Charles",149
@@ -3510,7 +3510,7 @@ SCOTLAND,State Senate,18,REP,"Munzlinger, Brian",339
 SCOTLAND,State House,1,DEM,"Cottrell, Keri",683
 SCOTLAND,State House,1,REP,"Redmon, Craig",101
 SCOTLAND,State House,1,REP,"McKee, Neill",259
-SCOTLAND,Circuit Judge  Circuit 1,,DEM,"Dial, Gary",772
+SCOTLAND,Circuit Judge Circuit 1,,DEM,"Dial, Gary",772
 SCOTT,U.S. Senate,,DEM,"Vangeli, Francis J.",307
 SCOTT,U.S. Senate,,DEM,"Carnahan, Robin",1605
 SCOTT,U.S. Senate,,DEM,"Tolbert, Richard Charles",669
@@ -3658,7 +3658,7 @@ ST CHARLES,State House,19,REP,"Evans, Dave",1890
 ST CHARLES,State House,19,REP,"Bahr, Kurt",3158
 ST CHARLES,State House,109,REP,"Dieckhaus, Scott D.",1064
 ST CHARLES,State House,109,REP,"McGee, Cindy",409
-ST CHARLES,Circuit Judge  Circuit 11 Division 2,,REP,"Schneider, Nancy L.",30470
+ST CHARLES,Circuit Judge Circuit 11 Division 2,,REP,"Schneider, Nancy L.",30470
 ST CLAIR,U.S. Senate,,DEM,"Vangeli, Francis J.",28
 ST CLAIR,U.S. Senate,,DEM,"Carnahan, Robin",433
 ST CLAIR,U.S. Senate,,DEM,"Tolbert, Richard Charles",54
@@ -4142,7 +4142,7 @@ TEXAS,U.S. House,8,REP,"Emerson, Jo Ann",2144
 TEXAS,U.S. House,8,LIB,"Vandeven, Rick",12
 TEXAS,State House,144,REP,"Dugger, Tony",356
 TEXAS,State House,147,REP,"Wells, Don",3073
-TEXAS,Circuit Judge  Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",837
+TEXAS,Circuit Judge Circuit 25 Division 2,,DEM,"Sheffield, Mary W.",837
 VERNON,U.S. Senate,,DEM,"Vangeli, Francis J.",149
 VERNON,U.S. Senate,,DEM,"Carnahan, Robin",1121
 VERNON,U.S. Senate,,DEM,"Tolbert, Richard Charles",362

@@ -346,7 +346,7 @@ BOLLINGER,State Senate,27,REP,"Crowell, Jason Glennon",1323
 BOLLINGER,State Senate,27,DEM,"Sanders, Linda",331
 BOLLINGER,State House,156,REP,"Keeney, Shelley (White)",1329
 BOLLINGER,State House,156,DEM,"Winder, Michael R",337
-BOLLINGER,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",1229
+BOLLINGER,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",1229
 BOONE,Governor,,REP,"Long, Scott",63
 BOONE,Governor,,REP,"Steelman, Sarah",1689
 BOONE,Governor,,REP,"Hulshof, Kenny",9263
@@ -401,7 +401,7 @@ BOONE,State House,25,REP,"Asbridge, Ryan",1329
 BOONE,State House,25,DEM,"Spence, Sean",751
 BOONE,State House,25,DEM,"Still, Mary Wynne",1360
 BOONE,State House,25,DEM,"Pund, Bob",360
-BOONE,Circuit Judge  Circuit 13 Division 4,,REP,"Asel, Jodie C.",9389
+BOONE,Circuit Judge Circuit 13 Division 4,,REP,"Asel, Jodie C.",9389
 BUCHANAN,Governor,,REP,"Long, Scott",579
 BUCHANAN,Governor,,REP,"Steelman, Sarah",1977
 BUCHANAN,Governor,,REP,"Hulshof, Kenny",1523
@@ -483,7 +483,7 @@ BUTLER,State House,153,REP,"Dethrow, Mike",317
 BUTLER,State House,154,REP,"Kingery, Gayle",4587
 BUTLER,State House,154,LIB,"Busby, Larry S.",5
 BUTLER,State House,163,DEM,"Todd, Tom",78
-BUTLER,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",5134
+BUTLER,Circuit Judge Circuit 36,,REP,"Richardson, Mark L.",5134
 CALDWELL,Governor,,REP,"Long, Scott",203
 CALDWELL,Governor,,REP,"Steelman, Sarah",702
 CALDWELL,Governor,,REP,"Hulshof, Kenny",376
@@ -568,7 +568,7 @@ CALLAWAY,State House,20,DEM,"Salcedo, Don",1116
 CALLAWAY,State House,20,DEM,"Moen, David",1454
 CALLAWAY,State House,21,REP,"Hobbs, Steve",200
 CALLAWAY,State House,21,DEM,"Schultz, Kelly",185
-CALLAWAY,Circuit Judge  Circuit 13 Division 4,,REP,"Asel, Jodie C.",2875
+CALLAWAY,Circuit Judge Circuit 13 Division 4,,REP,"Asel, Jodie C.",2875
 CAMDEN,Governor,,REP,"Long, Scott",158
 CAMDEN,Governor,,REP,"Steelman, Sarah",2427
 CAMDEN,Governor,,REP,"Hulshof, Kenny",2462
@@ -665,7 +665,7 @@ CAPE GIRARDEAU,State House,159,REP,"Wright, Billy Pat",1319
 CAPE GIRARDEAU,State House,159,DEM,"Burlison, Bill",340
 CAPE GIRARDEAU,State House,160,REP,"Brandom, Ellen",155
 CAPE GIRARDEAU,State House,161,DEM,"Hodges, Steve",0
-CAPE GIRARDEAU,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",8402
+CAPE GIRARDEAU,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",8402
 CARROLL,Governor,,REP,"Long, Scott",160
 CARROLL,Governor,,REP,"Steelman, Sarah",730
 CARROLL,Governor,,REP,"Hulshof, Kenny",760
@@ -791,10 +791,10 @@ CASS,State House,123,REP,"Molendorp, Chris",2169
 CASS,State House,123,DEM,"Alonzo, Juan I.",1623
 CASS,State House,124,REP,"Danner, Jim",2486
 CASS,State House,124,DEM,"Scavuzzo, Luke",2803
-CASS,Circuit Judge  Circuit 17 Division 2,,REP,"Rumley, J. Michael (Mike)",2228
-CASS,Circuit Judge  Circuit 17 Division 2,,REP,"Stoppy, Lynn",1926
-CASS,Circuit Judge  Circuit 17 Division 2,,REP,"Timmerman, Karl H.",1221
-CASS,Circuit Judge  Circuit 17 Division 2,,DEM,"Wagner, Mike",5030
+CASS,Circuit Judge Circuit 17 Division 2,,REP,"Rumley, J. Michael (Mike)",2228
+CASS,Circuit Judge Circuit 17 Division 2,,REP,"Stoppy, Lynn",1926
+CASS,Circuit Judge Circuit 17 Division 2,,REP,"Timmerman, Karl H.",1221
+CASS,Circuit Judge Circuit 17 Division 2,,DEM,"Wagner, Mike",5030
 CEDAR,Governor,,REP,"Long, Scott",114
 CEDAR,Governor,,REP,"Steelman, Sarah",1471
 CEDAR,Governor,,REP,"Hulshof, Kenny",900
@@ -1069,8 +1069,8 @@ COLE,State House,114,REP,"Deeken, Bill",3908
 COLE,State House,114,DEM,"Steinman, Leonard J.",1555
 COLE,State House,115,REP,"Lynch, Steve",90
 COLE,State House,115,REP,"Schad, Rodney",360
-COLE,Circuit Judge  Circuit 19 Division 2,,DEM,"Callahan, Richard G.",3293
-COLE,Circuit Judge  Circuit 19 Division 4,,DEM,"Joyce, Pat",3310
+COLE,Circuit Judge Circuit 19 Division 2,,DEM,"Callahan, Richard G.",3293
+COLE,Circuit Judge Circuit 19 Division 4,,DEM,"Joyce, Pat",3310
 COOPER,Governor,,REP,"Long, Scott",30
 COOPER,Governor,,REP,"Steelman, Sarah",417
 COOPER,Governor,,REP,"Hulshof, Kenny",1382
@@ -1152,7 +1152,7 @@ CRAWFORD,State House,111,REP,"Schlottach, Charlie W.",220
 CRAWFORD,State House,111,DEM,"DeVeydt, Tod C.",122
 CRAWFORD,State House,150,REP,"Smith, Jason T.",1550
 CRAWFORD,State House,150,DEM,"Ellis, James D.",509
-CRAWFORD,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",661
+CRAWFORD,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",661
 DADE,Governor,,REP,"Long, Scott",108
 DADE,Governor,,REP,"Steelman, Sarah",1095
 DADE,Governor,,REP,"Hulshof, Kenny",816
@@ -1332,7 +1332,7 @@ DENT,U.S. House,8,DEM,"Allen, Joe",1139
 DENT,U.S. House,8,LIB,"McCullough, Branden C.",3
 DENT,State House,150,REP,"Smith, Jason T.",1127
 DENT,State House,150,DEM,"Ellis, James D.",1094
-DENT,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",1276
+DENT,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",1276
 DOUGLAS,Governor,,REP,"Long, Scott",160
 DOUGLAS,Governor,,REP,"Steelman, Sarah",1988
 DOUGLAS,Governor,,REP,"Hulshof, Kenny",954
@@ -1589,9 +1589,9 @@ GREENE,State House,139,REP,"Schoeller, Shane",3887
 GREENE,State House,139,DEM,"Adams, Janet",1084
 GREENE,State House,140,REP,"Dixon, Bob",3711
 GREENE,State House,145,REP,"Cunningham, Mike",312
-GREENE,Circuit Judge  Circuit 31 Division 1,,REP,"Cordonnier, Michael J.",20428
-GREENE,Circuit Judge  Circuit 31 Division 2,,REP,"Jones, David",12221
-GREENE,Circuit Judge  Circuit 31 Division 2,,REP,"Lawson, Bob Jr.",11985
+GREENE,Circuit Judge Circuit 31 Division 1,,REP,"Cordonnier, Michael J.",20428
+GREENE,Circuit Judge Circuit 31 Division 2,,REP,"Jones, David",12221
+GREENE,Circuit Judge Circuit 31 Division 2,,REP,"Lawson, Bob Jr.",11985
 GRUNDY,Governor,,REP,"Long, Scott",307
 GRUNDY,Governor,,REP,"Steelman, Sarah",701
 GRUNDY,Governor,,REP,"Hulshof, Kenny",446
@@ -1886,7 +1886,7 @@ IRON,State Senate,3,REP,"Engler, Kevin",262
 IRON,State Senate,3,DEM,"Riche, Dennis",1487
 IRON,State House,152,REP,"Mansfield, Eric (Rick)",227
 IRON,State House,152,DEM,"Kuessner, J.C.",1791
-IRON,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",1711
+IRON,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",1711
 JACKSON,Governor,,REP,"Long, Scott",1512
 JACKSON,Governor,,REP,"Steelman, Sarah",9260
 JACKSON,Governor,,REP,"Hulshof, Kenny",4410
@@ -2043,7 +2043,7 @@ JEFFERSON,State House,103,DEM,"Casey, Ron",2782
 JEFFERSON,State House,104,DEM,"Fallert, Joseph Jr.",1373
 JEFFERSON,State House,105,DEM,"Frame, Michael",930
 JEFFERSON,State House,110,DEM,"Harris, Belinda",1042
-JEFFERSON,Circuit Judge  Circuit 23 Division 2,,DEM,"Kramer, Gary P.",9696
+JEFFERSON,Circuit Judge Circuit 23 Division 2,,DEM,"Kramer, Gary P.",9696
 JOHNSON,Governor,,REP,"Long, Scott",240
 JOHNSON,Governor,,REP,"Steelman, Sarah",1479
 JOHNSON,Governor,,REP,"Hulshof, Kenny",935
@@ -2091,10 +2091,10 @@ JOHNSON,State House,121,DEM,"Arton, Anthony (Art)",430
 JOHNSON,State House,121,DEM,"Alvarado, Jeffrey",215
 JOHNSON,State House,122,REP,"McGhee, Mike",480
 JOHNSON,State House,122,DEM,"Grubb, Beth",436
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,REP,"Rumley, J. Michael (Mike)",520
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,REP,"Stoppy, Lynn",1370
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,REP,"Timmerman, Karl H.",783
-JOHNSON,Circuit Judge  Circuit 17 Division 2,,DEM,"Wagner, Mike",2205
+JOHNSON,Circuit Judge Circuit 17 Division 2,,REP,"Rumley, J. Michael (Mike)",520
+JOHNSON,Circuit Judge Circuit 17 Division 2,,REP,"Stoppy, Lynn",1370
+JOHNSON,Circuit Judge Circuit 17 Division 2,,REP,"Timmerman, Karl H.",783
+JOHNSON,Circuit Judge Circuit 17 Division 2,,DEM,"Wagner, Mike",2205
 JOHNSON,Governor,,REP,"Long, Scott",446
 JOHNSON,Governor,,REP,"Steelman, Sarah",2795
 JOHNSON,Governor,,REP,"Hulshof, Kenny",1730
@@ -3255,7 +3255,7 @@ PERRY,State Senate,27,REP,"Crowell, Jason Glennon",2875
 PERRY,State Senate,27,DEM,"Sanders, Linda",305
 PERRY,State House,106,REP,"Tilley, Steven",1661
 PERRY,State House,157,REP,"Lipke, Scott A.",1450
-PERRY,Circuit Judge  Circuit 32 Division 1,,REP,"Syler, William L.",2919
+PERRY,Circuit Judge Circuit 32 Division 1,,REP,"Syler, William L.",2919
 PETTIS,Governor,,REP,"Long, Scott",114
 PETTIS,Governor,,REP,"Steelman, Sarah",935
 PETTIS,Governor,,REP,"Hulshof, Kenny",1014
@@ -3697,7 +3697,7 @@ REYNOLDS,State House,150,REP,"Smith, Jason T.",9
 REYNOLDS,State House,150,DEM,"Ellis, James D.",61
 REYNOLDS,State House,152,REP,"Mansfield, Eric (Rick)",57
 REYNOLDS,State House,152,DEM,"Kuessner, J.C.",1936
-REYNOLDS,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",1761
+REYNOLDS,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",1761
 RIPLEY,Governor,,REP,"Long, Scott",84
 RIPLEY,Governor,,REP,"Steelman, Sarah",275
 RIPLEY,Governor,,REP,"Hulshof, Kenny",387
@@ -3734,7 +3734,7 @@ RIPLEY,U.S. House,8,LIB,"McCullough, Branden C.",5
 RIPLEY,State Senate,25,REP,"Mayer, Robert (Rob)",651
 RIPLEY,State Senate,25,DEM,"Stoelting, M. Shane",334
 RIPLEY,State House,153,REP,"Dethrow, Mike",749
-RIPLEY,Circuit Judge  Circuit 36,,REP,"Richardson, Mark L.",646
+RIPLEY,Circuit Judge Circuit 36,,REP,"Richardson, Mark L.",646
 SALINE,Governor,,REP,"Long, Scott",34
 SALINE,Governor,,REP,"Steelman, Sarah",173
 SALINE,Governor,,REP,"Hulshof, Kenny",511
@@ -4041,8 +4041,8 @@ ST CHARLES,State House,109,REP,"Dieckhaus, Scott D.",559
 ST CHARLES,State House,109,REP,"Sprehe, Laura Elizabeth",230
 ST CHARLES,State House,109,DEM,"Cunningham, Kent",271
 ST CHARLES,State House,109,DEM,"Meyer, Donald D.",144
-ST CHARLES,Circuit Judge  Circuit 11 Division 1,,REP,"Horwitz, Lou",18722
-ST CHARLES,Circuit Judge  Circuit 11 Division 1,,DEM,"House, Ted",13355
+ST CHARLES,Circuit Judge Circuit 11 Division 1,,REP,"Horwitz, Lou",18722
+ST CHARLES,Circuit Judge Circuit 11 Division 1,,DEM,"House, Ted",13355
 ST CLAIR,Governor,,REP,"Long, Scott",100
 ST CLAIR,Governor,,REP,"Steelman, Sarah",613
 ST CLAIR,Governor,,REP,"Hulshof, Kenny",508
@@ -4723,7 +4723,7 @@ WAYNE,State House,156,REP,"Keeney, Shelley (White)",367
 WAYNE,State House,156,DEM,"Winder, Michael R",730
 WAYNE,State House,159,REP,"Wright, Billy Pat",72
 WAYNE,State House,159,DEM,"Burlison, Bill",61
-WAYNE,Circuit Judge  Circuit 42 Division 2,,DEM,"Parker, Kelly",890
+WAYNE,Circuit Judge Circuit 42 Division 2,,DEM,"Parker, Kelly",890
 WEBSTER,Governor,,REP,"Long, Scott",209
 WEBSTER,Governor,,REP,"Steelman, Sarah",2840
 WEBSTER,Governor,,REP,"Hulshof, Kenny",2003

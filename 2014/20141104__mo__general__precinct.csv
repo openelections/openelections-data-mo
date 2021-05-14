@@ -3679,9 +3679,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 3678,Chariton,13,ABSENTEE,State Auditor,,REP,Tom Schweich,58
 3679,Chariton,13,ABSENTEE,State Auditor,,LIB,Sean O'Toole,11
 3680,Chariton,13,ABSENTEE,State Auditor,,CST,Rodney Farthing,11
-3681,Chariton,101,BEE BRANCH  (0101),State Auditor,,REP,Tom Schweich,73
-3682,Chariton,101,BEE BRANCH  (0101),State Auditor,,LIB,Sean O'Toole,16
-3683,Chariton,101,BEE BRANCH  (0101),State Auditor,,CST,Rodney Farthing,5
+3681,Chariton,101,BEE BRANCH (0101),State Auditor,,REP,Tom Schweich,73
+3682,Chariton,101,BEE BRANCH (0101),State Auditor,,LIB,Sean O'Toole,16
+3683,Chariton,101,BEE BRANCH (0101),State Auditor,,CST,Rodney Farthing,5
 3684,Chariton,505,CLARK (0505),State Auditor,,REP,Tom Schweich,70
 3685,Chariton,505,CLARK (0505),State Auditor,,LIB,Sean O'Toole,21
 3686,Chariton,505,CLARK (0505),State Auditor,,CST,Rodney Farthing,6
@@ -3705,7 +3705,7 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 3704,Chariton,12,YELLOW CREEK,State House,39,REP,Joe Don McGaugh,86
 3705,Chariton,13,ABSENTEE,State House,39,REP,Joe Don McGaugh,49
 3706,Chariton,13,ABSENTEE,State House,48,REP,Dave Muntzel,25
-3707,Chariton,101,BEE BRANCH  (0101),State House,39,REP,Joe Don McGaugh,82
+3707,Chariton,101,BEE BRANCH (0101),State House,39,REP,Joe Don McGaugh,82
 3708,Chariton,505,CLARK (0505),State House,39,REP,Joe Don McGaugh,86
 3709,Chariton,1010,MUSSELFORK (1010),State House,39,REP,Joe Don McGaugh,86
 3710,Chariton,1414,WAYLAND (1414),State House,39,REP,Joe Don McGaugh,65
@@ -3718,7 +3718,7 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 3717,Chariton,10,SALISBURY 2,State Senate,18,REP,Brian Munzlinger,248
 3718,Chariton,12,YELLOW CREEK,State Senate,18,REP,Brian Munzlinger,85
 3719,Chariton,13,ABSENTEE,State Senate,18,REP,Brian Munzlinger,71
-3720,Chariton,101,BEE BRANCH  (0101),State Senate,18,REP,Brian Munzlinger,79
+3720,Chariton,101,BEE BRANCH (0101),State Senate,18,REP,Brian Munzlinger,79
 3721,Chariton,505,CLARK (0505),State Senate,18,REP,Brian Munzlinger,88
 3722,Chariton,1010,MUSSELFORK (1010),State Senate,18,REP,Brian Munzlinger,84
 3723,Chariton,1414,WAYLAND (1414),State Senate,18,REP,Brian Munzlinger,60
@@ -3749,9 +3749,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 3748,Chariton,13,ABSENTEE,U.S. House,6,DEM,W. A. (Bill) Hedge,27
 3749,Chariton,13,ABSENTEE,U.S. House,6,REP,Sam Graves,69
 3750,Chariton,13,ABSENTEE,U.S. House,6,LIB,Russ Monchil,1
-3751,Chariton,101,BEE BRANCH  (0101),U.S. House,6,DEM,W. A. (Bill) Hedge,18
-3752,Chariton,101,BEE BRANCH  (0101),U.S. House,6,REP,Sam Graves,81
-3753,Chariton,101,BEE BRANCH  (0101),U.S. House,6,LIB,Russ Monchil,6
+3751,Chariton,101,BEE BRANCH (0101),U.S. House,6,DEM,W. A. (Bill) Hedge,18
+3752,Chariton,101,BEE BRANCH (0101),U.S. House,6,REP,Sam Graves,81
+3753,Chariton,101,BEE BRANCH (0101),U.S. House,6,LIB,Russ Monchil,6
 3754,Chariton,505,CLARK (0505),U.S. House,6,DEM,W. A. (Bill) Hedge,23
 3755,Chariton,505,CLARK (0505),U.S. House,6,REP,Sam Graves,77
 3756,Chariton,505,CLARK (0505),U.S. House,6,LIB,Russ Monchil,6
@@ -12952,9 +12952,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 12951,Lawrence,15,PIERCE CITY,State Auditor,,REP,Tom Schweich,377
 12952,Lawrence,15,PIERCE CITY,State Auditor,,LIB,Sean O'Toole,82
 12953,Lawrence,15,PIERCE CITY,State Auditor,,CST,Rodney Farthing,33
-12954,Lawrence,16,RED  OAK,State Auditor,,REP,Tom Schweich,79
-12955,Lawrence,16,RED  OAK,State Auditor,,LIB,Sean O'Toole,8
-12956,Lawrence,16,RED  OAK,State Auditor,,CST,Rodney Farthing,5
+12954,Lawrence,16,RED OAK,State Auditor,,REP,Tom Schweich,79
+12955,Lawrence,16,RED OAK,State Auditor,,LIB,Sean O'Toole,8
+12956,Lawrence,16,RED OAK,State Auditor,,CST,Rodney Farthing,5
 12957,Lawrence,17,SPRING RIVER,State Auditor,,REP,Tom Schweich,283
 12958,Lawrence,17,SPRING RIVER,State Auditor,,LIB,Sean O'Toole,45
 12959,Lawrence,17,SPRING RIVER,State Auditor,,CST,Rodney Farthing,12
@@ -12999,8 +12999,8 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 12998,Lawrence,15,PIERCE CITY,State House,157,DEM,Vince Jennings,61
 12999,Lawrence,15,PIERCE CITY,State House,157,REP,Mike Moon,178
 13000,Lawrence,15,PIERCE CITY,State House,158,REP,Scott Fitzpatrick,245
-13001,Lawrence,16,RED  OAK,State House,157,DEM,Vince Jennings,14
-13002,Lawrence,16,RED  OAK,State House,157,REP,Mike Moon,80
+13001,Lawrence,16,RED OAK,State House,157,DEM,Vince Jennings,14
+13002,Lawrence,16,RED OAK,State House,157,REP,Mike Moon,80
 13003,Lawrence,17,SPRING RIVER,State House,157,DEM,Vince Jennings,72
 13004,Lawrence,17,SPRING RIVER,State House,157,REP,Mike Moon,287
 13005,Lawrence,18,TURNBACK,State House,157,DEM,Vince Jennings,79
@@ -13055,9 +13055,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 13054,Lawrence,15,PIERCE CITY,U.S. House,7,DEM,Jim Evans,152
 13055,Lawrence,15,PIERCE CITY,U.S. House,7,REP,Billy Long,290
 13056,Lawrence,15,PIERCE CITY,U.S. House,7,LIB,Kevin Craig,74
-13057,Lawrence,16,RED  OAK,U.S. House,7,DEM,Jim Evans,14
-13058,Lawrence,16,RED  OAK,U.S. House,7,REP,Billy Long,74
-13059,Lawrence,16,RED  OAK,U.S. House,7,LIB,Kevin Craig,9
+13057,Lawrence,16,RED OAK,U.S. House,7,DEM,Jim Evans,14
+13058,Lawrence,16,RED OAK,U.S. House,7,REP,Billy Long,74
+13059,Lawrence,16,RED OAK,U.S. House,7,LIB,Kevin Craig,9
 13060,Lawrence,17,SPRING RIVER,U.S. House,7,DEM,Jim Evans,83
 13061,Lawrence,17,SPRING RIVER,U.S. House,7,REP,Billy Long,224
 13062,Lawrence,17,SPRING RIVER,U.S. House,7,LIB,Kevin Craig,42
@@ -14654,9 +14654,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 14653,Monroe,8,MIDDLE GROVE SCHOOL,State Auditor,,REP,Tom Schweich,137
 14654,Monroe,8,MIDDLE GROVE SCHOOL,State Auditor,,LIB,Sean O'Toole,24
 14655,Monroe,8,MIDDLE GROVE SCHOOL,State Auditor,,CST,Rodney Farthing,8
-14656,Monroe,9,SANTE FE CHRISTIAN  CHURCH,State Auditor,,REP,Tom Schweich,99
-14657,Monroe,9,SANTE FE CHRISTIAN  CHURCH,State Auditor,,LIB,Sean O'Toole,15
-14658,Monroe,9,SANTE FE CHRISTIAN  CHURCH,State Auditor,,CST,Rodney Farthing,6
+14656,Monroe,9,SANTE FE CHRISTIAN CHURCH,State Auditor,,REP,Tom Schweich,99
+14657,Monroe,9,SANTE FE CHRISTIAN CHURCH,State Auditor,,LIB,Sean O'Toole,15
+14658,Monroe,9,SANTE FE CHRISTIAN CHURCH,State Auditor,,CST,Rodney Farthing,6
 14659,Monroe,1,ABSENTEE,State House,40,DEM,Lowell Jackson,38
 14660,Monroe,1,ABSENTEE,State House,40,REP,Jim Hansen,54
 14661,Monroe,1,ABSENTEE,State House,5,DEM,C. LeRoy Deichman,2
@@ -14683,8 +14683,8 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 14682,Monroe,7,MADISON COMMUNITY CENTER,State House,5,REP,Lindell Shumake,4
 14683,Monroe,8,MIDDLE GROVE SCHOOL,State House,40,DEM,Lowell Jackson,37
 14684,Monroe,8,MIDDLE GROVE SCHOOL,State House,40,REP,Jim Hansen,141
-14685,Monroe,9,SANTE FE CHRISTIAN  CHURCH,State House,40,DEM,Lowell Jackson,40
-14686,Monroe,9,SANTE FE CHRISTIAN  CHURCH,State House,40,REP,Jim Hansen,96
+14685,Monroe,9,SANTE FE CHRISTIAN CHURCH,State House,40,DEM,Lowell Jackson,40
+14686,Monroe,9,SANTE FE CHRISTIAN CHURCH,State House,40,REP,Jim Hansen,96
 14687,Monroe,1,ABSENTEE,State Senate,10,DEM,Ed Schieffer,39
 14688,Monroe,1,ABSENTEE,State Senate,10,REP,Jeanie Riddle,69
 14689,Monroe,2,MONROE CITY VFW,State Senate,10,DEM,Ed Schieffer,156
@@ -14701,8 +14701,8 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 14700,Monroe,7,MADISON COMMUNITY CENTER,State Senate,10,REP,Jeanie Riddle,223
 14701,Monroe,8,MIDDLE GROVE SCHOOL,State Senate,10,DEM,Ed Schieffer,46
 14702,Monroe,8,MIDDLE GROVE SCHOOL,State Senate,10,REP,Jeanie Riddle,130
-14703,Monroe,9,SANTE FE CHRISTIAN  CHURCH,State Senate,10,DEM,Ed Schieffer,38
-14704,Monroe,9,SANTE FE CHRISTIAN  CHURCH,State Senate,10,REP,Jeanie Riddle,99
+14703,Monroe,9,SANTE FE CHRISTIAN CHURCH,State Senate,10,DEM,Ed Schieffer,38
+14704,Monroe,9,SANTE FE CHRISTIAN CHURCH,State Senate,10,REP,Jeanie Riddle,99
 14705,Monroe,1,ABSENTEE,U.S. House,6,DEM,W. A. (Bill) Hedge,33
 14706,Monroe,1,ABSENTEE,U.S. House,6,REP,Sam Graves,72
 14707,Monroe,1,ABSENTEE,U.S. House,6,LIB,Russ Monchil,4
@@ -14727,9 +14727,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 14726,Monroe,8,MIDDLE GROVE SCHOOL,U.S. House,6,DEM,W. A. (Bill) Hedge,43
 14727,Monroe,8,MIDDLE GROVE SCHOOL,U.S. House,6,REP,Sam Graves,131
 14728,Monroe,8,MIDDLE GROVE SCHOOL,U.S. House,6,LIB,Russ Monchil,4
-14729,Monroe,9,SANTE FE CHRISTIAN  CHURCH,U.S. House,6,DEM,W. A. (Bill) Hedge,36
-14730,Monroe,9,SANTE FE CHRISTIAN  CHURCH,U.S. House,6,REP,Sam Graves,98
-14731,Monroe,9,SANTE FE CHRISTIAN  CHURCH,U.S. House,6,LIB,Russ Monchil,2
+14729,Monroe,9,SANTE FE CHRISTIAN CHURCH,U.S. House,6,DEM,W. A. (Bill) Hedge,36
+14730,Monroe,9,SANTE FE CHRISTIAN CHURCH,U.S. House,6,REP,Sam Graves,98
+14731,Monroe,9,SANTE FE CHRISTIAN CHURCH,U.S. House,6,LIB,Russ Monchil,2
 14732,Montgomery,1,BELLFLOWER OS,State Auditor,,REP,Tom Schweich,171
 14733,Montgomery,1,BELLFLOWER OS,State Auditor,,LIB,Sean O'Toole,27
 14734,Montgomery,1,BELLFLOWER OS,State Auditor,,CST,Rodney Farthing,11
@@ -18256,9 +18256,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 18255,Scotland,1,ABSENTEE,State Auditor,,REP,Tom Schweich,69
 18256,Scotland,1,ABSENTEE,State Auditor,,LIB,Sean O'Toole,18
 18257,Scotland,1,ABSENTEE,State Auditor,,CST,Rodney Farthing,3
-18258,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,State Auditor,,REP,Tom Schweich,371
-18259,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,State Auditor,,LIB,Sean O'Toole,84
-18260,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,State Auditor,,CST,Rodney Farthing,44
+18258,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,State Auditor,,REP,Tom Schweich,371
+18259,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,State Auditor,,LIB,Sean O'Toole,84
+18260,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,State Auditor,,CST,Rodney Farthing,44
 18261,Scotland,3,EAST JEFFERSON TOBIN,State Auditor,,REP,Tom Schweich,281
 18262,Scotland,3,EAST JEFFERSON TOBIN,State Auditor,,LIB,Sean O'Toole,57
 18263,Scotland,3,EAST JEFFERSON TOBIN,State Auditor,,CST,Rodney Farthing,27
@@ -18278,7 +18278,7 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 18277,Scotland,8,MT. PLEASANT,State Auditor,,LIB,Sean O'Toole,3
 18278,Scotland,,MT. PLEASANT,State Auditor,,CST,Rodney Farthing,0
 18279,Scotland,1,ABSENTEE,State House,4,REP,Craig Redmon,99
-18280,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,State House,4,REP,Craig Redmon,516
+18280,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,State House,4,REP,Craig Redmon,516
 18281,Scotland,3,EAST JEFFERSON TOBIN,State House,4,REP,Craig Redmon,363
 18282,Scotland,4,THOMSON-ARBELA JOHNSON,State House,4,REP,Craig Redmon,97
 18283,Scotland,5,THOMSON GRANGER,State House,4,REP,Craig Redmon,30
@@ -18286,7 +18286,7 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 18285,Scotland,7,SANDHILL,State House,4,REP,Craig Redmon,67
 18286,Scotland,8,MT. PLEASANT,State House,4,REP,Craig Redmon,41
 18287,Scotland,1,ABSENTEE,State Senate,18,REP,Brian Munzlinger,90
-18288,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,State Senate,18,REP,Brian Munzlinger,493
+18288,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,State Senate,18,REP,Brian Munzlinger,493
 18289,Scotland,3,EAST JEFFERSON TOBIN,State Senate,18,REP,Brian Munzlinger,365
 18290,Scotland,4,THOMSON-ARBELA JOHNSON,State Senate,18,REP,Brian Munzlinger,95
 18291,Scotland,5,THOMSON GRANGER,State Senate,18,REP,Brian Munzlinger,30
@@ -18296,9 +18296,9 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 18295,Scotland,1,ABSENTEE,U.S. House,6,DEM,W. A. (Bill) Hedge,37
 18296,Scotland,1,ABSENTEE,U.S. House,6,REP,Sam Graves,82
 18297,Scotland,1,ABSENTEE,U.S. House,6,LIB,Russ Monchil,3
-18298,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,U.S. House,6,DEM,W. A. (Bill) Hedge,119
-18299,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,U.S. House,6,REP,Sam Graves,447
-18300,Scotland,2,WEST JEFFERSON  MILLER-VEST-UNION,U.S. House,6,LIB,Russ Monchil,14
+18298,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,U.S. House,6,DEM,W. A. (Bill) Hedge,119
+18299,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,U.S. House,6,REP,Sam Graves,447
+18300,Scotland,2,WEST JEFFERSON MILLER-VEST-UNION,U.S. House,6,LIB,Russ Monchil,14
 18301,Scotland,3,EAST JEFFERSON TOBIN,U.S. House,6,DEM,W. A. (Bill) Hedge,95
 18302,Scotland,3,EAST JEFFERSON TOBIN,U.S. House,6,REP,Sam Graves,307
 18303,Scotland,3,EAST JEFFERSON TOBIN,U.S. House,6,LIB,Russ Monchil,14
@@ -19118,13 +19118,13 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 19117,St. Charles,45,RABBIT RUN,State House,104,DEM,Terry Lesinski,236
 19118,St. Charles,45,RABBIT RUN,State House,104,REP,Kathie Conway,399
 19119,St. Charles,46,MEADOW VALLEY,State House,103,REP,John D. Wiemann,13
-19120,St. Charles,46,MEADOW VALLEY,State House,103,LIB,Dean (Draig)  Hodge,2
+19120,St. Charles,46,MEADOW VALLEY,State House,103,LIB,Dean (Draig) Hodge,2
 19121,St. Charles,46,MEADOW VALLEY,State House,104,DEM,Terry Lesinski,296
 19122,St. Charles,46,MEADOW VALLEY,State House,104,REP,Kathie Conway,497
 19123,St. Charles,47,FAIRMONT,State House,104,DEM,Terry Lesinski,252
 19124,St. Charles,47,FAIRMONT,State House,104,REP,Kathie Conway,389
 19125,St. Charles,48,PARKWOOD,State House,103,REP,John D. Wiemann,253
-19126,St. Charles,48,PARKWOOD,State House,103,LIB,Dean (Draig)  Hodge,64
+19126,St. Charles,48,PARKWOOD,State House,103,LIB,Dean (Draig) Hodge,64
 19127,St. Charles,48,PARKWOOD,State House,104,DEM,Terry Lesinski,81
 19128,St. Charles,48,PARKWOOD,State House,104,REP,Kathie Conway,161
 19129,St. Charles,49,LAKES,State House,104,DEM,Terry Lesinski,164
@@ -19138,43 +19138,43 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 19137,St. Charles,51,COUNTRY HILL,State House,64,DEM,Laura K. Castaneda,124
 19138,St. Charles,51,COUNTRY HILL,State House,64,REP,Robert Cornejo,195
 19139,St. Charles,52,DISCOVERY,State House,103,REP,John D. Wiemann,326
-19140,St. Charles,52,DISCOVERY,State House,103,LIB,Dean (Draig)  Hodge,114
+19140,St. Charles,52,DISCOVERY,State House,103,LIB,Dean (Draig) Hodge,114
 19141,St. Charles,53,LAURA HILLS,State House,107,REP,Ron Hicks,628
 19142,St. Charles,54,ALL SAINTS,State House,103,REP,John D. Wiemann,346
-19143,St. Charles,54,ALL SAINTS,State House,103,LIB,Dean (Draig)  Hodge,69
+19143,St. Charles,54,ALL SAINTS,State House,103,LIB,Dean (Draig) Hodge,69
 19144,St. Charles,55,FOX,State House,103,REP,John D. Wiemann,439
-19145,St. Charles,55,FOX,State House,103,LIB,Dean (Draig)  Hodge,127
+19145,St. Charles,55,FOX,State House,103,LIB,Dean (Draig) Hodge,127
 19146,St. Charles,56,SALT LICK,State House,107,REP,Ron Hicks,446
 19147,St. Charles,57,ST. JUDE,State House,103,REP,John D. Wiemann,603
-19148,St. Charles,57,ST. JUDE,State House,103,LIB,Dean (Draig)  Hodge,142
+19148,St. Charles,57,ST. JUDE,State House,103,LIB,Dean (Draig) Hodge,142
 19149,St. Charles,58,COTTLEVILLE,State House,102,DEM,John Callahan,64
 19150,St. Charles,58,COTTLEVILLE,State House,102,REP,Kurt Bahr,150
 19151,St. Charles,58,COTTLEVILLE,State House,103,REP,John D. Wiemann,273
-19152,St. Charles,58,COTTLEVILLE,State House,103,LIB,Dean (Draig)  Hodge,82
+19152,St. Charles,58,COTTLEVILLE,State House,103,LIB,Dean (Draig) Hodge,82
 19153,St. Charles,59,WINDS,State House,107,REP,Ron Hicks,366
 19154,St. Charles,60,SUNNY HILL,State House,107,REP,Ron Hicks,504
 19155,St. Charles,61,TIMBERWOOD,State House,103,REP,John D. Wiemann,378
-19156,St. Charles,61,TIMBERWOOD,State House,103,LIB,Dean (Draig)  Hodge,90
+19156,St. Charles,61,TIMBERWOOD,State House,103,LIB,Dean (Draig) Hodge,90
 19157,St. Charles,62,GLENGATE,State House,103,REP,John D. Wiemann,148
-19158,St. Charles,62,GLENGATE,State House,103,LIB,Dean (Draig)  Hodge,76
+19158,St. Charles,62,GLENGATE,State House,103,LIB,Dean (Draig) Hodge,76
 19159,St. Charles,63,WOODGLEN,State House,102,DEM,John Callahan,142
 19160,St. Charles,63,WOODGLEN,State House,102,REP,Kurt Bahr,328
 19161,St. Charles,63,WOODGLEN,State House,103,REP,John D. Wiemann,216
-19162,St. Charles,63,WOODGLEN,State House,103,LIB,Dean (Draig)  Hodge,79
+19162,St. Charles,63,WOODGLEN,State House,103,LIB,Dean (Draig) Hodge,79
 19163,St. Charles,64,ASPEN,State House,103,REP,John D. Wiemann,337
-19164,St. Charles,64,ASPEN,State House,103,LIB,Dean (Draig)  Hodge,135
+19164,St. Charles,64,ASPEN,State House,103,LIB,Dean (Draig) Hodge,135
 19165,St. Charles,65,WHEATFIELD,State House,103,REP,John D. Wiemann,824
-19166,St. Charles,65,WHEATFIELD,State House,103,LIB,Dean (Draig)  Hodge,186
+19166,St. Charles,65,WHEATFIELD,State House,103,LIB,Dean (Draig) Hodge,186
 19167,St. Charles,66,GREEN FOREST,State House,103,REP,John D. Wiemann,174
-19168,St. Charles,66,GREEN FOREST,State House,103,LIB,Dean (Draig)  Hodge,69
+19168,St. Charles,66,GREEN FOREST,State House,103,LIB,Dean (Draig) Hodge,69
 19169,St. Charles,66,GREEN FOREST,State House,104,DEM,Terry Lesinski,217
 19170,St. Charles,66,GREEN FOREST,State House,104,REP,Kathie Conway,474
 19171,St. Charles,67,OAKS,State House,103,REP,John D. Wiemann,283
-19172,St. Charles,67,OAKS,State House,103,LIB,Dean (Draig)  Hodge,123
+19172,St. Charles,67,OAKS,State House,103,LIB,Dean (Draig) Hodge,123
 19173,St. Charles,68,PATRIOT,State House,108,DEM,Marlon Williams,172
 19174,St. Charles,68,PATRIOT,State House,108,REP,Justin S. Hill,408
 19175,St. Charles,69,HILLCREST,State House,103,REP,John D. Wiemann,539
-19176,St. Charles,69,HILLCREST,State House,103,LIB,Dean (Draig)  Hodge,165
+19176,St. Charles,69,HILLCREST,State House,103,LIB,Dean (Draig) Hodge,165
 19177,St. Charles,70,HARMONY,State House,107,REP,Ron Hicks,257
 19178,St. Charles,71,MONTBROOK,State House,107,REP,Ron Hicks,284
 19179,St. Charles,72,ELKS,State House,107,REP,Ron Hicks,783
@@ -19242,7 +19242,7 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 19241,St. Charles,98,BAYFIELD,State House,102,DEM,John Callahan,49
 19242,St. Charles,98,BAYFIELD,State House,102,REP,Kurt Bahr,69
 19243,St. Charles,98,BAYFIELD,State House,103,REP,John D. Wiemann,201
-19244,St. Charles,98,BAYFIELD,State House,103,LIB,Dean (Draig)  Hodge,61
+19244,St. Charles,98,BAYFIELD,State House,103,LIB,Dean (Draig) Hodge,61
 19245,St. Charles,99,MONTICELLO,State House,102,DEM,John Callahan,398
 19246,St. Charles,99,MONTICELLO,State House,102,REP,Kurt Bahr,762
 19247,St. Charles,100,CARRIAGE HILLS,State House,102,DEM,John Callahan,235
@@ -19258,7 +19258,7 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 19257,St. Charles,104,CANVAS COVE,State House,102,DEM,John Callahan,175
 19258,St. Charles,104,CANVAS COVE,State House,102,REP,Kurt Bahr,335
 19259,St. Charles,104,CANVAS COVE,State House,103,REP,John D. Wiemann,24
-19260,St. Charles,104,CANVAS COVE,State House,103,LIB,Dean (Draig)  Hodge,8
+19260,St. Charles,104,CANVAS COVE,State House,103,LIB,Dean (Draig) Hodge,8
 19261,St. Charles,105,BRYAN,State House,107,REP,Ron Hicks,128
 19262,St. Charles,105,BRYAN,State House,108,DEM,Marlon Williams,67
 19263,St. Charles,105,BRYAN,State House,108,REP,Justin S. Hill,132
@@ -19291,11 +19291,11 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 19290,St. Charles,115,HOPEWELL,State House,63,DEM,Bryan Pinette,175
 19291,St. Charles,115,HOPEWELL,State House,63,REP,Bryan Spencer,392
 19292,St. Charles,116,WHITMOOR,State House,103,REP,John D. Wiemann,822
-19293,St. Charles,116,WHITMOOR,State House,103,LIB,Dean (Draig)  Hodge,149
+19293,St. Charles,116,WHITMOOR,State House,103,LIB,Dean (Draig) Hodge,149
 19294,St. Charles,116,WHITMOOR,State House,70,DEM,Bill Otto,75
 19295,St. Charles,116,WHITMOOR,State House,70,REP,Joe Corica,268
 19296,St. Charles,117,SHOSHONE,State House,103,REP,John D. Wiemann,4
-19297,St. Charles,117,SHOSHONE,State House,103,LIB,Dean (Draig)  Hodge,2
+19297,St. Charles,117,SHOSHONE,State House,103,LIB,Dean (Draig) Hodge,2
 19298,St. Charles,117,SHOSHONE,State House,104,DEM,Terry Lesinski,363
 19299,St. Charles,117,SHOSHONE,State House,104,REP,Kathie Conway,664
 19300,St. Charles,118,CALLAWAY,State House,102,DEM,John Callahan,213
@@ -19303,17 +19303,17 @@ id,county,precinct_code,precinct,office,district,party,candidate,votes
 19302,St. Charles,118,CALLAWAY,State House,42,DEM,Rod Sturgeon,56
 19303,St. Charles,118,CALLAWAY,State House,42,REP,Bart Korman,192
 19304,St. Charles,119,CLAYBROOK,State House,103,REP,John D. Wiemann,338
-19305,St. Charles,119,CLAYBROOK,State House,103,LIB,Dean (Draig)  Hodge,96
+19305,St. Charles,119,CLAYBROOK,State House,103,LIB,Dean (Draig) Hodge,96
 19306,St. Charles,120,WOLFRUM,State House,102,DEM,John Callahan,24
 19307,St. Charles,120,WOLFRUM,State House,102,REP,Kurt Bahr,63
 19308,St. Charles,120,WOLFRUM,State House,103,REP,John D. Wiemann,481
-19309,St. Charles,120,WOLFRUM,State House,103,LIB,Dean (Draig)  Hodge,87
+19309,St. Charles,120,WOLFRUM,State House,103,LIB,Dean (Draig) Hodge,87
 19310,St. Charles,121,WINDCASTLE,State House,70,DEM,Bill Otto,190
 19311,St. Charles,121,WINDCASTLE,State House,70,REP,Joe Corica,446
 19312,St. Charles,122,ABSENTEE,State House,102,DEM,John Callahan,117
 19313,St. Charles,122,ABSENTEE,State House,102,REP,Kurt Bahr,263
 19314,St. Charles,122,ABSENTEE,State House,103,REP,John D. Wiemann,286
-19315,St. Charles,122,ABSENTEE,State House,103,LIB,Dean (Draig)  Hodge,54
+19315,St. Charles,122,ABSENTEE,State House,103,LIB,Dean (Draig) Hodge,54
 19316,St. Charles,122,ABSENTEE,State House,104,DEM,Terry Lesinski,104
 19317,St. Charles,122,ABSENTEE,State House,104,REP,Kathie Conway,200
 19318,St. Charles,122,ABSENTEE,State House,105,DEM,Matt Judkins,171
