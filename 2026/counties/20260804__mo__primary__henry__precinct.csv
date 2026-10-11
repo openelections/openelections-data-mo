@@ -1,0 +1,519 @@
+county,precinct,office,district,party,candidate,votes
+Henry,BEAR CREEK/DEEPWATER,State Auditor,,REP,Scott Fitzpatrick,115
+Henry,BEAR CREEK/DEEPWATER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,29
+Henry,BENSON CENTER,State Auditor,,REP,Scott Fitzpatrick,1223
+Henry,BENSON CENTER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,211
+Henry,CLINTON WARD 1,State Auditor,,REP,Scott Fitzpatrick,352
+Henry,CLINTON WARD 1,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,62
+Henry,FAIRVIEW,State Auditor,,REP,Scott Fitzpatrick,120
+Henry,FAIRVIEW,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,17
+Henry,LEESVILLE,State Auditor,,REP,Scott Fitzpatrick,205
+Henry,LEESVILLE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,45
+Henry,OSAGE,State Auditor,,REP,Scott Fitzpatrick,111
+Henry,OSAGE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,16
+Henry,SPRINGFIELD/TEBO,State Auditor,,REP,Scott Fitzpatrick,136
+Henry,SPRINGFIELD/TEBO,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Henry,URICH,State Auditor,,REP,Scott Fitzpatrick,296
+Henry,URICH,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,44
+Henry,WINDSOR,State Auditor,,REP,Scott Fitzpatrick,349
+Henry,WINDSOR,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,54
+Henry,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,470
+Henry,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,97
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,REP,Mark Alford,130
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,REP,Heather Shelton,26
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,REP,Scott Vincent Vera,8
+Henry,BENSON CENTER,U.S. House,4,REP,Mark Alford,1276
+Henry,BENSON CENTER,U.S. House,4,REP,Heather Shelton,247
+Henry,BENSON CENTER,U.S. House,4,REP,Scott Vincent Vera,78
+Henry,CLINTON WARD 1,U.S. House,4,REP,Mark Alford,353
+Henry,CLINTON WARD 1,U.S. House,4,REP,Heather Shelton,85
+Henry,CLINTON WARD 1,U.S. House,4,REP,Scott Vincent Vera,22
+Henry,FAIRVIEW,U.S. House,4,REP,Mark Alford,103
+Henry,FAIRVIEW,U.S. House,4,REP,Heather Shelton,27
+Henry,FAIRVIEW,U.S. House,4,REP,Scott Vincent Vera,10
+Henry,LEESVILLE,U.S. House,4,REP,Mark Alford,202
+Henry,LEESVILLE,U.S. House,4,REP,Heather Shelton,44
+Henry,LEESVILLE,U.S. House,4,REP,Scott Vincent Vera,21
+Henry,OSAGE,U.S. House,4,REP,Mark Alford,101
+Henry,OSAGE,U.S. House,4,REP,Heather Shelton,18
+Henry,OSAGE,U.S. House,4,REP,Scott Vincent Vera,13
+Henry,SPRINGFIELD/TEBO,U.S. House,4,REP,Mark Alford,131
+Henry,SPRINGFIELD/TEBO,U.S. House,4,REP,Heather Shelton,33
+Henry,SPRINGFIELD/TEBO,U.S. House,4,REP,Scott Vincent Vera,11
+Henry,URICH,U.S. House,4,REP,Mark Alford,317
+Henry,URICH,U.S. House,4,REP,Heather Shelton,48
+Henry,URICH,U.S. House,4,REP,Scott Vincent Vera,18
+Henry,WINDSOR,U.S. House,4,REP,Mark Alford,356
+Henry,WINDSOR,U.S. House,4,REP,Heather Shelton,66
+Henry,WINDSOR,U.S. House,4,REP,Scott Vincent Vera,20
+Henry,ABSENTEE,U.S. House,4,REP,Mark Alford,484
+Henry,ABSENTEE,U.S. House,4,REP,Heather Shelton,116
+Henry,ABSENTEE,U.S. House,4,REP,Scott Vincent Vera,33
+Henry,BEAR CREEK/DEEPWATER,State Senate,28,REP,Sam Alexander,89
+Henry,BEAR CREEK/DEEPWATER,State Senate,28,REP,Brad Pollitt,41
+Henry,BEAR CREEK/DEEPWATER,State Senate,28,REP,Chuck Lentz,26
+Henry,BENSON CENTER,State Senate,28,REP,Sam Alexander,841
+Henry,BENSON CENTER,State Senate,28,REP,Brad Pollitt,555
+Henry,BENSON CENTER,State Senate,28,REP,Chuck Lentz,180
+Henry,CLINTON WARD 1,State Senate,28,REP,Sam Alexander,225
+Henry,CLINTON WARD 1,State Senate,28,REP,Brad Pollitt,170
+Henry,CLINTON WARD 1,State Senate,28,REP,Chuck Lentz,55
+Henry,FAIRVIEW,State Senate,28,REP,Sam Alexander,74
+Henry,FAIRVIEW,State Senate,28,REP,Brad Pollitt,40
+Henry,FAIRVIEW,State Senate,28,REP,Chuck Lentz,28
+Henry,LEESVILLE,State Senate,28,REP,Sam Alexander,170
+Henry,LEESVILLE,State Senate,28,REP,Brad Pollitt,65
+Henry,LEESVILLE,State Senate,28,REP,Chuck Lentz,30
+Henry,OSAGE,State Senate,28,REP,Sam Alexander,70
+Henry,OSAGE,State Senate,28,REP,Brad Pollitt,52
+Henry,OSAGE,State Senate,28,REP,Chuck Lentz,10
+Henry,SPRINGFIELD/TEBO,State Senate,28,REP,Sam Alexander,106
+Henry,SPRINGFIELD/TEBO,State Senate,28,REP,Brad Pollitt,46
+Henry,SPRINGFIELD/TEBO,State Senate,28,REP,Chuck Lentz,26
+Henry,URICH,State Senate,28,REP,Sam Alexander,222
+Henry,URICH,State Senate,28,REP,Brad Pollitt,111
+Henry,URICH,State Senate,28,REP,Chuck Lentz,34
+Henry,WINDSOR,State Senate,28,REP,Sam Alexander,241
+Henry,WINDSOR,State Senate,28,REP,Brad Pollitt,169
+Henry,WINDSOR,State Senate,28,REP,Chuck Lentz,41
+Henry,ABSENTEE,State Senate,28,REP,Sam Alexander,302
+Henry,ABSENTEE,State Senate,28,REP,Brad Pollitt,251
+Henry,ABSENTEE,State Senate,28,REP,Chuck Lentz,71
+Henry,BEAR CREEK/DEEPWATER,State House,126,REP,Jim Kalberloh,140
+Henry,BENSON CENTER,State House,126,REP,Jim Kalberloh,1421
+Henry,CLINTON WARD 1,State House,126,REP,Jim Kalberloh,426
+Henry,FAIRVIEW,State House,126,REP,Jim Kalberloh,128
+Henry,LEESVILLE,State House,126,REP,Jim Kalberloh,224
+Henry,OSAGE,State House,126,REP,Jim Kalberloh,126
+Henry,SPRINGFIELD/TEBO,State House,126,REP,Jim Kalberloh,170
+Henry,URICH,State House,126,REP,Jim Kalberloh,310
+Henry,WINDSOR,State House,126,REP,Jim Kalberloh,380
+Henry,ABSENTEE,State House,126,REP,Jim Kalberloh,544
+Henry,BEAR CREEK/DEEPWATER,Associate Circuit Judge,,REP,Harold L. Dump,133
+Henry,BENSON CENTER,Associate Circuit Judge,,REP,Harold L. Dump,1401
+Henry,CLINTON WARD 1,Associate Circuit Judge,,REP,Harold L. Dump,416
+Henry,FAIRVIEW,Associate Circuit Judge,,REP,Harold L. Dump,123
+Henry,LEESVILLE,Associate Circuit Judge,,REP,Harold L. Dump,230
+Henry,OSAGE,Associate Circuit Judge,,REP,Harold L. Dump,113
+Henry,SPRINGFIELD/TEBO,Associate Circuit Judge,,REP,Harold L. Dump,170
+Henry,URICH,Associate Circuit Judge,,REP,Harold L. Dump,302
+Henry,WINDSOR,Associate Circuit Judge,,REP,Harold L. Dump,394
+Henry,ABSENTEE,Associate Circuit Judge,,REP,Harold L. Dump,557
+Henry,BEAR CREEK/DEEPWATER,Presiding Commissioner,,REP,Michael Rosiere,95
+Henry,BEAR CREEK/DEEPWATER,Presiding Commissioner,,REP,Daniel P. Wilson,55
+Henry,BEAR CREEK/DEEPWATER,Presiding Commissioner,,REP,Miles Wirsig,16
+Henry,BENSON CENTER,Presiding Commissioner,,REP,Michael Rosiere,662
+Henry,BENSON CENTER,Presiding Commissioner,,REP,Daniel P. Wilson,919
+Henry,BENSON CENTER,Presiding Commissioner,,REP,Miles Wirsig,75
+Henry,CLINTON WARD 1,Presiding Commissioner,,REP,Michael Rosiere,167
+Henry,CLINTON WARD 1,Presiding Commissioner,,REP,Daniel P. Wilson,295
+Henry,CLINTON WARD 1,Presiding Commissioner,,REP,Miles Wirsig,25
+Henry,FAIRVIEW,Presiding Commissioner,,REP,Michael Rosiere,66
+Henry,FAIRVIEW,Presiding Commissioner,,REP,Daniel P. Wilson,51
+Henry,FAIRVIEW,Presiding Commissioner,,REP,Miles Wirsig,30
+Henry,LEESVILLE,Presiding Commissioner,,REP,Michael Rosiere,171
+Henry,LEESVILLE,Presiding Commissioner,,REP,Daniel P. Wilson,92
+Henry,LEESVILLE,Presiding Commissioner,,REP,Miles Wirsig,13
+Henry,OSAGE,Presiding Commissioner,,REP,Michael Rosiere,73
+Henry,OSAGE,Presiding Commissioner,,REP,Daniel P. Wilson,40
+Henry,OSAGE,Presiding Commissioner,,REP,Miles Wirsig,21
+Henry,SPRINGFIELD/TEBO,Presiding Commissioner,,REP,Michael Rosiere,88
+Henry,SPRINGFIELD/TEBO,Presiding Commissioner,,REP,Daniel P. Wilson,86
+Henry,SPRINGFIELD/TEBO,Presiding Commissioner,,REP,Miles Wirsig,14
+Henry,URICH,Presiding Commissioner,,REP,Michael Rosiere,225
+Henry,URICH,Presiding Commissioner,,REP,Daniel P. Wilson,130
+Henry,URICH,Presiding Commissioner,,REP,Miles Wirsig,25
+Henry,WINDSOR,Presiding Commissioner,,REP,Michael Rosiere,241
+Henry,WINDSOR,Presiding Commissioner,,REP,Daniel P. Wilson,197
+Henry,WINDSOR,Presiding Commissioner,,REP,Miles Wirsig,17
+Henry,ABSENTEE,Presiding Commissioner,,REP,Michael Rosiere,243
+Henry,ABSENTEE,Presiding Commissioner,,REP,Daniel P. Wilson,402
+Henry,ABSENTEE,Presiding Commissioner,,REP,Miles Wirsig,34
+Henry,BEAR CREEK/DEEPWATER,County Clerk,,REP,Kelly Marriott,144
+Henry,BENSON CENTER,County Clerk,,REP,Kelly Marriott,1417
+Henry,CLINTON WARD 1,County Clerk,,REP,Kelly Marriott,413
+Henry,FAIRVIEW,County Clerk,,REP,Kelly Marriott,126
+Henry,LEESVILLE,County Clerk,,REP,Kelly Marriott,240
+Henry,OSAGE,County Clerk,,REP,Kelly Marriott,115
+Henry,SPRINGFIELD/TEBO,County Clerk,,REP,Kelly Marriott,171
+Henry,URICH,County Clerk,,REP,Kelly Marriott,321
+Henry,WINDSOR,County Clerk,,REP,Kelly Marriott,391
+Henry,ABSENTEE,County Clerk,,REP,Kelly Marriott,581
+Henry,BEAR CREEK/DEEPWATER,Circuit Clerk,,REP,Wendi McGhee,140
+Henry,BENSON CENTER,Circuit Clerk,,REP,Wendi McGhee,1407
+Henry,CLINTON WARD 1,Circuit Clerk,,REP,Wendi McGhee,422
+Henry,FAIRVIEW,Circuit Clerk,,REP,Wendi McGhee,124
+Henry,LEESVILLE,Circuit Clerk,,REP,Wendi McGhee,235
+Henry,OSAGE,Circuit Clerk,,REP,Wendi McGhee,118
+Henry,SPRINGFIELD/TEBO,Circuit Clerk,,REP,Wendi McGhee,170
+Henry,URICH,Circuit Clerk,,REP,Wendi McGhee,318
+Henry,WINDSOR,Circuit Clerk,,REP,Wendi McGhee,380
+Henry,ABSENTEE,Circuit Clerk,,REP,Wendi McGhee,569
+Henry,BEAR CREEK/DEEPWATER,Recorder of Deeds,,REP,Gail A. Perrymann,142
+Henry,BENSON CENTER,Recorder of Deeds,,REP,Gail A. Perrymann,1415
+Henry,CLINTON WARD 1,Recorder of Deeds,,REP,Gail A. Perrymann,419
+Henry,FAIRVIEW,Recorder of Deeds,,REP,Gail A. Perrymann,123
+Henry,LEESVILLE,Recorder of Deeds,,REP,Gail A. Perrymann,234
+Henry,OSAGE,Recorder of Deeds,,REP,Gail A. Perrymann,121
+Henry,SPRINGFIELD/TEBO,Recorder of Deeds,,REP,Gail A. Perrymann,169
+Henry,URICH,Recorder of Deeds,,REP,Gail A. Perrymann,327
+Henry,WINDSOR,Recorder of Deeds,,REP,Gail A. Perrymann,383
+Henry,ABSENTEE,Recorder of Deeds,,REP,Gail A. Perrymann,557
+Henry,BEAR CREEK/DEEPWATER,State Auditor,,DEM,Quentin Wilson,18
+Henry,BEAR CREEK/DEEPWATER,State Auditor,,DEM,Gregory Upchurch,5
+Henry,BENSON CENTER,State Auditor,,DEM,Quentin Wilson,200
+Henry,BENSON CENTER,State Auditor,,DEM,Gregory Upchurch,80
+Henry,CLINTON WARD 1,State Auditor,,DEM,Quentin Wilson,66
+Henry,CLINTON WARD 1,State Auditor,,DEM,Gregory Upchurch,28
+Henry,FAIRVIEW,State Auditor,,DEM,Quentin Wilson,18
+Henry,FAIRVIEW,State Auditor,,DEM,Gregory Upchurch,9
+Henry,LEESVILLE,State Auditor,,DEM,Quentin Wilson,21
+Henry,LEESVILLE,State Auditor,,DEM,Gregory Upchurch,12
+Henry,OSAGE,State Auditor,,DEM,Quentin Wilson,26
+Henry,OSAGE,State Auditor,,DEM,Gregory Upchurch,6
+Henry,SPRINGFIELD/TEBO,State Auditor,,DEM,Quentin Wilson,11
+Henry,SPRINGFIELD/TEBO,State Auditor,,DEM,Gregory Upchurch,6
+Henry,URICH,State Auditor,,DEM,Quentin Wilson,46
+Henry,URICH,State Auditor,,DEM,Gregory Upchurch,23
+Henry,WINDSOR,State Auditor,,DEM,Quentin Wilson,50
+Henry,WINDSOR,State Auditor,,DEM,Gregory Upchurch,18
+Henry,ABSENTEE,State Auditor,,DEM,Quentin Wilson,81
+Henry,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,29
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,DEM,Jordan Herrera,5
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,DEM,Wayne Russell,3
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,DEM,Hartzell Gray 3rd,2
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,DEM,G Rick,0
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,DEM,Jeanette Cass,6
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,DEM,Ashleigh Rogers,4
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,DEM,Randy Miller,2
+Henry,BENSON CENTER,U.S. House,4,DEM,Jordan Herrera,64
+Henry,BENSON CENTER,U.S. House,4,DEM,Wayne Russell,25
+Henry,BENSON CENTER,U.S. House,4,DEM,Hartzell Gray 3rd,41
+Henry,BENSON CENTER,U.S. House,4,DEM,G Rick,5
+Henry,BENSON CENTER,U.S. House,4,DEM,Jeanette Cass,70
+Henry,BENSON CENTER,U.S. House,4,DEM,Ashleigh Rogers,50
+Henry,BENSON CENTER,U.S. House,4,DEM,Randy Miller,33
+Henry,CLINTON WARD 1,U.S. House,4,DEM,Jordan Herrera,23
+Henry,CLINTON WARD 1,U.S. House,4,DEM,Wayne Russell,9
+Henry,CLINTON WARD 1,U.S. House,4,DEM,Hartzell Gray 3rd,6
+Henry,CLINTON WARD 1,U.S. House,4,DEM,G Rick,1
+Henry,CLINTON WARD 1,U.S. House,4,DEM,Jeanette Cass,23
+Henry,CLINTON WARD 1,U.S. House,4,DEM,Ashleigh Rogers,22
+Henry,CLINTON WARD 1,U.S. House,4,DEM,Randy Miller,10
+Henry,FAIRVIEW,U.S. House,4,DEM,Jordan Herrera,3
+Henry,FAIRVIEW,U.S. House,4,DEM,Wayne Russell,2
+Henry,FAIRVIEW,U.S. House,4,DEM,Hartzell Gray 3rd,0
+Henry,FAIRVIEW,U.S. House,4,DEM,G Rick,0
+Henry,FAIRVIEW,U.S. House,4,DEM,Jeanette Cass,6
+Henry,FAIRVIEW,U.S. House,4,DEM,Ashleigh Rogers,9
+Henry,FAIRVIEW,U.S. House,4,DEM,Randy Miller,7
+Henry,LEESVILLE,U.S. House,4,DEM,Jordan Herrera,6
+Henry,LEESVILLE,U.S. House,4,DEM,Wayne Russell,4
+Henry,LEESVILLE,U.S. House,4,DEM,Hartzell Gray 3rd,5
+Henry,LEESVILLE,U.S. House,4,DEM,G Rick,1
+Henry,LEESVILLE,U.S. House,4,DEM,Jeanette Cass,8
+Henry,LEESVILLE,U.S. House,4,DEM,Ashleigh Rogers,3
+Henry,LEESVILLE,U.S. House,4,DEM,Randy Miller,5
+Henry,OSAGE,U.S. House,4,DEM,Jordan Herrera,9
+Henry,OSAGE,U.S. House,4,DEM,Wayne Russell,5
+Henry,OSAGE,U.S. House,4,DEM,Hartzell Gray 3rd,0
+Henry,OSAGE,U.S. House,4,DEM,G Rick,0
+Henry,OSAGE,U.S. House,4,DEM,Jeanette Cass,12
+Henry,OSAGE,U.S. House,4,DEM,Ashleigh Rogers,5
+Henry,OSAGE,U.S. House,4,DEM,Randy Miller,2
+Henry,SPRINGFIELD/TEBO,U.S. House,4,DEM,Jordan Herrera,7
+Henry,SPRINGFIELD/TEBO,U.S. House,4,DEM,Wayne Russell,0
+Henry,SPRINGFIELD/TEBO,U.S. House,4,DEM,Hartzell Gray 3rd,2
+Henry,SPRINGFIELD/TEBO,U.S. House,4,DEM,G Rick,2
+Henry,SPRINGFIELD/TEBO,U.S. House,4,DEM,Jeanette Cass,3
+Henry,SPRINGFIELD/TEBO,U.S. House,4,DEM,Ashleigh Rogers,2
+Henry,SPRINGFIELD/TEBO,U.S. House,4,DEM,Randy Miller,2
+Henry,URICH,U.S. House,4,DEM,Jordan Herrera,23
+Henry,URICH,U.S. House,4,DEM,Wayne Russell,5
+Henry,URICH,U.S. House,4,DEM,Hartzell Gray 3rd,11
+Henry,URICH,U.S. House,4,DEM,G Rick,0
+Henry,URICH,U.S. House,4,DEM,Jeanette Cass,14
+Henry,URICH,U.S. House,4,DEM,Ashleigh Rogers,9
+Henry,URICH,U.S. House,4,DEM,Randy Miller,10
+Henry,WINDSOR,U.S. House,4,DEM,Jordan Herrera,20
+Henry,WINDSOR,U.S. House,4,DEM,Wayne Russell,6
+Henry,WINDSOR,U.S. House,4,DEM,Hartzell Gray 3rd,10
+Henry,WINDSOR,U.S. House,4,DEM,G Rick,1
+Henry,WINDSOR,U.S. House,4,DEM,Jeanette Cass,15
+Henry,WINDSOR,U.S. House,4,DEM,Ashleigh Rogers,11
+Henry,WINDSOR,U.S. House,4,DEM,Randy Miller,9
+Henry,ABSENTEE,U.S. House,4,DEM,Jordan Herrera,31
+Henry,ABSENTEE,U.S. House,4,DEM,Wayne Russell,2
+Henry,ABSENTEE,U.S. House,4,DEM,Hartzell Gray 3rd,21
+Henry,ABSENTEE,U.S. House,4,DEM,G Rick,3
+Henry,ABSENTEE,U.S. House,4,DEM,Jeanette Cass,22
+Henry,ABSENTEE,U.S. House,4,DEM,Ashleigh Rogers,23
+Henry,ABSENTEE,U.S. House,4,DEM,Randy Miller,14
+Henry,BEAR CREEK/DEEPWATER,State Senate,28,DEM,Mike McCaffree,24
+Henry,BENSON CENTER,State Senate,28,DEM,Mike McCaffree,276
+Henry,CLINTON WARD 1,State Senate,28,DEM,Mike McCaffree,94
+Henry,FAIRVIEW,State Senate,28,DEM,Mike McCaffree,25
+Henry,LEESVILLE,State Senate,28,DEM,Mike McCaffree,32
+Henry,OSAGE,State Senate,28,DEM,Mike McCaffree,32
+Henry,SPRINGFIELD/TEBO,State Senate,28,DEM,Mike McCaffree,18
+Henry,URICH,State Senate,28,DEM,Mike McCaffree,68
+Henry,WINDSOR,State Senate,28,DEM,Mike McCaffree,74
+Henry,ABSENTEE,State Senate,28,DEM,Mike McCaffree,118
+Henry,BEAR CREEK/DEEPWATER,State House,126,DEM,Melissa Perry,26
+Henry,BENSON CENTER,State House,126,DEM,Melissa Perry,282
+Henry,CLINTON WARD 1,State House,126,DEM,Melissa Perry,95
+Henry,FAIRVIEW,State House,126,DEM,Melissa Perry,24
+Henry,LEESVILLE,State House,126,DEM,Melissa Perry,30
+Henry,OSAGE,State House,126,DEM,Melissa Perry,32
+Henry,SPRINGFIELD/TEBO,State House,126,DEM,Melissa Perry,17
+Henry,URICH,State House,126,DEM,Melissa Perry,68
+Henry,WINDSOR,State House,126,DEM,Melissa Perry,74
+Henry,ABSENTEE,State House,126,DEM,Melissa Perry,118
+Henry,BEAR CREEK/DEEPWATER,Presiding Commissioner,,DEM,Shannon Hills,24
+Henry,BENSON CENTER,Presiding Commissioner,,DEM,Shannon Hills,279
+Henry,CLINTON WARD 1,Presiding Commissioner,,DEM,Shannon Hills,94
+Henry,FAIRVIEW,Presiding Commissioner,,DEM,Shannon Hills,24
+Henry,LEESVILLE,Presiding Commissioner,,DEM,Shannon Hills,29
+Henry,OSAGE,Presiding Commissioner,,DEM,Shannon Hills,32
+Henry,SPRINGFIELD/TEBO,Presiding Commissioner,,DEM,Shannon Hills,15
+Henry,URICH,Presiding Commissioner,,DEM,Shannon Hills,67
+Henry,WINDSOR,Presiding Commissioner,,DEM,Shannon Hills,76
+Henry,ABSENTEE,Presiding Commissioner,,DEM,Shannon Hills,122
+Henry,BEAR CREEK/DEEPWATER,Prosecuting Attorney,,DEM,Fred R. Bunch,24
+Henry,BENSON CENTER,Prosecuting Attorney,,DEM,Fred R. Bunch,265
+Henry,CLINTON WARD 1,Prosecuting Attorney,,DEM,Fred R. Bunch,95
+Henry,FAIRVIEW,Prosecuting Attorney,,DEM,Fred R. Bunch,24
+Henry,LEESVILLE,Prosecuting Attorney,,DEM,Fred R. Bunch,28
+Henry,OSAGE,Prosecuting Attorney,,DEM,Fred R. Bunch,31
+Henry,SPRINGFIELD/TEBO,Prosecuting Attorney,,DEM,Fred R. Bunch,15
+Henry,URICH,Prosecuting Attorney,,DEM,Fred R. Bunch,68
+Henry,WINDSOR,Prosecuting Attorney,,DEM,Fred R. Bunch,74
+Henry,ABSENTEE,Prosecuting Attorney,,DEM,Fred R. Bunch,111
+Henry,BEAR CREEK/DEEPWATER,State Auditor,,LIB,Dustin Coffell,0
+Henry,BENSON CENTER,State Auditor,,LIB,Dustin Coffell,4
+Henry,CLINTON WARD 1,State Auditor,,LIB,Dustin Coffell,2
+Henry,FAIRVIEW,State Auditor,,LIB,Dustin Coffell,3
+Henry,LEESVILLE,State Auditor,,LIB,Dustin Coffell,0
+Henry,OSAGE,State Auditor,,LIB,Dustin Coffell,1
+Henry,SPRINGFIELD/TEBO,State Auditor,,LIB,Dustin Coffell,0
+Henry,URICH,State Auditor,,LIB,Dustin Coffell,2
+Henry,WINDSOR,State Auditor,,LIB,Dustin Coffell,3
+Henry,ABSENTEE,State Auditor,,LIB,Dustin Coffell,1
+Henry,BEAR CREEK/DEEPWATER,U.S. House,4,LIB,Thomas Holbrook,0
+Henry,BENSON CENTER,U.S. House,4,LIB,Thomas Holbrook,4
+Henry,CLINTON WARD 1,U.S. House,4,LIB,Thomas Holbrook,2
+Henry,FAIRVIEW,U.S. House,4,LIB,Thomas Holbrook,2
+Henry,LEESVILLE,U.S. House,4,LIB,Thomas Holbrook,0
+Henry,OSAGE,U.S. House,4,LIB,Thomas Holbrook,1
+Henry,SPRINGFIELD/TEBO,U.S. House,4,LIB,Thomas Holbrook,0
+Henry,URICH,U.S. House,4,LIB,Thomas Holbrook,2
+Henry,WINDSOR,U.S. House,4,LIB,Thomas Holbrook,3
+Henry,ABSENTEE,U.S. House,4,LIB,Thomas Holbrook,1
+Henry,BEAR CREEK/DEEPWATER,Bear Creek Township Committeewoman,,REP,Marilyn Nold,10
+Henry,BEAR CREEK/DEEPWATER,Bear Creek Township Committeewoman,,REP,Michelle Henzlik,31
+Henry,ABSENTEE,Bear Creek Township Committeewoman,,REP,Marilyn Nold,0
+Henry,ABSENTEE,Bear Creek Township Committeewoman,,REP,Michelle Henzlik,4
+Henry,BEAR CREEK/DEEPWATER,Bear Creek Township Committeeman,,REP,Paul Nold,9
+Henry,BEAR CREEK/DEEPWATER,Bear Creek Township Committeeman,,REP,Michael Henzlik,32
+Henry,ABSENTEE,Bear Creek Township Committeeman,,REP,Paul Nold,0
+Henry,ABSENTEE,Bear Creek Township Committeeman,,REP,Michael Henzlik,4
+Henry,BENSON CENTER,Bethlehem Township Committeewoman,,REP,Whitney Liller,89
+Henry,BENSON CENTER,Bethlehem Township Committeewoman,,REP,Virginia Irene Mann,51
+Henry,ABSENTEE,Bethlehem Township Committeewoman,,REP,Whitney Liller,19
+Henry,ABSENTEE,Bethlehem Township Committeewoman,,REP,Virginia Irene Mann,12
+Henry,BENSON CENTER,Bethlehem Township Committeeman,,REP,Dale Lawler,87
+Henry,BENSON CENTER,Bethlehem Township Committeeman,,REP,Thomas M. Mann,63
+Henry,ABSENTEE,Bethlehem Township Committeeman,,REP,Dale Lawler,26
+Henry,ABSENTEE,Bethlehem Township Committeeman,,REP,Thomas M. Mann,8
+Henry,URICH,Big Creek Township Committeewoman,,REP,Angela Galloway,23
+Henry,URICH,Big Creek Township Committeewoman,,REP,Rhonda Glaspy,27
+Henry,ABSENTEE,Big Creek Township Committeewoman,,REP,Angela Galloway,1
+Henry,ABSENTEE,Big Creek Township Committeewoman,,REP,Rhonda Glaspy,6
+Henry,URICH,Big Creek Township Committeeman,,REP,William Galloway,19
+Henry,URICH,Big Creek Township Committeeman,,REP,Michael Glaspy,32
+Henry,ABSENTEE,Big Creek Township Committeeman,,REP,William Galloway,1
+Henry,ABSENTEE,Big Creek Township Committeeman,,REP,Michael Glaspy,6
+Henry,URICH,Bogard Township Commiteewoman,,REP,Marta Stoneking,89
+Henry,URICH,Bogard Township Commiteewoman,,REP,Charlene Orr,43
+Henry,ABSENTEE,Bogard Township Commiteewoman,,REP,Marta Stoneking,5
+Henry,ABSENTEE,Bogard Township Commiteewoman,,REP,Charlene Orr,0
+Henry,BENSON CENTER,Clinton Township Commiteewoman,,REP,Rachel A. Wilson,545
+Henry,BENSON CENTER,Clinton Township Commiteewoman,,REP,Tracy Coffey,268
+Henry,CLINTON WARD 1,Clinton Township Commiteewoman,,REP,Rachel A. Wilson,292
+Henry,CLINTON WARD 1,Clinton Township Commiteewoman,,REP,Tracy Coffey,157
+Henry,ABSENTEE,Clinton Township Commiteewoman,,REP,Rachel A. Wilson,213
+Henry,ABSENTEE,Clinton Township Commiteewoman,,REP,Tracy Coffey,89
+Henry,BENSON CENTER,Clinton Township Commiteeman,,REP,Daniel P. Wilson,556
+Henry,BENSON CENTER,Clinton Township Commiteeman,,REP,Gavin Lowe,288
+Henry,CLINTON WARD 1,Clinton Township Commiteeman,,REP,Daniel P. Wilson,321
+Henry,CLINTON WARD 1,Clinton Township Commiteeman,,REP,Gavin Lowe,144
+Henry,ABSENTEE,Clinton Township Commiteeman,,REP,Daniel P. Wilson,217
+Henry,ABSENTEE,Clinton Township Commiteeman,,REP,Gavin Lowe,102
+Henry,CLINTON WARD 1,Clinton Ward 1 Township Committeeman,,REP,James Kent Oberkrom,318
+Henry,CLINTON WARD 1,Clinton Ward 1 Township Committeeman,,REP,Bruce W. Dewsberry,67
+Henry,ABSENTEE,Clinton Ward 1 Township Committeeman,,REP,James Kent Oberkrom,62
+Henry,ABSENTEE,Clinton Ward 1 Township Committeeman,,REP,Bruce W. Dewsberry,19
+Henry,BENSON CENTER,Clinton Ward 2 Township Committeeman,,REP,Jeffery Scott Brooks,205
+Henry,BENSON CENTER,Clinton Ward 2 Township Committeeman,,REP,Michael Town,118
+Henry,ABSENTEE,Clinton Ward 2 Township Committeeman,,REP,Jeffery Scott Brooks,46
+Henry,ABSENTEE,Clinton Ward 2 Township Committeeman,,REP,Michael Town,23
+Henry,BENSON CENTER,Clinton Ward 4 Township Commiteewoman,,REP,Abigayle Wagoner,121
+Henry,BENSON CENTER,Clinton Ward 4 Township Commiteewoman,,REP,Teresa Phares,68
+Henry,ABSENTEE,Clinton Ward 4 Township Commiteewoman,,REP,Abigayle Wagoner,18
+Henry,ABSENTEE,Clinton Ward 4 Township Commiteewoman,,REP,Teresa Phares,6
+Henry,BENSON CENTER,Clinton Ward 4 Township Commiteeman,,REP,Brandon Wagoner,128
+Henry,BENSON CENTER,Clinton Ward 4 Township Commiteeman,,REP,Chuck Phares,61
+Henry,ABSENTEE,Clinton Ward 4 Township Commiteeman,,REP,Brandon Wagoner,19
+Henry,ABSENTEE,Clinton Ward 4 Township Commiteeman,,REP,Chuck Phares,4
+Henry,BENSON CENTER,Davis Township Commiteewoman,,REP,Beth Wilson,17
+Henry,BENSON CENTER,Davis Township Commiteewoman,,REP,Cassie Cook,40
+Henry,ABSENTEE,Davis Township Commiteewoman,,REP,Beth Wilson,14
+Henry,ABSENTEE,Davis Township Commiteewoman,,REP,Cassie Cook,11
+Henry,BENSON CENTER,Davis Township Commiteeman,,REP,Troy Wilson,16
+Henry,BENSON CENTER,Davis Township Commiteeman,,REP,Kenneth Vaughn,41
+Henry,ABSENTEE,Davis Township Commiteeman,,REP,Troy Wilson,13
+Henry,ABSENTEE,Davis Township Commiteeman,,REP,Kenneth Vaughn,11
+Henry,FAIRVIEW,Fairview Township Commiteeman,,REP,Chris Wirsig,105
+Henry,FAIRVIEW,Fairview Township Commiteeman,,REP,David Scott Bayless,37
+Henry,ABSENTEE,Fairview Township Commiteeman,,REP,Chris Wirsig,4
+Henry,ABSENTEE,Fairview Township Commiteeman,,REP,David Scott Bayless,5
+Henry,BENSON CENTER,Fields Creek Township Commiteewoman,,REP,Allison Millam,132
+Henry,BENSON CENTER,Fields Creek Township Commiteewoman,,REP,Barbara Schumacher,160
+Henry,ABSENTEE,Fields Creek Township Commiteewoman,,REP,Allison Millam,31
+Henry,ABSENTEE,Fields Creek Township Commiteewoman,,REP,Barbara Schumacher,18
+Henry,BENSON CENTER,Fields Creek Township Commiteeman,,REP,Rick Watson,176
+Henry,BENSON CENTER,Fields Creek Township Commiteeman,,REP,Elroy Schumacher,120
+Henry,ABSENTEE,Fields Creek Township Commiteeman,,REP,Rick Watson,39
+Henry,ABSENTEE,Fields Creek Township Commiteeman,,REP,Elroy Schumacher,14
+Henry,LEESVILLE,Leesville Township Committeewoman,,REP,Suzanne Gearhart,79
+Henry,LEESVILLE,Leesville Township Committeewoman,,REP,Louise Houk,185
+Henry,ABSENTEE,Leesville Township Committeewoman,,REP,Suzanne Gearhart,9
+Henry,ABSENTEE,Leesville Township Committeewoman,,REP,Louise Houk,13
+Henry,LEESVILLE,Leesville Township Committeeman,,REP,David Nichols,130
+Henry,LEESVILLE,Leesville Township Committeeman,,REP,Michael David Rosiere,148
+Henry,ABSENTEE,Leesville Township Committeeman,,REP,David Nichols,9
+Henry,ABSENTEE,Leesville Township Committeeman,,REP,Michael David Rosiere,14
+Henry,OSAGE,Osage Township Committeewoman,,REP,Dawn Houk,65
+Henry,OSAGE,Osage Township Committeewoman,,REP,Shirley Rucker,74
+Henry,ABSENTEE,Osage Township Committeewoman,,REP,Dawn Houk,13
+Henry,ABSENTEE,Osage Township Committeewoman,,REP,Shirley Rucker,4
+Henry,OSAGE,Osage Township Committeeman,,REP,Bill Houk,64
+Henry,OSAGE,Osage Township Committeeman,,REP,Mark Rucker,75
+Henry,ABSENTEE,Osage Township Committeeman,,REP,Bill Houk,12
+Henry,ABSENTEE,Osage Township Committeeman,,REP,Mark Rucker,5
+Henry,BENSON CENTER,Shawnee Township Committeeman,,REP,Dain Sisk,49
+Henry,BENSON CENTER,Shawnee Township Committeeman,,REP,Josiah Town,21
+Henry,ABSENTEE,Shawnee Township Committeeman,,REP,Dain Sisk,22
+Henry,ABSENTEE,Shawnee Township Committeeman,,REP,Josiah Town,4
+Henry,SPRINGFIELD/TEBO,Springfield Township Committeewoman,,REP,Kacy Goldsmith,28
+Henry,SPRINGFIELD/TEBO,Springfield Township Committeewoman,,REP,Ashley Larson,45
+Henry,ABSENTEE,Springfield Township Committeewoman,,REP,Kacy Goldsmith,5
+Henry,ABSENTEE,Springfield Township Committeewoman,,REP,Ashley Larson,2
+Henry,SPRINGFIELD/TEBO,Springfield Township Committeeman,,REP,Chace Larson,40
+Henry,SPRINGFIELD/TEBO,Springfield Township Committeeman,,REP,Richard Snider,34
+Henry,ABSENTEE,Springfield Township Committeeman,,REP,Chace Larson,5
+Henry,ABSENTEE,Springfield Township Committeeman,,REP,Richard Snider,2
+Henry,SPRINGFIELD/TEBO,Tebo Township Committeeman,,REP,Bradley L. Morgoan,43
+Henry,SPRINGFIELD/TEBO,Tebo Township Committeeman,,REP,William R. Wilson,53
+Henry,ABSENTEE,Tebo Township Committeeman,,REP,Bradley L. Morgoan,10
+Henry,ABSENTEE,Tebo Township Committeeman,,REP,William R. Wilson,11
+Henry,URICH,Walker Township Committeewoman,,REP,Amy Green Nold,25
+Henry,URICH,Walker Township Committeewoman,,REP,Eileen Parks,51
+Henry,ABSENTEE,Walker Township Committeewoman,,REP,Amy Green Nold,6
+Henry,ABSENTEE,Walker Township Committeewoman,,REP,Eileen Parks,13
+Henry,URICH,Walker Township Committeeman,,REP,Jeffrey Nold,22
+Henry,URICH,Walker Township Committeeman,,REP,Greg A. Westhusing,51
+Henry,ABSENTEE,Walker Township Committeeman,,REP,Jeffrey Nold,4
+Henry,ABSENTEE,Walker Township Committeeman,,REP,Greg A. Westhusing,14
+Henry,WINDSOR,Windsor Township Committeewoman,,REP,Diane Fosnow,296
+Henry,WINDSOR,Windsor Township Committeewoman,,REP,Wendy Larson,157
+Henry,ABSENTEE,Windsor Township Committeewoman,,REP,Diane Fosnow,12
+Henry,ABSENTEE,Windsor Township Committeewoman,,REP,Wendy Larson,8
+Henry,WINDSOR,Windsor Township Committeeman,,REP,Rick Fosnow,300
+Henry,WINDSOR,Windsor Township Committeeman,,REP,Mark Larson,156
+Henry,ABSENTEE,Windsor Township Committeeman,,REP,Rick Fosnow,12
+Henry,ABSENTEE,Windsor Township Committeeman,,REP,Mark Larson,9
+Henry,OSAGE,Osage Township Committeewoman,,DEM,Karen G. Crowder,23
+Henry,OSAGE,Osage Township Committeewoman,,DEM,Denise Haas,8
+Henry,ABSENTEE,Osage Township Committeewoman,,DEM,Karen G. Crowder,5
+Henry,ABSENTEE,Osage Township Committeewoman,,DEM,Denise Haas,1
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 1,,,Yes,169
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 1,,,No,40
+Henry,BENSON CENTER,Constitutional Amendment 1,,,Yes,1626
+Henry,BENSON CENTER,Constitutional Amendment 1,,,No,438
+Henry,CLINTON WARD 1,Constitutional Amendment 1,,,Yes,497
+Henry,CLINTON WARD 1,Constitutional Amendment 1,,,No,130
+Henry,FAIRVIEW,Constitutional Amendment 1,,,Yes,144
+Henry,FAIRVIEW,Constitutional Amendment 1,,,No,41
+Henry,LEESVILLE,Constitutional Amendment 1,,,Yes,240
+Henry,LEESVILLE,Constitutional Amendment 1,,,No,80
+Henry,OSAGE,Constitutional Amendment 1,,,Yes,143
+Henry,OSAGE,Constitutional Amendment 1,,,No,42
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 1,,,Yes,175
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 1,,,No,46
+Henry,URICH,Constitutional Amendment 1,,,Yes,388
+Henry,URICH,Constitutional Amendment 1,,,No,97
+Henry,WINDSOR,Constitutional Amendment 1,,,Yes,474
+Henry,WINDSOR,Constitutional Amendment 1,,,No,109
+Henry,ABSENTEE,Constitutional Amendment 1,,,Yes,610
+Henry,ABSENTEE,Constitutional Amendment 1,,,No,203
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 2,,,Yes,169
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 2,,,No,32
+Henry,BENSON CENTER,Constitutional Amendment 2,,,Yes,1621
+Henry,BENSON CENTER,Constitutional Amendment 2,,,No,407
+Henry,CLINTON WARD 1,Constitutional Amendment 2,,,Yes,464
+Henry,CLINTON WARD 1,Constitutional Amendment 2,,,No,146
+Henry,FAIRVIEW,Constitutional Amendment 2,,,Yes,146
+Henry,FAIRVIEW,Constitutional Amendment 2,,,No,38
+Henry,LEESVILLE,Constitutional Amendment 2,,,Yes,236
+Henry,LEESVILLE,Constitutional Amendment 2,,,No,81
+Henry,OSAGE,Constitutional Amendment 2,,,Yes,135
+Henry,OSAGE,Constitutional Amendment 2,,,No,47
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 2,,,Yes,156
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 2,,,No,62
+Henry,URICH,Constitutional Amendment 2,,,Yes,390
+Henry,URICH,Constitutional Amendment 2,,,No,90
+Henry,WINDSOR,Constitutional Amendment 2,,,Yes,457
+Henry,WINDSOR,Constitutional Amendment 2,,,No,109
+Henry,ABSENTEE,Constitutional Amendment 2,,,Yes,580
+Henry,ABSENTEE,Constitutional Amendment 2,,,No,210
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 4,,,Yes,58
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 4,,,No,156
+Henry,BENSON CENTER,Constitutional Amendment 4,,,Yes,416
+Henry,BENSON CENTER,Constitutional Amendment 4,,,No,1651
+Henry,CLINTON WARD 1,Constitutional Amendment 4,,,Yes,109
+Henry,CLINTON WARD 1,Constitutional Amendment 4,,,No,511
+Henry,FAIRVIEW,Constitutional Amendment 4,,,Yes,44
+Henry,FAIRVIEW,Constitutional Amendment 4,,,No,143
+Henry,LEESVILLE,Constitutional Amendment 4,,,Yes,63
+Henry,LEESVILLE,Constitutional Amendment 4,,,No,256
+Henry,OSAGE,Constitutional Amendment 4,,,Yes,49
+Henry,OSAGE,Constitutional Amendment 4,,,No,135
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 4,,,Yes,49
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 4,,,No,172
+Henry,URICH,Constitutional Amendment 4,,,Yes,96
+Henry,URICH,Constitutional Amendment 4,,,No,388
+Henry,WINDSOR,Constitutional Amendment 4,,,Yes,125
+Henry,WINDSOR,Constitutional Amendment 4,,,No,460
+Henry,ABSENTEE,Constitutional Amendment 4,,,Yes,172
+Henry,ABSENTEE,Constitutional Amendment 4,,,No,641
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 5,,,Yes,29
+Henry,BEAR CREEK/DEEPWATER,Constitutional Amendment 5,,,No,184
+Henry,BENSON CENTER,Constitutional Amendment 5,,,Yes,344
+Henry,BENSON CENTER,Constitutional Amendment 5,,,No,1723
+Henry,CLINTON WARD 1,Constitutional Amendment 5,,,Yes,91
+Henry,CLINTON WARD 1,Constitutional Amendment 5,,,No,537
+Henry,FAIRVIEW,Constitutional Amendment 5,,,Yes,29
+Henry,FAIRVIEW,Constitutional Amendment 5,,,No,158
+Henry,LEESVILLE,Constitutional Amendment 5,,,Yes,59
+Henry,LEESVILLE,Constitutional Amendment 5,,,No,262
+Henry,OSAGE,Constitutional Amendment 5,,,Yes,23
+Henry,OSAGE,Constitutional Amendment 5,,,No,159
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 5,,,Yes,42
+Henry,SPRINGFIELD/TEBO,Constitutional Amendment 5,,,No,180
+Henry,URICH,Constitutional Amendment 5,,,Yes,100
+Henry,URICH,Constitutional Amendment 5,,,No,386
+Henry,WINDSOR,Constitutional Amendment 5,,,Yes,92
+Henry,WINDSOR,Constitutional Amendment 5,,,No,493
+Henry,ABSENTEE,Constitutional Amendment 5,,,Yes,123
+Henry,ABSENTEE,Constitutional Amendment 5,,,No,697

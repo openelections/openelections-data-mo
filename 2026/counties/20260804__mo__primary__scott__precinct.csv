@@ -1,0 +1,710 @@
+county,precinct,office,district,party,candidate,votes
+Scott,SIKESTON WARD 1,State Auditor,,REP,Scott Fitzpatrick,591
+Scott,SIKESTON WARD 1,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,64
+Scott,SIKESTON WARD 2,State Auditor,,REP,Scott Fitzpatrick,319
+Scott,SIKESTON WARD 2,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,35
+Scott,SIKESTON WARD 3,State Auditor,,REP,Scott Fitzpatrick,160
+Scott,SIKESTON WARD 3,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,13
+Scott,SIKESTON WARD 4,State Auditor,,REP,Scott Fitzpatrick,32
+Scott,SIKESTON WARD 4,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,5
+Scott,MINER,State Auditor,,REP,Scott Fitzpatrick,243
+Scott,MINER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,26
+Scott,MCMULLIN,State Auditor,,REP,Scott Fitzpatrick,28
+Scott,MCMULLIN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,0
+Scott,BENTON,State Auditor,,REP,Scott Fitzpatrick,366
+Scott,BENTON,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,47
+Scott,BLODGETT,State Auditor,,REP,Scott Fitzpatrick,274
+Scott,BLODGETT,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,26
+Scott,CHAFFEE,State Auditor,,REP,Scott Fitzpatrick,391
+Scott,CHAFFEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,62
+Scott,COMMERCE,State Auditor,,REP,Scott Fitzpatrick,98
+Scott,COMMERCE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,16
+Scott,DIEHLSTADT,State Auditor,,REP,Scott Fitzpatrick,54
+Scott,DIEHLSTADT,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,4
+Scott,HAYWOOD CITY,State Auditor,,REP,Scott Fitzpatrick,0
+Scott,HAYWOOD CITY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,0
+Scott,KELSO,State Auditor,,REP,Scott Fitzpatrick,299
+Scott,KELSO,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,38
+Scott,MORLEY,State Auditor,,REP,Scott Fitzpatrick,107
+Scott,MORLEY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,14
+Scott,NEW HAMBURG,State Auditor,,REP,Scott Fitzpatrick,160
+Scott,NEW HAMBURG,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,16
+Scott,ORAN,State Auditor,,REP,Scott Fitzpatrick,256
+Scott,ORAN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,38
+Scott,PERKINS,State Auditor,,REP,Scott Fitzpatrick,29
+Scott,PERKINS,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,6
+Scott,SCOTT CITY,State Auditor,,REP,Scott Fitzpatrick,476
+Scott,SCOTT CITY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,44
+Scott,VANDUSER,State Auditor,,REP,Scott Fitzpatrick,52
+Scott,VANDUSER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,4
+Scott,CENTRAL POLL,State Auditor,,REP,Scott Fitzpatrick,9
+Scott,CENTRAL POLL,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,2
+Scott,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,209
+Scott,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,28
+Scott,SIKESTON WARD 1,U.S. House,8,REP,Jason T. Smith,630
+Scott,SIKESTON WARD 1,U.S. House,8,REP,Gordon Heslop,76
+Scott,SIKESTON WARD 2,U.S. House,8,REP,Jason T. Smith,326
+Scott,SIKESTON WARD 2,U.S. House,8,REP,Gordon Heslop,58
+Scott,SIKESTON WARD 3,U.S. House,8,REP,Jason T. Smith,166
+Scott,SIKESTON WARD 3,U.S. House,8,REP,Gordon Heslop,17
+Scott,SIKESTON WARD 4,U.S. House,8,REP,Jason T. Smith,33
+Scott,SIKESTON WARD 4,U.S. House,8,REP,Gordon Heslop,5
+Scott,MINER,U.S. House,8,REP,Jason T. Smith,258
+Scott,MINER,U.S. House,8,REP,Gordon Heslop,26
+Scott,MCMULLIN,U.S. House,8,REP,Jason T. Smith,29
+Scott,MCMULLIN,U.S. House,8,REP,Gordon Heslop,1
+Scott,BENTON,U.S. House,8,REP,Jason T. Smith,387
+Scott,BENTON,U.S. House,8,REP,Gordon Heslop,56
+Scott,BLODGETT,U.S. House,8,REP,Jason T. Smith,304
+Scott,BLODGETT,U.S. House,8,REP,Gordon Heslop,28
+Scott,CHAFFEE,U.S. House,8,REP,Jason T. Smith,414
+Scott,CHAFFEE,U.S. House,8,REP,Gordon Heslop,70
+Scott,COMMERCE,U.S. House,8,REP,Jason T. Smith,111
+Scott,COMMERCE,U.S. House,8,REP,Gordon Heslop,17
+Scott,DIEHLSTADT,U.S. House,8,REP,Jason T. Smith,57
+Scott,DIEHLSTADT,U.S. House,8,REP,Gordon Heslop,5
+Scott,HAYWOOD CITY,U.S. House,8,REP,Jason T. Smith,0
+Scott,HAYWOOD CITY,U.S. House,8,REP,Gordon Heslop,0
+Scott,KELSO,U.S. House,8,REP,Jason T. Smith,315
+Scott,KELSO,U.S. House,8,REP,Gordon Heslop,43
+Scott,MORLEY,U.S. House,8,REP,Jason T. Smith,112
+Scott,MORLEY,U.S. House,8,REP,Gordon Heslop,16
+Scott,NEW HAMBURG,U.S. House,8,REP,Jason T. Smith,169
+Scott,NEW HAMBURG,U.S. House,8,REP,Gordon Heslop,25
+Scott,ORAN,U.S. House,8,REP,Jason T. Smith,291
+Scott,ORAN,U.S. House,8,REP,Gordon Heslop,31
+Scott,PERKINS,U.S. House,8,REP,Jason T. Smith,33
+Scott,PERKINS,U.S. House,8,REP,Gordon Heslop,2
+Scott,SCOTT CITY,U.S. House,8,REP,Jason T. Smith,503
+Scott,SCOTT CITY,U.S. House,8,REP,Gordon Heslop,49
+Scott,VANDUSER,U.S. House,8,REP,Jason T. Smith,50
+Scott,VANDUSER,U.S. House,8,REP,Gordon Heslop,11
+Scott,CENTRAL POLL,U.S. House,8,REP,Jason T. Smith,10
+Scott,CENTRAL POLL,U.S. House,8,REP,Gordon Heslop,0
+Scott,ABSENTEE,U.S. House,8,REP,Jason T. Smith,215
+Scott,ABSENTEE,U.S. House,8,REP,Gordon Heslop,40
+Scott,SIKESTON WARD 1,State House,148,REP,David A. Dolan,654
+Scott,SIKESTON WARD 2,State House,148,REP,David A. Dolan,350
+Scott,SIKESTON WARD 3,State House,148,REP,David A. Dolan,167
+Scott,SIKESTON WARD 4,State House,148,REP,David A. Dolan,38
+Scott,MINER,State House,148,REP,David A. Dolan,255
+Scott,MCMULLIN,State House,148,REP,David A. Dolan,27
+Scott,BENTON,State House,148,REP,David A. Dolan,405
+Scott,BLODGETT,State House,148,REP,David A. Dolan,292
+Scott,CHAFFEE,State House,148,REP,David A. Dolan,439
+Scott,COMMERCE,State House,148,REP,David A. Dolan,115
+Scott,DIEHLSTADT,State House,148,REP,David A. Dolan,58
+Scott,HAYWOOD CITY,State House,148,REP,David A. Dolan,0
+Scott,KELSO,State House,148,REP,David A. Dolan,324
+Scott,MORLEY,State House,148,REP,David A. Dolan,124
+Scott,NEW HAMBURG,State House,148,REP,David A. Dolan,177
+Scott,ORAN,State House,148,REP,David A. Dolan,286
+Scott,PERKINS,State House,148,REP,David A. Dolan,33
+Scott,SCOTT CITY,State House,148,REP,David A. Dolan,504
+Scott,VANDUSER,State House,148,REP,David A. Dolan,54
+Scott,CENTRAL POLL,State House,148,REP,David A. Dolan,9
+Scott,ABSENTEE,State House,148,REP,David A. Dolan,229
+Scott,SIKESTON WARD 1,Associate Circuit Judge Division 4,,REP,Blake Pearson,651
+Scott,SIKESTON WARD 2,Associate Circuit Judge Division 4,,REP,Blake Pearson,349
+Scott,SIKESTON WARD 3,Associate Circuit Judge Division 4,,REP,Blake Pearson,163
+Scott,SIKESTON WARD 4,Associate Circuit Judge Division 4,,REP,Blake Pearson,37
+Scott,MINER,Associate Circuit Judge Division 4,,REP,Blake Pearson,252
+Scott,MCMULLIN,Associate Circuit Judge Division 4,,REP,Blake Pearson,28
+Scott,BENTON,Associate Circuit Judge Division 4,,REP,Blake Pearson,398
+Scott,BLODGETT,Associate Circuit Judge Division 4,,REP,Blake Pearson,290
+Scott,CHAFFEE,Associate Circuit Judge Division 4,,REP,Blake Pearson,428
+Scott,COMMERCE,Associate Circuit Judge Division 4,,REP,Blake Pearson,114
+Scott,DIEHLSTADT,Associate Circuit Judge Division 4,,REP,Blake Pearson,56
+Scott,HAYWOOD CITY,Associate Circuit Judge Division 4,,REP,Blake Pearson,0
+Scott,KELSO,Associate Circuit Judge Division 4,,REP,Blake Pearson,318
+Scott,MORLEY,Associate Circuit Judge Division 4,,REP,Blake Pearson,119
+Scott,NEW HAMBURG,Associate Circuit Judge Division 4,,REP,Blake Pearson,170
+Scott,ORAN,Associate Circuit Judge Division 4,,REP,Blake Pearson,278
+Scott,PERKINS,Associate Circuit Judge Division 4,,REP,Blake Pearson,33
+Scott,SCOTT CITY,Associate Circuit Judge Division 4,,REP,Blake Pearson,492
+Scott,VANDUSER,Associate Circuit Judge Division 4,,REP,Blake Pearson,53
+Scott,CENTRAL POLL,Associate Circuit Judge Division 4,,REP,Blake Pearson,9
+Scott,ABSENTEE,Associate Circuit Judge Division 4,,REP,Blake Pearson,228
+Scott,SIKESTON WARD 1,Associate Circuit Judge Division 5,,REP,Amanda Oesch,604
+Scott,SIKESTON WARD 2,Associate Circuit Judge Division 5,,REP,Amanda Oesch,334
+Scott,SIKESTON WARD 3,Associate Circuit Judge Division 5,,REP,Amanda Oesch,156
+Scott,SIKESTON WARD 4,Associate Circuit Judge Division 5,,REP,Amanda Oesch,35
+Scott,MINER,Associate Circuit Judge Division 5,,REP,Amanda Oesch,244
+Scott,MCMULLIN,Associate Circuit Judge Division 5,,REP,Amanda Oesch,26
+Scott,BENTON,Associate Circuit Judge Division 5,,REP,Amanda Oesch,394
+Scott,BLODGETT,Associate Circuit Judge Division 5,,REP,Amanda Oesch,281
+Scott,CHAFFEE,Associate Circuit Judge Division 5,,REP,Amanda Oesch,419
+Scott,COMMERCE,Associate Circuit Judge Division 5,,REP,Amanda Oesch,115
+Scott,DIEHLSTADT,Associate Circuit Judge Division 5,,REP,Amanda Oesch,55
+Scott,HAYWOOD CITY,Associate Circuit Judge Division 5,,REP,Amanda Oesch,0
+Scott,KELSO,Associate Circuit Judge Division 5,,REP,Amanda Oesch,306
+Scott,MORLEY,Associate Circuit Judge Division 5,,REP,Amanda Oesch,116
+Scott,NEW HAMBURG,Associate Circuit Judge Division 5,,REP,Amanda Oesch,156
+Scott,ORAN,Associate Circuit Judge Division 5,,REP,Amanda Oesch,260
+Scott,PERKINS,Associate Circuit Judge Division 5,,REP,Amanda Oesch,31
+Scott,SCOTT CITY,Associate Circuit Judge Division 5,,REP,Amanda Oesch,487
+Scott,VANDUSER,Associate Circuit Judge Division 5,,REP,Amanda Oesch,54
+Scott,CENTRAL POLL,Associate Circuit Judge Division 5,,REP,Amanda Oesch,9
+Scott,ABSENTEE,Associate Circuit Judge Division 5,,REP,Amanda Oesch,222
+Scott,SIKESTON WARD 1,Presiding Commissioner,,REP,Danny Tetley,530
+Scott,SIKESTON WARD 1,Presiding Commissioner,,REP,Chad Schlosser,166
+Scott,SIKESTON WARD 2,Presiding Commissioner,,REP,Danny Tetley,303
+Scott,SIKESTON WARD 2,Presiding Commissioner,,REP,Chad Schlosser,72
+Scott,SIKESTON WARD 3,Presiding Commissioner,,REP,Danny Tetley,145
+Scott,SIKESTON WARD 3,Presiding Commissioner,,REP,Chad Schlosser,36
+Scott,SIKESTON WARD 4,Presiding Commissioner,,REP,Danny Tetley,26
+Scott,SIKESTON WARD 4,Presiding Commissioner,,REP,Chad Schlosser,11
+Scott,MINER,Presiding Commissioner,,REP,Danny Tetley,214
+Scott,MINER,Presiding Commissioner,,REP,Chad Schlosser,62
+Scott,MCMULLIN,Presiding Commissioner,,REP,Danny Tetley,25
+Scott,MCMULLIN,Presiding Commissioner,,REP,Chad Schlosser,5
+Scott,BENTON,Presiding Commissioner,,REP,Danny Tetley,349
+Scott,BENTON,Presiding Commissioner,,REP,Chad Schlosser,108
+Scott,BLODGETT,Presiding Commissioner,,REP,Danny Tetley,235
+Scott,BLODGETT,Presiding Commissioner,,REP,Chad Schlosser,86
+Scott,CHAFFEE,Presiding Commissioner,,REP,Danny Tetley,342
+Scott,CHAFFEE,Presiding Commissioner,,REP,Chad Schlosser,135
+Scott,COMMERCE,Presiding Commissioner,,REP,Danny Tetley,84
+Scott,COMMERCE,Presiding Commissioner,,REP,Chad Schlosser,44
+Scott,DIEHLSTADT,Presiding Commissioner,,REP,Danny Tetley,53
+Scott,DIEHLSTADT,Presiding Commissioner,,REP,Chad Schlosser,9
+Scott,HAYWOOD CITY,Presiding Commissioner,,REP,Danny Tetley,0
+Scott,HAYWOOD CITY,Presiding Commissioner,,REP,Chad Schlosser,0
+Scott,KELSO,Presiding Commissioner,,REP,Danny Tetley,253
+Scott,KELSO,Presiding Commissioner,,REP,Chad Schlosser,109
+Scott,MORLEY,Presiding Commissioner,,REP,Danny Tetley,105
+Scott,MORLEY,Presiding Commissioner,,REP,Chad Schlosser,27
+Scott,NEW HAMBURG,Presiding Commissioner,,REP,Danny Tetley,174
+Scott,NEW HAMBURG,Presiding Commissioner,,REP,Chad Schlosser,26
+Scott,ORAN,Presiding Commissioner,,REP,Danny Tetley,286
+Scott,ORAN,Presiding Commissioner,,REP,Chad Schlosser,47
+Scott,PERKINS,Presiding Commissioner,,REP,Danny Tetley,20
+Scott,PERKINS,Presiding Commissioner,,REP,Chad Schlosser,14
+Scott,SCOTT CITY,Presiding Commissioner,,REP,Danny Tetley,295
+Scott,SCOTT CITY,Presiding Commissioner,,REP,Chad Schlosser,253
+Scott,VANDUSER,Presiding Commissioner,,REP,Danny Tetley,46
+Scott,VANDUSER,Presiding Commissioner,,REP,Chad Schlosser,17
+Scott,CENTRAL POLL,Presiding Commissioner,,REP,Danny Tetley,3
+Scott,CENTRAL POLL,Presiding Commissioner,,REP,Chad Schlosser,6
+Scott,ABSENTEE,Presiding Commissioner,,REP,Danny Tetley,191
+Scott,ABSENTEE,Presiding Commissioner,,REP,Chad Schlosser,71
+Scott,SIKESTON WARD 1,County Clerk,,REP,Allen Seabaugh,600
+Scott,SIKESTON WARD 2,County Clerk,,REP,Allen Seabaugh,336
+Scott,SIKESTON WARD 3,County Clerk,,REP,Allen Seabaugh,155
+Scott,SIKESTON WARD 4,County Clerk,,REP,Allen Seabaugh,37
+Scott,MINER,County Clerk,,REP,Allen Seabaugh,238
+Scott,MCMULLIN,County Clerk,,REP,Allen Seabaugh,25
+Scott,BENTON,County Clerk,,REP,Allen Seabaugh,388
+Scott,BLODGETT,County Clerk,,REP,Allen Seabaugh,284
+Scott,CHAFFEE,County Clerk,,REP,Allen Seabaugh,427
+Scott,COMMERCE,County Clerk,,REP,Allen Seabaugh,108
+Scott,DIEHLSTADT,County Clerk,,REP,Allen Seabaugh,52
+Scott,HAYWOOD CITY,County Clerk,,REP,Allen Seabaugh,0
+Scott,KELSO,County Clerk,,REP,Allen Seabaugh,310
+Scott,MORLEY,County Clerk,,REP,Allen Seabaugh,121
+Scott,NEW HAMBURG,County Clerk,,REP,Allen Seabaugh,170
+Scott,ORAN,County Clerk,,REP,Allen Seabaugh,289
+Scott,PERKINS,County Clerk,,REP,Allen Seabaugh,30
+Scott,SCOTT CITY,County Clerk,,REP,Allen Seabaugh,477
+Scott,VANDUSER,County Clerk,,REP,Allen Seabaugh,50
+Scott,CENTRAL POLL,County Clerk,,REP,Allen Seabaugh,9
+Scott,ABSENTEE,County Clerk,,REP,Allen Seabaugh,228
+Scott,SIKESTON WARD 1,Circuit Clerk,,REP,Stacey Naile,442
+Scott,SIKESTON WARD 1,Circuit Clerk,,REP,Angela Fisher,217
+Scott,SIKESTON WARD 2,Circuit Clerk,,REP,Stacey Naile,276
+Scott,SIKESTON WARD 2,Circuit Clerk,,REP,Angela Fisher,83
+Scott,SIKESTON WARD 3,Circuit Clerk,,REP,Stacey Naile,124
+Scott,SIKESTON WARD 3,Circuit Clerk,,REP,Angela Fisher,52
+Scott,SIKESTON WARD 4,Circuit Clerk,,REP,Stacey Naile,24
+Scott,SIKESTON WARD 4,Circuit Clerk,,REP,Angela Fisher,13
+Scott,MINER,Circuit Clerk,,REP,Stacey Naile,220
+Scott,MINER,Circuit Clerk,,REP,Angela Fisher,56
+Scott,MCMULLIN,Circuit Clerk,,REP,Stacey Naile,21
+Scott,MCMULLIN,Circuit Clerk,,REP,Angela Fisher,6
+Scott,BENTON,Circuit Clerk,,REP,Stacey Naile,201
+Scott,BENTON,Circuit Clerk,,REP,Angela Fisher,254
+Scott,BLODGETT,Circuit Clerk,,REP,Stacey Naile,231
+Scott,BLODGETT,Circuit Clerk,,REP,Angela Fisher,94
+Scott,CHAFFEE,Circuit Clerk,,REP,Stacey Naile,294
+Scott,CHAFFEE,Circuit Clerk,,REP,Angela Fisher,164
+Scott,COMMERCE,Circuit Clerk,,REP,Stacey Naile,88
+Scott,COMMERCE,Circuit Clerk,,REP,Angela Fisher,38
+Scott,DIEHLSTADT,Circuit Clerk,,REP,Stacey Naile,41
+Scott,DIEHLSTADT,Circuit Clerk,,REP,Angela Fisher,23
+Scott,HAYWOOD CITY,Circuit Clerk,,REP,Stacey Naile,0
+Scott,HAYWOOD CITY,Circuit Clerk,,REP,Angela Fisher,0
+Scott,KELSO,Circuit Clerk,,REP,Stacey Naile,238
+Scott,KELSO,Circuit Clerk,,REP,Angela Fisher,106
+Scott,MORLEY,Circuit Clerk,,REP,Stacey Naile,90
+Scott,MORLEY,Circuit Clerk,,REP,Angela Fisher,36
+Scott,NEW HAMBURG,Circuit Clerk,,REP,Stacey Naile,114
+Scott,NEW HAMBURG,Circuit Clerk,,REP,Angela Fisher,83
+Scott,ORAN,Circuit Clerk,,REP,Stacey Naile,230
+Scott,ORAN,Circuit Clerk,,REP,Angela Fisher,79
+Scott,PERKINS,Circuit Clerk,,REP,Stacey Naile,21
+Scott,PERKINS,Circuit Clerk,,REP,Angela Fisher,14
+Scott,SCOTT CITY,Circuit Clerk,,REP,Stacey Naile,340
+Scott,SCOTT CITY,Circuit Clerk,,REP,Angela Fisher,193
+Scott,VANDUSER,Circuit Clerk,,REP,Stacey Naile,34
+Scott,VANDUSER,Circuit Clerk,,REP,Angela Fisher,26
+Scott,CENTRAL POLL,Circuit Clerk,,REP,Stacey Naile,3
+Scott,CENTRAL POLL,Circuit Clerk,,REP,Angela Fisher,6
+Scott,ABSENTEE,Circuit Clerk,,REP,Stacey Naile,155
+Scott,ABSENTEE,Circuit Clerk,,REP,Angela Fisher,98
+Scott,SIKESTON WARD 1,Recorder of Deeds,,REP,Tara Mason,624
+Scott,SIKESTON WARD 2,Recorder of Deeds,,REP,Tara Mason,347
+Scott,SIKESTON WARD 3,Recorder of Deeds,,REP,Tara Mason,160
+Scott,SIKESTON WARD 4,Recorder of Deeds,,REP,Tara Mason,36
+Scott,MINER,Recorder of Deeds,,REP,Tara Mason,247
+Scott,MCMULLIN,Recorder of Deeds,,REP,Tara Mason,27
+Scott,BENTON,Recorder of Deeds,,REP,Tara Mason,415
+Scott,BLODGETT,Recorder of Deeds,,REP,Tara Mason,287
+Scott,CHAFFEE,Recorder of Deeds,,REP,Tara Mason,439
+Scott,COMMERCE,Recorder of Deeds,,REP,Tara Mason,111
+Scott,DIEHLSTADT,Recorder of Deeds,,REP,Tara Mason,58
+Scott,HAYWOOD CITY,Recorder of Deeds,,REP,Tara Mason,0
+Scott,KELSO,Recorder of Deeds,,REP,Tara Mason,323
+Scott,MORLEY,Recorder of Deeds,,REP,Tara Mason,122
+Scott,NEW HAMBURG,Recorder of Deeds,,REP,Tara Mason,175
+Scott,ORAN,Recorder of Deeds,,REP,Tara Mason,297
+Scott,PERKINS,Recorder of Deeds,,REP,Tara Mason,33
+Scott,SCOTT CITY,Recorder of Deeds,,REP,Tara Mason,504
+Scott,VANDUSER,Recorder of Deeds,,REP,Tara Mason,53
+Scott,CENTRAL POLL,Recorder of Deeds,,REP,Tara Mason,9
+Scott,ABSENTEE,Recorder of Deeds,,REP,Tara Mason,230
+Scott,SIKESTON WARD 1,County Treasurer,,REP,Joe Bill Davis,630
+Scott,SIKESTON WARD 2,County Treasurer,,REP,Joe Bill Davis,343
+Scott,SIKESTON WARD 3,County Treasurer,,REP,Joe Bill Davis,162
+Scott,SIKESTON WARD 4,County Treasurer,,REP,Joe Bill Davis,35
+Scott,MINER,County Treasurer,,REP,Joe Bill Davis,250
+Scott,MCMULLIN,County Treasurer,,REP,Joe Bill Davis,26
+Scott,BENTON,County Treasurer,,REP,Joe Bill Davis,405
+Scott,BLODGETT,County Treasurer,,REP,Joe Bill Davis,289
+Scott,CHAFFEE,County Treasurer,,REP,Joe Bill Davis,429
+Scott,COMMERCE,County Treasurer,,REP,Joe Bill Davis,108
+Scott,DIEHLSTADT,County Treasurer,,REP,Joe Bill Davis,59
+Scott,HAYWOOD CITY,County Treasurer,,REP,Joe Bill Davis,0
+Scott,KELSO,County Treasurer,,REP,Joe Bill Davis,314
+Scott,MORLEY,County Treasurer,,REP,Joe Bill Davis,119
+Scott,NEW HAMBURG,County Treasurer,,REP,Joe Bill Davis,171
+Scott,ORAN,County Treasurer,,REP,Joe Bill Davis,279
+Scott,PERKINS,County Treasurer,,REP,Joe Bill Davis,32
+Scott,SCOTT CITY,County Treasurer,,REP,Joe Bill Davis,490
+Scott,VANDUSER,County Treasurer,,REP,Joe Bill Davis,52
+Scott,CENTRAL POLL,County Treasurer,,REP,Joe Bill Davis,9
+Scott,ABSENTEE,County Treasurer,,REP,Joe Bill Davis,229
+Scott,SIKESTON WARD 1,Prosecuting Attorney,,REP,Don Cobb,609
+Scott,SIKESTON WARD 2,Prosecuting Attorney,,REP,Don Cobb,337
+Scott,SIKESTON WARD 3,Prosecuting Attorney,,REP,Don Cobb,162
+Scott,SIKESTON WARD 4,Prosecuting Attorney,,REP,Don Cobb,36
+Scott,MINER,Prosecuting Attorney,,REP,Don Cobb,239
+Scott,MCMULLIN,Prosecuting Attorney,,REP,Don Cobb,27
+Scott,BENTON,Prosecuting Attorney,,REP,Don Cobb,390
+Scott,BLODGETT,Prosecuting Attorney,,REP,Don Cobb,277
+Scott,CHAFFEE,Prosecuting Attorney,,REP,Don Cobb,438
+Scott,COMMERCE,Prosecuting Attorney,,REP,Don Cobb,103
+Scott,DIEHLSTADT,Prosecuting Attorney,,REP,Don Cobb,55
+Scott,HAYWOOD CITY,Prosecuting Attorney,,REP,Don Cobb,0
+Scott,KELSO,Prosecuting Attorney,,REP,Don Cobb,313
+Scott,MORLEY,Prosecuting Attorney,,REP,Don Cobb,112
+Scott,NEW HAMBURG,Prosecuting Attorney,,REP,Don Cobb,163
+Scott,ORAN,Prosecuting Attorney,,REP,Don Cobb,272
+Scott,PERKINS,Prosecuting Attorney,,REP,Don Cobb,34
+Scott,SCOTT CITY,Prosecuting Attorney,,REP,Don Cobb,506
+Scott,VANDUSER,Prosecuting Attorney,,REP,Don Cobb,51
+Scott,CENTRAL POLL,Prosecuting Attorney,,REP,Don Cobb,9
+Scott,ABSENTEE,Prosecuting Attorney,,REP,Don Cobb,219
+Scott,SIKESTON WARD 1,County Collector,,REP,Mark Hensley,652
+Scott,SIKESTON WARD 2,County Collector,,REP,Mark Hensley,359
+Scott,SIKESTON WARD 3,County Collector,,REP,Mark Hensley,170
+Scott,SIKESTON WARD 4,County Collector,,REP,Mark Hensley,38
+Scott,MINER,County Collector,,REP,Mark Hensley,247
+Scott,MCMULLIN,County Collector,,REP,Mark Hensley,28
+Scott,BENTON,County Collector,,REP,Mark Hensley,415
+Scott,BLODGETT,County Collector,,REP,Mark Hensley,301
+Scott,CHAFFEE,County Collector,,REP,Mark Hensley,449
+Scott,COMMERCE,County Collector,,REP,Mark Hensley,120
+Scott,DIEHLSTADT,County Collector,,REP,Mark Hensley,58
+Scott,HAYWOOD CITY,County Collector,,REP,Mark Hensley,0
+Scott,KELSO,County Collector,,REP,Mark Hensley,326
+Scott,MORLEY,County Collector,,REP,Mark Hensley,118
+Scott,NEW HAMBURG,County Collector,,REP,Mark Hensley,180
+Scott,ORAN,County Collector,,REP,Mark Hensley,294
+Scott,PERKINS,County Collector,,REP,Mark Hensley,35
+Scott,SCOTT CITY,County Collector,,REP,Mark Hensley,520
+Scott,VANDUSER,County Collector,,REP,Mark Hensley,56
+Scott,CENTRAL POLL,County Collector,,REP,Mark Hensley,9
+Scott,ABSENTEE,County Collector,,REP,Mark Hensley,236
+Scott,SIKESTON WARD 1,State Auditor,,DEM,Quentin Wilson,95
+Scott,SIKESTON WARD 1,State Auditor,,DEM,Gregory Upchurch,59
+Scott,SIKESTON WARD 2,State Auditor,,DEM,Quentin Wilson,60
+Scott,SIKESTON WARD 2,State Auditor,,DEM,Gregory Upchurch,43
+Scott,SIKESTON WARD 3,State Auditor,,DEM,Quentin Wilson,40
+Scott,SIKESTON WARD 3,State Auditor,,DEM,Gregory Upchurch,36
+Scott,SIKESTON WARD 4,State Auditor,,DEM,Quentin Wilson,72
+Scott,SIKESTON WARD 4,State Auditor,,DEM,Gregory Upchurch,72
+Scott,MINER,State Auditor,,DEM,Quentin Wilson,11
+Scott,MINER,State Auditor,,DEM,Gregory Upchurch,19
+Scott,MCMULLIN,State Auditor,,DEM,Quentin Wilson,2
+Scott,MCMULLIN,State Auditor,,DEM,Gregory Upchurch,0
+Scott,BENTON,State Auditor,,DEM,Quentin Wilson,24
+Scott,BENTON,State Auditor,,DEM,Gregory Upchurch,13
+Scott,BLODGETT,State Auditor,,DEM,Quentin Wilson,13
+Scott,BLODGETT,State Auditor,,DEM,Gregory Upchurch,18
+Scott,CHAFFEE,State Auditor,,DEM,Quentin Wilson,43
+Scott,CHAFFEE,State Auditor,,DEM,Gregory Upchurch,46
+Scott,COMMERCE,State Auditor,,DEM,Quentin Wilson,10
+Scott,COMMERCE,State Auditor,,DEM,Gregory Upchurch,16
+Scott,DIEHLSTADT,State Auditor,,DEM,Quentin Wilson,5
+Scott,DIEHLSTADT,State Auditor,,DEM,Gregory Upchurch,3
+Scott,HAYWOOD CITY,State Auditor,,DEM,Quentin Wilson,16
+Scott,HAYWOOD CITY,State Auditor,,DEM,Gregory Upchurch,13
+Scott,KELSO,State Auditor,,DEM,Quentin Wilson,22
+Scott,KELSO,State Auditor,,DEM,Gregory Upchurch,16
+Scott,MORLEY,State Auditor,,DEM,Quentin Wilson,7
+Scott,MORLEY,State Auditor,,DEM,Gregory Upchurch,11
+Scott,NEW HAMBURG,State Auditor,,DEM,Quentin Wilson,15
+Scott,NEW HAMBURG,State Auditor,,DEM,Gregory Upchurch,7
+Scott,ORAN,State Auditor,,DEM,Quentin Wilson,10
+Scott,ORAN,State Auditor,,DEM,Gregory Upchurch,7
+Scott,PERKINS,State Auditor,,DEM,Quentin Wilson,2
+Scott,PERKINS,State Auditor,,DEM,Gregory Upchurch,3
+Scott,SCOTT CITY,State Auditor,,DEM,Quentin Wilson,63
+Scott,SCOTT CITY,State Auditor,,DEM,Gregory Upchurch,69
+Scott,VANDUSER,State Auditor,,DEM,Quentin Wilson,7
+Scott,VANDUSER,State Auditor,,DEM,Gregory Upchurch,4
+Scott,CENTRAL POLL,State Auditor,,DEM,Quentin Wilson,2
+Scott,CENTRAL POLL,State Auditor,,DEM,Gregory Upchurch,5
+Scott,ABSENTEE,State Auditor,,DEM,Quentin Wilson,42
+Scott,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,38
+Scott,SIKESTON WARD 1,U.S. House,8,DEM,Chris Reichard,97
+Scott,SIKESTON WARD 1,U.S. House,8,DEM,Frank A. Barnitz,64
+Scott,SIKESTON WARD 2,U.S. House,8,DEM,Chris Reichard,67
+Scott,SIKESTON WARD 2,U.S. House,8,DEM,Frank A. Barnitz,40
+Scott,SIKESTON WARD 3,U.S. House,8,DEM,Chris Reichard,43
+Scott,SIKESTON WARD 3,U.S. House,8,DEM,Frank A. Barnitz,35
+Scott,SIKESTON WARD 4,U.S. House,8,DEM,Chris Reichard,76
+Scott,SIKESTON WARD 4,U.S. House,8,DEM,Frank A. Barnitz,76
+Scott,MINER,U.S. House,8,DEM,Chris Reichard,16
+Scott,MINER,U.S. House,8,DEM,Frank A. Barnitz,16
+Scott,MCMULLIN,U.S. House,8,DEM,Chris Reichard,1
+Scott,MCMULLIN,U.S. House,8,DEM,Frank A. Barnitz,1
+Scott,BENTON,U.S. House,8,DEM,Chris Reichard,22
+Scott,BENTON,U.S. House,8,DEM,Frank A. Barnitz,15
+Scott,BLODGETT,U.S. House,8,DEM,Chris Reichard,19
+Scott,BLODGETT,U.S. House,8,DEM,Frank A. Barnitz,12
+Scott,CHAFFEE,U.S. House,8,DEM,Chris Reichard,55
+Scott,CHAFFEE,U.S. House,8,DEM,Frank A. Barnitz,37
+Scott,COMMERCE,U.S. House,8,DEM,Chris Reichard,14
+Scott,COMMERCE,U.S. House,8,DEM,Frank A. Barnitz,12
+Scott,DIEHLSTADT,U.S. House,8,DEM,Chris Reichard,7
+Scott,DIEHLSTADT,U.S. House,8,DEM,Frank A. Barnitz,1
+Scott,HAYWOOD CITY,U.S. House,8,DEM,Chris Reichard,22
+Scott,HAYWOOD CITY,U.S. House,8,DEM,Frank A. Barnitz,5
+Scott,KELSO,U.S. House,8,DEM,Chris Reichard,28
+Scott,KELSO,U.S. House,8,DEM,Frank A. Barnitz,12
+Scott,MORLEY,U.S. House,8,DEM,Chris Reichard,8
+Scott,MORLEY,U.S. House,8,DEM,Frank A. Barnitz,11
+Scott,NEW HAMBURG,U.S. House,8,DEM,Chris Reichard,16
+Scott,NEW HAMBURG,U.S. House,8,DEM,Frank A. Barnitz,6
+Scott,ORAN,U.S. House,8,DEM,Chris Reichard,12
+Scott,ORAN,U.S. House,8,DEM,Frank A. Barnitz,5
+Scott,PERKINS,U.S. House,8,DEM,Chris Reichard,3
+Scott,PERKINS,U.S. House,8,DEM,Frank A. Barnitz,3
+Scott,SCOTT CITY,U.S. House,8,DEM,Chris Reichard,84
+Scott,SCOTT CITY,U.S. House,8,DEM,Frank A. Barnitz,47
+Scott,VANDUSER,U.S. House,8,DEM,Chris Reichard,8
+Scott,VANDUSER,U.S. House,8,DEM,Frank A. Barnitz,3
+Scott,CENTRAL POLL,U.S. House,8,DEM,Chris Reichard,5
+Scott,CENTRAL POLL,U.S. House,8,DEM,Frank A. Barnitz,2
+Scott,ABSENTEE,U.S. House,8,DEM,Chris Reichard,36
+Scott,ABSENTEE,U.S. House,8,DEM,Frank A. Barnitz,48
+Scott,SIKESTON WARD 1,State House,148,DEM,Casey Carlisle,153
+Scott,SIKESTON WARD 2,State House,148,DEM,Casey Carlisle,102
+Scott,SIKESTON WARD 3,State House,148,DEM,Casey Carlisle,76
+Scott,SIKESTON WARD 4,State House,148,DEM,Casey Carlisle,133
+Scott,MINER,State House,148,DEM,Casey Carlisle,31
+Scott,MCMULLIN,State House,148,DEM,Casey Carlisle,2
+Scott,BENTON,State House,148,DEM,Casey Carlisle,37
+Scott,BLODGETT,State House,148,DEM,Casey Carlisle,30
+Scott,CHAFFEE,State House,148,DEM,Casey Carlisle,87
+Scott,COMMERCE,State House,148,DEM,Casey Carlisle,24
+Scott,DIEHLSTADT,State House,148,DEM,Casey Carlisle,9
+Scott,HAYWOOD CITY,State House,148,DEM,Casey Carlisle,26
+Scott,KELSO,State House,148,DEM,Casey Carlisle,38
+Scott,MORLEY,State House,148,DEM,Casey Carlisle,18
+Scott,NEW HAMBURG,State House,148,DEM,Casey Carlisle,24
+Scott,ORAN,State House,148,DEM,Casey Carlisle,19
+Scott,PERKINS,State House,148,DEM,Casey Carlisle,5
+Scott,SCOTT CITY,State House,148,DEM,Casey Carlisle,128
+Scott,VANDUSER,State House,148,DEM,Casey Carlisle,10
+Scott,CENTRAL POLL,State House,148,DEM,Casey Carlisle,7
+Scott,ABSENTEE,State House,148,DEM,Casey Carlisle,82
+Scott,SIKESTON WARD 1,State Auditor,,LIB,Dustin Coffell,5
+Scott,SIKESTON WARD 2,State Auditor,,LIB,Dustin Coffell,1
+Scott,SIKESTON WARD 3,State Auditor,,LIB,Dustin Coffell,0
+Scott,SIKESTON WARD 4,State Auditor,,LIB,Dustin Coffell,0
+Scott,MINER,State Auditor,,LIB,Dustin Coffell,1
+Scott,MCMULLIN,State Auditor,,LIB,Dustin Coffell,0
+Scott,BENTON,State Auditor,,LIB,Dustin Coffell,3
+Scott,BLODGETT,State Auditor,,LIB,Dustin Coffell,1
+Scott,CHAFFEE,State Auditor,,LIB,Dustin Coffell,5
+Scott,COMMERCE,State Auditor,,LIB,Dustin Coffell,0
+Scott,DIEHLSTADT,State Auditor,,LIB,Dustin Coffell,0
+Scott,HAYWOOD CITY,State Auditor,,LIB,Dustin Coffell,0
+Scott,KELSO,State Auditor,,LIB,Dustin Coffell,0
+Scott,MORLEY,State Auditor,,LIB,Dustin Coffell,1
+Scott,NEW HAMBURG,State Auditor,,LIB,Dustin Coffell,0
+Scott,ORAN,State Auditor,,LIB,Dustin Coffell,1
+Scott,PERKINS,State Auditor,,LIB,Dustin Coffell,0
+Scott,SCOTT CITY,State Auditor,,LIB,Dustin Coffell,4
+Scott,VANDUSER,State Auditor,,LIB,Dustin Coffell,0
+Scott,CENTRAL POLL,State Auditor,,LIB,Dustin Coffell,0
+Scott,ABSENTEE,State Auditor,,LIB,Dustin Coffell,2
+Scott,SIKESTON WARD 1,U.S. House,8,LIB,Rebecca Sharpe Lombard,5
+Scott,SIKESTON WARD 2,U.S. House,8,LIB,Rebecca Sharpe Lombard,1
+Scott,SIKESTON WARD 3,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,SIKESTON WARD 4,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,MINER,U.S. House,8,LIB,Rebecca Sharpe Lombard,1
+Scott,MCMULLIN,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,BENTON,U.S. House,8,LIB,Rebecca Sharpe Lombard,3
+Scott,BLODGETT,U.S. House,8,LIB,Rebecca Sharpe Lombard,1
+Scott,CHAFFEE,U.S. House,8,LIB,Rebecca Sharpe Lombard,5
+Scott,COMMERCE,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,DIEHLSTADT,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,HAYWOOD CITY,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,KELSO,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,MORLEY,U.S. House,8,LIB,Rebecca Sharpe Lombard,1
+Scott,NEW HAMBURG,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,ORAN,U.S. House,8,LIB,Rebecca Sharpe Lombard,1
+Scott,PERKINS,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,SCOTT CITY,U.S. House,8,LIB,Rebecca Sharpe Lombard,4
+Scott,VANDUSER,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,CENTRAL POLL,U.S. House,8,LIB,Rebecca Sharpe Lombard,0
+Scott,ABSENTEE,U.S. House,8,LIB,Rebecca Sharpe Lombard,1
+Scott,SIKESTON WARD 1,Constitutional Amendment 1,,,Yes,768
+Scott,SIKESTON WARD 1,Constitutional Amendment 1,,,No,193
+Scott,SIKESTON WARD 2,Constitutional Amendment 1,,,Yes,436
+Scott,SIKESTON WARD 2,Constitutional Amendment 1,,,No,101
+Scott,SIKESTON WARD 3,Constitutional Amendment 1,,,Yes,214
+Scott,SIKESTON WARD 3,Constitutional Amendment 1,,,No,73
+Scott,SIKESTON WARD 4,Constitutional Amendment 1,,,Yes,118
+Scott,SIKESTON WARD 4,Constitutional Amendment 1,,,No,98
+Scott,MINER,Constitutional Amendment 1,,,Yes,250
+Scott,MINER,Constitutional Amendment 1,,,No,90
+Scott,MCMULLIN,Constitutional Amendment 1,,,Yes,24
+Scott,MCMULLIN,Constitutional Amendment 1,,,No,11
+Scott,BENTON,Constitutional Amendment 1,,,Yes,400
+Scott,BENTON,Constitutional Amendment 1,,,No,126
+Scott,BLODGETT,Constitutional Amendment 1,,,Yes,278
+Scott,BLODGETT,Constitutional Amendment 1,,,No,115
+Scott,CHAFFEE,Constitutional Amendment 1,,,Yes,495
+Scott,CHAFFEE,Constitutional Amendment 1,,,No,136
+Scott,COMMERCE,Constitutional Amendment 1,,,Yes,119
+Scott,COMMERCE,Constitutional Amendment 1,,,No,53
+Scott,DIEHLSTADT,Constitutional Amendment 1,,,Yes,65
+Scott,DIEHLSTADT,Constitutional Amendment 1,,,No,16
+Scott,HAYWOOD CITY,Constitutional Amendment 1,,,Yes,12
+Scott,HAYWOOD CITY,Constitutional Amendment 1,,,No,19
+Scott,KELSO,Constitutional Amendment 1,,,Yes,344
+Scott,KELSO,Constitutional Amendment 1,,,No,81
+Scott,MORLEY,Constitutional Amendment 1,,,Yes,122
+Scott,MORLEY,Constitutional Amendment 1,,,No,45
+Scott,NEW HAMBURG,Constitutional Amendment 1,,,Yes,161
+Scott,NEW HAMBURG,Constitutional Amendment 1,,,No,71
+Scott,ORAN,Constitutional Amendment 1,,,Yes,285
+Scott,ORAN,Constitutional Amendment 1,,,No,83
+Scott,PERKINS,Constitutional Amendment 1,,,Yes,34
+Scott,PERKINS,Constitutional Amendment 1,,,No,9
+Scott,SCOTT CITY,Constitutional Amendment 1,,,Yes,590
+Scott,SCOTT CITY,Constitutional Amendment 1,,,No,175
+Scott,VANDUSER,Constitutional Amendment 1,,,Yes,52
+Scott,VANDUSER,Constitutional Amendment 1,,,No,27
+Scott,CENTRAL POLL,Constitutional Amendment 1,,,Yes,12
+Scott,CENTRAL POLL,Constitutional Amendment 1,,,No,8
+Scott,ABSENTEE,Constitutional Amendment 1,,,Yes,295
+Scott,ABSENTEE,Constitutional Amendment 1,,,No,69
+Scott,SIKESTON WARD 1,Constitutional Amendment 2,,,Yes,771
+Scott,SIKESTON WARD 1,Constitutional Amendment 2,,,No,172
+Scott,SIKESTON WARD 2,Constitutional Amendment 2,,,Yes,422
+Scott,SIKESTON WARD 2,Constitutional Amendment 2,,,No,100
+Scott,SIKESTON WARD 3,Constitutional Amendment 2,,,Yes,224
+Scott,SIKESTON WARD 3,Constitutional Amendment 2,,,No,63
+Scott,SIKESTON WARD 4,Constitutional Amendment 2,,,Yes,117
+Scott,SIKESTON WARD 4,Constitutional Amendment 2,,,No,99
+Scott,MINER,Constitutional Amendment 2,,,Yes,233
+Scott,MINER,Constitutional Amendment 2,,,No,104
+Scott,MCMULLIN,Constitutional Amendment 2,,,Yes,26
+Scott,MCMULLIN,Constitutional Amendment 2,,,No,8
+Scott,BENTON,Constitutional Amendment 2,,,Yes,358
+Scott,BENTON,Constitutional Amendment 2,,,No,148
+Scott,BLODGETT,Constitutional Amendment 2,,,Yes,290
+Scott,BLODGETT,Constitutional Amendment 2,,,No,93
+Scott,CHAFFEE,Constitutional Amendment 2,,,Yes,471
+Scott,CHAFFEE,Constitutional Amendment 2,,,No,144
+Scott,COMMERCE,Constitutional Amendment 2,,,Yes,108
+Scott,COMMERCE,Constitutional Amendment 2,,,No,60
+Scott,DIEHLSTADT,Constitutional Amendment 2,,,Yes,52
+Scott,DIEHLSTADT,Constitutional Amendment 2,,,No,25
+Scott,HAYWOOD CITY,Constitutional Amendment 2,,,Yes,15
+Scott,HAYWOOD CITY,Constitutional Amendment 2,,,No,16
+Scott,KELSO,Constitutional Amendment 2,,,Yes,304
+Scott,KELSO,Constitutional Amendment 2,,,No,109
+Scott,MORLEY,Constitutional Amendment 2,,,Yes,119
+Scott,MORLEY,Constitutional Amendment 2,,,No,43
+Scott,NEW HAMBURG,Constitutional Amendment 2,,,Yes,149
+Scott,NEW HAMBURG,Constitutional Amendment 2,,,No,77
+Scott,ORAN,Constitutional Amendment 2,,,Yes,268
+Scott,ORAN,Constitutional Amendment 2,,,No,93
+Scott,PERKINS,Constitutional Amendment 2,,,Yes,31
+Scott,PERKINS,Constitutional Amendment 2,,,No,11
+Scott,SCOTT CITY,Constitutional Amendment 2,,,Yes,574
+Scott,SCOTT CITY,Constitutional Amendment 2,,,No,179
+Scott,VANDUSER,Constitutional Amendment 2,,,Yes,52
+Scott,VANDUSER,Constitutional Amendment 2,,,No,24
+Scott,CENTRAL POLL,Constitutional Amendment 2,,,Yes,13
+Scott,CENTRAL POLL,Constitutional Amendment 2,,,No,7
+Scott,ABSENTEE,Constitutional Amendment 2,,,Yes,285
+Scott,ABSENTEE,Constitutional Amendment 2,,,No,72
+Scott,SIKESTON WARD 1,Constitutional Amendment 4,,,Yes,289
+Scott,SIKESTON WARD 1,Constitutional Amendment 4,,,No,675
+Scott,SIKESTON WARD 2,Constitutional Amendment 4,,,Yes,130
+Scott,SIKESTON WARD 2,Constitutional Amendment 4,,,No,413
+Scott,SIKESTON WARD 3,Constitutional Amendment 4,,,Yes,69
+Scott,SIKESTON WARD 3,Constitutional Amendment 4,,,No,221
+Scott,SIKESTON WARD 4,Constitutional Amendment 4,,,Yes,30
+Scott,SIKESTON WARD 4,Constitutional Amendment 4,,,No,191
+Scott,MINER,Constitutional Amendment 4,,,Yes,79
+Scott,MINER,Constitutional Amendment 4,,,No,261
+Scott,MCMULLIN,Constitutional Amendment 4,,,Yes,11
+Scott,MCMULLIN,Constitutional Amendment 4,,,No,24
+Scott,BENTON,Constitutional Amendment 4,,,Yes,122
+Scott,BENTON,Constitutional Amendment 4,,,No,408
+Scott,BLODGETT,Constitutional Amendment 4,,,Yes,98
+Scott,BLODGETT,Constitutional Amendment 4,,,No,292
+Scott,CHAFFEE,Constitutional Amendment 4,,,Yes,102
+Scott,CHAFFEE,Constitutional Amendment 4,,,No,537
+Scott,COMMERCE,Constitutional Amendment 4,,,Yes,20
+Scott,COMMERCE,Constitutional Amendment 4,,,No,155
+Scott,DIEHLSTADT,Constitutional Amendment 4,,,Yes,21
+Scott,DIEHLSTADT,Constitutional Amendment 4,,,No,61
+Scott,HAYWOOD CITY,Constitutional Amendment 4,,,Yes,3
+Scott,HAYWOOD CITY,Constitutional Amendment 4,,,No,29
+Scott,KELSO,Constitutional Amendment 4,,,Yes,101
+Scott,KELSO,Constitutional Amendment 4,,,No,324
+Scott,MORLEY,Constitutional Amendment 4,,,Yes,46
+Scott,MORLEY,Constitutional Amendment 4,,,No,122
+Scott,NEW HAMBURG,Constitutional Amendment 4,,,Yes,58
+Scott,NEW HAMBURG,Constitutional Amendment 4,,,No,176
+Scott,ORAN,Constitutional Amendment 4,,,Yes,75
+Scott,ORAN,Constitutional Amendment 4,,,No,307
+Scott,PERKINS,Constitutional Amendment 4,,,Yes,13
+Scott,PERKINS,Constitutional Amendment 4,,,No,30
+Scott,SCOTT CITY,Constitutional Amendment 4,,,Yes,165
+Scott,SCOTT CITY,Constitutional Amendment 4,,,No,604
+Scott,VANDUSER,Constitutional Amendment 4,,,Yes,13
+Scott,VANDUSER,Constitutional Amendment 4,,,No,66
+Scott,CENTRAL POLL,Constitutional Amendment 4,,,Yes,4
+Scott,CENTRAL POLL,Constitutional Amendment 4,,,No,16
+Scott,ABSENTEE,Constitutional Amendment 4,,,Yes,86
+Scott,ABSENTEE,Constitutional Amendment 4,,,No,280
+Scott,SIKESTON WARD 1,Constitutional Amendment 5,,,Yes,152
+Scott,SIKESTON WARD 1,Constitutional Amendment 5,,,No,811
+Scott,SIKESTON WARD 2,Constitutional Amendment 5,,,Yes,63
+Scott,SIKESTON WARD 2,Constitutional Amendment 5,,,No,481
+Scott,SIKESTON WARD 3,Constitutional Amendment 5,,,Yes,33
+Scott,SIKESTON WARD 3,Constitutional Amendment 5,,,No,257
+Scott,SIKESTON WARD 4,Constitutional Amendment 5,,,Yes,22
+Scott,SIKESTON WARD 4,Constitutional Amendment 5,,,No,199
+Scott,MINER,Constitutional Amendment 5,,,Yes,48
+Scott,MINER,Constitutional Amendment 5,,,No,292
+Scott,MCMULLIN,Constitutional Amendment 5,,,Yes,3
+Scott,MCMULLIN,Constitutional Amendment 5,,,No,32
+Scott,BENTON,Constitutional Amendment 5,,,Yes,67
+Scott,BENTON,Constitutional Amendment 5,,,No,464
+Scott,BLODGETT,Constitutional Amendment 5,,,Yes,57
+Scott,BLODGETT,Constitutional Amendment 5,,,No,333
+Scott,CHAFFEE,Constitutional Amendment 5,,,Yes,69
+Scott,CHAFFEE,Constitutional Amendment 5,,,No,573
+Scott,COMMERCE,Constitutional Amendment 5,,,Yes,14
+Scott,COMMERCE,Constitutional Amendment 5,,,No,161
+Scott,DIEHLSTADT,Constitutional Amendment 5,,,Yes,16
+Scott,DIEHLSTADT,Constitutional Amendment 5,,,No,66
+Scott,HAYWOOD CITY,Constitutional Amendment 5,,,Yes,9
+Scott,HAYWOOD CITY,Constitutional Amendment 5,,,No,27
+Scott,KELSO,Constitutional Amendment 5,,,Yes,50
+Scott,KELSO,Constitutional Amendment 5,,,No,378
+Scott,MORLEY,Constitutional Amendment 5,,,Yes,30
+Scott,MORLEY,Constitutional Amendment 5,,,No,140
+Scott,NEW HAMBURG,Constitutional Amendment 5,,,Yes,24
+Scott,NEW HAMBURG,Constitutional Amendment 5,,,No,211
+Scott,ORAN,Constitutional Amendment 5,,,Yes,39
+Scott,ORAN,Constitutional Amendment 5,,,No,344
+Scott,PERKINS,Constitutional Amendment 5,,,Yes,5
+Scott,PERKINS,Constitutional Amendment 5,,,No,38
+Scott,SCOTT CITY,Constitutional Amendment 5,,,Yes,91
+Scott,SCOTT CITY,Constitutional Amendment 5,,,No,678
+Scott,VANDUSER,Constitutional Amendment 5,,,Yes,11
+Scott,VANDUSER,Constitutional Amendment 5,,,No,68
+Scott,CENTRAL POLL,Constitutional Amendment 5,,,Yes,3
+Scott,CENTRAL POLL,Constitutional Amendment 5,,,No,17
+Scott,ABSENTEE,Constitutional Amendment 5,,,Yes,53
+Scott,ABSENTEE,Constitutional Amendment 5,,,No,314
+Scott,BENTON,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,280
+Scott,BENTON,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,242
+Scott,CHAFFEE,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,367
+Scott,CHAFFEE,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,265
+Scott,COMMERCE,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,89
+Scott,COMMERCE,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,83
+Scott,DIEHLSTADT,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,1
+Scott,DIEHLSTADT,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,2
+Scott,KELSO,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,273
+Scott,KELSO,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,146
+Scott,MORLEY,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,65
+Scott,MORLEY,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,70
+Scott,NEW HAMBURG,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,146
+Scott,NEW HAMBURG,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,86
+Scott,ORAN,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,239
+Scott,ORAN,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,133
+Scott,PERKINS,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,20
+Scott,PERKINS,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,23
+Scott,SCOTT CITY,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,450
+Scott,SCOTT CITY,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,313
+Scott,CENTRAL POLL,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,4
+Scott,CENTRAL POLL,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,10
+Scott,ABSENTEE,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,Yes,134
+Scott,ABSENTEE,Question: North Scott County Amb. Dist. Ambulance Property Tax Elimination,,,No,81
+Scott,SIKESTON WARD 1,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,494
+Scott,SIKESTON WARD 1,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,457
+Scott,SIKESTON WARD 2,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,288
+Scott,SIKESTON WARD 2,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,245
+Scott,SIKESTON WARD 3,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,144
+Scott,SIKESTON WARD 3,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,145
+Scott,SIKESTON WARD 4,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,68
+Scott,SIKESTON WARD 4,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,148
+Scott,MINER,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,144
+Scott,MINER,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,195
+Scott,MCMULLIN,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,22
+Scott,MCMULLIN,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,12
+Scott,BLODGETT,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,170
+Scott,BLODGETT,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,218
+Scott,DIEHLSTADT,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,44
+Scott,DIEHLSTADT,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,34
+Scott,HAYWOOD CITY,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,9
+Scott,HAYWOOD CITY,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,25
+Scott,MORLEY,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,15
+Scott,MORLEY,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,16
+Scott,ORAN,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,2
+Scott,ORAN,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,2
+Scott,VANDUSER,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,33
+Scott,VANDUSER,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,47
+Scott,CENTRAL POLL,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,4
+Scott,CENTRAL POLL,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,2
+Scott,ABSENTEE,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,Yes,67
+Scott,ABSENTEE,Question: South Scott County Amd. Dist. Ambulance District Sustainability,,,No,82
+Scott,VANDUSER,Question: Vanduser Village,,,Yes,21
+Scott,VANDUSER,Question: Vanduser Village,,,No,14
+Scott,CENTRAL POLL,Question: Vanduser Village,,,Yes,0
+Scott,CENTRAL POLL,Question: Vanduser Village,,,No,0
+Scott,ABSENTEE,Question: Vanduser Village,,,Yes,0
+Scott,ABSENTEE,Question: Vanduser Village,,,No,0

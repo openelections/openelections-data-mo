@@ -1,0 +1,351 @@
+county,precinct,office,district,party,candidate,votes
+Benton,WHITE,State Auditor,,REP,Scott Fitzpatrick,350
+Benton,WHITE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,42
+Benton,WILLIAMS,State Auditor,,REP,Scott Fitzpatrick,560
+Benton,WILLIAMS,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,66
+Benton,COLE,State Auditor,,REP,Scott Fitzpatrick,264
+Benton,COLE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,48
+Benton,LINDSEY,State Auditor,,REP,Scott Fitzpatrick,631
+Benton,LINDSEY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,99
+Benton,FRISTOE/ALEXANDER,State Auditor,,REP,Scott Fitzpatrick,387
+Benton,FRISTOE/ALEXANDER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,68
+Benton,UNION,State Auditor,,REP,Scott Fitzpatrick,219
+Benton,UNION,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,34
+Benton,TOM,State Auditor,,REP,Scott Fitzpatrick,318
+Benton,TOM,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,69
+Benton,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,410
+Benton,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,67
+Benton,WHITE,U.S. House,4,REP,Mark Alford,321
+Benton,WHITE,U.S. House,4,REP,Heather Shelton,70
+Benton,WHITE,U.S. House,4,REP,Scott Vincent Vera,17
+Benton,WILLIAMS,U.S. House,4,REP,Mark Alford,516
+Benton,WILLIAMS,U.S. House,4,REP,Heather Shelton,108
+Benton,WILLIAMS,U.S. House,4,REP,Scott Vincent Vera,22
+Benton,COLE,U.S. House,4,REP,Mark Alford,257
+Benton,COLE,U.S. House,4,REP,Heather Shelton,61
+Benton,COLE,U.S. House,4,REP,Scott Vincent Vera,14
+Benton,LINDSEY,U.S. House,4,REP,Mark Alford,594
+Benton,LINDSEY,U.S. House,4,REP,Heather Shelton,142
+Benton,LINDSEY,U.S. House,4,REP,Scott Vincent Vera,32
+Benton,FRISTOE/ALEXANDER,U.S. House,4,REP,Mark Alford,360
+Benton,FRISTOE/ALEXANDER,U.S. House,4,REP,Heather Shelton,95
+Benton,FRISTOE/ALEXANDER,U.S. House,4,REP,Scott Vincent Vera,24
+Benton,UNION,U.S. House,4,REP,Mark Alford,196
+Benton,UNION,U.S. House,4,REP,Heather Shelton,47
+Benton,UNION,U.S. House,4,REP,Scott Vincent Vera,19
+Benton,TOM,U.S. House,4,REP,Mark Alford,316
+Benton,TOM,U.S. House,4,REP,Heather Shelton,76
+Benton,TOM,U.S. House,4,REP,Scott Vincent Vera,15
+Benton,ABSENTEE,U.S. House,4,REP,Mark Alford,390
+Benton,ABSENTEE,U.S. House,4,REP,Heather Shelton,113
+Benton,ABSENTEE,U.S. House,4,REP,Scott Vincent Vera,18
+Benton,WHITE,State Senate,28,REP,Sam Alexander,226
+Benton,WHITE,State Senate,28,REP,Brad Pollitt,148
+Benton,WHITE,State Senate,28,REP,Chuck Lentz,42
+Benton,WILLIAMS,State Senate,28,REP,Sam Alexander,444
+Benton,WILLIAMS,State Senate,28,REP,Brad Pollitt,180
+Benton,WILLIAMS,State Senate,28,REP,Chuck Lentz,49
+Benton,COLE,State Senate,28,REP,Sam Alexander,204
+Benton,COLE,State Senate,28,REP,Brad Pollitt,90
+Benton,COLE,State Senate,28,REP,Chuck Lentz,43
+Benton,LINDSEY,State Senate,28,REP,Sam Alexander,427
+Benton,LINDSEY,State Senate,28,REP,Brad Pollitt,219
+Benton,LINDSEY,State Senate,28,REP,Chuck Lentz,151
+Benton,FRISTOE/ALEXANDER,State Senate,28,REP,Sam Alexander,273
+Benton,FRISTOE/ALEXANDER,State Senate,28,REP,Brad Pollitt,131
+Benton,FRISTOE/ALEXANDER,State Senate,28,REP,Chuck Lentz,85
+Benton,UNION,State Senate,28,REP,Sam Alexander,144
+Benton,UNION,State Senate,28,REP,Brad Pollitt,90
+Benton,UNION,State Senate,28,REP,Chuck Lentz,32
+Benton,TOM,State Senate,28,REP,Sam Alexander,226
+Benton,TOM,State Senate,28,REP,Brad Pollitt,112
+Benton,TOM,State Senate,28,REP,Chuck Lentz,71
+Benton,ABSENTEE,State Senate,28,REP,Sam Alexander,241
+Benton,ABSENTEE,State Senate,28,REP,Brad Pollitt,186
+Benton,ABSENTEE,State Senate,28,REP,Chuck Lentz,99
+Benton,WHITE,State House,57,REP,Matt Sergent,355
+Benton,WILLIAMS,State House,57,REP,Matt Sergent,577
+Benton,COLE,State House,57,REP,Matt Sergent,292
+Benton,LINDSEY,State House,57,REP,Matt Sergent,688
+Benton,FRISTOE/ALEXANDER,State House,57,REP,Matt Sergent,330
+Benton,UNION,State House,57,REP,Matt Sergent,224
+Benton,TOM,State House,57,REP,Matt Sergent,0
+Benton,ABSENTEE,State House,57,REP,Matt Sergent,363
+Benton,FRISTOE/ALEXANDER,State House,126,REP,Jim Kalberloh,90
+Benton,TOM,State House,126,REP,Jim Kalberloh,347
+Benton,ABSENTEE,State House,126,REP,Jim Kalberloh,73
+Benton,WHITE,Associate Circuit Judge,,REP,James Kjar,368
+Benton,WILLIAMS,Associate Circuit Judge,,REP,James Kjar,582
+Benton,COLE,Associate Circuit Judge,,REP,James Kjar,301
+Benton,LINDSEY,Associate Circuit Judge,,REP,James Kjar,717
+Benton,FRISTOE/ALEXANDER,Associate Circuit Judge,,REP,James Kjar,440
+Benton,UNION,Associate Circuit Judge,,REP,James Kjar,239
+Benton,TOM,Associate Circuit Judge,,REP,James Kjar,361
+Benton,ABSENTEE,Associate Circuit Judge,,REP,James Kjar,448
+Benton,WHITE,Presiding Commissioner,,REP,James Mahlon White,204
+Benton,WHITE,Presiding Commissioner,,REP,Rich Chiles,202
+Benton,WILLIAMS,Presiding Commissioner,,REP,James Mahlon White,318
+Benton,WILLIAMS,Presiding Commissioner,,REP,Rich Chiles,307
+Benton,COLE,Presiding Commissioner,,REP,James Mahlon White,156
+Benton,COLE,Presiding Commissioner,,REP,Rich Chiles,149
+Benton,LINDSEY,Presiding Commissioner,,REP,James Mahlon White,357
+Benton,LINDSEY,Presiding Commissioner,,REP,Rich Chiles,417
+Benton,FRISTOE/ALEXANDER,Presiding Commissioner,,REP,James Mahlon White,230
+Benton,FRISTOE/ALEXANDER,Presiding Commissioner,,REP,Rich Chiles,253
+Benton,UNION,Presiding Commissioner,,REP,James Mahlon White,114
+Benton,UNION,Presiding Commissioner,,REP,Rich Chiles,148
+Benton,TOM,Presiding Commissioner,,REP,James Mahlon White,169
+Benton,TOM,Presiding Commissioner,,REP,Rich Chiles,229
+Benton,ABSENTEE,Presiding Commissioner,,REP,James Mahlon White,250
+Benton,ABSENTEE,Presiding Commissioner,,REP,Rich Chiles,284
+Benton,WHITE,County Clerk,,REP,Samantha Corpening,236
+Benton,WHITE,County Clerk,,REP,Amber Segar,162
+Benton,WILLIAMS,County Clerk,,REP,Samantha Corpening,350
+Benton,WILLIAMS,County Clerk,,REP,Amber Segar,286
+Benton,COLE,County Clerk,,REP,Samantha Corpening,150
+Benton,COLE,County Clerk,,REP,Amber Segar,164
+Benton,LINDSEY,County Clerk,,REP,Samantha Corpening,294
+Benton,LINDSEY,County Clerk,,REP,Amber Segar,464
+Benton,FRISTOE/ALEXANDER,County Clerk,,REP,Samantha Corpening,188
+Benton,FRISTOE/ALEXANDER,County Clerk,,REP,Amber Segar,291
+Benton,UNION,County Clerk,,REP,Samantha Corpening,92
+Benton,UNION,County Clerk,,REP,Amber Segar,164
+Benton,TOM,County Clerk,,REP,Samantha Corpening,140
+Benton,TOM,County Clerk,,REP,Amber Segar,256
+Benton,ABSENTEE,County Clerk,,REP,Samantha Corpening,262
+Benton,ABSENTEE,County Clerk,,REP,Amber Segar,265
+Benton,WHITE,Circuit Clerk,,REP,Shanda Schultz,368
+Benton,WILLIAMS,Circuit Clerk,,REP,Shanda Schultz,589
+Benton,COLE,Circuit Clerk,,REP,Shanda Schultz,291
+Benton,LINDSEY,Circuit Clerk,,REP,Shanda Schultz,687
+Benton,FRISTOE/ALEXANDER,Circuit Clerk,,REP,Shanda Schultz,419
+Benton,UNION,Circuit Clerk,,REP,Shanda Schultz,227
+Benton,TOM,Circuit Clerk,,REP,Shanda Schultz,358
+Benton,ABSENTEE,Circuit Clerk,,REP,Shanda Schultz,447
+Benton,WHITE,Recorder of Deeds,,REP,Carla J. Brown,363
+Benton,WILLIAMS,Recorder of Deeds,,REP,Carla J. Brown,587
+Benton,COLE,Recorder of Deeds,,REP,Carla J. Brown,293
+Benton,LINDSEY,Recorder of Deeds,,REP,Carla J. Brown,693
+Benton,FRISTOE/ALEXANDER,Recorder of Deeds,,REP,Carla J. Brown,428
+Benton,UNION,Recorder of Deeds,,REP,Carla J. Brown,228
+Benton,TOM,Recorder of Deeds,,REP,Carla J. Brown,351
+Benton,ABSENTEE,Recorder of Deeds,,REP,Carla J. Brown,456
+Benton,WHITE,County Treasurer,,REP,Rebecca J. Minks,151
+Benton,WHITE,County Treasurer,,REP,Monty J. Maples,54
+Benton,WHITE,County Treasurer,,REP,Jowell Roellig,204
+Benton,WILLIAMS,County Treasurer,,REP,Rebecca J. Minks,292
+Benton,WILLIAMS,County Treasurer,,REP,Monty J. Maples,71
+Benton,WILLIAMS,County Treasurer,,REP,Jowell Roellig,268
+Benton,COLE,County Treasurer,,REP,Rebecca J. Minks,159
+Benton,COLE,County Treasurer,,REP,Monty J. Maples,47
+Benton,COLE,County Treasurer,,REP,Jowell Roellig,115
+Benton,LINDSEY,County Treasurer,,REP,Rebecca J. Minks,427
+Benton,LINDSEY,County Treasurer,,REP,Monty J. Maples,99
+Benton,LINDSEY,County Treasurer,,REP,Jowell Roellig,268
+Benton,FRISTOE/ALEXANDER,County Treasurer,,REP,Rebecca J. Minks,270
+Benton,FRISTOE/ALEXANDER,County Treasurer,,REP,Monty J. Maples,80
+Benton,FRISTOE/ALEXANDER,County Treasurer,,REP,Jowell Roellig,148
+Benton,UNION,County Treasurer,,REP,Rebecca J. Minks,162
+Benton,UNION,County Treasurer,,REP,Monty J. Maples,27
+Benton,UNION,County Treasurer,,REP,Jowell Roellig,79
+Benton,TOM,County Treasurer,,REP,Rebecca J. Minks,185
+Benton,TOM,County Treasurer,,REP,Monty J. Maples,59
+Benton,TOM,County Treasurer,,REP,Jowell Roellig,162
+Benton,ABSENTEE,County Treasurer,,REP,Rebecca J. Minks,278
+Benton,ABSENTEE,County Treasurer,,REP,Monty J. Maples,60
+Benton,ABSENTEE,County Treasurer,,REP,Jowell Roellig,204
+Benton,WHITE,Prosecuting Attorney,,REP,Dan Hagedorn,277
+Benton,WHITE,Prosecuting Attorney,,REP,Rod Richardson,114
+Benton,WILLIAMS,Prosecuting Attorney,,REP,Dan Hagedorn,419
+Benton,WILLIAMS,Prosecuting Attorney,,REP,Rod Richardson,186
+Benton,COLE,Prosecuting Attorney,,REP,Dan Hagedorn,204
+Benton,COLE,Prosecuting Attorney,,REP,Rod Richardson,105
+Benton,LINDSEY,Prosecuting Attorney,,REP,Dan Hagedorn,543
+Benton,LINDSEY,Prosecuting Attorney,,REP,Rod Richardson,193
+Benton,FRISTOE/ALEXANDER,Prosecuting Attorney,,REP,Dan Hagedorn,314
+Benton,FRISTOE/ALEXANDER,Prosecuting Attorney,,REP,Rod Richardson,143
+Benton,UNION,Prosecuting Attorney,,REP,Dan Hagedorn,143
+Benton,UNION,Prosecuting Attorney,,REP,Rod Richardson,107
+Benton,TOM,Prosecuting Attorney,,REP,Dan Hagedorn,236
+Benton,TOM,Prosecuting Attorney,,REP,Rod Richardson,151
+Benton,ABSENTEE,Prosecuting Attorney,,REP,Dan Hagedorn,360
+Benton,ABSENTEE,Prosecuting Attorney,,REP,Rod Richardson,154
+Benton,WHITE,Collector,,REP,David Brodersen,378
+Benton,WILLIAMS,Collector,,REP,David Brodersen,602
+Benton,COLE,Collector,,REP,David Brodersen,307
+Benton,LINDSEY,Collector,,REP,David Brodersen,704
+Benton,FRISTOE/ALEXANDER,Collector,,REP,David Brodersen,441
+Benton,UNION,Collector,,REP,David Brodersen,237
+Benton,TOM,Collector,,REP,David Brodersen,362
+Benton,ABSENTEE,Collector,,REP,David Brodersen,469
+Benton,WHITE,State Auditor,,DEM,Quentin Wilson,31
+Benton,WHITE,State Auditor,,DEM,Gregory Upchurch,15
+Benton,WILLIAMS,State Auditor,,DEM,Quentin Wilson,39
+Benton,WILLIAMS,State Auditor,,DEM,Gregory Upchurch,17
+Benton,COLE,State Auditor,,DEM,Quentin Wilson,27
+Benton,COLE,State Auditor,,DEM,Gregory Upchurch,35
+Benton,LINDSEY,State Auditor,,DEM,Quentin Wilson,67
+Benton,LINDSEY,State Auditor,,DEM,Gregory Upchurch,60
+Benton,FRISTOE/ALEXANDER,State Auditor,,DEM,Quentin Wilson,46
+Benton,FRISTOE/ALEXANDER,State Auditor,,DEM,Gregory Upchurch,37
+Benton,UNION,State Auditor,,DEM,Quentin Wilson,25
+Benton,UNION,State Auditor,,DEM,Gregory Upchurch,22
+Benton,TOM,State Auditor,,DEM,Quentin Wilson,64
+Benton,TOM,State Auditor,,DEM,Gregory Upchurch,37
+Benton,ABSENTEE,State Auditor,,DEM,Quentin Wilson,106
+Benton,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,63
+Benton,WHITE,U.S. House,4,DEM,Jordan Herrera,13
+Benton,WHITE,U.S. House,4,DEM,Wayne Russell,4
+Benton,WHITE,U.S. House,4,DEM,Hartzell Gray 3rd,7
+Benton,WHITE,U.S. House,4,DEM,G Rick,1
+Benton,WHITE,U.S. House,4,DEM,Jeanette Cass,8
+Benton,WHITE,U.S. House,4,DEM,Ashleigh Rogers,6
+Benton,WHITE,U.S. House,4,DEM,Randy Miller,6
+Benton,WILLIAMS,U.S. House,4,DEM,Jordan Herrera,11
+Benton,WILLIAMS,U.S. House,4,DEM,Wayne Russell,2
+Benton,WILLIAMS,U.S. House,4,DEM,Hartzell Gray 3rd,7
+Benton,WILLIAMS,U.S. House,4,DEM,G Rick,0
+Benton,WILLIAMS,U.S. House,4,DEM,Jeanette Cass,14
+Benton,WILLIAMS,U.S. House,4,DEM,Ashleigh Rogers,14
+Benton,WILLIAMS,U.S. House,4,DEM,Randy Miller,11
+Benton,COLE,U.S. House,4,DEM,Jordan Herrera,11
+Benton,COLE,U.S. House,4,DEM,Wayne Russell,2
+Benton,COLE,U.S. House,4,DEM,Hartzell Gray 3rd,6
+Benton,COLE,U.S. House,4,DEM,G Rick,1
+Benton,COLE,U.S. House,4,DEM,Jeanette Cass,17
+Benton,COLE,U.S. House,4,DEM,Ashleigh Rogers,12
+Benton,COLE,U.S. House,4,DEM,Randy Miller,15
+Benton,LINDSEY,U.S. House,4,DEM,Jordan Herrera,34
+Benton,LINDSEY,U.S. House,4,DEM,Wayne Russell,11
+Benton,LINDSEY,U.S. House,4,DEM,Hartzell Gray 3rd,11
+Benton,LINDSEY,U.S. House,4,DEM,G Rick,3
+Benton,LINDSEY,U.S. House,4,DEM,Jeanette Cass,33
+Benton,LINDSEY,U.S. House,4,DEM,Ashleigh Rogers,18
+Benton,LINDSEY,U.S. House,4,DEM,Randy Miller,18
+Benton,FRISTOE/ALEXANDER,U.S. House,4,DEM,Jordan Herrera,13
+Benton,FRISTOE/ALEXANDER,U.S. House,4,DEM,Wayne Russell,12
+Benton,FRISTOE/ALEXANDER,U.S. House,4,DEM,Hartzell Gray 3rd,11
+Benton,FRISTOE/ALEXANDER,U.S. House,4,DEM,G Rick,1
+Benton,FRISTOE/ALEXANDER,U.S. House,4,DEM,Jeanette Cass,19
+Benton,FRISTOE/ALEXANDER,U.S. House,4,DEM,Ashleigh Rogers,15
+Benton,FRISTOE/ALEXANDER,U.S. House,4,DEM,Randy Miller,19
+Benton,UNION,U.S. House,4,DEM,Jordan Herrera,11
+Benton,UNION,U.S. House,4,DEM,Wayne Russell,4
+Benton,UNION,U.S. House,4,DEM,Hartzell Gray 3rd,5
+Benton,UNION,U.S. House,4,DEM,G Rick,1
+Benton,UNION,U.S. House,4,DEM,Jeanette Cass,11
+Benton,UNION,U.S. House,4,DEM,Ashleigh Rogers,9
+Benton,UNION,U.S. House,4,DEM,Randy Miller,6
+Benton,TOM,U.S. House,4,DEM,Jordan Herrera,27
+Benton,TOM,U.S. House,4,DEM,Wayne Russell,18
+Benton,TOM,U.S. House,4,DEM,Hartzell Gray 3rd,14
+Benton,TOM,U.S. House,4,DEM,G Rick,3
+Benton,TOM,U.S. House,4,DEM,Jeanette Cass,20
+Benton,TOM,U.S. House,4,DEM,Ashleigh Rogers,14
+Benton,TOM,U.S. House,4,DEM,Randy Miller,12
+Benton,ABSENTEE,U.S. House,4,DEM,Jordan Herrera,51
+Benton,ABSENTEE,U.S. House,4,DEM,Wayne Russell,8
+Benton,ABSENTEE,U.S. House,4,DEM,Hartzell Gray 3rd,15
+Benton,ABSENTEE,U.S. House,4,DEM,G Rick,3
+Benton,ABSENTEE,U.S. House,4,DEM,Jeanette Cass,42
+Benton,ABSENTEE,U.S. House,4,DEM,Ashleigh Rogers,34
+Benton,ABSENTEE,U.S. House,4,DEM,Randy Miller,25
+Benton,WHITE,State Senate,28,DEM,Mike McCaffree,43
+Benton,WILLIAMS,State Senate,28,DEM,Mike McCaffree,55
+Benton,COLE,State Senate,28,DEM,Mike McCaffree,61
+Benton,LINDSEY,State Senate,28,DEM,Mike McCaffree,126
+Benton,FRISTOE/ALEXANDER,State Senate,28,DEM,Mike McCaffree,82
+Benton,UNION,State Senate,28,DEM,Mike McCaffree,43
+Benton,TOM,State Senate,28,DEM,Mike McCaffree,102
+Benton,ABSENTEE,State Senate,28,DEM,Mike McCaffree,164
+Benton,WHITE,State House,57,DEM,Michael D. Walbom,43
+Benton,WILLIAMS,State House,57,DEM,Michael D. Walbom,55
+Benton,COLE,State House,57,DEM,Michael D. Walbom,63
+Benton,LINDSEY,State House,57,DEM,Michael D. Walbom,127
+Benton,FRISTOE/ALEXANDER,State House,57,DEM,Michael D. Walbom,65
+Benton,UNION,State House,57,DEM,Michael D. Walbom,43
+Benton,TOM,State House,57,DEM,Michael D. Walbom,0
+Benton,ABSENTEE,State House,57,DEM,Michael D. Walbom,136
+Benton,FRISTOE/ALEXANDER,State House,126,DEM,Melissa Perry,16
+Benton,TOM,State House,126,DEM,Melissa Perry,101
+Benton,ABSENTEE,State House,126,DEM,Melissa Perry,30
+Benton,WHITE,State Auditor,,LIB,Dustin Coffell,0
+Benton,WILLIAMS,State Auditor,,LIB,Dustin Coffell,6
+Benton,COLE,State Auditor,,LIB,Dustin Coffell,1
+Benton,LINDSEY,State Auditor,,LIB,Dustin Coffell,4
+Benton,FRISTOE/ALEXANDER,State Auditor,,LIB,Dustin Coffell,1
+Benton,UNION,State Auditor,,LIB,Dustin Coffell,3
+Benton,TOM,State Auditor,,LIB,Dustin Coffell,1
+Benton,ABSENTEE,State Auditor,,LIB,Dustin Coffell,1
+Benton,WHITE,U.S. House,4,LIB,Thomas Holbrook,0
+Benton,WILLIAMS,U.S. House,4,LIB,Thomas Holbrook,6
+Benton,COLE,U.S. House,4,LIB,Thomas Holbrook,1
+Benton,LINDSEY,U.S. House,4,LIB,Thomas Holbrook,5
+Benton,FRISTOE/ALEXANDER,U.S. House,4,LIB,Thomas Holbrook,1
+Benton,UNION,U.S. House,4,LIB,Thomas Holbrook,3
+Benton,TOM,U.S. House,4,LIB,Thomas Holbrook,1
+Benton,ABSENTEE,U.S. House,4,LIB,Thomas Holbrook,1
+Benton,WHITE,Constitutional Amendment 1,,,Yes,379
+Benton,WHITE,Constitutional Amendment 1,,,No,127
+Benton,WILLIAMS,Constitutional Amendment 1,,,Yes,587
+Benton,WILLIAMS,Constitutional Amendment 1,,,No,202
+Benton,COLE,Constitutional Amendment 1,,,Yes,341
+Benton,COLE,Constitutional Amendment 1,,,No,99
+Benton,LINDSEY,Constitutional Amendment 1,,,Yes,794
+Benton,LINDSEY,Constitutional Amendment 1,,,No,206
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 1,,,Yes,507
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 1,,,No,137
+Benton,UNION,Constitutional Amendment 1,,,Yes,266
+Benton,UNION,Constitutional Amendment 1,,,No,78
+Benton,TOM,Constitutional Amendment 1,,,Yes,476
+Benton,TOM,Constitutional Amendment 1,,,No,97
+Benton,ABSENTEE,Constitutional Amendment 1,,,Yes,641
+Benton,ABSENTEE,Constitutional Amendment 1,,,No,131
+Benton,WHITE,Constitutional Amendment 2,,,Yes,424
+Benton,WHITE,Constitutional Amendment 2,,,No,75
+Benton,WILLIAMS,Constitutional Amendment 2,,,Yes,615
+Benton,WILLIAMS,Constitutional Amendment 2,,,No,164
+Benton,COLE,Constitutional Amendment 2,,,Yes,349
+Benton,COLE,Constitutional Amendment 2,,,No,82
+Benton,LINDSEY,Constitutional Amendment 2,,,Yes,802
+Benton,LINDSEY,Constitutional Amendment 2,,,No,184
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 2,,,Yes,495
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 2,,,No,136
+Benton,UNION,Constitutional Amendment 2,,,Yes,265
+Benton,UNION,Constitutional Amendment 2,,,No,70
+Benton,TOM,Constitutional Amendment 2,,,Yes,460
+Benton,TOM,Constitutional Amendment 2,,,No,106
+Benton,ABSENTEE,Constitutional Amendment 2,,,Yes,608
+Benton,ABSENTEE,Constitutional Amendment 2,,,No,147
+Benton,WHITE,Constitutional Amendment 4,,,Yes,131
+Benton,WHITE,Constitutional Amendment 4,,,No,379
+Benton,WILLIAMS,Constitutional Amendment 4,,,Yes,158
+Benton,WILLIAMS,Constitutional Amendment 4,,,No,640
+Benton,COLE,Constitutional Amendment 4,,,Yes,97
+Benton,COLE,Constitutional Amendment 4,,,No,351
+Benton,LINDSEY,Constitutional Amendment 4,,,Yes,199
+Benton,LINDSEY,Constitutional Amendment 4,,,No,809
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 4,,,Yes,114
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 4,,,No,536
+Benton,UNION,Constitutional Amendment 4,,,Yes,84
+Benton,UNION,Constitutional Amendment 4,,,No,260
+Benton,TOM,Constitutional Amendment 4,,,Yes,119
+Benton,TOM,Constitutional Amendment 4,,,No,453
+Benton,ABSENTEE,Constitutional Amendment 4,,,Yes,160
+Benton,ABSENTEE,Constitutional Amendment 4,,,No,622
+Benton,WHITE,Constitutional Amendment 5,,,Yes,82
+Benton,WHITE,Constitutional Amendment 5,,,No,427
+Benton,WILLIAMS,Constitutional Amendment 5,,,Yes,75
+Benton,WILLIAMS,Constitutional Amendment 5,,,No,723
+Benton,COLE,Constitutional Amendment 5,,,Yes,48
+Benton,COLE,Constitutional Amendment 5,,,No,396
+Benton,LINDSEY,Constitutional Amendment 5,,,Yes,130
+Benton,LINDSEY,Constitutional Amendment 5,,,No,881
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 5,,,Yes,73
+Benton,FRISTOE/ALEXANDER,Constitutional Amendment 5,,,No,577
+Benton,UNION,Constitutional Amendment 5,,,Yes,49
+Benton,UNION,Constitutional Amendment 5,,,No,296
+Benton,TOM,Constitutional Amendment 5,,,Yes,82
+Benton,TOM,Constitutional Amendment 5,,,No,491
+Benton,ABSENTEE,Constitutional Amendment 5,,,Yes,88
+Benton,ABSENTEE,Constitutional Amendment 5,,,No,699

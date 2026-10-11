@@ -1,0 +1,13 @@
+TITLE	WALKER TOWNSHIP COMMITTEEMAN (REPUBLICAN PARTY)
+CANDS	JEFFREY NOLD	GREG A. WESTHUSING
+1	Jurisdiction Wide	Jurisdiction Wide	-,-,-,-,-,-,-,-,-
+2	URICH	URICH	-,-,-,-,-,-,-,-,-
+3	URICH	Normal	1328,492,37.05%,166,73,22,30.14%,51,69.86%
+4	URICH	Absentee	1328,-,-,166,0,0,-,0,-
+5	ABSENTEE	ABSENTEE	-,-,-,-,-,-,-,-,-
+6	ABSENTEE	Normal	-,-,-,0,0,0,-,0,-
+7	ABSENTEE	Absentee	-,829,-,0,18,4,22.22%,14,77.78%
+8	Total	Total	-,-,-,-,-,-,-,-,-
+9	Total	Normal	14120,4954,35.08%,166,73,22,30.14%,51,69.86%
+10	Total	Absentee	14120,829,5.87%,166,18,4,22.22%,14,77.78%
+11	Total	Total	14120,5783,40.96%,166,91,26,28.57%,65,71.43%

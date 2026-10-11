@@ -1,0 +1,2812 @@
+county,precinct,office,district,party,candidate,votes
+Clay,21 GALLATIN 01,State Auditor,,REP,Scott Fitzpatrick,75
+Clay,21 GALLATIN 02,State Auditor,,REP,Scott Fitzpatrick,271
+Clay,21 GALLATIN 03,State Auditor,,REP,Scott Fitzpatrick,127
+Clay,21 GALLATIN 04,State Auditor,,REP,Scott Fitzpatrick,141
+Clay,21 GALLATIN 05,State Auditor,,REP,Scott Fitzpatrick,162
+Clay,21 GALLATIN 06,State Auditor,,REP,Scott Fitzpatrick,120
+Clay,21 GALLATIN 07,State Auditor,,REP,Scott Fitzpatrick,108
+Clay,21 GALLATIN 08,State Auditor,,REP,Scott Fitzpatrick,125
+Clay,21 GALLATIN 09,State Auditor,,REP,Scott Fitzpatrick,82
+Clay,21 GALLATIN 10,State Auditor,,REP,Scott Fitzpatrick,327
+Clay,21 CHOUTEAU 11,State Auditor,,REP,Scott Fitzpatrick,180
+Clay,21 CHOUTEAU 12,State Auditor,,REP,Scott Fitzpatrick,259
+Clay,21 CHOUTEAU 13,State Auditor,,REP,Scott Fitzpatrick,389
+Clay,21 GALLATIN 14,State Auditor,,REP,Scott Fitzpatrick,113
+Clay,21 GALLATIN 15,State Auditor,,REP,Scott Fitzpatrick,65
+Clay,21 CHOUTEAU 16,State Auditor,,REP,Scott Fitzpatrick,264
+Clay,21 CHOUTEAU 17,State Auditor,,REP,Scott Fitzpatrick,292
+Clay,21 CHOUTEAU 18,State Auditor,,REP,Scott Fitzpatrick,183
+Clay,21 CHOUTEAU 19,State Auditor,,REP,Scott Fitzpatrick,114
+Clay,21 GALLATIN 20,State Auditor,,REP,Scott Fitzpatrick,233
+Clay,21 CHOUTEAU 21,State Auditor,,REP,Scott Fitzpatrick,156
+Clay,21 CHOUTEAU 22,State Auditor,,REP,Scott Fitzpatrick,34
+Clay,21 GALLATIN 23,State Auditor,,REP,Scott Fitzpatrick,60
+Clay,21 GALLATIN 24,State Auditor,,REP,Scott Fitzpatrick,69
+Clay,21 GALLATIN 25,State Auditor,,REP,Scott Fitzpatrick,112
+Clay,21 CHOUTEAU 26,State Auditor,,REP,Scott Fitzpatrick,392
+Clay,21 CHOUTEAU 27,State Auditor,,REP,Scott Fitzpatrick,313
+Clay,21 CHOUTEAU 28,State Auditor,,REP,Scott Fitzpatrick,284
+Clay,21 GALLATIN 29,State Auditor,,REP,Scott Fitzpatrick,183
+Clay,21 CHOUTEAU 30,State Auditor,,REP,Scott Fitzpatrick,286
+Clay,21 PLATTE 01,State Auditor,,REP,Scott Fitzpatrick,262
+Clay,21 PLATTE 02,State Auditor,,REP,Scott Fitzpatrick,186
+Clay,21 LIBERTY 01,State Auditor,,REP,Scott Fitzpatrick,286
+Clay,21 LIBERTY 02,State Auditor,,REP,Scott Fitzpatrick,261
+Clay,21 LIBERTY 03,State Auditor,,REP,Scott Fitzpatrick,429
+Clay,21 LIBERTY 04,State Auditor,,REP,Scott Fitzpatrick,272
+Clay,21 LIBERTY 05,State Auditor,,REP,Scott Fitzpatrick,183
+Clay,21 LIBERTY 06,State Auditor,,REP,Scott Fitzpatrick,189
+Clay,21 LIBERTY 07,State Auditor,,REP,Scott Fitzpatrick,190
+Clay,21 LIBERTY 08,State Auditor,,REP,Scott Fitzpatrick,183
+Clay,21 LIBERTY 09,State Auditor,,REP,Scott Fitzpatrick,307
+Clay,GALLATIN 01,State Auditor,,REP,Scott Fitzpatrick,99
+Clay,GALLATIN 02,State Auditor,,REP,Scott Fitzpatrick,81
+Clay,GALLATIN 03,State Auditor,,REP,Scott Fitzpatrick,228
+Clay,GALLATIN 04,State Auditor,,REP,Scott Fitzpatrick,187
+Clay,GALLATIN 05,State Auditor,,REP,Scott Fitzpatrick,222
+Clay,GALLATIN 06,State Auditor,,REP,Scott Fitzpatrick,194
+Clay,GALLATIN 07,State Auditor,,REP,Scott Fitzpatrick,107
+Clay,CHOUTEAU 08,State Auditor,,REP,Scott Fitzpatrick,101
+Clay,GALLATIN 09,State Auditor,,REP,Scott Fitzpatrick,171
+Clay,GALLATIN 10,State Auditor,,REP,Scott Fitzpatrick,151
+Clay,GALLATIN 11,State Auditor,,REP,Scott Fitzpatrick,262
+Clay,GALLATIN 12,State Auditor,,REP,Scott Fitzpatrick,142
+Clay,GALLATIN 13,State Auditor,,REP,Scott Fitzpatrick,115
+Clay,FISHING RIVER 01,State Auditor,,REP,Scott Fitzpatrick,265
+Clay,FISHING RIVER 02,State Auditor,,REP,Scott Fitzpatrick,307
+Clay,FISHING RIVER 03,State Auditor,,REP,Scott Fitzpatrick,119
+Clay,FISHING RIVER 04,State Auditor,,REP,Scott Fitzpatrick,216
+Clay,KEARNEY 01,State Auditor,,REP,Scott Fitzpatrick,305
+Clay,KEARNEY 02,State Auditor,,REP,Scott Fitzpatrick,326
+Clay,KEARNEY 03,State Auditor,,REP,Scott Fitzpatrick,546
+Clay,KEARNEY 04,State Auditor,,REP,Scott Fitzpatrick,412
+Clay,KEARNEY 05,State Auditor,,REP,Scott Fitzpatrick,553
+Clay,LIBERTY 01,State Auditor,,REP,Scott Fitzpatrick,202
+Clay,LIBERTY 02,State Auditor,,REP,Scott Fitzpatrick,285
+Clay,LIBERTY 03,State Auditor,,REP,Scott Fitzpatrick,186
+Clay,LIBERTY 04,State Auditor,,REP,Scott Fitzpatrick,168
+Clay,LIBERTY 05,State Auditor,,REP,Scott Fitzpatrick,174
+Clay,LIBERTY 06,State Auditor,,REP,Scott Fitzpatrick,348
+Clay,LIBERTY 07,State Auditor,,REP,Scott Fitzpatrick,206
+Clay,LIBERTY 08,State Auditor,,REP,Scott Fitzpatrick,241
+Clay,LIBERTY 09,State Auditor,,REP,Scott Fitzpatrick,336
+Clay,LIBERTY 10,State Auditor,,REP,Scott Fitzpatrick,274
+Clay,LIBERTY 11,State Auditor,,REP,Scott Fitzpatrick,211
+Clay,LIBERTY 13,State Auditor,,REP,Scott Fitzpatrick,404
+Clay,LIBERTY 14,State Auditor,,REP,Scott Fitzpatrick,239
+Clay,PLATTE 01,State Auditor,,REP,Scott Fitzpatrick,674
+Clay,PLATTE 02,State Auditor,,REP,Scott Fitzpatrick,551
+Clay,PLATTE 03,State Auditor,,REP,Scott Fitzpatrick,315
+Clay,WASHINGTON 01,State Auditor,,REP,Scott Fitzpatrick,192
+Clay,WASHINGTON 02,State Auditor,,REP,Scott Fitzpatrick,225
+Clay,WASHINGTON 03,State Auditor,,REP,Scott Fitzpatrick,213
+Clay,21 GALLATIN 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,9
+Clay,21 GALLATIN 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,53
+Clay,21 GALLATIN 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,28
+Clay,21 GALLATIN 04,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,22
+Clay,21 GALLATIN 05,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,19
+Clay,21 GALLATIN 06,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,25
+Clay,21 GALLATIN 07,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,27
+Clay,21 GALLATIN 08,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,23
+Clay,21 GALLATIN 09,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,19
+Clay,21 GALLATIN 10,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,53
+Clay,21 CHOUTEAU 11,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,31
+Clay,21 CHOUTEAU 12,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,44
+Clay,21 CHOUTEAU 13,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,65
+Clay,21 GALLATIN 14,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,24
+Clay,21 GALLATIN 15,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,13
+Clay,21 CHOUTEAU 16,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,46
+Clay,21 CHOUTEAU 17,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,47
+Clay,21 CHOUTEAU 18,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,37
+Clay,21 CHOUTEAU 19,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,26
+Clay,21 GALLATIN 20,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,55
+Clay,21 CHOUTEAU 21,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Clay,21 CHOUTEAU 22,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,6
+Clay,21 GALLATIN 23,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,17
+Clay,21 GALLATIN 24,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,14
+Clay,21 GALLATIN 25,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,22
+Clay,21 CHOUTEAU 26,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,70
+Clay,21 CHOUTEAU 27,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,53
+Clay,21 CHOUTEAU 28,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,35
+Clay,21 GALLATIN 29,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,33
+Clay,21 CHOUTEAU 30,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,62
+Clay,21 PLATTE 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,48
+Clay,21 PLATTE 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,32
+Clay,21 LIBERTY 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,65
+Clay,21 LIBERTY 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,54
+Clay,21 LIBERTY 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,68
+Clay,21 LIBERTY 04,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,41
+Clay,21 LIBERTY 05,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Clay,21 LIBERTY 06,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,32
+Clay,21 LIBERTY 07,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,39
+Clay,21 LIBERTY 08,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,22
+Clay,21 LIBERTY 09,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,40
+Clay,GALLATIN 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,17
+Clay,GALLATIN 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,13
+Clay,GALLATIN 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,46
+Clay,GALLATIN 04,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,38
+Clay,GALLATIN 05,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,51
+Clay,GALLATIN 06,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,45
+Clay,GALLATIN 07,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,14
+Clay,CHOUTEAU 08,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,21
+Clay,GALLATIN 09,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Clay,GALLATIN 10,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,18
+Clay,GALLATIN 11,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,50
+Clay,GALLATIN 12,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,24
+Clay,GALLATIN 13,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,18
+Clay,FISHING RIVER 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,43
+Clay,FISHING RIVER 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,65
+Clay,FISHING RIVER 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,27
+Clay,FISHING RIVER 04,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,27
+Clay,KEARNEY 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,50
+Clay,KEARNEY 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,68
+Clay,KEARNEY 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,112
+Clay,KEARNEY 04,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,90
+Clay,KEARNEY 05,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,80
+Clay,LIBERTY 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,52
+Clay,LIBERTY 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,45
+Clay,LIBERTY 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,36
+Clay,LIBERTY 04,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,29
+Clay,LIBERTY 05,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,39
+Clay,LIBERTY 06,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,64
+Clay,LIBERTY 07,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,47
+Clay,LIBERTY 08,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,32
+Clay,LIBERTY 09,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,68
+Clay,LIBERTY 10,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,50
+Clay,LIBERTY 11,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,53
+Clay,LIBERTY 13,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,88
+Clay,LIBERTY 14,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,33
+Clay,PLATTE 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,100
+Clay,PLATTE 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,104
+Clay,PLATTE 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,50
+Clay,WASHINGTON 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,32
+Clay,WASHINGTON 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,31
+Clay,WASHINGTON 03,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,44
+Clay,21 GALLATIN 01,U.S. House,6,REP,Jim Ingram,8
+Clay,21 GALLATIN 02,U.S. House,6,REP,Jim Ingram,24
+Clay,21 GALLATIN 03,U.S. House,6,REP,Jim Ingram,20
+Clay,21 GALLATIN 04,U.S. House,6,REP,Jim Ingram,19
+Clay,21 GALLATIN 05,U.S. House,6,REP,Jim Ingram,12
+Clay,21 GALLATIN 06,U.S. House,6,REP,Jim Ingram,15
+Clay,21 GALLATIN 07,U.S. House,6,REP,Jim Ingram,18
+Clay,21 GALLATIN 08,U.S. House,6,REP,Jim Ingram,11
+Clay,21 GALLATIN 09,U.S. House,6,REP,Jim Ingram,7
+Clay,21 GALLATIN 10,U.S. House,6,REP,Jim Ingram,39
+Clay,21 CHOUTEAU 11,U.S. House,6,REP,Jim Ingram,21
+Clay,21 CHOUTEAU 12,U.S. House,6,REP,Jim Ingram,34
+Clay,21 CHOUTEAU 13,U.S. House,6,REP,Jim Ingram,38
+Clay,21 GALLATIN 14,U.S. House,6,REP,Jim Ingram,18
+Clay,21 GALLATIN 15,U.S. House,6,REP,Jim Ingram,15
+Clay,21 CHOUTEAU 16,U.S. House,6,REP,Jim Ingram,35
+Clay,21 CHOUTEAU 17,U.S. House,6,REP,Jim Ingram,32
+Clay,21 CHOUTEAU 18,U.S. House,6,REP,Jim Ingram,17
+Clay,21 CHOUTEAU 19,U.S. House,6,REP,Jim Ingram,13
+Clay,21 GALLATIN 20,U.S. House,6,REP,Jim Ingram,35
+Clay,21 CHOUTEAU 21,U.S. House,6,REP,Jim Ingram,31
+Clay,21 CHOUTEAU 22,U.S. House,6,REP,Jim Ingram,6
+Clay,21 GALLATIN 23,U.S. House,6,REP,Jim Ingram,12
+Clay,21 GALLATIN 24,U.S. House,6,REP,Jim Ingram,16
+Clay,21 GALLATIN 25,U.S. House,6,REP,Jim Ingram,13
+Clay,21 CHOUTEAU 26,U.S. House,6,REP,Jim Ingram,23
+Clay,21 CHOUTEAU 27,U.S. House,6,REP,Jim Ingram,17
+Clay,21 CHOUTEAU 28,U.S. House,6,REP,Jim Ingram,24
+Clay,21 GALLATIN 29,U.S. House,6,REP,Jim Ingram,23
+Clay,21 CHOUTEAU 30,U.S. House,6,REP,Jim Ingram,21
+Clay,21 PLATTE 01,U.S. House,6,REP,Jim Ingram,17
+Clay,21 PLATTE 02,U.S. House,6,REP,Jim Ingram,23
+Clay,21 LIBERTY 01,U.S. House,6,REP,Jim Ingram,21
+Clay,21 LIBERTY 02,U.S. House,6,REP,Jim Ingram,13
+Clay,21 LIBERTY 03,U.S. House,6,REP,Jim Ingram,35
+Clay,21 LIBERTY 04,U.S. House,6,REP,Jim Ingram,21
+Clay,21 LIBERTY 05,U.S. House,6,REP,Jim Ingram,10
+Clay,21 LIBERTY 06,U.S. House,6,REP,Jim Ingram,17
+Clay,21 LIBERTY 07,U.S. House,6,REP,Jim Ingram,13
+Clay,21 LIBERTY 08,U.S. House,6,REP,Jim Ingram,11
+Clay,21 LIBERTY 09,U.S. House,6,REP,Jim Ingram,11
+Clay,GALLATIN 01,U.S. House,6,REP,Jim Ingram,11
+Clay,GALLATIN 02,U.S. House,6,REP,Jim Ingram,14
+Clay,GALLATIN 03,U.S. House,6,REP,Jim Ingram,20
+Clay,GALLATIN 04,U.S. House,6,REP,Jim Ingram,21
+Clay,GALLATIN 05,U.S. House,6,REP,Jim Ingram,22
+Clay,GALLATIN 06,U.S. House,6,REP,Jim Ingram,21
+Clay,GALLATIN 07,U.S. House,6,REP,Jim Ingram,16
+Clay,CHOUTEAU 08,U.S. House,6,REP,Jim Ingram,16
+Clay,GALLATIN 09,U.S. House,6,REP,Jim Ingram,17
+Clay,GALLATIN 10,U.S. House,6,REP,Jim Ingram,16
+Clay,GALLATIN 11,U.S. House,6,REP,Jim Ingram,33
+Clay,GALLATIN 12,U.S. House,6,REP,Jim Ingram,20
+Clay,GALLATIN 13,U.S. House,6,REP,Jim Ingram,12
+Clay,FISHING RIVER 01,U.S. House,6,REP,Jim Ingram,16
+Clay,FISHING RIVER 02,U.S. House,6,REP,Jim Ingram,27
+Clay,FISHING RIVER 03,U.S. House,6,REP,Jim Ingram,11
+Clay,FISHING RIVER 04,U.S. House,6,REP,Jim Ingram,11
+Clay,KEARNEY 01,U.S. House,6,REP,Jim Ingram,26
+Clay,KEARNEY 02,U.S. House,6,REP,Jim Ingram,17
+Clay,KEARNEY 03,U.S. House,6,REP,Jim Ingram,20
+Clay,KEARNEY 04,U.S. House,6,REP,Jim Ingram,23
+Clay,KEARNEY 05,U.S. House,6,REP,Jim Ingram,21
+Clay,LIBERTY 01,U.S. House,6,REP,Jim Ingram,19
+Clay,LIBERTY 02,U.S. House,6,REP,Jim Ingram,23
+Clay,LIBERTY 03,U.S. House,6,REP,Jim Ingram,19
+Clay,LIBERTY 04,U.S. House,6,REP,Jim Ingram,24
+Clay,LIBERTY 05,U.S. House,6,REP,Jim Ingram,17
+Clay,LIBERTY 06,U.S. House,6,REP,Jim Ingram,35
+Clay,LIBERTY 07,U.S. House,6,REP,Jim Ingram,18
+Clay,LIBERTY 08,U.S. House,6,REP,Jim Ingram,15
+Clay,LIBERTY 09,U.S. House,6,REP,Jim Ingram,17
+Clay,LIBERTY 10,U.S. House,6,REP,Jim Ingram,30
+Clay,LIBERTY 11,U.S. House,6,REP,Jim Ingram,28
+Clay,LIBERTY 13,U.S. House,6,REP,Jim Ingram,34
+Clay,LIBERTY 14,U.S. House,6,REP,Jim Ingram,39
+Clay,PLATTE 01,U.S. House,6,REP,Jim Ingram,35
+Clay,PLATTE 02,U.S. House,6,REP,Jim Ingram,26
+Clay,PLATTE 03,U.S. House,6,REP,Jim Ingram,13
+Clay,WASHINGTON 01,U.S. House,6,REP,Jim Ingram,18
+Clay,WASHINGTON 02,U.S. House,6,REP,Jim Ingram,14
+Clay,WASHINGTON 03,U.S. House,6,REP,Jim Ingram,13
+Clay,21 GALLATIN 01,U.S. House,6,REP,Chris Stigall,53
+Clay,21 GALLATIN 02,U.S. House,6,REP,Chris Stigall,163
+Clay,21 GALLATIN 03,U.S. House,6,REP,Chris Stigall,82
+Clay,21 GALLATIN 04,U.S. House,6,REP,Chris Stigall,89
+Clay,21 GALLATIN 05,U.S. House,6,REP,Chris Stigall,104
+Clay,21 GALLATIN 06,U.S. House,6,REP,Chris Stigall,96
+Clay,21 GALLATIN 07,U.S. House,6,REP,Chris Stigall,69
+Clay,21 GALLATIN 08,U.S. House,6,REP,Chris Stigall,75
+Clay,21 GALLATIN 09,U.S. House,6,REP,Chris Stigall,60
+Clay,21 GALLATIN 10,U.S. House,6,REP,Chris Stigall,210
+Clay,21 CHOUTEAU 11,U.S. House,6,REP,Chris Stigall,129
+Clay,21 CHOUTEAU 12,U.S. House,6,REP,Chris Stigall,171
+Clay,21 CHOUTEAU 13,U.S. House,6,REP,Chris Stigall,208
+Clay,21 GALLATIN 14,U.S. House,6,REP,Chris Stigall,75
+Clay,21 GALLATIN 15,U.S. House,6,REP,Chris Stigall,29
+Clay,21 CHOUTEAU 16,U.S. House,6,REP,Chris Stigall,171
+Clay,21 CHOUTEAU 17,U.S. House,6,REP,Chris Stigall,167
+Clay,21 CHOUTEAU 18,U.S. House,6,REP,Chris Stigall,104
+Clay,21 CHOUTEAU 19,U.S. House,6,REP,Chris Stigall,86
+Clay,21 GALLATIN 20,U.S. House,6,REP,Chris Stigall,158
+Clay,21 CHOUTEAU 21,U.S. House,6,REP,Chris Stigall,96
+Clay,21 CHOUTEAU 22,U.S. House,6,REP,Chris Stigall,16
+Clay,21 GALLATIN 23,U.S. House,6,REP,Chris Stigall,36
+Clay,21 GALLATIN 24,U.S. House,6,REP,Chris Stigall,37
+Clay,21 GALLATIN 25,U.S. House,6,REP,Chris Stigall,91
+Clay,21 CHOUTEAU 26,U.S. House,6,REP,Chris Stigall,250
+Clay,21 CHOUTEAU 27,U.S. House,6,REP,Chris Stigall,193
+Clay,21 CHOUTEAU 28,U.S. House,6,REP,Chris Stigall,172
+Clay,21 GALLATIN 29,U.S. House,6,REP,Chris Stigall,95
+Clay,21 CHOUTEAU 30,U.S. House,6,REP,Chris Stigall,177
+Clay,21 PLATTE 01,U.S. House,6,REP,Chris Stigall,175
+Clay,21 PLATTE 02,U.S. House,6,REP,Chris Stigall,110
+Clay,21 LIBERTY 01,U.S. House,6,REP,Chris Stigall,181
+Clay,21 LIBERTY 02,U.S. House,6,REP,Chris Stigall,156
+Clay,21 LIBERTY 03,U.S. House,6,REP,Chris Stigall,195
+Clay,21 LIBERTY 04,U.S. House,6,REP,Chris Stigall,147
+Clay,21 LIBERTY 05,U.S. House,6,REP,Chris Stigall,95
+Clay,21 LIBERTY 06,U.S. House,6,REP,Chris Stigall,95
+Clay,21 LIBERTY 07,U.S. House,6,REP,Chris Stigall,107
+Clay,21 LIBERTY 08,U.S. House,6,REP,Chris Stigall,86
+Clay,21 LIBERTY 09,U.S. House,6,REP,Chris Stigall,123
+Clay,GALLATIN 01,U.S. House,6,REP,Chris Stigall,69
+Clay,GALLATIN 02,U.S. House,6,REP,Chris Stigall,33
+Clay,GALLATIN 03,U.S. House,6,REP,Chris Stigall,173
+Clay,GALLATIN 04,U.S. House,6,REP,Chris Stigall,115
+Clay,GALLATIN 05,U.S. House,6,REP,Chris Stigall,158
+Clay,GALLATIN 06,U.S. House,6,REP,Chris Stigall,142
+Clay,GALLATIN 07,U.S. House,6,REP,Chris Stigall,64
+Clay,CHOUTEAU 08,U.S. House,6,REP,Chris Stigall,63
+Clay,GALLATIN 09,U.S. House,6,REP,Chris Stigall,126
+Clay,GALLATIN 10,U.S. House,6,REP,Chris Stigall,86
+Clay,GALLATIN 11,U.S. House,6,REP,Chris Stigall,185
+Clay,GALLATIN 12,U.S. House,6,REP,Chris Stigall,89
+Clay,GALLATIN 13,U.S. House,6,REP,Chris Stigall,69
+Clay,FISHING RIVER 01,U.S. House,6,REP,Chris Stigall,214
+Clay,FISHING RIVER 02,U.S. House,6,REP,Chris Stigall,271
+Clay,FISHING RIVER 03,U.S. House,6,REP,Chris Stigall,105
+Clay,FISHING RIVER 04,U.S. House,6,REP,Chris Stigall,151
+Clay,KEARNEY 01,U.S. House,6,REP,Chris Stigall,250
+Clay,KEARNEY 02,U.S. House,6,REP,Chris Stigall,280
+Clay,KEARNEY 03,U.S. House,6,REP,Chris Stigall,460
+Clay,KEARNEY 04,U.S. House,6,REP,Chris Stigall,347
+Clay,KEARNEY 05,U.S. House,6,REP,Chris Stigall,499
+Clay,LIBERTY 01,U.S. House,6,REP,Chris Stigall,124
+Clay,LIBERTY 02,U.S. House,6,REP,Chris Stigall,173
+Clay,LIBERTY 03,U.S. House,6,REP,Chris Stigall,100
+Clay,LIBERTY 04,U.S. House,6,REP,Chris Stigall,111
+Clay,LIBERTY 05,U.S. House,6,REP,Chris Stigall,130
+Clay,LIBERTY 06,U.S. House,6,REP,Chris Stigall,238
+Clay,LIBERTY 07,U.S. House,6,REP,Chris Stigall,136
+Clay,LIBERTY 08,U.S. House,6,REP,Chris Stigall,178
+Clay,LIBERTY 09,U.S. House,6,REP,Chris Stigall,255
+Clay,LIBERTY 10,U.S. House,6,REP,Chris Stigall,182
+Clay,LIBERTY 11,U.S. House,6,REP,Chris Stigall,117
+Clay,LIBERTY 13,U.S. House,6,REP,Chris Stigall,250
+Clay,LIBERTY 14,U.S. House,6,REP,Chris Stigall,145
+Clay,PLATTE 01,U.S. House,6,REP,Chris Stigall,417
+Clay,PLATTE 02,U.S. House,6,REP,Chris Stigall,386
+Clay,PLATTE 03,U.S. House,6,REP,Chris Stigall,212
+Clay,WASHINGTON 01,U.S. House,6,REP,Chris Stigall,151
+Clay,WASHINGTON 02,U.S. House,6,REP,Chris Stigall,171
+Clay,WASHINGTON 03,U.S. House,6,REP,Chris Stigall,163
+Clay,21 GALLATIN 01,U.S. House,6,REP,Nathan Hall Willett,17
+Clay,21 GALLATIN 02,U.S. House,6,REP,Nathan Hall Willett,136
+Clay,21 GALLATIN 03,U.S. House,6,REP,Nathan Hall Willett,40
+Clay,21 GALLATIN 04,U.S. House,6,REP,Nathan Hall Willett,37
+Clay,21 GALLATIN 05,U.S. House,6,REP,Nathan Hall Willett,62
+Clay,21 GALLATIN 06,U.S. House,6,REP,Nathan Hall Willett,18
+Clay,21 GALLATIN 07,U.S. House,6,REP,Nathan Hall Willett,30
+Clay,21 GALLATIN 08,U.S. House,6,REP,Nathan Hall Willett,42
+Clay,21 GALLATIN 09,U.S. House,6,REP,Nathan Hall Willett,29
+Clay,21 GALLATIN 10,U.S. House,6,REP,Nathan Hall Willett,119
+Clay,21 CHOUTEAU 11,U.S. House,6,REP,Nathan Hall Willett,68
+Clay,21 CHOUTEAU 12,U.S. House,6,REP,Nathan Hall Willett,90
+Clay,21 CHOUTEAU 13,U.S. House,6,REP,Nathan Hall Willett,211
+Clay,21 GALLATIN 14,U.S. House,6,REP,Nathan Hall Willett,33
+Clay,21 GALLATIN 15,U.S. House,6,REP,Nathan Hall Willett,26
+Clay,21 CHOUTEAU 16,U.S. House,6,REP,Nathan Hall Willett,90
+Clay,21 CHOUTEAU 17,U.S. House,6,REP,Nathan Hall Willett,104
+Clay,21 CHOUTEAU 18,U.S. House,6,REP,Nathan Hall Willett,66
+Clay,21 CHOUTEAU 19,U.S. House,6,REP,Nathan Hall Willett,26
+Clay,21 GALLATIN 20,U.S. House,6,REP,Nathan Hall Willett,81
+Clay,21 CHOUTEAU 21,U.S. House,6,REP,Nathan Hall Willett,48
+Clay,21 CHOUTEAU 22,U.S. House,6,REP,Nathan Hall Willett,14
+Clay,21 GALLATIN 23,U.S. House,6,REP,Nathan Hall Willett,22
+Clay,21 GALLATIN 24,U.S. House,6,REP,Nathan Hall Willett,23
+Clay,21 GALLATIN 25,U.S. House,6,REP,Nathan Hall Willett,13
+Clay,21 CHOUTEAU 26,U.S. House,6,REP,Nathan Hall Willett,172
+Clay,21 CHOUTEAU 27,U.S. House,6,REP,Nathan Hall Willett,172
+Clay,21 CHOUTEAU 28,U.S. House,6,REP,Nathan Hall Willett,113
+Clay,21 GALLATIN 29,U.S. House,6,REP,Nathan Hall Willett,73
+Clay,21 CHOUTEAU 30,U.S. House,6,REP,Nathan Hall Willett,153
+Clay,21 PLATTE 01,U.S. House,6,REP,Nathan Hall Willett,124
+Clay,21 PLATTE 02,U.S. House,6,REP,Nathan Hall Willett,80
+Clay,21 LIBERTY 01,U.S. House,6,REP,Nathan Hall Willett,136
+Clay,21 LIBERTY 02,U.S. House,6,REP,Nathan Hall Willett,137
+Clay,21 LIBERTY 03,U.S. House,6,REP,Nathan Hall Willett,323
+Clay,21 LIBERTY 04,U.S. House,6,REP,Nathan Hall Willett,168
+Clay,21 LIBERTY 05,U.S. House,6,REP,Nathan Hall Willett,118
+Clay,21 LIBERTY 06,U.S. House,6,REP,Nathan Hall Willett,119
+Clay,21 LIBERTY 07,U.S. House,6,REP,Nathan Hall Willett,114
+Clay,21 LIBERTY 08,U.S. House,6,REP,Nathan Hall Willett,118
+Clay,21 LIBERTY 09,U.S. House,6,REP,Nathan Hall Willett,243
+Clay,GALLATIN 01,U.S. House,6,REP,Nathan Hall Willett,40
+Clay,GALLATIN 02,U.S. House,6,REP,Nathan Hall Willett,30
+Clay,GALLATIN 03,U.S. House,6,REP,Nathan Hall Willett,64
+Clay,GALLATIN 04,U.S. House,6,REP,Nathan Hall Willett,76
+Clay,GALLATIN 05,U.S. House,6,REP,Nathan Hall Willett,84
+Clay,GALLATIN 06,U.S. House,6,REP,Nathan Hall Willett,41
+Clay,GALLATIN 07,U.S. House,6,REP,Nathan Hall Willett,40
+Clay,CHOUTEAU 08,U.S. House,6,REP,Nathan Hall Willett,29
+Clay,GALLATIN 09,U.S. House,6,REP,Nathan Hall Willett,51
+Clay,GALLATIN 10,U.S. House,6,REP,Nathan Hall Willett,52
+Clay,GALLATIN 11,U.S. House,6,REP,Nathan Hall Willett,85
+Clay,GALLATIN 12,U.S. House,6,REP,Nathan Hall Willett,40
+Clay,GALLATIN 13,U.S. House,6,REP,Nathan Hall Willett,50
+Clay,FISHING RIVER 01,U.S. House,6,REP,Nathan Hall Willett,71
+Clay,FISHING RIVER 02,U.S. House,6,REP,Nathan Hall Willett,80
+Clay,FISHING RIVER 03,U.S. House,6,REP,Nathan Hall Willett,41
+Clay,FISHING RIVER 04,U.S. House,6,REP,Nathan Hall Willett,93
+Clay,KEARNEY 01,U.S. House,6,REP,Nathan Hall Willett,80
+Clay,KEARNEY 02,U.S. House,6,REP,Nathan Hall Willett,100
+Clay,KEARNEY 03,U.S. House,6,REP,Nathan Hall Willett,186
+Clay,KEARNEY 04,U.S. House,6,REP,Nathan Hall Willett,130
+Clay,KEARNEY 05,U.S. House,6,REP,Nathan Hall Willett,167
+Clay,LIBERTY 01,U.S. House,6,REP,Nathan Hall Willett,110
+Clay,LIBERTY 02,U.S. House,6,REP,Nathan Hall Willett,156
+Clay,LIBERTY 03,U.S. House,6,REP,Nathan Hall Willett,106
+Clay,LIBERTY 04,U.S. House,6,REP,Nathan Hall Willett,61
+Clay,LIBERTY 05,U.S. House,6,REP,Nathan Hall Willett,61
+Clay,LIBERTY 06,U.S. House,6,REP,Nathan Hall Willett,139
+Clay,LIBERTY 07,U.S. House,6,REP,Nathan Hall Willett,95
+Clay,LIBERTY 08,U.S. House,6,REP,Nathan Hall Willett,91
+Clay,LIBERTY 09,U.S. House,6,REP,Nathan Hall Willett,149
+Clay,LIBERTY 10,U.S. House,6,REP,Nathan Hall Willett,122
+Clay,LIBERTY 11,U.S. House,6,REP,Nathan Hall Willett,108
+Clay,LIBERTY 13,U.S. House,6,REP,Nathan Hall Willett,225
+Clay,LIBERTY 14,U.S. House,6,REP,Nathan Hall Willett,90
+Clay,PLATTE 01,U.S. House,6,REP,Nathan Hall Willett,318
+Clay,PLATTE 02,U.S. House,6,REP,Nathan Hall Willett,234
+Clay,PLATTE 03,U.S. House,6,REP,Nathan Hall Willett,135
+Clay,WASHINGTON 01,U.S. House,6,REP,Nathan Hall Willett,59
+Clay,WASHINGTON 02,U.S. House,6,REP,Nathan Hall Willett,59
+Clay,WASHINGTON 03,U.S. House,6,REP,Nathan Hall Willett,61
+Clay,21 GALLATIN 01,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 GALLATIN 02,U.S. House,6,REP,Cody J. Oshel,16
+Clay,21 GALLATIN 03,U.S. House,6,REP,Cody J. Oshel,9
+Clay,21 GALLATIN 04,U.S. House,6,REP,Cody J. Oshel,9
+Clay,21 GALLATIN 05,U.S. House,6,REP,Cody J. Oshel,4
+Clay,21 GALLATIN 06,U.S. House,6,REP,Cody J. Oshel,10
+Clay,21 GALLATIN 07,U.S. House,6,REP,Cody J. Oshel,10
+Clay,21 GALLATIN 08,U.S. House,6,REP,Cody J. Oshel,12
+Clay,21 GALLATIN 09,U.S. House,6,REP,Cody J. Oshel,3
+Clay,21 GALLATIN 10,U.S. House,6,REP,Cody J. Oshel,18
+Clay,21 CHOUTEAU 11,U.S. House,6,REP,Cody J. Oshel,4
+Clay,21 CHOUTEAU 12,U.S. House,6,REP,Cody J. Oshel,7
+Clay,21 CHOUTEAU 13,U.S. House,6,REP,Cody J. Oshel,8
+Clay,21 GALLATIN 14,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 GALLATIN 15,U.S. House,6,REP,Cody J. Oshel,4
+Clay,21 CHOUTEAU 16,U.S. House,6,REP,Cody J. Oshel,16
+Clay,21 CHOUTEAU 17,U.S. House,6,REP,Cody J. Oshel,18
+Clay,21 CHOUTEAU 18,U.S. House,6,REP,Cody J. Oshel,15
+Clay,21 CHOUTEAU 19,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 GALLATIN 20,U.S. House,6,REP,Cody J. Oshel,11
+Clay,21 CHOUTEAU 21,U.S. House,6,REP,Cody J. Oshel,9
+Clay,21 CHOUTEAU 22,U.S. House,6,REP,Cody J. Oshel,4
+Clay,21 GALLATIN 23,U.S. House,6,REP,Cody J. Oshel,2
+Clay,21 GALLATIN 24,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 GALLATIN 25,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 CHOUTEAU 26,U.S. House,6,REP,Cody J. Oshel,11
+Clay,21 CHOUTEAU 27,U.S. House,6,REP,Cody J. Oshel,9
+Clay,21 CHOUTEAU 28,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 GALLATIN 29,U.S. House,6,REP,Cody J. Oshel,7
+Clay,21 CHOUTEAU 30,U.S. House,6,REP,Cody J. Oshel,10
+Clay,21 PLATTE 01,U.S. House,6,REP,Cody J. Oshel,17
+Clay,21 PLATTE 02,U.S. House,6,REP,Cody J. Oshel,16
+Clay,21 LIBERTY 01,U.S. House,6,REP,Cody J. Oshel,14
+Clay,21 LIBERTY 02,U.S. House,6,REP,Cody J. Oshel,13
+Clay,21 LIBERTY 03,U.S. House,6,REP,Cody J. Oshel,7
+Clay,21 LIBERTY 04,U.S. House,6,REP,Cody J. Oshel,5
+Clay,21 LIBERTY 05,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 LIBERTY 06,U.S. House,6,REP,Cody J. Oshel,6
+Clay,21 LIBERTY 07,U.S. House,6,REP,Cody J. Oshel,7
+Clay,21 LIBERTY 08,U.S. House,6,REP,Cody J. Oshel,4
+Clay,21 LIBERTY 09,U.S. House,6,REP,Cody J. Oshel,7
+Clay,GALLATIN 01,U.S. House,6,REP,Cody J. Oshel,5
+Clay,GALLATIN 02,U.S. House,6,REP,Cody J. Oshel,7
+Clay,GALLATIN 03,U.S. House,6,REP,Cody J. Oshel,15
+Clay,GALLATIN 04,U.S. House,6,REP,Cody J. Oshel,9
+Clay,GALLATIN 05,U.S. House,6,REP,Cody J. Oshel,7
+Clay,GALLATIN 06,U.S. House,6,REP,Cody J. Oshel,10
+Clay,GALLATIN 07,U.S. House,6,REP,Cody J. Oshel,2
+Clay,CHOUTEAU 08,U.S. House,6,REP,Cody J. Oshel,5
+Clay,GALLATIN 09,U.S. House,6,REP,Cody J. Oshel,7
+Clay,GALLATIN 10,U.S. House,6,REP,Cody J. Oshel,7
+Clay,GALLATIN 11,U.S. House,6,REP,Cody J. Oshel,10
+Clay,GALLATIN 12,U.S. House,6,REP,Cody J. Oshel,9
+Clay,GALLATIN 13,U.S. House,6,REP,Cody J. Oshel,5
+Clay,FISHING RIVER 01,U.S. House,6,REP,Cody J. Oshel,3
+Clay,FISHING RIVER 02,U.S. House,6,REP,Cody J. Oshel,5
+Clay,FISHING RIVER 03,U.S. House,6,REP,Cody J. Oshel,1
+Clay,FISHING RIVER 04,U.S. House,6,REP,Cody J. Oshel,4
+Clay,KEARNEY 01,U.S. House,6,REP,Cody J. Oshel,11
+Clay,KEARNEY 02,U.S. House,6,REP,Cody J. Oshel,13
+Clay,KEARNEY 03,U.S. House,6,REP,Cody J. Oshel,16
+Clay,KEARNEY 04,U.S. House,6,REP,Cody J. Oshel,6
+Clay,KEARNEY 05,U.S. House,6,REP,Cody J. Oshel,15
+Clay,LIBERTY 01,U.S. House,6,REP,Cody J. Oshel,4
+Clay,LIBERTY 02,U.S. House,6,REP,Cody J. Oshel,8
+Clay,LIBERTY 03,U.S. House,6,REP,Cody J. Oshel,3
+Clay,LIBERTY 04,U.S. House,6,REP,Cody J. Oshel,5
+Clay,LIBERTY 05,U.S. House,6,REP,Cody J. Oshel,3
+Clay,LIBERTY 06,U.S. House,6,REP,Cody J. Oshel,8
+Clay,LIBERTY 07,U.S. House,6,REP,Cody J. Oshel,9
+Clay,LIBERTY 08,U.S. House,6,REP,Cody J. Oshel,6
+Clay,LIBERTY 09,U.S. House,6,REP,Cody J. Oshel,18
+Clay,LIBERTY 10,U.S. House,6,REP,Cody J. Oshel,10
+Clay,LIBERTY 11,U.S. House,6,REP,Cody J. Oshel,9
+Clay,LIBERTY 13,U.S. House,6,REP,Cody J. Oshel,9
+Clay,LIBERTY 14,U.S. House,6,REP,Cody J. Oshel,8
+Clay,PLATTE 01,U.S. House,6,REP,Cody J. Oshel,20
+Clay,PLATTE 02,U.S. House,6,REP,Cody J. Oshel,16
+Clay,PLATTE 03,U.S. House,6,REP,Cody J. Oshel,11
+Clay,WASHINGTON 01,U.S. House,6,REP,Cody J. Oshel,8
+Clay,WASHINGTON 02,U.S. House,6,REP,Cody J. Oshel,9
+Clay,WASHINGTON 03,U.S. House,6,REP,Cody J. Oshel,7
+Clay,21 GALLATIN 01,U.S. House,6,REP,Nathanael Schultz,9
+Clay,21 GALLATIN 02,U.S. House,6,REP,Nathanael Schultz,23
+Clay,21 GALLATIN 03,U.S. House,6,REP,Nathanael Schultz,18
+Clay,21 GALLATIN 04,U.S. House,6,REP,Nathanael Schultz,18
+Clay,21 GALLATIN 05,U.S. House,6,REP,Nathanael Schultz,15
+Clay,21 GALLATIN 06,U.S. House,6,REP,Nathanael Schultz,12
+Clay,21 GALLATIN 07,U.S. House,6,REP,Nathanael Schultz,19
+Clay,21 GALLATIN 08,U.S. House,6,REP,Nathanael Schultz,22
+Clay,21 GALLATIN 09,U.S. House,6,REP,Nathanael Schultz,10
+Clay,21 GALLATIN 10,U.S. House,6,REP,Nathanael Schultz,25
+Clay,21 CHOUTEAU 11,U.S. House,6,REP,Nathanael Schultz,18
+Clay,21 CHOUTEAU 12,U.S. House,6,REP,Nathanael Schultz,21
+Clay,21 CHOUTEAU 13,U.S. House,6,REP,Nathanael Schultz,33
+Clay,21 GALLATIN 14,U.S. House,6,REP,Nathanael Schultz,13
+Clay,21 GALLATIN 15,U.S. House,6,REP,Nathanael Schultz,8
+Clay,21 CHOUTEAU 16,U.S. House,6,REP,Nathanael Schultz,23
+Clay,21 CHOUTEAU 17,U.S. House,6,REP,Nathanael Schultz,34
+Clay,21 CHOUTEAU 18,U.S. House,6,REP,Nathanael Schultz,26
+Clay,21 CHOUTEAU 19,U.S. House,6,REP,Nathanael Schultz,16
+Clay,21 GALLATIN 20,U.S. House,6,REP,Nathanael Schultz,21
+Clay,21 CHOUTEAU 21,U.S. House,6,REP,Nathanael Schultz,14
+Clay,21 CHOUTEAU 22,U.S. House,6,REP,Nathanael Schultz,2
+Clay,21 GALLATIN 23,U.S. House,6,REP,Nathanael Schultz,10
+Clay,21 GALLATIN 24,U.S. House,6,REP,Nathanael Schultz,5
+Clay,21 GALLATIN 25,U.S. House,6,REP,Nathanael Schultz,15
+Clay,21 CHOUTEAU 26,U.S. House,6,REP,Nathanael Schultz,43
+Clay,21 CHOUTEAU 27,U.S. House,6,REP,Nathanael Schultz,16
+Clay,21 CHOUTEAU 28,U.S. House,6,REP,Nathanael Schultz,28
+Clay,21 GALLATIN 29,U.S. House,6,REP,Nathanael Schultz,28
+Clay,21 CHOUTEAU 30,U.S. House,6,REP,Nathanael Schultz,27
+Clay,21 PLATTE 01,U.S. House,6,REP,Nathanael Schultz,16
+Clay,21 PLATTE 02,U.S. House,6,REP,Nathanael Schultz,5
+Clay,21 LIBERTY 01,U.S. House,6,REP,Nathanael Schultz,26
+Clay,21 LIBERTY 02,U.S. House,6,REP,Nathanael Schultz,22
+Clay,21 LIBERTY 03,U.S. House,6,REP,Nathanael Schultz,17
+Clay,21 LIBERTY 04,U.S. House,6,REP,Nathanael Schultz,12
+Clay,21 LIBERTY 05,U.S. House,6,REP,Nathanael Schultz,20
+Clay,21 LIBERTY 06,U.S. House,6,REP,Nathanael Schultz,6
+Clay,21 LIBERTY 07,U.S. House,6,REP,Nathanael Schultz,20
+Clay,21 LIBERTY 08,U.S. House,6,REP,Nathanael Schultz,15
+Clay,21 LIBERTY 09,U.S. House,6,REP,Nathanael Schultz,10
+Clay,GALLATIN 01,U.S. House,6,REP,Nathanael Schultz,6
+Clay,GALLATIN 02,U.S. House,6,REP,Nathanael Schultz,10
+Clay,GALLATIN 03,U.S. House,6,REP,Nathanael Schultz,24
+Clay,GALLATIN 04,U.S. House,6,REP,Nathanael Schultz,21
+Clay,GALLATIN 05,U.S. House,6,REP,Nathanael Schultz,19
+Clay,GALLATIN 06,U.S. House,6,REP,Nathanael Schultz,39
+Clay,GALLATIN 07,U.S. House,6,REP,Nathanael Schultz,7
+Clay,CHOUTEAU 08,U.S. House,6,REP,Nathanael Schultz,16
+Clay,GALLATIN 09,U.S. House,6,REP,Nathanael Schultz,14
+Clay,GALLATIN 10,U.S. House,6,REP,Nathanael Schultz,11
+Clay,GALLATIN 11,U.S. House,6,REP,Nathanael Schultz,23
+Clay,GALLATIN 12,U.S. House,6,REP,Nathanael Schultz,10
+Clay,GALLATIN 13,U.S. House,6,REP,Nathanael Schultz,6
+Clay,FISHING RIVER 01,U.S. House,6,REP,Nathanael Schultz,22
+Clay,FISHING RIVER 02,U.S. House,6,REP,Nathanael Schultz,16
+Clay,FISHING RIVER 03,U.S. House,6,REP,Nathanael Schultz,3
+Clay,FISHING RIVER 04,U.S. House,6,REP,Nathanael Schultz,7
+Clay,KEARNEY 01,U.S. House,6,REP,Nathanael Schultz,27
+Clay,KEARNEY 02,U.S. House,6,REP,Nathanael Schultz,26
+Clay,KEARNEY 03,U.S. House,6,REP,Nathanael Schultz,38
+Clay,KEARNEY 04,U.S. House,6,REP,Nathanael Schultz,32
+Clay,KEARNEY 05,U.S. House,6,REP,Nathanael Schultz,18
+Clay,LIBERTY 01,U.S. House,6,REP,Nathanael Schultz,17
+Clay,LIBERTY 02,U.S. House,6,REP,Nathanael Schultz,17
+Clay,LIBERTY 03,U.S. House,6,REP,Nathanael Schultz,15
+Clay,LIBERTY 04,U.S. House,6,REP,Nathanael Schultz,8
+Clay,LIBERTY 05,U.S. House,6,REP,Nathanael Schultz,22
+Clay,LIBERTY 06,U.S. House,6,REP,Nathanael Schultz,29
+Clay,LIBERTY 07,U.S. House,6,REP,Nathanael Schultz,21
+Clay,LIBERTY 08,U.S. House,6,REP,Nathanael Schultz,15
+Clay,LIBERTY 09,U.S. House,6,REP,Nathanael Schultz,17
+Clay,LIBERTY 10,U.S. House,6,REP,Nathanael Schultz,27
+Clay,LIBERTY 11,U.S. House,6,REP,Nathanael Schultz,26
+Clay,LIBERTY 13,U.S. House,6,REP,Nathanael Schultz,36
+Clay,LIBERTY 14,U.S. House,6,REP,Nathanael Schultz,15
+Clay,PLATTE 01,U.S. House,6,REP,Nathanael Schultz,39
+Clay,PLATTE 02,U.S. House,6,REP,Nathanael Schultz,37
+Clay,PLATTE 03,U.S. House,6,REP,Nathanael Schultz,20
+Clay,WASHINGTON 01,U.S. House,6,REP,Nathanael Schultz,17
+Clay,WASHINGTON 02,U.S. House,6,REP,Nathanael Schultz,26
+Clay,WASHINGTON 03,U.S. House,6,REP,Nathanael Schultz,33
+Clay,21 PLATTE 01,State House,8,REP,Josh Hurlbert,306
+Clay,21 PLATTE 02,State House,8,REP,Josh Hurlbert,205
+Clay,KEARNEY 01,State House,8,REP,Josh Hurlbert,344
+Clay,KEARNEY 03,State House,8,REP,Josh Hurlbert,384
+Clay,PLATTE 01,State House,8,REP,Josh Hurlbert,744
+Clay,PLATTE 02,State House,8,REP,Josh Hurlbert,623
+Clay,PLATTE 03,State House,8,REP,Josh Hurlbert,339
+Clay,WASHINGTON 01,State House,8,REP,Josh Hurlbert,209
+Clay,WASHINGTON 03,State House,8,REP,Josh Hurlbert,231
+Clay,21 GALLATIN 01,State House,16,REP,Chris Brown,84
+Clay,21 GALLATIN 10,State House,16,REP,Chris Brown,371
+Clay,21 CHOUTEAU 13,State House,16,REP,Chris Brown,464
+Clay,21 CHOUTEAU 16,State House,16,REP,Chris Brown,296
+Clay,21 CHOUTEAU 17,State House,16,REP,Chris Brown,316
+Clay,21 GALLATIN 25,State House,16,REP,Chris Brown,123
+Clay,21 CHOUTEAU 26,State House,16,REP,Chris Brown,447
+Clay,21 CHOUTEAU 27,State House,16,REP,Chris Brown,372
+Clay,21 CHOUTEAU 28,State House,16,REP,Chris Brown,322
+Clay,21 CHOUTEAU 30,State House,16,REP,Chris Brown,348
+Clay,21 GALLATIN 05,State House,17,REP,Bill Allen,43
+Clay,21 CHOUTEAU 11,State House,17,REP,Bill Allen,201
+Clay,21 GALLATIN 14,State House,17,REP,Bill Allen,127
+Clay,21 CHOUTEAU 18,State House,17,REP,Bill Allen,201
+Clay,21 CHOUTEAU 19,State House,17,REP,Bill Allen,132
+Clay,21 CHOUTEAU 21,State House,17,REP,Bill Allen,171
+Clay,21 CHOUTEAU 22,State House,17,REP,Bill Allen,39
+Clay,21 GALLATIN 23,State House,17,REP,Bill Allen,76
+Clay,21 GALLATIN 24,State House,17,REP,Bill Allen,77
+Clay,21 LIBERTY 02,State House,17,REP,Bill Allen,303
+Clay,21 LIBERTY 03,State House,17,REP,Bill Allen,473
+Clay,21 LIBERTY 09,State House,17,REP,Bill Allen,349
+Clay,CHOUTEAU 08,State House,17,REP,Bill Allen,116
+Clay,LIBERTY 05,State House,17,REP,Bill Allen,204
+Clay,LIBERTY 13,State House,17,REP,Bill Allen,0
+Clay,21 LIBERTY 04,State House,38,REP,Mary Hill,252
+Clay,21 LIBERTY 06,State House,38,REP,Mary Hill,195
+Clay,21 LIBERTY 08,State House,38,REP,Mary Hill,179
+Clay,LIBERTY 01,State House,38,REP,Mary Hill,221
+Clay,LIBERTY 02,State House,38,REP,Mary Hill,291
+Clay,LIBERTY 03,State House,38,REP,Mary Hill,199
+Clay,LIBERTY 04,State House,38,REP,Mary Hill,172
+Clay,LIBERTY 06,State House,38,REP,Mary Hill,377
+Clay,LIBERTY 07,State House,38,REP,Mary Hill,233
+Clay,LIBERTY 10,State House,38,REP,Mary Hill,300
+Clay,LIBERTY 11,State House,38,REP,Mary Hill,240
+Clay,LIBERTY 13,State House,38,REP,Mary Hill,455
+Clay,LIBERTY 14,State House,38,REP,Mary Hill,230
+Clay,21 LIBERTY 01,State House,39,REP,Mark Meirath,311
+Clay,21 LIBERTY 04,State House,39,REP,Mark Meirath,43
+Clay,21 LIBERTY 05,State House,39,REP,Mark Meirath,199
+Clay,21 LIBERTY 07,State House,39,REP,Mark Meirath,214
+Clay,FISHING RIVER 01,State House,39,REP,Mark Meirath,287
+Clay,FISHING RIVER 02,State House,39,REP,Mark Meirath,347
+Clay,FISHING RIVER 03,State House,39,REP,Mark Meirath,137
+Clay,FISHING RIVER 04,State House,39,REP,Mark Meirath,234
+Clay,KEARNEY 02,State House,39,REP,Mark Meirath,361
+Clay,KEARNEY 03,State House,39,REP,Mark Meirath,225
+Clay,KEARNEY 04,State House,39,REP,Mark Meirath,471
+Clay,KEARNEY 05,State House,39,REP,Mark Meirath,584
+Clay,LIBERTY 08,State House,39,REP,Mark Meirath,252
+Clay,LIBERTY 09,State House,39,REP,Mark Meirath,366
+Clay,LIBERTY 14,State House,39,REP,Mark Meirath,18
+Clay,WASHINGTON 02,State House,39,REP,Mark Meirath,246
+Clay,PLATTE 01,Central Committeewoman District 8-3,,REP,April Haddock,405
+Clay,PLATTE 01,Central Committeewoman District 8-3,,REP,Ashley Hurlbert,356
+Clay,PLATTE 01,Central Committeewoman District 8-3,,WI,Write-Ins,5
+Clay,21 GALLATIN 10,Central Committeewoman District 15-2,,REP,Michelle Blankenship,2
+Clay,GALLATIN 05,Central Committeewoman District 15-2,,REP,Michelle Blankenship,195
+Clay,GALLATIN 11,Central Committeewoman District 15-2,,REP,Michelle Blankenship,224
+Clay,GALLATIN 13,Central Committeewoman District 15-2,,REP,Michelle Blankenship,89
+Clay,21 GALLATIN 10,Central Committeewoman District 15-2,,REP,Sarah Moe,1
+Clay,GALLATIN 05,Central Committeewoman District 15-2,,REP,Sarah Moe,69
+Clay,GALLATIN 11,Central Committeewoman District 15-2,,REP,Sarah Moe,52
+Clay,GALLATIN 13,Central Committeewoman District 15-2,,REP,Sarah Moe,26
+Clay,21 GALLATIN 10,Central Committeewoman District 15-2,,WI,Write-Ins,0
+Clay,GALLATIN 05,Central Committeewoman District 15-2,,WI,Write-Ins,3
+Clay,GALLATIN 11,Central Committeewoman District 15-2,,WI,Write-Ins,2
+Clay,GALLATIN 13,Central Committeewoman District 15-2,,WI,Write-Ins,0
+Clay,21 GALLATIN 05,Central Committeeman District 17-5,,REP,"Chris G. Gerlt, Sr.",13
+Clay,21 CHOUTEAU 11,Central Committeeman District 17-5,,REP,"Chris G. Gerlt, Sr.",66
+Clay,21 CHOUTEAU 19,Central Committeeman District 17-5,,REP,"Chris G. Gerlt, Sr.",50
+Clay,21 GALLATIN 05,Central Committeeman District 17-5,,REP,Thomas J. Salisbury,27
+Clay,21 CHOUTEAU 11,Central Committeeman District 17-5,,REP,Thomas J. Salisbury,117
+Clay,21 CHOUTEAU 19,Central Committeeman District 17-5,,REP,Thomas J. Salisbury,73
+Clay,21 GALLATIN 05,Central Committeeman District 17-5,,WI,Write-Ins,1
+Clay,21 CHOUTEAU 11,Central Committeeman District 17-5,,WI,Write-Ins,3
+Clay,21 CHOUTEAU 19,Central Committeeman District 17-5,,WI,Write-Ins,2
+Clay,21 GALLATIN 01,State Auditor,,DEM,Quentin Wilson,161
+Clay,21 GALLATIN 02,State Auditor,,DEM,Quentin Wilson,515
+Clay,21 GALLATIN 03,State Auditor,,DEM,Quentin Wilson,293
+Clay,21 GALLATIN 04,State Auditor,,DEM,Quentin Wilson,242
+Clay,21 GALLATIN 05,State Auditor,,DEM,Quentin Wilson,156
+Clay,21 GALLATIN 06,State Auditor,,DEM,Quentin Wilson,163
+Clay,21 GALLATIN 07,State Auditor,,DEM,Quentin Wilson,173
+Clay,21 GALLATIN 08,State Auditor,,DEM,Quentin Wilson,212
+Clay,21 GALLATIN 09,State Auditor,,DEM,Quentin Wilson,158
+Clay,21 GALLATIN 10,State Auditor,,DEM,Quentin Wilson,367
+Clay,21 CHOUTEAU 11,State Auditor,,DEM,Quentin Wilson,195
+Clay,21 CHOUTEAU 12,State Auditor,,DEM,Quentin Wilson,328
+Clay,21 CHOUTEAU 13,State Auditor,,DEM,Quentin Wilson,281
+Clay,21 GALLATIN 14,State Auditor,,DEM,Quentin Wilson,165
+Clay,21 GALLATIN 15,State Auditor,,DEM,Quentin Wilson,204
+Clay,21 CHOUTEAU 16,State Auditor,,DEM,Quentin Wilson,312
+Clay,21 CHOUTEAU 17,State Auditor,,DEM,Quentin Wilson,313
+Clay,21 CHOUTEAU 18,State Auditor,,DEM,Quentin Wilson,225
+Clay,21 CHOUTEAU 19,State Auditor,,DEM,Quentin Wilson,161
+Clay,21 GALLATIN 20,State Auditor,,DEM,Quentin Wilson,398
+Clay,21 CHOUTEAU 21,State Auditor,,DEM,Quentin Wilson,239
+Clay,21 CHOUTEAU 22,State Auditor,,DEM,Quentin Wilson,15
+Clay,21 GALLATIN 23,State Auditor,,DEM,Quentin Wilson,136
+Clay,21 GALLATIN 24,State Auditor,,DEM,Quentin Wilson,171
+Clay,21 GALLATIN 25,State Auditor,,DEM,Quentin Wilson,151
+Clay,21 CHOUTEAU 26,State Auditor,,DEM,Quentin Wilson,434
+Clay,21 CHOUTEAU 27,State Auditor,,DEM,Quentin Wilson,285
+Clay,21 CHOUTEAU 28,State Auditor,,DEM,Quentin Wilson,302
+Clay,21 GALLATIN 29,State Auditor,,DEM,Quentin Wilson,338
+Clay,21 CHOUTEAU 30,State Auditor,,DEM,Quentin Wilson,327
+Clay,21 PLATTE 01,State Auditor,,DEM,Quentin Wilson,266
+Clay,21 PLATTE 02,State Auditor,,DEM,Quentin Wilson,156
+Clay,21 LIBERTY 01,State Auditor,,DEM,Quentin Wilson,245
+Clay,21 LIBERTY 02,State Auditor,,DEM,Quentin Wilson,338
+Clay,21 LIBERTY 03,State Auditor,,DEM,Quentin Wilson,270
+Clay,21 LIBERTY 04,State Auditor,,DEM,Quentin Wilson,249
+Clay,21 LIBERTY 05,State Auditor,,DEM,Quentin Wilson,228
+Clay,21 LIBERTY 06,State Auditor,,DEM,Quentin Wilson,192
+Clay,21 LIBERTY 07,State Auditor,,DEM,Quentin Wilson,213
+Clay,21 LIBERTY 08,State Auditor,,DEM,Quentin Wilson,150
+Clay,21 LIBERTY 09,State Auditor,,DEM,Quentin Wilson,221
+Clay,GALLATIN 01,State Auditor,,DEM,Quentin Wilson,289
+Clay,GALLATIN 02,State Auditor,,DEM,Quentin Wilson,240
+Clay,GALLATIN 03,State Auditor,,DEM,Quentin Wilson,254
+Clay,GALLATIN 04,State Auditor,,DEM,Quentin Wilson,304
+Clay,GALLATIN 05,State Auditor,,DEM,Quentin Wilson,213
+Clay,GALLATIN 06,State Auditor,,DEM,Quentin Wilson,254
+Clay,GALLATIN 07,State Auditor,,DEM,Quentin Wilson,167
+Clay,CHOUTEAU 08,State Auditor,,DEM,Quentin Wilson,64
+Clay,GALLATIN 09,State Auditor,,DEM,Quentin Wilson,216
+Clay,GALLATIN 10,State Auditor,,DEM,Quentin Wilson,183
+Clay,GALLATIN 11,State Auditor,,DEM,Quentin Wilson,308
+Clay,GALLATIN 12,State Auditor,,DEM,Quentin Wilson,175
+Clay,GALLATIN 13,State Auditor,,DEM,Quentin Wilson,177
+Clay,FISHING RIVER 01,State Auditor,,DEM,Quentin Wilson,160
+Clay,FISHING RIVER 02,State Auditor,,DEM,Quentin Wilson,183
+Clay,FISHING RIVER 03,State Auditor,,DEM,Quentin Wilson,61
+Clay,FISHING RIVER 04,State Auditor,,DEM,Quentin Wilson,112
+Clay,KEARNEY 01,State Auditor,,DEM,Quentin Wilson,105
+Clay,KEARNEY 02,State Auditor,,DEM,Quentin Wilson,167
+Clay,KEARNEY 03,State Auditor,,DEM,Quentin Wilson,195
+Clay,KEARNEY 04,State Auditor,,DEM,Quentin Wilson,160
+Clay,KEARNEY 05,State Auditor,,DEM,Quentin Wilson,206
+Clay,LIBERTY 01,State Auditor,,DEM,Quentin Wilson,234
+Clay,LIBERTY 02,State Auditor,,DEM,Quentin Wilson,253
+Clay,LIBERTY 03,State Auditor,,DEM,Quentin Wilson,181
+Clay,LIBERTY 04,State Auditor,,DEM,Quentin Wilson,168
+Clay,LIBERTY 05,State Auditor,,DEM,Quentin Wilson,160
+Clay,LIBERTY 06,State Auditor,,DEM,Quentin Wilson,290
+Clay,LIBERTY 07,State Auditor,,DEM,Quentin Wilson,278
+Clay,LIBERTY 08,State Auditor,,DEM,Quentin Wilson,113
+Clay,LIBERTY 09,State Auditor,,DEM,Quentin Wilson,148
+Clay,LIBERTY 10,State Auditor,,DEM,Quentin Wilson,215
+Clay,LIBERTY 11,State Auditor,,DEM,Quentin Wilson,227
+Clay,LIBERTY 13,State Auditor,,DEM,Quentin Wilson,364
+Clay,LIBERTY 14,State Auditor,,DEM,Quentin Wilson,187
+Clay,PLATTE 01,State Auditor,,DEM,Quentin Wilson,297
+Clay,PLATTE 02,State Auditor,,DEM,Quentin Wilson,216
+Clay,PLATTE 03,State Auditor,,DEM,Quentin Wilson,159
+Clay,WASHINGTON 01,State Auditor,,DEM,Quentin Wilson,82
+Clay,WASHINGTON 02,State Auditor,,DEM,Quentin Wilson,92
+Clay,WASHINGTON 03,State Auditor,,DEM,Quentin Wilson,63
+Clay,21 GALLATIN 01,State Auditor,,DEM,Gregory Upchurch,53
+Clay,21 GALLATIN 02,State Auditor,,DEM,Gregory Upchurch,141
+Clay,21 GALLATIN 03,State Auditor,,DEM,Gregory Upchurch,107
+Clay,21 GALLATIN 04,State Auditor,,DEM,Gregory Upchurch,79
+Clay,21 GALLATIN 05,State Auditor,,DEM,Gregory Upchurch,65
+Clay,21 GALLATIN 06,State Auditor,,DEM,Gregory Upchurch,60
+Clay,21 GALLATIN 07,State Auditor,,DEM,Gregory Upchurch,61
+Clay,21 GALLATIN 08,State Auditor,,DEM,Gregory Upchurch,74
+Clay,21 GALLATIN 09,State Auditor,,DEM,Gregory Upchurch,60
+Clay,21 GALLATIN 10,State Auditor,,DEM,Gregory Upchurch,130
+Clay,21 CHOUTEAU 11,State Auditor,,DEM,Gregory Upchurch,94
+Clay,21 CHOUTEAU 12,State Auditor,,DEM,Gregory Upchurch,106
+Clay,21 CHOUTEAU 13,State Auditor,,DEM,Gregory Upchurch,110
+Clay,21 GALLATIN 14,State Auditor,,DEM,Gregory Upchurch,61
+Clay,21 GALLATIN 15,State Auditor,,DEM,Gregory Upchurch,62
+Clay,21 CHOUTEAU 16,State Auditor,,DEM,Gregory Upchurch,119
+Clay,21 CHOUTEAU 17,State Auditor,,DEM,Gregory Upchurch,110
+Clay,21 CHOUTEAU 18,State Auditor,,DEM,Gregory Upchurch,94
+Clay,21 CHOUTEAU 19,State Auditor,,DEM,Gregory Upchurch,53
+Clay,21 GALLATIN 20,State Auditor,,DEM,Gregory Upchurch,152
+Clay,21 CHOUTEAU 21,State Auditor,,DEM,Gregory Upchurch,76
+Clay,21 CHOUTEAU 22,State Auditor,,DEM,Gregory Upchurch,5
+Clay,21 GALLATIN 23,State Auditor,,DEM,Gregory Upchurch,62
+Clay,21 GALLATIN 24,State Auditor,,DEM,Gregory Upchurch,52
+Clay,21 GALLATIN 25,State Auditor,,DEM,Gregory Upchurch,56
+Clay,21 CHOUTEAU 26,State Auditor,,DEM,Gregory Upchurch,117
+Clay,21 CHOUTEAU 27,State Auditor,,DEM,Gregory Upchurch,96
+Clay,21 CHOUTEAU 28,State Auditor,,DEM,Gregory Upchurch,88
+Clay,21 GALLATIN 29,State Auditor,,DEM,Gregory Upchurch,107
+Clay,21 CHOUTEAU 30,State Auditor,,DEM,Gregory Upchurch,126
+Clay,21 PLATTE 01,State Auditor,,DEM,Gregory Upchurch,109
+Clay,21 PLATTE 02,State Auditor,,DEM,Gregory Upchurch,48
+Clay,21 LIBERTY 01,State Auditor,,DEM,Gregory Upchurch,87
+Clay,21 LIBERTY 02,State Auditor,,DEM,Gregory Upchurch,107
+Clay,21 LIBERTY 03,State Auditor,,DEM,Gregory Upchurch,90
+Clay,21 LIBERTY 04,State Auditor,,DEM,Gregory Upchurch,80
+Clay,21 LIBERTY 05,State Auditor,,DEM,Gregory Upchurch,71
+Clay,21 LIBERTY 06,State Auditor,,DEM,Gregory Upchurch,81
+Clay,21 LIBERTY 07,State Auditor,,DEM,Gregory Upchurch,61
+Clay,21 LIBERTY 08,State Auditor,,DEM,Gregory Upchurch,65
+Clay,21 LIBERTY 09,State Auditor,,DEM,Gregory Upchurch,93
+Clay,GALLATIN 01,State Auditor,,DEM,Gregory Upchurch,110
+Clay,GALLATIN 02,State Auditor,,DEM,Gregory Upchurch,96
+Clay,GALLATIN 03,State Auditor,,DEM,Gregory Upchurch,98
+Clay,GALLATIN 04,State Auditor,,DEM,Gregory Upchurch,96
+Clay,GALLATIN 05,State Auditor,,DEM,Gregory Upchurch,96
+Clay,GALLATIN 06,State Auditor,,DEM,Gregory Upchurch,113
+Clay,GALLATIN 07,State Auditor,,DEM,Gregory Upchurch,51
+Clay,CHOUTEAU 08,State Auditor,,DEM,Gregory Upchurch,42
+Clay,GALLATIN 09,State Auditor,,DEM,Gregory Upchurch,80
+Clay,GALLATIN 10,State Auditor,,DEM,Gregory Upchurch,83
+Clay,GALLATIN 11,State Auditor,,DEM,Gregory Upchurch,120
+Clay,GALLATIN 12,State Auditor,,DEM,Gregory Upchurch,71
+Clay,GALLATIN 13,State Auditor,,DEM,Gregory Upchurch,60
+Clay,FISHING RIVER 01,State Auditor,,DEM,Gregory Upchurch,71
+Clay,FISHING RIVER 02,State Auditor,,DEM,Gregory Upchurch,102
+Clay,FISHING RIVER 03,State Auditor,,DEM,Gregory Upchurch,28
+Clay,FISHING RIVER 04,State Auditor,,DEM,Gregory Upchurch,37
+Clay,KEARNEY 01,State Auditor,,DEM,Gregory Upchurch,48
+Clay,KEARNEY 02,State Auditor,,DEM,Gregory Upchurch,74
+Clay,KEARNEY 03,State Auditor,,DEM,Gregory Upchurch,98
+Clay,KEARNEY 04,State Auditor,,DEM,Gregory Upchurch,75
+Clay,KEARNEY 05,State Auditor,,DEM,Gregory Upchurch,90
+Clay,LIBERTY 01,State Auditor,,DEM,Gregory Upchurch,106
+Clay,LIBERTY 02,State Auditor,,DEM,Gregory Upchurch,91
+Clay,LIBERTY 03,State Auditor,,DEM,Gregory Upchurch,86
+Clay,LIBERTY 04,State Auditor,,DEM,Gregory Upchurch,65
+Clay,LIBERTY 05,State Auditor,,DEM,Gregory Upchurch,91
+Clay,LIBERTY 06,State Auditor,,DEM,Gregory Upchurch,136
+Clay,LIBERTY 07,State Auditor,,DEM,Gregory Upchurch,87
+Clay,LIBERTY 08,State Auditor,,DEM,Gregory Upchurch,34
+Clay,LIBERTY 09,State Auditor,,DEM,Gregory Upchurch,56
+Clay,LIBERTY 10,State Auditor,,DEM,Gregory Upchurch,87
+Clay,LIBERTY 11,State Auditor,,DEM,Gregory Upchurch,108
+Clay,LIBERTY 13,State Auditor,,DEM,Gregory Upchurch,140
+Clay,LIBERTY 14,State Auditor,,DEM,Gregory Upchurch,86
+Clay,PLATTE 01,State Auditor,,DEM,Gregory Upchurch,147
+Clay,PLATTE 02,State Auditor,,DEM,Gregory Upchurch,107
+Clay,PLATTE 03,State Auditor,,DEM,Gregory Upchurch,83
+Clay,WASHINGTON 01,State Auditor,,DEM,Gregory Upchurch,36
+Clay,WASHINGTON 02,State Auditor,,DEM,Gregory Upchurch,47
+Clay,WASHINGTON 03,State Auditor,,DEM,Gregory Upchurch,28
+Clay,21 GALLATIN 01,U.S. House,6,DEM,Josh Smead,92
+Clay,21 GALLATIN 02,U.S. House,6,DEM,Josh Smead,309
+Clay,21 GALLATIN 03,U.S. House,6,DEM,Josh Smead,175
+Clay,21 GALLATIN 04,U.S. House,6,DEM,Josh Smead,121
+Clay,21 GALLATIN 05,U.S. House,6,DEM,Josh Smead,102
+Clay,21 GALLATIN 06,U.S. House,6,DEM,Josh Smead,74
+Clay,21 GALLATIN 07,U.S. House,6,DEM,Josh Smead,107
+Clay,21 GALLATIN 08,U.S. House,6,DEM,Josh Smead,123
+Clay,21 GALLATIN 09,U.S. House,6,DEM,Josh Smead,92
+Clay,21 GALLATIN 10,U.S. House,6,DEM,Josh Smead,227
+Clay,21 CHOUTEAU 11,U.S. House,6,DEM,Josh Smead,135
+Clay,21 CHOUTEAU 12,U.S. House,6,DEM,Josh Smead,196
+Clay,21 CHOUTEAU 13,U.S. House,6,DEM,Josh Smead,163
+Clay,21 GALLATIN 14,U.S. House,6,DEM,Josh Smead,99
+Clay,21 GALLATIN 15,U.S. House,6,DEM,Josh Smead,114
+Clay,21 CHOUTEAU 16,U.S. House,6,DEM,Josh Smead,190
+Clay,21 CHOUTEAU 17,U.S. House,6,DEM,Josh Smead,194
+Clay,21 CHOUTEAU 18,U.S. House,6,DEM,Josh Smead,118
+Clay,21 CHOUTEAU 19,U.S. House,6,DEM,Josh Smead,86
+Clay,21 GALLATIN 20,U.S. House,6,DEM,Josh Smead,248
+Clay,21 CHOUTEAU 21,U.S. House,6,DEM,Josh Smead,137
+Clay,21 CHOUTEAU 22,U.S. House,6,DEM,Josh Smead,14
+Clay,21 GALLATIN 23,U.S. House,6,DEM,Josh Smead,70
+Clay,21 GALLATIN 24,U.S. House,6,DEM,Josh Smead,76
+Clay,21 GALLATIN 25,U.S. House,6,DEM,Josh Smead,72
+Clay,21 CHOUTEAU 26,U.S. House,6,DEM,Josh Smead,244
+Clay,21 CHOUTEAU 27,U.S. House,6,DEM,Josh Smead,173
+Clay,21 CHOUTEAU 28,U.S. House,6,DEM,Josh Smead,173
+Clay,21 GALLATIN 29,U.S. House,6,DEM,Josh Smead,196
+Clay,21 CHOUTEAU 30,U.S. House,6,DEM,Josh Smead,219
+Clay,21 PLATTE 01,U.S. House,6,DEM,Josh Smead,178
+Clay,21 PLATTE 02,U.S. House,6,DEM,Josh Smead,100
+Clay,21 LIBERTY 01,U.S. House,6,DEM,Josh Smead,155
+Clay,21 LIBERTY 02,U.S. House,6,DEM,Josh Smead,237
+Clay,21 LIBERTY 03,U.S. House,6,DEM,Josh Smead,221
+Clay,21 LIBERTY 04,U.S. House,6,DEM,Josh Smead,156
+Clay,21 LIBERTY 05,U.S. House,6,DEM,Josh Smead,160
+Clay,21 LIBERTY 06,U.S. House,6,DEM,Josh Smead,132
+Clay,21 LIBERTY 07,U.S. House,6,DEM,Josh Smead,154
+Clay,21 LIBERTY 08,U.S. House,6,DEM,Josh Smead,106
+Clay,21 LIBERTY 09,U.S. House,6,DEM,Josh Smead,190
+Clay,GALLATIN 01,U.S. House,6,DEM,Josh Smead,197
+Clay,GALLATIN 02,U.S. House,6,DEM,Josh Smead,156
+Clay,GALLATIN 03,U.S. House,6,DEM,Josh Smead,148
+Clay,GALLATIN 04,U.S. House,6,DEM,Josh Smead,194
+Clay,GALLATIN 05,U.S. House,6,DEM,Josh Smead,126
+Clay,GALLATIN 06,U.S. House,6,DEM,Josh Smead,153
+Clay,GALLATIN 07,U.S. House,6,DEM,Josh Smead,99
+Clay,CHOUTEAU 08,U.S. House,6,DEM,Josh Smead,43
+Clay,GALLATIN 09,U.S. House,6,DEM,Josh Smead,122
+Clay,GALLATIN 10,U.S. House,6,DEM,Josh Smead,107
+Clay,GALLATIN 11,U.S. House,6,DEM,Josh Smead,190
+Clay,GALLATIN 12,U.S. House,6,DEM,Josh Smead,100
+Clay,GALLATIN 13,U.S. House,6,DEM,Josh Smead,90
+Clay,FISHING RIVER 01,U.S. House,6,DEM,Josh Smead,97
+Clay,FISHING RIVER 02,U.S. House,6,DEM,Josh Smead,129
+Clay,FISHING RIVER 03,U.S. House,6,DEM,Josh Smead,43
+Clay,FISHING RIVER 04,U.S. House,6,DEM,Josh Smead,77
+Clay,KEARNEY 01,U.S. House,6,DEM,Josh Smead,73
+Clay,KEARNEY 02,U.S. House,6,DEM,Josh Smead,126
+Clay,KEARNEY 03,U.S. House,6,DEM,Josh Smead,155
+Clay,KEARNEY 04,U.S. House,6,DEM,Josh Smead,121
+Clay,KEARNEY 05,U.S. House,6,DEM,Josh Smead,131
+Clay,LIBERTY 01,U.S. House,6,DEM,Josh Smead,252
+Clay,LIBERTY 02,U.S. House,6,DEM,Josh Smead,217
+Clay,LIBERTY 03,U.S. House,6,DEM,Josh Smead,139
+Clay,LIBERTY 04,U.S. House,6,DEM,Josh Smead,106
+Clay,LIBERTY 05,U.S. House,6,DEM,Josh Smead,108
+Clay,LIBERTY 06,U.S. House,6,DEM,Josh Smead,264
+Clay,LIBERTY 07,U.S. House,6,DEM,Josh Smead,224
+Clay,LIBERTY 08,U.S. House,6,DEM,Josh Smead,80
+Clay,LIBERTY 09,U.S. House,6,DEM,Josh Smead,112
+Clay,LIBERTY 10,U.S. House,6,DEM,Josh Smead,179
+Clay,LIBERTY 11,U.S. House,6,DEM,Josh Smead,179
+Clay,LIBERTY 13,U.S. House,6,DEM,Josh Smead,279
+Clay,LIBERTY 14,U.S. House,6,DEM,Josh Smead,134
+Clay,PLATTE 01,U.S. House,6,DEM,Josh Smead,183
+Clay,PLATTE 02,U.S. House,6,DEM,Josh Smead,171
+Clay,PLATTE 03,U.S. House,6,DEM,Josh Smead,121
+Clay,WASHINGTON 01,U.S. House,6,DEM,Josh Smead,58
+Clay,WASHINGTON 02,U.S. House,6,DEM,Josh Smead,74
+Clay,WASHINGTON 03,U.S. House,6,DEM,Josh Smead,41
+Clay,21 GALLATIN 01,U.S. House,6,DEM,Scot Pondelick,56
+Clay,21 GALLATIN 02,U.S. House,6,DEM,Scot Pondelick,187
+Clay,21 GALLATIN 03,U.S. House,6,DEM,Scot Pondelick,101
+Clay,21 GALLATIN 04,U.S. House,6,DEM,Scot Pondelick,99
+Clay,21 GALLATIN 05,U.S. House,6,DEM,Scot Pondelick,51
+Clay,21 GALLATIN 06,U.S. House,6,DEM,Scot Pondelick,68
+Clay,21 GALLATIN 07,U.S. House,6,DEM,Scot Pondelick,64
+Clay,21 GALLATIN 08,U.S. House,6,DEM,Scot Pondelick,85
+Clay,21 GALLATIN 09,U.S. House,6,DEM,Scot Pondelick,65
+Clay,21 GALLATIN 10,U.S. House,6,DEM,Scot Pondelick,158
+Clay,21 CHOUTEAU 11,U.S. House,6,DEM,Scot Pondelick,80
+Clay,21 CHOUTEAU 12,U.S. House,6,DEM,Scot Pondelick,117
+Clay,21 CHOUTEAU 13,U.S. House,6,DEM,Scot Pondelick,101
+Clay,21 GALLATIN 14,U.S. House,6,DEM,Scot Pondelick,57
+Clay,21 GALLATIN 15,U.S. House,6,DEM,Scot Pondelick,75
+Clay,21 CHOUTEAU 16,U.S. House,6,DEM,Scot Pondelick,103
+Clay,21 CHOUTEAU 17,U.S. House,6,DEM,Scot Pondelick,109
+Clay,21 CHOUTEAU 18,U.S. House,6,DEM,Scot Pondelick,98
+Clay,21 CHOUTEAU 19,U.S. House,6,DEM,Scot Pondelick,54
+Clay,21 GALLATIN 20,U.S. House,6,DEM,Scot Pondelick,163
+Clay,21 CHOUTEAU 21,U.S. House,6,DEM,Scot Pondelick,85
+Clay,21 CHOUTEAU 22,U.S. House,6,DEM,Scot Pondelick,5
+Clay,21 GALLATIN 23,U.S. House,6,DEM,Scot Pondelick,43
+Clay,21 GALLATIN 24,U.S. House,6,DEM,Scot Pondelick,76
+Clay,21 GALLATIN 25,U.S. House,6,DEM,Scot Pondelick,65
+Clay,21 CHOUTEAU 26,U.S. House,6,DEM,Scot Pondelick,155
+Clay,21 CHOUTEAU 27,U.S. House,6,DEM,Scot Pondelick,77
+Clay,21 CHOUTEAU 28,U.S. House,6,DEM,Scot Pondelick,84
+Clay,21 GALLATIN 29,U.S. House,6,DEM,Scot Pondelick,125
+Clay,21 CHOUTEAU 30,U.S. House,6,DEM,Scot Pondelick,108
+Clay,21 PLATTE 01,U.S. House,6,DEM,Scot Pondelick,95
+Clay,21 PLATTE 02,U.S. House,6,DEM,Scot Pondelick,60
+Clay,21 LIBERTY 01,U.S. House,6,DEM,Scot Pondelick,83
+Clay,21 LIBERTY 02,U.S. House,6,DEM,Scot Pondelick,115
+Clay,21 LIBERTY 03,U.S. House,6,DEM,Scot Pondelick,53
+Clay,21 LIBERTY 04,U.S. House,6,DEM,Scot Pondelick,86
+Clay,21 LIBERTY 05,U.S. House,6,DEM,Scot Pondelick,68
+Clay,21 LIBERTY 06,U.S. House,6,DEM,Scot Pondelick,71
+Clay,21 LIBERTY 07,U.S. House,6,DEM,Scot Pondelick,68
+Clay,21 LIBERTY 08,U.S. House,6,DEM,Scot Pondelick,51
+Clay,21 LIBERTY 09,U.S. House,6,DEM,Scot Pondelick,59
+Clay,GALLATIN 01,U.S. House,6,DEM,Scot Pondelick,94
+Clay,GALLATIN 02,U.S. House,6,DEM,Scot Pondelick,94
+Clay,GALLATIN 03,U.S. House,6,DEM,Scot Pondelick,94
+Clay,GALLATIN 04,U.S. House,6,DEM,Scot Pondelick,97
+Clay,GALLATIN 05,U.S. House,6,DEM,Scot Pondelick,99
+Clay,GALLATIN 06,U.S. House,6,DEM,Scot Pondelick,87
+Clay,GALLATIN 07,U.S. House,6,DEM,Scot Pondelick,52
+Clay,CHOUTEAU 08,U.S. House,6,DEM,Scot Pondelick,38
+Clay,GALLATIN 09,U.S. House,6,DEM,Scot Pondelick,83
+Clay,GALLATIN 10,U.S. House,6,DEM,Scot Pondelick,73
+Clay,GALLATIN 11,U.S. House,6,DEM,Scot Pondelick,108
+Clay,GALLATIN 12,U.S. House,6,DEM,Scot Pondelick,66
+Clay,GALLATIN 13,U.S. House,6,DEM,Scot Pondelick,79
+Clay,FISHING RIVER 01,U.S. House,6,DEM,Scot Pondelick,61
+Clay,FISHING RIVER 02,U.S. House,6,DEM,Scot Pondelick,71
+Clay,FISHING RIVER 03,U.S. House,6,DEM,Scot Pondelick,23
+Clay,FISHING RIVER 04,U.S. House,6,DEM,Scot Pondelick,44
+Clay,KEARNEY 01,U.S. House,6,DEM,Scot Pondelick,35
+Clay,KEARNEY 02,U.S. House,6,DEM,Scot Pondelick,60
+Clay,KEARNEY 03,U.S. House,6,DEM,Scot Pondelick,55
+Clay,KEARNEY 04,U.S. House,6,DEM,Scot Pondelick,44
+Clay,KEARNEY 05,U.S. House,6,DEM,Scot Pondelick,73
+Clay,LIBERTY 01,U.S. House,6,DEM,Scot Pondelick,54
+Clay,LIBERTY 02,U.S. House,6,DEM,Scot Pondelick,64
+Clay,LIBERTY 03,U.S. House,6,DEM,Scot Pondelick,65
+Clay,LIBERTY 04,U.S. House,6,DEM,Scot Pondelick,55
+Clay,LIBERTY 05,U.S. House,6,DEM,Scot Pondelick,57
+Clay,LIBERTY 06,U.S. House,6,DEM,Scot Pondelick,99
+Clay,LIBERTY 07,U.S. House,6,DEM,Scot Pondelick,78
+Clay,LIBERTY 08,U.S. House,6,DEM,Scot Pondelick,38
+Clay,LIBERTY 09,U.S. House,6,DEM,Scot Pondelick,51
+Clay,LIBERTY 10,U.S. House,6,DEM,Scot Pondelick,66
+Clay,LIBERTY 11,U.S. House,6,DEM,Scot Pondelick,79
+Clay,LIBERTY 13,U.S. House,6,DEM,Scot Pondelick,127
+Clay,LIBERTY 14,U.S. House,6,DEM,Scot Pondelick,81
+Clay,PLATTE 01,U.S. House,6,DEM,Scot Pondelick,122
+Clay,PLATTE 02,U.S. House,6,DEM,Scot Pondelick,86
+Clay,PLATTE 03,U.S. House,6,DEM,Scot Pondelick,65
+Clay,WASHINGTON 01,U.S. House,6,DEM,Scot Pondelick,33
+Clay,WASHINGTON 02,U.S. House,6,DEM,Scot Pondelick,33
+Clay,WASHINGTON 03,U.S. House,6,DEM,Scot Pondelick,25
+Clay,21 GALLATIN 01,U.S. House,6,DEM,Matt Levine,68
+Clay,21 GALLATIN 02,U.S. House,6,DEM,Matt Levine,172
+Clay,21 GALLATIN 03,U.S. House,6,DEM,Matt Levine,125
+Clay,21 GALLATIN 04,U.S. House,6,DEM,Matt Levine,102
+Clay,21 GALLATIN 05,U.S. House,6,DEM,Matt Levine,65
+Clay,21 GALLATIN 06,U.S. House,6,DEM,Matt Levine,81
+Clay,21 GALLATIN 07,U.S. House,6,DEM,Matt Levine,60
+Clay,21 GALLATIN 08,U.S. House,6,DEM,Matt Levine,83
+Clay,21 GALLATIN 09,U.S. House,6,DEM,Matt Levine,64
+Clay,21 GALLATIN 10,U.S. House,6,DEM,Matt Levine,126
+Clay,21 CHOUTEAU 11,U.S. House,6,DEM,Matt Levine,74
+Clay,21 CHOUTEAU 12,U.S. House,6,DEM,Matt Levine,129
+Clay,21 CHOUTEAU 13,U.S. House,6,DEM,Matt Levine,130
+Clay,21 GALLATIN 14,U.S. House,6,DEM,Matt Levine,73
+Clay,21 GALLATIN 15,U.S. House,6,DEM,Matt Levine,70
+Clay,21 CHOUTEAU 16,U.S. House,6,DEM,Matt Levine,139
+Clay,21 CHOUTEAU 17,U.S. House,6,DEM,Matt Levine,119
+Clay,21 CHOUTEAU 18,U.S. House,6,DEM,Matt Levine,104
+Clay,21 CHOUTEAU 19,U.S. House,6,DEM,Matt Levine,72
+Clay,21 GALLATIN 20,U.S. House,6,DEM,Matt Levine,138
+Clay,21 CHOUTEAU 21,U.S. House,6,DEM,Matt Levine,95
+Clay,21 CHOUTEAU 22,U.S. House,6,DEM,Matt Levine,3
+Clay,21 GALLATIN 23,U.S. House,6,DEM,Matt Levine,85
+Clay,21 GALLATIN 24,U.S. House,6,DEM,Matt Levine,77
+Clay,21 GALLATIN 25,U.S. House,6,DEM,Matt Levine,70
+Clay,21 CHOUTEAU 26,U.S. House,6,DEM,Matt Levine,160
+Clay,21 CHOUTEAU 27,U.S. House,6,DEM,Matt Levine,132
+Clay,21 CHOUTEAU 28,U.S. House,6,DEM,Matt Levine,123
+Clay,21 GALLATIN 29,U.S. House,6,DEM,Matt Levine,129
+Clay,21 CHOUTEAU 30,U.S. House,6,DEM,Matt Levine,132
+Clay,21 PLATTE 01,U.S. House,6,DEM,Matt Levine,100
+Clay,21 PLATTE 02,U.S. House,6,DEM,Matt Levine,50
+Clay,21 LIBERTY 01,U.S. House,6,DEM,Matt Levine,100
+Clay,21 LIBERTY 02,U.S. House,6,DEM,Matt Levine,110
+Clay,21 LIBERTY 03,U.S. House,6,DEM,Matt Levine,96
+Clay,21 LIBERTY 04,U.S. House,6,DEM,Matt Levine,91
+Clay,21 LIBERTY 05,U.S. House,6,DEM,Matt Levine,78
+Clay,21 LIBERTY 06,U.S. House,6,DEM,Matt Levine,79
+Clay,21 LIBERTY 07,U.S. House,6,DEM,Matt Levine,62
+Clay,21 LIBERTY 08,U.S. House,6,DEM,Matt Levine,68
+Clay,21 LIBERTY 09,U.S. House,6,DEM,Matt Levine,85
+Clay,GALLATIN 01,U.S. House,6,DEM,Matt Levine,123
+Clay,GALLATIN 02,U.S. House,6,DEM,Matt Levine,93
+Clay,GALLATIN 03,U.S. House,6,DEM,Matt Levine,110
+Clay,GALLATIN 04,U.S. House,6,DEM,Matt Levine,115
+Clay,GALLATIN 05,U.S. House,6,DEM,Matt Levine,88
+Clay,GALLATIN 06,U.S. House,6,DEM,Matt Levine,127
+Clay,GALLATIN 07,U.S. House,6,DEM,Matt Levine,69
+Clay,CHOUTEAU 08,U.S. House,6,DEM,Matt Levine,27
+Clay,GALLATIN 09,U.S. House,6,DEM,Matt Levine,92
+Clay,GALLATIN 10,U.S. House,6,DEM,Matt Levine,85
+Clay,GALLATIN 11,U.S. House,6,DEM,Matt Levine,140
+Clay,GALLATIN 12,U.S. House,6,DEM,Matt Levine,78
+Clay,GALLATIN 13,U.S. House,6,DEM,Matt Levine,69
+Clay,FISHING RIVER 01,U.S. House,6,DEM,Matt Levine,78
+Clay,FISHING RIVER 02,U.S. House,6,DEM,Matt Levine,89
+Clay,FISHING RIVER 03,U.S. House,6,DEM,Matt Levine,26
+Clay,FISHING RIVER 04,U.S. House,6,DEM,Matt Levine,35
+Clay,KEARNEY 01,U.S. House,6,DEM,Matt Levine,46
+Clay,KEARNEY 02,U.S. House,6,DEM,Matt Levine,63
+Clay,KEARNEY 03,U.S. House,6,DEM,Matt Levine,89
+Clay,KEARNEY 04,U.S. House,6,DEM,Matt Levine,75
+Clay,KEARNEY 05,U.S. House,6,DEM,Matt Levine,96
+Clay,LIBERTY 01,U.S. House,6,DEM,Matt Levine,73
+Clay,LIBERTY 02,U.S. House,6,DEM,Matt Levine,80
+Clay,LIBERTY 03,U.S. House,6,DEM,Matt Levine,74
+Clay,LIBERTY 04,U.S. House,6,DEM,Matt Levine,80
+Clay,LIBERTY 05,U.S. House,6,DEM,Matt Levine,88
+Clay,LIBERTY 06,U.S. House,6,DEM,Matt Levine,101
+Clay,LIBERTY 07,U.S. House,6,DEM,Matt Levine,83
+Clay,LIBERTY 08,U.S. House,6,DEM,Matt Levine,33
+Clay,LIBERTY 09,U.S. House,6,DEM,Matt Levine,48
+Clay,LIBERTY 10,U.S. House,6,DEM,Matt Levine,74
+Clay,LIBERTY 11,U.S. House,6,DEM,Matt Levine,97
+Clay,LIBERTY 13,U.S. House,6,DEM,Matt Levine,114
+Clay,LIBERTY 14,U.S. House,6,DEM,Matt Levine,65
+Clay,PLATTE 01,U.S. House,6,DEM,Matt Levine,144
+Clay,PLATTE 02,U.S. House,6,DEM,Matt Levine,83
+Clay,PLATTE 03,U.S. House,6,DEM,Matt Levine,66
+Clay,WASHINGTON 01,U.S. House,6,DEM,Matt Levine,28
+Clay,WASHINGTON 02,U.S. House,6,DEM,Matt Levine,39
+Clay,WASHINGTON 03,U.S. House,6,DEM,Matt Levine,25
+Clay,21 PLATTE 01,State House,8,DEM,Amy Minich,354
+Clay,21 PLATTE 02,State House,8,DEM,Amy Minich,200
+Clay,KEARNEY 01,State House,8,DEM,Amy Minich,151
+Clay,KEARNEY 03,State House,8,DEM,Amy Minich,172
+Clay,PLATTE 01,State House,8,DEM,Amy Minich,421
+Clay,PLATTE 02,State House,8,DEM,Amy Minich,310
+Clay,PLATTE 03,State House,8,DEM,Amy Minich,239
+Clay,WASHINGTON 01,State House,8,DEM,Amy Minich,114
+Clay,WASHINGTON 03,State House,8,DEM,Amy Minich,90
+Clay,21 GALLATIN 05,State House,15,DEM,Kenneth Jamison,159
+Clay,21 GALLATIN 10,State House,15,DEM,Kenneth Jamison,2
+Clay,21 CHOUTEAU 12,State House,15,DEM,Kenneth Jamison,428
+Clay,21 GALLATIN 25,State House,15,DEM,Kenneth Jamison,0
+Clay,21 GALLATIN 29,State House,15,DEM,Kenneth Jamison,413
+Clay,GALLATIN 03,State House,15,DEM,Kenneth Jamison,322
+Clay,GALLATIN 04,State House,15,DEM,Kenneth Jamison,368
+Clay,GALLATIN 05,State House,15,DEM,Kenneth Jamison,302
+Clay,GALLATIN 06,State House,15,DEM,Kenneth Jamison,342
+Clay,GALLATIN 07,State House,15,DEM,Kenneth Jamison,211
+Clay,GALLATIN 09,State House,15,DEM,Kenneth Jamison,251
+Clay,GALLATIN 10,State House,15,DEM,Kenneth Jamison,240
+Clay,GALLATIN 11,State House,15,DEM,Kenneth Jamison,416
+Clay,GALLATIN 12,State House,15,DEM,Kenneth Jamison,222
+Clay,GALLATIN 13,State House,15,DEM,Kenneth Jamison,229
+Clay,21 GALLATIN 01,State House,16,DEM,Dan Kinate,196
+Clay,21 GALLATIN 10,State House,16,DEM,Dan Kinate,470
+Clay,21 CHOUTEAU 13,State House,16,DEM,Dan Kinate,371
+Clay,21 CHOUTEAU 16,State House,16,DEM,Dan Kinate,401
+Clay,21 CHOUTEAU 17,State House,16,DEM,Dan Kinate,383
+Clay,21 GALLATIN 25,State House,16,DEM,Dan Kinate,179
+Clay,21 CHOUTEAU 26,State House,16,DEM,Dan Kinate,524
+Clay,21 CHOUTEAU 27,State House,16,DEM,Dan Kinate,361
+Clay,21 CHOUTEAU 28,State House,16,DEM,Dan Kinate,362
+Clay,21 CHOUTEAU 30,State House,16,DEM,Dan Kinate,407
+Clay,21 GALLATIN 05,State House,17,DEM,Susan Hoisington,48
+Clay,21 CHOUTEAU 11,State House,17,DEM,Susan Hoisington,202
+Clay,21 GALLATIN 14,State House,17,DEM,Susan Hoisington,141
+Clay,21 CHOUTEAU 18,State House,17,DEM,Susan Hoisington,205
+Clay,21 CHOUTEAU 19,State House,17,DEM,Susan Hoisington,139
+Clay,21 CHOUTEAU 21,State House,17,DEM,Susan Hoisington,215
+Clay,21 CHOUTEAU 22,State House,17,DEM,Susan Hoisington,13
+Clay,21 GALLATIN 23,State House,17,DEM,Susan Hoisington,112
+Clay,21 GALLATIN 24,State House,17,DEM,Susan Hoisington,138
+Clay,21 LIBERTY 02,State House,17,DEM,Susan Hoisington,319
+Clay,21 LIBERTY 03,State House,17,DEM,Susan Hoisington,279
+Clay,21 LIBERTY 09,State House,17,DEM,Susan Hoisington,231
+Clay,CHOUTEAU 08,State House,17,DEM,Susan Hoisington,70
+Clay,LIBERTY 05,State House,17,DEM,Susan Hoisington,157
+Clay,LIBERTY 13,State House,17,DEM,Susan Hoisington,0
+Clay,21 GALLATIN 05,State House,17,DEM,Shawna Ackerson,5
+Clay,21 CHOUTEAU 11,State House,17,DEM,Shawna Ackerson,84
+Clay,21 GALLATIN 14,State House,17,DEM,Shawna Ackerson,86
+Clay,21 CHOUTEAU 18,State House,17,DEM,Shawna Ackerson,120
+Clay,21 CHOUTEAU 19,State House,17,DEM,Shawna Ackerson,72
+Clay,21 CHOUTEAU 21,State House,17,DEM,Shawna Ackerson,102
+Clay,21 CHOUTEAU 22,State House,17,DEM,Shawna Ackerson,9
+Clay,21 GALLATIN 23,State House,17,DEM,Shawna Ackerson,79
+Clay,21 GALLATIN 24,State House,17,DEM,Shawna Ackerson,93
+Clay,21 LIBERTY 02,State House,17,DEM,Shawna Ackerson,141
+Clay,21 LIBERTY 03,State House,17,DEM,Shawna Ackerson,86
+Clay,21 LIBERTY 09,State House,17,DEM,Shawna Ackerson,93
+Clay,CHOUTEAU 08,State House,17,DEM,Shawna Ackerson,35
+Clay,LIBERTY 05,State House,17,DEM,Shawna Ackerson,92
+Clay,LIBERTY 13,State House,17,DEM,Shawna Ackerson,0
+Clay,21 GALLATIN 02,State House,18,DEM,Eric Woods,637
+Clay,21 GALLATIN 03,State House,18,DEM,Eric Woods,357
+Clay,21 GALLATIN 04,State House,18,DEM,Eric Woods,301
+Clay,21 GALLATIN 06,State House,18,DEM,Eric Woods,204
+Clay,21 GALLATIN 07,State House,18,DEM,Eric Woods,224
+Clay,21 GALLATIN 08,State House,18,DEM,Eric Woods,270
+Clay,21 GALLATIN 09,State House,18,DEM,Eric Woods,205
+Clay,21 GALLATIN 15,State House,18,DEM,Eric Woods,245
+Clay,21 GALLATIN 20,State House,18,DEM,Eric Woods,513
+Clay,GALLATIN 01,State House,18,DEM,Eric Woods,391
+Clay,GALLATIN 02,State House,18,DEM,Eric Woods,313
+Clay,GALLATIN 09,State House,18,DEM,Eric Woods,28
+Clay,21 LIBERTY 04,State House,38,DEM,Martin (Marty) Jacobs,255
+Clay,21 LIBERTY 06,State House,38,DEM,Martin (Marty) Jacobs,280
+Clay,21 LIBERTY 08,State House,38,DEM,Martin (Marty) Jacobs,231
+Clay,LIBERTY 01,State House,38,DEM,Martin (Marty) Jacobs,383
+Clay,LIBERTY 02,State House,38,DEM,Martin (Marty) Jacobs,370
+Clay,LIBERTY 03,State House,38,DEM,Martin (Marty) Jacobs,288
+Clay,LIBERTY 04,State House,38,DEM,Martin (Marty) Jacobs,237
+Clay,LIBERTY 06,State House,38,DEM,Martin (Marty) Jacobs,462
+Clay,LIBERTY 07,State House,38,DEM,Martin (Marty) Jacobs,378
+Clay,LIBERTY 10,State House,38,DEM,Martin (Marty) Jacobs,323
+Clay,LIBERTY 11,State House,38,DEM,Martin (Marty) Jacobs,351
+Clay,LIBERTY 13,State House,38,DEM,Martin (Marty) Jacobs,518
+Clay,LIBERTY 14,State House,38,DEM,Martin (Marty) Jacobs,272
+Clay,21 LIBERTY 01,State House,39,DEM,Tanya Lakins,275
+Clay,21 LIBERTY 04,State House,39,DEM,Tanya Lakins,59
+Clay,21 LIBERTY 05,State House,39,DEM,Tanya Lakins,257
+Clay,21 LIBERTY 07,State House,39,DEM,Tanya Lakins,217
+Clay,FISHING RIVER 01,State House,39,DEM,Tanya Lakins,158
+Clay,FISHING RIVER 02,State House,39,DEM,Tanya Lakins,193
+Clay,FISHING RIVER 03,State House,39,DEM,Tanya Lakins,65
+Clay,FISHING RIVER 04,State House,39,DEM,Tanya Lakins,117
+Clay,KEARNEY 02,State House,39,DEM,Tanya Lakins,193
+Clay,KEARNEY 03,State House,39,DEM,Tanya Lakins,90
+Clay,KEARNEY 04,State House,39,DEM,Tanya Lakins,181
+Clay,KEARNEY 05,State House,39,DEM,Tanya Lakins,223
+Clay,LIBERTY 08,State House,39,DEM,Tanya Lakins,107
+Clay,LIBERTY 09,State House,39,DEM,Tanya Lakins,162
+Clay,LIBERTY 14,State House,39,DEM,Tanya Lakins,8
+Clay,WASHINGTON 02,State House,39,DEM,Tanya Lakins,88
+Clay,21 LIBERTY 01,State House,39,DEM,Dustin Charles Lloyd,64
+Clay,21 LIBERTY 04,State House,39,DEM,Dustin Charles Lloyd,11
+Clay,21 LIBERTY 05,State House,39,DEM,Dustin Charles Lloyd,46
+Clay,21 LIBERTY 07,State House,39,DEM,Dustin Charles Lloyd,59
+Clay,FISHING RIVER 01,State House,39,DEM,Dustin Charles Lloyd,80
+Clay,FISHING RIVER 02,State House,39,DEM,Dustin Charles Lloyd,97
+Clay,FISHING RIVER 03,State House,39,DEM,Dustin Charles Lloyd,24
+Clay,FISHING RIVER 04,State House,39,DEM,Dustin Charles Lloyd,39
+Clay,KEARNEY 02,State House,39,DEM,Dustin Charles Lloyd,57
+Clay,KEARNEY 03,State House,39,DEM,Dustin Charles Lloyd,29
+Clay,KEARNEY 04,State House,39,DEM,Dustin Charles Lloyd,58
+Clay,KEARNEY 05,State House,39,DEM,Dustin Charles Lloyd,77
+Clay,LIBERTY 08,State House,39,DEM,Dustin Charles Lloyd,37
+Clay,LIBERTY 09,State House,39,DEM,Dustin Charles Lloyd,41
+Clay,LIBERTY 14,State House,39,DEM,Dustin Charles Lloyd,3
+Clay,WASHINGTON 02,State House,39,DEM,Dustin Charles Lloyd,61
+Clay,21 GALLATIN 14,Central Committeeman District 17-1,,DEM,Danny C. McBee,92
+Clay,21 GALLATIN 23,Central Committeeman District 17-1,,DEM,Danny C. McBee,90
+Clay,21 GALLATIN 24,Central Committeeman District 17-1,,DEM,Danny C. McBee,89
+Clay,21 GALLATIN 14,Central Committeeman District 17-1,,DEM,Vincent Watkins,113
+Clay,21 GALLATIN 23,Central Committeeman District 17-1,,DEM,Vincent Watkins,94
+Clay,21 GALLATIN 24,Central Committeeman District 17-1,,DEM,Vincent Watkins,120
+Clay,21 GALLATIN 14,Central Committeeman District 17-1,,WI,Write-Ins,3
+Clay,21 GALLATIN 23,Central Committeeman District 17-1,,WI,Write-Ins,2
+Clay,21 GALLATIN 24,Central Committeeman District 17-1,,WI,Write-Ins,1
+Clay,21 GALLATIN 01,State Auditor,,LIB,Dustin Coffell,5
+Clay,21 GALLATIN 02,State Auditor,,LIB,Dustin Coffell,9
+Clay,21 GALLATIN 03,State Auditor,,LIB,Dustin Coffell,9
+Clay,21 GALLATIN 04,State Auditor,,LIB,Dustin Coffell,2
+Clay,21 GALLATIN 05,State Auditor,,LIB,Dustin Coffell,1
+Clay,21 GALLATIN 06,State Auditor,,LIB,Dustin Coffell,7
+Clay,21 GALLATIN 07,State Auditor,,LIB,Dustin Coffell,7
+Clay,21 GALLATIN 08,State Auditor,,LIB,Dustin Coffell,9
+Clay,21 GALLATIN 09,State Auditor,,LIB,Dustin Coffell,4
+Clay,21 GALLATIN 10,State Auditor,,LIB,Dustin Coffell,6
+Clay,21 CHOUTEAU 11,State Auditor,,LIB,Dustin Coffell,7
+Clay,21 CHOUTEAU 12,State Auditor,,LIB,Dustin Coffell,7
+Clay,21 CHOUTEAU 13,State Auditor,,LIB,Dustin Coffell,4
+Clay,21 GALLATIN 14,State Auditor,,LIB,Dustin Coffell,5
+Clay,21 GALLATIN 15,State Auditor,,LIB,Dustin Coffell,2
+Clay,21 CHOUTEAU 16,State Auditor,,LIB,Dustin Coffell,9
+Clay,21 CHOUTEAU 17,State Auditor,,LIB,Dustin Coffell,9
+Clay,21 CHOUTEAU 18,State Auditor,,LIB,Dustin Coffell,11
+Clay,21 CHOUTEAU 19,State Auditor,,LIB,Dustin Coffell,4
+Clay,21 GALLATIN 20,State Auditor,,LIB,Dustin Coffell,12
+Clay,21 CHOUTEAU 21,State Auditor,,LIB,Dustin Coffell,6
+Clay,21 CHOUTEAU 22,State Auditor,,LIB,Dustin Coffell,1
+Clay,21 GALLATIN 23,State Auditor,,LIB,Dustin Coffell,4
+Clay,21 GALLATIN 24,State Auditor,,LIB,Dustin Coffell,9
+Clay,21 GALLATIN 25,State Auditor,,LIB,Dustin Coffell,2
+Clay,21 CHOUTEAU 26,State Auditor,,LIB,Dustin Coffell,2
+Clay,21 CHOUTEAU 27,State Auditor,,LIB,Dustin Coffell,7
+Clay,21 CHOUTEAU 28,State Auditor,,LIB,Dustin Coffell,12
+Clay,21 GALLATIN 29,State Auditor,,LIB,Dustin Coffell,9
+Clay,21 CHOUTEAU 30,State Auditor,,LIB,Dustin Coffell,12
+Clay,21 PLATTE 01,State Auditor,,LIB,Dustin Coffell,6
+Clay,21 PLATTE 02,State Auditor,,LIB,Dustin Coffell,5
+Clay,21 LIBERTY 01,State Auditor,,LIB,Dustin Coffell,7
+Clay,21 LIBERTY 02,State Auditor,,LIB,Dustin Coffell,7
+Clay,21 LIBERTY 03,State Auditor,,LIB,Dustin Coffell,6
+Clay,21 LIBERTY 04,State Auditor,,LIB,Dustin Coffell,1
+Clay,21 LIBERTY 05,State Auditor,,LIB,Dustin Coffell,0
+Clay,21 LIBERTY 06,State Auditor,,LIB,Dustin Coffell,2
+Clay,21 LIBERTY 07,State Auditor,,LIB,Dustin Coffell,3
+Clay,21 LIBERTY 08,State Auditor,,LIB,Dustin Coffell,2
+Clay,21 LIBERTY 09,State Auditor,,LIB,Dustin Coffell,3
+Clay,GALLATIN 01,State Auditor,,LIB,Dustin Coffell,4
+Clay,GALLATIN 02,State Auditor,,LIB,Dustin Coffell,6
+Clay,GALLATIN 03,State Auditor,,LIB,Dustin Coffell,7
+Clay,GALLATIN 04,State Auditor,,LIB,Dustin Coffell,7
+Clay,GALLATIN 05,State Auditor,,LIB,Dustin Coffell,2
+Clay,GALLATIN 06,State Auditor,,LIB,Dustin Coffell,4
+Clay,GALLATIN 07,State Auditor,,LIB,Dustin Coffell,7
+Clay,CHOUTEAU 08,State Auditor,,LIB,Dustin Coffell,3
+Clay,GALLATIN 09,State Auditor,,LIB,Dustin Coffell,7
+Clay,GALLATIN 10,State Auditor,,LIB,Dustin Coffell,5
+Clay,GALLATIN 11,State Auditor,,LIB,Dustin Coffell,7
+Clay,GALLATIN 12,State Auditor,,LIB,Dustin Coffell,3
+Clay,GALLATIN 13,State Auditor,,LIB,Dustin Coffell,3
+Clay,FISHING RIVER 01,State Auditor,,LIB,Dustin Coffell,11
+Clay,FISHING RIVER 02,State Auditor,,LIB,Dustin Coffell,6
+Clay,FISHING RIVER 03,State Auditor,,LIB,Dustin Coffell,0
+Clay,FISHING RIVER 04,State Auditor,,LIB,Dustin Coffell,3
+Clay,KEARNEY 01,State Auditor,,LIB,Dustin Coffell,7
+Clay,KEARNEY 02,State Auditor,,LIB,Dustin Coffell,2
+Clay,KEARNEY 03,State Auditor,,LIB,Dustin Coffell,7
+Clay,KEARNEY 04,State Auditor,,LIB,Dustin Coffell,9
+Clay,KEARNEY 05,State Auditor,,LIB,Dustin Coffell,7
+Clay,LIBERTY 01,State Auditor,,LIB,Dustin Coffell,4
+Clay,LIBERTY 02,State Auditor,,LIB,Dustin Coffell,4
+Clay,LIBERTY 03,State Auditor,,LIB,Dustin Coffell,4
+Clay,LIBERTY 04,State Auditor,,LIB,Dustin Coffell,4
+Clay,LIBERTY 05,State Auditor,,LIB,Dustin Coffell,4
+Clay,LIBERTY 06,State Auditor,,LIB,Dustin Coffell,10
+Clay,LIBERTY 07,State Auditor,,LIB,Dustin Coffell,6
+Clay,LIBERTY 08,State Auditor,,LIB,Dustin Coffell,5
+Clay,LIBERTY 09,State Auditor,,LIB,Dustin Coffell,6
+Clay,LIBERTY 10,State Auditor,,LIB,Dustin Coffell,8
+Clay,LIBERTY 11,State Auditor,,LIB,Dustin Coffell,6
+Clay,LIBERTY 13,State Auditor,,LIB,Dustin Coffell,5
+Clay,LIBERTY 14,State Auditor,,LIB,Dustin Coffell,4
+Clay,PLATTE 01,State Auditor,,LIB,Dustin Coffell,7
+Clay,PLATTE 02,State Auditor,,LIB,Dustin Coffell,8
+Clay,PLATTE 03,State Auditor,,LIB,Dustin Coffell,6
+Clay,WASHINGTON 01,State Auditor,,LIB,Dustin Coffell,2
+Clay,WASHINGTON 02,State Auditor,,LIB,Dustin Coffell,4
+Clay,WASHINGTON 03,State Auditor,,LIB,Dustin Coffell,2
+Clay,21 GALLATIN 01,U.S. House,6,LIB,Andy Maidment,5
+Clay,21 GALLATIN 02,U.S. House,6,LIB,Andy Maidment,8
+Clay,21 GALLATIN 03,U.S. House,6,LIB,Andy Maidment,9
+Clay,21 GALLATIN 04,U.S. House,6,LIB,Andy Maidment,2
+Clay,21 GALLATIN 05,U.S. House,6,LIB,Andy Maidment,1
+Clay,21 GALLATIN 06,U.S. House,6,LIB,Andy Maidment,6
+Clay,21 GALLATIN 07,U.S. House,6,LIB,Andy Maidment,7
+Clay,21 GALLATIN 08,U.S. House,6,LIB,Andy Maidment,9
+Clay,21 GALLATIN 09,U.S. House,6,LIB,Andy Maidment,4
+Clay,21 GALLATIN 10,U.S. House,6,LIB,Andy Maidment,6
+Clay,21 CHOUTEAU 11,U.S. House,6,LIB,Andy Maidment,7
+Clay,21 CHOUTEAU 12,U.S. House,6,LIB,Andy Maidment,7
+Clay,21 CHOUTEAU 13,U.S. House,6,LIB,Andy Maidment,4
+Clay,21 GALLATIN 14,U.S. House,6,LIB,Andy Maidment,5
+Clay,21 GALLATIN 15,U.S. House,6,LIB,Andy Maidment,2
+Clay,21 CHOUTEAU 16,U.S. House,6,LIB,Andy Maidment,9
+Clay,21 CHOUTEAU 17,U.S. House,6,LIB,Andy Maidment,9
+Clay,21 CHOUTEAU 18,U.S. House,6,LIB,Andy Maidment,11
+Clay,21 CHOUTEAU 19,U.S. House,6,LIB,Andy Maidment,4
+Clay,21 GALLATIN 20,U.S. House,6,LIB,Andy Maidment,12
+Clay,21 CHOUTEAU 21,U.S. House,6,LIB,Andy Maidment,6
+Clay,21 CHOUTEAU 22,U.S. House,6,LIB,Andy Maidment,1
+Clay,21 GALLATIN 23,U.S. House,6,LIB,Andy Maidment,4
+Clay,21 GALLATIN 24,U.S. House,6,LIB,Andy Maidment,9
+Clay,21 GALLATIN 25,U.S. House,6,LIB,Andy Maidment,2
+Clay,21 CHOUTEAU 26,U.S. House,6,LIB,Andy Maidment,2
+Clay,21 CHOUTEAU 27,U.S. House,6,LIB,Andy Maidment,7
+Clay,21 CHOUTEAU 28,U.S. House,6,LIB,Andy Maidment,12
+Clay,21 GALLATIN 29,U.S. House,6,LIB,Andy Maidment,8
+Clay,21 CHOUTEAU 30,U.S. House,6,LIB,Andy Maidment,13
+Clay,21 PLATTE 01,U.S. House,6,LIB,Andy Maidment,6
+Clay,21 PLATTE 02,U.S. House,6,LIB,Andy Maidment,5
+Clay,21 LIBERTY 01,U.S. House,6,LIB,Andy Maidment,8
+Clay,21 LIBERTY 02,U.S. House,6,LIB,Andy Maidment,7
+Clay,21 LIBERTY 03,U.S. House,6,LIB,Andy Maidment,5
+Clay,21 LIBERTY 04,U.S. House,6,LIB,Andy Maidment,1
+Clay,21 LIBERTY 05,U.S. House,6,LIB,Andy Maidment,0
+Clay,21 LIBERTY 06,U.S. House,6,LIB,Andy Maidment,2
+Clay,21 LIBERTY 07,U.S. House,6,LIB,Andy Maidment,3
+Clay,21 LIBERTY 08,U.S. House,6,LIB,Andy Maidment,2
+Clay,21 LIBERTY 09,U.S. House,6,LIB,Andy Maidment,3
+Clay,GALLATIN 01,U.S. House,6,LIB,Andy Maidment,4
+Clay,GALLATIN 02,U.S. House,6,LIB,Andy Maidment,8
+Clay,GALLATIN 03,U.S. House,6,LIB,Andy Maidment,6
+Clay,GALLATIN 04,U.S. House,6,LIB,Andy Maidment,7
+Clay,GALLATIN 05,U.S. House,6,LIB,Andy Maidment,2
+Clay,GALLATIN 06,U.S. House,6,LIB,Andy Maidment,4
+Clay,GALLATIN 07,U.S. House,6,LIB,Andy Maidment,7
+Clay,CHOUTEAU 08,U.S. House,6,LIB,Andy Maidment,3
+Clay,GALLATIN 09,U.S. House,6,LIB,Andy Maidment,8
+Clay,GALLATIN 10,U.S. House,6,LIB,Andy Maidment,5
+Clay,GALLATIN 11,U.S. House,6,LIB,Andy Maidment,7
+Clay,GALLATIN 12,U.S. House,6,LIB,Andy Maidment,3
+Clay,GALLATIN 13,U.S. House,6,LIB,Andy Maidment,3
+Clay,FISHING RIVER 01,U.S. House,6,LIB,Andy Maidment,11
+Clay,FISHING RIVER 02,U.S. House,6,LIB,Andy Maidment,6
+Clay,FISHING RIVER 03,U.S. House,6,LIB,Andy Maidment,0
+Clay,FISHING RIVER 04,U.S. House,6,LIB,Andy Maidment,3
+Clay,KEARNEY 01,U.S. House,6,LIB,Andy Maidment,7
+Clay,KEARNEY 02,U.S. House,6,LIB,Andy Maidment,2
+Clay,KEARNEY 03,U.S. House,6,LIB,Andy Maidment,6
+Clay,KEARNEY 04,U.S. House,6,LIB,Andy Maidment,10
+Clay,KEARNEY 05,U.S. House,6,LIB,Andy Maidment,6
+Clay,LIBERTY 01,U.S. House,6,LIB,Andy Maidment,4
+Clay,LIBERTY 02,U.S. House,6,LIB,Andy Maidment,4
+Clay,LIBERTY 03,U.S. House,6,LIB,Andy Maidment,4
+Clay,LIBERTY 04,U.S. House,6,LIB,Andy Maidment,4
+Clay,LIBERTY 05,U.S. House,6,LIB,Andy Maidment,3
+Clay,LIBERTY 06,U.S. House,6,LIB,Andy Maidment,10
+Clay,LIBERTY 07,U.S. House,6,LIB,Andy Maidment,6
+Clay,LIBERTY 08,U.S. House,6,LIB,Andy Maidment,5
+Clay,LIBERTY 09,U.S. House,6,LIB,Andy Maidment,5
+Clay,LIBERTY 10,U.S. House,6,LIB,Andy Maidment,7
+Clay,LIBERTY 11,U.S. House,6,LIB,Andy Maidment,6
+Clay,LIBERTY 13,U.S. House,6,LIB,Andy Maidment,5
+Clay,LIBERTY 14,U.S. House,6,LIB,Andy Maidment,4
+Clay,PLATTE 01,U.S. House,6,LIB,Andy Maidment,7
+Clay,PLATTE 02,U.S. House,6,LIB,Andy Maidment,8
+Clay,PLATTE 03,U.S. House,6,LIB,Andy Maidment,6
+Clay,WASHINGTON 01,U.S. House,6,LIB,Andy Maidment,2
+Clay,WASHINGTON 02,U.S. House,6,LIB,Andy Maidment,4
+Clay,WASHINGTON 03,U.S. House,6,LIB,Andy Maidment,2
+Clay,21 GALLATIN 01,Presiding Commissioner,,,Jennifer Justus,190
+Clay,21 GALLATIN 02,Presiding Commissioner,,,Jennifer Justus,501
+Clay,21 GALLATIN 03,Presiding Commissioner,,,Jennifer Justus,324
+Clay,21 GALLATIN 04,Presiding Commissioner,,,Jennifer Justus,286
+Clay,21 GALLATIN 05,Presiding Commissioner,,,Jennifer Justus,164
+Clay,21 GALLATIN 06,Presiding Commissioner,,,Jennifer Justus,192
+Clay,21 GALLATIN 07,Presiding Commissioner,,,Jennifer Justus,185
+Clay,21 GALLATIN 08,Presiding Commissioner,,,Jennifer Justus,230
+Clay,21 GALLATIN 09,Presiding Commissioner,,,Jennifer Justus,160
+Clay,21 GALLATIN 10,Presiding Commissioner,,,Jennifer Justus,414
+Clay,21 CHOUTEAU 11,Presiding Commissioner,,,Jennifer Justus,272
+Clay,21 CHOUTEAU 12,Presiding Commissioner,,,Jennifer Justus,361
+Clay,21 CHOUTEAU 13,Presiding Commissioner,,,Jennifer Justus,515
+Clay,21 GALLATIN 14,Presiding Commissioner,,,Jennifer Justus,158
+Clay,21 GALLATIN 15,Presiding Commissioner,,,Jennifer Justus,200
+Clay,21 CHOUTEAU 16,Presiding Commissioner,,,Jennifer Justus,425
+Clay,21 CHOUTEAU 17,Presiding Commissioner,,,Jennifer Justus,375
+Clay,21 CHOUTEAU 18,Presiding Commissioner,,,Jennifer Justus,275
+Clay,21 CHOUTEAU 19,Presiding Commissioner,,,Jennifer Justus,167
+Clay,21 GALLATIN 20,Presiding Commissioner,,,Jennifer Justus,408
+Clay,21 CHOUTEAU 21,Presiding Commissioner,,,Jennifer Justus,255
+Clay,21 CHOUTEAU 22,Presiding Commissioner,,,Jennifer Justus,27
+Clay,21 GALLATIN 23,Presiding Commissioner,,,Jennifer Justus,151
+Clay,21 GALLATIN 24,Presiding Commissioner,,,Jennifer Justus,204
+Clay,21 GALLATIN 25,Presiding Commissioner,,,Jennifer Justus,205
+Clay,21 CHOUTEAU 26,Presiding Commissioner,,,Jennifer Justus,597
+Clay,21 CHOUTEAU 27,Presiding Commissioner,,,Jennifer Justus,390
+Clay,21 CHOUTEAU 28,Presiding Commissioner,,,Jennifer Justus,367
+Clay,21 GALLATIN 29,Presiding Commissioner,,,Jennifer Justus,347
+Clay,21 CHOUTEAU 30,Presiding Commissioner,,,Jennifer Justus,510
+Clay,21 PLATTE 01,Presiding Commissioner,,,Jennifer Justus,358
+Clay,21 PLATTE 02,Presiding Commissioner,,,Jennifer Justus,229
+Clay,21 LIBERTY 01,Presiding Commissioner,,,Jennifer Justus,364
+Clay,21 LIBERTY 02,Presiding Commissioner,,,Jennifer Justus,378
+Clay,21 LIBERTY 03,Presiding Commissioner,,,Jennifer Justus,448
+Clay,21 LIBERTY 04,Presiding Commissioner,,,Jennifer Justus,365
+Clay,21 LIBERTY 05,Presiding Commissioner,,,Jennifer Justus,281
+Clay,21 LIBERTY 06,Presiding Commissioner,,,Jennifer Justus,252
+Clay,21 LIBERTY 07,Presiding Commissioner,,,Jennifer Justus,291
+Clay,21 LIBERTY 08,Presiding Commissioner,,,Jennifer Justus,253
+Clay,21 LIBERTY 09,Presiding Commissioner,,,Jennifer Justus,384
+Clay,GALLATIN 01,Presiding Commissioner,,,Jennifer Justus,301
+Clay,GALLATIN 02,Presiding Commissioner,,,Jennifer Justus,267
+Clay,GALLATIN 03,Presiding Commissioner,,,Jennifer Justus,262
+Clay,GALLATIN 04,Presiding Commissioner,,,Jennifer Justus,299
+Clay,GALLATIN 05,Presiding Commissioner,,,Jennifer Justus,220
+Clay,GALLATIN 06,Presiding Commissioner,,,Jennifer Justus,274
+Clay,GALLATIN 07,Presiding Commissioner,,,Jennifer Justus,157
+Clay,CHOUTEAU 08,Presiding Commissioner,,,Jennifer Justus,121
+Clay,GALLATIN 09,Presiding Commissioner,,,Jennifer Justus,217
+Clay,GALLATIN 10,Presiding Commissioner,,,Jennifer Justus,220
+Clay,GALLATIN 11,Presiding Commissioner,,,Jennifer Justus,316
+Clay,GALLATIN 12,Presiding Commissioner,,,Jennifer Justus,210
+Clay,GALLATIN 13,Presiding Commissioner,,,Jennifer Justus,178
+Clay,FISHING RIVER 01,Presiding Commissioner,,,Jennifer Justus,264
+Clay,FISHING RIVER 02,Presiding Commissioner,,,Jennifer Justus,285
+Clay,FISHING RIVER 03,Presiding Commissioner,,,Jennifer Justus,118
+Clay,FISHING RIVER 04,Presiding Commissioner,,,Jennifer Justus,151
+Clay,KEARNEY 01,Presiding Commissioner,,,Jennifer Justus,249
+Clay,KEARNEY 02,Presiding Commissioner,,,Jennifer Justus,353
+Clay,KEARNEY 03,Presiding Commissioner,,,Jennifer Justus,376
+Clay,KEARNEY 04,Presiding Commissioner,,,Jennifer Justus,318
+Clay,KEARNEY 05,Presiding Commissioner,,,Jennifer Justus,432
+Clay,LIBERTY 01,Presiding Commissioner,,,Jennifer Justus,292
+Clay,LIBERTY 02,Presiding Commissioner,,,Jennifer Justus,310
+Clay,LIBERTY 03,Presiding Commissioner,,,Jennifer Justus,281
+Clay,LIBERTY 04,Presiding Commissioner,,,Jennifer Justus,221
+Clay,LIBERTY 05,Presiding Commissioner,,,Jennifer Justus,248
+Clay,LIBERTY 06,Presiding Commissioner,,,Jennifer Justus,409
+Clay,LIBERTY 07,Presiding Commissioner,,,Jennifer Justus,310
+Clay,LIBERTY 08,Presiding Commissioner,,,Jennifer Justus,168
+Clay,LIBERTY 09,Presiding Commissioner,,,Jennifer Justus,276
+Clay,LIBERTY 10,Presiding Commissioner,,,Jennifer Justus,305
+Clay,LIBERTY 11,Presiding Commissioner,,,Jennifer Justus,272
+Clay,LIBERTY 13,Presiding Commissioner,,,Jennifer Justus,545
+Clay,LIBERTY 14,Presiding Commissioner,,,Jennifer Justus,228
+Clay,PLATTE 01,Presiding Commissioner,,,Jennifer Justus,600
+Clay,PLATTE 02,Presiding Commissioner,,,Jennifer Justus,476
+Clay,PLATTE 03,Presiding Commissioner,,,Jennifer Justus,281
+Clay,WASHINGTON 01,Presiding Commissioner,,,Jennifer Justus,153
+Clay,WASHINGTON 02,Presiding Commissioner,,,Jennifer Justus,181
+Clay,WASHINGTON 03,Presiding Commissioner,,,Jennifer Justus,153
+Clay,21 GALLATIN 01,Presiding Commissioner,,,Jerry Nolte,73
+Clay,21 GALLATIN 02,Presiding Commissioner,,,Jerry Nolte,364
+Clay,21 GALLATIN 03,Presiding Commissioner,,,Jerry Nolte,146
+Clay,21 GALLATIN 04,Presiding Commissioner,,,Jerry Nolte,155
+Clay,21 GALLATIN 05,Presiding Commissioner,,,Jerry Nolte,224
+Clay,21 GALLATIN 06,Presiding Commissioner,,,Jerry Nolte,131
+Clay,21 GALLATIN 07,Presiding Commissioner,,,Jerry Nolte,130
+Clay,21 GALLATIN 08,Presiding Commissioner,,,Jerry Nolte,153
+Clay,21 GALLATIN 09,Presiding Commissioner,,,Jerry Nolte,118
+Clay,21 GALLATIN 10,Presiding Commissioner,,,Jerry Nolte,427
+Clay,21 CHOUTEAU 11,Presiding Commissioner,,,Jerry Nolte,189
+Clay,21 CHOUTEAU 12,Presiding Commissioner,,,Jerry Nolte,295
+Clay,21 CHOUTEAU 13,Presiding Commissioner,,,Jerry Nolte,338
+Clay,21 GALLATIN 14,Presiding Commissioner,,,Jerry Nolte,140
+Clay,21 GALLATIN 15,Presiding Commissioner,,,Jerry Nolte,88
+Clay,21 CHOUTEAU 16,Presiding Commissioner,,,Jerry Nolte,276
+Clay,21 CHOUTEAU 17,Presiding Commissioner,,,Jerry Nolte,299
+Clay,21 CHOUTEAU 18,Presiding Commissioner,,,Jerry Nolte,209
+Clay,21 CHOUTEAU 19,Presiding Commissioner,,,Jerry Nolte,152
+Clay,21 GALLATIN 20,Presiding Commissioner,,,Jerry Nolte,307
+Clay,21 CHOUTEAU 21,Presiding Commissioner,,,Jerry Nolte,190
+Clay,21 CHOUTEAU 22,Presiding Commissioner,,,Jerry Nolte,29
+Clay,21 GALLATIN 23,Presiding Commissioner,,,Jerry Nolte,70
+Clay,21 GALLATIN 24,Presiding Commissioner,,,Jerry Nolte,93
+Clay,21 GALLATIN 25,Presiding Commissioner,,,Jerry Nolte,127
+Clay,21 CHOUTEAU 26,Presiding Commissioner,,,Jerry Nolte,354
+Clay,21 CHOUTEAU 27,Presiding Commissioner,,,Jerry Nolte,316
+Clay,21 CHOUTEAU 28,Presiding Commissioner,,,Jerry Nolte,280
+Clay,21 GALLATIN 29,Presiding Commissioner,,,Jerry Nolte,217
+Clay,21 CHOUTEAU 30,Presiding Commissioner,,,Jerry Nolte,271
+Clay,21 PLATTE 01,Presiding Commissioner,,,Jerry Nolte,284
+Clay,21 PLATTE 02,Presiding Commissioner,,,Jerry Nolte,169
+Clay,21 LIBERTY 01,Presiding Commissioner,,,Jerry Nolte,271
+Clay,21 LIBERTY 02,Presiding Commissioner,,,Jerry Nolte,281
+Clay,21 LIBERTY 03,Presiding Commissioner,,,Jerry Nolte,370
+Clay,21 LIBERTY 04,Presiding Commissioner,,,Jerry Nolte,213
+Clay,21 LIBERTY 05,Presiding Commissioner,,,Jerry Nolte,182
+Clay,21 LIBERTY 06,Presiding Commissioner,,,Jerry Nolte,194
+Clay,21 LIBERTY 07,Presiding Commissioner,,,Jerry Nolte,202
+Clay,21 LIBERTY 08,Presiding Commissioner,,,Jerry Nolte,164
+Clay,21 LIBERTY 09,Presiding Commissioner,,,Jerry Nolte,242
+Clay,GALLATIN 01,Presiding Commissioner,,,Jerry Nolte,100
+Clay,GALLATIN 02,Presiding Commissioner,,,Jerry Nolte,92
+Clay,GALLATIN 03,Presiding Commissioner,,,Jerry Nolte,336
+Clay,GALLATIN 04,Presiding Commissioner,,,Jerry Nolte,245
+Clay,GALLATIN 05,Presiding Commissioner,,,Jerry Nolte,341
+Clay,GALLATIN 06,Presiding Commissioner,,,Jerry Nolte,266
+Clay,GALLATIN 07,Presiding Commissioner,,,Jerry Nolte,157
+Clay,CHOUTEAU 08,Presiding Commissioner,,,Jerry Nolte,109
+Clay,GALLATIN 09,Presiding Commissioner,,,Jerry Nolte,240
+Clay,GALLATIN 10,Presiding Commissioner,,,Jerry Nolte,192
+Clay,GALLATIN 11,Presiding Commissioner,,,Jerry Nolte,383
+Clay,GALLATIN 12,Presiding Commissioner,,,Jerry Nolte,169
+Clay,GALLATIN 13,Presiding Commissioner,,,Jerry Nolte,169
+Clay,FISHING RIVER 01,Presiding Commissioner,,,Jerry Nolte,218
+Clay,FISHING RIVER 02,Presiding Commissioner,,,Jerry Nolte,326
+Clay,FISHING RIVER 03,Presiding Commissioner,,,Jerry Nolte,101
+Clay,FISHING RIVER 04,Presiding Commissioner,,,Jerry Nolte,194
+Clay,KEARNEY 01,Presiding Commissioner,,,Jerry Nolte,231
+Clay,KEARNEY 02,Presiding Commissioner,,,Jerry Nolte,229
+Clay,KEARNEY 03,Presiding Commissioner,,,Jerry Nolte,518
+Clay,KEARNEY 04,Presiding Commissioner,,,Jerry Nolte,379
+Clay,KEARNEY 05,Presiding Commissioner,,,Jerry Nolte,471
+Clay,LIBERTY 01,Presiding Commissioner,,,Jerry Nolte,247
+Clay,LIBERTY 02,Presiding Commissioner,,,Jerry Nolte,332
+Clay,LIBERTY 03,Presiding Commissioner,,,Jerry Nolte,178
+Clay,LIBERTY 04,Presiding Commissioner,,,Jerry Nolte,189
+Clay,LIBERTY 05,Presiding Commissioner,,,Jerry Nolte,192
+Clay,LIBERTY 06,Presiding Commissioner,,,Jerry Nolte,344
+Clay,LIBERTY 07,Presiding Commissioner,,,Jerry Nolte,236
+Clay,LIBERTY 08,Presiding Commissioner,,,Jerry Nolte,218
+Clay,LIBERTY 09,Presiding Commissioner,,,Jerry Nolte,308
+Clay,LIBERTY 10,Presiding Commissioner,,,Jerry Nolte,274
+Clay,LIBERTY 11,Presiding Commissioner,,,Jerry Nolte,260
+Clay,LIBERTY 13,Presiding Commissioner,,,Jerry Nolte,388
+Clay,LIBERTY 14,Presiding Commissioner,,,Jerry Nolte,230
+Clay,PLATTE 01,Presiding Commissioner,,,Jerry Nolte,530
+Clay,PLATTE 02,Presiding Commissioner,,,Jerry Nolte,474
+Clay,PLATTE 03,Presiding Commissioner,,,Jerry Nolte,248
+Clay,WASHINGTON 01,Presiding Commissioner,,,Jerry Nolte,148
+Clay,WASHINGTON 02,Presiding Commissioner,,,Jerry Nolte,202
+Clay,WASHINGTON 03,Presiding Commissioner,,,Jerry Nolte,184
+Clay,21 GALLATIN 01,Presiding Commissioner,,,Jay Swearingen,72
+Clay,21 GALLATIN 02,Presiding Commissioner,,,Jay Swearingen,310
+Clay,21 GALLATIN 03,Presiding Commissioner,,,Jay Swearingen,171
+Clay,21 GALLATIN 04,Presiding Commissioner,,,Jay Swearingen,142
+Clay,21 GALLATIN 05,Presiding Commissioner,,,Jay Swearingen,88
+Clay,21 GALLATIN 06,Presiding Commissioner,,,Jay Swearingen,88
+Clay,21 GALLATIN 07,Presiding Commissioner,,,Jay Swearingen,109
+Clay,21 GALLATIN 08,Presiding Commissioner,,,Jay Swearingen,100
+Clay,21 GALLATIN 09,Presiding Commissioner,,,Jay Swearingen,89
+Clay,21 GALLATIN 10,Presiding Commissioner,,,Jay Swearingen,202
+Clay,21 CHOUTEAU 11,Presiding Commissioner,,,Jay Swearingen,95
+Clay,21 CHOUTEAU 12,Presiding Commissioner,,,Jay Swearingen,194
+Clay,21 CHOUTEAU 13,Presiding Commissioner,,,Jay Swearingen,141
+Clay,21 GALLATIN 14,Presiding Commissioner,,,Jay Swearingen,98
+Clay,21 GALLATIN 15,Presiding Commissioner,,,Jay Swearingen,108
+Clay,21 CHOUTEAU 16,Presiding Commissioner,,,Jay Swearingen,151
+Clay,21 CHOUTEAU 17,Presiding Commissioner,,,Jay Swearingen,175
+Clay,21 CHOUTEAU 18,Presiding Commissioner,,,Jay Swearingen,137
+Clay,21 CHOUTEAU 19,Presiding Commissioner,,,Jay Swearingen,90
+Clay,21 GALLATIN 20,Presiding Commissioner,,,Jay Swearingen,243
+Clay,21 CHOUTEAU 21,Presiding Commissioner,,,Jay Swearingen,131
+Clay,21 CHOUTEAU 22,Presiding Commissioner,,,Jay Swearingen,13
+Clay,21 GALLATIN 23,Presiding Commissioner,,,Jay Swearingen,76
+Clay,21 GALLATIN 24,Presiding Commissioner,,,Jay Swearingen,79
+Clay,21 GALLATIN 25,Presiding Commissioner,,,Jay Swearingen,89
+Clay,21 CHOUTEAU 26,Presiding Commissioner,,,Jay Swearingen,205
+Clay,21 CHOUTEAU 27,Presiding Commissioner,,,Jay Swearingen,185
+Clay,21 CHOUTEAU 28,Presiding Commissioner,,,Jay Swearingen,172
+Clay,21 GALLATIN 29,Presiding Commissioner,,,Jay Swearingen,186
+Clay,21 CHOUTEAU 30,Presiding Commissioner,,,Jay Swearingen,159
+Clay,21 PLATTE 01,Presiding Commissioner,,,Jay Swearingen,158
+Clay,21 PLATTE 02,Presiding Commissioner,,,Jay Swearingen,95
+Clay,21 LIBERTY 01,Presiding Commissioner,,,Jay Swearingen,165
+Clay,21 LIBERTY 02,Presiding Commissioner,,,Jay Swearingen,216
+Clay,21 LIBERTY 03,Presiding Commissioner,,,Jay Swearingen,165
+Clay,21 LIBERTY 04,Presiding Commissioner,,,Jay Swearingen,144
+Clay,21 LIBERTY 05,Presiding Commissioner,,,Jay Swearingen,127
+Clay,21 LIBERTY 06,Presiding Commissioner,,,Jay Swearingen,117
+Clay,21 LIBERTY 07,Presiding Commissioner,,,Jay Swearingen,110
+Clay,21 LIBERTY 08,Presiding Commissioner,,,Jay Swearingen,85
+Clay,21 LIBERTY 09,Presiding Commissioner,,,Jay Swearingen,135
+Clay,GALLATIN 01,Presiding Commissioner,,,Jay Swearingen,218
+Clay,GALLATIN 02,Presiding Commissioner,,,Jay Swearingen,148
+Clay,GALLATIN 03,Presiding Commissioner,,,Jay Swearingen,167
+Clay,GALLATIN 04,Presiding Commissioner,,,Jay Swearingen,193
+Clay,GALLATIN 05,Presiding Commissioner,,,Jay Swearingen,150
+Clay,GALLATIN 06,Presiding Commissioner,,,Jay Swearingen,165
+Clay,GALLATIN 07,Presiding Commissioner,,,Jay Swearingen,85
+Clay,CHOUTEAU 08,Presiding Commissioner,,,Jay Swearingen,43
+Clay,GALLATIN 09,Presiding Commissioner,,,Jay Swearingen,118
+Clay,GALLATIN 10,Presiding Commissioner,,,Jay Swearingen,94
+Clay,GALLATIN 11,Presiding Commissioner,,,Jay Swearingen,182
+Clay,GALLATIN 12,Presiding Commissioner,,,Jay Swearingen,103
+Clay,GALLATIN 13,Presiding Commissioner,,,Jay Swearingen,90
+Clay,FISHING RIVER 01,Presiding Commissioner,,,Jay Swearingen,138
+Clay,FISHING RIVER 02,Presiding Commissioner,,,Jay Swearingen,155
+Clay,FISHING RIVER 03,Presiding Commissioner,,,Jay Swearingen,47
+Clay,FISHING RIVER 04,Presiding Commissioner,,,Jay Swearingen,90
+Clay,KEARNEY 01,Presiding Commissioner,,,Jay Swearingen,105
+Clay,KEARNEY 02,Presiding Commissioner,,,Jay Swearingen,132
+Clay,KEARNEY 03,Presiding Commissioner,,,Jay Swearingen,178
+Clay,KEARNEY 04,Presiding Commissioner,,,Jay Swearingen,150
+Clay,KEARNEY 05,Presiding Commissioner,,,Jay Swearingen,157
+Clay,LIBERTY 01,Presiding Commissioner,,,Jay Swearingen,160
+Clay,LIBERTY 02,Presiding Commissioner,,,Jay Swearingen,161
+Clay,LIBERTY 03,Presiding Commissioner,,,Jay Swearingen,124
+Clay,LIBERTY 04,Presiding Commissioner,,,Jay Swearingen,91
+Clay,LIBERTY 05,Presiding Commissioner,,,Jay Swearingen,113
+Clay,LIBERTY 06,Presiding Commissioner,,,Jay Swearingen,233
+Clay,LIBERTY 07,Presiding Commissioner,,,Jay Swearingen,187
+Clay,LIBERTY 08,Presiding Commissioner,,,Jay Swearingen,89
+Clay,LIBERTY 09,Presiding Commissioner,,,Jay Swearingen,119
+Clay,LIBERTY 10,Presiding Commissioner,,,Jay Swearingen,158
+Clay,LIBERTY 11,Presiding Commissioner,,,Jay Swearingen,151
+Clay,LIBERTY 13,Presiding Commissioner,,,Jay Swearingen,250
+Clay,LIBERTY 14,Presiding Commissioner,,,Jay Swearingen,147
+Clay,PLATTE 01,Presiding Commissioner,,,Jay Swearingen,286
+Clay,PLATTE 02,Presiding Commissioner,,,Jay Swearingen,178
+Clay,PLATTE 03,Presiding Commissioner,,,Jay Swearingen,169
+Clay,WASHINGTON 01,Presiding Commissioner,,,Jay Swearingen,83
+Clay,WASHINGTON 02,Presiding Commissioner,,,Jay Swearingen,98
+Clay,WASHINGTON 03,Presiding Commissioner,,,Jay Swearingen,56
+Clay,21 GALLATIN 01,Western Commissioner Seat 2,,,Jon Carpenter,142
+Clay,21 GALLATIN 02,Western Commissioner Seat 2,,,Jon Carpenter,617
+Clay,21 GALLATIN 03,Western Commissioner Seat 2,,,Jon Carpenter,324
+Clay,21 GALLATIN 04,Western Commissioner Seat 2,,,Jon Carpenter,301
+Clay,21 GALLATIN 05,Western Commissioner Seat 2,,,Jon Carpenter,245
+Clay,21 GALLATIN 06,Western Commissioner Seat 2,,,Jon Carpenter,181
+Clay,21 GALLATIN 07,Western Commissioner Seat 2,,,Jon Carpenter,214
+Clay,21 GALLATIN 08,Western Commissioner Seat 2,,,Jon Carpenter,231
+Clay,21 GALLATIN 09,Western Commissioner Seat 2,,,Jon Carpenter,180
+Clay,21 GALLATIN 10,Western Commissioner Seat 2,,,Jon Carpenter,534
+Clay,21 CHOUTEAU 11,Western Commissioner Seat 2,,,Jon Carpenter,199
+Clay,21 CHOUTEAU 12,Western Commissioner Seat 2,,,Jon Carpenter,406
+Clay,21 GALLATIN 14,Western Commissioner Seat 2,,,Jon Carpenter,197
+Clay,21 GALLATIN 15,Western Commissioner Seat 2,,,Jon Carpenter,207
+Clay,21 CHOUTEAU 16,Western Commissioner Seat 2,,,Jon Carpenter,389
+Clay,21 CHOUTEAU 17,Western Commissioner Seat 2,,,Jon Carpenter,442
+Clay,21 CHOUTEAU 18,Western Commissioner Seat 2,,,Jon Carpenter,277
+Clay,21 CHOUTEAU 19,Western Commissioner Seat 2,,,Jon Carpenter,196
+Clay,21 GALLATIN 20,Western Commissioner Seat 2,,,Jon Carpenter,440
+Clay,21 GALLATIN 23,Western Commissioner Seat 2,,,Jon Carpenter,138
+Clay,21 GALLATIN 24,Western Commissioner Seat 2,,,Jon Carpenter,176
+Clay,21 GALLATIN 25,Western Commissioner Seat 2,,,Jon Carpenter,208
+Clay,21 CHOUTEAU 26,Western Commissioner Seat 2,,,Jon Carpenter,358
+Clay,21 CHOUTEAU 28,Western Commissioner Seat 2,,,Jon Carpenter,1
+Clay,21 GALLATIN 29,Western Commissioner Seat 2,,,Jon Carpenter,383
+Clay,21 CHOUTEAU 30,Western Commissioner Seat 2,,,Jon Carpenter,443
+Clay,21 PLATTE 01,Western Commissioner Seat 2,,,Jon Carpenter,345
+Clay,21 PLATTE 02,Western Commissioner Seat 2,,,Jon Carpenter,76
+Clay,GALLATIN 01,Western Commissioner Seat 2,,,Jon Carpenter,298
+Clay,GALLATIN 02,Western Commissioner Seat 2,,,Jon Carpenter,235
+Clay,GALLATIN 03,Western Commissioner Seat 2,,,Jon Carpenter,453
+Clay,GALLATIN 04,Western Commissioner Seat 2,,,Jon Carpenter,459
+Clay,GALLATIN 05,Western Commissioner Seat 2,,,Jon Carpenter,417
+Clay,GALLATIN 06,Western Commissioner Seat 2,,,Jon Carpenter,409
+Clay,GALLATIN 07,Western Commissioner Seat 2,,,Jon Carpenter,237
+Clay,CHOUTEAU 08,Western Commissioner Seat 2,,,Jon Carpenter,110
+Clay,GALLATIN 09,Western Commissioner Seat 2,,,Jon Carpenter,314
+Clay,GALLATIN 10,Western Commissioner Seat 2,,,Jon Carpenter,265
+Clay,GALLATIN 11,Western Commissioner Seat 2,,,Jon Carpenter,539
+Clay,GALLATIN 12,Western Commissioner Seat 2,,,Jon Carpenter,275
+Clay,GALLATIN 13,Western Commissioner Seat 2,,,Jon Carpenter,243
+Clay,LIBERTY 05,Western Commissioner Seat 2,,,Jon Carpenter,198
+Clay,21 GALLATIN 01,Western Commissioner Seat 2,,,Theresa Leaming,156
+Clay,21 GALLATIN 02,Western Commissioner Seat 2,,,Theresa Leaming,387
+Clay,21 GALLATIN 03,Western Commissioner Seat 2,,,Theresa Leaming,252
+Clay,21 GALLATIN 04,Western Commissioner Seat 2,,,Theresa Leaming,221
+Clay,21 GALLATIN 05,Western Commissioner Seat 2,,,Theresa Leaming,159
+Clay,21 GALLATIN 06,Western Commissioner Seat 2,,,Theresa Leaming,164
+Clay,21 GALLATIN 07,Western Commissioner Seat 2,,,Theresa Leaming,169
+Clay,21 GALLATIN 08,Western Commissioner Seat 2,,,Theresa Leaming,175
+Clay,21 GALLATIN 09,Western Commissioner Seat 2,,,Theresa Leaming,132
+Clay,21 GALLATIN 10,Western Commissioner Seat 2,,,Theresa Leaming,349
+Clay,21 CHOUTEAU 11,Western Commissioner Seat 2,,,Theresa Leaming,164
+Clay,21 CHOUTEAU 12,Western Commissioner Seat 2,,,Theresa Leaming,280
+Clay,21 GALLATIN 14,Western Commissioner Seat 2,,,Theresa Leaming,158
+Clay,21 GALLATIN 15,Western Commissioner Seat 2,,,Theresa Leaming,153
+Clay,21 CHOUTEAU 16,Western Commissioner Seat 2,,,Theresa Leaming,276
+Clay,21 CHOUTEAU 17,Western Commissioner Seat 2,,,Theresa Leaming,289
+Clay,21 CHOUTEAU 18,Western Commissioner Seat 2,,,Theresa Leaming,260
+Clay,21 CHOUTEAU 19,Western Commissioner Seat 2,,,Theresa Leaming,159
+Clay,21 GALLATIN 20,Western Commissioner Seat 2,,,Theresa Leaming,415
+Clay,21 GALLATIN 23,Western Commissioner Seat 2,,,Theresa Leaming,123
+Clay,21 GALLATIN 24,Western Commissioner Seat 2,,,Theresa Leaming,162
+Clay,21 GALLATIN 25,Western Commissioner Seat 2,,,Theresa Leaming,164
+Clay,21 CHOUTEAU 26,Western Commissioner Seat 2,,,Theresa Leaming,255
+Clay,21 CHOUTEAU 28,Western Commissioner Seat 2,,,Theresa Leaming,2
+Clay,21 GALLATIN 29,Western Commissioner Seat 2,,,Theresa Leaming,279
+Clay,21 CHOUTEAU 30,Western Commissioner Seat 2,,,Theresa Leaming,350
+Clay,21 PLATTE 01,Western Commissioner Seat 2,,,Theresa Leaming,240
+Clay,21 PLATTE 02,Western Commissioner Seat 2,,,Theresa Leaming,50
+Clay,GALLATIN 01,Western Commissioner Seat 2,,,Theresa Leaming,243
+Clay,GALLATIN 02,Western Commissioner Seat 2,,,Theresa Leaming,215
+Clay,GALLATIN 03,Western Commissioner Seat 2,,,Theresa Leaming,222
+Clay,GALLATIN 04,Western Commissioner Seat 2,,,Theresa Leaming,221
+Clay,GALLATIN 05,Western Commissioner Seat 2,,,Theresa Leaming,205
+Clay,GALLATIN 06,Western Commissioner Seat 2,,,Theresa Leaming,216
+Clay,GALLATIN 07,Western Commissioner Seat 2,,,Theresa Leaming,122
+Clay,CHOUTEAU 08,Western Commissioner Seat 2,,,Theresa Leaming,77
+Clay,GALLATIN 09,Western Commissioner Seat 2,,,Theresa Leaming,178
+Clay,GALLATIN 10,Western Commissioner Seat 2,,,Theresa Leaming,189
+Clay,GALLATIN 11,Western Commissioner Seat 2,,,Theresa Leaming,255
+Clay,GALLATIN 12,Western Commissioner Seat 2,,,Theresa Leaming,139
+Clay,GALLATIN 13,Western Commissioner Seat 2,,,Theresa Leaming,142
+Clay,LIBERTY 05,Western Commissioner Seat 2,,,Theresa Leaming,178
+Clay,21 GALLATIN 01,Western Commissioner Seat 2,,,James Paxton Lyen,26
+Clay,21 GALLATIN 02,Western Commissioner Seat 2,,,James Paxton Lyen,72
+Clay,21 GALLATIN 03,Western Commissioner Seat 2,,,James Paxton Lyen,46
+Clay,21 GALLATIN 04,Western Commissioner Seat 2,,,James Paxton Lyen,46
+Clay,21 GALLATIN 05,Western Commissioner Seat 2,,,James Paxton Lyen,39
+Clay,21 GALLATIN 06,Western Commissioner Seat 2,,,James Paxton Lyen,43
+Clay,21 GALLATIN 07,Western Commissioner Seat 2,,,James Paxton Lyen,26
+Clay,21 GALLATIN 08,Western Commissioner Seat 2,,,James Paxton Lyen,50
+Clay,21 GALLATIN 09,Western Commissioner Seat 2,,,James Paxton Lyen,33
+Clay,21 GALLATIN 10,Western Commissioner Seat 2,,,James Paxton Lyen,77
+Clay,21 CHOUTEAU 11,Western Commissioner Seat 2,,,James Paxton Lyen,41
+Clay,21 CHOUTEAU 12,Western Commissioner Seat 2,,,James Paxton Lyen,61
+Clay,21 GALLATIN 14,Western Commissioner Seat 2,,,James Paxton Lyen,36
+Clay,21 GALLATIN 15,Western Commissioner Seat 2,,,James Paxton Lyen,22
+Clay,21 CHOUTEAU 16,Western Commissioner Seat 2,,,James Paxton Lyen,60
+Clay,21 CHOUTEAU 17,Western Commissioner Seat 2,,,James Paxton Lyen,62
+Clay,21 CHOUTEAU 18,Western Commissioner Seat 2,,,James Paxton Lyen,67
+Clay,21 CHOUTEAU 19,Western Commissioner Seat 2,,,James Paxton Lyen,28
+Clay,21 GALLATIN 20,Western Commissioner Seat 2,,,James Paxton Lyen,63
+Clay,21 GALLATIN 23,Western Commissioner Seat 2,,,James Paxton Lyen,27
+Clay,21 GALLATIN 24,Western Commissioner Seat 2,,,James Paxton Lyen,30
+Clay,21 GALLATIN 25,Western Commissioner Seat 2,,,James Paxton Lyen,31
+Clay,21 CHOUTEAU 26,Western Commissioner Seat 2,,,James Paxton Lyen,70
+Clay,21 CHOUTEAU 28,Western Commissioner Seat 2,,,James Paxton Lyen,0
+Clay,21 GALLATIN 29,Western Commissioner Seat 2,,,James Paxton Lyen,69
+Clay,21 CHOUTEAU 30,Western Commissioner Seat 2,,,James Paxton Lyen,71
+Clay,21 PLATTE 01,Western Commissioner Seat 2,,,James Paxton Lyen,76
+Clay,21 PLATTE 02,Western Commissioner Seat 2,,,James Paxton Lyen,14
+Clay,GALLATIN 01,Western Commissioner Seat 2,,,James Paxton Lyen,37
+Clay,GALLATIN 02,Western Commissioner Seat 2,,,James Paxton Lyen,37
+Clay,GALLATIN 03,Western Commissioner Seat 2,,,James Paxton Lyen,47
+Clay,GALLATIN 04,Western Commissioner Seat 2,,,James Paxton Lyen,35
+Clay,GALLATIN 05,Western Commissioner Seat 2,,,James Paxton Lyen,43
+Clay,GALLATIN 06,Western Commissioner Seat 2,,,James Paxton Lyen,57
+Clay,GALLATIN 07,Western Commissioner Seat 2,,,James Paxton Lyen,24
+Clay,CHOUTEAU 08,Western Commissioner Seat 2,,,James Paxton Lyen,42
+Clay,GALLATIN 09,Western Commissioner Seat 2,,,James Paxton Lyen,53
+Clay,GALLATIN 10,Western Commissioner Seat 2,,,James Paxton Lyen,39
+Clay,GALLATIN 11,Western Commissioner Seat 2,,,James Paxton Lyen,56
+Clay,GALLATIN 12,Western Commissioner Seat 2,,,James Paxton Lyen,50
+Clay,GALLATIN 13,Western Commissioner Seat 2,,,James Paxton Lyen,32
+Clay,LIBERTY 05,Western Commissioner Seat 2,,,James Paxton Lyen,62
+Clay,21 GALLATIN 01,Constitutional Amendment 1,,,Yes,308
+Clay,21 GALLATIN 02,Constitutional Amendment 1,,,Yes,1190
+Clay,21 GALLATIN 03,Constitutional Amendment 1,,,Yes,606
+Clay,21 GALLATIN 04,Constitutional Amendment 1,,,Yes,547
+Clay,21 GALLATIN 05,Constitutional Amendment 1,,,Yes,433
+Clay,21 GALLATIN 06,Constitutional Amendment 1,,,Yes,378
+Clay,21 GALLATIN 07,Constitutional Amendment 1,,,Yes,409
+Clay,21 GALLATIN 08,Constitutional Amendment 1,,,Yes,476
+Clay,21 GALLATIN 09,Constitutional Amendment 1,,,Yes,357
+Clay,21 GALLATIN 10,Constitutional Amendment 1,,,Yes,968
+Clay,21 CHOUTEAU 11,Constitutional Amendment 1,,,Yes,516
+Clay,21 CHOUTEAU 12,Constitutional Amendment 1,,,Yes,802
+Clay,21 CHOUTEAU 13,Constitutional Amendment 1,,,Yes,883
+Clay,21 GALLATIN 14,Constitutional Amendment 1,,,Yes,371
+Clay,21 GALLATIN 15,Constitutional Amendment 1,,,Yes,365
+Clay,21 CHOUTEAU 16,Constitutional Amendment 1,,,Yes,829
+Clay,21 CHOUTEAU 17,Constitutional Amendment 1,,,Yes,794
+Clay,21 CHOUTEAU 18,Constitutional Amendment 1,,,Yes,542
+Clay,21 CHOUTEAU 19,Constitutional Amendment 1,,,Yes,355
+Clay,21 GALLATIN 20,Constitutional Amendment 1,,,Yes,890
+Clay,21 CHOUTEAU 21,Constitutional Amendment 1,,,Yes,514
+Clay,21 CHOUTEAU 22,Constitutional Amendment 1,,,Yes,60
+Clay,21 GALLATIN 23,Constitutional Amendment 1,,,Yes,281
+Clay,21 GALLATIN 24,Constitutional Amendment 1,,,Yes,358
+Clay,21 GALLATIN 25,Constitutional Amendment 1,,,Yes,395
+Clay,21 CHOUTEAU 26,Constitutional Amendment 1,,,Yes,1091
+Clay,21 CHOUTEAU 27,Constitutional Amendment 1,,,Yes,861
+Clay,21 CHOUTEAU 28,Constitutional Amendment 1,,,Yes,765
+Clay,21 GALLATIN 29,Constitutional Amendment 1,,,Yes,693
+Clay,21 CHOUTEAU 30,Constitutional Amendment 1,,,Yes,860
+Clay,21 PLATTE 01,Constitutional Amendment 1,,,Yes,742
+Clay,21 PLATTE 02,Constitutional Amendment 1,,,Yes,443
+Clay,21 LIBERTY 01,Constitutional Amendment 1,,,Yes,718
+Clay,21 LIBERTY 02,Constitutional Amendment 1,,,Yes,834
+Clay,21 LIBERTY 03,Constitutional Amendment 1,,,Yes,912
+Clay,21 LIBERTY 04,Constitutional Amendment 1,,,Yes,630
+Clay,21 LIBERTY 05,Constitutional Amendment 1,,,Yes,577
+Clay,21 LIBERTY 06,Constitutional Amendment 1,,,Yes,527
+Clay,21 LIBERTY 07,Constitutional Amendment 1,,,Yes,551
+Clay,21 LIBERTY 08,Constitutional Amendment 1,,,Yes,480
+Clay,21 LIBERTY 09,Constitutional Amendment 1,,,Yes,710
+Clay,GALLATIN 01,Constitutional Amendment 1,,,Yes,638
+Clay,GALLATIN 02,Constitutional Amendment 1,,,Yes,511
+Clay,GALLATIN 03,Constitutional Amendment 1,,,Yes,720
+Clay,GALLATIN 04,Constitutional Amendment 1,,,Yes,708
+Clay,GALLATIN 05,Constitutional Amendment 1,,,Yes,688
+Clay,GALLATIN 06,Constitutional Amendment 1,,,Yes,666
+Clay,GALLATIN 07,Constitutional Amendment 1,,,Yes,378
+Clay,CHOUTEAU 08,Constitutional Amendment 1,,,Yes,238
+Clay,GALLATIN 09,Constitutional Amendment 1,,,Yes,552
+Clay,GALLATIN 10,Constitutional Amendment 1,,,Yes,467
+Clay,GALLATIN 11,Constitutional Amendment 1,,,Yes,846
+Clay,GALLATIN 12,Constitutional Amendment 1,,,Yes,452
+Clay,GALLATIN 13,Constitutional Amendment 1,,,Yes,417
+Clay,FISHING RIVER 01,Constitutional Amendment 1,,,Yes,591
+Clay,FISHING RIVER 02,Constitutional Amendment 1,,,Yes,706
+Clay,FISHING RIVER 03,Constitutional Amendment 1,,,Yes,244
+Clay,FISHING RIVER 04,Constitutional Amendment 1,,,Yes,413
+Clay,KEARNEY 01,Constitutional Amendment 1,,,Yes,545
+Clay,KEARNEY 02,Constitutional Amendment 1,,,Yes,676
+Clay,KEARNEY 03,Constitutional Amendment 1,,,Yes,994
+Clay,KEARNEY 04,Constitutional Amendment 1,,,Yes,758
+Clay,KEARNEY 05,Constitutional Amendment 1,,,Yes,1005
+Clay,LIBERTY 01,Constitutional Amendment 1,,,Yes,670
+Clay,LIBERTY 02,Constitutional Amendment 1,,,Yes,752
+Clay,LIBERTY 03,Constitutional Amendment 1,,,Yes,564
+Clay,LIBERTY 04,Constitutional Amendment 1,,,Yes,466
+Clay,LIBERTY 05,Constitutional Amendment 1,,,Yes,496
+Clay,LIBERTY 06,Constitutional Amendment 1,,,Yes,952
+Clay,LIBERTY 07,Constitutional Amendment 1,,,Yes,717
+Clay,LIBERTY 08,Constitutional Amendment 1,,,Yes,447
+Clay,LIBERTY 09,Constitutional Amendment 1,,,Yes,661
+Clay,LIBERTY 10,Constitutional Amendment 1,,,Yes,716
+Clay,LIBERTY 11,Constitutional Amendment 1,,,Yes,669
+Clay,LIBERTY 13,Constitutional Amendment 1,,,Yes,1092
+Clay,LIBERTY 14,Constitutional Amendment 1,,,Yes,576
+Clay,PLATTE 01,Constitutional Amendment 1,,,Yes,1239
+Clay,PLATTE 02,Constitutional Amendment 1,,,Yes,1009
+Clay,PLATTE 03,Constitutional Amendment 1,,,Yes,624
+Clay,WASHINGTON 01,Constitutional Amendment 1,,,Yes,369
+Clay,WASHINGTON 02,Constitutional Amendment 1,,,Yes,439
+Clay,WASHINGTON 03,Constitutional Amendment 1,,,Yes,357
+Clay,21 GALLATIN 01,Constitutional Amendment 1,,,No,48
+Clay,21 GALLATIN 02,Constitutional Amendment 1,,,No,115
+Clay,21 GALLATIN 03,Constitutional Amendment 1,,,No,103
+Clay,21 GALLATIN 04,Constitutional Amendment 1,,,No,87
+Clay,21 GALLATIN 05,Constitutional Amendment 1,,,No,87
+Clay,21 GALLATIN 06,Constitutional Amendment 1,,,No,84
+Clay,21 GALLATIN 07,Constitutional Amendment 1,,,No,56
+Clay,21 GALLATIN 08,Constitutional Amendment 1,,,No,71
+Clay,21 GALLATIN 09,Constitutional Amendment 1,,,No,51
+Clay,21 GALLATIN 10,Constitutional Amendment 1,,,No,163
+Clay,21 CHOUTEAU 11,Constitutional Amendment 1,,,No,114
+Clay,21 CHOUTEAU 12,Constitutional Amendment 1,,,No,131
+Clay,21 CHOUTEAU 13,Constitutional Amendment 1,,,No,171
+Clay,21 GALLATIN 14,Constitutional Amendment 1,,,No,64
+Clay,21 GALLATIN 15,Constitutional Amendment 1,,,No,73
+Clay,21 CHOUTEAU 16,Constitutional Amendment 1,,,No,116
+Clay,21 CHOUTEAU 17,Constitutional Amendment 1,,,No,149
+Clay,21 CHOUTEAU 18,Constitutional Amendment 1,,,No,128
+Clay,21 CHOUTEAU 19,Constitutional Amendment 1,,,No,77
+Clay,21 GALLATIN 20,Constitutional Amendment 1,,,No,136
+Clay,21 CHOUTEAU 21,Constitutional Amendment 1,,,No,114
+Clay,21 CHOUTEAU 22,Constitutional Amendment 1,,,No,13
+Clay,21 GALLATIN 23,Constitutional Amendment 1,,,No,55
+Clay,21 GALLATIN 24,Constitutional Amendment 1,,,No,56
+Clay,21 GALLATIN 25,Constitutional Amendment 1,,,No,68
+Clay,21 CHOUTEAU 26,Constitutional Amendment 1,,,No,142
+Clay,21 CHOUTEAU 27,Constitutional Amendment 1,,,No,137
+Clay,21 CHOUTEAU 28,Constitutional Amendment 1,,,No,130
+Clay,21 GALLATIN 29,Constitutional Amendment 1,,,No,112
+Clay,21 CHOUTEAU 30,Constitutional Amendment 1,,,No,154
+Clay,21 PLATTE 01,Constitutional Amendment 1,,,No,146
+Clay,21 PLATTE 02,Constitutional Amendment 1,,,No,94
+Clay,21 LIBERTY 01,Constitutional Amendment 1,,,No,143
+Clay,21 LIBERTY 02,Constitutional Amendment 1,,,No,121
+Clay,21 LIBERTY 03,Constitutional Amendment 1,,,No,179
+Clay,21 LIBERTY 04,Constitutional Amendment 1,,,No,155
+Clay,21 LIBERTY 05,Constitutional Amendment 1,,,No,85
+Clay,21 LIBERTY 06,Constitutional Amendment 1,,,No,89
+Clay,21 LIBERTY 07,Constitutional Amendment 1,,,No,104
+Clay,21 LIBERTY 08,Constitutional Amendment 1,,,No,82
+Clay,21 LIBERTY 09,Constitutional Amendment 1,,,No,137
+Clay,GALLATIN 01,Constitutional Amendment 1,,,No,52
+Clay,GALLATIN 02,Constitutional Amendment 1,,,No,44
+Clay,GALLATIN 03,Constitutional Amendment 1,,,No,87
+Clay,GALLATIN 04,Constitutional Amendment 1,,,No,87
+Clay,GALLATIN 05,Constitutional Amendment 1,,,No,66
+Clay,GALLATIN 06,Constitutional Amendment 1,,,No,86
+Clay,GALLATIN 07,Constitutional Amendment 1,,,No,48
+Clay,CHOUTEAU 08,Constitutional Amendment 1,,,No,49
+Clay,GALLATIN 09,Constitutional Amendment 1,,,No,69
+Clay,GALLATIN 10,Constitutional Amendment 1,,,No,76
+Clay,GALLATIN 11,Constitutional Amendment 1,,,No,104
+Clay,GALLATIN 12,Constitutional Amendment 1,,,No,67
+Clay,GALLATIN 13,Constitutional Amendment 1,,,No,56
+Clay,FISHING RIVER 01,Constitutional Amendment 1,,,No,85
+Clay,FISHING RIVER 02,Constitutional Amendment 1,,,No,130
+Clay,FISHING RIVER 03,Constitutional Amendment 1,,,No,44
+Clay,FISHING RIVER 04,Constitutional Amendment 1,,,No,58
+Clay,KEARNEY 01,Constitutional Amendment 1,,,No,95
+Clay,KEARNEY 02,Constitutional Amendment 1,,,No,112
+Clay,KEARNEY 03,Constitutional Amendment 1,,,No,163
+Clay,KEARNEY 04,Constitutional Amendment 1,,,No,145
+Clay,KEARNEY 05,Constitutional Amendment 1,,,No,163
+Clay,LIBERTY 01,Constitutional Amendment 1,,,No,94
+Clay,LIBERTY 02,Constitutional Amendment 1,,,No,120
+Clay,LIBERTY 03,Constitutional Amendment 1,,,No,73
+Clay,LIBERTY 04,Constitutional Amendment 1,,,No,79
+Clay,LIBERTY 05,Constitutional Amendment 1,,,No,98
+Clay,LIBERTY 06,Constitutional Amendment 1,,,No,134
+Clay,LIBERTY 07,Constitutional Amendment 1,,,No,78
+Clay,LIBERTY 08,Constitutional Amendment 1,,,No,68
+Clay,LIBERTY 09,Constitutional Amendment 1,,,No,121
+Clay,LIBERTY 10,Constitutional Amendment 1,,,No,84
+Clay,LIBERTY 11,Constitutional Amendment 1,,,No,91
+Clay,LIBERTY 13,Constitutional Amendment 1,,,No,182
+Clay,LIBERTY 14,Constitutional Amendment 1,,,No,105
+Clay,PLATTE 01,Constitutional Amendment 1,,,No,276
+Clay,PLATTE 02,Constitutional Amendment 1,,,No,190
+Clay,PLATTE 03,Constitutional Amendment 1,,,No,132
+Clay,WASHINGTON 01,Constitutional Amendment 1,,,No,60
+Clay,WASHINGTON 02,Constitutional Amendment 1,,,No,90
+Clay,WASHINGTON 03,Constitutional Amendment 1,,,No,63
+Clay,21 GALLATIN 01,Constitutional Amendment 2,,,Yes,236
+Clay,21 GALLATIN 02,Constitutional Amendment 2,,,Yes,919
+Clay,21 GALLATIN 03,Constitutional Amendment 2,,,Yes,494
+Clay,21 GALLATIN 04,Constitutional Amendment 2,,,Yes,441
+Clay,21 GALLATIN 05,Constitutional Amendment 2,,,Yes,397
+Clay,21 GALLATIN 06,Constitutional Amendment 2,,,Yes,335
+Clay,21 GALLATIN 07,Constitutional Amendment 2,,,Yes,334
+Clay,21 GALLATIN 08,Constitutional Amendment 2,,,Yes,393
+Clay,21 GALLATIN 09,Constitutional Amendment 2,,,Yes,286
+Clay,21 GALLATIN 10,Constitutional Amendment 2,,,Yes,878
+Clay,21 CHOUTEAU 11,Constitutional Amendment 2,,,Yes,479
+Clay,21 CHOUTEAU 12,Constitutional Amendment 2,,,Yes,733
+Clay,21 CHOUTEAU 13,Constitutional Amendment 2,,,Yes,809
+Clay,21 GALLATIN 14,Constitutional Amendment 2,,,Yes,336
+Clay,21 GALLATIN 15,Constitutional Amendment 2,,,Yes,309
+Clay,21 CHOUTEAU 16,Constitutional Amendment 2,,,Yes,700
+Clay,21 CHOUTEAU 17,Constitutional Amendment 2,,,Yes,728
+Clay,21 CHOUTEAU 18,Constitutional Amendment 2,,,Yes,528
+Clay,21 CHOUTEAU 19,Constitutional Amendment 2,,,Yes,312
+Clay,21 GALLATIN 20,Constitutional Amendment 2,,,Yes,758
+Clay,21 CHOUTEAU 21,Constitutional Amendment 2,,,Yes,471
+Clay,21 CHOUTEAU 22,Constitutional Amendment 2,,,Yes,59
+Clay,21 GALLATIN 23,Constitutional Amendment 2,,,Yes,235
+Clay,21 GALLATIN 24,Constitutional Amendment 2,,,Yes,291
+Clay,21 GALLATIN 25,Constitutional Amendment 2,,,Yes,348
+Clay,21 CHOUTEAU 26,Constitutional Amendment 2,,,Yes,963
+Clay,21 CHOUTEAU 27,Constitutional Amendment 2,,,Yes,759
+Clay,21 CHOUTEAU 28,Constitutional Amendment 2,,,Yes,685
+Clay,21 GALLATIN 29,Constitutional Amendment 2,,,Yes,594
+Clay,21 CHOUTEAU 30,Constitutional Amendment 2,,,Yes,807
+Clay,21 PLATTE 01,Constitutional Amendment 2,,,Yes,682
+Clay,21 PLATTE 02,Constitutional Amendment 2,,,Yes,398
+Clay,21 LIBERTY 01,Constitutional Amendment 2,,,Yes,648
+Clay,21 LIBERTY 02,Constitutional Amendment 2,,,Yes,717
+Clay,21 LIBERTY 03,Constitutional Amendment 2,,,Yes,858
+Clay,21 LIBERTY 04,Constitutional Amendment 2,,,Yes,613
+Clay,21 LIBERTY 05,Constitutional Amendment 2,,,Yes,488
+Clay,21 LIBERTY 06,Constitutional Amendment 2,,,Yes,468
+Clay,21 LIBERTY 07,Constitutional Amendment 2,,,Yes,458
+Clay,21 LIBERTY 08,Constitutional Amendment 2,,,Yes,428
+Clay,21 LIBERTY 09,Constitutional Amendment 2,,,Yes,643
+Clay,GALLATIN 01,Constitutional Amendment 2,,,Yes,493
+Clay,GALLATIN 02,Constitutional Amendment 2,,,Yes,384
+Clay,GALLATIN 03,Constitutional Amendment 2,,,Yes,632
+Clay,GALLATIN 04,Constitutional Amendment 2,,,Yes,602
+Clay,GALLATIN 05,Constitutional Amendment 2,,,Yes,581
+Clay,GALLATIN 06,Constitutional Amendment 2,,,Yes,585
+Clay,GALLATIN 07,Constitutional Amendment 2,,,Yes,325
+Clay,CHOUTEAU 08,Constitutional Amendment 2,,,Yes,220
+Clay,GALLATIN 09,Constitutional Amendment 2,,,Yes,477
+Clay,GALLATIN 10,Constitutional Amendment 2,,,Yes,412
+Clay,GALLATIN 11,Constitutional Amendment 2,,,Yes,748
+Clay,GALLATIN 12,Constitutional Amendment 2,,,Yes,403
+Clay,GALLATIN 13,Constitutional Amendment 2,,,Yes,346
+Clay,FISHING RIVER 01,Constitutional Amendment 2,,,Yes,551
+Clay,FISHING RIVER 02,Constitutional Amendment 2,,,Yes,670
+Clay,FISHING RIVER 03,Constitutional Amendment 2,,,Yes,218
+Clay,FISHING RIVER 04,Constitutional Amendment 2,,,Yes,399
+Clay,KEARNEY 01,Constitutional Amendment 2,,,Yes,550
+Clay,KEARNEY 02,Constitutional Amendment 2,,,Yes,619
+Clay,KEARNEY 03,Constitutional Amendment 2,,,Yes,953
+Clay,KEARNEY 04,Constitutional Amendment 2,,,Yes,746
+Clay,KEARNEY 05,Constitutional Amendment 2,,,Yes,979
+Clay,LIBERTY 01,Constitutional Amendment 2,,,Yes,575
+Clay,LIBERTY 02,Constitutional Amendment 2,,,Yes,680
+Clay,LIBERTY 03,Constitutional Amendment 2,,,Yes,493
+Clay,LIBERTY 04,Constitutional Amendment 2,,,Yes,420
+Clay,LIBERTY 05,Constitutional Amendment 2,,,Yes,480
+Clay,LIBERTY 06,Constitutional Amendment 2,,,Yes,845
+Clay,LIBERTY 07,Constitutional Amendment 2,,,Yes,614
+Clay,LIBERTY 08,Constitutional Amendment 2,,,Yes,429
+Clay,LIBERTY 09,Constitutional Amendment 2,,,Yes,629
+Clay,LIBERTY 10,Constitutional Amendment 2,,,Yes,667
+Clay,LIBERTY 11,Constitutional Amendment 2,,,Yes,587
+Clay,LIBERTY 13,Constitutional Amendment 2,,,Yes,994
+Clay,LIBERTY 14,Constitutional Amendment 2,,,Yes,536
+Clay,PLATTE 01,Constitutional Amendment 2,,,Yes,1218
+Clay,PLATTE 02,Constitutional Amendment 2,,,Yes,990
+Clay,PLATTE 03,Constitutional Amendment 2,,,Yes,622
+Clay,WASHINGTON 01,Constitutional Amendment 2,,,Yes,347
+Clay,WASHINGTON 02,Constitutional Amendment 2,,,Yes,422
+Clay,WASHINGTON 03,Constitutional Amendment 2,,,Yes,362
+Clay,21 GALLATIN 01,Constitutional Amendment 2,,,No,116
+Clay,21 GALLATIN 02,Constitutional Amendment 2,,,No,365
+Clay,21 GALLATIN 03,Constitutional Amendment 2,,,No,203
+Clay,21 GALLATIN 04,Constitutional Amendment 2,,,No,188
+Clay,21 GALLATIN 05,Constitutional Amendment 2,,,No,114
+Clay,21 GALLATIN 06,Constitutional Amendment 2,,,No,124
+Clay,21 GALLATIN 07,Constitutional Amendment 2,,,No,128
+Clay,21 GALLATIN 08,Constitutional Amendment 2,,,No,144
+Clay,21 GALLATIN 09,Constitutional Amendment 2,,,No,116
+Clay,21 GALLATIN 10,Constitutional Amendment 2,,,No,239
+Clay,21 CHOUTEAU 11,Constitutional Amendment 2,,,No,147
+Clay,21 CHOUTEAU 12,Constitutional Amendment 2,,,No,193
+Clay,21 CHOUTEAU 13,Constitutional Amendment 2,,,No,225
+Clay,21 GALLATIN 14,Constitutional Amendment 2,,,No,98
+Clay,21 GALLATIN 15,Constitutional Amendment 2,,,No,127
+Clay,21 CHOUTEAU 16,Constitutional Amendment 2,,,No,240
+Clay,21 CHOUTEAU 17,Constitutional Amendment 2,,,No,207
+Clay,21 CHOUTEAU 18,Constitutional Amendment 2,,,No,136
+Clay,21 CHOUTEAU 19,Constitutional Amendment 2,,,No,120
+Clay,21 GALLATIN 20,Constitutional Amendment 2,,,No,253
+Clay,21 CHOUTEAU 21,Constitutional Amendment 2,,,No,151
+Clay,21 CHOUTEAU 22,Constitutional Amendment 2,,,No,15
+Clay,21 GALLATIN 23,Constitutional Amendment 2,,,No,95
+Clay,21 GALLATIN 24,Constitutional Amendment 2,,,No,121
+Clay,21 GALLATIN 25,Constitutional Amendment 2,,,No,105
+Clay,21 CHOUTEAU 26,Constitutional Amendment 2,,,No,254
+Clay,21 CHOUTEAU 27,Constitutional Amendment 2,,,No,230
+Clay,21 CHOUTEAU 28,Constitutional Amendment 2,,,No,202
+Clay,21 GALLATIN 29,Constitutional Amendment 2,,,No,198
+Clay,21 CHOUTEAU 30,Constitutional Amendment 2,,,No,192
+Clay,21 PLATTE 01,Constitutional Amendment 2,,,No,193
+Clay,21 PLATTE 02,Constitutional Amendment 2,,,No,134
+Clay,21 LIBERTY 01,Constitutional Amendment 2,,,No,207
+Clay,21 LIBERTY 02,Constitutional Amendment 2,,,No,231
+Clay,21 LIBERTY 03,Constitutional Amendment 2,,,No,214
+Clay,21 LIBERTY 04,Constitutional Amendment 2,,,No,168
+Clay,21 LIBERTY 05,Constitutional Amendment 2,,,No,171
+Clay,21 LIBERTY 06,Constitutional Amendment 2,,,No,140
+Clay,21 LIBERTY 07,Constitutional Amendment 2,,,No,185
+Clay,21 LIBERTY 08,Constitutional Amendment 2,,,No,127
+Clay,21 LIBERTY 09,Constitutional Amendment 2,,,No,188
+Clay,GALLATIN 01,Constitutional Amendment 2,,,No,184
+Clay,GALLATIN 02,Constitutional Amendment 2,,,No,160
+Clay,GALLATIN 03,Constitutional Amendment 2,,,No,159
+Clay,GALLATIN 04,Constitutional Amendment 2,,,No,178
+Clay,GALLATIN 05,Constitutional Amendment 2,,,No,161
+Clay,GALLATIN 06,Constitutional Amendment 2,,,No,150
+Clay,GALLATIN 07,Constitutional Amendment 2,,,No,96
+Clay,CHOUTEAU 08,Constitutional Amendment 2,,,No,62
+Clay,GALLATIN 09,Constitutional Amendment 2,,,No,136
+Clay,GALLATIN 10,Constitutional Amendment 2,,,No,123
+Clay,GALLATIN 11,Constitutional Amendment 2,,,No,192
+Clay,GALLATIN 12,Constitutional Amendment 2,,,No,110
+Clay,GALLATIN 13,Constitutional Amendment 2,,,No,121
+Clay,FISHING RIVER 01,Constitutional Amendment 2,,,No,117
+Clay,FISHING RIVER 02,Constitutional Amendment 2,,,No,151
+Clay,FISHING RIVER 03,Constitutional Amendment 2,,,No,68
+Clay,FISHING RIVER 04,Constitutional Amendment 2,,,No,67
+Clay,KEARNEY 01,Constitutional Amendment 2,,,No,86
+Clay,KEARNEY 02,Constitutional Amendment 2,,,No,153
+Clay,KEARNEY 03,Constitutional Amendment 2,,,No,185
+Clay,KEARNEY 04,Constitutional Amendment 2,,,No,150
+Clay,KEARNEY 05,Constitutional Amendment 2,,,No,178
+Clay,LIBERTY 01,Constitutional Amendment 2,,,No,177
+Clay,LIBERTY 02,Constitutional Amendment 2,,,No,177
+Clay,LIBERTY 03,Constitutional Amendment 2,,,No,136
+Clay,LIBERTY 04,Constitutional Amendment 2,,,No,113
+Clay,LIBERTY 05,Constitutional Amendment 2,,,No,106
+Clay,LIBERTY 06,Constitutional Amendment 2,,,No,221
+Clay,LIBERTY 07,Constitutional Amendment 2,,,No,172
+Clay,LIBERTY 08,Constitutional Amendment 2,,,No,78
+Clay,LIBERTY 09,Constitutional Amendment 2,,,No,137
+Clay,LIBERTY 10,Constitutional Amendment 2,,,No,129
+Clay,LIBERTY 11,Constitutional Amendment 2,,,No,160
+Clay,LIBERTY 13,Constitutional Amendment 2,,,No,265
+Clay,LIBERTY 14,Constitutional Amendment 2,,,No,137
+Clay,PLATTE 01,Constitutional Amendment 2,,,No,277
+Clay,PLATTE 02,Constitutional Amendment 2,,,No,189
+Clay,PLATTE 03,Constitutional Amendment 2,,,No,127
+Clay,WASHINGTON 01,Constitutional Amendment 2,,,No,76
+Clay,WASHINGTON 02,Constitutional Amendment 2,,,No,92
+Clay,WASHINGTON 03,Constitutional Amendment 2,,,No,51
+Clay,21 GALLATIN 01,Constitutional Amendment 4,,,Yes,51
+Clay,21 GALLATIN 02,Constitutional Amendment 4,,,Yes,198
+Clay,21 GALLATIN 03,Constitutional Amendment 4,,,Yes,113
+Clay,21 GALLATIN 04,Constitutional Amendment 4,,,Yes,102
+Clay,21 GALLATIN 05,Constitutional Amendment 4,,,Yes,107
+Clay,21 GALLATIN 06,Constitutional Amendment 4,,,Yes,66
+Clay,21 GALLATIN 07,Constitutional Amendment 4,,,Yes,68
+Clay,21 GALLATIN 08,Constitutional Amendment 4,,,Yes,77
+Clay,21 GALLATIN 09,Constitutional Amendment 4,,,Yes,64
+Clay,21 GALLATIN 10,Constitutional Amendment 4,,,Yes,168
+Clay,21 CHOUTEAU 11,Constitutional Amendment 4,,,Yes,129
+Clay,21 CHOUTEAU 12,Constitutional Amendment 4,,,Yes,156
+Clay,21 CHOUTEAU 13,Constitutional Amendment 4,,,Yes,235
+Clay,21 GALLATIN 14,Constitutional Amendment 4,,,Yes,62
+Clay,21 GALLATIN 15,Constitutional Amendment 4,,,Yes,60
+Clay,21 CHOUTEAU 16,Constitutional Amendment 4,,,Yes,168
+Clay,21 CHOUTEAU 17,Constitutional Amendment 4,,,Yes,170
+Clay,21 CHOUTEAU 18,Constitutional Amendment 4,,,Yes,127
+Clay,21 CHOUTEAU 19,Constitutional Amendment 4,,,Yes,54
+Clay,21 GALLATIN 20,Constitutional Amendment 4,,,Yes,153
+Clay,21 CHOUTEAU 21,Constitutional Amendment 4,,,Yes,69
+Clay,21 CHOUTEAU 22,Constitutional Amendment 4,,,Yes,12
+Clay,21 GALLATIN 23,Constitutional Amendment 4,,,Yes,48
+Clay,21 GALLATIN 24,Constitutional Amendment 4,,,Yes,55
+Clay,21 GALLATIN 25,Constitutional Amendment 4,,,Yes,75
+Clay,21 CHOUTEAU 26,Constitutional Amendment 4,,,Yes,224
+Clay,21 CHOUTEAU 27,Constitutional Amendment 4,,,Yes,159
+Clay,21 CHOUTEAU 28,Constitutional Amendment 4,,,Yes,175
+Clay,21 GALLATIN 29,Constitutional Amendment 4,,,Yes,117
+Clay,21 CHOUTEAU 30,Constitutional Amendment 4,,,Yes,198
+Clay,21 PLATTE 01,Constitutional Amendment 4,,,Yes,164
+Clay,21 PLATTE 02,Constitutional Amendment 4,,,Yes,92
+Clay,21 LIBERTY 01,Constitutional Amendment 4,,,Yes,190
+Clay,21 LIBERTY 02,Constitutional Amendment 4,,,Yes,173
+Clay,21 LIBERTY 03,Constitutional Amendment 4,,,Yes,265
+Clay,21 LIBERTY 04,Constitutional Amendment 4,,,Yes,170
+Clay,21 LIBERTY 05,Constitutional Amendment 4,,,Yes,128
+Clay,21 LIBERTY 06,Constitutional Amendment 4,,,Yes,121
+Clay,21 LIBERTY 07,Constitutional Amendment 4,,,Yes,114
+Clay,21 LIBERTY 08,Constitutional Amendment 4,,,Yes,99
+Clay,21 LIBERTY 09,Constitutional Amendment 4,,,Yes,242
+Clay,GALLATIN 01,Constitutional Amendment 4,,,Yes,80
+Clay,GALLATIN 02,Constitutional Amendment 4,,,Yes,52
+Clay,GALLATIN 03,Constitutional Amendment 4,,,Yes,123
+Clay,GALLATIN 04,Constitutional Amendment 4,,,Yes,115
+Clay,GALLATIN 05,Constitutional Amendment 4,,,Yes,137
+Clay,GALLATIN 06,Constitutional Amendment 4,,,Yes,100
+Clay,GALLATIN 07,Constitutional Amendment 4,,,Yes,53
+Clay,CHOUTEAU 08,Constitutional Amendment 4,,,Yes,37
+Clay,GALLATIN 09,Constitutional Amendment 4,,,Yes,74
+Clay,GALLATIN 10,Constitutional Amendment 4,,,Yes,72
+Clay,GALLATIN 11,Constitutional Amendment 4,,,Yes,160
+Clay,GALLATIN 12,Constitutional Amendment 4,,,Yes,74
+Clay,GALLATIN 13,Constitutional Amendment 4,,,Yes,59
+Clay,FISHING RIVER 01,Constitutional Amendment 4,,,Yes,131
+Clay,FISHING RIVER 02,Constitutional Amendment 4,,,Yes,152
+Clay,FISHING RIVER 03,Constitutional Amendment 4,,,Yes,56
+Clay,FISHING RIVER 04,Constitutional Amendment 4,,,Yes,125
+Clay,KEARNEY 01,Constitutional Amendment 4,,,Yes,132
+Clay,KEARNEY 02,Constitutional Amendment 4,,,Yes,168
+Clay,KEARNEY 03,Constitutional Amendment 4,,,Yes,274
+Clay,KEARNEY 04,Constitutional Amendment 4,,,Yes,173
+Clay,KEARNEY 05,Constitutional Amendment 4,,,Yes,268
+Clay,LIBERTY 01,Constitutional Amendment 4,,,Yes,111
+Clay,LIBERTY 02,Constitutional Amendment 4,,,Yes,155
+Clay,LIBERTY 03,Constitutional Amendment 4,,,Yes,88
+Clay,LIBERTY 04,Constitutional Amendment 4,,,Yes,77
+Clay,LIBERTY 05,Constitutional Amendment 4,,,Yes,97
+Clay,LIBERTY 06,Constitutional Amendment 4,,,Yes,192
+Clay,LIBERTY 07,Constitutional Amendment 4,,,Yes,113
+Clay,LIBERTY 08,Constitutional Amendment 4,,,Yes,161
+Clay,LIBERTY 09,Constitutional Amendment 4,,,Yes,188
+Clay,LIBERTY 10,Constitutional Amendment 4,,,Yes,148
+Clay,LIBERTY 11,Constitutional Amendment 4,,,Yes,125
+Clay,LIBERTY 13,Constitutional Amendment 4,,,Yes,219
+Clay,LIBERTY 14,Constitutional Amendment 4,,,Yes,133
+Clay,PLATTE 01,Constitutional Amendment 4,,,Yes,291
+Clay,PLATTE 02,Constitutional Amendment 4,,,Yes,269
+Clay,PLATTE 03,Constitutional Amendment 4,,,Yes,144
+Clay,WASHINGTON 01,Constitutional Amendment 4,,,Yes,79
+Clay,WASHINGTON 02,Constitutional Amendment 4,,,Yes,125
+Clay,WASHINGTON 03,Constitutional Amendment 4,,,Yes,97
+Clay,21 GALLATIN 01,Constitutional Amendment 4,,,No,307
+Clay,21 GALLATIN 02,Constitutional Amendment 4,,,No,1103
+Clay,21 GALLATIN 03,Constitutional Amendment 4,,,No,603
+Clay,21 GALLATIN 04,Constitutional Amendment 4,,,No,528
+Clay,21 GALLATIN 05,Constitutional Amendment 4,,,No,414
+Clay,21 GALLATIN 06,Constitutional Amendment 4,,,No,398
+Clay,21 GALLATIN 07,Constitutional Amendment 4,,,No,396
+Clay,21 GALLATIN 08,Constitutional Amendment 4,,,No,471
+Clay,21 GALLATIN 09,Constitutional Amendment 4,,,No,346
+Clay,21 GALLATIN 10,Constitutional Amendment 4,,,No,959
+Clay,21 CHOUTEAU 11,Constitutional Amendment 4,,,No,502
+Clay,21 CHOUTEAU 12,Constitutional Amendment 4,,,No,777
+Clay,21 CHOUTEAU 13,Constitutional Amendment 4,,,No,819
+Clay,21 GALLATIN 14,Constitutional Amendment 4,,,No,379
+Clay,21 GALLATIN 15,Constitutional Amendment 4,,,No,382
+Clay,21 CHOUTEAU 16,Constitutional Amendment 4,,,No,779
+Clay,21 CHOUTEAU 17,Constitutional Amendment 4,,,No,780
+Clay,21 CHOUTEAU 18,Constitutional Amendment 4,,,No,547
+Clay,21 CHOUTEAU 19,Constitutional Amendment 4,,,No,381
+Clay,21 GALLATIN 20,Constitutional Amendment 4,,,No,866
+Clay,21 CHOUTEAU 21,Constitutional Amendment 4,,,No,562
+Clay,21 CHOUTEAU 22,Constitutional Amendment 4,,,No,62
+Clay,21 GALLATIN 23,Constitutional Amendment 4,,,No,287
+Clay,21 GALLATIN 24,Constitutional Amendment 4,,,No,364
+Clay,21 GALLATIN 25,Constitutional Amendment 4,,,No,390
+Clay,21 CHOUTEAU 26,Constitutional Amendment 4,,,No,1008
+Clay,21 CHOUTEAU 27,Constitutional Amendment 4,,,No,843
+Clay,21 CHOUTEAU 28,Constitutional Amendment 4,,,No,719
+Clay,21 GALLATIN 29,Constitutional Amendment 4,,,No,690
+Clay,21 CHOUTEAU 30,Constitutional Amendment 4,,,No,817
+Clay,21 PLATTE 01,Constitutional Amendment 4,,,No,725
+Clay,21 PLATTE 02,Constitutional Amendment 4,,,No,446
+Clay,21 LIBERTY 01,Constitutional Amendment 4,,,No,672
+Clay,21 LIBERTY 02,Constitutional Amendment 4,,,No,786
+Clay,21 LIBERTY 03,Constitutional Amendment 4,,,No,832
+Clay,21 LIBERTY 04,Constitutional Amendment 4,,,No,615
+Clay,21 LIBERTY 05,Constitutional Amendment 4,,,No,537
+Clay,21 LIBERTY 06,Constitutional Amendment 4,,,No,499
+Clay,21 LIBERTY 07,Constitutional Amendment 4,,,No,547
+Clay,21 LIBERTY 08,Constitutional Amendment 4,,,No,470
+Clay,21 LIBERTY 09,Constitutional Amendment 4,,,No,610
+Clay,GALLATIN 01,Constitutional Amendment 4,,,No,606
+Clay,GALLATIN 02,Constitutional Amendment 4,,,No,504
+Clay,GALLATIN 03,Constitutional Amendment 4,,,No,684
+Clay,GALLATIN 04,Constitutional Amendment 4,,,No,684
+Clay,GALLATIN 05,Constitutional Amendment 4,,,No,619
+Clay,GALLATIN 06,Constitutional Amendment 4,,,No,654
+Clay,GALLATIN 07,Constitutional Amendment 4,,,No,373
+Clay,CHOUTEAU 08,Constitutional Amendment 4,,,No,250
+Clay,GALLATIN 09,Constitutional Amendment 4,,,No,550
+Clay,GALLATIN 10,Constitutional Amendment 4,,,No,473
+Clay,GALLATIN 11,Constitutional Amendment 4,,,No,794
+Clay,GALLATIN 12,Constitutional Amendment 4,,,No,447
+Clay,GALLATIN 13,Constitutional Amendment 4,,,No,419
+Clay,FISHING RIVER 01,Constitutional Amendment 4,,,No,539
+Clay,FISHING RIVER 02,Constitutional Amendment 4,,,No,687
+Clay,FISHING RIVER 03,Constitutional Amendment 4,,,No,232
+Clay,FISHING RIVER 04,Constitutional Amendment 4,,,No,348
+Clay,KEARNEY 01,Constitutional Amendment 4,,,No,507
+Clay,KEARNEY 02,Constitutional Amendment 4,,,No,622
+Clay,KEARNEY 03,Constitutional Amendment 4,,,No,883
+Clay,KEARNEY 04,Constitutional Amendment 4,,,No,731
+Clay,KEARNEY 05,Constitutional Amendment 4,,,No,904
+Clay,LIBERTY 01,Constitutional Amendment 4,,,No,650
+Clay,LIBERTY 02,Constitutional Amendment 4,,,No,717
+Clay,LIBERTY 03,Constitutional Amendment 4,,,No,551
+Clay,LIBERTY 04,Constitutional Amendment 4,,,No,472
+Clay,LIBERTY 05,Constitutional Amendment 4,,,No,504
+Clay,LIBERTY 06,Constitutional Amendment 4,,,No,896
+Clay,LIBERTY 07,Constitutional Amendment 4,,,No,688
+Clay,LIBERTY 08,Constitutional Amendment 4,,,No,357
+Clay,LIBERTY 09,Constitutional Amendment 4,,,No,595
+Clay,LIBERTY 10,Constitutional Amendment 4,,,No,657
+Clay,LIBERTY 11,Constitutional Amendment 4,,,No,637
+Clay,LIBERTY 13,Constitutional Amendment 4,,,No,1060
+Clay,LIBERTY 14,Constitutional Amendment 4,,,No,546
+Clay,PLATTE 01,Constitutional Amendment 4,,,No,1225
+Clay,PLATTE 02,Constitutional Amendment 4,,,No,937
+Clay,PLATTE 03,Constitutional Amendment 4,,,No,615
+Clay,WASHINGTON 01,Constitutional Amendment 4,,,No,348
+Clay,WASHINGTON 02,Constitutional Amendment 4,,,No,406
+Clay,WASHINGTON 03,Constitutional Amendment 4,,,No,319
+Clay,21 GALLATIN 01,Constitutional Amendment 5,,,Yes,56
+Clay,21 GALLATIN 02,Constitutional Amendment 5,,,Yes,230
+Clay,21 GALLATIN 03,Constitutional Amendment 5,,,Yes,103
+Clay,21 GALLATIN 04,Constitutional Amendment 5,,,Yes,87
+Clay,21 GALLATIN 05,Constitutional Amendment 5,,,Yes,103
+Clay,21 GALLATIN 06,Constitutional Amendment 5,,,Yes,89
+Clay,21 GALLATIN 07,Constitutional Amendment 5,,,Yes,67
+Clay,21 GALLATIN 08,Constitutional Amendment 5,,,Yes,91
+Clay,21 GALLATIN 09,Constitutional Amendment 5,,,Yes,55
+Clay,21 GALLATIN 10,Constitutional Amendment 5,,,Yes,174
+Clay,21 CHOUTEAU 11,Constitutional Amendment 5,,,Yes,127
+Clay,21 CHOUTEAU 12,Constitutional Amendment 5,,,Yes,164
+Clay,21 CHOUTEAU 13,Constitutional Amendment 5,,,Yes,253
+Clay,21 GALLATIN 14,Constitutional Amendment 5,,,Yes,66
+Clay,21 GALLATIN 15,Constitutional Amendment 5,,,Yes,69
+Clay,21 CHOUTEAU 16,Constitutional Amendment 5,,,Yes,167
+Clay,21 CHOUTEAU 17,Constitutional Amendment 5,,,Yes,168
+Clay,21 CHOUTEAU 18,Constitutional Amendment 5,,,Yes,132
+Clay,21 CHOUTEAU 19,Constitutional Amendment 5,,,Yes,70
+Clay,21 GALLATIN 20,Constitutional Amendment 5,,,Yes,149
+Clay,21 CHOUTEAU 21,Constitutional Amendment 5,,,Yes,78
+Clay,21 CHOUTEAU 22,Constitutional Amendment 5,,,Yes,17
+Clay,21 GALLATIN 23,Constitutional Amendment 5,,,Yes,51
+Clay,21 GALLATIN 24,Constitutional Amendment 5,,,Yes,56
+Clay,21 GALLATIN 25,Constitutional Amendment 5,,,Yes,70
+Clay,21 CHOUTEAU 26,Constitutional Amendment 5,,,Yes,228
+Clay,21 CHOUTEAU 27,Constitutional Amendment 5,,,Yes,184
+Clay,21 CHOUTEAU 28,Constitutional Amendment 5,,,Yes,198
+Clay,21 GALLATIN 29,Constitutional Amendment 5,,,Yes,130
+Clay,21 CHOUTEAU 30,Constitutional Amendment 5,,,Yes,202
+Clay,21 PLATTE 01,Constitutional Amendment 5,,,Yes,171
+Clay,21 PLATTE 02,Constitutional Amendment 5,,,Yes,97
+Clay,21 LIBERTY 01,Constitutional Amendment 5,,,Yes,196
+Clay,21 LIBERTY 02,Constitutional Amendment 5,,,Yes,172
+Clay,21 LIBERTY 03,Constitutional Amendment 5,,,Yes,266
+Clay,21 LIBERTY 04,Constitutional Amendment 5,,,Yes,191
+Clay,21 LIBERTY 05,Constitutional Amendment 5,,,Yes,126
+Clay,21 LIBERTY 06,Constitutional Amendment 5,,,Yes,113
+Clay,21 LIBERTY 07,Constitutional Amendment 5,,,Yes,139
+Clay,21 LIBERTY 08,Constitutional Amendment 5,,,Yes,98
+Clay,21 LIBERTY 09,Constitutional Amendment 5,,,Yes,241
+Clay,GALLATIN 01,Constitutional Amendment 5,,,Yes,63
+Clay,GALLATIN 02,Constitutional Amendment 5,,,Yes,60
+Clay,GALLATIN 03,Constitutional Amendment 5,,,Yes,105
+Clay,GALLATIN 04,Constitutional Amendment 5,,,Yes,132
+Clay,GALLATIN 05,Constitutional Amendment 5,,,Yes,124
+Clay,GALLATIN 06,Constitutional Amendment 5,,,Yes,95
+Clay,GALLATIN 07,Constitutional Amendment 5,,,Yes,71
+Clay,CHOUTEAU 08,Constitutional Amendment 5,,,Yes,42
+Clay,GALLATIN 09,Constitutional Amendment 5,,,Yes,90
+Clay,GALLATIN 10,Constitutional Amendment 5,,,Yes,76
+Clay,GALLATIN 11,Constitutional Amendment 5,,,Yes,156
+Clay,GALLATIN 12,Constitutional Amendment 5,,,Yes,87
+Clay,GALLATIN 13,Constitutional Amendment 5,,,Yes,67
+Clay,FISHING RIVER 01,Constitutional Amendment 5,,,Yes,127
+Clay,FISHING RIVER 02,Constitutional Amendment 5,,,Yes,167
+Clay,FISHING RIVER 03,Constitutional Amendment 5,,,Yes,66
+Clay,FISHING RIVER 04,Constitutional Amendment 5,,,Yes,124
+Clay,KEARNEY 01,Constitutional Amendment 5,,,Yes,128
+Clay,KEARNEY 02,Constitutional Amendment 5,,,Yes,164
+Clay,KEARNEY 03,Constitutional Amendment 5,,,Yes,266
+Clay,KEARNEY 04,Constitutional Amendment 5,,,Yes,187
+Clay,KEARNEY 05,Constitutional Amendment 5,,,Yes,254
+Clay,LIBERTY 01,Constitutional Amendment 5,,,Yes,119
+Clay,LIBERTY 02,Constitutional Amendment 5,,,Yes,139
+Clay,LIBERTY 03,Constitutional Amendment 5,,,Yes,105
+Clay,LIBERTY 04,Constitutional Amendment 5,,,Yes,97
+Clay,LIBERTY 05,Constitutional Amendment 5,,,Yes,93
+Clay,LIBERTY 06,Constitutional Amendment 5,,,Yes,157
+Clay,LIBERTY 07,Constitutional Amendment 5,,,Yes,118
+Clay,LIBERTY 08,Constitutional Amendment 5,,,Yes,133
+Clay,LIBERTY 09,Constitutional Amendment 5,,,Yes,175
+Clay,LIBERTY 10,Constitutional Amendment 5,,,Yes,144
+Clay,LIBERTY 11,Constitutional Amendment 5,,,Yes,118
+Clay,LIBERTY 13,Constitutional Amendment 5,,,Yes,223
+Clay,LIBERTY 14,Constitutional Amendment 5,,,Yes,121
+Clay,PLATTE 01,Constitutional Amendment 5,,,Yes,323
+Clay,PLATTE 02,Constitutional Amendment 5,,,Yes,262
+Clay,PLATTE 03,Constitutional Amendment 5,,,Yes,116
+Clay,WASHINGTON 01,Constitutional Amendment 5,,,Yes,72
+Clay,WASHINGTON 02,Constitutional Amendment 5,,,Yes,110
+Clay,WASHINGTON 03,Constitutional Amendment 5,,,Yes,103
+Clay,21 GALLATIN 01,Constitutional Amendment 5,,,No,303
+Clay,21 GALLATIN 02,Constitutional Amendment 5,,,No,1070
+Clay,21 GALLATIN 03,Constitutional Amendment 5,,,No,609
+Clay,21 GALLATIN 04,Constitutional Amendment 5,,,No,545
+Clay,21 GALLATIN 05,Constitutional Amendment 5,,,No,416
+Clay,21 GALLATIN 06,Constitutional Amendment 5,,,No,376
+Clay,21 GALLATIN 07,Constitutional Amendment 5,,,No,399
+Clay,21 GALLATIN 08,Constitutional Amendment 5,,,No,458
+Clay,21 GALLATIN 09,Constitutional Amendment 5,,,No,351
+Clay,21 GALLATIN 10,Constitutional Amendment 5,,,No,954
+Clay,21 CHOUTEAU 11,Constitutional Amendment 5,,,No,508
+Clay,21 CHOUTEAU 12,Constitutional Amendment 5,,,No,762
+Clay,21 CHOUTEAU 13,Constitutional Amendment 5,,,No,802
+Clay,21 GALLATIN 14,Constitutional Amendment 5,,,No,372
+Clay,21 GALLATIN 15,Constitutional Amendment 5,,,No,374
+Clay,21 CHOUTEAU 16,Constitutional Amendment 5,,,No,776
+Clay,21 CHOUTEAU 17,Constitutional Amendment 5,,,No,779
+Clay,21 CHOUTEAU 18,Constitutional Amendment 5,,,No,539
+Clay,21 CHOUTEAU 19,Constitutional Amendment 5,,,No,366
+Clay,21 GALLATIN 20,Constitutional Amendment 5,,,No,873
+Clay,21 CHOUTEAU 21,Constitutional Amendment 5,,,No,549
+Clay,21 CHOUTEAU 22,Constitutional Amendment 5,,,No,56
+Clay,21 GALLATIN 23,Constitutional Amendment 5,,,No,285
+Clay,21 GALLATIN 24,Constitutional Amendment 5,,,No,360
+Clay,21 GALLATIN 25,Constitutional Amendment 5,,,No,399
+Clay,21 CHOUTEAU 26,Constitutional Amendment 5,,,No,1007
+Clay,21 CHOUTEAU 27,Constitutional Amendment 5,,,No,818
+Clay,21 CHOUTEAU 28,Constitutional Amendment 5,,,No,702
+Clay,21 GALLATIN 29,Constitutional Amendment 5,,,No,678
+Clay,21 CHOUTEAU 30,Constitutional Amendment 5,,,No,812
+Clay,21 PLATTE 01,Constitutional Amendment 5,,,No,718
+Clay,21 PLATTE 02,Constitutional Amendment 5,,,No,440
+Clay,21 LIBERTY 01,Constitutional Amendment 5,,,No,666
+Clay,21 LIBERTY 02,Constitutional Amendment 5,,,No,789
+Clay,21 LIBERTY 03,Constitutional Amendment 5,,,No,835
+Clay,21 LIBERTY 04,Constitutional Amendment 5,,,No,594
+Clay,21 LIBERTY 05,Constitutional Amendment 5,,,No,539
+Clay,21 LIBERTY 06,Constitutional Amendment 5,,,No,506
+Clay,21 LIBERTY 07,Constitutional Amendment 5,,,No,521
+Clay,21 LIBERTY 08,Constitutional Amendment 5,,,No,470
+Clay,21 LIBERTY 09,Constitutional Amendment 5,,,No,609
+Clay,GALLATIN 01,Constitutional Amendment 5,,,No,617
+Clay,GALLATIN 02,Constitutional Amendment 5,,,No,494
+Clay,GALLATIN 03,Constitutional Amendment 5,,,No,699
+Clay,GALLATIN 04,Constitutional Amendment 5,,,No,662
+Clay,GALLATIN 05,Constitutional Amendment 5,,,No,629
+Clay,GALLATIN 06,Constitutional Amendment 5,,,No,655
+Clay,GALLATIN 07,Constitutional Amendment 5,,,No,353
+Clay,CHOUTEAU 08,Constitutional Amendment 5,,,No,242
+Clay,GALLATIN 09,Constitutional Amendment 5,,,No,530
+Clay,GALLATIN 10,Constitutional Amendment 5,,,No,460
+Clay,GALLATIN 11,Constitutional Amendment 5,,,No,799
+Clay,GALLATIN 12,Constitutional Amendment 5,,,No,433
+Clay,GALLATIN 13,Constitutional Amendment 5,,,No,409
+Clay,FISHING RIVER 01,Constitutional Amendment 5,,,No,543
+Clay,FISHING RIVER 02,Constitutional Amendment 5,,,No,667
+Clay,FISHING RIVER 03,Constitutional Amendment 5,,,No,222
+Clay,FISHING RIVER 04,Constitutional Amendment 5,,,No,349
+Clay,KEARNEY 01,Constitutional Amendment 5,,,No,511
+Clay,KEARNEY 02,Constitutional Amendment 5,,,No,623
+Clay,KEARNEY 03,Constitutional Amendment 5,,,No,890
+Clay,KEARNEY 04,Constitutional Amendment 5,,,No,718
+Clay,KEARNEY 05,Constitutional Amendment 5,,,No,919
+Clay,LIBERTY 01,Constitutional Amendment 5,,,No,642
+Clay,LIBERTY 02,Constitutional Amendment 5,,,No,736
+Clay,LIBERTY 03,Constitutional Amendment 5,,,No,532
+Clay,LIBERTY 04,Constitutional Amendment 5,,,No,449
+Clay,LIBERTY 05,Constitutional Amendment 5,,,No,509
+Clay,LIBERTY 06,Constitutional Amendment 5,,,No,934
+Clay,LIBERTY 07,Constitutional Amendment 5,,,No,687
+Clay,LIBERTY 08,Constitutional Amendment 5,,,No,383
+Clay,LIBERTY 09,Constitutional Amendment 5,,,No,611
+Clay,LIBERTY 10,Constitutional Amendment 5,,,No,662
+Clay,LIBERTY 11,Constitutional Amendment 5,,,No,643
+Clay,LIBERTY 13,Constitutional Amendment 5,,,No,1061
+Clay,LIBERTY 14,Constitutional Amendment 5,,,No,559
+Clay,PLATTE 01,Constitutional Amendment 5,,,No,1194
+Clay,PLATTE 02,Constitutional Amendment 5,,,No,934
+Clay,PLATTE 03,Constitutional Amendment 5,,,No,642
+Clay,WASHINGTON 01,Constitutional Amendment 5,,,No,355
+Clay,WASHINGTON 02,Constitutional Amendment 5,,,No,423
+Clay,WASHINGTON 03,Constitutional Amendment 5,,,No,314
+Clay,21 GALLATIN 01,Question 1 Kansas City,,,Yes,251
+Clay,21 GALLATIN 02,Question 1 Kansas City,,,Yes,937
+Clay,21 GALLATIN 03,Question 1 Kansas City,,,Yes,507
+Clay,21 GALLATIN 04,Question 1 Kansas City,,,Yes,442
+Clay,21 GALLATIN 05,Question 1 Kansas City,,,Yes,294
+Clay,21 GALLATIN 06,Question 1 Kansas City,,,Yes,219
+Clay,21 GALLATIN 07,Question 1 Kansas City,,,Yes,293
+Clay,21 GALLATIN 08,Question 1 Kansas City,,,Yes,364
+Clay,21 GALLATIN 09,Question 1 Kansas City,,,Yes,276
+Clay,21 GALLATIN 10,Question 1 Kansas City,,,Yes,692
+Clay,21 CHOUTEAU 11,Question 1 Kansas City,,,Yes,372
+Clay,21 CHOUTEAU 12,Question 1 Kansas City,,,Yes,605
+Clay,21 CHOUTEAU 13,Question 1 Kansas City,,,Yes,596
+Clay,21 GALLATIN 14,Question 1 Kansas City,,,Yes,277
+Clay,21 GALLATIN 15,Question 1 Kansas City,,,Yes,334
+Clay,21 CHOUTEAU 16,Question 1 Kansas City,,,Yes,593
+Clay,21 CHOUTEAU 17,Question 1 Kansas City,,,Yes,541
+Clay,21 CHOUTEAU 18,Question 1 Kansas City,,,Yes,405
+Clay,21 CHOUTEAU 19,Question 1 Kansas City,,,Yes,256
+Clay,21 GALLATIN 20,Question 1 Kansas City,,,Yes,688
+Clay,21 CHOUTEAU 21,Question 1 Kansas City,,,Yes,375
+Clay,21 CHOUTEAU 22,Question 1 Kansas City,,,Yes,13
+Clay,21 GALLATIN 23,Question 1 Kansas City,,,Yes,233
+Clay,21 GALLATIN 24,Question 1 Kansas City,,,Yes,284
+Clay,21 GALLATIN 25,Question 1 Kansas City,,,Yes,284
+Clay,21 CHOUTEAU 26,Question 1 Kansas City,,,Yes,761
+Clay,21 CHOUTEAU 27,Question 1 Kansas City,,,Yes,586
+Clay,21 CHOUTEAU 28,Question 1 Kansas City,,,Yes,527
+Clay,21 GALLATIN 29,Question 1 Kansas City,,,Yes,547
+Clay,21 CHOUTEAU 30,Question 1 Kansas City,,,Yes,609
+Clay,21 PLATTE 01,Question 1 Kansas City,,,Yes,495
+Clay,21 PLATTE 02,Question 1 Kansas City,,,Yes,317
+Clay,21 LIBERTY 01,Question 1 Kansas City,,,Yes,467
+Clay,21 LIBERTY 02,Question 1 Kansas City,,,Yes,613
+Clay,21 LIBERTY 03,Question 1 Kansas City,,,Yes,609
+Clay,21 LIBERTY 04,Question 1 Kansas City,,,Yes,429
+Clay,21 LIBERTY 05,Question 1 Kansas City,,,Yes,411
+Clay,21 LIBERTY 06,Question 1 Kansas City,,,Yes,357
+Clay,21 LIBERTY 07,Question 1 Kansas City,,,Yes,389
+Clay,21 LIBERTY 08,Question 1 Kansas City,,,Yes,324
+Clay,21 LIBERTY 09,Question 1 Kansas City,,,Yes,486
+Clay,21 GALLATIN 01,Question 1 Kansas City,,,No,103
+Clay,21 GALLATIN 02,Question 1 Kansas City,,,No,347
+Clay,21 GALLATIN 03,Question 1 Kansas City,,,No,195
+Clay,21 GALLATIN 04,Question 1 Kansas City,,,No,184
+Clay,21 GALLATIN 05,Question 1 Kansas City,,,No,212
+Clay,21 GALLATIN 06,Question 1 Kansas City,,,No,141
+Clay,21 GALLATIN 07,Question 1 Kansas City,,,No,168
+Clay,21 GALLATIN 08,Question 1 Kansas City,,,No,172
+Clay,21 GALLATIN 09,Question 1 Kansas City,,,No,118
+Clay,21 GALLATIN 10,Question 1 Kansas City,,,No,417
+Clay,21 CHOUTEAU 11,Question 1 Kansas City,,,No,251
+Clay,21 CHOUTEAU 12,Question 1 Kansas City,,,No,311
+Clay,21 CHOUTEAU 13,Question 1 Kansas City,,,No,442
+Clay,21 GALLATIN 14,Question 1 Kansas City,,,No,151
+Clay,21 GALLATIN 15,Question 1 Kansas City,,,No,104
+Clay,21 CHOUTEAU 16,Question 1 Kansas City,,,No,340
+Clay,21 CHOUTEAU 17,Question 1 Kansas City,,,No,382
+Clay,21 CHOUTEAU 18,Question 1 Kansas City,,,No,254
+Clay,21 CHOUTEAU 19,Question 1 Kansas City,,,No,176
+Clay,21 GALLATIN 20,Question 1 Kansas City,,,No,316
+Clay,21 CHOUTEAU 21,Question 1 Kansas City,,,No,245
+Clay,21 CHOUTEAU 22,Question 1 Kansas City,,,No,21
+Clay,21 GALLATIN 23,Question 1 Kansas City,,,No,90
+Clay,21 GALLATIN 24,Question 1 Kansas City,,,No,130
+Clay,21 GALLATIN 25,Question 1 Kansas City,,,No,167
+Clay,21 CHOUTEAU 26,Question 1 Kansas City,,,No,456
+Clay,21 CHOUTEAU 27,Question 1 Kansas City,,,No,392
+Clay,21 CHOUTEAU 28,Question 1 Kansas City,,,No,359
+Clay,21 GALLATIN 29,Question 1 Kansas City,,,No,245
+Clay,21 CHOUTEAU 30,Question 1 Kansas City,,,No,386
+Clay,21 PLATTE 01,Question 1 Kansas City,,,No,370
+Clay,21 PLATTE 02,Question 1 Kansas City,,,No,215
+Clay,21 LIBERTY 01,Question 1 Kansas City,,,No,387
+Clay,21 LIBERTY 02,Question 1 Kansas City,,,No,337
+Clay,21 LIBERTY 03,Question 1 Kansas City,,,No,459
+Clay,21 LIBERTY 04,Question 1 Kansas City,,,No,348
+Clay,21 LIBERTY 05,Question 1 Kansas City,,,No,235
+Clay,21 LIBERTY 06,Question 1 Kansas City,,,No,251
+Clay,21 LIBERTY 07,Question 1 Kansas City,,,No,262
+Clay,21 LIBERTY 08,Question 1 Kansas City,,,No,225
+Clay,21 LIBERTY 09,Question 1 Kansas City,,,No,347
+Clay,21 GALLATIN 01,Question 2 Kansas City,,,Yes,222
+Clay,21 GALLATIN 02,Question 2 Kansas City,,,Yes,883
+Clay,21 GALLATIN 03,Question 2 Kansas City,,,Yes,419
+Clay,21 GALLATIN 04,Question 2 Kansas City,,,Yes,372
+Clay,21 GALLATIN 05,Question 2 Kansas City,,,Yes,291
+Clay,21 GALLATIN 06,Question 2 Kansas City,,,Yes,191
+Clay,21 GALLATIN 07,Question 2 Kansas City,,,Yes,258
+Clay,21 GALLATIN 08,Question 2 Kansas City,,,Yes,317
+Clay,21 GALLATIN 09,Question 2 Kansas City,,,Yes,247
+Clay,21 GALLATIN 10,Question 2 Kansas City,,,Yes,642
+Clay,21 CHOUTEAU 11,Question 2 Kansas City,,,Yes,334
+Clay,21 CHOUTEAU 12,Question 2 Kansas City,,,Yes,551
+Clay,21 CHOUTEAU 13,Question 2 Kansas City,,,Yes,597
+Clay,21 GALLATIN 14,Question 2 Kansas City,,,Yes,220
+Clay,21 GALLATIN 15,Question 2 Kansas City,,,Yes,282
+Clay,21 CHOUTEAU 16,Question 2 Kansas City,,,Yes,525
+Clay,21 CHOUTEAU 17,Question 2 Kansas City,,,Yes,507
+Clay,21 CHOUTEAU 18,Question 2 Kansas City,,,Yes,338
+Clay,21 CHOUTEAU 19,Question 2 Kansas City,,,Yes,220
+Clay,21 GALLATIN 20,Question 2 Kansas City,,,Yes,621
+Clay,21 CHOUTEAU 21,Question 2 Kansas City,,,Yes,310
+Clay,21 CHOUTEAU 22,Question 2 Kansas City,,,Yes,14
+Clay,21 GALLATIN 23,Question 2 Kansas City,,,Yes,196
+Clay,21 GALLATIN 24,Question 2 Kansas City,,,Yes,220
+Clay,21 GALLATIN 25,Question 2 Kansas City,,,Yes,246
+Clay,21 CHOUTEAU 26,Question 2 Kansas City,,,Yes,728
+Clay,21 CHOUTEAU 27,Question 2 Kansas City,,,Yes,599
+Clay,21 CHOUTEAU 28,Question 2 Kansas City,,,Yes,498
+Clay,21 GALLATIN 29,Question 2 Kansas City,,,Yes,460
+Clay,21 CHOUTEAU 30,Question 2 Kansas City,,,Yes,567
+Clay,21 PLATTE 01,Question 2 Kansas City,,,Yes,476
+Clay,21 PLATTE 02,Question 2 Kansas City,,,Yes,295
+Clay,21 LIBERTY 01,Question 2 Kansas City,,,Yes,405
+Clay,21 LIBERTY 02,Question 2 Kansas City,,,Yes,579
+Clay,21 LIBERTY 03,Question 2 Kansas City,,,Yes,594
+Clay,21 LIBERTY 04,Question 2 Kansas City,,,Yes,409
+Clay,21 LIBERTY 05,Question 2 Kansas City,,,Yes,402
+Clay,21 LIBERTY 06,Question 2 Kansas City,,,Yes,327
+Clay,21 LIBERTY 07,Question 2 Kansas City,,,Yes,366
+Clay,21 LIBERTY 08,Question 2 Kansas City,,,Yes,303
+Clay,21 LIBERTY 09,Question 2 Kansas City,,,Yes,483
+Clay,21 GALLATIN 01,Question 2 Kansas City,,,No,130
+Clay,21 GALLATIN 02,Question 2 Kansas City,,,No,387
+Clay,21 GALLATIN 03,Question 2 Kansas City,,,No,275
+Clay,21 GALLATIN 04,Question 2 Kansas City,,,No,253
+Clay,21 GALLATIN 05,Question 2 Kansas City,,,No,211
+Clay,21 GALLATIN 06,Question 2 Kansas City,,,No,168
+Clay,21 GALLATIN 07,Question 2 Kansas City,,,No,201
+Clay,21 GALLATIN 08,Question 2 Kansas City,,,No,218
+Clay,21 GALLATIN 09,Question 2 Kansas City,,,No,152
+Clay,21 GALLATIN 10,Question 2 Kansas City,,,No,465
+Clay,21 CHOUTEAU 11,Question 2 Kansas City,,,No,288
+Clay,21 CHOUTEAU 12,Question 2 Kansas City,,,No,366
+Clay,21 CHOUTEAU 13,Question 2 Kansas City,,,No,433
+Clay,21 GALLATIN 14,Question 2 Kansas City,,,No,207
+Clay,21 GALLATIN 15,Question 2 Kansas City,,,No,154
+Clay,21 CHOUTEAU 16,Question 2 Kansas City,,,No,400
+Clay,21 CHOUTEAU 17,Question 2 Kansas City,,,No,414
+Clay,21 CHOUTEAU 18,Question 2 Kansas City,,,No,319
+Clay,21 CHOUTEAU 19,Question 2 Kansas City,,,No,209
+Clay,21 GALLATIN 20,Question 2 Kansas City,,,No,380
+Clay,21 CHOUTEAU 21,Question 2 Kansas City,,,No,300
+Clay,21 CHOUTEAU 22,Question 2 Kansas City,,,No,20
+Clay,21 GALLATIN 23,Question 2 Kansas City,,,No,131
+Clay,21 GALLATIN 24,Question 2 Kansas City,,,No,188
+Clay,21 GALLATIN 25,Question 2 Kansas City,,,No,203
+Clay,21 CHOUTEAU 26,Question 2 Kansas City,,,No,484
+Clay,21 CHOUTEAU 27,Question 2 Kansas City,,,No,373
+Clay,21 CHOUTEAU 28,Question 2 Kansas City,,,No,386
+Clay,21 GALLATIN 29,Question 2 Kansas City,,,No,317
+Clay,21 CHOUTEAU 30,Question 2 Kansas City,,,No,425
+Clay,21 PLATTE 01,Question 2 Kansas City,,,No,387
+Clay,21 PLATTE 02,Question 2 Kansas City,,,No,234
+Clay,21 LIBERTY 01,Question 2 Kansas City,,,No,435
+Clay,21 LIBERTY 02,Question 2 Kansas City,,,No,365
+Clay,21 LIBERTY 03,Question 2 Kansas City,,,No,462
+Clay,21 LIBERTY 04,Question 2 Kansas City,,,No,365
+Clay,21 LIBERTY 05,Question 2 Kansas City,,,No,241
+Clay,21 LIBERTY 06,Question 2 Kansas City,,,No,278
+Clay,21 LIBERTY 07,Question 2 Kansas City,,,No,279
+Clay,21 LIBERTY 08,Question 2 Kansas City,,,No,241
+Clay,21 LIBERTY 09,Question 2 Kansas City,,,No,344
+Clay,21 GALLATIN 01,Question 3 Kansas City,,,Yes,221
+Clay,21 GALLATIN 02,Question 3 Kansas City,,,Yes,837
+Clay,21 GALLATIN 03,Question 3 Kansas City,,,Yes,404
+Clay,21 GALLATIN 04,Question 3 Kansas City,,,Yes,350
+Clay,21 GALLATIN 05,Question 3 Kansas City,,,Yes,265
+Clay,21 GALLATIN 06,Question 3 Kansas City,,,Yes,184
+Clay,21 GALLATIN 07,Question 3 Kansas City,,,Yes,245
+Clay,21 GALLATIN 08,Question 3 Kansas City,,,Yes,315
+Clay,21 GALLATIN 09,Question 3 Kansas City,,,Yes,228
+Clay,21 GALLATIN 10,Question 3 Kansas City,,,Yes,598
+Clay,21 CHOUTEAU 11,Question 3 Kansas City,,,Yes,321
+Clay,21 CHOUTEAU 12,Question 3 Kansas City,,,Yes,537
+Clay,21 CHOUTEAU 13,Question 3 Kansas City,,,Yes,528
+Clay,21 GALLATIN 14,Question 3 Kansas City,,,Yes,216
+Clay,21 GALLATIN 15,Question 3 Kansas City,,,Yes,267
+Clay,21 CHOUTEAU 16,Question 3 Kansas City,,,Yes,491
+Clay,21 CHOUTEAU 17,Question 3 Kansas City,,,Yes,471
+Clay,21 CHOUTEAU 18,Question 3 Kansas City,,,Yes,338
+Clay,21 CHOUTEAU 19,Question 3 Kansas City,,,Yes,229
+Clay,21 GALLATIN 20,Question 3 Kansas City,,,Yes,577
+Clay,21 CHOUTEAU 21,Question 3 Kansas City,,,Yes,293
+Clay,21 CHOUTEAU 22,Question 3 Kansas City,,,Yes,7
+Clay,21 GALLATIN 23,Question 3 Kansas City,,,Yes,189
+Clay,21 GALLATIN 24,Question 3 Kansas City,,,Yes,234
+Clay,21 GALLATIN 25,Question 3 Kansas City,,,Yes,238
+Clay,21 CHOUTEAU 26,Question 3 Kansas City,,,Yes,700
+Clay,21 CHOUTEAU 27,Question 3 Kansas City,,,Yes,548
+Clay,21 CHOUTEAU 28,Question 3 Kansas City,,,Yes,462
+Clay,21 GALLATIN 29,Question 3 Kansas City,,,Yes,461
+Clay,21 CHOUTEAU 30,Question 3 Kansas City,,,Yes,535
+Clay,21 PLATTE 01,Question 3 Kansas City,,,Yes,431
+Clay,21 PLATTE 02,Question 3 Kansas City,,,Yes,262
+Clay,21 LIBERTY 01,Question 3 Kansas City,,,Yes,392
+Clay,21 LIBERTY 02,Question 3 Kansas City,,,Yes,550
+Clay,21 LIBERTY 03,Question 3 Kansas City,,,Yes,515
+Clay,21 LIBERTY 04,Question 3 Kansas City,,,Yes,379
+Clay,21 LIBERTY 05,Question 3 Kansas City,,,Yes,381
+Clay,21 LIBERTY 06,Question 3 Kansas City,,,Yes,312
+Clay,21 LIBERTY 07,Question 3 Kansas City,,,Yes,330
+Clay,21 LIBERTY 08,Question 3 Kansas City,,,Yes,284
+Clay,21 LIBERTY 09,Question 3 Kansas City,,,Yes,441
+Clay,21 GALLATIN 01,Question 3 Kansas City,,,No,133
+Clay,21 GALLATIN 02,Question 3 Kansas City,,,No,430
+Clay,21 GALLATIN 03,Question 3 Kansas City,,,No,286
+Clay,21 GALLATIN 04,Question 3 Kansas City,,,No,272
+Clay,21 GALLATIN 05,Question 3 Kansas City,,,No,235
+Clay,21 GALLATIN 06,Question 3 Kansas City,,,No,175
+Clay,21 GALLATIN 07,Question 3 Kansas City,,,No,213
+Clay,21 GALLATIN 08,Question 3 Kansas City,,,No,218
+Clay,21 GALLATIN 09,Question 3 Kansas City,,,No,170
+Clay,21 GALLATIN 10,Question 3 Kansas City,,,No,508
+Clay,21 CHOUTEAU 11,Question 3 Kansas City,,,No,297
+Clay,21 CHOUTEAU 12,Question 3 Kansas City,,,No,377
+Clay,21 CHOUTEAU 13,Question 3 Kansas City,,,No,501
+Clay,21 GALLATIN 14,Question 3 Kansas City,,,No,210
+Clay,21 GALLATIN 15,Question 3 Kansas City,,,No,168
+Clay,21 CHOUTEAU 16,Question 3 Kansas City,,,No,435
+Clay,21 CHOUTEAU 17,Question 3 Kansas City,,,No,444
+Clay,21 CHOUTEAU 18,Question 3 Kansas City,,,No,321
+Clay,21 CHOUTEAU 19,Question 3 Kansas City,,,No,202
+Clay,21 GALLATIN 20,Question 3 Kansas City,,,No,423
+Clay,21 CHOUTEAU 21,Question 3 Kansas City,,,No,322
+Clay,21 CHOUTEAU 22,Question 3 Kansas City,,,No,27
+Clay,21 GALLATIN 23,Question 3 Kansas City,,,No,136
+Clay,21 GALLATIN 24,Question 3 Kansas City,,,No,173
+Clay,21 GALLATIN 25,Question 3 Kansas City,,,No,208
+Clay,21 CHOUTEAU 26,Question 3 Kansas City,,,No,508
+Clay,21 CHOUTEAU 27,Question 3 Kansas City,,,No,425
+Clay,21 CHOUTEAU 28,Question 3 Kansas City,,,No,416
+Clay,21 GALLATIN 29,Question 3 Kansas City,,,No,324
+Clay,21 CHOUTEAU 30,Question 3 Kansas City,,,No,457
+Clay,21 PLATTE 01,Question 3 Kansas City,,,No,430
+Clay,21 PLATTE 02,Question 3 Kansas City,,,No,267
+Clay,21 LIBERTY 01,Question 3 Kansas City,,,No,449
+Clay,21 LIBERTY 02,Question 3 Kansas City,,,No,395
+Clay,21 LIBERTY 03,Question 3 Kansas City,,,No,541
+Clay,21 LIBERTY 04,Question 3 Kansas City,,,No,395
+Clay,21 LIBERTY 05,Question 3 Kansas City,,,No,266
+Clay,21 LIBERTY 06,Question 3 Kansas City,,,No,294
+Clay,21 LIBERTY 07,Question 3 Kansas City,,,No,316
+Clay,21 LIBERTY 08,Question 3 Kansas City,,,No,261
+Clay,21 LIBERTY 09,Question 3 Kansas City,,,No,385
+Clay,21 GALLATIN 01,Question 4 Kansas City,,,Yes,276
+Clay,21 GALLATIN 02,Question 4 Kansas City,,,Yes,1068
+Clay,21 GALLATIN 03,Question 4 Kansas City,,,Yes,544
+Clay,21 GALLATIN 04,Question 4 Kansas City,,,Yes,470
+Clay,21 GALLATIN 05,Question 4 Kansas City,,,Yes,371
+Clay,21 GALLATIN 06,Question 4 Kansas City,,,Yes,244
+Clay,21 GALLATIN 07,Question 4 Kansas City,,,Yes,319
+Clay,21 GALLATIN 08,Question 4 Kansas City,,,Yes,399
+Clay,21 GALLATIN 09,Question 4 Kansas City,,,Yes,305
+Clay,21 GALLATIN 10,Question 4 Kansas City,,,Yes,848
+Clay,21 CHOUTEAU 11,Question 4 Kansas City,,,Yes,431
+Clay,21 CHOUTEAU 12,Question 4 Kansas City,,,Yes,727
+Clay,21 CHOUTEAU 13,Question 4 Kansas City,,,Yes,773
+Clay,21 GALLATIN 14,Question 4 Kansas City,,,Yes,307
+Clay,21 GALLATIN 15,Question 4 Kansas City,,,Yes,335
+Clay,21 CHOUTEAU 16,Question 4 Kansas City,,,Yes,679
+Clay,21 CHOUTEAU 17,Question 4 Kansas City,,,Yes,670
+Clay,21 CHOUTEAU 18,Question 4 Kansas City,,,Yes,460
+Clay,21 CHOUTEAU 19,Question 4 Kansas City,,,Yes,293
+Clay,21 GALLATIN 20,Question 4 Kansas City,,,Yes,762
+Clay,21 CHOUTEAU 21,Question 4 Kansas City,,,Yes,418
+Clay,21 CHOUTEAU 22,Question 4 Kansas City,,,Yes,20
+Clay,21 GALLATIN 23,Question 4 Kansas City,,,Yes,245
+Clay,21 GALLATIN 24,Question 4 Kansas City,,,Yes,295
+Clay,21 GALLATIN 25,Question 4 Kansas City,,,Yes,326
+Clay,21 CHOUTEAU 26,Question 4 Kansas City,,,Yes,935
+Clay,21 CHOUTEAU 27,Question 4 Kansas City,,,Yes,763
+Clay,21 CHOUTEAU 28,Question 4 Kansas City,,,Yes,683
+Clay,21 GALLATIN 29,Question 4 Kansas City,,,Yes,609
+Clay,21 CHOUTEAU 30,Question 4 Kansas City,,,Yes,751
+Clay,21 PLATTE 01,Question 4 Kansas City,,,Yes,638
+Clay,21 PLATTE 02,Question 4 Kansas City,,,Yes,397
+Clay,21 LIBERTY 01,Question 4 Kansas City,,,Yes,588
+Clay,21 LIBERTY 02,Question 4 Kansas City,,,Yes,751
+Clay,21 LIBERTY 03,Question 4 Kansas City,,,Yes,822
+Clay,21 LIBERTY 04,Question 4 Kansas City,,,Yes,558
+Clay,21 LIBERTY 05,Question 4 Kansas City,,,Yes,502
+Clay,21 LIBERTY 06,Question 4 Kansas City,,,Yes,440
+Clay,21 LIBERTY 07,Question 4 Kansas City,,,Yes,486
+Clay,21 LIBERTY 08,Question 4 Kansas City,,,Yes,406
+Clay,21 LIBERTY 09,Question 4 Kansas City,,,Yes,608
+Clay,21 GALLATIN 01,Question 4 Kansas City,,,No,79
+Clay,21 GALLATIN 02,Question 4 Kansas City,,,No,217
+Clay,21 GALLATIN 03,Question 4 Kansas City,,,No,156
+Clay,21 GALLATIN 04,Question 4 Kansas City,,,No,160
+Clay,21 GALLATIN 05,Question 4 Kansas City,,,No,135
+Clay,21 GALLATIN 06,Question 4 Kansas City,,,No,113
+Clay,21 GALLATIN 07,Question 4 Kansas City,,,No,140
+Clay,21 GALLATIN 08,Question 4 Kansas City,,,No,137
+Clay,21 GALLATIN 09,Question 4 Kansas City,,,No,96
+Clay,21 GALLATIN 10,Question 4 Kansas City,,,No,257
+Clay,21 CHOUTEAU 11,Question 4 Kansas City,,,No,196
+Clay,21 CHOUTEAU 12,Question 4 Kansas City,,,No,191
+Clay,21 CHOUTEAU 13,Question 4 Kansas City,,,No,261
+Clay,21 GALLATIN 14,Question 4 Kansas City,,,No,121
+Clay,21 GALLATIN 15,Question 4 Kansas City,,,No,101
+Clay,21 CHOUTEAU 16,Question 4 Kansas City,,,No,255
+Clay,21 CHOUTEAU 17,Question 4 Kansas City,,,No,253
+Clay,21 CHOUTEAU 18,Question 4 Kansas City,,,No,201
+Clay,21 CHOUTEAU 19,Question 4 Kansas City,,,No,139
+Clay,21 GALLATIN 20,Question 4 Kansas City,,,No,241
+Clay,21 CHOUTEAU 21,Question 4 Kansas City,,,No,198
+Clay,21 CHOUTEAU 22,Question 4 Kansas City,,,No,13
+Clay,21 GALLATIN 23,Question 4 Kansas City,,,No,84
+Clay,21 GALLATIN 24,Question 4 Kansas City,,,No,113
+Clay,21 GALLATIN 25,Question 4 Kansas City,,,No,130
+Clay,21 CHOUTEAU 26,Question 4 Kansas City,,,No,276
+Clay,21 CHOUTEAU 27,Question 4 Kansas City,,,No,215
+Clay,21 CHOUTEAU 28,Question 4 Kansas City,,,No,205
+Clay,21 GALLATIN 29,Question 4 Kansas City,,,No,176
+Clay,21 CHOUTEAU 30,Question 4 Kansas City,,,No,242
+Clay,21 PLATTE 01,Question 4 Kansas City,,,No,230
+Clay,21 PLATTE 02,Question 4 Kansas City,,,No,133
+Clay,21 LIBERTY 01,Question 4 Kansas City,,,No,262
+Clay,21 LIBERTY 02,Question 4 Kansas City,,,No,186
+Clay,21 LIBERTY 03,Question 4 Kansas City,,,No,244
+Clay,21 LIBERTY 04,Question 4 Kansas City,,,No,217
+Clay,21 LIBERTY 05,Question 4 Kansas City,,,No,145
+Clay,21 LIBERTY 06,Question 4 Kansas City,,,No,167
+Clay,21 LIBERTY 07,Question 4 Kansas City,,,No,158
+Clay,21 LIBERTY 08,Question 4 Kansas City,,,No,143
+Clay,21 LIBERTY 09,Question 4 Kansas City,,,No,217
+Clay,21 GALLATIN 01,Question 5 Kansas City,,,Yes,274
+Clay,21 GALLATIN 02,Question 5 Kansas City,,,Yes,1079
+Clay,21 GALLATIN 03,Question 5 Kansas City,,,Yes,549
+Clay,21 GALLATIN 04,Question 5 Kansas City,,,Yes,468
+Clay,21 GALLATIN 05,Question 5 Kansas City,,,Yes,376
+Clay,21 GALLATIN 06,Question 5 Kansas City,,,Yes,245
+Clay,21 GALLATIN 07,Question 5 Kansas City,,,Yes,314
+Clay,21 GALLATIN 08,Question 5 Kansas City,,,Yes,401
+Clay,21 GALLATIN 09,Question 5 Kansas City,,,Yes,309
+Clay,21 GALLATIN 10,Question 5 Kansas City,,,Yes,850
+Clay,21 CHOUTEAU 11,Question 5 Kansas City,,,Yes,441
+Clay,21 CHOUTEAU 12,Question 5 Kansas City,,,Yes,709
+Clay,21 CHOUTEAU 13,Question 5 Kansas City,,,Yes,776
+Clay,21 GALLATIN 14,Question 5 Kansas City,,,Yes,313
+Clay,21 GALLATIN 15,Question 5 Kansas City,,,Yes,337
+Clay,21 CHOUTEAU 16,Question 5 Kansas City,,,Yes,664
+Clay,21 CHOUTEAU 17,Question 5 Kansas City,,,Yes,666
+Clay,21 CHOUTEAU 18,Question 5 Kansas City,,,Yes,468
+Clay,21 CHOUTEAU 19,Question 5 Kansas City,,,Yes,296
+Clay,21 GALLATIN 20,Question 5 Kansas City,,,Yes,765
+Clay,21 CHOUTEAU 21,Question 5 Kansas City,,,Yes,424
+Clay,21 CHOUTEAU 22,Question 5 Kansas City,,,Yes,20
+Clay,21 GALLATIN 23,Question 5 Kansas City,,,Yes,248
+Clay,21 GALLATIN 24,Question 5 Kansas City,,,Yes,303
+Clay,21 GALLATIN 25,Question 5 Kansas City,,,Yes,329
+Clay,21 CHOUTEAU 26,Question 5 Kansas City,,,Yes,958
+Clay,21 CHOUTEAU 27,Question 5 Kansas City,,,Yes,763
+Clay,21 CHOUTEAU 28,Question 5 Kansas City,,,Yes,683
+Clay,21 GALLATIN 29,Question 5 Kansas City,,,Yes,617
+Clay,21 CHOUTEAU 30,Question 5 Kansas City,,,Yes,764
+Clay,21 PLATTE 01,Question 5 Kansas City,,,Yes,633
+Clay,21 PLATTE 02,Question 5 Kansas City,,,Yes,404
+Clay,21 LIBERTY 01,Question 5 Kansas City,,,Yes,579
+Clay,21 LIBERTY 02,Question 5 Kansas City,,,Yes,760
+Clay,21 LIBERTY 03,Question 5 Kansas City,,,Yes,825
+Clay,21 LIBERTY 04,Question 5 Kansas City,,,Yes,566
+Clay,21 LIBERTY 05,Question 5 Kansas City,,,Yes,502
+Clay,21 LIBERTY 06,Question 5 Kansas City,,,Yes,439
+Clay,21 LIBERTY 07,Question 5 Kansas City,,,Yes,482
+Clay,21 LIBERTY 08,Question 5 Kansas City,,,Yes,409
+Clay,21 LIBERTY 09,Question 5 Kansas City,,,Yes,621
+Clay,21 GALLATIN 01,Question 5 Kansas City,,,No,80
+Clay,21 GALLATIN 02,Question 5 Kansas City,,,No,197
+Clay,21 GALLATIN 03,Question 5 Kansas City,,,No,151
+Clay,21 GALLATIN 04,Question 5 Kansas City,,,No,162
+Clay,21 GALLATIN 05,Question 5 Kansas City,,,No,131
+Clay,21 GALLATIN 06,Question 5 Kansas City,,,No,115
+Clay,21 GALLATIN 07,Question 5 Kansas City,,,No,143
+Clay,21 GALLATIN 08,Question 5 Kansas City,,,No,135
+Clay,21 GALLATIN 09,Question 5 Kansas City,,,No,92
+Clay,21 GALLATIN 10,Question 5 Kansas City,,,No,256
+Clay,21 CHOUTEAU 11,Question 5 Kansas City,,,No,185
+Clay,21 CHOUTEAU 12,Question 5 Kansas City,,,No,210
+Clay,21 CHOUTEAU 13,Question 5 Kansas City,,,No,259
+Clay,21 GALLATIN 14,Question 5 Kansas City,,,No,114
+Clay,21 GALLATIN 15,Question 5 Kansas City,,,No,99
+Clay,21 CHOUTEAU 16,Question 5 Kansas City,,,No,274
+Clay,21 CHOUTEAU 17,Question 5 Kansas City,,,No,262
+Clay,21 CHOUTEAU 18,Question 5 Kansas City,,,No,191
+Clay,21 CHOUTEAU 19,Question 5 Kansas City,,,No,137
+Clay,21 GALLATIN 20,Question 5 Kansas City,,,No,237
+Clay,21 CHOUTEAU 21,Question 5 Kansas City,,,No,193
+Clay,21 CHOUTEAU 22,Question 5 Kansas City,,,No,13
+Clay,21 GALLATIN 23,Question 5 Kansas City,,,No,81
+Clay,21 GALLATIN 24,Question 5 Kansas City,,,No,108
+Clay,21 GALLATIN 25,Question 5 Kansas City,,,No,123
+Clay,21 CHOUTEAU 26,Question 5 Kansas City,,,No,257
+Clay,21 CHOUTEAU 27,Question 5 Kansas City,,,No,219
+Clay,21 CHOUTEAU 28,Question 5 Kansas City,,,No,203
+Clay,21 GALLATIN 29,Question 5 Kansas City,,,No,173
+Clay,21 CHOUTEAU 30,Question 5 Kansas City,,,No,230
+Clay,21 PLATTE 01,Question 5 Kansas City,,,No,233
+Clay,21 PLATTE 02,Question 5 Kansas City,,,No,127
+Clay,21 LIBERTY 01,Question 5 Kansas City,,,No,268
+Clay,21 LIBERTY 02,Question 5 Kansas City,,,No,177
+Clay,21 LIBERTY 03,Question 5 Kansas City,,,No,242
+Clay,21 LIBERTY 04,Question 5 Kansas City,,,No,209
+Clay,21 LIBERTY 05,Question 5 Kansas City,,,No,146
+Clay,21 LIBERTY 06,Question 5 Kansas City,,,No,164
+Clay,21 LIBERTY 07,Question 5 Kansas City,,,No,165
+Clay,21 LIBERTY 08,Question 5 Kansas City,,,No,140
+Clay,21 LIBERTY 09,Question 5 Kansas City,,,No,206
+Clay,FISHING RIVER 01,Question Excelsior Springs,,,Yes,311
+Clay,FISHING RIVER 02,Question Excelsior Springs,,,Yes,443
+Clay,FISHING RIVER 03,Question Excelsior Springs,,,Yes,0
+Clay,WASHINGTON 02,Question Excelsior Springs,,,Yes,274
+Clay,FISHING RIVER 01,Question Excelsior Springs,,,No,323
+Clay,FISHING RIVER 02,Question Excelsior Springs,,,No,394
+Clay,FISHING RIVER 03,Question Excelsior Springs,,,No,0
+Clay,WASHINGTON 02,Question Excelsior Springs,,,No,258

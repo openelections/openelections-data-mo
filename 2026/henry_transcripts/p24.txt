@@ -1,0 +1,13 @@
+TITLE	BIG CREEK TOWNSHIP COMMITTEEMAN (REPUBLICAN PARTY)
+CANDS	WILLIAM GALLOWAY	MICHAEL GLASPY
+1	Jurisdiction Wide	Jurisdiction Wide	-,-,-,-,-,-,-,-,-
+2	URICH	URICH	-,-,-,-,-,-,-,-,-
+3	URICH	Normal	1328,492,37.05%,160,51,19,37.25%,32,62.75%
+4	URICH	Absentee	1328,-,-,160,0,0,-,0,-
+5	ABSENTEE	ABSENTEE	-,-,-,-,-,-,-,-,-
+6	ABSENTEE	Normal	-,-,-,0,0,0,-,0,-
+7	ABSENTEE	Absentee	-,829,-,0,7,1,14.29%,6,85.71%
+8	Total	Total	-,-,-,-,-,-,-,-,-
+9	Total	Normal	14120,4954,35.08%,160,51,19,37.25%,32,62.75%
+10	Total	Absentee	14120,829,5.87%,160,7,1,14.29%,6,85.71%
+11	Total	Total	14120,5783,40.96%,160,56,20,34.48%,36,65.52%

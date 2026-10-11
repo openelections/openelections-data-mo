@@ -1,0 +1,13 @@
+TITLE	WALKER TOWNSHIP COMMITTEEWOMAN (REPUBLICAN PARTY)
+CANDS	AMY GREEN NOLD	EILEEN PARKS
+1	Jurisdiction Wide	Jurisdiction Wide	-,-,-,-,-,-,-,-,-
+2	URICH	URICH	-,-,-,-,-,-,-,-,-
+3	URICH	Normal	1328,492,37.05%,166,76,25,32.89%,51,67.11%
+4	URICH	Absentee	1328,-,-,166,0,0,-,0,-
+5	ABSENTEE	ABSENTEE	-,-,-,-,-,-,-,-,-
+6	ABSENTEE	Normal	-,-,-,0,0,0,-,0,-
+7	ABSENTEE	Absentee	-,829,-,0,19,6,31.58%,13,68.42%
+8	Total	Total	-,-,-,-,-,-,-,-,-
+9	Total	Normal	14120,4954,35.08%,166,76,25,32.89%,51,67.11%
+10	Total	Absentee	14120,829,5.87%,166,19,6,31.58%,13,68.42%
+11	Total	Total	14120,5783,40.96%,166,95,31,32.63%,64,67.37%

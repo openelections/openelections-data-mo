@@ -1,0 +1,278 @@
+county,precinct,office,district,party,candidate,votes
+Worth,ABSENTEE,State Auditor,,DEM,Quentin Wilson,6
+Worth,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,3
+Worth,ALLEN,State Auditor,,DEM,Quentin Wilson,4
+Worth,ALLEN,State Auditor,,DEM,Gregory Upchurch,2
+Worth,E FLETCHALL,State Auditor,,DEM,Quentin Wilson,9
+Worth,E FLETCHALL,State Auditor,,DEM,Gregory Upchurch,5
+Worth,GREENE,State Auditor,,DEM,Quentin Wilson,4
+Worth,GREENE,State Auditor,,DEM,Gregory Upchurch,2
+Worth,MIDDLEFORK,State Auditor,,DEM,Quentin Wilson,5
+Worth,MIDDLEFORK,State Auditor,,DEM,Gregory Upchurch,1
+Worth,SMITH,State Auditor,,DEM,Quentin Wilson,4
+Worth,SMITH,State Auditor,,DEM,Gregory Upchurch,4
+Worth,W FLETCHALL,State Auditor,,DEM,Quentin Wilson,18
+Worth,W FLETCHALL,State Auditor,,DEM,Gregory Upchurch,7
+Worth,W UNION,State Auditor,,DEM,Quentin Wilson,3
+Worth,W UNION,State Auditor,,DEM,Gregory Upchurch,1
+Worth,ABSENTEE,U.S. House,6,DEM,Josh Smead,6
+Worth,ABSENTEE,U.S. House,6,DEM,Matt Levine,4
+Worth,ALLEN,U.S. House,6,DEM,Josh Smead,3
+Worth,ALLEN,U.S. House,6,DEM,Matt Levine,2
+Worth,E FLETCHALL,U.S. House,6,DEM,Josh Smead,7
+Worth,E FLETCHALL,U.S. House,6,DEM,Scot Pondelick,4
+Worth,E FLETCHALL,U.S. House,6,DEM,Matt Levine,3
+Worth,GREENE,U.S. House,6,DEM,Josh Smead,4
+Worth,GREENE,U.S. House,6,DEM,Matt Levine,2
+Worth,MIDDLEFORK,U.S. House,6,DEM,Josh Smead,2
+Worth,MIDDLEFORK,U.S. House,6,DEM,Scot Pondelick,1
+Worth,MIDDLEFORK,U.S. House,6,DEM,Matt Levine,3
+Worth,SMITH,U.S. House,6,DEM,Josh Smead,3
+Worth,SMITH,U.S. House,6,DEM,Scot Pondelick,4
+Worth,SMITH,U.S. House,6,DEM,Matt Levine,1
+Worth,W FLETCHALL,U.S. House,6,DEM,Josh Smead,10
+Worth,W FLETCHALL,U.S. House,6,DEM,Scot Pondelick,8
+Worth,W FLETCHALL,U.S. House,6,DEM,Matt Levine,7
+Worth,W UNION,U.S. House,6,DEM,Josh Smead,2
+Worth,W UNION,U.S. House,6,DEM,Scot Pondelick,1
+Worth,ABSENTEE,State Senate,12,DEM,Judy McNeece,9
+Worth,ALLEN,State Senate,12,DEM,Judy McNeece,5
+Worth,E FLETCHALL,State Senate,12,DEM,Judy McNeece,14
+Worth,GREENE,State Senate,12,DEM,Judy McNeece,6
+Worth,MIDDLEFORK,State Senate,12,DEM,Judy McNeece,5
+Worth,SMITH,State Senate,12,DEM,Judy McNeece,8
+Worth,W FLETCHALL,State Senate,12,DEM,Judy McNeece,23
+Worth,W UNION,State Senate,12,DEM,Judy McNeece,4
+Worth,ABSENTEE,State House,2,DEM,Casey Scott,9
+Worth,ALLEN,State House,2,DEM,Casey Scott,5
+Worth,E FLETCHALL,State House,2,DEM,Casey Scott,15
+Worth,GREENE,State House,2,DEM,Casey Scott,6
+Worth,MIDDLEFORK,State House,2,DEM,Casey Scott,6
+Worth,SMITH,State House,2,DEM,Casey Scott,7
+Worth,W FLETCHALL,State House,2,DEM,Casey Scott,23
+Worth,W UNION,State House,2,DEM,Casey Scott,4
+Worth,ABSENTEE,Circuit Clerk,,DEM,Jana Findley,9
+Worth,ALLEN,Circuit Clerk,,DEM,Jana Findley,5
+Worth,E FLETCHALL,Circuit Clerk,,DEM,Jana Findley,15
+Worth,GREENE,Circuit Clerk,,DEM,Jana Findley,6
+Worth,MIDDLEFORK,Circuit Clerk,,DEM,Jana Findley,7
+Worth,SMITH,Circuit Clerk,,DEM,Jana Findley,8
+Worth,W FLETCHALL,Circuit Clerk,,DEM,Jana Findley,24
+Worth,W UNION,Circuit Clerk,,DEM,Jana Findley,3
+Worth,ABSENTEE,Recorder of Deeds,,DEM,Amanda Gilland,10
+Worth,ALLEN,Recorder of Deeds,,DEM,Amanda Gilland,6
+Worth,E FLETCHALL,Recorder of Deeds,,DEM,Amanda Gilland,14
+Worth,GREENE,Recorder of Deeds,,DEM,Amanda Gilland,6
+Worth,MIDDLEFORK,Recorder of Deeds,,DEM,Amanda Gilland,7
+Worth,SMITH,Recorder of Deeds,,DEM,Amanda Gilland,8
+Worth,W FLETCHALL,Recorder of Deeds,,DEM,Amanda Gilland,24
+Worth,W UNION,Recorder of Deeds,,DEM,Amanda Gilland,4
+Worth,ABSENTEE,Prosecuting Attorney,,DEM,Janet Larison,9
+Worth,ALLEN,Prosecuting Attorney,,DEM,Janet Larison,4
+Worth,E FLETCHALL,Prosecuting Attorney,,DEM,Janet Larison,13
+Worth,GREENE,Prosecuting Attorney,,DEM,Janet Larison,6
+Worth,MIDDLEFORK,Prosecuting Attorney,,DEM,Janet Larison,6
+Worth,SMITH,Prosecuting Attorney,,DEM,Janet Larison,8
+Worth,W FLETCHALL,Prosecuting Attorney,,DEM,Janet Larison,20
+Worth,W UNION,Prosecuting Attorney,,DEM,Janet Larison,4
+Worth,MIDDLEFORK,State Auditor,,LIB,Dustin Coffell,1
+Worth,MIDDLEFORK,U.S. House,6,LIB,Andy Maidment,1
+Worth,MIDDLEFORK,State House,2,LIB,Shelby Dreier,1
+Worth,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,25
+Worth,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,3
+Worth,ALLEN,State Auditor,,REP,Scott Fitzpatrick,18
+Worth,ALLEN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,6
+Worth,E FLETCHALL,State Auditor,,REP,Scott Fitzpatrick,49
+Worth,E FLETCHALL,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,11
+Worth,GREENE,State Auditor,,REP,Scott Fitzpatrick,34
+Worth,GREENE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,5
+Worth,MIDDLEFORK,State Auditor,,REP,Scott Fitzpatrick,32
+Worth,MIDDLEFORK,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,6
+Worth,SMITH,State Auditor,,REP,Scott Fitzpatrick,41
+Worth,SMITH,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,4
+Worth,W FLETCHALL,State Auditor,,REP,Scott Fitzpatrick,93
+Worth,W FLETCHALL,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,7
+Worth,W UNION,State Auditor,,REP,Scott Fitzpatrick,69
+Worth,W UNION,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,11
+Worth,ABSENTEE,U.S. House,6,REP,Jim Ingram,1
+Worth,ABSENTEE,U.S. House,6,REP,Chris Stigall,2
+Worth,ABSENTEE,U.S. House,6,REP,Nathan Hall Willett,23
+Worth,ABSENTEE,U.S. House,6,REP,Cody J. Oshel,1
+Worth,ABSENTEE,U.S. House,6,REP,Nathanael Schultz,3
+Worth,ALLEN,U.S. House,6,REP,Jim Ingram,2
+Worth,ALLEN,U.S. House,6,REP,Chris Stigall,13
+Worth,ALLEN,U.S. House,6,REP,Nathan Hall Willett,8
+Worth,ALLEN,U.S. House,6,REP,Cody J. Oshel,1
+Worth,ALLEN,U.S. House,6,REP,Nathanael Schultz,3
+Worth,E FLETCHALL,U.S. House,6,REP,Jim Ingram,8
+Worth,E FLETCHALL,U.S. House,6,REP,Chris Stigall,18
+Worth,E FLETCHALL,U.S. House,6,REP,Nathan Hall Willett,39
+Worth,E FLETCHALL,U.S. House,6,REP,Cody J. Oshel,1
+Worth,E FLETCHALL,U.S. House,6,REP,Nathanael Schultz,2
+Worth,GREENE,U.S. House,6,REP,Jim Ingram,2
+Worth,GREENE,U.S. House,6,REP,Chris Stigall,12
+Worth,GREENE,U.S. House,6,REP,Nathan Hall Willett,23
+Worth,GREENE,U.S. House,6,REP,Nathanael Schultz,1
+Worth,SMITH,U.S. House,6,REP,Jim Ingram,3
+Worth,SMITH,U.S. House,6,REP,Chris Stigall,12
+Worth,SMITH,U.S. House,6,REP,Nathan Hall Willett,28
+Worth,SMITH,U.S. House,6,REP,Cody J. Oshel,2
+Worth,SMITH,U.S. House,6,REP,Nathanael Schultz,3
+Worth,W FLETCHALL,U.S. House,6,REP,Jim Ingram,15
+Worth,W FLETCHALL,U.S. House,6,REP,Chris Stigall,30
+Worth,W FLETCHALL,U.S. House,6,REP,Nathan Hall Willett,51
+Worth,W FLETCHALL,U.S. House,6,REP,Cody J. Oshel,7
+Worth,W FLETCHALL,U.S. House,6,REP,Nathanael Schultz,6
+Worth,W UNION,U.S. House,6,REP,Jim Ingram,1
+Worth,W UNION,U.S. House,6,REP,Chris Stigall,19
+Worth,W UNION,U.S. House,6,REP,Nathan Hall Willett,56
+Worth,W UNION,U.S. House,6,REP,Cody J. Oshel,3
+Worth,W UNION,U.S. House,6,REP,Nathanael Schultz,7
+Worth,MIDDLEFORK,U.S. House,6,REP,Chris Stigall,13
+Worth,MIDDLEFORK,U.S. House,6,REP,Nathan Hall Willett,19
+Worth,MIDDLEFORK,U.S. House,6,REP,Cody J. Oshel,2
+Worth,MIDDLEFORK,U.S. House,6,REP,Nathanael Schultz,5
+Worth,ABSENTEE,State Senate,12,REP,Rusty Black,27
+Worth,ALLEN,State Senate,12,REP,Rusty Black,19
+Worth,E FLETCHALL,State Senate,12,REP,Rusty Black,54
+Worth,GREENE,State Senate,12,REP,Rusty Black,32
+Worth,MIDDLEFORK,State Senate,12,REP,Rusty Black,38
+Worth,SMITH,State Senate,12,REP,Rusty Black,48
+Worth,W FLETCHALL,State Senate,12,REP,Rusty Black,89
+Worth,W UNION,State Senate,12,REP,Rusty Black,70
+Worth,ABSENTEE,State House,2,REP,Freddie Griffin Jr,6
+Worth,ABSENTEE,State House,2,REP,Phil Fox,3
+Worth,ABSENTEE,State House,2,REP,Brandon Harvey,20
+Worth,ALLEN,State House,2,REP,Freddie Griffin Jr,7
+Worth,ALLEN,State House,2,REP,Phil Fox,8
+Worth,ALLEN,State House,2,REP,Brandon Harvey,10
+Worth,E FLETCHALL,State House,2,REP,Freddie Griffin Jr,24
+Worth,E FLETCHALL,State House,2,REP,Phil Fox,15
+Worth,E FLETCHALL,State House,2,REP,Brandon Harvey,22
+Worth,GREENE,State House,2,REP,Freddie Griffin Jr,7
+Worth,GREENE,State House,2,REP,Phil Fox,4
+Worth,GREENE,State House,2,REP,Brandon Harvey,27
+Worth,MIDDLEFORK,State House,2,REP,Freddie Griffin Jr,12
+Worth,MIDDLEFORK,State House,2,REP,Phil Fox,14
+Worth,MIDDLEFORK,State House,2,REP,Brandon Harvey,11
+Worth,SMITH,State House,2,REP,Freddie Griffin Jr,14
+Worth,SMITH,State House,2,REP,Phil Fox,8
+Worth,SMITH,State House,2,REP,Brandon Harvey,25
+Worth,W FLETCHALL,State House,2,REP,Freddie Griffin Jr,37
+Worth,W FLETCHALL,State House,2,REP,Phil Fox,20
+Worth,W FLETCHALL,State House,2,REP,Brandon Harvey,43
+Worth,W UNION,State House,2,REP,Freddie Griffin Jr,19
+Worth,W UNION,State House,2,REP,Phil Fox,8
+Worth,W UNION,State House,2,REP,Brandon Harvey,50
+Worth,ABSENTEE,Associate Circuit Judge,,REP,Joel A Miller,29
+Worth,ALLEN,Associate Circuit Judge,,REP,Joel A Miller,25
+Worth,E FLETCHALL,Associate Circuit Judge,,REP,Joel A Miller,69
+Worth,GREENE,Associate Circuit Judge,,REP,Joel A Miller,38
+Worth,MIDDLEFORK,Associate Circuit Judge,,REP,Joel A Miller,40
+Worth,SMITH,Associate Circuit Judge,,REP,Joel A Miller,55
+Worth,W FLETCHALL,Associate Circuit Judge,,REP,Joel A Miller,101
+Worth,W UNION,Associate Circuit Judge,,REP,Joel A Miller,82
+Worth,ABSENTEE,Presiding Commissioner,,REP,Jubal Summers,29
+Worth,ALLEN,Presiding Commissioner,,REP,Jubal Summers,23
+Worth,E FLETCHALL,Presiding Commissioner,,REP,Jubal Summers,66
+Worth,GREENE,Presiding Commissioner,,REP,Jubal Summers,35
+Worth,MIDDLEFORK,Presiding Commissioner,,REP,Jubal Summers,42
+Worth,SMITH,Presiding Commissioner,,REP,Jubal Summers,53
+Worth,W FLETCHALL,Presiding Commissioner,,REP,Jubal Summers,94
+Worth,W UNION,Presiding Commissioner,,REP,Jubal Summers,78
+Worth,ABSENTEE,County Clerk,,REP,Melissa Percell,17
+Worth,ABSENTEE,County Clerk,,REP,Brandon Allee,13
+Worth,ALLEN,County Clerk,,REP,Melissa Percell,11
+Worth,ALLEN,County Clerk,,REP,Brandon Allee,17
+Worth,E FLETCHALL,County Clerk,,REP,Melissa Percell,41
+Worth,E FLETCHALL,County Clerk,,REP,Brandon Allee,26
+Worth,GREENE,County Clerk,,REP,Melissa Percell,23
+Worth,GREENE,County Clerk,,REP,Brandon Allee,16
+Worth,MIDDLEFORK,County Clerk,,REP,Melissa Percell,24
+Worth,MIDDLEFORK,County Clerk,,REP,Brandon Allee,19
+Worth,SMITH,County Clerk,,REP,Melissa Percell,39
+Worth,SMITH,County Clerk,,REP,Brandon Allee,15
+Worth,W FLETCHALL,County Clerk,,REP,Melissa Percell,68
+Worth,W FLETCHALL,County Clerk,,REP,Brandon Allee,39
+Worth,W UNION,County Clerk,,REP,Melissa Percell,38
+Worth,W UNION,County Clerk,,REP,Brandon Allee,49
+Worth,ABSENTEE,Collector,,REP,Jessica Davidson,30
+Worth,ALLEN,Collector,,REP,Jessica Davidson,23
+Worth,E FLETCHALL,Collector,,REP,Jessica Davidson,70
+Worth,GREENE,Collector,,REP,Jessica Davidson,38
+Worth,MIDDLEFORK,Collector,,REP,Jessica Davidson,42
+Worth,SMITH,Collector,,REP,Jessica Davidson,53
+Worth,W FLETCHALL,Collector,,REP,Jessica Davidson,103
+Worth,W UNION,Collector,,REP,Jessica Davidson,82
+Worth,ABSENTEE,Treasurer,,REP,Stephanie Hardy,31
+Worth,ALLEN,Treasurer,,REP,Stephanie Hardy,23
+Worth,E FLETCHALL,Treasurer,,REP,Stephanie Hardy,66
+Worth,GREENE,Treasurer,,REP,Stephanie Hardy,36
+Worth,MIDDLEFORK,Treasurer,,REP,Stephanie Hardy,40
+Worth,SMITH,Treasurer,,REP,Stephanie Hardy,54
+Worth,W FLETCHALL,Treasurer,,REP,Stephanie Hardy,102
+Worth,W UNION,Treasurer,,REP,Stephanie Hardy,83
+Worth,ABSENTEE,Constitutional Amendment 1,,,No,7
+Worth,ABSENTEE,Constitutional Amendment 1,,,Yes,35
+Worth,ALLEN,Constitutional Amendment 1,,,No,11
+Worth,ALLEN,Constitutional Amendment 1,,,Yes,24
+Worth,E FLETCHALL,Constitutional Amendment 1,,,No,16
+Worth,E FLETCHALL,Constitutional Amendment 1,,,Yes,72
+Worth,GREENE,Constitutional Amendment 1,,,No,12
+Worth,GREENE,Constitutional Amendment 1,,,Yes,36
+Worth,MIDDLEFORK,Constitutional Amendment 1,,,No,18
+Worth,MIDDLEFORK,Constitutional Amendment 1,,,Yes,34
+Worth,SMITH,Constitutional Amendment 1,,,No,23
+Worth,SMITH,Constitutional Amendment 1,,,Yes,36
+Worth,W FLETCHALL,Constitutional Amendment 1,,,No,31
+Worth,W FLETCHALL,Constitutional Amendment 1,,,Yes,102
+Worth,W UNION,Constitutional Amendment 1,,,No,15
+Worth,W UNION,Constitutional Amendment 1,,,Yes,79
+Worth,ABSENTEE,Constitutional Amendment 2,,,No,8
+Worth,ABSENTEE,Constitutional Amendment 2,,,Yes,34
+Worth,ALLEN,Constitutional Amendment 2,,,No,7
+Worth,ALLEN,Constitutional Amendment 2,,,Yes,30
+Worth,E FLETCHALL,Constitutional Amendment 2,,,No,21
+Worth,E FLETCHALL,Constitutional Amendment 2,,,Yes,68
+Worth,GREENE,Constitutional Amendment 2,,,No,11
+Worth,GREENE,Constitutional Amendment 2,,,Yes,36
+Worth,MIDDLEFORK,Constitutional Amendment 2,,,No,11
+Worth,MIDDLEFORK,Constitutional Amendment 2,,,Yes,42
+Worth,SMITH,Constitutional Amendment 2,,,No,19
+Worth,SMITH,Constitutional Amendment 2,,,Yes,42
+Worth,W FLETCHALL,Constitutional Amendment 2,,,No,34
+Worth,W FLETCHALL,Constitutional Amendment 2,,,Yes,297
+Worth,W UNION,Constitutional Amendment 2,,,No,15
+Worth,W UNION,Constitutional Amendment 2,,,Yes,74
+Worth,ABSENTEE,Constitutional Amendment 4,,,No,30
+Worth,ABSENTEE,Constitutional Amendment 4,,,Yes,12
+Worth,ALLEN,Constitutional Amendment 4,,,No,36
+Worth,ALLEN,Constitutional Amendment 4,,,Yes,1
+Worth,E FLETCHALL,Constitutional Amendment 4,,,No,73
+Worth,E FLETCHALL,Constitutional Amendment 4,,,Yes,16
+Worth,GREENE,Constitutional Amendment 4,,,No,33
+Worth,GREENE,Constitutional Amendment 4,,,Yes,15
+Worth,MIDDLEFORK,Constitutional Amendment 4,,,No,35
+Worth,MIDDLEFORK,Constitutional Amendment 4,,,Yes,19
+Worth,SMITH,Constitutional Amendment 4,,,No,45
+Worth,SMITH,Constitutional Amendment 4,,,Yes,17
+Worth,W FLETCHALL,Constitutional Amendment 4,,,No,93
+Worth,W FLETCHALL,Constitutional Amendment 4,,,Yes,38
+Worth,W UNION,Constitutional Amendment 4,,,No,72
+Worth,W UNION,Constitutional Amendment 4,,,Yes,22
+Worth,ABSENTEE,Constitutional Amendment 5,,,No,30
+Worth,ABSENTEE,Constitutional Amendment 5,,,Yes,9
+Worth,ALLEN,Constitutional Amendment 5,,,No,33
+Worth,ALLEN,Constitutional Amendment 5,,,Yes,4
+Worth,E FLETCHALL,Constitutional Amendment 5,,,No,78
+Worth,E FLETCHALL,Constitutional Amendment 5,,,Yes,8
+Worth,GREENE,Constitutional Amendment 5,,,No,39
+Worth,GREENE,Constitutional Amendment 5,,,Yes,7
+Worth,MIDDLEFORK,Constitutional Amendment 5,,,No,45
+Worth,MIDDLEFORK,Constitutional Amendment 5,,,Yes,9
+Worth,SMITH,Constitutional Amendment 5,,,No,47
+Worth,SMITH,Constitutional Amendment 5,,,Yes,14
+Worth,W FLETCHALL,Constitutional Amendment 5,,,No,113
+Worth,W FLETCHALL,Constitutional Amendment 5,,,Yes,23
+Worth,W UNION,Constitutional Amendment 5,,,No,85
+Worth,W UNION,Constitutional Amendment 5,,,Yes,9

@@ -1,0 +1,770 @@
+county,precinct,office,district,party,candidate,votes
+Marion,1st Ward - Hannibal LaGrange University,State Auditor,,REP,Scott Fitzpatrick,404
+Marion,1st Ward - Hannibal LaGrange University,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,61
+Marion,2W-1P - First Assembly of God,State Auditor,,REP,Scott Fitzpatrick,134
+Marion,2W-1P - First Assembly of God,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,23
+Marion,2W-2P - Douglass Community Services,State Auditor,,REP,Scott Fitzpatrick,120
+Marion,2W-2P - Douglass Community Services,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,16
+Marion,3W Admiral Coontz Recreation Center,State Auditor,,REP,Scott Fitzpatrick,96
+Marion,3W Admiral Coontz Recreation Center,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,27
+Marion,4W-2P Admiral Coontz Recreation Center,State Auditor,,REP,Scott Fitzpatrick,132
+Marion,4W-2P Admiral Coontz Recreation Center,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Marion,5W Prince Ave. Baptist Church,State Auditor,,REP,Scott Fitzpatrick,291
+Marion,5W Prince Ave. Baptist Church,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,49
+Marion,6W American Legion Post Home,State Auditor,,REP,Scott Fitzpatrick,331
+Marion,6W American Legion Post Home,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,57
+Marion,Miller - Clover Road Christian Church,State Auditor,,REP,Scott Fitzpatrick,224
+Marion,Miller - Clover Road Christian Church,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Marion,Liberty - American Legion,State Auditor,,REP,Scott Fitzpatrick,635
+Marion,Liberty - American Legion,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,99
+Marion,West Ely - Immanuel Lutheran Church,State Auditor,,REP,Scott Fitzpatrick,94
+Marion,West Ely - Immanuel Lutheran Church,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,9
+Marion,Warren-Monroe City/Tri County Tire,State Auditor,,REP,Scott Fitzpatrick,158
+Marion,Warren-Monroe City/Tri County Tire,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,20
+Marion,Warren-Warren Baptist Church,State Auditor,,REP,Scott Fitzpatrick,78
+Marion,Warren-Warren Baptist Church,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,14
+Marion,Union - Philadelphia Community Center,State Auditor,,REP,Scott Fitzpatrick,163
+Marion,Union - Philadelphia Community Center,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,35
+Marion,Round Grove/Emerson - Emmerson Community Center,State Auditor,,REP,Scott Fitzpatrick,121
+Marion,Round Grove/Emerson - Emmerson Community Center,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,23
+Marion,Fabius/Smileyville - Fabius Community Center,State Auditor,,REP,Scott Fitzpatrick,143
+Marion,Fabius/Smileyville - Fabius Community Center,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,12
+Marion,Fabius/Taylor - Mt. Olivet Church,State Auditor,,REP,Scott Fitzpatrick,117
+Marion,Fabius/Taylor - Mt. Olivet Church,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,16
+Marion,Absentee,State Auditor,,REP,Scott Fitzpatrick,354
+Marion,Absentee,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,62
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,REP,Jim Ingram,70
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,REP,Chris Stigall,119
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,REP,Nathan Hall Willett,206
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,REP,Cody J. Oshel,17
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,REP,Nathanael Schultz,75
+Marion,2W-1P - First Assembly of God,U.S. House,6,REP,Jim Ingram,20
+Marion,2W-1P - First Assembly of God,U.S. House,6,REP,Chris Stigall,39
+Marion,2W-1P - First Assembly of God,U.S. House,6,REP,Nathan Hall Willett,77
+Marion,2W-1P - First Assembly of God,U.S. House,6,REP,Cody J. Oshel,8
+Marion,2W-1P - First Assembly of God,U.S. House,6,REP,Nathanael Schultz,24
+Marion,2W-2P - Douglass Community Services,U.S. House,6,REP,Jim Ingram,14
+Marion,2W-2P - Douglass Community Services,U.S. House,6,REP,Chris Stigall,30
+Marion,2W-2P - Douglass Community Services,U.S. House,6,REP,Nathan Hall Willett,61
+Marion,2W-2P - Douglass Community Services,U.S. House,6,REP,Cody J. Oshel,11
+Marion,2W-2P - Douglass Community Services,U.S. House,6,REP,Nathanael Schultz,20
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,REP,Jim Ingram,22
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,REP,Chris Stigall,18
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,REP,Nathan Hall Willett,51
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,REP,Cody J. Oshel,4
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,REP,Nathanael Schultz,36
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,REP,Jim Ingram,18
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,REP,Chris Stigall,38
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,REP,Nathan Hall Willett,68
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,REP,Cody J. Oshel,7
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,REP,Nathanael Schultz,33
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,REP,Jim Ingram,48
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,REP,Chris Stigall,103
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,REP,Nathan Hall Willett,153
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,REP,Cody J. Oshel,11
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,REP,Nathanael Schultz,47
+Marion,6W American Legion Post Home,U.S. House,6,REP,Jim Ingram,62
+Marion,6W American Legion Post Home,U.S. House,6,REP,Chris Stigall,82
+Marion,6W American Legion Post Home,U.S. House,6,REP,Nathan Hall Willett,164
+Marion,6W American Legion Post Home,U.S. House,6,REP,Cody J. Oshel,11
+Marion,6W American Legion Post Home,U.S. House,6,REP,Nathanael Schultz,75
+Marion,Miller - Clover Road Christian Church,U.S. House,6,REP,Jim Ingram,38
+Marion,Miller - Clover Road Christian Church,U.S. House,6,REP,Chris Stigall,71
+Marion,Miller - Clover Road Christian Church,U.S. House,6,REP,Nathan Hall Willett,99
+Marion,Miller - Clover Road Christian Church,U.S. House,6,REP,Cody J. Oshel,12
+Marion,Miller - Clover Road Christian Church,U.S. House,6,REP,Nathanael Schultz,42
+Marion,Liberty - American Legion,U.S. House,6,REP,Jim Ingram,103
+Marion,Liberty - American Legion,U.S. House,6,REP,Chris Stigall,256
+Marion,Liberty - American Legion,U.S. House,6,REP,Nathan Hall Willett,276
+Marion,Liberty - American Legion,U.S. House,6,REP,Cody J. Oshel,23
+Marion,Liberty - American Legion,U.S. House,6,REP,Nathanael Schultz,105
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,REP,Jim Ingram,10
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,REP,Chris Stigall,17
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,REP,Nathan Hall Willett,67
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,REP,Cody J. Oshel,4
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,REP,Nathanael Schultz,13
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,REP,Jim Ingram,20
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,REP,Chris Stigall,55
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,REP,Nathan Hall Willett,75
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,REP,Cody J. Oshel,4
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,REP,Nathanael Schultz,26
+Marion,Warren-Warren Baptist Church,U.S. House,6,REP,Jim Ingram,16
+Marion,Warren-Warren Baptist Church,U.S. House,6,REP,Chris Stigall,28
+Marion,Warren-Warren Baptist Church,U.S. House,6,REP,Nathan Hall Willett,42
+Marion,Warren-Warren Baptist Church,U.S. House,6,REP,Cody J. Oshel,1
+Marion,Warren-Warren Baptist Church,U.S. House,6,REP,Nathanael Schultz,7
+Marion,Union - Philadelphia Community Center,U.S. House,6,REP,Jim Ingram,14
+Marion,Union - Philadelphia Community Center,U.S. House,6,REP,Chris Stigall,54
+Marion,Union - Philadelphia Community Center,U.S. House,6,REP,Nathan Hall Willett,118
+Marion,Union - Philadelphia Community Center,U.S. House,6,REP,Cody J. Oshel,2
+Marion,Union - Philadelphia Community Center,U.S. House,6,REP,Nathanael Schultz,26
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,REP,Jim Ingram,18
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,REP,Chris Stigall,45
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,REP,Nathan Hall Willett,62
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,REP,Cody J. Oshel,2
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,REP,Nathanael Schultz,25
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,REP,Jim Ingram,17
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,REP,Chris Stigall,53
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,REP,Nathan Hall Willett,72
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,REP,Cody J. Oshel,1
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,REP,Nathanael Schultz,22
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,REP,Jim Ingram,4
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,REP,Chris Stigall,30
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,REP,Nathan Hall Willett,86
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,REP,Cody J. Oshel,7
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,REP,Nathanael Schultz,11
+Marion,Absentee,U.S. House,6,REP,Jim Ingram,60
+Marion,Absentee,U.S. House,6,REP,Chris Stigall,74
+Marion,Absentee,U.S. House,6,REP,Nathan Hall Willett,206
+Marion,Absentee,U.S. House,6,REP,Cody J. Oshel,28
+Marion,Absentee,U.S. House,6,REP,Nathanael Schultz,69
+Marion,1st Ward - Hannibal LaGrange University,State Senate,18,REP,Dusty Blue,230
+Marion,1st Ward - Hannibal LaGrange University,State Senate,18,REP,Ed Lewis,99
+Marion,1st Ward - Hannibal LaGrange University,State Senate,18,REP,Greg Sharpe,207
+Marion,2W-1P - First Assembly of God,State Senate,18,REP,Dusty Blue,47
+Marion,2W-1P - First Assembly of God,State Senate,18,REP,Ed Lewis,48
+Marion,2W-1P - First Assembly of God,State Senate,18,REP,Greg Sharpe,82
+Marion,2W-2P - Douglass Community Services,State Senate,18,REP,Dusty Blue,73
+Marion,2W-2P - Douglass Community Services,State Senate,18,REP,Ed Lewis,27
+Marion,2W-2P - Douglass Community Services,State Senate,18,REP,Greg Sharpe,51
+Marion,3W Admiral Coontz Recreation Center,State Senate,18,REP,Dusty Blue,66
+Marion,3W Admiral Coontz Recreation Center,State Senate,18,REP,Ed Lewis,30
+Marion,3W Admiral Coontz Recreation Center,State Senate,18,REP,Greg Sharpe,44
+Marion,4W-2P Admiral Coontz Recreation Center,State Senate,18,REP,Dusty Blue,86
+Marion,4W-2P Admiral Coontz Recreation Center,State Senate,18,REP,Ed Lewis,43
+Marion,4W-2P Admiral Coontz Recreation Center,State Senate,18,REP,Greg Sharpe,45
+Marion,5W Prince Ave. Baptist Church,State Senate,18,REP,Dusty Blue,137
+Marion,5W Prince Ave. Baptist Church,State Senate,18,REP,Ed Lewis,93
+Marion,5W Prince Ave. Baptist Church,State Senate,18,REP,Greg Sharpe,161
+Marion,6W American Legion Post Home,State Senate,18,REP,Dusty Blue,153
+Marion,6W American Legion Post Home,State Senate,18,REP,Ed Lewis,89
+Marion,6W American Legion Post Home,State Senate,18,REP,Greg Sharpe,186
+Marion,Miller - Clover Road Christian Church,State Senate,18,REP,Dusty Blue,112
+Marion,Miller - Clover Road Christian Church,State Senate,18,REP,Ed Lewis,58
+Marion,Miller - Clover Road Christian Church,State Senate,18,REP,Greg Sharpe,126
+Marion,Liberty - American Legion,State Senate,18,REP,Dusty Blue,202
+Marion,Liberty - American Legion,State Senate,18,REP,Ed Lewis,134
+Marion,Liberty - American Legion,State Senate,18,REP,Greg Sharpe,500
+Marion,West Ely - Immanuel Lutheran Church,State Senate,18,REP,Dusty Blue,25
+Marion,West Ely - Immanuel Lutheran Church,State Senate,18,REP,Ed Lewis,17
+Marion,West Ely - Immanuel Lutheran Church,State Senate,18,REP,Greg Sharpe,77
+Marion,Warren-Monroe City/Tri County Tire,State Senate,18,REP,Dusty Blue,35
+Marion,Warren-Monroe City/Tri County Tire,State Senate,18,REP,Ed Lewis,35
+Marion,Warren-Monroe City/Tri County Tire,State Senate,18,REP,Greg Sharpe,128
+Marion,Warren-Warren Baptist Church,State Senate,18,REP,Dusty Blue,18
+Marion,Warren-Warren Baptist Church,State Senate,18,REP,Ed Lewis,5
+Marion,Warren-Warren Baptist Church,State Senate,18,REP,Greg Sharpe,77
+Marion,Union - Philadelphia Community Center,State Senate,18,REP,Dusty Blue,43
+Marion,Union - Philadelphia Community Center,State Senate,18,REP,Ed Lewis,26
+Marion,Union - Philadelphia Community Center,State Senate,18,REP,Greg Sharpe,156
+Marion,Round Grove/Emerson - Emmerson Community Center,State Senate,18,REP,Dusty Blue,33
+Marion,Round Grove/Emerson - Emmerson Community Center,State Senate,18,REP,Ed Lewis,18
+Marion,Round Grove/Emerson - Emmerson Community Center,State Senate,18,REP,Greg Sharpe,117
+Marion,Fabius/Smileyville - Fabius Community Center,State Senate,18,REP,Dusty Blue,31
+Marion,Fabius/Smileyville - Fabius Community Center,State Senate,18,REP,Ed Lewis,16
+Marion,Fabius/Smileyville - Fabius Community Center,State Senate,18,REP,Greg Sharpe,125
+Marion,Fabius/Taylor - Mt. Olivet Church,State Senate,18,REP,Dusty Blue,13
+Marion,Fabius/Taylor - Mt. Olivet Church,State Senate,18,REP,Ed Lewis,12
+Marion,Fabius/Taylor - Mt. Olivet Church,State Senate,18,REP,Greg Sharpe,123
+Marion,Absentee,State Senate,18,REP,Dusty Blue,161
+Marion,Absentee,State Senate,18,REP,Ed Lewis,87
+Marion,Absentee,State Senate,18,REP,Greg Sharpe,239
+Marion,1st Ward - Hannibal LaGrange University,State House,5,REP,Justin Barnhart,104
+Marion,1st Ward - Hannibal LaGrange University,State House,5,REP,Roth Mcelvain,137
+Marion,1st Ward - Hannibal LaGrange University,State House,5,REP,Rose Ghattas,123
+Marion,1st Ward - Hannibal LaGrange University,State House,5,REP,Lyndon Bode,168
+Marion,2W-1P - First Assembly of God,State House,5,REP,Justin Barnhart,33
+Marion,2W-1P - First Assembly of God,State House,5,REP,Roth Mcelvain,38
+Marion,2W-1P - First Assembly of God,State House,5,REP,Rose Ghattas,49
+Marion,2W-1P - First Assembly of God,State House,5,REP,Lyndon Bode,60
+Marion,2W-2P - Douglass Community Services,State House,5,REP,Justin Barnhart,50
+Marion,2W-2P - Douglass Community Services,State House,5,REP,Roth Mcelvain,18
+Marion,2W-2P - Douglass Community Services,State House,5,REP,Rose Ghattas,38
+Marion,2W-2P - Douglass Community Services,State House,5,REP,Lyndon Bode,46
+Marion,3W Admiral Coontz Recreation Center,State House,5,REP,Justin Barnhart,32
+Marion,3W Admiral Coontz Recreation Center,State House,5,REP,Roth Mcelvain,19
+Marion,3W Admiral Coontz Recreation Center,State House,5,REP,Rose Ghattas,32
+Marion,3W Admiral Coontz Recreation Center,State House,5,REP,Lyndon Bode,53
+Marion,4W-2P Admiral Coontz Recreation Center,State House,5,REP,Justin Barnhart,47
+Marion,4W-2P Admiral Coontz Recreation Center,State House,5,REP,Roth Mcelvain,13
+Marion,4W-2P Admiral Coontz Recreation Center,State House,5,REP,Rose Ghattas,39
+Marion,4W-2P Admiral Coontz Recreation Center,State House,5,REP,Lyndon Bode,74
+Marion,5W Prince Ave. Baptist Church,State House,5,REP,Justin Barnhart,86
+Marion,5W Prince Ave. Baptist Church,State House,5,REP,Roth Mcelvain,63
+Marion,5W Prince Ave. Baptist Church,State House,5,REP,Rose Ghattas,80
+Marion,5W Prince Ave. Baptist Church,State House,5,REP,Lyndon Bode,156
+Marion,6W American Legion Post Home,State House,5,REP,Justin Barnhart,78
+Marion,6W American Legion Post Home,State House,5,REP,Roth Mcelvain,106
+Marion,6W American Legion Post Home,State House,5,REP,Rose Ghattas,101
+Marion,6W American Legion Post Home,State House,5,REP,Lyndon Bode,155
+Marion,Miller - Clover Road Christian Church,State House,5,REP,Justin Barnhart,56
+Marion,Miller - Clover Road Christian Church,State House,5,REP,Roth Mcelvain,93
+Marion,Miller - Clover Road Christian Church,State House,5,REP,Rose Ghattas,51
+Marion,Miller - Clover Road Christian Church,State House,5,REP,Lyndon Bode,88
+Marion,Liberty - American Legion,State House,5,REP,Justin Barnhart,63
+Marion,Liberty - American Legion,State House,5,REP,Roth Mcelvain,589
+Marion,Liberty - American Legion,State House,5,REP,Rose Ghattas,30
+Marion,Liberty - American Legion,State House,5,REP,Lyndon Bode,173
+Marion,West Ely - Immanuel Lutheran Church,State House,5,REP,Justin Barnhart,6
+Marion,West Ely - Immanuel Lutheran Church,State House,5,REP,Roth Mcelvain,76
+Marion,West Ely - Immanuel Lutheran Church,State House,5,REP,Rose Ghattas,12
+Marion,West Ely - Immanuel Lutheran Church,State House,5,REP,Lyndon Bode,28
+Marion,Warren-Monroe City/Tri County Tire,State House,5,REP,Justin Barnhart,28
+Marion,Warren-Monroe City/Tri County Tire,State House,5,REP,Roth Mcelvain,90
+Marion,Warren-Monroe City/Tri County Tire,State House,5,REP,Rose Ghattas,15
+Marion,Warren-Monroe City/Tri County Tire,State House,5,REP,Lyndon Bode,63
+Marion,Warren-Warren Baptist Church,State House,5,REP,Justin Barnhart,6
+Marion,Warren-Warren Baptist Church,State House,5,REP,Roth Mcelvain,70
+Marion,Warren-Warren Baptist Church,State House,5,REP,Rose Ghattas,3
+Marion,Warren-Warren Baptist Church,State House,5,REP,Lyndon Bode,20
+Marion,Union - Philadelphia Community Center,State House,5,REP,Justin Barnhart,22
+Marion,Union - Philadelphia Community Center,State House,5,REP,Roth Mcelvain,134
+Marion,Union - Philadelphia Community Center,State House,5,REP,Rose Ghattas,14
+Marion,Union - Philadelphia Community Center,State House,5,REP,Lyndon Bode,50
+Marion,Round Grove/Emerson - Emmerson Community Center,State House,5,REP,Justin Barnhart,20
+Marion,Round Grove/Emerson - Emmerson Community Center,State House,5,REP,Roth Mcelvain,62
+Marion,Round Grove/Emerson - Emmerson Community Center,State House,5,REP,Rose Ghattas,9
+Marion,Round Grove/Emerson - Emmerson Community Center,State House,5,REP,Lyndon Bode,67
+Marion,Fabius/Smileyville - Fabius Community Center,State House,5,REP,Justin Barnhart,12
+Marion,Fabius/Smileyville - Fabius Community Center,State House,5,REP,Roth Mcelvain,136
+Marion,Fabius/Smileyville - Fabius Community Center,State House,5,REP,Rose Ghattas,3
+Marion,Fabius/Smileyville - Fabius Community Center,State House,5,REP,Lyndon Bode,25
+Marion,Fabius/Taylor - Mt. Olivet Church,State House,5,REP,Justin Barnhart,11
+Marion,Fabius/Taylor - Mt. Olivet Church,State House,5,REP,Roth Mcelvain,90
+Marion,Fabius/Taylor - Mt. Olivet Church,State House,5,REP,Rose Ghattas,4
+Marion,Fabius/Taylor - Mt. Olivet Church,State House,5,REP,Lyndon Bode,39
+Marion,Absentee,State House,5,REP,Justin Barnhart,64
+Marion,Absentee,State House,5,REP,Roth Mcelvain,204
+Marion,Absentee,State House,5,REP,Rose Ghattas,59
+Marion,Absentee,State House,5,REP,Lyndon Bode,160
+Marion,1st Ward - Hannibal LaGrange University,Associate Circuit Judge,,REP,Jennifer A. Richardson,430
+Marion,2W-1P - First Assembly of God,Associate Circuit Judge,,REP,Jennifer A. Richardson,142
+Marion,2W-2P - Douglass Community Services,Associate Circuit Judge,,REP,Jennifer A. Richardson,133
+Marion,3W Admiral Coontz Recreation Center,Associate Circuit Judge,,REP,Jennifer A. Richardson,117
+Marion,4W-2P Admiral Coontz Recreation Center,Associate Circuit Judge,,REP,Jennifer A. Richardson,150
+Marion,5W Prince Ave. Baptist Church,Associate Circuit Judge,,REP,Jennifer A. Richardson,320
+Marion,6W American Legion Post Home,Associate Circuit Judge,,REP,Jennifer A. Richardson,361
+Marion,Miller - Clover Road Christian Church,Associate Circuit Judge,,REP,Jennifer A. Richardson,223
+Marion,Liberty - American Legion,Associate Circuit Judge,,REP,Jennifer A. Richardson,668
+Marion,West Ely - Immanuel Lutheran Church,Associate Circuit Judge,,REP,Jennifer A. Richardson,94
+Marion,Warren-Monroe City/Tri County Tire,Associate Circuit Judge,,REP,Jennifer A. Richardson,174
+Marion,Warren-Warren Baptist Church,Associate Circuit Judge,,REP,Jennifer A. Richardson,84
+Marion,Union - Philadelphia Community Center,Associate Circuit Judge,,REP,Jennifer A. Richardson,178
+Marion,Round Grove/Emerson - Emmerson Community Center,Associate Circuit Judge,,REP,Jennifer A. Richardson,131
+Marion,Fabius/Smileyville - Fabius Community Center,Associate Circuit Judge,,REP,Jennifer A. Richardson,144
+Marion,Fabius/Taylor - Mt. Olivet Church,Associate Circuit Judge,,REP,Jennifer A. Richardson,124
+Marion,Absentee,Associate Circuit Judge,,REP,Jennifer A. Richardson,389
+Marion,1st Ward - Hannibal LaGrange University,Presiding Commissioner,,REP,Darin D. Redd,232
+Marion,1st Ward - Hannibal LaGrange University,Presiding Commissioner,,REP,Scott Haycraft,302
+Marion,2W-1P - First Assembly of God,Presiding Commissioner,,REP,Darin D. Redd,82
+Marion,2W-1P - First Assembly of God,Presiding Commissioner,,REP,Scott Haycraft,99
+Marion,2W-2P - Douglass Community Services,Presiding Commissioner,,REP,Darin D. Redd,69
+Marion,2W-2P - Douglass Community Services,Presiding Commissioner,,REP,Scott Haycraft,80
+Marion,3W Admiral Coontz Recreation Center,Presiding Commissioner,,REP,Darin D. Redd,60
+Marion,3W Admiral Coontz Recreation Center,Presiding Commissioner,,REP,Scott Haycraft,74
+Marion,4W-2P Admiral Coontz Recreation Center,Presiding Commissioner,,REP,Darin D. Redd,49
+Marion,4W-2P Admiral Coontz Recreation Center,Presiding Commissioner,,REP,Scott Haycraft,119
+Marion,5W Prince Ave. Baptist Church,Presiding Commissioner,,REP,Darin D. Redd,154
+Marion,5W Prince Ave. Baptist Church,Presiding Commissioner,,REP,Scott Haycraft,223
+Marion,6W American Legion Post Home,Presiding Commissioner,,REP,Darin D. Redd,213
+Marion,6W American Legion Post Home,Presiding Commissioner,,REP,Scott Haycraft,218
+Marion,Miller - Clover Road Christian Church,Presiding Commissioner,,REP,Darin D. Redd,145
+Marion,Miller - Clover Road Christian Church,Presiding Commissioner,,REP,Scott Haycraft,146
+Marion,Liberty - American Legion,Presiding Commissioner,,REP,Darin D. Redd,696
+Marion,Liberty - American Legion,Presiding Commissioner,,REP,Scott Haycraft,145
+Marion,West Ely - Immanuel Lutheran Church,Presiding Commissioner,,REP,Darin D. Redd,99
+Marion,West Ely - Immanuel Lutheran Church,Presiding Commissioner,,REP,Scott Haycraft,18
+Marion,Warren-Monroe City/Tri County Tire,Presiding Commissioner,,REP,Darin D. Redd,137
+Marion,Warren-Monroe City/Tri County Tire,Presiding Commissioner,,REP,Scott Haycraft,59
+Marion,Warren-Warren Baptist Church,Presiding Commissioner,,REP,Darin D. Redd,78
+Marion,Warren-Warren Baptist Church,Presiding Commissioner,,REP,Scott Haycraft,20
+Marion,Union - Philadelphia Community Center,Presiding Commissioner,,REP,Darin D. Redd,190
+Marion,Union - Philadelphia Community Center,Presiding Commissioner,,REP,Scott Haycraft,31
+Marion,Round Grove/Emerson - Emmerson Community Center,Presiding Commissioner,,REP,Darin D. Redd,137
+Marion,Round Grove/Emerson - Emmerson Community Center,Presiding Commissioner,,REP,Scott Haycraft,24
+Marion,Fabius/Smileyville - Fabius Community Center,Presiding Commissioner,,REP,Darin D. Redd,155
+Marion,Fabius/Smileyville - Fabius Community Center,Presiding Commissioner,,REP,Scott Haycraft,21
+Marion,Fabius/Taylor - Mt. Olivet Church,Presiding Commissioner,,REP,Darin D. Redd,132
+Marion,Fabius/Taylor - Mt. Olivet Church,Presiding Commissioner,,REP,Scott Haycraft,15
+Marion,Absentee,Presiding Commissioner,,REP,Darin D. Redd,309
+Marion,Absentee,Presiding Commissioner,,REP,Scott Haycraft,177
+Marion,1st Ward - Hannibal LaGrange University,County Clerk,,REP,Marla Meyers,422
+Marion,2W-1P - First Assembly of God,County Clerk,,REP,Marla Meyers,142
+Marion,2W-2P - Douglass Community Services,County Clerk,,REP,Marla Meyers,127
+Marion,3W Admiral Coontz Recreation Center,County Clerk,,REP,Marla Meyers,118
+Marion,4W-2P Admiral Coontz Recreation Center,County Clerk,,REP,Marla Meyers,148
+Marion,5W Prince Ave. Baptist Church,County Clerk,,REP,Marla Meyers,317
+Marion,6W American Legion Post Home,County Clerk,,REP,Marla Meyers,358
+Marion,Miller - Clover Road Christian Church,County Clerk,,REP,Marla Meyers,232
+Marion,Liberty - American Legion,County Clerk,,REP,Marla Meyers,716
+Marion,West Ely - Immanuel Lutheran Church,County Clerk,,REP,Marla Meyers,99
+Marion,Warren-Monroe City/Tri County Tire,County Clerk,,REP,Marla Meyers,165
+Marion,Warren-Warren Baptist Church,County Clerk,,REP,Marla Meyers,83
+Marion,Union - Philadelphia Community Center,County Clerk,,REP,Marla Meyers,181
+Marion,Round Grove/Emerson - Emmerson Community Center,County Clerk,,REP,Marla Meyers,138
+Marion,Fabius/Smileyville - Fabius Community Center,County Clerk,,REP,Marla Meyers,152
+Marion,Fabius/Taylor - Mt. Olivet Church,County Clerk,,REP,Marla Meyers,128
+Marion,Absentee,County Clerk,,REP,Marla Meyers,417
+Marion,1st Ward - Hannibal LaGrange University,Circuit Clerk District I,,REP,Vicki L. Payne,202
+Marion,1st Ward - Hannibal LaGrange University,Circuit Clerk District I,,REP,Michelle Hetzler,247
+Marion,2W-1P - First Assembly of God,Circuit Clerk District I,,REP,Vicki L. Payne,69
+Marion,2W-1P - First Assembly of God,Circuit Clerk District I,,REP,Michelle Hetzler,85
+Marion,2W-2P - Douglass Community Services,Circuit Clerk District I,,REP,Vicki L. Payne,76
+Marion,2W-2P - Douglass Community Services,Circuit Clerk District I,,REP,Michelle Hetzler,58
+Marion,3W Admiral Coontz Recreation Center,Circuit Clerk District I,,REP,Vicki L. Payne,52
+Marion,3W Admiral Coontz Recreation Center,Circuit Clerk District I,,REP,Michelle Hetzler,66
+Marion,4W-2P Admiral Coontz Recreation Center,Circuit Clerk District I,,REP,Vicki L. Payne,85
+Marion,4W-2P Admiral Coontz Recreation Center,Circuit Clerk District I,,REP,Michelle Hetzler,67
+Marion,5W Prince Ave. Baptist Church,Circuit Clerk District I,,REP,Vicki L. Payne,152
+Marion,5W Prince Ave. Baptist Church,Circuit Clerk District I,,REP,Michelle Hetzler,180
+Marion,6W American Legion Post Home,Circuit Clerk District I,,REP,Vicki L. Payne,180
+Marion,6W American Legion Post Home,Circuit Clerk District I,,REP,Michelle Hetzler,200
+Marion,Miller - Clover Road Christian Church,Circuit Clerk District I,,REP,Vicki L. Payne,97
+Marion,Miller - Clover Road Christian Church,Circuit Clerk District I,,REP,Michelle Hetzler,138
+Marion,Liberty - American Legion,Circuit Clerk District I,,REP,Vicki L. Payne,353
+Marion,Liberty - American Legion,Circuit Clerk District I,,REP,Michelle Hetzler,390
+Marion,West Ely - Immanuel Lutheran Church,Circuit Clerk District I,,REP,Vicki L. Payne,47
+Marion,West Ely - Immanuel Lutheran Church,Circuit Clerk District I,,REP,Michelle Hetzler,58
+Marion,Warren-Monroe City/Tri County Tire,Circuit Clerk District I,,REP,Vicki L. Payne,82
+Marion,Warren-Monroe City/Tri County Tire,Circuit Clerk District I,,REP,Michelle Hetzler,106
+Marion,Warren-Warren Baptist Church,Circuit Clerk District I,,REP,Vicki L. Payne,49
+Marion,Warren-Warren Baptist Church,Circuit Clerk District I,,REP,Michelle Hetzler,36
+Marion,Union - Philadelphia Community Center,Circuit Clerk District I,,REP,Vicki L. Payne,94
+Marion,Union - Philadelphia Community Center,Circuit Clerk District I,,REP,Michelle Hetzler,99
+Marion,Round Grove/Emerson - Emmerson Community Center,Circuit Clerk District I,,REP,Vicki L. Payne,54
+Marion,Round Grove/Emerson - Emmerson Community Center,Circuit Clerk District I,,REP,Michelle Hetzler,92
+Marion,Fabius/Smileyville - Fabius Community Center,Circuit Clerk District I,,REP,Vicki L. Payne,70
+Marion,Fabius/Smileyville - Fabius Community Center,Circuit Clerk District I,,REP,Michelle Hetzler,87
+Marion,Fabius/Taylor - Mt. Olivet Church,Circuit Clerk District I,,REP,Vicki L. Payne,27
+Marion,Fabius/Taylor - Mt. Olivet Church,Circuit Clerk District I,,REP,Michelle Hetzler,106
+Marion,Absentee,Circuit Clerk District I,,REP,Vicki L. Payne,191
+Marion,Absentee,Circuit Clerk District I,,REP,Michelle Hetzler,223
+Marion,1st Ward - Hannibal LaGrange University,Circuit Clerk District II,,REP,Sara J. Masterson,360
+Marion,1st Ward - Hannibal LaGrange University,Circuit Clerk District II,,REP,Stefanie Crume,83
+Marion,2W-1P - First Assembly of God,Circuit Clerk District II,,REP,Sara J. Masterson,112
+Marion,2W-1P - First Assembly of God,Circuit Clerk District II,,REP,Stefanie Crume,40
+Marion,2W-2P - Douglass Community Services,Circuit Clerk District II,,REP,Sara J. Masterson,107
+Marion,2W-2P - Douglass Community Services,Circuit Clerk District II,,REP,Stefanie Crume,27
+Marion,3W Admiral Coontz Recreation Center,Circuit Clerk District II,,REP,Sara J. Masterson,99
+Marion,3W Admiral Coontz Recreation Center,Circuit Clerk District II,,REP,Stefanie Crume,21
+Marion,4W-2P Admiral Coontz Recreation Center,Circuit Clerk District II,,REP,Sara J. Masterson,112
+Marion,4W-2P Admiral Coontz Recreation Center,Circuit Clerk District II,,REP,Stefanie Crume,41
+Marion,5W Prince Ave. Baptist Church,Circuit Clerk District II,,REP,Sara J. Masterson,241
+Marion,5W Prince Ave. Baptist Church,Circuit Clerk District II,,REP,Stefanie Crume,84
+Marion,6W American Legion Post Home,Circuit Clerk District II,,REP,Sara J. Masterson,277
+Marion,6W American Legion Post Home,Circuit Clerk District II,,REP,Stefanie Crume,88
+Marion,Miller - Clover Road Christian Church,Circuit Clerk District II,,REP,Sara J. Masterson,192
+Marion,Miller - Clover Road Christian Church,Circuit Clerk District II,,REP,Stefanie Crume,39
+Marion,Absentee,Circuit Clerk District II,,REP,Sara J. Masterson,183
+Marion,Absentee,Circuit Clerk District II,,REP,Stefanie Crume,52
+Marion,1st Ward - Hannibal LaGrange University,Recorder of Deeds,,REP,Staci Bryant,419
+Marion,2W-1P - First Assembly of God,Recorder of Deeds,,REP,Staci Bryant,136
+Marion,2W-2P - Douglass Community Services,Recorder of Deeds,,REP,Staci Bryant,125
+Marion,3W Admiral Coontz Recreation Center,Recorder of Deeds,,REP,Staci Bryant,115
+Marion,4W-2P Admiral Coontz Recreation Center,Recorder of Deeds,,REP,Staci Bryant,146
+Marion,5W Prince Ave. Baptist Church,Recorder of Deeds,,REP,Staci Bryant,318
+Marion,6W American Legion Post Home,Recorder of Deeds,,REP,Staci Bryant,345
+Marion,Miller - Clover Road Christian Church,Recorder of Deeds,,REP,Staci Bryant,221
+Marion,Liberty - American Legion,Recorder of Deeds,,REP,Staci Bryant,666
+Marion,West Ely - Immanuel Lutheran Church,Recorder of Deeds,,REP,Staci Bryant,90
+Marion,Warren-Monroe City/Tri County Tire,Recorder of Deeds,,REP,Staci Bryant,166
+Marion,Warren-Warren Baptist Church,Recorder of Deeds,,REP,Staci Bryant,79
+Marion,Union - Philadelphia Community Center,Recorder of Deeds,,REP,Staci Bryant,180
+Marion,Round Grove/Emerson - Emmerson Community Center,Recorder of Deeds,,REP,Staci Bryant,130
+Marion,Fabius/Smileyville - Fabius Community Center,Recorder of Deeds,,REP,Staci Bryant,146
+Marion,Fabius/Taylor - Mt. Olivet Church,Recorder of Deeds,,REP,Staci Bryant,117
+Marion,Absentee,Recorder of Deeds,,REP,Staci Bryant,383
+Marion,1st Ward - Hannibal LaGrange University,County Treasurer,,REP,Joelle Fohey,426
+Marion,2W-1P - First Assembly of God,County Treasurer,,REP,Joelle Fohey,141
+Marion,2W-2P - Douglass Community Services,County Treasurer,,REP,Joelle Fohey,127
+Marion,3W Admiral Coontz Recreation Center,County Treasurer,,REP,Joelle Fohey,115
+Marion,4W-2P Admiral Coontz Recreation Center,County Treasurer,,REP,Joelle Fohey,149
+Marion,5W Prince Ave. Baptist Church,County Treasurer,,REP,Joelle Fohey,317
+Marion,6W American Legion Post Home,County Treasurer,,REP,Joelle Fohey,355
+Marion,Miller - Clover Road Christian Church,County Treasurer,,REP,Joelle Fohey,225
+Marion,Liberty - American Legion,County Treasurer,,REP,Joelle Fohey,725
+Marion,West Ely - Immanuel Lutheran Church,County Treasurer,,REP,Joelle Fohey,99
+Marion,Warren-Monroe City/Tri County Tire,County Treasurer,,REP,Joelle Fohey,170
+Marion,Warren-Warren Baptist Church,County Treasurer,,REP,Joelle Fohey,85
+Marion,Union - Philadelphia Community Center,County Treasurer,,REP,Joelle Fohey,187
+Marion,Round Grove/Emerson - Emmerson Community Center,County Treasurer,,REP,Joelle Fohey,136
+Marion,Fabius/Smileyville - Fabius Community Center,County Treasurer,,REP,Joelle Fohey,156
+Marion,Fabius/Taylor - Mt. Olivet Church,County Treasurer,,REP,Joelle Fohey,129
+Marion,Absentee,County Treasurer,,REP,Joelle Fohey,393
+Marion,1st Ward - Hannibal LaGrange University,Prosecuting Attorney,,REP,Luke A. Bryant,434
+Marion,2W-1P - First Assembly of God,Prosecuting Attorney,,REP,Luke A. Bryant,145
+Marion,2W-2P - Douglass Community Services,Prosecuting Attorney,,REP,Luke A. Bryant,130
+Marion,3W Admiral Coontz Recreation Center,Prosecuting Attorney,,REP,Luke A. Bryant,112
+Marion,4W-2P Admiral Coontz Recreation Center,Prosecuting Attorney,,REP,Luke A. Bryant,152
+Marion,5W Prince Ave. Baptist Church,Prosecuting Attorney,,REP,Luke A. Bryant,326
+Marion,6W American Legion Post Home,Prosecuting Attorney,,REP,Luke A. Bryant,356
+Marion,Miller - Clover Road Christian Church,Prosecuting Attorney,,REP,Luke A. Bryant,224
+Marion,Liberty - American Legion,Prosecuting Attorney,,REP,Luke A. Bryant,693
+Marion,West Ely - Immanuel Lutheran Church,Prosecuting Attorney,,REP,Luke A. Bryant,93
+Marion,Warren-Monroe City/Tri County Tire,Prosecuting Attorney,,REP,Luke A. Bryant,166
+Marion,Warren-Warren Baptist Church,Prosecuting Attorney,,REP,Luke A. Bryant,83
+Marion,Union - Philadelphia Community Center,Prosecuting Attorney,,REP,Luke A. Bryant,181
+Marion,Round Grove/Emerson - Emmerson Community Center,Prosecuting Attorney,,REP,Luke A. Bryant,134
+Marion,Fabius/Smileyville - Fabius Community Center,Prosecuting Attorney,,REP,Luke A. Bryant,152
+Marion,Fabius/Taylor - Mt. Olivet Church,Prosecuting Attorney,,REP,Luke A. Bryant,122
+Marion,Absentee,Prosecuting Attorney,,REP,Luke A. Bryant,384
+Marion,1st Ward - Hannibal LaGrange University,Collector of Revenue,,REP,Donna Goodin,449
+Marion,2W-1P - First Assembly of God,Collector of Revenue,,REP,Donna Goodin,149
+Marion,2W-2P - Douglass Community Services,Collector of Revenue,,REP,Donna Goodin,135
+Marion,3W Admiral Coontz Recreation Center,Collector of Revenue,,REP,Donna Goodin,116
+Marion,4W-2P Admiral Coontz Recreation Center,Collector of Revenue,,REP,Donna Goodin,155
+Marion,5W Prince Ave. Baptist Church,Collector of Revenue,,REP,Donna Goodin,320
+Marion,6W American Legion Post Home,Collector of Revenue,,REP,Donna Goodin,358
+Marion,Miller - Clover Road Christian Church,Collector of Revenue,,REP,Donna Goodin,228
+Marion,Liberty - American Legion,Collector of Revenue,,REP,Donna Goodin,683
+Marion,West Ely - Immanuel Lutheran Church,Collector of Revenue,,REP,Donna Goodin,92
+Marion,Warren-Monroe City/Tri County Tire,Collector of Revenue,,REP,Donna Goodin,167
+Marion,Warren-Warren Baptist Church,Collector of Revenue,,REP,Donna Goodin,80
+Marion,Union - Philadelphia Community Center,Collector of Revenue,,REP,Donna Goodin,183
+Marion,Round Grove/Emerson - Emmerson Community Center,Collector of Revenue,,REP,Donna Goodin,139
+Marion,Fabius/Smileyville - Fabius Community Center,Collector of Revenue,,REP,Donna Goodin,154
+Marion,Fabius/Taylor - Mt. Olivet Church,Collector of Revenue,,REP,Donna Goodin,121
+Marion,Absentee,Collector of Revenue,,REP,Donna Goodin,382
+Marion,1st Ward - Hannibal LaGrange University,State Auditor,,DEM,Quentin Wilson,83
+Marion,1st Ward - Hannibal LaGrange University,State Auditor,,DEM,Gregory Upchurch,41
+Marion,2W-1P - First Assembly of God,State Auditor,,DEM,Quentin Wilson,45
+Marion,2W-1P - First Assembly of God,State Auditor,,DEM,Gregory Upchurch,18
+Marion,2W-2P - Douglass Community Services,State Auditor,,DEM,Quentin Wilson,35
+Marion,2W-2P - Douglass Community Services,State Auditor,,DEM,Gregory Upchurch,19
+Marion,3W Admiral Coontz Recreation Center,State Auditor,,DEM,Quentin Wilson,43
+Marion,3W Admiral Coontz Recreation Center,State Auditor,,DEM,Gregory Upchurch,26
+Marion,4W-2P Admiral Coontz Recreation Center,State Auditor,,DEM,Quentin Wilson,27
+Marion,4W-2P Admiral Coontz Recreation Center,State Auditor,,DEM,Gregory Upchurch,22
+Marion,5W Prince Ave. Baptist Church,State Auditor,,DEM,Quentin Wilson,60
+Marion,5W Prince Ave. Baptist Church,State Auditor,,DEM,Gregory Upchurch,43
+Marion,6W American Legion Post Home,State Auditor,,DEM,Quentin Wilson,86
+Marion,6W American Legion Post Home,State Auditor,,DEM,Gregory Upchurch,37
+Marion,Miller - Clover Road Christian Church,State Auditor,,DEM,Quentin Wilson,39
+Marion,Miller - Clover Road Christian Church,State Auditor,,DEM,Gregory Upchurch,13
+Marion,Liberty - American Legion,State Auditor,,DEM,Quentin Wilson,55
+Marion,Liberty - American Legion,State Auditor,,DEM,Gregory Upchurch,33
+Marion,West Ely - Immanuel Lutheran Church,State Auditor,,DEM,Quentin Wilson,4
+Marion,West Ely - Immanuel Lutheran Church,State Auditor,,DEM,Gregory Upchurch,5
+Marion,Warren-Monroe City/Tri County Tire,State Auditor,,DEM,Quentin Wilson,26
+Marion,Warren-Monroe City/Tri County Tire,State Auditor,,DEM,Gregory Upchurch,10
+Marion,Warren-Warren Baptist Church,State Auditor,,DEM,Quentin Wilson,8
+Marion,Warren-Warren Baptist Church,State Auditor,,DEM,Gregory Upchurch,1
+Marion,Union - Philadelphia Community Center,State Auditor,,DEM,Quentin Wilson,11
+Marion,Union - Philadelphia Community Center,State Auditor,,DEM,Gregory Upchurch,1
+Marion,Round Grove/Emerson - Emmerson Community Center,State Auditor,,DEM,Quentin Wilson,8
+Marion,Round Grove/Emerson - Emmerson Community Center,State Auditor,,DEM,Gregory Upchurch,6
+Marion,Fabius/Smileyville - Fabius Community Center,State Auditor,,DEM,Quentin Wilson,2
+Marion,Fabius/Smileyville - Fabius Community Center,State Auditor,,DEM,Gregory Upchurch,1
+Marion,Fabius/Taylor - Mt. Olivet Church,State Auditor,,DEM,Quentin Wilson,8
+Marion,Fabius/Taylor - Mt. Olivet Church,State Auditor,,DEM,Gregory Upchurch,5
+Marion,Absentee,State Auditor,,DEM,Quentin Wilson,103
+Marion,Absentee,State Auditor,,DEM,Gregory Upchurch,53
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,DEM,Josh Smead,53
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,DEM,Scot Pondelick,24
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,DEM,Matt Levine,51
+Marion,2W-1P - First Assembly of God,U.S. House,6,DEM,Josh Smead,32
+Marion,2W-1P - First Assembly of God,U.S. House,6,DEM,Scot Pondelick,13
+Marion,2W-1P - First Assembly of God,U.S. House,6,DEM,Matt Levine,20
+Marion,2W-2P - Douglass Community Services,U.S. House,6,DEM,Josh Smead,22
+Marion,2W-2P - Douglass Community Services,U.S. House,6,DEM,Scot Pondelick,11
+Marion,2W-2P - Douglass Community Services,U.S. House,6,DEM,Matt Levine,21
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,DEM,Josh Smead,32
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,DEM,Scot Pondelick,10
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,DEM,Matt Levine,30
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,DEM,Josh Smead,16
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,DEM,Scot Pondelick,9
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,DEM,Matt Levine,24
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,DEM,Josh Smead,36
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,DEM,Scot Pondelick,33
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,DEM,Matt Levine,36
+Marion,6W American Legion Post Home,U.S. House,6,DEM,Josh Smead,49
+Marion,6W American Legion Post Home,U.S. House,6,DEM,Scot Pondelick,16
+Marion,6W American Legion Post Home,U.S. House,6,DEM,Matt Levine,62
+Marion,Miller - Clover Road Christian Church,U.S. House,6,DEM,Josh Smead,15
+Marion,Miller - Clover Road Christian Church,U.S. House,6,DEM,Scot Pondelick,15
+Marion,Miller - Clover Road Christian Church,U.S. House,6,DEM,Matt Levine,22
+Marion,Liberty - American Legion,U.S. House,6,DEM,Josh Smead,50
+Marion,Liberty - American Legion,U.S. House,6,DEM,Scot Pondelick,12
+Marion,Liberty - American Legion,U.S. House,6,DEM,Matt Levine,28
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,DEM,Josh Smead,5
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,DEM,Scot Pondelick,1
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,DEM,Matt Levine,3
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,DEM,Josh Smead,19
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,DEM,Scot Pondelick,6
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,DEM,Matt Levine,14
+Marion,Warren-Warren Baptist Church,U.S. House,6,DEM,Josh Smead,3
+Marion,Warren-Warren Baptist Church,U.S. House,6,DEM,Scot Pondelick,1
+Marion,Warren-Warren Baptist Church,U.S. House,6,DEM,Matt Levine,5
+Marion,Union - Philadelphia Community Center,U.S. House,6,DEM,Josh Smead,7
+Marion,Union - Philadelphia Community Center,U.S. House,6,DEM,Scot Pondelick,0
+Marion,Union - Philadelphia Community Center,U.S. House,6,DEM,Matt Levine,5
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,DEM,Josh Smead,4
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,DEM,Scot Pondelick,7
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,DEM,Matt Levine,3
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,DEM,Josh Smead,1
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,DEM,Scot Pondelick,0
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,DEM,Matt Levine,1
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,DEM,Josh Smead,5
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,DEM,Scot Pondelick,4
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,DEM,Matt Levine,4
+Marion,Absentee,U.S. House,6,DEM,Josh Smead,94
+Marion,Absentee,U.S. House,6,DEM,Scot Pondelick,21
+Marion,Absentee,U.S. House,6,DEM,Matt Levine,43
+Marion,1st Ward - Hannibal LaGrange University,State Senate,18,DEM,Nick Miller,82
+Marion,1st Ward - Hannibal LaGrange University,State Senate,18,DEM,John Leykamp,45
+Marion,2W-1P - First Assembly of God,State Senate,18,DEM,Nick Miller,49
+Marion,2W-1P - First Assembly of God,State Senate,18,DEM,John Leykamp,15
+Marion,2W-2P - Douglass Community Services,State Senate,18,DEM,Nick Miller,33
+Marion,2W-2P - Douglass Community Services,State Senate,18,DEM,John Leykamp,20
+Marion,3W Admiral Coontz Recreation Center,State Senate,18,DEM,Nick Miller,49
+Marion,3W Admiral Coontz Recreation Center,State Senate,18,DEM,John Leykamp,23
+Marion,4W-2P Admiral Coontz Recreation Center,State Senate,18,DEM,Nick Miller,29
+Marion,4W-2P Admiral Coontz Recreation Center,State Senate,18,DEM,John Leykamp,19
+Marion,5W Prince Ave. Baptist Church,State Senate,18,DEM,Nick Miller,70
+Marion,5W Prince Ave. Baptist Church,State Senate,18,DEM,John Leykamp,32
+Marion,6W American Legion Post Home,State Senate,18,DEM,Nick Miller,85
+Marion,6W American Legion Post Home,State Senate,18,DEM,John Leykamp,39
+Marion,Miller - Clover Road Christian Church,State Senate,18,DEM,Nick Miller,40
+Marion,Miller - Clover Road Christian Church,State Senate,18,DEM,John Leykamp,12
+Marion,Liberty - American Legion,State Senate,18,DEM,Nick Miller,57
+Marion,Liberty - American Legion,State Senate,18,DEM,John Leykamp,32
+Marion,West Ely - Immanuel Lutheran Church,State Senate,18,DEM,Nick Miller,7
+Marion,West Ely - Immanuel Lutheran Church,State Senate,18,DEM,John Leykamp,2
+Marion,Warren-Monroe City/Tri County Tire,State Senate,18,DEM,Nick Miller,23
+Marion,Warren-Monroe City/Tri County Tire,State Senate,18,DEM,John Leykamp,14
+Marion,Warren-Warren Baptist Church,State Senate,18,DEM,Nick Miller,9
+Marion,Warren-Warren Baptist Church,State Senate,18,DEM,John Leykamp,1
+Marion,Union - Philadelphia Community Center,State Senate,18,DEM,Nick Miller,8
+Marion,Union - Philadelphia Community Center,State Senate,18,DEM,John Leykamp,4
+Marion,Round Grove/Emerson - Emmerson Community Center,State Senate,18,DEM,Nick Miller,8
+Marion,Round Grove/Emerson - Emmerson Community Center,State Senate,18,DEM,John Leykamp,6
+Marion,Fabius/Smileyville - Fabius Community Center,State Senate,18,DEM,Nick Miller,2
+Marion,Fabius/Smileyville - Fabius Community Center,State Senate,18,DEM,John Leykamp,1
+Marion,Fabius/Taylor - Mt. Olivet Church,State Senate,18,DEM,Nick Miller,8
+Marion,Fabius/Taylor - Mt. Olivet Church,State Senate,18,DEM,John Leykamp,5
+Marion,Absentee,State Senate,18,DEM,Nick Miller,109
+Marion,Absentee,State Senate,18,DEM,John Leykamp,51
+Marion,1st Ward - Hannibal LaGrange University,State House,5,DEM,John Paul Tomko,126
+Marion,2W-1P - First Assembly of God,State House,5,DEM,John Paul Tomko,64
+Marion,2W-2P - Douglass Community Services,State House,5,DEM,John Paul Tomko,52
+Marion,3W Admiral Coontz Recreation Center,State House,5,DEM,John Paul Tomko,66
+Marion,4W-2P Admiral Coontz Recreation Center,State House,5,DEM,John Paul Tomko,45
+Marion,5W Prince Ave. Baptist Church,State House,5,DEM,John Paul Tomko,97
+Marion,6W American Legion Post Home,State House,5,DEM,John Paul Tomko,113
+Marion,Miller - Clover Road Christian Church,State House,5,DEM,John Paul Tomko,51
+Marion,Liberty - American Legion,State House,5,DEM,John Paul Tomko,87
+Marion,West Ely - Immanuel Lutheran Church,State House,5,DEM,John Paul Tomko,9
+Marion,Warren-Monroe City/Tri County Tire,State House,5,DEM,John Paul Tomko,37
+Marion,Warren-Warren Baptist Church,State House,5,DEM,John Paul Tomko,8
+Marion,Union - Philadelphia Community Center,State House,5,DEM,John Paul Tomko,11
+Marion,Round Grove/Emerson - Emmerson Community Center,State House,5,DEM,John Paul Tomko,14
+Marion,Fabius/Smileyville - Fabius Community Center,State House,5,DEM,John Paul Tomko,2
+Marion,Fabius/Taylor - Mt. Olivet Church,State House,5,DEM,John Paul Tomko,12
+Marion,Absentee,State House,5,DEM,John Paul Tomko,162
+Marion,1st Ward - Hannibal LaGrange University,Collector of Revenue,,DEM,Teya Stice,123
+Marion,2W-1P - First Assembly of God,Collector of Revenue,,DEM,Teya Stice,68
+Marion,2W-2P - Douglass Community Services,Collector of Revenue,,DEM,Teya Stice,55
+Marion,3W Admiral Coontz Recreation Center,Collector of Revenue,,DEM,Teya Stice,69
+Marion,4W-2P Admiral Coontz Recreation Center,Collector of Revenue,,DEM,Teya Stice,46
+Marion,5W Prince Ave. Baptist Church,Collector of Revenue,,DEM,Teya Stice,102
+Marion,6W American Legion Post Home,Collector of Revenue,,DEM,Teya Stice,120
+Marion,Miller - Clover Road Christian Church,Collector of Revenue,,DEM,Teya Stice,51
+Marion,Liberty - American Legion,Collector of Revenue,,DEM,Teya Stice,95
+Marion,West Ely - Immanuel Lutheran Church,Collector of Revenue,,DEM,Teya Stice,9
+Marion,Warren-Monroe City/Tri County Tire,Collector of Revenue,,DEM,Teya Stice,38
+Marion,Warren-Warren Baptist Church,Collector of Revenue,,DEM,Teya Stice,10
+Marion,Union - Philadelphia Community Center,Collector of Revenue,,DEM,Teya Stice,11
+Marion,Round Grove/Emerson - Emmerson Community Center,Collector of Revenue,,DEM,Teya Stice,15
+Marion,Fabius/Smileyville - Fabius Community Center,Collector of Revenue,,DEM,Teya Stice,2
+Marion,Fabius/Taylor - Mt. Olivet Church,Collector of Revenue,,DEM,Teya Stice,12
+Marion,Absentee,Collector of Revenue,,DEM,Teya Stice,163
+Marion,1st Ward - Hannibal LaGrange University,State Auditor,,LIB,Dustin Coffell,0
+Marion,2W-1P - First Assembly of God,State Auditor,,LIB,Dustin Coffell,1
+Marion,2W-2P - Douglass Community Services,State Auditor,,LIB,Dustin Coffell,1
+Marion,3W Admiral Coontz Recreation Center,State Auditor,,LIB,Dustin Coffell,1
+Marion,4W-2P Admiral Coontz Recreation Center,State Auditor,,LIB,Dustin Coffell,0
+Marion,5W Prince Ave. Baptist Church,State Auditor,,LIB,Dustin Coffell,1
+Marion,6W American Legion Post Home,State Auditor,,LIB,Dustin Coffell,3
+Marion,Miller - Clover Road Christian Church,State Auditor,,LIB,Dustin Coffell,1
+Marion,Liberty - American Legion,State Auditor,,LIB,Dustin Coffell,5
+Marion,West Ely - Immanuel Lutheran Church,State Auditor,,LIB,Dustin Coffell,0
+Marion,Warren-Monroe City/Tri County Tire,State Auditor,,LIB,Dustin Coffell,1
+Marion,Warren-Warren Baptist Church,State Auditor,,LIB,Dustin Coffell,0
+Marion,Union - Philadelphia Community Center,State Auditor,,LIB,Dustin Coffell,0
+Marion,Round Grove/Emerson - Emmerson Community Center,State Auditor,,LIB,Dustin Coffell,0
+Marion,Fabius/Smileyville - Fabius Community Center,State Auditor,,LIB,Dustin Coffell,0
+Marion,Fabius/Taylor - Mt. Olivet Church,State Auditor,,LIB,Dustin Coffell,1
+Marion,Absentee,State Auditor,,LIB,Dustin Coffell,1
+Marion,1st Ward - Hannibal LaGrange University,U.S. House,6,LIB,Andy Maidment,0
+Marion,2W-1P - First Assembly of God,U.S. House,6,LIB,Andy Maidment,1
+Marion,2W-2P - Douglass Community Services,U.S. House,6,LIB,Andy Maidment,1
+Marion,3W Admiral Coontz Recreation Center,U.S. House,6,LIB,Andy Maidment,1
+Marion,4W-2P Admiral Coontz Recreation Center,U.S. House,6,LIB,Andy Maidment,0
+Marion,5W Prince Ave. Baptist Church,U.S. House,6,LIB,Andy Maidment,1
+Marion,6W American Legion Post Home,U.S. House,6,LIB,Andy Maidment,3
+Marion,Miller - Clover Road Christian Church,U.S. House,6,LIB,Andy Maidment,1
+Marion,Liberty - American Legion,U.S. House,6,LIB,Andy Maidment,5
+Marion,West Ely - Immanuel Lutheran Church,U.S. House,6,LIB,Andy Maidment,0
+Marion,Warren-Monroe City/Tri County Tire,U.S. House,6,LIB,Andy Maidment,1
+Marion,Warren-Warren Baptist Church,U.S. House,6,LIB,Andy Maidment,0
+Marion,Union - Philadelphia Community Center,U.S. House,6,LIB,Andy Maidment,0
+Marion,Round Grove/Emerson - Emmerson Community Center,U.S. House,6,LIB,Andy Maidment,0
+Marion,Fabius/Smileyville - Fabius Community Center,U.S. House,6,LIB,Andy Maidment,0
+Marion,Fabius/Taylor - Mt. Olivet Church,U.S. House,6,LIB,Andy Maidment,1
+Marion,Absentee,U.S. House,6,LIB,Andy Maidment,1
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 1,,,Yes,580
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 1,,,No,130
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 1,,,Yes,233
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 1,,,No,40
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 1,,,Yes,185
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 1,,,No,45
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 1,,,Yes,181
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 1,,,No,61
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 1,,,Yes,178
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 1,,,No,64
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 1,,,Yes,397
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 1,,,No,132
+Marion,6W American Legion Post Home,Constitutional Amendment 1,,,Yes,486
+Marion,6W American Legion Post Home,Constitutional Amendment 1,,,No,118
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 1,,,Yes,273
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 1,,,No,85
+Marion,Liberty - American Legion,Constitutional Amendment 1,,,Yes,788
+Marion,Liberty - American Legion,Constitutional Amendment 1,,,No,181
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 1,,,Yes,112
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 1,,,No,19
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 1,,,Yes,214
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 1,,,No,48
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 1,,,Yes,93
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 1,,,No,19
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 1,,,Yes,181
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 1,,,No,54
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 1,,,Yes,140
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 1,,,No,51
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 1,,,Yes,151
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 1,,,No,34
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 1,,,Yes,144
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 1,,,No,27
+Marion,Absentee,Constitutional Amendment 1,,,Yes,559
+Marion,Absentee,Constitutional Amendment 1,,,No,134
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 2,,,Yes,563
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 2,,,No,142
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 2,,,Yes,209
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 2,,,No,54
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 2,,,Yes,177
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 2,,,No,51
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 2,,,Yes,182
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 2,,,No,58
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 2,,,Yes,164
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 2,,,No,74
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 2,,,Yes,400
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 2,,,No,116
+Marion,6W American Legion Post Home,Constitutional Amendment 2,,,Yes,468
+Marion,6W American Legion Post Home,Constitutional Amendment 2,,,No,128
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 2,,,Yes,276
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 2,,,No,79
+Marion,Liberty - American Legion,Constitutional Amendment 2,,,Yes,732
+Marion,Liberty - American Legion,Constitutional Amendment 2,,,No,201
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 2,,,Yes,108
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 2,,,No,21
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 2,,,Yes,210
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 2,,,No,52
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 2,,,Yes,92
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 2,,,No,18
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 2,,,Yes,165
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 2,,,No,64
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 2,,,Yes,145
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 2,,,No,40
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 2,,,Yes,141
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 2,,,No,40
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 2,,,Yes,127
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 2,,,No,35
+Marion,Absentee,Constitutional Amendment 2,,,Yes,526
+Marion,Absentee,Constitutional Amendment 2,,,No,146
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 4,,,Yes,224
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 4,,,No,493
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 4,,,Yes,70
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 4,,,No,203
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 4,,,Yes,60
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 4,,,No,170
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 4,,,Yes,63
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 4,,,No,181
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 4,,,Yes,67
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 4,,,No,172
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 4,,,Yes,149
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 4,,,No,383
+Marion,6W American Legion Post Home,Constitutional Amendment 4,,,Yes,155
+Marion,6W American Legion Post Home,Constitutional Amendment 4,,,No,452
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 4,,,Yes,105
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 4,,,No,257
+Marion,Liberty - American Legion,Constitutional Amendment 4,,,Yes,301
+Marion,Liberty - American Legion,Constitutional Amendment 4,,,No,669
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 4,,,Yes,44
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 4,,,No,86
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 4,,,Yes,108
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 4,,,No,155
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 4,,,Yes,49
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 4,,,No,64
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 4,,,Yes,73
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 4,,,No,162
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 4,,,Yes,73
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 4,,,No,117
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 4,,,Yes,44
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 4,,,No,138
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 4,,,Yes,82
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 4,,,No,85
+Marion,Absentee,Constitutional Amendment 4,,,Yes,191
+Marion,Absentee,Constitutional Amendment 4,,,No,499
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 5,,,Yes,143
+Marion,1st Ward - Hannibal LaGrange University,Constitutional Amendment 5,,,No,572
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 5,,,Yes,51
+Marion,2W-1P - First Assembly of God,Constitutional Amendment 5,,,No,224
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 5,,,Yes,32
+Marion,2W-2P - Douglass Community Services,Constitutional Amendment 5,,,No,194
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 5,,,Yes,27
+Marion,3W Admiral Coontz Recreation Center,Constitutional Amendment 5,,,No,216
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 5,,,Yes,41
+Marion,4W-2P Admiral Coontz Recreation Center,Constitutional Amendment 5,,,No,198
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 5,,,Yes,95
+Marion,5W Prince Ave. Baptist Church,Constitutional Amendment 5,,,No,433
+Marion,6W American Legion Post Home,Constitutional Amendment 5,,,Yes,89
+Marion,6W American Legion Post Home,Constitutional Amendment 5,,,No,518
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 5,,,Yes,59
+Marion,Miller - Clover Road Christian Church,Constitutional Amendment 5,,,No,303
+Marion,Liberty - American Legion,Constitutional Amendment 5,,,Yes,164
+Marion,Liberty - American Legion,Constitutional Amendment 5,,,No,806
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 5,,,Yes,21
+Marion,West Ely - Immanuel Lutheran Church,Constitutional Amendment 5,,,No,111
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 5,,,Yes,39
+Marion,Warren-Monroe City/Tri County Tire,Constitutional Amendment 5,,,No,221
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 5,,,Yes,12
+Marion,Warren-Warren Baptist Church,Constitutional Amendment 5,,,No,100
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 5,,,Yes,26
+Marion,Union - Philadelphia Community Center,Constitutional Amendment 5,,,No,209
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 5,,,Yes,45
+Marion,Round Grove/Emerson - Emmerson Community Center,Constitutional Amendment 5,,,No,147
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 5,,,Yes,33
+Marion,Fabius/Smileyville - Fabius Community Center,Constitutional Amendment 5,,,No,151
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 5,,,Yes,30
+Marion,Fabius/Taylor - Mt. Olivet Church,Constitutional Amendment 5,,,No,140
+Marion,Absentee,Constitutional Amendment 5,,,Yes,104
+Marion,Absentee,Constitutional Amendment 5,,,No,589
+Marion,1st Ward - Hannibal LaGrange University,Proposition: Hannibal School,,,Yes,350
+Marion,1st Ward - Hannibal LaGrange University,Proposition: Hannibal School,,,No,363
+Marion,2W-1P - First Assembly of God,Proposition: Hannibal School,,,Yes,152
+Marion,2W-1P - First Assembly of God,Proposition: Hannibal School,,,No,121
+Marion,2W-2P - Douglass Community Services,Proposition: Hannibal School,,,Yes,106
+Marion,2W-2P - Douglass Community Services,Proposition: Hannibal School,,,No,120
+Marion,3W Admiral Coontz Recreation Center,Proposition: Hannibal School,,,Yes,102
+Marion,3W Admiral Coontz Recreation Center,Proposition: Hannibal School,,,No,138
+Marion,4W-2P Admiral Coontz Recreation Center,Proposition: Hannibal School,,,Yes,79
+Marion,4W-2P Admiral Coontz Recreation Center,Proposition: Hannibal School,,,No,161
+Marion,5W Prince Ave. Baptist Church,Proposition: Hannibal School,,,Yes,229
+Marion,5W Prince Ave. Baptist Church,Proposition: Hannibal School,,,No,298
+Marion,6W American Legion Post Home,Proposition: Hannibal School,,,Yes,284
+Marion,6W American Legion Post Home,Proposition: Hannibal School,,,No,324
+Marion,Absentee,Proposition: Hannibal School,,,Yes,233
+Marion,Absentee,Proposition: Hannibal School,,,No,196
+Marion,Miller - Clover Road Christian Church,Proposition: Hannibal School,,,Yes,0
+Marion,Miller - Clover Road Christian Church,Proposition: Hannibal School,,,No,0
+Marion,Liberty - American Legion,Proposition: Hannibal School,,,Yes,0
+Marion,Liberty - American Legion,Proposition: Hannibal School,,,No,0

@@ -1,0 +1,969 @@
+county,precinct,office,district,party,candidate,votes
+Nodaway,Atchison,State Auditor,,REP,Scott Fitzpatrick,61
+Nodaway,Atchison,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),13
+Nodaway,Grant,State Auditor,,REP,Scott Fitzpatrick,102
+Nodaway,Grant,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),25
+Nodaway,Green,State Auditor,,REP,Scott Fitzpatrick,35
+Nodaway,Green,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),6
+Nodaway,Hopkins,State Auditor,,REP,Scott Fitzpatrick,92
+Nodaway,Hopkins,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),12
+Nodaway,Hughes,State Auditor,,REP,Scott Fitzpatrick,93
+Nodaway,Hughes,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),14
+Nodaway,Independence,State Auditor,,REP,Scott Fitzpatrick,37
+Nodaway,Independence,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),7
+Nodaway,Jackson,State Auditor,,REP,Scott Fitzpatrick,170
+Nodaway,Jackson,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),24
+Nodaway,Jefferson,State Auditor,,REP,Scott Fitzpatrick,127
+Nodaway,Jefferson,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),19
+Nodaway,Lincoln,State Auditor,,REP,Scott Fitzpatrick,55
+Nodaway,Lincoln,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),5
+Nodaway,Monroe,State Auditor,,REP,Scott Fitzpatrick,80
+Nodaway,Monroe,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),12
+Nodaway,Nodaway,State Auditor,,REP,Scott Fitzpatrick,106
+Nodaway,Nodaway,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),13
+Nodaway,Polk A/Polk D,State Auditor,,REP,Scott Fitzpatrick,625
+Nodaway,Polk A/Polk D,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),109
+Nodaway,Polk E,State Auditor,,REP,Scott Fitzpatrick,271
+Nodaway,Polk E,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),46
+Nodaway,Polk B/C,State Auditor,,REP,Scott Fitzpatrick,473
+Nodaway,Polk B/C,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),89
+Nodaway,Union,State Auditor,,REP,Scott Fitzpatrick,80
+Nodaway,Union,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),13
+Nodaway,Washington,State Auditor,,REP,Scott Fitzpatrick,65
+Nodaway,Washington,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),10
+Nodaway,White Cloud,State Auditor,,REP,Scott Fitzpatrick,110
+Nodaway,White Cloud,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),12
+Nodaway,Absentee,State Auditor,,REP,Scott Fitzpatrick,301
+Nodaway,Absentee,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),40
+Nodaway,Central Poll,State Auditor,,REP,Scott Fitzpatrick,18
+Nodaway,Central Poll,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),0
+Nodaway,Provisional,State Auditor,,REP,Scott Fitzpatrick,4
+Nodaway,Provisional,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),2
+Nodaway,Federal,State Auditor,,REP,Scott Fitzpatrick,0
+Nodaway,Federal,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),0
+Nodaway,Cumulative,State Auditor,,REP,Scott Fitzpatrick,0
+Nodaway,Cumulative,State Auditor,,REP,Gerald Wistrand Jr. (Jerry),0
+Nodaway,Atchison,State Auditor,,DEM,Quentin Wilson,5
+Nodaway,Atchison,State Auditor,,DEM,Gregory Upchurch,4
+Nodaway,Grant,State Auditor,,DEM,Quentin Wilson,18
+Nodaway,Grant,State Auditor,,DEM,Gregory Upchurch,14
+Nodaway,Green,State Auditor,,DEM,Quentin Wilson,8
+Nodaway,Green,State Auditor,,DEM,Gregory Upchurch,0
+Nodaway,Hopkins,State Auditor,,DEM,Quentin Wilson,11
+Nodaway,Hopkins,State Auditor,,DEM,Gregory Upchurch,2
+Nodaway,Hughes,State Auditor,,DEM,Quentin Wilson,7
+Nodaway,Hughes,State Auditor,,DEM,Gregory Upchurch,1
+Nodaway,Independence,State Auditor,,DEM,Quentin Wilson,5
+Nodaway,Independence,State Auditor,,DEM,Gregory Upchurch,3
+Nodaway,Jackson,State Auditor,,DEM,Quentin Wilson,14
+Nodaway,Jackson,State Auditor,,DEM,Gregory Upchurch,8
+Nodaway,Jefferson,State Auditor,,DEM,Quentin Wilson,15
+Nodaway,Jefferson,State Auditor,,DEM,Gregory Upchurch,11
+Nodaway,Lincoln,State Auditor,,DEM,Quentin Wilson,5
+Nodaway,Lincoln,State Auditor,,DEM,Gregory Upchurch,5
+Nodaway,Monroe,State Auditor,,DEM,Quentin Wilson,9
+Nodaway,Monroe,State Auditor,,DEM,Gregory Upchurch,2
+Nodaway,Nodaway,State Auditor,,DEM,Quentin Wilson,13
+Nodaway,Nodaway,State Auditor,,DEM,Gregory Upchurch,13
+Nodaway,Polk A/Polk D,State Auditor,,DEM,Quentin Wilson,145
+Nodaway,Polk A/Polk D,State Auditor,,DEM,Gregory Upchurch,52
+Nodaway,Polk E,State Auditor,,DEM,Quentin Wilson,42
+Nodaway,Polk E,State Auditor,,DEM,Gregory Upchurch,27
+Nodaway,Polk B/C,State Auditor,,DEM,Quentin Wilson,189
+Nodaway,Polk B/C,State Auditor,,DEM,Gregory Upchurch,50
+Nodaway,Union,State Auditor,,DEM,Quentin Wilson,9
+Nodaway,Union,State Auditor,,DEM,Gregory Upchurch,4
+Nodaway,Washington,State Auditor,,DEM,Quentin Wilson,10
+Nodaway,Washington,State Auditor,,DEM,Gregory Upchurch,1
+Nodaway,White Cloud,State Auditor,,DEM,Quentin Wilson,11
+Nodaway,White Cloud,State Auditor,,DEM,Gregory Upchurch,3
+Nodaway,Absentee,State Auditor,,DEM,Quentin Wilson,122
+Nodaway,Absentee,State Auditor,,DEM,Gregory Upchurch,51
+Nodaway,Central Poll,State Auditor,,DEM,Quentin Wilson,5
+Nodaway,Central Poll,State Auditor,,DEM,Gregory Upchurch,2
+Nodaway,Provisional,State Auditor,,DEM,Quentin Wilson,0
+Nodaway,Provisional,State Auditor,,DEM,Gregory Upchurch,0
+Nodaway,Federal,State Auditor,,DEM,Quentin Wilson,0
+Nodaway,Federal,State Auditor,,DEM,Gregory Upchurch,0
+Nodaway,Cumulative,State Auditor,,DEM,Quentin Wilson,0
+Nodaway,Cumulative,State Auditor,,DEM,Gregory Upchurch,0
+Nodaway,Atchison,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Atchison,State Auditor,,LIB,Write-Ins,0
+Nodaway,Grant,State Auditor,,LIB,Dustin Coffell,1
+Nodaway,Grant,State Auditor,,LIB,Write-Ins,0
+Nodaway,Green,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Green,State Auditor,,LIB,Write-Ins,0
+Nodaway,Hopkins,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Hopkins,State Auditor,,LIB,Write-Ins,0
+Nodaway,Hughes,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Hughes,State Auditor,,LIB,Write-Ins,0
+Nodaway,Independence,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Independence,State Auditor,,LIB,Write-Ins,0
+Nodaway,Jackson,State Auditor,,LIB,Dustin Coffell,2
+Nodaway,Jackson,State Auditor,,LIB,Write-Ins,0
+Nodaway,Jefferson,State Auditor,,LIB,Dustin Coffell,1
+Nodaway,Jefferson,State Auditor,,LIB,Write-Ins,0
+Nodaway,Lincoln,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Lincoln,State Auditor,,LIB,Write-Ins,0
+Nodaway,Monroe,State Auditor,,LIB,Dustin Coffell,2
+Nodaway,Monroe,State Auditor,,LIB,Write-Ins,0
+Nodaway,Nodaway,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Nodaway,State Auditor,,LIB,Write-Ins,0
+Nodaway,Polk A/Polk D,State Auditor,,LIB,Dustin Coffell,5
+Nodaway,Polk A/Polk D,State Auditor,,LIB,Write-Ins,0
+Nodaway,Polk E,State Auditor,,LIB,Dustin Coffell,2
+Nodaway,Polk E,State Auditor,,LIB,Write-Ins,0
+Nodaway,Polk B/C,State Auditor,,LIB,Dustin Coffell,1
+Nodaway,Polk B/C,State Auditor,,LIB,Write-Ins,0
+Nodaway,Union,State Auditor,,LIB,Dustin Coffell,1
+Nodaway,Union,State Auditor,,LIB,Write-Ins,0
+Nodaway,Washington,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Washington,State Auditor,,LIB,Write-Ins,0
+Nodaway,White Cloud,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,White Cloud,State Auditor,,LIB,Write-Ins,0
+Nodaway,Absentee,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Absentee,State Auditor,,LIB,Write-Ins,0
+Nodaway,Central Poll,State Auditor,,LIB,Dustin Coffell,1
+Nodaway,Central Poll,State Auditor,,LIB,Write-Ins,0
+Nodaway,Provisional,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Provisional,State Auditor,,LIB,Write-Ins,0
+Nodaway,Federal,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Federal,State Auditor,,LIB,Write-Ins,0
+Nodaway,Cumulative,State Auditor,,LIB,Dustin Coffell,0
+Nodaway,Cumulative,State Auditor,,LIB,Write-Ins,0
+Nodaway,Atchison,U.S. House,6,REP,Jim Ingram,12
+Nodaway,Atchison,U.S. House,6,REP,Chris Stigall,37
+Nodaway,Grant,U.S. House,6,REP,Jim Ingram,6
+Nodaway,Grant,U.S. House,6,REP,Chris Stigall,62
+Nodaway,Green,U.S. House,6,REP,Jim Ingram,2
+Nodaway,Green,U.S. House,6,REP,Chris Stigall,23
+Nodaway,Hopkins,U.S. House,6,REP,Jim Ingram,11
+Nodaway,Hopkins,U.S. House,6,REP,Chris Stigall,53
+Nodaway,Hughes,U.S. House,6,REP,Jim Ingram,12
+Nodaway,Hughes,U.S. House,6,REP,Chris Stigall,44
+Nodaway,Independence,U.S. House,6,REP,Jim Ingram,3
+Nodaway,Independence,U.S. House,6,REP,Chris Stigall,14
+Nodaway,Jackson,U.S. House,6,REP,Jim Ingram,10
+Nodaway,Jackson,U.S. House,6,REP,Chris Stigall,98
+Nodaway,Jefferson,U.S. House,6,REP,Jim Ingram,13
+Nodaway,Jefferson,U.S. House,6,REP,Chris Stigall,85
+Nodaway,Lincoln,U.S. House,6,REP,Jim Ingram,5
+Nodaway,Lincoln,U.S. House,6,REP,Chris Stigall,38
+Nodaway,Monroe,U.S. House,6,REP,Jim Ingram,12
+Nodaway,Monroe,U.S. House,6,REP,Chris Stigall,44
+Nodaway,Nodaway,U.S. House,6,REP,Jim Ingram,16
+Nodaway,Nodaway,U.S. House,6,REP,Chris Stigall,74
+Nodaway,Polk A/Polk D,U.S. House,6,REP,Jim Ingram,63
+Nodaway,Polk A/Polk D,U.S. House,6,REP,Chris Stigall,391
+Nodaway,Polk E,U.S. House,6,REP,Jim Ingram,12
+Nodaway,Polk E,U.S. House,6,REP,Chris Stigall,132
+Nodaway,Polk B/C,U.S. House,6,REP,Jim Ingram,46
+Nodaway,Polk B/C,U.S. House,6,REP,Chris Stigall,288
+Nodaway,Union,U.S. House,6,REP,Jim Ingram,11
+Nodaway,Union,U.S. House,6,REP,Chris Stigall,44
+Nodaway,Washington,U.S. House,6,REP,Jim Ingram,4
+Nodaway,Washington,U.S. House,6,REP,Chris Stigall,46
+Nodaway,White Cloud,U.S. House,6,REP,Jim Ingram,5
+Nodaway,White Cloud,U.S. House,6,REP,Chris Stigall,47
+Nodaway,Absentee,U.S. House,6,REP,Jim Ingram,23
+Nodaway,Absentee,U.S. House,6,REP,Chris Stigall,166
+Nodaway,Central Poll,U.S. House,6,REP,Jim Ingram,2
+Nodaway,Central Poll,U.S. House,6,REP,Chris Stigall,10
+Nodaway,Provisional,U.S. House,6,REP,Jim Ingram,0
+Nodaway,Provisional,U.S. House,6,REP,Chris Stigall,3
+Nodaway,Federal,U.S. House,6,REP,Jim Ingram,0
+Nodaway,Federal,U.S. House,6,REP,Chris Stigall,0
+Nodaway,Cumulative,U.S. House,6,REP,Jim Ingram,0
+Nodaway,Cumulative,U.S. House,6,REP,Chris Stigall,0
+Nodaway,Atchison,U.S. House,6,REP,Nathan Hall Willett,22
+Nodaway,Atchison,U.S. House,6,REP,Cody J. Oshel,1
+Nodaway,Atchison,U.S. House,6,REP,Nathanael Schultz,7
+Nodaway,Atchison,U.S. House,6,REP,Write-Ins,0
+Nodaway,Grant,U.S. House,6,REP,Nathan Hall Willett,39
+Nodaway,Grant,U.S. House,6,REP,Cody J. Oshel,8
+Nodaway,Grant,U.S. House,6,REP,Nathanael Schultz,18
+Nodaway,Grant,U.S. House,6,REP,Write-Ins,0
+Nodaway,Green,U.S. House,6,REP,Nathan Hall Willett,18
+Nodaway,Green,U.S. House,6,REP,Cody J. Oshel,1
+Nodaway,Green,U.S. House,6,REP,Nathanael Schultz,2
+Nodaway,Green,U.S. House,6,REP,Write-Ins,0
+Nodaway,Hopkins,U.S. House,6,REP,Nathan Hall Willett,33
+Nodaway,Hopkins,U.S. House,6,REP,Cody J. Oshel,5
+Nodaway,Hopkins,U.S. House,6,REP,Nathanael Schultz,5
+Nodaway,Hopkins,U.S. House,6,REP,Write-Ins,0
+Nodaway,Hughes,U.S. House,6,REP,Nathan Hall Willett,48
+Nodaway,Hughes,U.S. House,6,REP,Cody J. Oshel,4
+Nodaway,Hughes,U.S. House,6,REP,Nathanael Schultz,6
+Nodaway,Hughes,U.S. House,6,REP,Write-Ins,0
+Nodaway,Independence,U.S. House,6,REP,Nathan Hall Willett,25
+Nodaway,Independence,U.S. House,6,REP,Cody J. Oshel,1
+Nodaway,Independence,U.S. House,6,REP,Nathanael Schultz,5
+Nodaway,Independence,U.S. House,6,REP,Write-Ins,0
+Nodaway,Jackson,U.S. House,6,REP,Nathan Hall Willett,92
+Nodaway,Jackson,U.S. House,6,REP,Cody J. Oshel,3
+Nodaway,Jackson,U.S. House,6,REP,Nathanael Schultz,9
+Nodaway,Jackson,U.S. House,6,REP,Write-Ins,0
+Nodaway,Jefferson,U.S. House,6,REP,Nathan Hall Willett,50
+Nodaway,Jefferson,U.S. House,6,REP,Cody J. Oshel,5
+Nodaway,Jefferson,U.S. House,6,REP,Nathanael Schultz,12
+Nodaway,Jefferson,U.S. House,6,REP,Write-Ins,0
+Nodaway,Lincoln,U.S. House,6,REP,Nathan Hall Willett,16
+Nodaway,Lincoln,U.S. House,6,REP,Cody J. Oshel,0
+Nodaway,Lincoln,U.S. House,6,REP,Nathanael Schultz,3
+Nodaway,Lincoln,U.S. House,6,REP,Write-Ins,0
+Nodaway,Monroe,U.S. House,6,REP,Nathan Hall Willett,33
+Nodaway,Monroe,U.S. House,6,REP,Cody J. Oshel,3
+Nodaway,Monroe,U.S. House,6,REP,Nathanael Schultz,10
+Nodaway,Monroe,U.S. House,6,REP,Write-Ins,0
+Nodaway,Nodaway,U.S. House,6,REP,Nathan Hall Willett,41
+Nodaway,Nodaway,U.S. House,6,REP,Cody J. Oshel,2
+Nodaway,Nodaway,U.S. House,6,REP,Nathanael Schultz,6
+Nodaway,Nodaway,U.S. House,6,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,U.S. House,6,REP,Nathan Hall Willett,267
+Nodaway,Polk A/Polk D,U.S. House,6,REP,Cody J. Oshel,34
+Nodaway,Polk A/Polk D,U.S. House,6,REP,Nathanael Schultz,60
+Nodaway,Polk A/Polk D,U.S. House,6,REP,Write-Ins,0
+Nodaway,Polk E,U.S. House,6,REP,Nathan Hall Willett,198
+Nodaway,Polk E,U.S. House,6,REP,Cody J. Oshel,10
+Nodaway,Polk E,U.S. House,6,REP,Nathanael Schultz,14
+Nodaway,Polk E,U.S. House,6,REP,Write-Ins,0
+Nodaway,Polk B/C,U.S. House,6,REP,Nathan Hall Willett,222
+Nodaway,Polk B/C,U.S. House,6,REP,Cody J. Oshel,37
+Nodaway,Polk B/C,U.S. House,6,REP,Nathanael Schultz,38
+Nodaway,Polk B/C,U.S. House,6,REP,Write-Ins,0
+Nodaway,Union,U.S. House,6,REP,Nathan Hall Willett,32
+Nodaway,Union,U.S. House,6,REP,Cody J. Oshel,4
+Nodaway,Union,U.S. House,6,REP,Nathanael Schultz,9
+Nodaway,Union,U.S. House,6,REP,Write-Ins,0
+Nodaway,Washington,U.S. House,6,REP,Nathan Hall Willett,22
+Nodaway,Washington,U.S. House,6,REP,Cody J. Oshel,0
+Nodaway,Washington,U.S. House,6,REP,Nathanael Schultz,4
+Nodaway,Washington,U.S. House,6,REP,Write-Ins,0
+Nodaway,White Cloud,U.S. House,6,REP,Nathan Hall Willett,58
+Nodaway,White Cloud,U.S. House,6,REP,Cody J. Oshel,5
+Nodaway,White Cloud,U.S. House,6,REP,Nathanael Schultz,12
+Nodaway,White Cloud,U.S. House,6,REP,Write-Ins,0
+Nodaway,Absentee,U.S. House,6,REP,Nathan Hall Willett,143
+Nodaway,Absentee,U.S. House,6,REP,Cody J. Oshel,30
+Nodaway,Absentee,U.S. House,6,REP,Nathanael Schultz,17
+Nodaway,Absentee,U.S. House,6,REP,Write-Ins,0
+Nodaway,Central Poll,U.S. House,6,REP,Nathan Hall Willett,6
+Nodaway,Central Poll,U.S. House,6,REP,Cody J. Oshel,1
+Nodaway,Central Poll,U.S. House,6,REP,Nathanael Schultz,2
+Nodaway,Central Poll,U.S. House,6,REP,Write-Ins,0
+Nodaway,Provisional,U.S. House,6,REP,Nathan Hall Willett,2
+Nodaway,Provisional,U.S. House,6,REP,Cody J. Oshel,0
+Nodaway,Provisional,U.S. House,6,REP,Nathanael Schultz,1
+Nodaway,Provisional,U.S. House,6,REP,Write-Ins,0
+Nodaway,Federal,U.S. House,6,REP,Nathan Hall Willett,0
+Nodaway,Federal,U.S. House,6,REP,Cody J. Oshel,0
+Nodaway,Federal,U.S. House,6,REP,Nathanael Schultz,0
+Nodaway,Federal,U.S. House,6,REP,Write-Ins,0
+Nodaway,Cumulative,U.S. House,6,REP,Nathan Hall Willett,0
+Nodaway,Cumulative,U.S. House,6,REP,Cody J. Oshel,0
+Nodaway,Cumulative,U.S. House,6,REP,Nathanael Schultz,0
+Nodaway,Cumulative,U.S. House,6,REP,Write-Ins,0
+Nodaway,Atchison,U.S. House,6,DEM,Josh Smead,3
+Nodaway,Atchison,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Grant,U.S. House,6,DEM,Josh Smead,26
+Nodaway,Grant,U.S. House,6,DEM,Scot Pondelick,3
+Nodaway,Green,U.S. House,6,DEM,Josh Smead,6
+Nodaway,Green,U.S. House,6,DEM,Scot Pondelick,2
+Nodaway,Hopkins,U.S. House,6,DEM,Josh Smead,8
+Nodaway,Hopkins,U.S. House,6,DEM,Scot Pondelick,1
+Nodaway,Hughes,U.S. House,6,DEM,Josh Smead,4
+Nodaway,Hughes,U.S. House,6,DEM,Scot Pondelick,2
+Nodaway,Independence,U.S. House,6,DEM,Josh Smead,4
+Nodaway,Independence,U.S. House,6,DEM,Scot Pondelick,2
+Nodaway,Jackson,U.S. House,6,DEM,Josh Smead,12
+Nodaway,Jackson,U.S. House,6,DEM,Scot Pondelick,4
+Nodaway,Jefferson,U.S. House,6,DEM,Josh Smead,10
+Nodaway,Jefferson,U.S. House,6,DEM,Scot Pondelick,7
+Nodaway,Lincoln,U.S. House,6,DEM,Josh Smead,7
+Nodaway,Lincoln,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Monroe,U.S. House,6,DEM,Josh Smead,6
+Nodaway,Monroe,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Nodaway,U.S. House,6,DEM,Josh Smead,16
+Nodaway,Nodaway,U.S. House,6,DEM,Scot Pondelick,5
+Nodaway,Polk A/Polk D,U.S. House,6,DEM,Josh Smead,123
+Nodaway,Polk A/Polk D,U.S. House,6,DEM,Scot Pondelick,30
+Nodaway,Polk E,U.S. House,6,DEM,Josh Smead,44
+Nodaway,Polk E,U.S. House,6,DEM,Scot Pondelick,11
+Nodaway,Polk B/C,U.S. House,6,DEM,Josh Smead,150
+Nodaway,Polk B/C,U.S. House,6,DEM,Scot Pondelick,44
+Nodaway,Union,U.S. House,6,DEM,Josh Smead,9
+Nodaway,Union,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Washington,U.S. House,6,DEM,Josh Smead,7
+Nodaway,Washington,U.S. House,6,DEM,Scot Pondelick,1
+Nodaway,White Cloud,U.S. House,6,DEM,Josh Smead,7
+Nodaway,White Cloud,U.S. House,6,DEM,Scot Pondelick,2
+Nodaway,Absentee,U.S. House,6,DEM,Josh Smead,125
+Nodaway,Absentee,U.S. House,6,DEM,Scot Pondelick,19
+Nodaway,Central Poll,U.S. House,6,DEM,Josh Smead,3
+Nodaway,Central Poll,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Provisional,U.S. House,6,DEM,Josh Smead,0
+Nodaway,Provisional,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Federal,U.S. House,6,DEM,Josh Smead,0
+Nodaway,Federal,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Cumulative,U.S. House,6,DEM,Josh Smead,0
+Nodaway,Cumulative,U.S. House,6,DEM,Scot Pondelick,0
+Nodaway,Atchison,U.S. House,6,DEM,Matt Levine,6
+Nodaway,Atchison,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Grant,U.S. House,6,DEM,Matt Levine,5
+Nodaway,Grant,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Green,U.S. House,6,DEM,Matt Levine,0
+Nodaway,Green,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Hopkins,U.S. House,6,DEM,Matt Levine,4
+Nodaway,Hopkins,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Hughes,U.S. House,6,DEM,Matt Levine,2
+Nodaway,Hughes,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Independence,U.S. House,6,DEM,Matt Levine,2
+Nodaway,Independence,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Jackson,U.S. House,6,DEM,Matt Levine,6
+Nodaway,Jackson,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Jefferson,U.S. House,6,DEM,Matt Levine,11
+Nodaway,Jefferson,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Lincoln,U.S. House,6,DEM,Matt Levine,3
+Nodaway,Lincoln,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Monroe,U.S. House,6,DEM,Matt Levine,5
+Nodaway,Monroe,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Nodaway,U.S. House,6,DEM,Matt Levine,5
+Nodaway,Nodaway,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Polk A/Polk D,U.S. House,6,DEM,Matt Levine,51
+Nodaway,Polk A/Polk D,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Polk E,U.S. House,6,DEM,Matt Levine,19
+Nodaway,Polk E,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Polk B/C,U.S. House,6,DEM,Matt Levine,57
+Nodaway,Polk B/C,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Union,U.S. House,6,DEM,Matt Levine,4
+Nodaway,Union,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Washington,U.S. House,6,DEM,Matt Levine,3
+Nodaway,Washington,U.S. House,6,DEM,Write-Ins,0
+Nodaway,White Cloud,U.S. House,6,DEM,Matt Levine,6
+Nodaway,White Cloud,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Absentee,U.S. House,6,DEM,Matt Levine,38
+Nodaway,Absentee,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Central Poll,U.S. House,6,DEM,Matt Levine,3
+Nodaway,Central Poll,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Provisional,U.S. House,6,DEM,Matt Levine,0
+Nodaway,Provisional,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Federal,U.S. House,6,DEM,Matt Levine,0
+Nodaway,Federal,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Cumulative,U.S. House,6,DEM,Matt Levine,0
+Nodaway,Cumulative,U.S. House,6,DEM,Write-Ins,0
+Nodaway,Atchison,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Atchison,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Grant,U.S. House,6,LIB,Andy Maidment,1
+Nodaway,Grant,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Green,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Green,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Hopkins,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Hopkins,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Hughes,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Hughes,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Independence,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Independence,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Jackson,U.S. House,6,LIB,Andy Maidment,2
+Nodaway,Jackson,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Jefferson,U.S. House,6,LIB,Andy Maidment,1
+Nodaway,Jefferson,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Lincoln,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Lincoln,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Monroe,U.S. House,6,LIB,Andy Maidment,3
+Nodaway,Monroe,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Nodaway,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Nodaway,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Polk A/Polk D,U.S. House,6,LIB,Andy Maidment,4
+Nodaway,Polk A/Polk D,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Polk E,U.S. House,6,LIB,Andy Maidment,2
+Nodaway,Polk E,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Polk B/C,U.S. House,6,LIB,Andy Maidment,1
+Nodaway,Polk B/C,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Union,U.S. House,6,LIB,Andy Maidment,1
+Nodaway,Union,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Washington,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Washington,U.S. House,6,LIB,Write-Ins,0
+Nodaway,White Cloud,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,White Cloud,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Absentee,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Absentee,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Central Poll,U.S. House,6,LIB,Andy Maidment,1
+Nodaway,Central Poll,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Provisional,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Provisional,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Federal,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Federal,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Cumulative,U.S. House,6,LIB,Andy Maidment,0
+Nodaway,Cumulative,U.S. House,6,LIB,Write-Ins,0
+Nodaway,Atchison,State Senate,12,REP,Rusty Black,70
+Nodaway,Atchison,State Senate,12,REP,Write-Ins,0
+Nodaway,Grant,State Senate,12,REP,Rusty Black,103
+Nodaway,Grant,State Senate,12,REP,Write-Ins,0
+Nodaway,Green,State Senate,12,REP,Rusty Black,37
+Nodaway,Green,State Senate,12,REP,Write-Ins,0
+Nodaway,Hopkins,State Senate,12,REP,Rusty Black,87
+Nodaway,Hopkins,State Senate,12,REP,Write-Ins,0
+Nodaway,Hughes,State Senate,12,REP,Rusty Black,101
+Nodaway,Hughes,State Senate,12,REP,Write-Ins,0
+Nodaway,Independence,State Senate,12,REP,Rusty Black,38
+Nodaway,Independence,State Senate,12,REP,Write-Ins,0
+Nodaway,Jackson,State Senate,12,REP,Rusty Black,188
+Nodaway,Jackson,State Senate,12,REP,Write-Ins,0
+Nodaway,Jefferson,State Senate,12,REP,Rusty Black,120
+Nodaway,Jefferson,State Senate,12,REP,Write-Ins,0
+Nodaway,Lincoln,State Senate,12,REP,Rusty Black,54
+Nodaway,Lincoln,State Senate,12,REP,Write-Ins,0
+Nodaway,Monroe,State Senate,12,REP,Rusty Black,83
+Nodaway,Monroe,State Senate,12,REP,Write-Ins,0
+Nodaway,Nodaway,State Senate,12,REP,Rusty Black,118
+Nodaway,Nodaway,State Senate,12,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,State Senate,12,REP,Rusty Black,706
+Nodaway,Polk A/Polk D,State Senate,12,REP,Write-Ins,0
+Nodaway,Polk E,State Senate,12,REP,Rusty Black,295
+Nodaway,Polk E,State Senate,12,REP,Write-Ins,0
+Nodaway,Polk B/C,State Senate,12,REP,Rusty Black,520
+Nodaway,Polk B/C,State Senate,12,REP,Write-Ins,0
+Nodaway,Union,State Senate,12,REP,Rusty Black,83
+Nodaway,Union,State Senate,12,REP,Write-Ins,0
+Nodaway,Washington,State Senate,12,REP,Rusty Black,65
+Nodaway,Washington,State Senate,12,REP,Write-Ins,0
+Nodaway,White Cloud,State Senate,12,REP,Rusty Black,103
+Nodaway,White Cloud,State Senate,12,REP,Write-Ins,0
+Nodaway,Absentee,State Senate,12,REP,Rusty Black,307
+Nodaway,Absentee,State Senate,12,REP,Write-Ins,0
+Nodaway,Central Poll,State Senate,12,REP,Rusty Black,17
+Nodaway,Central Poll,State Senate,12,REP,Write-Ins,0
+Nodaway,Provisional,State Senate,12,REP,Rusty Black,6
+Nodaway,Provisional,State Senate,12,REP,Write-Ins,0
+Nodaway,Federal,State Senate,12,REP,Rusty Black,0
+Nodaway,Federal,State Senate,12,REP,Write-Ins,0
+Nodaway,Cumulative,State Senate,12,REP,Rusty Black,0
+Nodaway,Cumulative,State Senate,12,REP,Write-Ins,0
+Nodaway,Atchison,State Senate,12,DEM,Judy McNeece,10
+Nodaway,Atchison,State Senate,12,DEM,Write-Ins,0
+Nodaway,Grant,State Senate,12,DEM,Judy McNeece,32
+Nodaway,Grant,State Senate,12,DEM,Write-Ins,0
+Nodaway,Green,State Senate,12,DEM,Judy McNeece,7
+Nodaway,Green,State Senate,12,DEM,Write-Ins,0
+Nodaway,Hopkins,State Senate,12,DEM,Judy McNeece,12
+Nodaway,Hopkins,State Senate,12,DEM,Write-Ins,0
+Nodaway,Hughes,State Senate,12,DEM,Judy McNeece,8
+Nodaway,Hughes,State Senate,12,DEM,Write-Ins,0
+Nodaway,Independence,State Senate,12,DEM,Judy McNeece,8
+Nodaway,Independence,State Senate,12,DEM,Write-Ins,0
+Nodaway,Jackson,State Senate,12,DEM,Judy McNeece,21
+Nodaway,Jackson,State Senate,12,DEM,Write-Ins,0
+Nodaway,Jefferson,State Senate,12,DEM,Judy McNeece,29
+Nodaway,Jefferson,State Senate,12,DEM,Write-Ins,0
+Nodaway,Lincoln,State Senate,12,DEM,Judy McNeece,10
+Nodaway,Lincoln,State Senate,12,DEM,Write-Ins,0
+Nodaway,Monroe,State Senate,12,DEM,Judy McNeece,9
+Nodaway,Monroe,State Senate,12,DEM,Write-Ins,0
+Nodaway,Nodaway,State Senate,12,DEM,Judy McNeece,24
+Nodaway,Nodaway,State Senate,12,DEM,Write-Ins,0
+Nodaway,Polk A/Polk D,State Senate,12,DEM,Judy McNeece,187
+Nodaway,Polk A/Polk D,State Senate,12,DEM,Write-Ins,0
+Nodaway,Polk E,State Senate,12,DEM,Judy McNeece,73
+Nodaway,Polk E,State Senate,12,DEM,Write-Ins,0
+Nodaway,Polk B/C,State Senate,12,DEM,Judy McNeece,237
+Nodaway,Polk B/C,State Senate,12,DEM,Write-Ins,0
+Nodaway,Union,State Senate,12,DEM,Judy McNeece,13
+Nodaway,Union,State Senate,12,DEM,Write-Ins,0
+Nodaway,Washington,State Senate,12,DEM,Judy McNeece,11
+Nodaway,Washington,State Senate,12,DEM,Write-Ins,0
+Nodaway,White Cloud,State Senate,12,DEM,Judy McNeece,16
+Nodaway,White Cloud,State Senate,12,DEM,Write-Ins,0
+Nodaway,Absentee,State Senate,12,DEM,Judy McNeece,173
+Nodaway,Absentee,State Senate,12,DEM,Write-Ins,0
+Nodaway,Central Poll,State Senate,12,DEM,Judy McNeece,7
+Nodaway,Central Poll,State Senate,12,DEM,Write-Ins,0
+Nodaway,Provisional,State Senate,12,DEM,Judy McNeece,0
+Nodaway,Provisional,State Senate,12,DEM,Write-Ins,0
+Nodaway,Federal,State Senate,12,DEM,Judy McNeece,0
+Nodaway,Federal,State Senate,12,DEM,Write-Ins,0
+Nodaway,Cumulative,State Senate,12,DEM,Judy McNeece,0
+Nodaway,Cumulative,State Senate,12,DEM,Write-Ins,0
+Nodaway,Atchison,State House,1,REP,Jeff Farnan,76
+Nodaway,Atchison,State House,1,REP,Write-Ins,0
+Nodaway,Grant,State House,1,REP,Jeff Farnan,119
+Nodaway,Grant,State House,1,REP,Write-Ins,0
+Nodaway,Green,State House,1,REP,Jeff Farnan,40
+Nodaway,Green,State House,1,REP,Write-Ins,0
+Nodaway,Hopkins,State House,1,REP,Jeff Farnan,99
+Nodaway,Hopkins,State House,1,REP,Write-Ins,0
+Nodaway,Hughes,State House,1,REP,Jeff Farnan,112
+Nodaway,Hughes,State House,1,REP,Write-Ins,0
+Nodaway,Independence,State House,1,REP,Jeff Farnan,41
+Nodaway,Independence,State House,1,REP,Write-Ins,0
+Nodaway,Jackson,State House,1,REP,Jeff Farnan,206
+Nodaway,Jackson,State House,1,REP,Write-Ins,0
+Nodaway,Jefferson,State House,1,REP,Jeff Farnan,154
+Nodaway,Jefferson,State House,1,REP,Write-Ins,0
+Nodaway,Lincoln,State House,1,REP,Jeff Farnan,59
+Nodaway,Lincoln,State House,1,REP,Write-Ins,0
+Nodaway,Monroe,State House,1,REP,Jeff Farnan,90
+Nodaway,Monroe,State House,1,REP,Write-Ins,0
+Nodaway,Nodaway,State House,1,REP,Jeff Farnan,124
+Nodaway,Nodaway,State House,1,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,State House,1,REP,Jeff Farnan,736
+Nodaway,Polk A/Polk D,State House,1,REP,Write-Ins,0
+Nodaway,Polk E,State House,1,REP,Jeff Farnan,324
+Nodaway,Polk E,State House,1,REP,Write-Ins,0
+Nodaway,Polk B/C,State House,1,REP,Jeff Farnan,557
+Nodaway,Polk B/C,State House,1,REP,Write-Ins,0
+Nodaway,Union,State House,1,REP,Jeff Farnan,95
+Nodaway,Union,State House,1,REP,Write-Ins,0
+Nodaway,Washington,State House,1,REP,Jeff Farnan,69
+Nodaway,Washington,State House,1,REP,Write-Ins,0
+Nodaway,White Cloud,State House,1,REP,Jeff Farnan,115
+Nodaway,White Cloud,State House,1,REP,Write-Ins,0
+Nodaway,Absentee,State House,1,REP,Jeff Farnan,339
+Nodaway,Absentee,State House,1,REP,Write-Ins,0
+Nodaway,Central Poll,State House,1,REP,Jeff Farnan,18
+Nodaway,Central Poll,State House,1,REP,Write-Ins,0
+Nodaway,Provisional,State House,1,REP,Jeff Farnan,5
+Nodaway,Provisional,State House,1,REP,Write-Ins,0
+Nodaway,Federal,State House,1,REP,Jeff Farnan,0
+Nodaway,Federal,State House,1,REP,Write-Ins,0
+Nodaway,Cumulative,State House,1,REP,Jeff Farnan,0
+Nodaway,Cumulative,State House,1,REP,Write-Ins,0
+Nodaway,Atchison,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,76
+Nodaway,Atchison,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Grant,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,117
+Nodaway,Grant,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Green,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,41
+Nodaway,Green,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Hopkins,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,98
+Nodaway,Hopkins,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Hughes,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,109
+Nodaway,Hughes,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Independence,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,44
+Nodaway,Independence,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Jackson,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,195
+Nodaway,Jackson,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Jefferson,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,152
+Nodaway,Jefferson,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Lincoln,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,56
+Nodaway,Lincoln,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Monroe,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,92
+Nodaway,Monroe,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Nodaway,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,122
+Nodaway,Nodaway,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,738
+Nodaway,Polk A/Polk D,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Polk E,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,326
+Nodaway,Polk E,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Polk B/C,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,577
+Nodaway,Polk B/C,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Union,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,95
+Nodaway,Union,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Washington,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,68
+Nodaway,Washington,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,White Cloud,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,114
+Nodaway,White Cloud,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Absentee,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,348
+Nodaway,Absentee,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Central Poll,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,17
+Nodaway,Central Poll,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Provisional,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,6
+Nodaway,Provisional,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Federal,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,0
+Nodaway,Federal,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Cumulative,Associate Circuit Judge,,REP,Rice Robert (Bob) L.,0
+Nodaway,Cumulative,Associate Circuit Judge,,REP,Write-Ins,0
+Nodaway,Atchison,Presiding Commissioner of the County Commission,,REP,Chris Burns,75
+Nodaway,Atchison,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Grant,Presiding Commissioner of the County Commission,,REP,Chris Burns,117
+Nodaway,Grant,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Green,Presiding Commissioner of the County Commission,,REP,Chris Burns,38
+Nodaway,Green,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Hopkins,Presiding Commissioner of the County Commission,,REP,Chris Burns,100
+Nodaway,Hopkins,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Hughes,Presiding Commissioner of the County Commission,,REP,Chris Burns,104
+Nodaway,Hughes,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Independence,Presiding Commissioner of the County Commission,,REP,Chris Burns,41
+Nodaway,Independence,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Jackson,Presiding Commissioner of the County Commission,,REP,Chris Burns,206
+Nodaway,Jackson,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Jefferson,Presiding Commissioner of the County Commission,,REP,Chris Burns,151
+Nodaway,Jefferson,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Lincoln,Presiding Commissioner of the County Commission,,REP,Chris Burns,56
+Nodaway,Lincoln,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Monroe,Presiding Commissioner of the County Commission,,REP,Chris Burns,84
+Nodaway,Monroe,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Nodaway,Presiding Commissioner of the County Commission,,REP,Chris Burns,121
+Nodaway,Nodaway,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,Presiding Commissioner of the County Commission,,REP,Chris Burns,720
+Nodaway,Polk A/Polk D,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Polk E,Presiding Commissioner of the County Commission,,REP,Chris Burns,323
+Nodaway,Polk E,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Polk B/C,Presiding Commissioner of the County Commission,,REP,Chris Burns,533
+Nodaway,Polk B/C,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Union,Presiding Commissioner of the County Commission,,REP,Chris Burns,93
+Nodaway,Union,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Washington,Presiding Commissioner of the County Commission,,REP,Chris Burns,69
+Nodaway,Washington,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,White Cloud,Presiding Commissioner of the County Commission,,REP,Chris Burns,111
+Nodaway,White Cloud,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Absentee,Presiding Commissioner of the County Commission,,REP,Chris Burns,337
+Nodaway,Absentee,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Central Poll,Presiding Commissioner of the County Commission,,REP,Chris Burns,19
+Nodaway,Central Poll,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Provisional,Presiding Commissioner of the County Commission,,REP,Chris Burns,6
+Nodaway,Provisional,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Federal,Presiding Commissioner of the County Commission,,REP,Chris Burns,0
+Nodaway,Federal,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Cumulative,Presiding Commissioner of the County Commission,,REP,Chris Burns,0
+Nodaway,Cumulative,Presiding Commissioner of the County Commission,,REP,Write-Ins,0
+Nodaway,Atchison,Clerk of the Circuit Court,,REP,Elaine Wilson,78
+Nodaway,Atchison,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Grant,Clerk of the Circuit Court,,REP,Elaine Wilson,125
+Nodaway,Grant,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Green,Clerk of the Circuit Court,,REP,Elaine Wilson,41
+Nodaway,Green,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Hopkins,Clerk of the Circuit Court,,REP,Elaine Wilson,102
+Nodaway,Hopkins,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Hughes,Clerk of the Circuit Court,,REP,Elaine Wilson,104
+Nodaway,Hughes,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Independence,Clerk of the Circuit Court,,REP,Elaine Wilson,43
+Nodaway,Independence,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Jackson,Clerk of the Circuit Court,,REP,Elaine Wilson,204
+Nodaway,Jackson,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Jefferson,Clerk of the Circuit Court,,REP,Elaine Wilson,158
+Nodaway,Jefferson,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Lincoln,Clerk of the Circuit Court,,REP,Elaine Wilson,58
+Nodaway,Lincoln,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Monroe,Clerk of the Circuit Court,,REP,Elaine Wilson,89
+Nodaway,Monroe,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Nodaway,Clerk of the Circuit Court,,REP,Elaine Wilson,124
+Nodaway,Nodaway,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,Clerk of the Circuit Court,,REP,Elaine Wilson,766
+Nodaway,Polk A/Polk D,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Polk E,Clerk of the Circuit Court,,REP,Elaine Wilson,339
+Nodaway,Polk E,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Polk B/C,Clerk of the Circuit Court,,REP,Elaine Wilson,577
+Nodaway,Polk B/C,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Union,Clerk of the Circuit Court,,REP,Elaine Wilson,94
+Nodaway,Union,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Washington,Clerk of the Circuit Court,,REP,Elaine Wilson,74
+Nodaway,Washington,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,White Cloud,Clerk of the Circuit Court,,REP,Elaine Wilson,123
+Nodaway,White Cloud,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Absentee,Clerk of the Circuit Court,,REP,Elaine Wilson,354
+Nodaway,Absentee,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Central Poll,Clerk of the Circuit Court,,REP,Elaine Wilson,17
+Nodaway,Central Poll,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Provisional,Clerk of the Circuit Court,,REP,Elaine Wilson,6
+Nodaway,Provisional,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Federal,Clerk of the Circuit Court,,REP,Elaine Wilson,0
+Nodaway,Federal,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Cumulative,Clerk of the Circuit Court,,REP,Elaine Wilson,0
+Nodaway,Cumulative,Clerk of the Circuit Court,,REP,Write-Ins,0
+Nodaway,Atchison,Clerk of the County Commission,,REP,Melinda Patton,78
+Nodaway,Atchison,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Grant,Clerk of the County Commission,,REP,Melinda Patton,126
+Nodaway,Grant,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Green,Clerk of the County Commission,,REP,Melinda Patton,42
+Nodaway,Green,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Hopkins,Clerk of the County Commission,,REP,Melinda Patton,105
+Nodaway,Hopkins,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Hughes,Clerk of the County Commission,,REP,Melinda Patton,110
+Nodaway,Hughes,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Independence,Clerk of the County Commission,,REP,Melinda Patton,44
+Nodaway,Independence,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Jackson,Clerk of the County Commission,,REP,Melinda Patton,206
+Nodaway,Jackson,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Jefferson,Clerk of the County Commission,,REP,Melinda Patton,157
+Nodaway,Jefferson,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Lincoln,Clerk of the County Commission,,REP,Melinda Patton,56
+Nodaway,Lincoln,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Monroe,Clerk of the County Commission,,REP,Melinda Patton,91
+Nodaway,Monroe,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Nodaway,Clerk of the County Commission,,REP,Melinda Patton,123
+Nodaway,Nodaway,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,Clerk of the County Commission,,REP,Melinda Patton,762
+Nodaway,Polk A/Polk D,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Polk E,Clerk of the County Commission,,REP,Melinda Patton,333
+Nodaway,Polk E,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Polk B/C,Clerk of the County Commission,,REP,Melinda Patton,579
+Nodaway,Polk B/C,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Union,Clerk of the County Commission,,REP,Melinda Patton,94
+Nodaway,Union,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Washington,Clerk of the County Commission,,REP,Melinda Patton,72
+Nodaway,Washington,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,White Cloud,Clerk of the County Commission,,REP,Melinda Patton,120
+Nodaway,White Cloud,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Absentee,Clerk of the County Commission,,REP,Melinda Patton,363
+Nodaway,Absentee,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Central Poll,Clerk of the County Commission,,REP,Melinda Patton,19
+Nodaway,Central Poll,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Provisional,Clerk of the County Commission,,REP,Melinda Patton,6
+Nodaway,Provisional,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Federal,Clerk of the County Commission,,REP,Melinda Patton,0
+Nodaway,Federal,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Cumulative,Clerk of the County Commission,,REP,Melinda Patton,0
+Nodaway,Cumulative,Clerk of the County Commission,,REP,Write-Ins,0
+Nodaway,Atchison,Recorder of Deeds,,REP,Lisa James,80
+Nodaway,Atchison,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Grant,Recorder of Deeds,,REP,Lisa James,124
+Nodaway,Grant,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Green,Recorder of Deeds,,REP,Lisa James,39
+Nodaway,Green,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Hopkins,Recorder of Deeds,,REP,Lisa James,101
+Nodaway,Hopkins,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Hughes,Recorder of Deeds,,REP,Lisa James,107
+Nodaway,Hughes,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Independence,Recorder of Deeds,,REP,Lisa James,43
+Nodaway,Independence,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Jackson,Recorder of Deeds,,REP,Lisa James,203
+Nodaway,Jackson,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Jefferson,Recorder of Deeds,,REP,Lisa James,156
+Nodaway,Jefferson,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Lincoln,Recorder of Deeds,,REP,Lisa James,55
+Nodaway,Lincoln,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Monroe,Recorder of Deeds,,REP,Lisa James,87
+Nodaway,Monroe,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Nodaway,Recorder of Deeds,,REP,Lisa James,118
+Nodaway,Nodaway,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Polk A/Polk D,Recorder of Deeds,,REP,Lisa James,743
+Nodaway,Polk A/Polk D,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Polk E,Recorder of Deeds,,REP,Lisa James,329
+Nodaway,Polk E,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Polk B/C,Recorder of Deeds,,REP,Lisa James,573
+Nodaway,Polk B/C,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Union,Recorder of Deeds,,REP,Lisa James,94
+Nodaway,Union,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Washington,Recorder of Deeds,,REP,Lisa James,74
+Nodaway,Washington,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,White Cloud,Recorder of Deeds,,REP,Lisa James,118
+Nodaway,White Cloud,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Absentee,Recorder of Deeds,,REP,Lisa James,352
+Nodaway,Absentee,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Central Poll,Recorder of Deeds,,REP,Lisa James,18
+Nodaway,Central Poll,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Provisional,Recorder of Deeds,,REP,Lisa James,6
+Nodaway,Provisional,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Federal,Recorder of Deeds,,REP,Lisa James,0
+Nodaway,Federal,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Cumulative,Recorder of Deeds,,REP,Lisa James,0
+Nodaway,Cumulative,Recorder of Deeds,,REP,Write-Ins,0
+Nodaway,Atchison,Prosecuting Attorney,,REP,David L. Hershberger,62
+Nodaway,Atchison,Prosecuting Attorney,,REP,Tina Meyer Deiter,19
+Nodaway,Grant,Prosecuting Attorney,,REP,David L. Hershberger,95
+Nodaway,Grant,Prosecuting Attorney,,REP,Tina Meyer Deiter,41
+Nodaway,Green,Prosecuting Attorney,,REP,David L. Hershberger,39
+Nodaway,Green,Prosecuting Attorney,,REP,Tina Meyer Deiter,8
+Nodaway,Hopkins,Prosecuting Attorney,,REP,David L. Hershberger,84
+Nodaway,Hopkins,Prosecuting Attorney,,REP,Tina Meyer Deiter,25
+Nodaway,Hughes,Prosecuting Attorney,,REP,David L. Hershberger,78
+Nodaway,Hughes,Prosecuting Attorney,,REP,Tina Meyer Deiter,38
+Nodaway,Independence,Prosecuting Attorney,,REP,David L. Hershberger,39
+Nodaway,Independence,Prosecuting Attorney,,REP,Tina Meyer Deiter,14
+Nodaway,Jackson,Prosecuting Attorney,,REP,David L. Hershberger,167
+Nodaway,Jackson,Prosecuting Attorney,,REP,Tina Meyer Deiter,56
+Nodaway,Jefferson,Prosecuting Attorney,,REP,David L. Hershberger,123
+Nodaway,Jefferson,Prosecuting Attorney,,REP,Tina Meyer Deiter,47
+Nodaway,Lincoln,Prosecuting Attorney,,REP,David L. Hershberger,53
+Nodaway,Lincoln,Prosecuting Attorney,,REP,Tina Meyer Deiter,12
+Nodaway,Monroe,Prosecuting Attorney,,REP,David L. Hershberger,83
+Nodaway,Monroe,Prosecuting Attorney,,REP,Tina Meyer Deiter,21
+Nodaway,Nodaway,Prosecuting Attorney,,REP,David L. Hershberger,116
+Nodaway,Nodaway,Prosecuting Attorney,,REP,Tina Meyer Deiter,30
+Nodaway,Polk A/Polk D,Prosecuting Attorney,,REP,David L. Hershberger,609
+Nodaway,Polk A/Polk D,Prosecuting Attorney,,REP,Tina Meyer Deiter,236
+Nodaway,Polk E,Prosecuting Attorney,,REP,David L. Hershberger,279
+Nodaway,Polk E,Prosecuting Attorney,,REP,Tina Meyer Deiter,95
+Nodaway,Polk B/C,Prosecuting Attorney,,REP,David L. Hershberger,507
+Nodaway,Polk B/C,Prosecuting Attorney,,REP,Tina Meyer Deiter,142
+Nodaway,Union,Prosecuting Attorney,,REP,David L. Hershberger,69
+Nodaway,Union,Prosecuting Attorney,,REP,Tina Meyer Deiter,37
+Nodaway,Washington,Prosecuting Attorney,,REP,David L. Hershberger,48
+Nodaway,Washington,Prosecuting Attorney,,REP,Tina Meyer Deiter,29
+Nodaway,White Cloud,Prosecuting Attorney,,REP,David L. Hershberger,96
+Nodaway,White Cloud,Prosecuting Attorney,,REP,Tina Meyer Deiter,33
+Nodaway,Absentee,Prosecuting Attorney,,REP,David L. Hershberger,297
+Nodaway,Absentee,Prosecuting Attorney,,REP,Tina Meyer Deiter,100
+Nodaway,Central Poll,Prosecuting Attorney,,REP,David L. Hershberger,18
+Nodaway,Central Poll,Prosecuting Attorney,,REP,Tina Meyer Deiter,3
+Nodaway,Provisional,Prosecuting Attorney,,REP,David L. Hershberger,3
+Nodaway,Provisional,Prosecuting Attorney,,REP,Tina Meyer Deiter,3
+Nodaway,Federal,Prosecuting Attorney,,REP,David L. Hershberger,0
+Nodaway,Federal,Prosecuting Attorney,,REP,Tina Meyer Deiter,0
+Nodaway,Cumulative,Prosecuting Attorney,,REP,David L. Hershberger,0
+Nodaway,Cumulative,Prosecuting Attorney,,REP,Tina Meyer Deiter,0
+Nodaway,Atchison,Constitutional Amendment 1,,,Yes,77
+Nodaway,Atchison,Constitutional Amendment 1,,,No,21
+Nodaway,Grant,Constitutional Amendment 1,,,Yes,154
+Nodaway,Grant,Constitutional Amendment 1,,,No,28
+Nodaway,Green,Constitutional Amendment 1,,,Yes,46
+Nodaway,Green,Constitutional Amendment 1,,,No,8
+Nodaway,Hopkins,Constitutional Amendment 1,,,Yes,107
+Nodaway,Hopkins,Constitutional Amendment 1,,,No,23
+Nodaway,Hughes,Constitutional Amendment 1,,,Yes,103
+Nodaway,Hughes,Constitutional Amendment 1,,,No,21
+Nodaway,Independence,Constitutional Amendment 1,,,Yes,48
+Nodaway,Independence,Constitutional Amendment 1,,,No,14
+Nodaway,Jackson,Constitutional Amendment 1,,,Yes,197
+Nodaway,Jackson,Constitutional Amendment 1,,,No,54
+Nodaway,Jefferson,Constitutional Amendment 1,,,Yes,193
+Nodaway,Jefferson,Constitutional Amendment 1,,,No,23
+Nodaway,Lincoln,Constitutional Amendment 1,,,Yes,66
+Nodaway,Lincoln,Constitutional Amendment 1,,,No,14
+Nodaway,Monroe,Constitutional Amendment 1,,,Yes,109
+Nodaway,Monroe,Constitutional Amendment 1,,,No,13
+Nodaway,Nodaway,Constitutional Amendment 1,,,Yes,137
+Nodaway,Nodaway,Constitutional Amendment 1,,,No,47
+Nodaway,Polk A/Polk D,Constitutional Amendment 1,,,Yes,917
+Nodaway,Polk A/Polk D,Constitutional Amendment 1,,,No,199
+Nodaway,Polk E,Constitutional Amendment 1,,,Yes,396
+Nodaway,Polk E,Constitutional Amendment 1,,,No,69
+Nodaway,Polk B/C,Constitutional Amendment 1,,,Yes,859
+Nodaway,Polk B/C,Constitutional Amendment 1,,,No,142
+Nodaway,Union,Constitutional Amendment 1,,,Yes,106
+Nodaway,Union,Constitutional Amendment 1,,,No,17
+Nodaway,Washington,Constitutional Amendment 1,,,Yes,70
+Nodaway,Washington,Constitutional Amendment 1,,,No,23
+Nodaway,White Cloud,Constitutional Amendment 1,,,Yes,138
+Nodaway,White Cloud,Constitutional Amendment 1,,,No,24
+Nodaway,Absentee,Constitutional Amendment 1,,,Yes,536
+Nodaway,Absentee,Constitutional Amendment 1,,,No,82
+Nodaway,Central Poll,Constitutional Amendment 1,,,Yes,28
+Nodaway,Central Poll,Constitutional Amendment 1,,,No,6
+Nodaway,Provisional,Constitutional Amendment 1,,,Yes,3
+Nodaway,Provisional,Constitutional Amendment 1,,,No,3
+Nodaway,Federal,Constitutional Amendment 1,,,Yes,0
+Nodaway,Federal,Constitutional Amendment 1,,,No,0
+Nodaway,Cumulative,Constitutional Amendment 1,,,Yes,0
+Nodaway,Cumulative,Constitutional Amendment 1,,,No,0
+Nodaway,Atchison,Constitutional Amendment 2,,,Yes,73
+Nodaway,Atchison,Constitutional Amendment 2,,,No,24
+Nodaway,Grant,Constitutional Amendment 2,,,Yes,147
+Nodaway,Grant,Constitutional Amendment 2,,,No,32
+Nodaway,Green,Constitutional Amendment 2,,,Yes,46
+Nodaway,Green,Constitutional Amendment 2,,,No,10
+Nodaway,Hopkins,Constitutional Amendment 2,,,Yes,108
+Nodaway,Hopkins,Constitutional Amendment 2,,,No,26
+Nodaway,Hughes,Constitutional Amendment 2,,,Yes,91
+Nodaway,Hughes,Constitutional Amendment 2,,,No,32
+Nodaway,Independence,Constitutional Amendment 2,,,Yes,46
+Nodaway,Independence,Constitutional Amendment 2,,,No,15
+Nodaway,Jackson,Constitutional Amendment 2,,,Yes,192
+Nodaway,Jackson,Constitutional Amendment 2,,,No,54
+Nodaway,Jefferson,Constitutional Amendment 2,,,Yes,160
+Nodaway,Jefferson,Constitutional Amendment 2,,,No,54
+Nodaway,Lincoln,Constitutional Amendment 2,,,Yes,65
+Nodaway,Lincoln,Constitutional Amendment 2,,,No,11
+Nodaway,Monroe,Constitutional Amendment 2,,,Yes,93
+Nodaway,Monroe,Constitutional Amendment 2,,,No,26
+Nodaway,Nodaway,Constitutional Amendment 2,,,Yes,138
+Nodaway,Nodaway,Constitutional Amendment 2,,,No,48
+Nodaway,Polk A/Polk D,Constitutional Amendment 2,,,Yes,877
+Nodaway,Polk A/Polk D,Constitutional Amendment 2,,,No,228
+Nodaway,Polk E,Constitutional Amendment 2,,,Yes,374
+Nodaway,Polk E,Constitutional Amendment 2,,,No,84
+Nodaway,Polk B/C,Constitutional Amendment 2,,,Yes,804
+Nodaway,Polk B/C,Constitutional Amendment 2,,,No,177
+Nodaway,Union,Constitutional Amendment 2,,,Yes,96
+Nodaway,Union,Constitutional Amendment 2,,,No,25
+Nodaway,Washington,Constitutional Amendment 2,,,Yes,62
+Nodaway,Washington,Constitutional Amendment 2,,,No,32
+Nodaway,White Cloud,Constitutional Amendment 2,,,Yes,125
+Nodaway,White Cloud,Constitutional Amendment 2,,,No,35
+Nodaway,Absentee,Constitutional Amendment 2,,,Yes,461
+Nodaway,Absentee,Constitutional Amendment 2,,,No,148
+Nodaway,Central Poll,Constitutional Amendment 2,,,Yes,22
+Nodaway,Central Poll,Constitutional Amendment 2,,,No,11
+Nodaway,Provisional,Constitutional Amendment 2,,,Yes,4
+Nodaway,Provisional,Constitutional Amendment 2,,,No,2
+Nodaway,Federal,Constitutional Amendment 2,,,Yes,0
+Nodaway,Federal,Constitutional Amendment 2,,,No,0
+Nodaway,Cumulative,Constitutional Amendment 2,,,Yes,0
+Nodaway,Cumulative,Constitutional Amendment 2,,,No,0
+Nodaway,Atchison,Constitutional Amendment 4,,,Yes,39
+Nodaway,Atchison,Constitutional Amendment 4,,,No,59
+Nodaway,Grant,Constitutional Amendment 4,,,Yes,24
+Nodaway,Grant,Constitutional Amendment 4,,,No,159
+Nodaway,Green,Constitutional Amendment 4,,,Yes,18
+Nodaway,Green,Constitutional Amendment 4,,,No,39
+Nodaway,Hopkins,Constitutional Amendment 4,,,Yes,30
+Nodaway,Hopkins,Constitutional Amendment 4,,,No,104
+Nodaway,Hughes,Constitutional Amendment 4,,,Yes,34
+Nodaway,Hughes,Constitutional Amendment 4,,,No,93
+Nodaway,Independence,Constitutional Amendment 4,,,Yes,17
+Nodaway,Independence,Constitutional Amendment 4,,,No,45
+Nodaway,Jackson,Constitutional Amendment 4,,,Yes,78
+Nodaway,Jackson,Constitutional Amendment 4,,,No,175
+Nodaway,Jefferson,Constitutional Amendment 4,,,Yes,49
+Nodaway,Jefferson,Constitutional Amendment 4,,,No,174
+Nodaway,Lincoln,Constitutional Amendment 4,,,Yes,33
+Nodaway,Lincoln,Constitutional Amendment 4,,,No,47
+Nodaway,Monroe,Constitutional Amendment 4,,,Yes,22
+Nodaway,Monroe,Constitutional Amendment 4,,,No,99
+Nodaway,Nodaway,Constitutional Amendment 4,,,Yes,52
+Nodaway,Nodaway,Constitutional Amendment 4,,,No,140
+Nodaway,Polk A/Polk D,Constitutional Amendment 4,,,Yes,224
+Nodaway,Polk A/Polk D,Constitutional Amendment 4,,,No,908
+Nodaway,Polk E,Constitutional Amendment 4,,,Yes,111
+Nodaway,Polk E,Constitutional Amendment 4,,,No,361
+Nodaway,Polk B/C,Constitutional Amendment 4,,,Yes,190
+Nodaway,Polk B/C,Constitutional Amendment 4,,,No,821
+Nodaway,Union,Constitutional Amendment 4,,,Yes,20
+Nodaway,Union,Constitutional Amendment 4,,,No,103
+Nodaway,Washington,Constitutional Amendment 4,,,Yes,18
+Nodaway,Washington,Constitutional Amendment 4,,,No,79
+Nodaway,White Cloud,Constitutional Amendment 4,,,Yes,20
+Nodaway,White Cloud,Constitutional Amendment 4,,,No,142
+Nodaway,Absentee,Constitutional Amendment 4,,,Yes,132
+Nodaway,Absentee,Constitutional Amendment 4,,,No,485
+Nodaway,Central Poll,Constitutional Amendment 4,,,Yes,6
+Nodaway,Central Poll,Constitutional Amendment 4,,,No,29
+Nodaway,Provisional,Constitutional Amendment 4,,,Yes,4
+Nodaway,Provisional,Constitutional Amendment 4,,,No,2
+Nodaway,Federal,Constitutional Amendment 4,,,Yes,0
+Nodaway,Federal,Constitutional Amendment 4,,,No,0
+Nodaway,Cumulative,Constitutional Amendment 4,,,Yes,0
+Nodaway,Cumulative,Constitutional Amendment 4,,,No,0
+Nodaway,Atchison,Constitutional Amendment 5,,,Yes,17
+Nodaway,Atchison,Constitutional Amendment 5,,,No,82
+Nodaway,Grant,Constitutional Amendment 5,,,Yes,17
+Nodaway,Grant,Constitutional Amendment 5,,,No,167
+Nodaway,Green,Constitutional Amendment 5,,,Yes,13
+Nodaway,Green,Constitutional Amendment 5,,,No,43
+Nodaway,Hopkins,Constitutional Amendment 5,,,Yes,16
+Nodaway,Hopkins,Constitutional Amendment 5,,,No,118
+Nodaway,Hughes,Constitutional Amendment 5,,,Yes,28
+Nodaway,Hughes,Constitutional Amendment 5,,,No,99
+Nodaway,Independence,Constitutional Amendment 5,,,Yes,12
+Nodaway,Independence,Constitutional Amendment 5,,,No,51
+Nodaway,Jackson,Constitutional Amendment 5,,,Yes,24
+Nodaway,Jackson,Constitutional Amendment 5,,,No,228
+Nodaway,Jefferson,Constitutional Amendment 5,,,Yes,15
+Nodaway,Jefferson,Constitutional Amendment 5,,,No,207
+Nodaway,Lincoln,Constitutional Amendment 5,,,Yes,28
+Nodaway,Lincoln,Constitutional Amendment 5,,,No,52
+Nodaway,Monroe,Constitutional Amendment 5,,,Yes,7
+Nodaway,Monroe,Constitutional Amendment 5,,,No,115
+Nodaway,Nodaway,Constitutional Amendment 5,,,Yes,30
+Nodaway,Nodaway,Constitutional Amendment 5,,,No,160
+Nodaway,Polk A/Polk D,Constitutional Amendment 5,,,Yes,142
+Nodaway,Polk A/Polk D,Constitutional Amendment 5,,,No,989
+Nodaway,Polk E,Constitutional Amendment 5,,,Yes,81
+Nodaway,Polk E,Constitutional Amendment 5,,,No,391
+Nodaway,Polk B/C,Constitutional Amendment 5,,,Yes,142
+Nodaway,Polk B/C,Constitutional Amendment 5,,,No,871
+Nodaway,Union,Constitutional Amendment 5,,,Yes,14
+Nodaway,Union,Constitutional Amendment 5,,,No,108
+Nodaway,Washington,Constitutional Amendment 5,,,Yes,13
+Nodaway,Washington,Constitutional Amendment 5,,,No,84
+Nodaway,White Cloud,Constitutional Amendment 5,,,Yes,12
+Nodaway,White Cloud,Constitutional Amendment 5,,,No,150
+Nodaway,Absentee,Constitutional Amendment 5,,,Yes,73
+Nodaway,Absentee,Constitutional Amendment 5,,,No,546
+Nodaway,Central Poll,Constitutional Amendment 5,,,Yes,4
+Nodaway,Central Poll,Constitutional Amendment 5,,,No,31
+Nodaway,Provisional,Constitutional Amendment 5,,,Yes,5
+Nodaway,Provisional,Constitutional Amendment 5,,,No,1
+Nodaway,Federal,Constitutional Amendment 5,,,Yes,0
+Nodaway,Federal,Constitutional Amendment 5,,,No,0
+Nodaway,Cumulative,Constitutional Amendment 5,,,Yes,0
+Nodaway,Cumulative,Constitutional Amendment 5,,,No,0

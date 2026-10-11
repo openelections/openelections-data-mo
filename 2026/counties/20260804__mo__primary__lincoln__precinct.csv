@@ -1,0 +1,805 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,Troy City 1,State Auditor,,REP,Scott Fitzpatrick,364
+Lincoln,Troy City 1,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,71
+Lincoln,Troy City 2,State Auditor,,REP,Scott Fitzpatrick,354
+Lincoln,Troy City 2,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,50
+Lincoln,Troy City 3,State Auditor,,REP,Scott Fitzpatrick,420
+Lincoln,Troy City 3,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,56
+Lincoln,Troy Rural,State Auditor,,REP,Scott Fitzpatrick,476
+Lincoln,Troy Rural,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,80
+Lincoln,Birkhead,State Auditor,,REP,Scott Fitzpatrick,609
+Lincoln,Birkhead,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,91
+Lincoln,Moscow Mills City,State Auditor,,REP,Scott Fitzpatrick,278
+Lincoln,Moscow Mills City,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,45
+Lincoln,Moscow Mills Rural,State Auditor,,REP,Scott Fitzpatrick,972
+Lincoln,Moscow Mills Rural,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,137
+Lincoln,Zoar,State Auditor,,REP,Scott Fitzpatrick,235
+Lincoln,Zoar,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,44
+Lincoln,Hawk Point,State Auditor,,REP,Scott Fitzpatrick,434
+Lincoln,Hawk Point,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,75
+Lincoln,Elsberry,State Auditor,,REP,Scott Fitzpatrick,329
+Lincoln,Elsberry,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,57
+Lincoln,New Hope,State Auditor,,REP,Scott Fitzpatrick,206
+Lincoln,New Hope,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,29
+Lincoln,Millwood,State Auditor,,REP,Scott Fitzpatrick,330
+Lincoln,Millwood,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,36
+Lincoln,Old Monroe,State Auditor,,REP,Scott Fitzpatrick,478
+Lincoln,Old Monroe,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,62
+Lincoln,Winfield,State Auditor,,REP,Scott Fitzpatrick,773
+Lincoln,Winfield,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,117
+Lincoln,Brussels,State Auditor,,REP,Scott Fitzpatrick,401
+Lincoln,Brussels,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,58
+Lincoln,Briscoe,State Auditor,,REP,Scott Fitzpatrick,321
+Lincoln,Briscoe,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,52
+Lincoln,Whiteside,State Auditor,,REP,Scott Fitzpatrick,175
+Lincoln,Whiteside,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,15
+Lincoln,FEDERAL-STATE - 01,State Auditor,,REP,Scott Fitzpatrick,0
+Lincoln,FEDERAL-STATE - 01,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,0
+Lincoln,FEDERAL-STATE - 02,State Auditor,,REP,Scott Fitzpatrick,0
+Lincoln,FEDERAL-STATE - 02,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,0
+Lincoln,Total:,State Auditor,,REP,Scott Fitzpatrick,7155
+Lincoln,Total:,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,1075
+Lincoln,Troy City 1,U.S. House,3,REP,John G Fraser,156
+Lincoln,Troy City 1,U.S. House,3,REP,Bob Onder,285
+Lincoln,Troy City 2,U.S. House,3,REP,John G Fraser,137
+Lincoln,Troy City 2,U.S. House,3,REP,Bob Onder,268
+Lincoln,Troy City 3,U.S. House,3,REP,John G Fraser,150
+Lincoln,Troy City 3,U.S. House,3,REP,Bob Onder,332
+Lincoln,Troy Rural,U.S. House,3,REP,John G Fraser,183
+Lincoln,Troy Rural,U.S. House,3,REP,Bob Onder,380
+Lincoln,Birkhead,U.S. House,3,REP,John G Fraser,236
+Lincoln,Birkhead,U.S. House,3,REP,Bob Onder,478
+Lincoln,Moscow Mills City,U.S. House,3,REP,John G Fraser,112
+Lincoln,Moscow Mills City,U.S. House,3,REP,Bob Onder,213
+Lincoln,Moscow Mills Rural,U.S. House,3,REP,John G Fraser,341
+Lincoln,Moscow Mills Rural,U.S. House,3,REP,Bob Onder,792
+Lincoln,Zoar,U.S. House,3,REP,John G Fraser,81
+Lincoln,Zoar,U.S. House,3,REP,Bob Onder,202
+Lincoln,Hawk Point,U.S. House,3,REP,John G Fraser,187
+Lincoln,Hawk Point,U.S. House,3,REP,Bob Onder,334
+Lincoln,Elsberry,U.S. House,3,REP,John G Fraser,116
+Lincoln,Elsberry,U.S. House,3,REP,Bob Onder,275
+Lincoln,New Hope,U.S. House,3,REP,John G Fraser,85
+Lincoln,New Hope,U.S. House,3,REP,Bob Onder,166
+Lincoln,Millwood,U.S. House,3,REP,John G Fraser,112
+Lincoln,Millwood,U.S. House,3,REP,Bob Onder,260
+Lincoln,Old Monroe,U.S. House,3,REP,John G Fraser,156
+Lincoln,Old Monroe,U.S. House,3,REP,Bob Onder,402
+Lincoln,Winfield,U.S. House,3,REP,John G Fraser,264
+Lincoln,Winfield,U.S. House,3,REP,Bob Onder,656
+Lincoln,Brussels,U.S. House,3,REP,John G Fraser,126
+Lincoln,Brussels,U.S. House,3,REP,Bob Onder,338
+Lincoln,Briscoe,U.S. House,3,REP,John G Fraser,131
+Lincoln,Briscoe,U.S. House,3,REP,Bob Onder,247
+Lincoln,Whiteside,U.S. House,3,REP,John G Fraser,63
+Lincoln,Whiteside,U.S. House,3,REP,Bob Onder,125
+Lincoln,FEDERAL-STATE - 01,U.S. House,3,REP,John G Fraser,0
+Lincoln,FEDERAL-STATE - 01,U.S. House,3,REP,Bob Onder,0
+Lincoln,FEDERAL-STATE - 02,U.S. House,3,REP,John G Fraser,0
+Lincoln,FEDERAL-STATE - 02,U.S. House,3,REP,Bob Onder,0
+Lincoln,Total:,U.S. House,3,REP,John G Fraser,2636
+Lincoln,Total:,U.S. House,3,REP,Bob Onder,5753
+Lincoln,Troy City 1,State Senate,10,REP,Tricia Byrnes,243
+Lincoln,Troy City 1,State Senate,10,REP,Mike Deering,217
+Lincoln,Troy City 2,State Senate,10,REP,Tricia Byrnes,216
+Lincoln,Troy City 2,State Senate,10,REP,Mike Deering,208
+Lincoln,Troy City 3,State Senate,10,REP,Tricia Byrnes,239
+Lincoln,Troy City 3,State Senate,10,REP,Mike Deering,269
+Lincoln,Troy Rural,State Senate,10,REP,Tricia Byrnes,280
+Lincoln,Troy Rural,State Senate,10,REP,Mike Deering,326
+Lincoln,Birkhead,State Senate,10,REP,Tricia Byrnes,307
+Lincoln,Birkhead,State Senate,10,REP,Mike Deering,418
+Lincoln,Moscow Mills City,State Senate,10,REP,Tricia Byrnes,144
+Lincoln,Moscow Mills City,State Senate,10,REP,Mike Deering,197
+Lincoln,Moscow Mills Rural,State Senate,10,REP,Tricia Byrnes,542
+Lincoln,Moscow Mills Rural,State Senate,10,REP,Mike Deering,624
+Lincoln,Zoar,State Senate,10,REP,Tricia Byrnes,128
+Lincoln,Zoar,State Senate,10,REP,Mike Deering,167
+Lincoln,Hawk Point,State Senate,10,REP,Tricia Byrnes,228
+Lincoln,Hawk Point,State Senate,10,REP,Mike Deering,306
+Lincoln,Elsberry,State Senate,10,REP,Tricia Byrnes,202
+Lincoln,Elsberry,State Senate,10,REP,Mike Deering,209
+Lincoln,New Hope,State Senate,10,REP,Tricia Byrnes,125
+Lincoln,New Hope,State Senate,10,REP,Mike Deering,140
+Lincoln,Millwood,State Senate,10,REP,Tricia Byrnes,166
+Lincoln,Millwood,State Senate,10,REP,Mike Deering,218
+Lincoln,Old Monroe,State Senate,10,REP,Tricia Byrnes,193
+Lincoln,Old Monroe,State Senate,10,REP,Mike Deering,381
+Lincoln,Winfield,State Senate,10,REP,Tricia Byrnes,375
+Lincoln,Winfield,State Senate,10,REP,Mike Deering,568
+Lincoln,Brussels,State Senate,10,REP,Tricia Byrnes,203
+Lincoln,Brussels,State Senate,10,REP,Mike Deering,282
+Lincoln,Briscoe,State Senate,10,REP,Tricia Byrnes,181
+Lincoln,Briscoe,State Senate,10,REP,Mike Deering,219
+Lincoln,Whiteside,State Senate,10,REP,Tricia Byrnes,100
+Lincoln,Whiteside,State Senate,10,REP,Mike Deering,110
+Lincoln,FEDERAL-STATE - 01,State Senate,10,REP,Tricia Byrnes,0
+Lincoln,FEDERAL-STATE - 01,State Senate,10,REP,Mike Deering,0
+Lincoln,FEDERAL-STATE - 02,State Senate,10,REP,Tricia Byrnes,0
+Lincoln,FEDERAL-STATE - 02,State Senate,10,REP,Mike Deering,0
+Lincoln,Total:,State Senate,10,REP,Tricia Byrnes,3872
+Lincoln,Total:,State Senate,10,REP,Mike Deering,4859
+Lincoln,Birkhead,State House,40,REP,Chad Perkins,60
+Lincoln,Hawk Point,State House,40,REP,Chad Perkins,437
+Lincoln,Elsberry,State House,40,REP,Chad Perkins,362
+Lincoln,New Hope,State House,40,REP,Chad Perkins,226
+Lincoln,Millwood,State House,40,REP,Chad Perkins,307
+Lincoln,Old Monroe,State House,40,REP,Chad Perkins,344
+Lincoln,Winfield,State House,40,REP,Chad Perkins,819
+Lincoln,Brussels,State House,40,REP,Chad Perkins,147
+Lincoln,Briscoe,State House,40,REP,Chad Perkins,108
+Lincoln,Whiteside,State House,40,REP,Chad Perkins,179
+Lincoln,FEDERAL-STATE - 02,State House,40,REP,Chad Perkins,0
+Lincoln,Total:,State House,40,REP,Chad Perkins,2989
+Lincoln,Troy City 1,State House,41,REP,Doyle Justus,410
+Lincoln,Troy City 2,State House,41,REP,Doyle Justus,382
+Lincoln,Troy City 3,State House,41,REP,Doyle Justus,449
+Lincoln,Troy Rural,State House,41,REP,Doyle Justus,536
+Lincoln,Birkhead,State House,41,REP,Doyle Justus,585
+Lincoln,Moscow Mills City,State House,41,REP,Doyle Justus,297
+Lincoln,Moscow Mills Rural,State House,41,REP,Doyle Justus,1029
+Lincoln,Zoar,State House,41,REP,Doyle Justus,250
+Lincoln,Millwood,State House,41,REP,Doyle Justus,37
+Lincoln,Old Monroe,State House,41,REP,Doyle Justus,159
+Lincoln,Brussels,State House,41,REP,Doyle Justus,296
+Lincoln,Briscoe,State House,41,REP,Doyle Justus,230
+Lincoln,FEDERAL-STATE - 01,State House,41,REP,Doyle Justus,0
+Lincoln,Total:,State House,41,REP,Doyle Justus,4660
+Lincoln,Troy City 1,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,367
+Lincoln,Troy City 2,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,352
+Lincoln,Troy City 3,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,419
+Lincoln,Troy Rural,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,471
+Lincoln,Birkhead,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,598
+Lincoln,Moscow Mills City,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,291
+Lincoln,Moscow Mills Rural,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,949
+Lincoln,Zoar,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,234
+Lincoln,Hawk Point,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,406
+Lincoln,Elsberry,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,340
+Lincoln,New Hope,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,214
+Lincoln,Millwood,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,320
+Lincoln,Old Monroe,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,500
+Lincoln,Winfield,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,797
+Lincoln,Brussels,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,406
+Lincoln,Briscoe,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,322
+Lincoln,Whiteside,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,150
+Lincoln,Total:,Associate Circuit Judge Division II,,REP,Rebecca A. Richardson,7136
+Lincoln,Troy City 1,Associate Circuit Judge Division III,,REP,Michael Jacobs,371
+Lincoln,Troy City 2,Associate Circuit Judge Division III,,REP,Michael Jacobs,369
+Lincoln,Troy City 3,Associate Circuit Judge Division III,,REP,Michael Jacobs,422
+Lincoln,Troy Rural,Associate Circuit Judge Division III,,REP,Michael Jacobs,487
+Lincoln,Birkhead,Associate Circuit Judge Division III,,REP,Michael Jacobs,606
+Lincoln,Moscow Mills City,Associate Circuit Judge Division III,,REP,Michael Jacobs,290
+Lincoln,Moscow Mills Rural,Associate Circuit Judge Division III,,REP,Michael Jacobs,955
+Lincoln,Zoar,Associate Circuit Judge Division III,,REP,Michael Jacobs,234
+Lincoln,Hawk Point,Associate Circuit Judge Division III,,REP,Michael Jacobs,414
+Lincoln,Elsberry,Associate Circuit Judge Division III,,REP,Michael Jacobs,341
+Lincoln,New Hope,Associate Circuit Judge Division III,,REP,Michael Jacobs,215
+Lincoln,Millwood,Associate Circuit Judge Division III,,REP,Michael Jacobs,323
+Lincoln,Old Monroe,Associate Circuit Judge Division III,,REP,Michael Jacobs,486
+Lincoln,Winfield,Associate Circuit Judge Division III,,REP,Michael Jacobs,801
+Lincoln,Brussels,Associate Circuit Judge Division III,,REP,Michael Jacobs,410
+Lincoln,Briscoe,Associate Circuit Judge Division III,,REP,Michael Jacobs,319
+Lincoln,Whiteside,Associate Circuit Judge Division III,,REP,Michael Jacobs,150
+Lincoln,Total:,Associate Circuit Judge Division III,,REP,Michael Jacobs,7193
+Lincoln,Troy City 1,Presiding Commissioner,,REP,Roy E. Crane Jr.,121
+Lincoln,Troy City 1,Presiding Commissioner,,REP,Joe Kaimann,169
+Lincoln,Troy City 1,Presiding Commissioner,,REP,Lisa Seely,172
+Lincoln,Troy City 2,Presiding Commissioner,,REP,Roy E. Crane Jr.,89
+Lincoln,Troy City 2,Presiding Commissioner,,REP,Joe Kaimann,154
+Lincoln,Troy City 2,Presiding Commissioner,,REP,Lisa Seely,170
+Lincoln,Troy City 3,Presiding Commissioner,,REP,Roy E. Crane Jr.,104
+Lincoln,Troy City 3,Presiding Commissioner,,REP,Joe Kaimann,171
+Lincoln,Troy City 3,Presiding Commissioner,,REP,Lisa Seely,209
+Lincoln,Troy Rural,Presiding Commissioner,,REP,Roy E. Crane Jr.,135
+Lincoln,Troy Rural,Presiding Commissioner,,REP,Joe Kaimann,246
+Lincoln,Troy Rural,Presiding Commissioner,,REP,Lisa Seely,224
+Lincoln,Birkhead,Presiding Commissioner,,REP,Roy E. Crane Jr.,190
+Lincoln,Birkhead,Presiding Commissioner,,REP,Joe Kaimann,284
+Lincoln,Birkhead,Presiding Commissioner,,REP,Lisa Seely,243
+Lincoln,Moscow Mills City,Presiding Commissioner,,REP,Roy E. Crane Jr.,70
+Lincoln,Moscow Mills City,Presiding Commissioner,,REP,Joe Kaimann,125
+Lincoln,Moscow Mills City,Presiding Commissioner,,REP,Lisa Seely,134
+Lincoln,Moscow Mills Rural,Presiding Commissioner,,REP,Roy E. Crane Jr.,227
+Lincoln,Moscow Mills Rural,Presiding Commissioner,,REP,Joe Kaimann,453
+Lincoln,Moscow Mills Rural,Presiding Commissioner,,REP,Lisa Seely,438
+Lincoln,Zoar,Presiding Commissioner,,REP,Roy E. Crane Jr.,53
+Lincoln,Zoar,Presiding Commissioner,,REP,Joe Kaimann,122
+Lincoln,Zoar,Presiding Commissioner,,REP,Lisa Seely,92
+Lincoln,Hawk Point,Presiding Commissioner,,REP,Roy E. Crane Jr.,109
+Lincoln,Hawk Point,Presiding Commissioner,,REP,Joe Kaimann,217
+Lincoln,Hawk Point,Presiding Commissioner,,REP,Lisa Seely,194
+Lincoln,Elsberry,Presiding Commissioner,,REP,Roy E. Crane Jr.,67
+Lincoln,Elsberry,Presiding Commissioner,,REP,Joe Kaimann,155
+Lincoln,Elsberry,Presiding Commissioner,,REP,Lisa Seely,174
+Lincoln,New Hope,Presiding Commissioner,,REP,Roy E. Crane Jr.,46
+Lincoln,New Hope,Presiding Commissioner,,REP,Joe Kaimann,115
+Lincoln,New Hope,Presiding Commissioner,,REP,Lisa Seely,100
+Lincoln,Millwood,Presiding Commissioner,,REP,Roy E. Crane Jr.,94
+Lincoln,Millwood,Presiding Commissioner,,REP,Joe Kaimann,169
+Lincoln,Millwood,Presiding Commissioner,,REP,Lisa Seely,124
+Lincoln,Old Monroe,Presiding Commissioner,,REP,Roy E. Crane Jr.,42
+Lincoln,Old Monroe,Presiding Commissioner,,REP,Joe Kaimann,428
+Lincoln,Old Monroe,Presiding Commissioner,,REP,Lisa Seely,117
+Lincoln,Winfield,Presiding Commissioner,,REP,Roy E. Crane Jr.,145
+Lincoln,Winfield,Presiding Commissioner,,REP,Joe Kaimann,513
+Lincoln,Winfield,Presiding Commissioner,,REP,Lisa Seely,267
+Lincoln,Brussels,Presiding Commissioner,,REP,Roy E. Crane Jr.,110
+Lincoln,Brussels,Presiding Commissioner,,REP,Joe Kaimann,217
+Lincoln,Brussels,Presiding Commissioner,,REP,Lisa Seely,146
+Lincoln,Briscoe,Presiding Commissioner,,REP,Roy E. Crane Jr.,98
+Lincoln,Briscoe,Presiding Commissioner,,REP,Joe Kaimann,151
+Lincoln,Briscoe,Presiding Commissioner,,REP,Lisa Seely,148
+Lincoln,Whiteside,Presiding Commissioner,,REP,Roy E. Crane Jr.,41
+Lincoln,Whiteside,Presiding Commissioner,,REP,Joe Kaimann,83
+Lincoln,Whiteside,Presiding Commissioner,,REP,Lisa Seely,74
+Lincoln,Total:,Presiding Commissioner,,REP,Roy E. Crane Jr.,1741
+Lincoln,Total:,Presiding Commissioner,,REP,Joe Kaimann,3772
+Lincoln,Total:,Presiding Commissioner,,REP,Lisa Seely,3026
+Lincoln,Troy City 1,County Clerk,,REP,Kenneth Schulte,327
+Lincoln,Troy City 1,County Clerk,,REP,Terry Bell,113
+Lincoln,Troy City 2,County Clerk,,REP,Kenneth Schulte,309
+Lincoln,Troy City 2,County Clerk,,REP,Terry Bell,98
+Lincoln,Troy City 3,County Clerk,,REP,Kenneth Schulte,353
+Lincoln,Troy City 3,County Clerk,,REP,Terry Bell,113
+Lincoln,Troy Rural,County Clerk,,REP,Kenneth Schulte,423
+Lincoln,Troy Rural,County Clerk,,REP,Terry Bell,145
+Lincoln,Birkhead,County Clerk,,REP,Kenneth Schulte,542
+Lincoln,Birkhead,County Clerk,,REP,Terry Bell,143
+Lincoln,Moscow Mills City,County Clerk,,REP,Kenneth Schulte,223
+Lincoln,Moscow Mills City,County Clerk,,REP,Terry Bell,102
+Lincoln,Moscow Mills Rural,County Clerk,,REP,Kenneth Schulte,805
+Lincoln,Moscow Mills Rural,County Clerk,,REP,Terry Bell,279
+Lincoln,Zoar,County Clerk,,REP,Kenneth Schulte,197
+Lincoln,Zoar,County Clerk,,REP,Terry Bell,66
+Lincoln,Hawk Point,County Clerk,,REP,Kenneth Schulte,326
+Lincoln,Hawk Point,County Clerk,,REP,Terry Bell,171
+Lincoln,Elsberry,County Clerk,,REP,Kenneth Schulte,297
+Lincoln,Elsberry,County Clerk,,REP,Terry Bell,77
+Lincoln,New Hope,County Clerk,,REP,Kenneth Schulte,192
+Lincoln,New Hope,County Clerk,,REP,Terry Bell,50
+Lincoln,Millwood,County Clerk,,REP,Kenneth Schulte,303
+Lincoln,Millwood,County Clerk,,REP,Terry Bell,74
+Lincoln,Old Monroe,County Clerk,,REP,Kenneth Schulte,481
+Lincoln,Old Monroe,County Clerk,,REP,Terry Bell,81
+Lincoln,Winfield,County Clerk,,REP,Kenneth Schulte,712
+Lincoln,Winfield,County Clerk,,REP,Terry Bell,192
+Lincoln,Brussels,County Clerk,,REP,Kenneth Schulte,367
+Lincoln,Brussels,County Clerk,,REP,Terry Bell,91
+Lincoln,Briscoe,County Clerk,,REP,Kenneth Schulte,283
+Lincoln,Briscoe,County Clerk,,REP,Terry Bell,90
+Lincoln,Whiteside,County Clerk,,REP,Kenneth Schulte,146
+Lincoln,Whiteside,County Clerk,,REP,Terry Bell,38
+Lincoln,Total:,County Clerk,,REP,Kenneth Schulte,6286
+Lincoln,Total:,County Clerk,,REP,Terry Bell,1923
+Lincoln,Troy City 1,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,373
+Lincoln,Troy City 2,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,364
+Lincoln,Troy City 3,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,421
+Lincoln,Troy Rural,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,490
+Lincoln,Birkhead,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,599
+Lincoln,Moscow Mills City,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,289
+Lincoln,Moscow Mills Rural,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,966
+Lincoln,Zoar,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,236
+Lincoln,Hawk Point,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,428
+Lincoln,Elsberry,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,346
+Lincoln,New Hope,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,219
+Lincoln,Millwood,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,330
+Lincoln,Old Monroe,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,491
+Lincoln,Winfield,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,814
+Lincoln,Brussels,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,420
+Lincoln,Briscoe,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,328
+Lincoln,Whiteside,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,159
+Lincoln,Total:,Clerk of the Circuit Court,,REP,Kathy Krieg Hall,7273
+Lincoln,Troy City 1,Prosecuting Attorney,,REP,Mike Wood,395
+Lincoln,Troy City 2,Prosecuting Attorney,,REP,Mike Wood,377
+Lincoln,Troy City 3,Prosecuting Attorney,,REP,Mike Wood,423
+Lincoln,Troy Rural,Prosecuting Attorney,,REP,Mike Wood,493
+Lincoln,Birkhead,Prosecuting Attorney,,REP,Mike Wood,616
+Lincoln,Moscow Mills City,Prosecuting Attorney,,REP,Mike Wood,292
+Lincoln,Moscow Mills Rural,Prosecuting Attorney,,REP,Mike Wood,986
+Lincoln,Zoar,Prosecuting Attorney,,REP,Mike Wood,238
+Lincoln,Hawk Point,Prosecuting Attorney,,REP,Mike Wood,435
+Lincoln,Elsberry,Prosecuting Attorney,,REP,Mike Wood,353
+Lincoln,New Hope,Prosecuting Attorney,,REP,Mike Wood,220
+Lincoln,Millwood,Prosecuting Attorney,,REP,Mike Wood,340
+Lincoln,Old Monroe,Prosecuting Attorney,,REP,Mike Wood,502
+Lincoln,Winfield,Prosecuting Attorney,,REP,Mike Wood,831
+Lincoln,Brussels,Prosecuting Attorney,,REP,Mike Wood,427
+Lincoln,Briscoe,Prosecuting Attorney,,REP,Mike Wood,334
+Lincoln,Whiteside,Prosecuting Attorney,,REP,Mike Wood,165
+Lincoln,Total:,Prosecuting Attorney,,REP,Mike Wood,7427
+Lincoln,Troy City 1,County Auditor,,REP,Brenda Luck Schulte,375
+Lincoln,Troy City 2,County Auditor,,REP,Brenda Luck Schulte,356
+Lincoln,Troy City 3,County Auditor,,REP,Brenda Luck Schulte,413
+Lincoln,Troy Rural,County Auditor,,REP,Brenda Luck Schulte,482
+Lincoln,Birkhead,County Auditor,,REP,Brenda Luck Schulte,589
+Lincoln,Moscow Mills City,County Auditor,,REP,Brenda Luck Schulte,284
+Lincoln,Moscow Mills Rural,County Auditor,,REP,Brenda Luck Schulte,950
+Lincoln,Zoar,County Auditor,,REP,Brenda Luck Schulte,234
+Lincoln,Hawk Point,County Auditor,,REP,Brenda Luck Schulte,414
+Lincoln,Elsberry,County Auditor,,REP,Brenda Luck Schulte,343
+Lincoln,New Hope,County Auditor,,REP,Brenda Luck Schulte,216
+Lincoln,Millwood,County Auditor,,REP,Brenda Luck Schulte,317
+Lincoln,Old Monroe,County Auditor,,REP,Brenda Luck Schulte,489
+Lincoln,Winfield,County Auditor,,REP,Brenda Luck Schulte,809
+Lincoln,Brussels,County Auditor,,REP,Brenda Luck Schulte,414
+Lincoln,Briscoe,County Auditor,,REP,Brenda Luck Schulte,317
+Lincoln,Whiteside,County Auditor,,REP,Brenda Luck Schulte,160
+Lincoln,Total:,County Auditor,,REP,Brenda Luck Schulte,7162
+Lincoln,Troy City 1,Collector of Revenue,,REP,Jessica Zumwalt,410
+Lincoln,Troy City 2,Collector of Revenue,,REP,Jessica Zumwalt,386
+Lincoln,Troy City 3,Collector of Revenue,,REP,Jessica Zumwalt,442
+Lincoln,Troy Rural,Collector of Revenue,,REP,Jessica Zumwalt,532
+Lincoln,Birkhead,Collector of Revenue,,REP,Jessica Zumwalt,639
+Lincoln,Moscow Mills City,Collector of Revenue,,REP,Jessica Zumwalt,297
+Lincoln,Moscow Mills Rural,Collector of Revenue,,REP,Jessica Zumwalt,1005
+Lincoln,Zoar,Collector of Revenue,,REP,Jessica Zumwalt,243
+Lincoln,Hawk Point,Collector of Revenue,,REP,Jessica Zumwalt,457
+Lincoln,Elsberry,Collector of Revenue,,REP,Jessica Zumwalt,365
+Lincoln,New Hope,Collector of Revenue,,REP,Jessica Zumwalt,232
+Lincoln,Millwood,Collector of Revenue,,REP,Jessica Zumwalt,356
+Lincoln,Old Monroe,Collector of Revenue,,REP,Jessica Zumwalt,512
+Lincoln,Winfield,Collector of Revenue,,REP,Jessica Zumwalt,848
+Lincoln,Brussels,Collector of Revenue,,REP,Jessica Zumwalt,435
+Lincoln,Briscoe,Collector of Revenue,,REP,Jessica Zumwalt,345
+Lincoln,Whiteside,Collector of Revenue,,REP,Jessica Zumwalt,179
+Lincoln,Total:,Collector of Revenue,,REP,Jessica Zumwalt,7683
+Lincoln,Troy City 1,Recorder of Deeds,,REP,Tracy K. Martin,389
+Lincoln,Troy City 2,Recorder of Deeds,,REP,Tracy K. Martin,370
+Lincoln,Troy City 3,Recorder of Deeds,,REP,Tracy K. Martin,410
+Lincoln,Troy Rural,Recorder of Deeds,,REP,Tracy K. Martin,501
+Lincoln,Birkhead,Recorder of Deeds,,REP,Tracy K. Martin,599
+Lincoln,Moscow Mills City,Recorder of Deeds,,REP,Tracy K. Martin,292
+Lincoln,Moscow Mills Rural,Recorder of Deeds,,REP,Tracy K. Martin,972
+Lincoln,Zoar,Recorder of Deeds,,REP,Tracy K. Martin,233
+Lincoln,Hawk Point,Recorder of Deeds,,REP,Tracy K. Martin,424
+Lincoln,Elsberry,Recorder of Deeds,,REP,Tracy K. Martin,349
+Lincoln,New Hope,Recorder of Deeds,,REP,Tracy K. Martin,221
+Lincoln,Millwood,Recorder of Deeds,,REP,Tracy K. Martin,352
+Lincoln,Old Monroe,Recorder of Deeds,,REP,Tracy K. Martin,491
+Lincoln,Winfield,Recorder of Deeds,,REP,Tracy K. Martin,808
+Lincoln,Brussels,Recorder of Deeds,,REP,Tracy K. Martin,418
+Lincoln,Briscoe,Recorder of Deeds,,REP,Tracy K. Martin,331
+Lincoln,Whiteside,Recorder of Deeds,,REP,Tracy K. Martin,169
+Lincoln,Total:,Recorder of Deeds,,REP,Tracy K. Martin,7329
+Lincoln,Troy City 1,State Auditor,,DEM,Quentin Wilson,127
+Lincoln,Troy City 1,State Auditor,,DEM,Gregory Upchurch,68
+Lincoln,Troy City 2,State Auditor,,DEM,Quentin Wilson,106
+Lincoln,Troy City 2,State Auditor,,DEM,Gregory Upchurch,64
+Lincoln,Troy City 3,State Auditor,,DEM,Quentin Wilson,121
+Lincoln,Troy City 3,State Auditor,,DEM,Gregory Upchurch,65
+Lincoln,Troy Rural,State Auditor,,DEM,Quentin Wilson,105
+Lincoln,Troy Rural,State Auditor,,DEM,Gregory Upchurch,53
+Lincoln,Birkhead,State Auditor,,DEM,Quentin Wilson,123
+Lincoln,Birkhead,State Auditor,,DEM,Gregory Upchurch,98
+Lincoln,Moscow Mills City,State Auditor,,DEM,Quentin Wilson,78
+Lincoln,Moscow Mills City,State Auditor,,DEM,Gregory Upchurch,46
+Lincoln,Moscow Mills Rural,State Auditor,,DEM,Quentin Wilson,213
+Lincoln,Moscow Mills Rural,State Auditor,,DEM,Gregory Upchurch,141
+Lincoln,Zoar,State Auditor,,DEM,Quentin Wilson,60
+Lincoln,Zoar,State Auditor,,DEM,Gregory Upchurch,21
+Lincoln,Hawk Point,State Auditor,,DEM,Quentin Wilson,73
+Lincoln,Hawk Point,State Auditor,,DEM,Gregory Upchurch,49
+Lincoln,Elsberry,State Auditor,,DEM,Quentin Wilson,120
+Lincoln,Elsberry,State Auditor,,DEM,Gregory Upchurch,51
+Lincoln,New Hope,State Auditor,,DEM,Quentin Wilson,47
+Lincoln,New Hope,State Auditor,,DEM,Gregory Upchurch,21
+Lincoln,Millwood,State Auditor,,DEM,Quentin Wilson,39
+Lincoln,Millwood,State Auditor,,DEM,Gregory Upchurch,26
+Lincoln,Old Monroe,State Auditor,,DEM,Quentin Wilson,83
+Lincoln,Old Monroe,State Auditor,,DEM,Gregory Upchurch,48
+Lincoln,Winfield,State Auditor,,DEM,Quentin Wilson,137
+Lincoln,Winfield,State Auditor,,DEM,Gregory Upchurch,110
+Lincoln,Brussels,State Auditor,,DEM,Quentin Wilson,77
+Lincoln,Brussels,State Auditor,,DEM,Gregory Upchurch,60
+Lincoln,Briscoe,State Auditor,,DEM,Quentin Wilson,47
+Lincoln,Briscoe,State Auditor,,DEM,Gregory Upchurch,24
+Lincoln,Whiteside,State Auditor,,DEM,Quentin Wilson,19
+Lincoln,Whiteside,State Auditor,,DEM,Gregory Upchurch,14
+Lincoln,FEDERAL-STATE - 01,State Auditor,,DEM,Quentin Wilson,0
+Lincoln,FEDERAL-STATE - 01,State Auditor,,DEM,Gregory Upchurch,0
+Lincoln,FEDERAL-STATE - 02,State Auditor,,DEM,Quentin Wilson,0
+Lincoln,FEDERAL-STATE - 02,State Auditor,,DEM,Gregory Upchurch,0
+Lincoln,Total:,State Auditor,,DEM,Quentin Wilson,1575
+Lincoln,Total:,State Auditor,,DEM,Gregory Upchurch,959
+Lincoln,Troy City 1,U.S. House,3,DEM,Bethany E Mann,125
+Lincoln,Troy City 1,U.S. House,3,DEM,Paul T. Wilson,41
+Lincoln,Troy City 1,U.S. House,3,DEM,Tommy Holstein,36
+Lincoln,Troy City 2,U.S. House,3,DEM,Bethany E Mann,115
+Lincoln,Troy City 2,U.S. House,3,DEM,Paul T. Wilson,28
+Lincoln,Troy City 2,U.S. House,3,DEM,Tommy Holstein,32
+Lincoln,Troy City 3,U.S. House,3,DEM,Bethany E Mann,123
+Lincoln,Troy City 3,U.S. House,3,DEM,Paul T. Wilson,39
+Lincoln,Troy City 3,U.S. House,3,DEM,Tommy Holstein,31
+Lincoln,Troy Rural,U.S. House,3,DEM,Bethany E Mann,90
+Lincoln,Troy Rural,U.S. House,3,DEM,Paul T. Wilson,37
+Lincoln,Troy Rural,U.S. House,3,DEM,Tommy Holstein,31
+Lincoln,Birkhead,U.S. House,3,DEM,Bethany E Mann,155
+Lincoln,Birkhead,U.S. House,3,DEM,Paul T. Wilson,35
+Lincoln,Birkhead,U.S. House,3,DEM,Tommy Holstein,36
+Lincoln,Moscow Mills City,U.S. House,3,DEM,Bethany E Mann,86
+Lincoln,Moscow Mills City,U.S. House,3,DEM,Paul T. Wilson,22
+Lincoln,Moscow Mills City,U.S. House,3,DEM,Tommy Holstein,17
+Lincoln,Moscow Mills Rural,U.S. House,3,DEM,Bethany E Mann,206
+Lincoln,Moscow Mills Rural,U.S. House,3,DEM,Paul T. Wilson,62
+Lincoln,Moscow Mills Rural,U.S. House,3,DEM,Tommy Holstein,85
+Lincoln,Zoar,U.S. House,3,DEM,Bethany E Mann,60
+Lincoln,Zoar,U.S. House,3,DEM,Paul T. Wilson,10
+Lincoln,Zoar,U.S. House,3,DEM,Tommy Holstein,14
+Lincoln,Hawk Point,U.S. House,3,DEM,Bethany E Mann,78
+Lincoln,Hawk Point,U.S. House,3,DEM,Paul T. Wilson,20
+Lincoln,Hawk Point,U.S. House,3,DEM,Tommy Holstein,21
+Lincoln,Elsberry,U.S. House,3,DEM,Bethany E Mann,106
+Lincoln,Elsberry,U.S. House,3,DEM,Paul T. Wilson,37
+Lincoln,Elsberry,U.S. House,3,DEM,Tommy Holstein,30
+Lincoln,New Hope,U.S. House,3,DEM,Bethany E Mann,38
+Lincoln,New Hope,U.S. House,3,DEM,Paul T. Wilson,19
+Lincoln,New Hope,U.S. House,3,DEM,Tommy Holstein,10
+Lincoln,Millwood,U.S. House,3,DEM,Bethany E Mann,37
+Lincoln,Millwood,U.S. House,3,DEM,Paul T. Wilson,18
+Lincoln,Millwood,U.S. House,3,DEM,Tommy Holstein,9
+Lincoln,Old Monroe,U.S. House,3,DEM,Bethany E Mann,71
+Lincoln,Old Monroe,U.S. House,3,DEM,Paul T. Wilson,35
+Lincoln,Old Monroe,U.S. House,3,DEM,Tommy Holstein,26
+Lincoln,Winfield,U.S. House,3,DEM,Bethany E Mann,152
+Lincoln,Winfield,U.S. House,3,DEM,Paul T. Wilson,45
+Lincoln,Winfield,U.S. House,3,DEM,Tommy Holstein,53
+Lincoln,Brussels,U.S. House,3,DEM,Bethany E Mann,83
+Lincoln,Brussels,U.S. House,3,DEM,Paul T. Wilson,30
+Lincoln,Brussels,U.S. House,3,DEM,Tommy Holstein,27
+Lincoln,Briscoe,U.S. House,3,DEM,Bethany E Mann,47
+Lincoln,Briscoe,U.S. House,3,DEM,Paul T. Wilson,7
+Lincoln,Briscoe,U.S. House,3,DEM,Tommy Holstein,16
+Lincoln,Whiteside,U.S. House,3,DEM,Bethany E Mann,27
+Lincoln,Whiteside,U.S. House,3,DEM,Paul T. Wilson,3
+Lincoln,Whiteside,U.S. House,3,DEM,Tommy Holstein,4
+Lincoln,FEDERAL-STATE - 01,U.S. House,3,DEM,Bethany E Mann,0
+Lincoln,FEDERAL-STATE - 01,U.S. House,3,DEM,Paul T. Wilson,0
+Lincoln,FEDERAL-STATE - 01,U.S. House,3,DEM,Tommy Holstein,0
+Lincoln,FEDERAL-STATE - 02,U.S. House,3,DEM,Bethany E Mann,0
+Lincoln,FEDERAL-STATE - 02,U.S. House,3,DEM,Paul T. Wilson,0
+Lincoln,FEDERAL-STATE - 02,U.S. House,3,DEM,Tommy Holstein,0
+Lincoln,Total:,U.S. House,3,DEM,Bethany E Mann,1599
+Lincoln,Total:,U.S. House,3,DEM,Paul T. Wilson,488
+Lincoln,Total:,U.S. House,3,DEM,Tommy Holstein,478
+Lincoln,Troy City 1,State Senate,10,DEM,John Wells,142
+Lincoln,Troy City 1,State Senate,10,DEM,Pablo John Los,54
+Lincoln,Troy City 2,State Senate,10,DEM,John Wells,105
+Lincoln,Troy City 2,State Senate,10,DEM,Pablo John Los,63
+Lincoln,Troy City 3,State Senate,10,DEM,John Wells,150
+Lincoln,Troy City 3,State Senate,10,DEM,Pablo John Los,42
+Lincoln,Troy Rural,State Senate,10,DEM,John Wells,108
+Lincoln,Troy Rural,State Senate,10,DEM,Pablo John Los,49
+Lincoln,Birkhead,State Senate,10,DEM,John Wells,146
+Lincoln,Birkhead,State Senate,10,DEM,Pablo John Los,76
+Lincoln,Moscow Mills City,State Senate,10,DEM,John Wells,88
+Lincoln,Moscow Mills City,State Senate,10,DEM,Pablo John Los,33
+Lincoln,Moscow Mills Rural,State Senate,10,DEM,John Wells,251
+Lincoln,Moscow Mills Rural,State Senate,10,DEM,Pablo John Los,98
+Lincoln,Zoar,State Senate,10,DEM,John Wells,66
+Lincoln,Zoar,State Senate,10,DEM,Pablo John Los,17
+Lincoln,Hawk Point,State Senate,10,DEM,John Wells,88
+Lincoln,Hawk Point,State Senate,10,DEM,Pablo John Los,30
+Lincoln,Elsberry,State Senate,10,DEM,John Wells,128
+Lincoln,Elsberry,State Senate,10,DEM,Pablo John Los,42
+Lincoln,New Hope,State Senate,10,DEM,John Wells,52
+Lincoln,New Hope,State Senate,10,DEM,Pablo John Los,17
+Lincoln,Millwood,State Senate,10,DEM,John Wells,48
+Lincoln,Millwood,State Senate,10,DEM,Pablo John Los,18
+Lincoln,Old Monroe,State Senate,10,DEM,John Wells,106
+Lincoln,Old Monroe,State Senate,10,DEM,Pablo John Los,27
+Lincoln,Winfield,State Senate,10,DEM,John Wells,162
+Lincoln,Winfield,State Senate,10,DEM,Pablo John Los,89
+Lincoln,Brussels,State Senate,10,DEM,John Wells,94
+Lincoln,Brussels,State Senate,10,DEM,Pablo John Los,41
+Lincoln,Briscoe,State Senate,10,DEM,John Wells,56
+Lincoln,Briscoe,State Senate,10,DEM,Pablo John Los,12
+Lincoln,Whiteside,State Senate,10,DEM,John Wells,30
+Lincoln,Whiteside,State Senate,10,DEM,Pablo John Los,4
+Lincoln,FEDERAL-STATE - 01,State Senate,10,DEM,John Wells,0
+Lincoln,FEDERAL-STATE - 01,State Senate,10,DEM,Pablo John Los,0
+Lincoln,FEDERAL-STATE - 02,State Senate,10,DEM,John Wells,0
+Lincoln,FEDERAL-STATE - 02,State Senate,10,DEM,Pablo John Los,0
+Lincoln,Total:,State Senate,10,DEM,John Wells,1820
+Lincoln,Total:,State Senate,10,DEM,Pablo John Los,712
+Lincoln,Birkhead,State House,40,DEM,Thomas D McBeth,17
+Lincoln,Hawk Point,State House,40,DEM,Thomas D McBeth,109
+Lincoln,Elsberry,State House,40,DEM,Thomas D McBeth,159
+Lincoln,New Hope,State House,40,DEM,Thomas D McBeth,65
+Lincoln,Millwood,State House,40,DEM,Thomas D McBeth,54
+Lincoln,Old Monroe,State House,40,DEM,Thomas D McBeth,87
+Lincoln,Winfield,State House,40,DEM,Thomas D McBeth,238
+Lincoln,Brussels,State House,40,DEM,Thomas D McBeth,33
+Lincoln,Briscoe,State House,40,DEM,Thomas D McBeth,7
+Lincoln,Whiteside,State House,40,DEM,Thomas D McBeth,33
+Lincoln,FEDERAL-STATE - 02,State House,40,DEM,Thomas D McBeth,0
+Lincoln,Total:,State House,40,DEM,Thomas D McBeth,802
+Lincoln,Troy City 1,State House,41,DEM,Matthew Beger,187
+Lincoln,Troy City 2,State House,41,DEM,Matthew Beger,158
+Lincoln,Troy City 3,State House,41,DEM,Matthew Beger,181
+Lincoln,Troy Rural,State House,41,DEM,Matthew Beger,151
+Lincoln,Birkhead,State House,41,DEM,Matthew Beger,198
+Lincoln,Moscow Mills City,State House,41,DEM,Matthew Beger,115
+Lincoln,Moscow Mills Rural,State House,41,DEM,Matthew Beger,328
+Lincoln,Zoar,State House,41,DEM,Matthew Beger,75
+Lincoln,Millwood,State House,41,DEM,Matthew Beger,0
+Lincoln,Old Monroe,State House,41,DEM,Matthew Beger,31
+Lincoln,Brussels,State House,41,DEM,Matthew Beger,93
+Lincoln,Briscoe,State House,41,DEM,Matthew Beger,53
+Lincoln,FEDERAL-STATE - 01,State House,41,DEM,Matthew Beger,0
+Lincoln,Total:,State House,41,DEM,Matthew Beger,1570
+Lincoln,Troy City 1,State Auditor,,LIB,Dustin Coffell,4
+Lincoln,Troy City 2,State Auditor,,LIB,Dustin Coffell,3
+Lincoln,Troy City 3,State Auditor,,LIB,Dustin Coffell,7
+Lincoln,Troy Rural,State Auditor,,LIB,Dustin Coffell,3
+Lincoln,Birkhead,State Auditor,,LIB,Dustin Coffell,11
+Lincoln,Moscow Mills City,State Auditor,,LIB,Dustin Coffell,0
+Lincoln,Moscow Mills Rural,State Auditor,,LIB,Dustin Coffell,6
+Lincoln,Zoar,State Auditor,,LIB,Dustin Coffell,1
+Lincoln,Hawk Point,State Auditor,,LIB,Dustin Coffell,6
+Lincoln,Elsberry,State Auditor,,LIB,Dustin Coffell,9
+Lincoln,New Hope,State Auditor,,LIB,Dustin Coffell,2
+Lincoln,Millwood,State Auditor,,LIB,Dustin Coffell,1
+Lincoln,Old Monroe,State Auditor,,LIB,Dustin Coffell,6
+Lincoln,Winfield,State Auditor,,LIB,Dustin Coffell,9
+Lincoln,Brussels,State Auditor,,LIB,Dustin Coffell,6
+Lincoln,Briscoe,State Auditor,,LIB,Dustin Coffell,3
+Lincoln,Whiteside,State Auditor,,LIB,Dustin Coffell,0
+Lincoln,FEDERAL-STATE - 01,State Auditor,,LIB,Dustin Coffell,0
+Lincoln,FEDERAL-STATE - 02,State Auditor,,LIB,Dustin Coffell,0
+Lincoln,Total:,State Auditor,,LIB,Dustin Coffell,77
+Lincoln,Troy City 1,U.S. House,3,LIB,Jim Higgins,4
+Lincoln,Troy City 2,U.S. House,3,LIB,Jim Higgins,2
+Lincoln,Troy City 3,U.S. House,3,LIB,Jim Higgins,7
+Lincoln,Troy Rural,U.S. House,3,LIB,Jim Higgins,3
+Lincoln,Birkhead,U.S. House,3,LIB,Jim Higgins,10
+Lincoln,Moscow Mills City,U.S. House,3,LIB,Jim Higgins,0
+Lincoln,Moscow Mills Rural,U.S. House,3,LIB,Jim Higgins,6
+Lincoln,Zoar,U.S. House,3,LIB,Jim Higgins,1
+Lincoln,Hawk Point,U.S. House,3,LIB,Jim Higgins,6
+Lincoln,Elsberry,U.S. House,3,LIB,Jim Higgins,8
+Lincoln,New Hope,U.S. House,3,LIB,Jim Higgins,2
+Lincoln,Millwood,U.S. House,3,LIB,Jim Higgins,1
+Lincoln,Old Monroe,U.S. House,3,LIB,Jim Higgins,6
+Lincoln,Winfield,U.S. House,3,LIB,Jim Higgins,8
+Lincoln,Brussels,U.S. House,3,LIB,Jim Higgins,6
+Lincoln,Briscoe,U.S. House,3,LIB,Jim Higgins,3
+Lincoln,Whiteside,U.S. House,3,LIB,Jim Higgins,0
+Lincoln,FEDERAL-STATE - 01,U.S. House,3,LIB,Jim Higgins,0
+Lincoln,FEDERAL-STATE - 02,U.S. House,3,LIB,Jim Higgins,0
+Lincoln,Total:,U.S. House,3,LIB,Jim Higgins,73
+Lincoln,Birkhead,State House,40,LIB,Sheri Jay,0
+Lincoln,Hawk Point,State House,40,LIB,Sheri Jay,8
+Lincoln,Elsberry,State House,40,LIB,Sheri Jay,8
+Lincoln,New Hope,State House,40,LIB,Sheri Jay,2
+Lincoln,Millwood,State House,40,LIB,Sheri Jay,1
+Lincoln,Old Monroe,State House,40,LIB,Sheri Jay,5
+Lincoln,Winfield,State House,40,LIB,Sheri Jay,8
+Lincoln,Brussels,State House,40,LIB,Sheri Jay,0
+Lincoln,Briscoe,State House,40,LIB,Sheri Jay,1
+Lincoln,Whiteside,State House,40,LIB,Sheri Jay,0
+Lincoln,FEDERAL-STATE - 02,State House,40,LIB,Sheri Jay,0
+Lincoln,Total:,State House,40,LIB,Sheri Jay,33
+Lincoln,Troy City 1,State House,41,LIB,Dalton P. Johnson,6
+Lincoln,Troy City 2,State House,41,LIB,Dalton P. Johnson,2
+Lincoln,Troy City 3,State House,41,LIB,Dalton P. Johnson,7
+Lincoln,Troy Rural,State House,41,LIB,Dalton P. Johnson,3
+Lincoln,Birkhead,State House,41,LIB,Dalton P. Johnson,11
+Lincoln,Moscow Mills City,State House,41,LIB,Dalton P. Johnson,0
+Lincoln,Moscow Mills Rural,State House,41,LIB,Dalton P. Johnson,6
+Lincoln,Zoar,State House,41,LIB,Dalton P. Johnson,1
+Lincoln,Millwood,State House,41,LIB,Dalton P. Johnson,0
+Lincoln,Old Monroe,State House,41,LIB,Dalton P. Johnson,1
+Lincoln,Brussels,State House,41,LIB,Dalton P. Johnson,6
+Lincoln,Briscoe,State House,41,LIB,Dalton P. Johnson,2
+Lincoln,FEDERAL-STATE - 01,State House,41,LIB,Dalton P. Johnson,0
+Lincoln,Total:,State House,41,LIB,Dalton P. Johnson,45
+Lincoln,Troy City 1,Constitutional Amendment 1,,,Yes,600
+Lincoln,Troy City 1,Constitutional Amendment 1,,,No,180
+Lincoln,Troy City 2,Constitutional Amendment 1,,,Yes,517
+Lincoln,Troy City 2,Constitutional Amendment 1,,,No,160
+Lincoln,Troy City 3,Constitutional Amendment 1,,,Yes,621
+Lincoln,Troy City 3,Constitutional Amendment 1,,,No,186
+Lincoln,Troy Rural,Constitutional Amendment 1,,,Yes,639
+Lincoln,Troy Rural,Constitutional Amendment 1,,,No,216
+Lincoln,Birkhead,Constitutional Amendment 1,,,Yes,878
+Lincoln,Birkhead,Constitutional Amendment 1,,,No,237
+Lincoln,Moscow Mills City,Constitutional Amendment 1,,,Yes,419
+Lincoln,Moscow Mills City,Constitutional Amendment 1,,,No,122
+Lincoln,Moscow Mills Rural,Constitutional Amendment 1,,,Yes,1385
+Lincoln,Moscow Mills Rural,Constitutional Amendment 1,,,No,377
+Lincoln,Zoar,Constitutional Amendment 1,,,Yes,343
+Lincoln,Zoar,Constitutional Amendment 1,,,No,82
+Lincoln,Hawk Point,Constitutional Amendment 1,,,Yes,538
+Lincoln,Hawk Point,Constitutional Amendment 1,,,No,223
+Lincoln,Elsberry,Constitutional Amendment 1,,,Yes,516
+Lincoln,Elsberry,Constitutional Amendment 1,,,No,153
+Lincoln,New Hope,Constitutional Amendment 1,,,Yes,287
+Lincoln,New Hope,Constitutional Amendment 1,,,No,101
+Lincoln,Millwood,Constitutional Amendment 1,,,Yes,357
+Lincoln,Millwood,Constitutional Amendment 1,,,No,143
+Lincoln,Old Monroe,Constitutional Amendment 1,,,Yes,627
+Lincoln,Old Monroe,Constitutional Amendment 1,,,No,193
+Lincoln,Winfield,Constitutional Amendment 1,,,Yes,1102
+Lincoln,Winfield,Constitutional Amendment 1,,,No,339
+Lincoln,Brussels,Constitutional Amendment 1,,,Yes,549
+Lincoln,Brussels,Constitutional Amendment 1,,,No,190
+Lincoln,Briscoe,Constitutional Amendment 1,,,Yes,376
+Lincoln,Briscoe,Constitutional Amendment 1,,,No,150
+Lincoln,Whiteside,Constitutional Amendment 1,,,Yes,192
+Lincoln,Whiteside,Constitutional Amendment 1,,,No,77
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 1,,,Yes,0
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 1,,,No,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 1,,,Yes,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 1,,,No,0
+Lincoln,Total:,Constitutional Amendment 1,,,Yes,9946
+Lincoln,Total:,Constitutional Amendment 1,,,No,3129
+Lincoln,Troy City 1,Constitutional Amendment 2,,,Yes,545
+Lincoln,Troy City 1,Constitutional Amendment 2,,,No,213
+Lincoln,Troy City 2,Constitutional Amendment 2,,,Yes,506
+Lincoln,Troy City 2,Constitutional Amendment 2,,,No,157
+Lincoln,Troy City 3,Constitutional Amendment 2,,,Yes,591
+Lincoln,Troy City 3,Constitutional Amendment 2,,,No,197
+Lincoln,Troy Rural,Constitutional Amendment 2,,,Yes,667
+Lincoln,Troy Rural,Constitutional Amendment 2,,,No,164
+Lincoln,Birkhead,Constitutional Amendment 2,,,Yes,850
+Lincoln,Birkhead,Constitutional Amendment 2,,,No,245
+Lincoln,Moscow Mills City,Constitutional Amendment 2,,,Yes,439
+Lincoln,Moscow Mills City,Constitutional Amendment 2,,,No,96
+Lincoln,Moscow Mills Rural,Constitutional Amendment 2,,,Yes,1359
+Lincoln,Moscow Mills Rural,Constitutional Amendment 2,,,No,364
+Lincoln,Zoar,Constitutional Amendment 2,,,Yes,338
+Lincoln,Zoar,Constitutional Amendment 2,,,No,75
+Lincoln,Hawk Point,Constitutional Amendment 2,,,Yes,568
+Lincoln,Hawk Point,Constitutional Amendment 2,,,No,178
+Lincoln,Elsberry,Constitutional Amendment 2,,,Yes,480
+Lincoln,Elsberry,Constitutional Amendment 2,,,No,168
+Lincoln,New Hope,Constitutional Amendment 2,,,Yes,304
+Lincoln,New Hope,Constitutional Amendment 2,,,No,68
+Lincoln,Millwood,Constitutional Amendment 2,,,Yes,371
+Lincoln,Millwood,Constitutional Amendment 2,,,No,114
+Lincoln,Old Monroe,Constitutional Amendment 2,,,Yes,653
+Lincoln,Old Monroe,Constitutional Amendment 2,,,No,143
+Lincoln,Winfield,Constitutional Amendment 2,,,Yes,1089
+Lincoln,Winfield,Constitutional Amendment 2,,,No,317
+Lincoln,Brussels,Constitutional Amendment 2,,,Yes,579
+Lincoln,Brussels,Constitutional Amendment 2,,,No,140
+Lincoln,Briscoe,Constitutional Amendment 2,,,Yes,395
+Lincoln,Briscoe,Constitutional Amendment 2,,,No,107
+Lincoln,Whiteside,Constitutional Amendment 2,,,Yes,204
+Lincoln,Whiteside,Constitutional Amendment 2,,,No,54
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 2,,,Yes,0
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 2,,,No,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 2,,,Yes,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 2,,,No,0
+Lincoln,Total:,Constitutional Amendment 2,,,Yes,9938
+Lincoln,Total:,Constitutional Amendment 2,,,No,2800
+Lincoln,Troy City 1,Constitutional Amendment 4,,,Yes,164
+Lincoln,Troy City 1,Constitutional Amendment 4,,,No,629
+Lincoln,Troy City 2,Constitutional Amendment 4,,,Yes,152
+Lincoln,Troy City 2,Constitutional Amendment 4,,,No,525
+Lincoln,Troy City 3,Constitutional Amendment 4,,,Yes,179
+Lincoln,Troy City 3,Constitutional Amendment 4,,,No,634
+Lincoln,Troy Rural,Constitutional Amendment 4,,,Yes,201
+Lincoln,Troy Rural,Constitutional Amendment 4,,,No,663
+Lincoln,Birkhead,Constitutional Amendment 4,,,Yes,277
+Lincoln,Birkhead,Constitutional Amendment 4,,,No,847
+Lincoln,Moscow Mills City,Constitutional Amendment 4,,,Yes,131
+Lincoln,Moscow Mills City,Constitutional Amendment 4,,,No,413
+Lincoln,Moscow Mills Rural,Constitutional Amendment 4,,,Yes,464
+Lincoln,Moscow Mills Rural,Constitutional Amendment 4,,,No,1322
+Lincoln,Zoar,Constitutional Amendment 4,,,Yes,110
+Lincoln,Zoar,Constitutional Amendment 4,,,No,318
+Lincoln,Hawk Point,Constitutional Amendment 4,,,Yes,199
+Lincoln,Hawk Point,Constitutional Amendment 4,,,No,567
+Lincoln,Elsberry,Constitutional Amendment 4,,,Yes,179
+Lincoln,Elsberry,Constitutional Amendment 4,,,No,496
+Lincoln,New Hope,Constitutional Amendment 4,,,Yes,121
+Lincoln,New Hope,Constitutional Amendment 4,,,No,269
+Lincoln,Millwood,Constitutional Amendment 4,,,Yes,131
+Lincoln,Millwood,Constitutional Amendment 4,,,No,371
+Lincoln,Old Monroe,Constitutional Amendment 4,,,Yes,282
+Lincoln,Old Monroe,Constitutional Amendment 4,,,No,549
+Lincoln,Winfield,Constitutional Amendment 4,,,Yes,414
+Lincoln,Winfield,Constitutional Amendment 4,,,No,1033
+Lincoln,Brussels,Constitutional Amendment 4,,,Yes,194
+Lincoln,Brussels,Constitutional Amendment 4,,,No,550
+Lincoln,Briscoe,Constitutional Amendment 4,,,Yes,148
+Lincoln,Briscoe,Constitutional Amendment 4,,,No,378
+Lincoln,Whiteside,Constitutional Amendment 4,,,Yes,83
+Lincoln,Whiteside,Constitutional Amendment 4,,,No,186
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 4,,,Yes,0
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 4,,,No,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 4,,,Yes,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 4,,,No,0
+Lincoln,Total:,Constitutional Amendment 4,,,Yes,3429
+Lincoln,Total:,Constitutional Amendment 4,,,No,9750
+Lincoln,Troy City 1,Constitutional Amendment 5,,,Yes,158
+Lincoln,Troy City 1,Constitutional Amendment 5,,,No,634
+Lincoln,Troy City 2,Constitutional Amendment 5,,,Yes,148
+Lincoln,Troy City 2,Constitutional Amendment 5,,,No,533
+Lincoln,Troy City 3,Constitutional Amendment 5,,,Yes,163
+Lincoln,Troy City 3,Constitutional Amendment 5,,,No,653
+Lincoln,Troy Rural,Constitutional Amendment 5,,,Yes,190
+Lincoln,Troy Rural,Constitutional Amendment 5,,,No,674
+Lincoln,Birkhead,Constitutional Amendment 5,,,Yes,246
+Lincoln,Birkhead,Constitutional Amendment 5,,,No,876
+Lincoln,Moscow Mills City,Constitutional Amendment 5,,,Yes,109
+Lincoln,Moscow Mills City,Constitutional Amendment 5,,,No,435
+Lincoln,Moscow Mills Rural,Constitutional Amendment 5,,,Yes,397
+Lincoln,Moscow Mills Rural,Constitutional Amendment 5,,,No,1386
+Lincoln,Zoar,Constitutional Amendment 5,,,Yes,85
+Lincoln,Zoar,Constitutional Amendment 5,,,No,344
+Lincoln,Hawk Point,Constitutional Amendment 5,,,Yes,170
+Lincoln,Hawk Point,Constitutional Amendment 5,,,No,596
+Lincoln,Elsberry,Constitutional Amendment 5,,,Yes,128
+Lincoln,Elsberry,Constitutional Amendment 5,,,No,548
+Lincoln,New Hope,Constitutional Amendment 5,,,Yes,94
+Lincoln,New Hope,Constitutional Amendment 5,,,No,296
+Lincoln,Millwood,Constitutional Amendment 5,,,Yes,113
+Lincoln,Millwood,Constitutional Amendment 5,,,No,387
+Lincoln,Old Monroe,Constitutional Amendment 5,,,Yes,196
+Lincoln,Old Monroe,Constitutional Amendment 5,,,No,635
+Lincoln,Winfield,Constitutional Amendment 5,,,Yes,356
+Lincoln,Winfield,Constitutional Amendment 5,,,No,1091
+Lincoln,Brussels,Constitutional Amendment 5,,,Yes,165
+Lincoln,Brussels,Constitutional Amendment 5,,,No,582
+Lincoln,Briscoe,Constitutional Amendment 5,,,Yes,121
+Lincoln,Briscoe,Constitutional Amendment 5,,,No,407
+Lincoln,Whiteside,Constitutional Amendment 5,,,Yes,64
+Lincoln,Whiteside,Constitutional Amendment 5,,,No,206
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 5,,,Yes,0
+Lincoln,FEDERAL-STATE - 01,Constitutional Amendment 5,,,No,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 5,,,Yes,0
+Lincoln,FEDERAL-STATE - 02,Constitutional Amendment 5,,,No,0
+Lincoln,Total:,Constitutional Amendment 5,,,Yes,2903
+Lincoln,Total:,Constitutional Amendment 5,,,No,10283
+Lincoln,Birkhead,Proposition C.A.R.E.,,,Yes,59
+Lincoln,Birkhead,Proposition C.A.R.E.,,,No,53
+Lincoln,Old Monroe,Proposition C.A.R.E.,,,Yes,336
+Lincoln,Old Monroe,Proposition C.A.R.E.,,,No,228
+Lincoln,Winfield,Proposition C.A.R.E.,,,Yes,747
+Lincoln,Winfield,Proposition C.A.R.E.,,,No,680
+Lincoln,Brussels,Proposition C.A.R.E.,,,Yes,108
+Lincoln,Brussels,Proposition C.A.R.E.,,,No,117
+Lincoln,Total:,Proposition C.A.R.E.,,,Yes,1250
+Lincoln,Total:,Proposition C.A.R.E.,,,No,1078
+Lincoln,Troy City 1,Registered Voters,,,,2891
+Lincoln,Troy City 1,Ballots Cast,,,,795
+Lincoln,Troy City 2,Registered Voters,,,,2706
+Lincoln,Troy City 2,Ballots Cast,,,,684
+Lincoln,Troy City 3,Registered Voters,,,,3311
+Lincoln,Troy City 3,Ballots Cast,,,,818
+Lincoln,Troy Rural,Registered Voters,,,,2316
+Lincoln,Troy Rural,Ballots Cast,,,,867
+Lincoln,Birkhead,Registered Voters,,,,4085
+Lincoln,Birkhead,Ballots Cast,,,,1127
+Lincoln,Moscow Mills City,Registered Voters,,,,2449
+Lincoln,Moscow Mills City,Ballots Cast,,,,549
+Lincoln,Moscow Mills Rural,Registered Voters,,,,6686
+Lincoln,Moscow Mills Rural,Ballots Cast,,,,1792
+Lincoln,Zoar,Registered Voters,,,,1692
+Lincoln,Zoar,Ballots Cast,,,,430
+Lincoln,Hawk Point,Registered Voters,,,,2242
+Lincoln,Hawk Point,Ballots Cast,,,,768
+Lincoln,Elsberry,Registered Voters,,,,2550
+Lincoln,Elsberry,Ballots Cast,,,,677
+Lincoln,New Hope,Registered Voters,,,,1101
+Lincoln,New Hope,Ballots Cast,,,,393
+Lincoln,Millwood,Registered Voters,,,,1300
+Lincoln,Millwood,Ballots Cast,,,,504
+Lincoln,Old Monroe,Registered Voters,,,,2331
+Lincoln,Old Monroe,Ballots Cast,,,,836
+Lincoln,Winfield,Registered Voters,,,,4901
+Lincoln,Winfield,Ballots Cast,,,,1453
+Lincoln,Brussels,Registered Voters,,,,2506
+Lincoln,Brussels,Ballots Cast,,,,750
+Lincoln,Briscoe,Registered Voters,,,,1700
+Lincoln,Briscoe,Ballots Cast,,,,528
+Lincoln,Whiteside,Registered Voters,,,,687
+Lincoln,Whiteside,Ballots Cast,,,,270
+Lincoln,FEDERAL-STATE - 01,Registered Voters,,,,0
+Lincoln,FEDERAL-STATE - 01,Ballots Cast,,,,0
+Lincoln,FEDERAL-STATE - 02,Registered Voters,,,,0
+Lincoln,FEDERAL-STATE - 02,Ballots Cast,,,,0
+Lincoln,Total:,Registered Voters,,,,45454
+Lincoln,Total:,Ballots Cast,,,,13241

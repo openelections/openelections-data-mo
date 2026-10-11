@@ -1,0 +1,13 @@
+TITLE	WINDSOR TOWNSHIP COMMITTEEWOMAN (REPUBLICAN PARTY)
+CANDS	DIANE FOSNOW	WENDY LARSON
+1	Jurisdiction Wide	Jurisdiction Wide	-,-,-,-,-,-,-,-,-
+2	WINDSOR	WINDSOR	-,-,-,-,-,-,-,-,-
+3	WINDSOR	Normal	1883,589,31.28%,1883,453,296,65.34%,157,34.66%
+4	WINDSOR	Absentee	1883,-,-,1883,0,0,-,0,-
+5	ABSENTEE	ABSENTEE	-,-,-,-,-,-,-,-,-
+6	ABSENTEE	Normal	-,-,-,0,0,0,-,0,-
+7	ABSENTEE	Absentee	-,829,-,0,20,12,60.00%,8,40.00%
+8	Total	Total	-,-,-,-,-,-,-,-,-
+9	Total	Normal	14120,4954,35.08%,1883,453,296,65.34%,157,34.66%
+10	Total	Absentee	14120,829,5.87%,1883,20,12,60.00%,8,40.00%
+11	Total	Total	14120,5783,40.96%,1883,473,308,65.12%,165,34.88%

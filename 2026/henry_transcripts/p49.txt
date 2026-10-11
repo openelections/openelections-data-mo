@@ -1,0 +1,13 @@
+TITLE	OSAGE TOWNSHIP COMMITTEEWOMAN (DEMOCRATIC PARTY)
+CANDS	KAREN G. CROWDER	DENISE HAAS
+1	Jurisdiction Wide	Jurisdiction Wide	-,-,-,-,-,-,-,-,-
+2	OSAGE	OSAGE	-,-,-,-,-,-,-,-,-
+3	OSAGE	Normal	529,186,35.16%,529,31,23,74.19%,8,25.81%
+4	OSAGE	Absentee	529,-,-,529,0,0,-,0,-
+5	ABSENTEE	ABSENTEE	-,-,-,-,-,-,-,-,-
+6	ABSENTEE	Normal	-,-,-,0,0,0,-,0,-
+7	ABSENTEE	Absentee	-,829,-,0,6,5,83.33%,1,16.67%
+8	Total	Total	-,-,-,-,-,-,-,-,-
+9	Total	Normal	14120,4954,35.08%,529,31,23,74.19%,8,25.81%
+10	Total	Absentee	14120,829,5.87%,529,6,5,83.33%,1,16.67%
+11	Total	Total	14120,5783,40.96%,529,37,28,75.68%,9,24.32%

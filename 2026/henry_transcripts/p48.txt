@@ -1,0 +1,13 @@
+TITLE	WINDSOR TOWNSHIP COMMITTEEMAN (REPUBLICAN PARTY)
+CANDS	RICK FOSNOW	MARK LARSON
+1	Jurisdiction Wide	Jurisdiction Wide	-,-,-,-,-,-,-,-,-
+2	WINDSOR	WINDSOR	-,-,-,-,-,-,-,-,-
+3	WINDSOR	Normal	1883,589,31.28%,1883,456,300,65.79%,156,34.21%
+4	WINDSOR	Absentee	1883,-,-,1883,0,0,-,0,-
+5	ABSENTEE	ABSENTEE	-,-,-,-,-,-,-,-,-
+6	ABSENTEE	Normal	-,-,-,0,0,0,-,0,-
+7	ABSENTEE	Absentee	-,829,-,0,21,12,57.14%,9,42.86%
+8	Total	Total	-,-,-,-,-,-,-,-,-
+9	Total	Normal	14120,4954,35.08%,1883,456,300,65.79%,156,34.21%
+10	Total	Absentee	14120,829,5.87%,1883,21,12,57.14%,9,42.86%
+11	Total	Total	14120,5783,40.96%,1883,477,312,65.41%,165,34.59%

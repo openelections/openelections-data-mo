@@ -1,0 +1,417 @@
+county,precinct,office,district,party,candidate,votes
+Chariton,ST MARY'S,State Auditor,,,Scott Fitzpatrick,59
+Chariton,ST MARY'S,State Auditor,,,Gerald (Jerry) Wistrand,10
+Chariton,BRUNSWICK LEGION,State Auditor,,,Scott Fitzpatrick,175
+Chariton,BRUNSWICK LEGION,State Auditor,,,Gerald (Jerry) Wistrand,23
+Chariton,FOREST GREEN,State Auditor,,,Scott Fitzpatrick,36
+Chariton,FOREST GREEN,State Auditor,,,Gerald (Jerry) Wistrand,6
+Chariton,CLARK TWP BLDG,State Auditor,,,Scott Fitzpatrick,59
+Chariton,CLARK TWP BLDG,State Auditor,,,Gerald (Jerry) Wistrand,8
+Chariton,SUMMER LEGION,State Auditor,,,Scott Fitzpatrick,41
+Chariton,SUMMER LEGION,State Auditor,,,Gerald (Jerry) Wistrand,4
+Chariton,COURTHOUSE,State Auditor,,,Scott Fitzpatrick,100
+Chariton,COURTHOUSE,State Auditor,,,Gerald (Jerry) Wistrand,10
+Chariton,MENDON LIONS BLDG,State Auditor,,,Scott Fitzpatrick,77
+Chariton,MENDON LIONS BLDG,State Auditor,,,Gerald (Jerry) Wistrand,14
+Chariton,LIBERTY BILLS,State Auditor,,,Scott Fitzpatrick,38
+Chariton,LIBERTY BILLS,State Auditor,,,Gerald (Jerry) Wistrand,3
+Chariton,KOC,State Auditor,,,Scott Fitzpatrick,291
+Chariton,KOC,State Auditor,,,Gerald (Jerry) Wistrand,43
+Chariton,WAYLAND TWP BLDG,State Auditor,,,Scott Fitzpatrick,41
+Chariton,WAYLAND TWP BLDG,State Auditor,,,Gerald (Jerry) Wistrand,5
+Chariton,ROTHVILLE COMM BLDG,State Auditor,,,Scott Fitzpatrick,38
+Chariton,ROTHVILLE COMM BLDG,State Auditor,,,Gerald (Jerry) Wistrand,6
+Chariton,CENTRAL POLL,State Auditor,,,Scott Fitzpatrick,6
+Chariton,CENTRAL POLL,State Auditor,,,Gerald (Jerry) Wistrand,0
+Chariton,ABSENTEE,State Auditor,,,Scott Fitzpatrick,48
+Chariton,ABSENTEE,State Auditor,,,Gerald (Jerry) Wistrand,7
+Chariton,ST MARY'S,U.S. House,6,REP,Jim Ingram,9
+Chariton,ST MARY'S,U.S. House,6,REP,Chris Stigall,24
+Chariton,ST MARY'S,U.S. House,6,REP,Nathan Hall Willett,28
+Chariton,ST MARY'S,U.S. House,6,REP,Cody J. Oshel,1
+Chariton,ST MARY'S,U.S. House,6,REP,Nathanael Schultz,6
+Chariton,BRUNSWICK LEGION,U.S. House,6,REP,Jim Ingram,16
+Chariton,BRUNSWICK LEGION,U.S. House,6,REP,Chris Stigall,34
+Chariton,BRUNSWICK LEGION,U.S. House,6,REP,Nathan Hall Willett,149
+Chariton,BRUNSWICK LEGION,U.S. House,6,REP,Cody J. Oshel,4
+Chariton,BRUNSWICK LEGION,U.S. House,6,REP,Nathanael Schultz,11
+Chariton,FOREST GREEN,U.S. House,6,REP,Jim Ingram,15
+Chariton,FOREST GREEN,U.S. House,6,REP,Chris Stigall,9
+Chariton,FOREST GREEN,U.S. House,6,REP,Nathan Hall Willett,12
+Chariton,FOREST GREEN,U.S. House,6,REP,Cody J. Oshel,1
+Chariton,FOREST GREEN,U.S. House,6,REP,Nathanael Schultz,3
+Chariton,CLARK TWP BLDG,U.S. House,6,REP,Jim Ingram,15
+Chariton,CLARK TWP BLDG,U.S. House,6,REP,Chris Stigall,28
+Chariton,CLARK TWP BLDG,U.S. House,6,REP,Nathan Hall Willett,22
+Chariton,CLARK TWP BLDG,U.S. House,6,REP,Cody J. Oshel,2
+Chariton,CLARK TWP BLDG,U.S. House,6,REP,Nathanael Schultz,3
+Chariton,SUMMER LEGION,U.S. House,6,REP,Jim Ingram,3
+Chariton,SUMMER LEGION,U.S. House,6,REP,Chris Stigall,8
+Chariton,SUMMER LEGION,U.S. House,6,REP,Nathan Hall Willett,29
+Chariton,SUMMER LEGION,U.S. House,6,REP,Cody J. Oshel,1
+Chariton,SUMMER LEGION,U.S. House,6,REP,Nathanael Schultz,3
+Chariton,COURTHOUSE,U.S. House,6,REP,Jim Ingram,18
+Chariton,COURTHOUSE,U.S. House,6,REP,Chris Stigall,28
+Chariton,COURTHOUSE,U.S. House,6,REP,Nathan Hall Willett,61
+Chariton,COURTHOUSE,U.S. House,6,REP,Cody J. Oshel,2
+Chariton,COURTHOUSE,U.S. House,6,REP,Nathanael Schultz,5
+Chariton,MENDON LIONS BLDG,U.S. House,6,REP,Jim Ingram,13
+Chariton,MENDON LIONS BLDG,U.S. House,6,REP,Chris Stigall,24
+Chariton,MENDON LIONS BLDG,U.S. House,6,REP,Nathan Hall Willett,43
+Chariton,MENDON LIONS BLDG,U.S. House,6,REP,Cody J. Oshel,2
+Chariton,MENDON LIONS BLDG,U.S. House,6,REP,Nathanael Schultz,12
+Chariton,LIBERTY BILLS,U.S. House,6,REP,Jim Ingram,5
+Chariton,LIBERTY BILLS,U.S. House,6,REP,Chris Stigall,16
+Chariton,LIBERTY BILLS,U.S. House,6,REP,Nathan Hall Willett,22
+Chariton,LIBERTY BILLS,U.S. House,6,REP,Cody J. Oshel,0
+Chariton,LIBERTY BILLS,U.S. House,6,REP,Nathanael Schultz,3
+Chariton,KOC,U.S. House,6,REP,Jim Ingram,52
+Chariton,KOC,U.S. House,6,REP,Chris Stigall,98
+Chariton,KOC,U.S. House,6,REP,Nathan Hall Willett,164
+Chariton,KOC,U.S. House,6,REP,Cody J. Oshel,4
+Chariton,KOC,U.S. House,6,REP,Nathanael Schultz,32
+Chariton,WAYLAND TWP BLDG,U.S. House,6,REP,Jim Ingram,7
+Chariton,WAYLAND TWP BLDG,U.S. House,6,REP,Chris Stigall,19
+Chariton,WAYLAND TWP BLDG,U.S. House,6,REP,Nathan Hall Willett,13
+Chariton,WAYLAND TWP BLDG,U.S. House,6,REP,Cody J. Oshel,1
+Chariton,WAYLAND TWP BLDG,U.S. House,6,REP,Nathanael Schultz,5
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,REP,Jim Ingram,3
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,REP,Chris Stigall,14
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,REP,Nathan Hall Willett,21
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,REP,Cody J. Oshel,1
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,REP,Nathanael Schultz,6
+Chariton,CENTRAL POLL,U.S. House,6,REP,Jim Ingram,0
+Chariton,CENTRAL POLL,U.S. House,6,REP,Chris Stigall,0
+Chariton,CENTRAL POLL,U.S. House,6,REP,Nathan Hall Willett,7
+Chariton,CENTRAL POLL,U.S. House,6,REP,Cody J. Oshel,0
+Chariton,CENTRAL POLL,U.S. House,6,REP,Nathanael Schultz,0
+Chariton,ABSENTEE,U.S. House,6,REP,Jim Ingram,3
+Chariton,ABSENTEE,U.S. House,6,REP,Chris Stigall,23
+Chariton,ABSENTEE,U.S. House,6,REP,Nathan Hall Willett,27
+Chariton,ABSENTEE,U.S. House,6,REP,Cody J. Oshel,1
+Chariton,ABSENTEE,U.S. House,6,REP,Nathanael Schultz,1
+Chariton,ST MARY'S,State Senate,12,REP,Rusty Black,62
+Chariton,BRUNSWICK LEGION,State Senate,12,REP,Rusty Black,191
+Chariton,FOREST GREEN,State Senate,12,REP,Rusty Black,39
+Chariton,CLARK TWP BLDG,State Senate,12,REP,Rusty Black,70
+Chariton,SUMMER LEGION,State Senate,12,REP,Rusty Black,42
+Chariton,COURTHOUSE,State Senate,12,REP,Rusty Black,111
+Chariton,MENDON LIONS BLDG,State Senate,12,REP,Rusty Black,97
+Chariton,LIBERTY BILLS,State Senate,12,REP,Rusty Black,42
+Chariton,KOC,State Senate,12,REP,Rusty Black,318
+Chariton,WAYLAND TWP BLDG,State Senate,12,REP,Rusty Black,43
+Chariton,ROTHVILLE COMM BLDG,State Senate,12,REP,Rusty Black,44
+Chariton,CENTRAL POLL,State Senate,12,REP,Rusty Black,7
+Chariton,ABSENTEE,State Senate,12,REP,Rusty Black,49
+Chariton,ST MARY'S,State House,48,REP,Tim Taylor,62
+Chariton,BRUNSWICK LEGION,State House,48,REP,Tim Taylor,195
+Chariton,FOREST GREEN,State House,48,REP,Tim Taylor,43
+Chariton,CLARK TWP BLDG,State House,48,REP,Tim Taylor,68
+Chariton,SUMMER LEGION,State House,48,REP,Tim Taylor,42
+Chariton,COURTHOUSE,State House,48,REP,Tim Taylor,111
+Chariton,MENDON LIONS BLDG,State House,48,REP,Tim Taylor,97
+Chariton,LIBERTY BILLS,State House,48,REP,Tim Taylor,40
+Chariton,KOC,State House,48,REP,Tim Taylor,321
+Chariton,WAYLAND TWP BLDG,State House,48,REP,Tim Taylor,39
+Chariton,ROTHVILLE COMM BLDG,State House,48,REP,Tim Taylor,43
+Chariton,CENTRAL POLL,State House,48,REP,Tim Taylor,7
+Chariton,ABSENTEE,State House,48,REP,Tim Taylor,52
+Chariton,ST MARY'S,Presiding Commissioner,,REP,Evan M. Emmerich,63
+Chariton,BRUNSWICK LEGION,Presiding Commissioner,,REP,Evan M. Emmerich,199
+Chariton,FOREST GREEN,Presiding Commissioner,,REP,Evan M. Emmerich,39
+Chariton,CLARK TWP BLDG,Presiding Commissioner,,REP,Evan M. Emmerich,66
+Chariton,SUMMER LEGION,Presiding Commissioner,,REP,Evan M. Emmerich,45
+Chariton,COURTHOUSE,Presiding Commissioner,,REP,Evan M. Emmerich,105
+Chariton,MENDON LIONS BLDG,Presiding Commissioner,,REP,Evan M. Emmerich,98
+Chariton,LIBERTY BILLS,Presiding Commissioner,,REP,Evan M. Emmerich,44
+Chariton,KOC,Presiding Commissioner,,REP,Evan M. Emmerich,329
+Chariton,WAYLAND TWP BLDG,Presiding Commissioner,,REP,Evan M. Emmerich,46
+Chariton,ROTHVILLE COMM BLDG,Presiding Commissioner,,REP,Evan M. Emmerich,42
+Chariton,CENTRAL POLL,Presiding Commissioner,,REP,Evan M. Emmerich,7
+Chariton,ABSENTEE,Presiding Commissioner,,REP,Evan M. Emmerich,56
+Chariton,ST MARY'S,County Clerk,,REP,Kassie Lewis,60
+Chariton,BRUNSWICK LEGION,County Clerk,,REP,Kassie Lewis,200
+Chariton,FOREST GREEN,County Clerk,,REP,Kassie Lewis,35
+Chariton,CLARK TWP BLDG,County Clerk,,REP,Kassie Lewis,65
+Chariton,SUMMER LEGION,County Clerk,,REP,Kassie Lewis,42
+Chariton,COURTHOUSE,County Clerk,,REP,Kassie Lewis,94
+Chariton,MENDON LIONS BLDG,County Clerk,,REP,Kassie Lewis,94
+Chariton,LIBERTY BILLS,County Clerk,,REP,Kassie Lewis,45
+Chariton,KOC,County Clerk,,REP,Kassie Lewis,313
+Chariton,WAYLAND TWP BLDG,County Clerk,,REP,Kassie Lewis,37
+Chariton,ROTHVILLE COMM BLDG,County Clerk,,REP,Kassie Lewis,40
+Chariton,CENTRAL POLL,County Clerk,,REP,Kassie Lewis,7
+Chariton,ABSENTEE,County Clerk,,REP,Kassie Lewis,51
+Chariton,ST MARY'S,State Auditor,,DEM,Quentin Wilson,9
+Chariton,ST MARY'S,State Auditor,,DEM,Gregory Upchurch,4
+Chariton,BRUNSWICK LEGION,State Auditor,,DEM,Quentin Wilson,37
+Chariton,BRUNSWICK LEGION,State Auditor,,DEM,Gregory Upchurch,7
+Chariton,FOREST GREEN,State Auditor,,DEM,Quentin Wilson,10
+Chariton,FOREST GREEN,State Auditor,,DEM,Gregory Upchurch,7
+Chariton,CLARK TWP BLDG,State Auditor,,DEM,Quentin Wilson,21
+Chariton,CLARK TWP BLDG,State Auditor,,DEM,Gregory Upchurch,6
+Chariton,SUMMER LEGION,State Auditor,,DEM,Quentin Wilson,6
+Chariton,SUMMER LEGION,State Auditor,,DEM,Gregory Upchurch,6
+Chariton,COURTHOUSE,State Auditor,,DEM,Quentin Wilson,45
+Chariton,COURTHOUSE,State Auditor,,DEM,Gregory Upchurch,18
+Chariton,MENDON LIONS BLDG,State Auditor,,DEM,Quentin Wilson,18
+Chariton,MENDON LIONS BLDG,State Auditor,,DEM,Gregory Upchurch,10
+Chariton,LIBERTY BILLS,State Auditor,,DEM,Quentin Wilson,22
+Chariton,LIBERTY BILLS,State Auditor,,DEM,Gregory Upchurch,5
+Chariton,KOC,State Auditor,,DEM,Quentin Wilson,77
+Chariton,KOC,State Auditor,,DEM,Gregory Upchurch,40
+Chariton,WAYLAND TWP BLDG,State Auditor,,DEM,Quentin Wilson,7
+Chariton,WAYLAND TWP BLDG,State Auditor,,DEM,Gregory Upchurch,7
+Chariton,ROTHVILLE COMM BLDG,State Auditor,,DEM,Quentin Wilson,16
+Chariton,ROTHVILLE COMM BLDG,State Auditor,,DEM,Gregory Upchurch,8
+Chariton,CENTRAL POLL,State Auditor,,DEM,Quentin Wilson,0
+Chariton,CENTRAL POLL,State Auditor,,DEM,Gregory Upchurch,0
+Chariton,ABSENTEE,State Auditor,,DEM,Quentin Wilson,29
+Chariton,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,15
+Chariton,ST MARY'S,U.S. House,6,DEM,Josh Smead,7
+Chariton,ST MARY'S,U.S. House,6,DEM,Scot Pondelick,3
+Chariton,ST MARY'S,U.S. House,6,DEM,Matt Levine,3
+Chariton,BRUNSWICK LEGION,U.S. House,6,DEM,Josh Smead,30
+Chariton,BRUNSWICK LEGION,U.S. House,6,DEM,Scot Pondelick,6
+Chariton,BRUNSWICK LEGION,U.S. House,6,DEM,Matt Levine,11
+Chariton,FOREST GREEN,U.S. House,6,DEM,Josh Smead,8
+Chariton,FOREST GREEN,U.S. House,6,DEM,Scot Pondelick,2
+Chariton,FOREST GREEN,U.S. House,6,DEM,Matt Levine,9
+Chariton,CLARK TWP BLDG,U.S. House,6,DEM,Josh Smead,17
+Chariton,CLARK TWP BLDG,U.S. House,6,DEM,Scot Pondelick,3
+Chariton,CLARK TWP BLDG,U.S. House,6,DEM,Matt Levine,9
+Chariton,SUMMER LEGION,U.S. House,6,DEM,Josh Smead,6
+Chariton,SUMMER LEGION,U.S. House,6,DEM,Scot Pondelick,2
+Chariton,SUMMER LEGION,U.S. House,6,DEM,Matt Levine,3
+Chariton,COURTHOUSE,U.S. House,6,DEM,Josh Smead,42
+Chariton,COURTHOUSE,U.S. House,6,DEM,Scot Pondelick,6
+Chariton,COURTHOUSE,U.S. House,6,DEM,Matt Levine,18
+Chariton,MENDON LIONS BLDG,U.S. House,6,DEM,Josh Smead,15
+Chariton,MENDON LIONS BLDG,U.S. House,6,DEM,Scot Pondelick,6
+Chariton,MENDON LIONS BLDG,U.S. House,6,DEM,Matt Levine,9
+Chariton,LIBERTY BILLS,U.S. House,6,DEM,Josh Smead,17
+Chariton,LIBERTY BILLS,U.S. House,6,DEM,Scot Pondelick,5
+Chariton,LIBERTY BILLS,U.S. House,6,DEM,Matt Levine,6
+Chariton,KOC,U.S. House,6,DEM,Josh Smead,54
+Chariton,KOC,U.S. House,6,DEM,Scot Pondelick,19
+Chariton,KOC,U.S. House,6,DEM,Matt Levine,45
+Chariton,WAYLAND TWP BLDG,U.S. House,6,DEM,Josh Smead,4
+Chariton,WAYLAND TWP BLDG,U.S. House,6,DEM,Scot Pondelick,5
+Chariton,WAYLAND TWP BLDG,U.S. House,6,DEM,Matt Levine,4
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,DEM,Josh Smead,12
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,DEM,Scot Pondelick,3
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,DEM,Matt Levine,6
+Chariton,CENTRAL POLL,U.S. House,6,DEM,Josh Smead,0
+Chariton,CENTRAL POLL,U.S. House,6,DEM,Scot Pondelick,0
+Chariton,CENTRAL POLL,U.S. House,6,DEM,Matt Levine,0
+Chariton,ABSENTEE,U.S. House,6,DEM,Josh Smead,31
+Chariton,ABSENTEE,U.S. House,6,DEM,Scot Pondelick,5
+Chariton,ABSENTEE,U.S. House,6,DEM,Matt Levine,10
+Chariton,ST MARY'S,State Senate,12,DEM,Judy McNeece,14
+Chariton,BRUNSWICK LEGION,State Senate,12,DEM,Judy McNeece,43
+Chariton,FOREST GREEN,State Senate,12,DEM,Judy McNeece,17
+Chariton,CLARK TWP BLDG,State Senate,12,DEM,Judy McNeece,24
+Chariton,SUMMER LEGION,State Senate,12,DEM,Judy McNeece,12
+Chariton,COURTHOUSE,State Senate,12,DEM,Judy McNeece,61
+Chariton,MENDON LIONS BLDG,State Senate,12,DEM,Judy McNeece,30
+Chariton,LIBERTY BILLS,State Senate,12,DEM,Judy McNeece,28
+Chariton,KOC,State Senate,12,DEM,Judy McNeece,117
+Chariton,WAYLAND TWP BLDG,State Senate,12,DEM,Judy McNeece,12
+Chariton,ROTHVILLE COMM BLDG,State Senate,12,DEM,Judy McNeece,22
+Chariton,CENTRAL POLL,State Senate,12,DEM,Judy McNeece,0
+Chariton,ABSENTEE,State Senate,12,DEM,Judy McNeece,43
+Chariton,ST MARY'S,State House,48,DEM,Hope Tinker,13
+Chariton,BRUNSWICK LEGION,State House,48,DEM,Hope Tinker,49
+Chariton,FOREST GREEN,State House,48,DEM,Hope Tinker,20
+Chariton,CLARK TWP BLDG,State House,48,DEM,Hope Tinker,24
+Chariton,SUMMER LEGION,State House,48,DEM,Hope Tinker,11
+Chariton,COURTHOUSE,State House,48,DEM,Hope Tinker,71
+Chariton,MENDON LIONS BLDG,State House,48,DEM,Hope Tinker,30
+Chariton,LIBERTY BILLS,State House,48,DEM,Hope Tinker,29
+Chariton,KOC,State House,48,DEM,Hope Tinker,125
+Chariton,WAYLAND TWP BLDG,State House,48,DEM,Hope Tinker,14
+Chariton,ROTHVILLE COMM BLDG,State House,48,DEM,Hope Tinker,22
+Chariton,CENTRAL POLL,State House,48,DEM,Hope Tinker,0
+Chariton,ABSENTEE,State House,48,DEM,Hope Tinker,44
+Chariton,ST MARY'S,Associate Circuit Judge,,DEM,Andrea Vandeloech T,17
+Chariton,BRUNSWICK LEGION,Associate Circuit Judge,,DEM,Andrea Vandeloech T,47
+Chariton,FOREST GREEN,Associate Circuit Judge,,DEM,Andrea Vandeloech T,21
+Chariton,CLARK TWP BLDG,Associate Circuit Judge,,DEM,Andrea Vandeloech T,24
+Chariton,SUMMER LEGION,Associate Circuit Judge,,DEM,Andrea Vandeloech T,13
+Chariton,COURTHOUSE,Associate Circuit Judge,,DEM,Andrea Vandeloech T,70
+Chariton,MENDON LIONS BLDG,Associate Circuit Judge,,DEM,Andrea Vandeloech T,33
+Chariton,LIBERTY BILLS,Associate Circuit Judge,,DEM,Andrea Vandeloech T,30
+Chariton,KOC,Associate Circuit Judge,,DEM,Andrea Vandeloech T,133
+Chariton,WAYLAND TWP BLDG,Associate Circuit Judge,,DEM,Andrea Vandeloech T,13
+Chariton,ROTHVILLE COMM BLDG,Associate Circuit Judge,,DEM,Andrea Vandeloech T,24
+Chariton,CENTRAL POLL,Associate Circuit Judge,,DEM,Andrea Vandeloech T,0
+Chariton,ABSENTEE,Associate Circuit Judge,,DEM,Andrea Vandeloech T,45
+Chariton,ST MARY'S,County Clerk,,DEM,Sheila McGrew,13
+Chariton,BRUNSWICK LEGION,County Clerk,,DEM,Sheila McGrew,46
+Chariton,FOREST GREEN,County Clerk,,DEM,Sheila McGrew,18
+Chariton,CLARK TWP BLDG,County Clerk,,DEM,Sheila McGrew,23
+Chariton,SUMMER LEGION,County Clerk,,DEM,Sheila McGrew,13
+Chariton,COURTHOUSE,County Clerk,,DEM,Sheila McGrew,62
+Chariton,MENDON LIONS BLDG,County Clerk,,DEM,Sheila McGrew,23
+Chariton,LIBERTY BILLS,County Clerk,,DEM,Sheila McGrew,27
+Chariton,KOC,County Clerk,,DEM,Sheila McGrew,110
+Chariton,WAYLAND TWP BLDG,County Clerk,,DEM,Sheila McGrew,9
+Chariton,ROTHVILLE COMM BLDG,County Clerk,,DEM,Sheila McGrew,23
+Chariton,CENTRAL POLL,County Clerk,,DEM,Sheila McGrew,0
+Chariton,ABSENTEE,County Clerk,,DEM,Sheila McGrew,32
+Chariton,ST MARY'S,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,17
+Chariton,BRUNSWICK LEGION,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,49
+Chariton,FOREST GREEN,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,21
+Chariton,CLARK TWP BLDG,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,28
+Chariton,SUMMER LEGION,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,13
+Chariton,COURTHOUSE,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,75
+Chariton,MENDON LIONS BLDG,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,33
+Chariton,LIBERTY BILLS,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,30
+Chariton,KOC,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,132
+Chariton,WAYLAND TWP BLDG,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,12
+Chariton,ROTHVILLE COMM BLDG,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,25
+Chariton,CENTRAL POLL,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,0
+Chariton,ABSENTEE,Circuit Clerk/Recorder of Deeds,,DEM,Eric Stallo,45
+Chariton,ST MARY'S,Prosecuting Attorney,,DEM,Cliff Thornburg,13
+Chariton,BRUNSWICK LEGION,Prosecuting Attorney,,DEM,Cliff Thornburg,44
+Chariton,FOREST GREEN,Prosecuting Attorney,,DEM,Cliff Thornburg,18
+Chariton,CLARK TWP BLDG,Prosecuting Attorney,,DEM,Cliff Thornburg,26
+Chariton,SUMMER LEGION,Prosecuting Attorney,,DEM,Cliff Thornburg,10
+Chariton,COURTHOUSE,Prosecuting Attorney,,DEM,Cliff Thornburg,69
+Chariton,MENDON LIONS BLDG,Prosecuting Attorney,,DEM,Cliff Thornburg,31
+Chariton,LIBERTY BILLS,Prosecuting Attorney,,DEM,Cliff Thornburg,26
+Chariton,KOC,Prosecuting Attorney,,DEM,Cliff Thornburg,129
+Chariton,WAYLAND TWP BLDG,Prosecuting Attorney,,DEM,Cliff Thornburg,11
+Chariton,ROTHVILLE COMM BLDG,Prosecuting Attorney,,DEM,Cliff Thornburg,25
+Chariton,CENTRAL POLL,Prosecuting Attorney,,DEM,Cliff Thornburg,0
+Chariton,ABSENTEE,Prosecuting Attorney,,DEM,Cliff Thornburg,41
+Chariton,ST MARY'S,State Auditor,,LIB,Dustin Coffell,0
+Chariton,BRUNSWICK LEGION,State Auditor,,LIB,Dustin Coffell,3
+Chariton,FOREST GREEN,State Auditor,,LIB,Dustin Coffell,1
+Chariton,CLARK TWP BLDG,State Auditor,,LIB,Dustin Coffell,1
+Chariton,SUMMER LEGION,State Auditor,,LIB,Dustin Coffell,1
+Chariton,COURTHOUSE,State Auditor,,LIB,Dustin Coffell,1
+Chariton,MENDON LIONS BLDG,State Auditor,,LIB,Dustin Coffell,3
+Chariton,LIBERTY BILLS,State Auditor,,LIB,Dustin Coffell,0
+Chariton,KOC,State Auditor,,LIB,Dustin Coffell,2
+Chariton,WAYLAND TWP BLDG,State Auditor,,LIB,Dustin Coffell,0
+Chariton,ROTHVILLE COMM BLDG,State Auditor,,LIB,Dustin Coffell,0
+Chariton,CENTRAL POLL,State Auditor,,LIB,Dustin Coffell,0
+Chariton,ABSENTEE,State Auditor,,LIB,Dustin Coffell,1
+Chariton,ST MARY'S,U.S. House,6,LIB,Andy Maidment,0
+Chariton,BRUNSWICK LEGION,U.S. House,6,LIB,Andy Maidment,2
+Chariton,FOREST GREEN,U.S. House,6,LIB,Andy Maidment,1
+Chariton,CLARK TWP BLDG,U.S. House,6,LIB,Andy Maidment,1
+Chariton,SUMMER LEGION,U.S. House,6,LIB,Andy Maidment,1
+Chariton,COURTHOUSE,U.S. House,6,LIB,Andy Maidment,1
+Chariton,MENDON LIONS BLDG,U.S. House,6,LIB,Andy Maidment,2
+Chariton,LIBERTY BILLS,U.S. House,6,LIB,Andy Maidment,0
+Chariton,KOC,U.S. House,6,LIB,Andy Maidment,2
+Chariton,WAYLAND TWP BLDG,U.S. House,6,LIB,Andy Maidment,0
+Chariton,ROTHVILLE COMM BLDG,U.S. House,6,LIB,Andy Maidment,0
+Chariton,CENTRAL POLL,U.S. House,6,LIB,Andy Maidment,0
+Chariton,ABSENTEE,U.S. House,6,LIB,Andy Maidment,1
+Chariton,ST MARY'S,Constitutional Amendment 1,,,Yes,63
+Chariton,ST MARY'S,Constitutional Amendment 1,,,No,31
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 1,,,Yes,219
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 1,,,No,80
+Chariton,FOREST GREEN,Constitutional Amendment 1,,,Yes,55
+Chariton,FOREST GREEN,Constitutional Amendment 1,,,No,19
+Chariton,CLARK TWP BLDG,Constitutional Amendment 1,,,Yes,84
+Chariton,CLARK TWP BLDG,Constitutional Amendment 1,,,No,26
+Chariton,SUMMER LEGION,Constitutional Amendment 1,,,Yes,55
+Chariton,SUMMER LEGION,Constitutional Amendment 1,,,No,15
+Chariton,COURTHOUSE,Constitutional Amendment 1,,,Yes,165
+Chariton,COURTHOUSE,Constitutional Amendment 1,,,No,56
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 1,,,Yes,115
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 1,,,No,31
+Chariton,LIBERTY BILLS,Constitutional Amendment 1,,,Yes,69
+Chariton,LIBERTY BILLS,Constitutional Amendment 1,,,No,27
+Chariton,KOC,Constitutional Amendment 1,,,Yes,431
+Chariton,KOC,Constitutional Amendment 1,,,No,120
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 1,,,Yes,49
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 1,,,No,24
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 1,,,Yes,55
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 1,,,No,18
+Chariton,CENTRAL POLL,Constitutional Amendment 1,,,Yes,7
+Chariton,CENTRAL POLL,Constitutional Amendment 1,,,No,0
+Chariton,ABSENTEE,Constitutional Amendment 1,,,Yes,91
+Chariton,ABSENTEE,Constitutional Amendment 1,,,No,21
+Chariton,ST MARY'S,Constitutional Amendment 2,,,Yes,66
+Chariton,ST MARY'S,Constitutional Amendment 2,,,No,27
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 2,,,Yes,204
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 2,,,No,82
+Chariton,FOREST GREEN,Constitutional Amendment 2,,,Yes,52
+Chariton,FOREST GREEN,Constitutional Amendment 2,,,No,19
+Chariton,CLARK TWP BLDG,Constitutional Amendment 2,,,Yes,82
+Chariton,CLARK TWP BLDG,Constitutional Amendment 2,,,No,29
+Chariton,SUMMER LEGION,Constitutional Amendment 2,,,Yes,52
+Chariton,SUMMER LEGION,Constitutional Amendment 2,,,No,16
+Chariton,COURTHOUSE,Constitutional Amendment 2,,,Yes,157
+Chariton,COURTHOUSE,Constitutional Amendment 2,,,No,58
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 2,,,Yes,121
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 2,,,No,20
+Chariton,LIBERTY BILLS,Constitutional Amendment 2,,,Yes,71
+Chariton,LIBERTY BILLS,Constitutional Amendment 2,,,No,20
+Chariton,KOC,Constitutional Amendment 2,,,Yes,393
+Chariton,KOC,Constitutional Amendment 2,,,No,140
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 2,,,Yes,47
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 2,,,No,25
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 2,,,Yes,62
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 2,,,No,13
+Chariton,CENTRAL POLL,Constitutional Amendment 2,,,Yes,6
+Chariton,CENTRAL POLL,Constitutional Amendment 2,,,No,0
+Chariton,ABSENTEE,Constitutional Amendment 2,,,Yes,84
+Chariton,ABSENTEE,Constitutional Amendment 2,,,No,25
+Chariton,ST MARY'S,Constitutional Amendment 4,,,Yes,32
+Chariton,ST MARY'S,Constitutional Amendment 4,,,No,64
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 4,,,Yes,81
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 4,,,No,223
+Chariton,FOREST GREEN,Constitutional Amendment 4,,,Yes,10
+Chariton,FOREST GREEN,Constitutional Amendment 4,,,No,64
+Chariton,CLARK TWP BLDG,Constitutional Amendment 4,,,Yes,34
+Chariton,CLARK TWP BLDG,Constitutional Amendment 4,,,No,79
+Chariton,SUMMER LEGION,Constitutional Amendment 4,,,Yes,17
+Chariton,SUMMER LEGION,Constitutional Amendment 4,,,No,51
+Chariton,COURTHOUSE,Constitutional Amendment 4,,,Yes,45
+Chariton,COURTHOUSE,Constitutional Amendment 4,,,No,175
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 4,,,Yes,29
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 4,,,No,117
+Chariton,LIBERTY BILLS,Constitutional Amendment 4,,,Yes,29
+Chariton,LIBERTY BILLS,Constitutional Amendment 4,,,No,67
+Chariton,KOC,Constitutional Amendment 4,,,Yes,155
+Chariton,KOC,Constitutional Amendment 4,,,No,390
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 4,,,Yes,22
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 4,,,No,51
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 4,,,Yes,23
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 4,,,No,52
+Chariton,CENTRAL POLL,Constitutional Amendment 4,,,Yes,1
+Chariton,CENTRAL POLL,Constitutional Amendment 4,,,No,6
+Chariton,ABSENTEE,Constitutional Amendment 4,,,Yes,37
+Chariton,ABSENTEE,Constitutional Amendment 4,,,No,75
+Chariton,ST MARY'S,Constitutional Amendment 5,,,Yes,12
+Chariton,ST MARY'S,Constitutional Amendment 5,,,No,83
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 5,,,Yes,32
+Chariton,BRUNSWICK LEGION,Constitutional Amendment 5,,,No,273
+Chariton,FOREST GREEN,Constitutional Amendment 5,,,Yes,7
+Chariton,FOREST GREEN,Constitutional Amendment 5,,,No,68
+Chariton,CLARK TWP BLDG,Constitutional Amendment 5,,,Yes,17
+Chariton,CLARK TWP BLDG,Constitutional Amendment 5,,,No,97
+Chariton,SUMMER LEGION,Constitutional Amendment 5,,,Yes,14
+Chariton,SUMMER LEGION,Constitutional Amendment 5,,,No,54
+Chariton,COURTHOUSE,Constitutional Amendment 5,,,Yes,31
+Chariton,COURTHOUSE,Constitutional Amendment 5,,,No,192
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 5,,,Yes,15
+Chariton,MENDON LIONS BLDG,Constitutional Amendment 5,,,No,131
+Chariton,LIBERTY BILLS,Constitutional Amendment 5,,,Yes,15
+Chariton,LIBERTY BILLS,Constitutional Amendment 5,,,No,81
+Chariton,KOC,Constitutional Amendment 5,,,Yes,95
+Chariton,KOC,Constitutional Amendment 5,,,No,454
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 5,,,Yes,7
+Chariton,WAYLAND TWP BLDG,Constitutional Amendment 5,,,No,67
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 5,,,Yes,10
+Chariton,ROTHVILLE COMM BLDG,Constitutional Amendment 5,,,No,65
+Chariton,CENTRAL POLL,Constitutional Amendment 5,,,Yes,1
+Chariton,CENTRAL POLL,Constitutional Amendment 5,,,No,6
+Chariton,ABSENTEE,Constitutional Amendment 5,,,Yes,21
+Chariton,ABSENTEE,Constitutional Amendment 5,,,No,90

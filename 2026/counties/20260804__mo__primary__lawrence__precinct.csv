@@ -1,0 +1,585 @@
+county,precinct,office,district,party,candidate,votes
+Lawrence,01-SW AURORA,State Auditor,,REP,Scott Fitzpatrick,309
+Lawrence,01-SW AURORA,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,62
+Lawrence,02-SE AURORA,State Auditor,,REP,Scott Fitzpatrick,277
+Lawrence,02-SE AURORA,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,55
+Lawrence,03-NORTH AURORA,State Auditor,,REP,Scott Fitzpatrick,219
+Lawrence,03-NORTH AURORA,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,21
+Lawrence,04-BUCK PRAIRIE,State Auditor,,REP,Scott Fitzpatrick,467
+Lawrence,04-BUCK PRAIRIE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,76
+Lawrence,05-FOREST PARK,State Auditor,,REP,Scott Fitzpatrick,417
+Lawrence,05-FOREST PARK,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,46
+Lawrence,06-FREISTATT,State Auditor,,REP,Scott Fitzpatrick,77
+Lawrence,06-FREISTATT,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,12
+Lawrence,07-GREEN,State Auditor,,REP,Scott Fitzpatrick,71
+Lawrence,07-GREEN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,12
+Lawrence,08-HOBERG,State Auditor,,REP,Scott Fitzpatrick,83
+Lawrence,08-HOBERG,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,12
+Lawrence,09-LINCOLN,State Auditor,,REP,Scott Fitzpatrick,218
+Lawrence,09-LINCOLN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,40
+Lawrence,10-MT. PLEASANT,State Auditor,,REP,Scott Fitzpatrick,163
+Lawrence,10-MT. PLEASANT,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,25
+Lawrence,11-N MT. VERNON,State Auditor,,REP,Scott Fitzpatrick,386
+Lawrence,11-N MT. VERNON,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,57
+Lawrence,12-SE MT. VERNON,State Auditor,,REP,Scott Fitzpatrick,239
+Lawrence,12-SE MT. VERNON,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,47
+Lawrence,13-SW MT. VERNON,State Auditor,,REP,Scott Fitzpatrick,246
+Lawrence,13-SW MT. VERNON,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,41
+Lawrence,14-OZARK,State Auditor,,REP,Scott Fitzpatrick,208
+Lawrence,14-OZARK,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,35
+Lawrence,15-PIERCE CITY,State Auditor,,REP,Scott Fitzpatrick,248
+Lawrence,15-PIERCE CITY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Lawrence,16-RED OAK,State Auditor,,REP,Scott Fitzpatrick,63
+Lawrence,16-RED OAK,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,3
+Lawrence,17-SPRING RIVER,State Auditor,,REP,Scott Fitzpatrick,172
+Lawrence,17-SPRING RIVER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,22
+Lawrence,18-TURNBACK,State Auditor,,REP,Scott Fitzpatrick,201
+Lawrence,18-TURNBACK,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,32
+Lawrence,19-VINEYARD,State Auditor,,REP,Scott Fitzpatrick,95
+Lawrence,19-VINEYARD,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,17
+Lawrence,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,347
+Lawrence,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,51
+Lawrence,01-SW AURORA,U.S. House,7,REP,John Casey,45
+Lawrence,01-SW AURORA,U.S. House,7,REP,Grayson Hunt,53
+Lawrence,01-SW AURORA,U.S. House,7,REP,Eric W. Burlison,283
+Lawrence,02-SE AURORA,U.S. House,7,REP,John Casey,42
+Lawrence,02-SE AURORA,U.S. House,7,REP,Grayson Hunt,50
+Lawrence,02-SE AURORA,U.S. House,7,REP,Eric W. Burlison,246
+Lawrence,03-NORTH AURORA,U.S. House,7,REP,John Casey,32
+Lawrence,03-NORTH AURORA,U.S. House,7,REP,Grayson Hunt,28
+Lawrence,03-NORTH AURORA,U.S. House,7,REP,Eric W. Burlison,187
+Lawrence,04-BUCK PRAIRIE,U.S. House,7,REP,John Casey,49
+Lawrence,04-BUCK PRAIRIE,U.S. House,7,REP,Grayson Hunt,56
+Lawrence,04-BUCK PRAIRIE,U.S. House,7,REP,Eric W. Burlison,461
+Lawrence,05-FOREST PARK,U.S. House,7,REP,John Casey,67
+Lawrence,05-FOREST PARK,U.S. House,7,REP,Grayson Hunt,66
+Lawrence,05-FOREST PARK,U.S. House,7,REP,Eric W. Burlison,342
+Lawrence,06-FREISTATT,U.S. House,7,REP,John Casey,6
+Lawrence,06-FREISTATT,U.S. House,7,REP,Grayson Hunt,6
+Lawrence,06-FREISTATT,U.S. House,7,REP,Eric W. Burlison,80
+Lawrence,07-GREEN,U.S. House,7,REP,John Casey,23
+Lawrence,07-GREEN,U.S. House,7,REP,Grayson Hunt,10
+Lawrence,07-GREEN,U.S. House,7,REP,Eric W. Burlison,58
+Lawrence,08-HOBERG,U.S. House,7,REP,John Casey,12
+Lawrence,08-HOBERG,U.S. House,7,REP,Grayson Hunt,11
+Lawrence,08-HOBERG,U.S. House,7,REP,Eric W. Burlison,76
+Lawrence,09-LINCOLN,U.S. House,7,REP,John Casey,46
+Lawrence,09-LINCOLN,U.S. House,7,REP,Grayson Hunt,38
+Lawrence,09-LINCOLN,U.S. House,7,REP,Eric W. Burlison,189
+Lawrence,10-MT. PLEASANT,U.S. House,7,REP,John Casey,36
+Lawrence,10-MT. PLEASANT,U.S. House,7,REP,Grayson Hunt,28
+Lawrence,10-MT. PLEASANT,U.S. House,7,REP,Eric W. Burlison,129
+Lawrence,11-N MT. VERNON,U.S. House,7,REP,John Casey,67
+Lawrence,11-N MT. VERNON,U.S. House,7,REP,Grayson Hunt,44
+Lawrence,11-N MT. VERNON,U.S. House,7,REP,Eric W. Burlison,353
+Lawrence,12-SE MT. VERNON,U.S. House,7,REP,John Casey,36
+Lawrence,12-SE MT. VERNON,U.S. House,7,REP,Grayson Hunt,40
+Lawrence,12-SE MT. VERNON,U.S. House,7,REP,Eric W. Burlison,220
+Lawrence,13-SW MT. VERNON,U.S. House,7,REP,John Casey,41
+Lawrence,13-SW MT. VERNON,U.S. House,7,REP,Grayson Hunt,35
+Lawrence,13-SW MT. VERNON,U.S. House,7,REP,Eric W. Burlison,227
+Lawrence,14-OZARK,U.S. House,7,REP,John Casey,38
+Lawrence,14-OZARK,U.S. House,7,REP,Grayson Hunt,38
+Lawrence,14-OZARK,U.S. House,7,REP,Eric W. Burlison,180
+Lawrence,15-PIERCE CITY,U.S. House,7,REP,John Casey,39
+Lawrence,15-PIERCE CITY,U.S. House,7,REP,Grayson Hunt,40
+Lawrence,15-PIERCE CITY,U.S. House,7,REP,Eric W. Burlison,214
+Lawrence,16-RED OAK,U.S. House,7,REP,John Casey,8
+Lawrence,16-RED OAK,U.S. House,7,REP,Grayson Hunt,8
+Lawrence,16-RED OAK,U.S. House,7,REP,Eric W. Burlison,55
+Lawrence,17-SPRING RIVER,U.S. House,7,REP,John Casey,32
+Lawrence,17-SPRING RIVER,U.S. House,7,REP,Grayson Hunt,30
+Lawrence,17-SPRING RIVER,U.S. House,7,REP,Eric W. Burlison,138
+Lawrence,18-TURNBACK,U.S. House,7,REP,John Casey,28
+Lawrence,18-TURNBACK,U.S. House,7,REP,Grayson Hunt,26
+Lawrence,18-TURNBACK,U.S. House,7,REP,Eric W. Burlison,189
+Lawrence,19-VINEYARD,U.S. House,7,REP,John Casey,16
+Lawrence,19-VINEYARD,U.S. House,7,REP,Grayson Hunt,13
+Lawrence,19-VINEYARD,U.S. House,7,REP,Eric W. Burlison,87
+Lawrence,ABSENTEE,U.S. House,7,REP,John Casey,57
+Lawrence,ABSENTEE,U.S. House,7,REP,Grayson Hunt,48
+Lawrence,ABSENTEE,U.S. House,7,REP,Eric W. Burlison,311
+Lawrence,01-SW AURORA,State House,157,REP,Mitch Boggs,354
+Lawrence,02-SE AURORA,State House,157,REP,Mitch Boggs,300
+Lawrence,03-NORTH AURORA,State House,157,REP,Mitch Boggs,238
+Lawrence,04-BUCK PRAIRIE,State House,157,REP,Mitch Boggs,516
+Lawrence,05-FOREST PARK,State House,157,REP,Mitch Boggs,444
+Lawrence,06-FREISTATT,State House,157,REP,Mitch Boggs,88
+Lawrence,07-GREEN,State House,157,REP,Mitch Boggs,71
+Lawrence,08-HOBERG,State House,157,REP,Mitch Boggs,87
+Lawrence,09-LINCOLN,State House,157,REP,Mitch Boggs,247
+Lawrence,10-MT. PLEASANT,State House,157,REP,Mitch Boggs,172
+Lawrence,11-N MT. VERNON,State House,157,REP,Mitch Boggs,408
+Lawrence,12-SE MT. VERNON,State House,157,REP,Mitch Boggs,264
+Lawrence,13-SW MT. VERNON,State House,157,REP,Mitch Boggs,273
+Lawrence,14-OZARK,State House,157,REP,Mitch Boggs,222
+Lawrence,15-PIERCE CITY,State House,157,REP,Mitch Boggs,276
+Lawrence,16-RED OAK,State House,157,REP,Mitch Boggs,62
+Lawrence,17-SPRING RIVER,State House,157,REP,Mitch Boggs,190
+Lawrence,18-TURNBACK,State House,157,REP,Mitch Boggs,225
+Lawrence,19-VINEYARD,State House,157,REP,Mitch Boggs,100
+Lawrence,ABSENTEE,State House,157,REP,Mitch Boggs,362
+Lawrence,01-SW AURORA,Associate Circuit Judge Division I,,REP,Don Trotter,342
+Lawrence,02-SE AURORA,Associate Circuit Judge Division I,,REP,Don Trotter,296
+Lawrence,03-NORTH AURORA,Associate Circuit Judge Division I,,REP,Don Trotter,216
+Lawrence,04-BUCK PRAIRIE,Associate Circuit Judge Division I,,REP,Don Trotter,495
+Lawrence,05-FOREST PARK,Associate Circuit Judge Division I,,REP,Don Trotter,445
+Lawrence,06-FREISTATT,Associate Circuit Judge Division I,,REP,Don Trotter,87
+Lawrence,07-GREEN,Associate Circuit Judge Division I,,REP,Don Trotter,64
+Lawrence,08-HOBERG,Associate Circuit Judge Division I,,REP,Don Trotter,83
+Lawrence,09-LINCOLN,Associate Circuit Judge Division I,,REP,Don Trotter,238
+Lawrence,10-MT. PLEASANT,Associate Circuit Judge Division I,,REP,Don Trotter,173
+Lawrence,11-N MT. VERNON,Associate Circuit Judge Division I,,REP,Don Trotter,414
+Lawrence,12-SE MT. VERNON,Associate Circuit Judge Division I,,REP,Don Trotter,277
+Lawrence,13-SW MT. VERNON,Associate Circuit Judge Division I,,REP,Don Trotter,272
+Lawrence,14-OZARK,Associate Circuit Judge Division I,,REP,Don Trotter,209
+Lawrence,15-PIERCE CITY,Associate Circuit Judge Division I,,REP,Don Trotter,260
+Lawrence,16-RED OAK,Associate Circuit Judge Division I,,REP,Don Trotter,55
+Lawrence,17-SPRING RIVER,Associate Circuit Judge Division I,,REP,Don Trotter,179
+Lawrence,18-TURNBACK,Associate Circuit Judge Division I,,REP,Don Trotter,218
+Lawrence,19-VINEYARD,Associate Circuit Judge Division I,,REP,Don Trotter,98
+Lawrence,ABSENTEE,Associate Circuit Judge Division I,,REP,Don Trotter,367
+Lawrence,01-SW AURORA,Associate Circuit Judge Division II,,REP,Matthew Kasper,331
+Lawrence,02-SE AURORA,Associate Circuit Judge Division II,,REP,Matthew Kasper,292
+Lawrence,03-NORTH AURORA,Associate Circuit Judge Division II,,REP,Matthew Kasper,213
+Lawrence,04-BUCK PRAIRIE,Associate Circuit Judge Division II,,REP,Matthew Kasper,484
+Lawrence,05-FOREST PARK,Associate Circuit Judge Division II,,REP,Matthew Kasper,439
+Lawrence,06-FREISTATT,Associate Circuit Judge Division II,,REP,Matthew Kasper,83
+Lawrence,07-GREEN,Associate Circuit Judge Division II,,REP,Matthew Kasper,61
+Lawrence,08-HOBERG,Associate Circuit Judge Division II,,REP,Matthew Kasper,83
+Lawrence,09-LINCOLN,Associate Circuit Judge Division II,,REP,Matthew Kasper,236
+Lawrence,10-MT. PLEASANT,Associate Circuit Judge Division II,,REP,Matthew Kasper,168
+Lawrence,11-N MT. VERNON,Associate Circuit Judge Division II,,REP,Matthew Kasper,403
+Lawrence,12-SE MT. VERNON,Associate Circuit Judge Division II,,REP,Matthew Kasper,272
+Lawrence,13-SW MT. VERNON,Associate Circuit Judge Division II,,REP,Matthew Kasper,270
+Lawrence,14-OZARK,Associate Circuit Judge Division II,,REP,Matthew Kasper,209
+Lawrence,15-PIERCE CITY,Associate Circuit Judge Division II,,REP,Matthew Kasper,252
+Lawrence,16-RED OAK,Associate Circuit Judge Division II,,REP,Matthew Kasper,54
+Lawrence,17-SPRING RIVER,Associate Circuit Judge Division II,,REP,Matthew Kasper,174
+Lawrence,18-TURNBACK,Associate Circuit Judge Division II,,REP,Matthew Kasper,208
+Lawrence,19-VINEYARD,Associate Circuit Judge Division II,,REP,Matthew Kasper,99
+Lawrence,ABSENTEE,Associate Circuit Judge Division II,,REP,Matthew Kasper,351
+Lawrence,01-SW AURORA,Presiding Commissioner,,REP,Bob Senninger,332
+Lawrence,02-SE AURORA,Presiding Commissioner,,REP,Bob Senninger,286
+Lawrence,03-NORTH AURORA,Presiding Commissioner,,REP,Bob Senninger,216
+Lawrence,04-BUCK PRAIRIE,Presiding Commissioner,,REP,Bob Senninger,486
+Lawrence,05-FOREST PARK,Presiding Commissioner,,REP,Bob Senninger,435
+Lawrence,06-FREISTATT,Presiding Commissioner,,REP,Bob Senninger,89
+Lawrence,07-GREEN,Presiding Commissioner,,REP,Bob Senninger,67
+Lawrence,08-HOBERG,Presiding Commissioner,,REP,Bob Senninger,89
+Lawrence,09-LINCOLN,Presiding Commissioner,,REP,Bob Senninger,243
+Lawrence,10-MT. PLEASANT,Presiding Commissioner,,REP,Bob Senninger,173
+Lawrence,11-N MT. VERNON,Presiding Commissioner,,REP,Bob Senninger,426
+Lawrence,12-SE MT. VERNON,Presiding Commissioner,,REP,Bob Senninger,280
+Lawrence,13-SW MT. VERNON,Presiding Commissioner,,REP,Bob Senninger,283
+Lawrence,14-OZARK,Presiding Commissioner,,REP,Bob Senninger,211
+Lawrence,15-PIERCE CITY,Presiding Commissioner,,REP,Bob Senninger,251
+Lawrence,16-RED OAK,Presiding Commissioner,,REP,Bob Senninger,57
+Lawrence,17-SPRING RIVER,Presiding Commissioner,,REP,Bob Senninger,179
+Lawrence,18-TURNBACK,Presiding Commissioner,,REP,Bob Senninger,208
+Lawrence,19-VINEYARD,Presiding Commissioner,,REP,Bob Senninger,104
+Lawrence,ABSENTEE,Presiding Commissioner,,REP,Bob Senninger,369
+Lawrence,01-SW AURORA,County Clerk,,REP,Tammy (Cole) Riebe,337
+Lawrence,02-SE AURORA,County Clerk,,REP,Tammy (Cole) Riebe,294
+Lawrence,03-NORTH AURORA,County Clerk,,REP,Tammy (Cole) Riebe,226
+Lawrence,04-BUCK PRAIRIE,County Clerk,,REP,Tammy (Cole) Riebe,495
+Lawrence,05-FOREST PARK,County Clerk,,REP,Tammy (Cole) Riebe,431
+Lawrence,06-FREISTATT,County Clerk,,REP,Tammy (Cole) Riebe,85
+Lawrence,07-GREEN,County Clerk,,REP,Tammy (Cole) Riebe,68
+Lawrence,08-HOBERG,County Clerk,,REP,Tammy (Cole) Riebe,87
+Lawrence,09-LINCOLN,County Clerk,,REP,Tammy (Cole) Riebe,247
+Lawrence,10-MT. PLEASANT,County Clerk,,REP,Tammy (Cole) Riebe,171
+Lawrence,11-N MT. VERNON,County Clerk,,REP,Tammy (Cole) Riebe,414
+Lawrence,12-SE MT. VERNON,County Clerk,,REP,Tammy (Cole) Riebe,282
+Lawrence,13-SW MT. VERNON,County Clerk,,REP,Tammy (Cole) Riebe,280
+Lawrence,14-OZARK,County Clerk,,REP,Tammy (Cole) Riebe,217
+Lawrence,15-PIERCE CITY,County Clerk,,REP,Tammy (Cole) Riebe,250
+Lawrence,16-RED OAK,County Clerk,,REP,Tammy (Cole) Riebe,55
+Lawrence,17-SPRING RIVER,County Clerk,,REP,Tammy (Cole) Riebe,180
+Lawrence,18-TURNBACK,County Clerk,,REP,Tammy (Cole) Riebe,210
+Lawrence,19-VINEYARD,County Clerk,,REP,Tammy (Cole) Riebe,98
+Lawrence,ABSENTEE,County Clerk,,REP,Tammy (Cole) Riebe,397
+Lawrence,01-SW AURORA,Circuit Clerk,,REP,Pam Mieswinkel Fobair,337
+Lawrence,02-SE AURORA,Circuit Clerk,,REP,Pam Mieswinkel Fobair,296
+Lawrence,03-NORTH AURORA,Circuit Clerk,,REP,Pam Mieswinkel Fobair,219
+Lawrence,04-BUCK PRAIRIE,Circuit Clerk,,REP,Pam Mieswinkel Fobair,498
+Lawrence,05-FOREST PARK,Circuit Clerk,,REP,Pam Mieswinkel Fobair,434
+Lawrence,06-FREISTATT,Circuit Clerk,,REP,Pam Mieswinkel Fobair,85
+Lawrence,07-GREEN,Circuit Clerk,,REP,Pam Mieswinkel Fobair,69
+Lawrence,08-HOBERG,Circuit Clerk,,REP,Pam Mieswinkel Fobair,88
+Lawrence,09-LINCOLN,Circuit Clerk,,REP,Pam Mieswinkel Fobair,250
+Lawrence,10-MT. PLEASANT,Circuit Clerk,,REP,Pam Mieswinkel Fobair,169
+Lawrence,11-N MT. VERNON,Circuit Clerk,,REP,Pam Mieswinkel Fobair,411
+Lawrence,12-SE MT. VERNON,Circuit Clerk,,REP,Pam Mieswinkel Fobair,272
+Lawrence,13-SW MT. VERNON,Circuit Clerk,,REP,Pam Mieswinkel Fobair,285
+Lawrence,14-OZARK,Circuit Clerk,,REP,Pam Mieswinkel Fobair,220
+Lawrence,15-PIERCE CITY,Circuit Clerk,,REP,Pam Mieswinkel Fobair,250
+Lawrence,16-RED OAK,Circuit Clerk,,REP,Pam Mieswinkel Fobair,57
+Lawrence,17-SPRING RIVER,Circuit Clerk,,REP,Pam Mieswinkel Fobair,180
+Lawrence,18-TURNBACK,Circuit Clerk,,REP,Pam Mieswinkel Fobair,210
+Lawrence,19-VINEYARD,Circuit Clerk,,REP,Pam Mieswinkel Fobair,104
+Lawrence,ABSENTEE,Circuit Clerk,,REP,Pam Mieswinkel Fobair,373
+Lawrence,01-SW AURORA,Recorder of Deeds,,REP,Denise Massie,336
+Lawrence,02-SE AURORA,Recorder of Deeds,,REP,Denise Massie,292
+Lawrence,03-NORTH AURORA,Recorder of Deeds,,REP,Denise Massie,217
+Lawrence,04-BUCK PRAIRIE,Recorder of Deeds,,REP,Denise Massie,494
+Lawrence,05-FOREST PARK,Recorder of Deeds,,REP,Denise Massie,429
+Lawrence,06-FREISTATT,Recorder of Deeds,,REP,Denise Massie,86
+Lawrence,07-GREEN,Recorder of Deeds,,REP,Denise Massie,69
+Lawrence,08-HOBERG,Recorder of Deeds,,REP,Denise Massie,88
+Lawrence,09-LINCOLN,Recorder of Deeds,,REP,Denise Massie,249
+Lawrence,10-MT. PLEASANT,Recorder of Deeds,,REP,Denise Massie,171
+Lawrence,11-N MT. VERNON,Recorder of Deeds,,REP,Denise Massie,420
+Lawrence,12-SE MT. VERNON,Recorder of Deeds,,REP,Denise Massie,277
+Lawrence,13-SW MT. VERNON,Recorder of Deeds,,REP,Denise Massie,288
+Lawrence,14-OZARK,Recorder of Deeds,,REP,Denise Massie,215
+Lawrence,15-PIERCE CITY,Recorder of Deeds,,REP,Denise Massie,256
+Lawrence,16-RED OAK,Recorder of Deeds,,REP,Denise Massie,57
+Lawrence,17-SPRING RIVER,Recorder of Deeds,,REP,Denise Massie,177
+Lawrence,18-TURNBACK,Recorder of Deeds,,REP,Denise Massie,208
+Lawrence,19-VINEYARD,Recorder of Deeds,,REP,Denise Massie,106
+Lawrence,ABSENTEE,Recorder of Deeds,,REP,Denise Massie,384
+Lawrence,01-SW AURORA,County Treasurer,,REP,Steve Wendler,335
+Lawrence,02-SE AURORA,County Treasurer,,REP,Steve Wendler,289
+Lawrence,03-NORTH AURORA,County Treasurer,,REP,Steve Wendler,219
+Lawrence,04-BUCK PRAIRIE,County Treasurer,,REP,Steve Wendler,490
+Lawrence,05-FOREST PARK,County Treasurer,,REP,Steve Wendler,433
+Lawrence,06-FREISTATT,County Treasurer,,REP,Steve Wendler,84
+Lawrence,07-GREEN,County Treasurer,,REP,Steve Wendler,66
+Lawrence,08-HOBERG,County Treasurer,,REP,Steve Wendler,90
+Lawrence,09-LINCOLN,County Treasurer,,REP,Steve Wendler,246
+Lawrence,10-MT. PLEASANT,County Treasurer,,REP,Steve Wendler,171
+Lawrence,11-N MT. VERNON,County Treasurer,,REP,Steve Wendler,425
+Lawrence,12-SE MT. VERNON,County Treasurer,,REP,Steve Wendler,280
+Lawrence,13-SW MT. VERNON,County Treasurer,,REP,Steve Wendler,283
+Lawrence,14-OZARK,County Treasurer,,REP,Steve Wendler,209
+Lawrence,15-PIERCE CITY,County Treasurer,,REP,Steve Wendler,253
+Lawrence,16-RED OAK,County Treasurer,,REP,Steve Wendler,56
+Lawrence,17-SPRING RIVER,County Treasurer,,REP,Steve Wendler,176
+Lawrence,18-TURNBACK,County Treasurer,,REP,Steve Wendler,210
+Lawrence,19-VINEYARD,County Treasurer,,REP,Steve Wendler,103
+Lawrence,ABSENTEE,County Treasurer,,REP,Steve Wendler,380
+Lawrence,01-SW AURORA,Prosecuting Attorney,,REP,Darlene Parrigon,332
+Lawrence,02-SE AURORA,Prosecuting Attorney,,REP,Darlene Parrigon,291
+Lawrence,03-NORTH AURORA,Prosecuting Attorney,,REP,Darlene Parrigon,220
+Lawrence,04-BUCK PRAIRIE,Prosecuting Attorney,,REP,Darlene Parrigon,477
+Lawrence,05-FOREST PARK,Prosecuting Attorney,,REP,Darlene Parrigon,425
+Lawrence,06-FREISTATT,Prosecuting Attorney,,REP,Darlene Parrigon,81
+Lawrence,07-GREEN,Prosecuting Attorney,,REP,Darlene Parrigon,65
+Lawrence,08-HOBERG,Prosecuting Attorney,,REP,Darlene Parrigon,84
+Lawrence,09-LINCOLN,Prosecuting Attorney,,REP,Darlene Parrigon,241
+Lawrence,10-MT. PLEASANT,Prosecuting Attorney,,REP,Darlene Parrigon,165
+Lawrence,11-N MT. VERNON,Prosecuting Attorney,,REP,Darlene Parrigon,386
+Lawrence,12-SE MT. VERNON,Prosecuting Attorney,,REP,Darlene Parrigon,266
+Lawrence,13-SW MT. VERNON,Prosecuting Attorney,,REP,Darlene Parrigon,268
+Lawrence,14-OZARK,Prosecuting Attorney,,REP,Darlene Parrigon,206
+Lawrence,15-PIERCE CITY,Prosecuting Attorney,,REP,Darlene Parrigon,247
+Lawrence,16-RED OAK,Prosecuting Attorney,,REP,Darlene Parrigon,55
+Lawrence,17-SPRING RIVER,Prosecuting Attorney,,REP,Darlene Parrigon,171
+Lawrence,18-TURNBACK,Prosecuting Attorney,,REP,Darlene Parrigon,197
+Lawrence,19-VINEYARD,Prosecuting Attorney,,REP,Darlene Parrigon,95
+Lawrence,ABSENTEE,Prosecuting Attorney,,REP,Darlene Parrigon,354
+Lawrence,01-SW AURORA,Collector of Revenue,,REP,Erin Owens,334
+Lawrence,02-SE AURORA,Collector of Revenue,,REP,Erin Owens,293
+Lawrence,03-NORTH AURORA,Collector of Revenue,,REP,Erin Owens,216
+Lawrence,04-BUCK PRAIRIE,Collector of Revenue,,REP,Erin Owens,488
+Lawrence,05-FOREST PARK,Collector of Revenue,,REP,Erin Owens,434
+Lawrence,06-FREISTATT,Collector of Revenue,,REP,Erin Owens,82
+Lawrence,07-GREEN,Collector of Revenue,,REP,Erin Owens,64
+Lawrence,08-HOBERG,Collector of Revenue,,REP,Erin Owens,86
+Lawrence,09-LINCOLN,Collector of Revenue,,REP,Erin Owens,246
+Lawrence,10-MT. PLEASANT,Collector of Revenue,,REP,Erin Owens,170
+Lawrence,11-N MT. VERNON,Collector of Revenue,,REP,Erin Owens,407
+Lawrence,12-SE MT. VERNON,Collector of Revenue,,REP,Erin Owens,269
+Lawrence,13-SW MT. VERNON,Collector of Revenue,,REP,Erin Owens,271
+Lawrence,14-OZARK,Collector of Revenue,,REP,Erin Owens,210
+Lawrence,15-PIERCE CITY,Collector of Revenue,,REP,Erin Owens,249
+Lawrence,16-RED OAK,Collector of Revenue,,REP,Erin Owens,52
+Lawrence,17-SPRING RIVER,Collector of Revenue,,REP,Erin Owens,178
+Lawrence,18-TURNBACK,Collector of Revenue,,REP,Erin Owens,206
+Lawrence,19-VINEYARD,Collector of Revenue,,REP,Erin Owens,101
+Lawrence,ABSENTEE,Collector of Revenue,,REP,Erin Owens,364
+Lawrence,01-SW AURORA,State Auditor,,DEM,Quentin Wilson,53
+Lawrence,01-SW AURORA,State Auditor,,DEM,Gregory Upchurch,29
+Lawrence,02-SE AURORA,State Auditor,,DEM,Quentin Wilson,33
+Lawrence,02-SE AURORA,State Auditor,,DEM,Gregory Upchurch,30
+Lawrence,03-NORTH AURORA,State Auditor,,DEM,Quentin Wilson,16
+Lawrence,03-NORTH AURORA,State Auditor,,DEM,Gregory Upchurch,9
+Lawrence,04-BUCK PRAIRIE,State Auditor,,DEM,Quentin Wilson,55
+Lawrence,04-BUCK PRAIRIE,State Auditor,,DEM,Gregory Upchurch,34
+Lawrence,05-FOREST PARK,State Auditor,,DEM,Quentin Wilson,70
+Lawrence,05-FOREST PARK,State Auditor,,DEM,Gregory Upchurch,52
+Lawrence,06-FREISTATT,State Auditor,,DEM,Quentin Wilson,3
+Lawrence,06-FREISTATT,State Auditor,,DEM,Gregory Upchurch,4
+Lawrence,07-GREEN,State Auditor,,DEM,Quentin Wilson,10
+Lawrence,07-GREEN,State Auditor,,DEM,Gregory Upchurch,6
+Lawrence,08-HOBERG,State Auditor,,DEM,Quentin Wilson,11
+Lawrence,08-HOBERG,State Auditor,,DEM,Gregory Upchurch,4
+Lawrence,09-LINCOLN,State Auditor,,DEM,Quentin Wilson,23
+Lawrence,09-LINCOLN,State Auditor,,DEM,Gregory Upchurch,14
+Lawrence,10-MT. PLEASANT,State Auditor,,DEM,Quentin Wilson,10
+Lawrence,10-MT. PLEASANT,State Auditor,,DEM,Gregory Upchurch,9
+Lawrence,11-N MT. VERNON,State Auditor,,DEM,Quentin Wilson,30
+Lawrence,11-N MT. VERNON,State Auditor,,DEM,Gregory Upchurch,28
+Lawrence,12-SE MT. VERNON,State Auditor,,DEM,Quentin Wilson,33
+Lawrence,12-SE MT. VERNON,State Auditor,,DEM,Gregory Upchurch,23
+Lawrence,13-SW MT. VERNON,State Auditor,,DEM,Quentin Wilson,37
+Lawrence,13-SW MT. VERNON,State Auditor,,DEM,Gregory Upchurch,22
+Lawrence,14-OZARK,State Auditor,,DEM,Quentin Wilson,21
+Lawrence,14-OZARK,State Auditor,,DEM,Gregory Upchurch,14
+Lawrence,15-PIERCE CITY,State Auditor,,DEM,Quentin Wilson,29
+Lawrence,15-PIERCE CITY,State Auditor,,DEM,Gregory Upchurch,22
+Lawrence,16-RED OAK,State Auditor,,DEM,Quentin Wilson,1
+Lawrence,16-RED OAK,State Auditor,,DEM,Gregory Upchurch,2
+Lawrence,17-SPRING RIVER,State Auditor,,DEM,Quentin Wilson,19
+Lawrence,17-SPRING RIVER,State Auditor,,DEM,Gregory Upchurch,23
+Lawrence,18-TURNBACK,State Auditor,,DEM,Quentin Wilson,29
+Lawrence,18-TURNBACK,State Auditor,,DEM,Gregory Upchurch,10
+Lawrence,19-VINEYARD,State Auditor,,DEM,Quentin Wilson,8
+Lawrence,19-VINEYARD,State Auditor,,DEM,Gregory Upchurch,1
+Lawrence,ABSENTEE,State Auditor,,DEM,Quentin Wilson,75
+Lawrence,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,45
+Lawrence,01-SW AURORA,U.S. House,7,DEM,Missi Hesketh,84
+Lawrence,02-SE AURORA,U.S. House,7,DEM,Missi Hesketh,62
+Lawrence,03-NORTH AURORA,U.S. House,7,DEM,Missi Hesketh,25
+Lawrence,04-BUCK PRAIRIE,U.S. House,7,DEM,Missi Hesketh,86
+Lawrence,05-FOREST PARK,U.S. House,7,DEM,Missi Hesketh,128
+Lawrence,06-FREISTATT,U.S. House,7,DEM,Missi Hesketh,9
+Lawrence,07-GREEN,U.S. House,7,DEM,Missi Hesketh,15
+Lawrence,08-HOBERG,U.S. House,7,DEM,Missi Hesketh,14
+Lawrence,09-LINCOLN,U.S. House,7,DEM,Missi Hesketh,34
+Lawrence,10-MT. PLEASANT,U.S. House,7,DEM,Missi Hesketh,18
+Lawrence,11-N MT. VERNON,U.S. House,7,DEM,Missi Hesketh,57
+Lawrence,12-SE MT. VERNON,U.S. House,7,DEM,Missi Hesketh,56
+Lawrence,13-SW MT. VERNON,U.S. House,7,DEM,Missi Hesketh,59
+Lawrence,14-OZARK,U.S. House,7,DEM,Missi Hesketh,38
+Lawrence,15-PIERCE CITY,U.S. House,7,DEM,Missi Hesketh,52
+Lawrence,16-RED OAK,U.S. House,7,DEM,Missi Hesketh,3
+Lawrence,17-SPRING RIVER,U.S. House,7,DEM,Missi Hesketh,41
+Lawrence,18-TURNBACK,U.S. House,7,DEM,Missi Hesketh,41
+Lawrence,19-VINEYARD,U.S. House,7,DEM,Missi Hesketh,10
+Lawrence,ABSENTEE,U.S. House,7,DEM,Missi Hesketh,125
+Lawrence,01-SW AURORA,State House,157,DEM,Bradley Bos,81
+Lawrence,02-SE AURORA,State House,157,DEM,Bradley Bos,59
+Lawrence,03-NORTH AURORA,State House,157,DEM,Bradley Bos,25
+Lawrence,04-BUCK PRAIRIE,State House,157,DEM,Bradley Bos,85
+Lawrence,05-FOREST PARK,State House,157,DEM,Bradley Bos,127
+Lawrence,06-FREISTATT,State House,157,DEM,Bradley Bos,7
+Lawrence,07-GREEN,State House,157,DEM,Bradley Bos,15
+Lawrence,08-HOBERG,State House,157,DEM,Bradley Bos,12
+Lawrence,09-LINCOLN,State House,157,DEM,Bradley Bos,34
+Lawrence,10-MT. PLEASANT,State House,157,DEM,Bradley Bos,19
+Lawrence,11-N MT. VERNON,State House,157,DEM,Bradley Bos,55
+Lawrence,12-SE MT. VERNON,State House,157,DEM,Bradley Bos,57
+Lawrence,13-SW MT. VERNON,State House,157,DEM,Bradley Bos,57
+Lawrence,14-OZARK,State House,157,DEM,Bradley Bos,38
+Lawrence,15-PIERCE CITY,State House,157,DEM,Bradley Bos,54
+Lawrence,16-RED OAK,State House,157,DEM,Bradley Bos,3
+Lawrence,17-SPRING RIVER,State House,157,DEM,Bradley Bos,39
+Lawrence,18-TURNBACK,State House,157,DEM,Bradley Bos,39
+Lawrence,19-VINEYARD,State House,157,DEM,Bradley Bos,10
+Lawrence,ABSENTEE,State House,157,DEM,Bradley Bos,123
+Lawrence,01-SW AURORA,State Auditor,,LIB,Dustin Coffell,0
+Lawrence,02-SE AURORA,State Auditor,,LIB,Dustin Coffell,3
+Lawrence,03-NORTH AURORA,State Auditor,,LIB,Dustin Coffell,3
+Lawrence,04-BUCK PRAIRIE,State Auditor,,LIB,Dustin Coffell,2
+Lawrence,05-FOREST PARK,State Auditor,,LIB,Dustin Coffell,1
+Lawrence,06-FREISTATT,State Auditor,,LIB,Dustin Coffell,0
+Lawrence,07-GREEN,State Auditor,,LIB,Dustin Coffell,0
+Lawrence,08-HOBERG,State Auditor,,LIB,Dustin Coffell,1
+Lawrence,09-LINCOLN,State Auditor,,LIB,Dustin Coffell,2
+Lawrence,10-MT. PLEASANT,State Auditor,,LIB,Dustin Coffell,1
+Lawrence,11-N MT. VERNON,State Auditor,,LIB,Dustin Coffell,2
+Lawrence,12-SE MT. VERNON,State Auditor,,LIB,Dustin Coffell,0
+Lawrence,13-SW MT. VERNON,State Auditor,,LIB,Dustin Coffell,3
+Lawrence,14-OZARK,State Auditor,,LIB,Dustin Coffell,3
+Lawrence,15-PIERCE CITY,State Auditor,,LIB,Dustin Coffell,0
+Lawrence,16-RED OAK,State Auditor,,LIB,Dustin Coffell,2
+Lawrence,17-SPRING RIVER,State Auditor,,LIB,Dustin Coffell,0
+Lawrence,18-TURNBACK,State Auditor,,LIB,Dustin Coffell,4
+Lawrence,19-VINEYARD,State Auditor,,LIB,Dustin Coffell,1
+Lawrence,ABSENTEE,State Auditor,,LIB,Dustin Coffell,2
+Lawrence,01-SW AURORA,U.S. House,7,LIB,Kevin Craig,1
+Lawrence,02-SE AURORA,U.S. House,7,LIB,Kevin Craig,3
+Lawrence,03-NORTH AURORA,U.S. House,7,LIB,Kevin Craig,3
+Lawrence,04-BUCK PRAIRIE,U.S. House,7,LIB,Kevin Craig,2
+Lawrence,05-FOREST PARK,U.S. House,7,LIB,Kevin Craig,1
+Lawrence,06-FREISTATT,U.S. House,7,LIB,Kevin Craig,0
+Lawrence,07-GREEN,U.S. House,7,LIB,Kevin Craig,0
+Lawrence,08-HOBERG,U.S. House,7,LIB,Kevin Craig,1
+Lawrence,09-LINCOLN,U.S. House,7,LIB,Kevin Craig,2
+Lawrence,10-MT. PLEASANT,U.S. House,7,LIB,Kevin Craig,1
+Lawrence,11-N MT. VERNON,U.S. House,7,LIB,Kevin Craig,2
+Lawrence,12-SE MT. VERNON,U.S. House,7,LIB,Kevin Craig,0
+Lawrence,13-SW MT. VERNON,U.S. House,7,LIB,Kevin Craig,3
+Lawrence,14-OZARK,U.S. House,7,LIB,Kevin Craig,3
+Lawrence,15-PIERCE CITY,U.S. House,7,LIB,Kevin Craig,0
+Lawrence,16-RED OAK,U.S. House,7,LIB,Kevin Craig,2
+Lawrence,17-SPRING RIVER,U.S. House,7,LIB,Kevin Craig,0
+Lawrence,18-TURNBACK,U.S. House,7,LIB,Kevin Craig,4
+Lawrence,19-VINEYARD,U.S. House,7,LIB,Kevin Craig,1
+Lawrence,ABSENTEE,U.S. House,7,LIB,Kevin Craig,2
+Lawrence,11-N MT. VERNON,Township Committeeman,,REP,David Clyde Hubbard,113
+Lawrence,11-N MT. VERNON,Township Committeeman,,REP,Doug Sexton,296
+Lawrence,ABSENTEE,Township Committeeman,,REP,David Clyde Hubbard,12
+Lawrence,ABSENTEE,Township Committeeman,,REP,Doug Sexton,33
+Lawrence,01-SW AURORA,Constitutional Amendment 1,,,Yes,428
+Lawrence,01-SW AURORA,Constitutional Amendment 1,,,No,105
+Lawrence,02-SE AURORA,Constitutional Amendment 1,,,Yes,381
+Lawrence,02-SE AURORA,Constitutional Amendment 1,,,No,83
+Lawrence,03-NORTH AURORA,Constitutional Amendment 1,,,Yes,256
+Lawrence,03-NORTH AURORA,Constitutional Amendment 1,,,No,63
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 1,,,Yes,588
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 1,,,No,169
+Lawrence,05-FOREST PARK,Constitutional Amendment 1,,,Yes,597
+Lawrence,05-FOREST PARK,Constitutional Amendment 1,,,No,120
+Lawrence,06-FREISTATT,Constitutional Amendment 1,,,Yes,94
+Lawrence,06-FREISTATT,Constitutional Amendment 1,,,No,18
+Lawrence,07-GREEN,Constitutional Amendment 1,,,Yes,77
+Lawrence,07-GREEN,Constitutional Amendment 1,,,No,36
+Lawrence,08-HOBERG,Constitutional Amendment 1,,,Yes,99
+Lawrence,08-HOBERG,Constitutional Amendment 1,,,No,28
+Lawrence,09-LINCOLN,Constitutional Amendment 1,,,Yes,268
+Lawrence,09-LINCOLN,Constitutional Amendment 1,,,No,99
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 1,,,Yes,175
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 1,,,No,59
+Lawrence,11-N MT. VERNON,Constitutional Amendment 1,,,Yes,461
+Lawrence,11-N MT. VERNON,Constitutional Amendment 1,,,No,132
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 1,,,Yes,337
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 1,,,No,74
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 1,,,Yes,321
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 1,,,No,98
+Lawrence,14-OZARK,Constitutional Amendment 1,,,Yes,250
+Lawrence,14-OZARK,Constitutional Amendment 1,,,No,79
+Lawrence,15-PIERCE CITY,Constitutional Amendment 1,,,Yes,313
+Lawrence,15-PIERCE CITY,Constitutional Amendment 1,,,No,117
+Lawrence,16-RED OAK,Constitutional Amendment 1,,,Yes,57
+Lawrence,16-RED OAK,Constitutional Amendment 1,,,No,27
+Lawrence,17-SPRING RIVER,Constitutional Amendment 1,,,Yes,243
+Lawrence,17-SPRING RIVER,Constitutional Amendment 1,,,No,57
+Lawrence,18-TURNBACK,Constitutional Amendment 1,,,Yes,239
+Lawrence,18-TURNBACK,Constitutional Amendment 1,,,No,83
+Lawrence,19-VINEYARD,Constitutional Amendment 1,,,Yes,110
+Lawrence,19-VINEYARD,Constitutional Amendment 1,,,No,45
+Lawrence,ABSENTEE,Constitutional Amendment 1,,,Yes,500
+Lawrence,ABSENTEE,Constitutional Amendment 1,,,No,120
+Lawrence,01-SW AURORA,Constitutional Amendment 2,,,Yes,439
+Lawrence,01-SW AURORA,Constitutional Amendment 2,,,No,85
+Lawrence,02-SE AURORA,Constitutional Amendment 2,,,Yes,364
+Lawrence,02-SE AURORA,Constitutional Amendment 2,,,No,95
+Lawrence,03-NORTH AURORA,Constitutional Amendment 2,,,Yes,251
+Lawrence,03-NORTH AURORA,Constitutional Amendment 2,,,No,63
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 2,,,Yes,588
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 2,,,No,152
+Lawrence,05-FOREST PARK,Constitutional Amendment 2,,,Yes,557
+Lawrence,05-FOREST PARK,Constitutional Amendment 2,,,No,154
+Lawrence,06-FREISTATT,Constitutional Amendment 2,,,Yes,88
+Lawrence,06-FREISTATT,Constitutional Amendment 2,,,No,21
+Lawrence,07-GREEN,Constitutional Amendment 2,,,Yes,79
+Lawrence,07-GREEN,Constitutional Amendment 2,,,No,34
+Lawrence,08-HOBERG,Constitutional Amendment 2,,,Yes,104
+Lawrence,08-HOBERG,Constitutional Amendment 2,,,No,18
+Lawrence,09-LINCOLN,Constitutional Amendment 2,,,Yes,261
+Lawrence,09-LINCOLN,Constitutional Amendment 2,,,No,97
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 2,,,Yes,180
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 2,,,No,52
+Lawrence,11-N MT. VERNON,Constitutional Amendment 2,,,Yes,463
+Lawrence,11-N MT. VERNON,Constitutional Amendment 2,,,No,108
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 2,,,Yes,322
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 2,,,No,80
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 2,,,Yes,318
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 2,,,No,100
+Lawrence,14-OZARK,Constitutional Amendment 2,,,Yes,263
+Lawrence,14-OZARK,Constitutional Amendment 2,,,No,58
+Lawrence,15-PIERCE CITY,Constitutional Amendment 2,,,Yes,286
+Lawrence,15-PIERCE CITY,Constitutional Amendment 2,,,No,133
+Lawrence,16-RED OAK,Constitutional Amendment 2,,,Yes,64
+Lawrence,16-RED OAK,Constitutional Amendment 2,,,No,14
+Lawrence,17-SPRING RIVER,Constitutional Amendment 2,,,Yes,226
+Lawrence,17-SPRING RIVER,Constitutional Amendment 2,,,No,70
+Lawrence,18-TURNBACK,Constitutional Amendment 2,,,Yes,243
+Lawrence,18-TURNBACK,Constitutional Amendment 2,,,No,76
+Lawrence,19-VINEYARD,Constitutional Amendment 2,,,Yes,115
+Lawrence,19-VINEYARD,Constitutional Amendment 2,,,No,36
+Lawrence,ABSENTEE,Constitutional Amendment 2,,,Yes,475
+Lawrence,ABSENTEE,Constitutional Amendment 2,,,No,134
+Lawrence,01-SW AURORA,Constitutional Amendment 4,,,Yes,128
+Lawrence,01-SW AURORA,Constitutional Amendment 4,,,No,404
+Lawrence,02-SE AURORA,Constitutional Amendment 4,,,Yes,91
+Lawrence,02-SE AURORA,Constitutional Amendment 4,,,No,373
+Lawrence,03-NORTH AURORA,Constitutional Amendment 4,,,Yes,68
+Lawrence,03-NORTH AURORA,Constitutional Amendment 4,,,No,254
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 4,,,Yes,170
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 4,,,No,586
+Lawrence,05-FOREST PARK,Constitutional Amendment 4,,,Yes,115
+Lawrence,05-FOREST PARK,Constitutional Amendment 4,,,No,603
+Lawrence,06-FREISTATT,Constitutional Amendment 4,,,Yes,20
+Lawrence,06-FREISTATT,Constitutional Amendment 4,,,No,92
+Lawrence,07-GREEN,Constitutional Amendment 4,,,Yes,33
+Lawrence,07-GREEN,Constitutional Amendment 4,,,No,83
+Lawrence,08-HOBERG,Constitutional Amendment 4,,,Yes,36
+Lawrence,08-HOBERG,Constitutional Amendment 4,,,No,91
+Lawrence,09-LINCOLN,Constitutional Amendment 4,,,Yes,86
+Lawrence,09-LINCOLN,Constitutional Amendment 4,,,No,284
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 4,,,Yes,52
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 4,,,No,182
+Lawrence,11-N MT. VERNON,Constitutional Amendment 4,,,Yes,129
+Lawrence,11-N MT. VERNON,Constitutional Amendment 4,,,No,465
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 4,,,Yes,69
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 4,,,No,342
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 4,,,Yes,77
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 4,,,No,348
+Lawrence,14-OZARK,Constitutional Amendment 4,,,Yes,82
+Lawrence,14-OZARK,Constitutional Amendment 4,,,No,249
+Lawrence,15-PIERCE CITY,Constitutional Amendment 4,,,Yes,79
+Lawrence,15-PIERCE CITY,Constitutional Amendment 4,,,No,349
+Lawrence,16-RED OAK,Constitutional Amendment 4,,,Yes,26
+Lawrence,16-RED OAK,Constitutional Amendment 4,,,No,58
+Lawrence,17-SPRING RIVER,Constitutional Amendment 4,,,Yes,58
+Lawrence,17-SPRING RIVER,Constitutional Amendment 4,,,No,243
+Lawrence,18-TURNBACK,Constitutional Amendment 4,,,Yes,77
+Lawrence,18-TURNBACK,Constitutional Amendment 4,,,No,247
+Lawrence,19-VINEYARD,Constitutional Amendment 4,,,Yes,42
+Lawrence,19-VINEYARD,Constitutional Amendment 4,,,No,114
+Lawrence,ABSENTEE,Constitutional Amendment 4,,,Yes,143
+Lawrence,ABSENTEE,Constitutional Amendment 4,,,No,472
+Lawrence,01-SW AURORA,Constitutional Amendment 5,,,Yes,92
+Lawrence,01-SW AURORA,Constitutional Amendment 5,,,No,443
+Lawrence,02-SE AURORA,Constitutional Amendment 5,,,Yes,91
+Lawrence,02-SE AURORA,Constitutional Amendment 5,,,No,373
+Lawrence,03-NORTH AURORA,Constitutional Amendment 5,,,Yes,57
+Lawrence,03-NORTH AURORA,Constitutional Amendment 5,,,No,265
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 5,,,Yes,115
+Lawrence,04-BUCK PRAIRIE,Constitutional Amendment 5,,,No,642
+Lawrence,05-FOREST PARK,Constitutional Amendment 5,,,Yes,99
+Lawrence,05-FOREST PARK,Constitutional Amendment 5,,,No,619
+Lawrence,06-FREISTATT,Constitutional Amendment 5,,,Yes,13
+Lawrence,06-FREISTATT,Constitutional Amendment 5,,,No,100
+Lawrence,07-GREEN,Constitutional Amendment 5,,,Yes,29
+Lawrence,07-GREEN,Constitutional Amendment 5,,,No,88
+Lawrence,08-HOBERG,Constitutional Amendment 5,,,Yes,25
+Lawrence,08-HOBERG,Constitutional Amendment 5,,,No,103
+Lawrence,09-LINCOLN,Constitutional Amendment 5,,,Yes,57
+Lawrence,09-LINCOLN,Constitutional Amendment 5,,,No,313
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 5,,,Yes,46
+Lawrence,10-MT. PLEASANT,Constitutional Amendment 5,,,No,185
+Lawrence,11-N MT. VERNON,Constitutional Amendment 5,,,Yes,78
+Lawrence,11-N MT. VERNON,Constitutional Amendment 5,,,No,516
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 5,,,Yes,51
+Lawrence,12-SE MT. VERNON,Constitutional Amendment 5,,,No,362
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 5,,,Yes,63
+Lawrence,13-SW MT. VERNON,Constitutional Amendment 5,,,No,362
+Lawrence,14-OZARK,Constitutional Amendment 5,,,Yes,61
+Lawrence,14-OZARK,Constitutional Amendment 5,,,No,269
+Lawrence,15-PIERCE CITY,Constitutional Amendment 5,,,Yes,45
+Lawrence,15-PIERCE CITY,Constitutional Amendment 5,,,No,379
+Lawrence,16-RED OAK,Constitutional Amendment 5,,,Yes,22
+Lawrence,16-RED OAK,Constitutional Amendment 5,,,No,60
+Lawrence,17-SPRING RIVER,Constitutional Amendment 5,,,Yes,39
+Lawrence,17-SPRING RIVER,Constitutional Amendment 5,,,No,260
+Lawrence,18-TURNBACK,Constitutional Amendment 5,,,Yes,73
+Lawrence,18-TURNBACK,Constitutional Amendment 5,,,No,251
+Lawrence,19-VINEYARD,Constitutional Amendment 5,,,Yes,32
+Lawrence,19-VINEYARD,Constitutional Amendment 5,,,No,125
+Lawrence,ABSENTEE,Constitutional Amendment 5,,,Yes,121
+Lawrence,ABSENTEE,Constitutional Amendment 5,,,No,498

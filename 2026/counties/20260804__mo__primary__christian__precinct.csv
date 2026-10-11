@@ -1,0 +1,915 @@
+county,precinct,office,district,party,candidate,votes
+Christian,1. E. BENTON/3. BRUNER,State Auditor,,REP,Scott Fitzpatrick,216
+Christian,1. E. BENTON/3. BRUNER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,39
+Christian,2. W. BENTON/14. LINDEN,State Auditor,,REP,Scott Fitzpatrick,417
+Christian,2. W. BENTON/14. LINDEN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,92
+Christian,SL 18. OF 25.SEN,State Auditor,,REP,Scott Fitzpatrick,277
+Christian,SL 18. OF 25.SEN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,41
+Christian,5. RIVERSIDE,State Auditor,,REP,Scott Fitzpatrick,858
+Christian,5. RIVERSIDE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,157
+Christian,6. CASSIDY 1,State Auditor,,REP,Scott Fitzpatrick,368
+Christian,6. CASSIDY 1,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,64
+Christian,7. WEST FINELY 1,State Auditor,,REP,Scott Fitzpatrick,188
+Christian,7. WEST FINELY 1,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,49
+Christian,8. EAST FINLEY,State Auditor,,REP,Scott Fitzpatrick,709
+Christian,8. EAST FINLEY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,137
+Christian,9. NORTH GALLOWAY,State Auditor,,REP,Scott Fitzpatrick,376
+Christian,9. NORTH GALLOWAY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,96
+Christian,10. SOUTH GALLOWAY,State Auditor,,REP,Scott Fitzpatrick,480
+Christian,10. SOUTH GALLOWAY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,92
+Christian,13. LINCOLN #1,State Auditor,,REP,Scott Fitzpatrick,411
+Christian,13. LINCOLN #1,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,81
+Christian,15. NORTH LINN,State Auditor,,REP,Scott Fitzpatrick,201
+Christian,15. NORTH LINN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,34
+Christian,17. McCRAKEN,State Auditor,,REP,Scott Fitzpatrick,351
+Christian,17. McCRAKEN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,57
+Christian,19. UNION CHAPEL 1B,State Auditor,,REP,Scott Fitzpatrick,147
+Christian,19. UNION CHAPEL 1B,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,17
+Christian,20. POLK,State Auditor,,REP,Scott Fitzpatrick,522
+Christian,20. POLK,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,82
+Christian,21. UNION CHAPEL 1A,State Auditor,,REP,Scott Fitzpatrick,398
+Christian,21. UNION CHAPEL 1A,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,72
+Christian,23. GARDEN GROVE,State Auditor,,REP,Scott Fitzpatrick,382
+Christian,23. GARDEN GROVE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,88
+Christian,24. NORTHVIEW,State Auditor,,REP,Scott Fitzpatrick,416
+Christian,24. NORTHVIEW,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,55
+Christian,26. SPARTA,State Auditor,,REP,Scott Fitzpatrick,284
+Christian,26. SPARTA,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,57
+Christian,28. ROSEDALE 2,State Auditor,,REP,Scott Fitzpatrick,399
+Christian,28. ROSEDALE 2,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,77
+Christian,29. NORTHVIEW,State Auditor,,REP,Scott Fitzpatrick,449
+Christian,29. NORTHVIEW,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,64
+Christian,30. ROSEDALE 1,State Auditor,,REP,Scott Fitzpatrick,659
+Christian,30. ROSEDALE 1,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,114
+Christian,31. UNION CHAPEL 2,State Auditor,,REP,Scott Fitzpatrick,605
+Christian,31. UNION CHAPEL 2,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,109
+Christian,32. CASSIDY #2,State Auditor,,REP,Scott Fitzpatrick,588
+Christian,32. CASSIDY #2,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,93
+Christian,33. LINCOLN #2,State Auditor,,REP,Scott Fitzpatrick,271
+Christian,33. LINCOLN #2,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,59
+Christian,34. WEST FINELY 2,State Auditor,,REP,Scott Fitzpatrick,247
+Christian,34. WEST FINELY 2,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,43
+Christian,35. NORTHVIEW,State Auditor,,REP,Scott Fitzpatrick,284
+Christian,35. NORTHVIEW,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,43
+Christian,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,863
+Christian,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,154
+Christian,1. E. BENTON/3. BRUNER,U.S. House,7,REP,John Casey,42
+Christian,1. E. BENTON/3. BRUNER,U.S. House,7,REP,Grayson Hunt,28
+Christian,1. E. BENTON/3. BRUNER,U.S. House,7,REP,Eric W. Burlison,196
+Christian,2. W. BENTON/14. LINDEN,U.S. House,7,REP,John Casey,51
+Christian,2. W. BENTON/14. LINDEN,U.S. House,7,REP,Grayson Hunt,56
+Christian,2. W. BENTON/14. LINDEN,U.S. House,7,REP,Eric W. Burlison,440
+Christian,SL 18. OF 25.SEN,U.S. House,7,REP,John Casey,46
+Christian,SL 18. OF 25.SEN,U.S. House,7,REP,Grayson Hunt,33
+Christian,SL 18. OF 25.SEN,U.S. House,7,REP,Eric W. Burlison,258
+Christian,5. RIVERSIDE,U.S. House,7,REP,John Casey,119
+Christian,5. RIVERSIDE,U.S. House,7,REP,Grayson Hunt,132
+Christian,5. RIVERSIDE,U.S. House,7,REP,Eric W. Burlison,864
+Christian,6. CASSIDY 1,U.S. House,7,REP,John Casey,58
+Christian,6. CASSIDY 1,U.S. House,7,REP,Grayson Hunt,60
+Christian,6. CASSIDY 1,U.S. House,7,REP,Eric W. Burlison,359
+Christian,7. WEST FINELY 1,U.S. House,7,REP,John Casey,31
+Christian,7. WEST FINELY 1,U.S. House,7,REP,Grayson Hunt,41
+Christian,7. WEST FINELY 1,U.S. House,7,REP,Eric W. Burlison,176
+Christian,8. EAST FINLEY,U.S. House,7,REP,John Casey,121
+Christian,8. EAST FINLEY,U.S. House,7,REP,Grayson Hunt,97
+Christian,8. EAST FINLEY,U.S. House,7,REP,Eric W. Burlison,702
+Christian,9. NORTH GALLOWAY,U.S. House,7,REP,John Casey,51
+Christian,9. NORTH GALLOWAY,U.S. House,7,REP,Grayson Hunt,64
+Christian,9. NORTH GALLOWAY,U.S. House,7,REP,Eric W. Burlison,405
+Christian,10. SOUTH GALLOWAY,U.S. House,7,REP,John Casey,67
+Christian,10. SOUTH GALLOWAY,U.S. House,7,REP,Grayson Hunt,76
+Christian,10. SOUTH GALLOWAY,U.S. House,7,REP,Eric W. Burlison,485
+Christian,13. LINCOLN #1,U.S. House,7,REP,John Casey,75
+Christian,13. LINCOLN #1,U.S. House,7,REP,Grayson Hunt,67
+Christian,13. LINCOLN #1,U.S. House,7,REP,Eric W. Burlison,386
+Christian,15. NORTH LINN,U.S. House,7,REP,John Casey,35
+Christian,15. NORTH LINN,U.S. House,7,REP,Grayson Hunt,29
+Christian,15. NORTH LINN,U.S. House,7,REP,Eric W. Burlison,184
+Christian,17. McCRAKEN,U.S. House,7,REP,John Casey,44
+Christian,17. McCRAKEN,U.S. House,7,REP,Grayson Hunt,58
+Christian,17. McCRAKEN,U.S. House,7,REP,Eric W. Burlison,346
+Christian,19. UNION CHAPEL 1B,U.S. House,7,REP,John Casey,15
+Christian,19. UNION CHAPEL 1B,U.S. House,7,REP,Grayson Hunt,20
+Christian,19. UNION CHAPEL 1B,U.S. House,7,REP,Eric W. Burlison,144
+Christian,20. POLK,U.S. House,7,REP,John Casey,83
+Christian,20. POLK,U.S. House,7,REP,Grayson Hunt,62
+Christian,20. POLK,U.S. House,7,REP,Eric W. Burlison,509
+Christian,21. UNION CHAPEL 1A,U.S. House,7,REP,John Casey,54
+Christian,21. UNION CHAPEL 1A,U.S. House,7,REP,Grayson Hunt,52
+Christian,21. UNION CHAPEL 1A,U.S. House,7,REP,Eric W. Burlison,409
+Christian,23. GARDEN GROVE,U.S. House,7,REP,John Casey,61
+Christian,23. GARDEN GROVE,U.S. House,7,REP,Grayson Hunt,85
+Christian,23. GARDEN GROVE,U.S. House,7,REP,Eric W. Burlison,380
+Christian,24. NORTHVIEW,U.S. House,7,REP,John Casey,49
+Christian,24. NORTHVIEW,U.S. House,7,REP,Grayson Hunt,62
+Christian,24. NORTHVIEW,U.S. House,7,REP,Eric W. Burlison,394
+Christian,26. SPARTA,U.S. House,7,REP,John Casey,51
+Christian,26. SPARTA,U.S. House,7,REP,Grayson Hunt,33
+Christian,26. SPARTA,U.S. House,7,REP,Eric W. Burlison,286
+Christian,28. ROSEDALE 2,U.S. House,7,REP,John Casey,54
+Christian,28. ROSEDALE 2,U.S. House,7,REP,Grayson Hunt,68
+Christian,28. ROSEDALE 2,U.S. House,7,REP,Eric W. Burlison,405
+Christian,29. NORTHVIEW,U.S. House,7,REP,John Casey,62
+Christian,29. NORTHVIEW,U.S. House,7,REP,Grayson Hunt,59
+Christian,29. NORTHVIEW,U.S. House,7,REP,Eric W. Burlison,438
+Christian,30. ROSEDALE 1,U.S. House,7,REP,John Casey,104
+Christian,30. ROSEDALE 1,U.S. House,7,REP,Grayson Hunt,107
+Christian,30. ROSEDALE 1,U.S. House,7,REP,Eric W. Burlison,606
+Christian,31. UNION CHAPEL 2,U.S. House,7,REP,John Casey,76
+Christian,31. UNION CHAPEL 2,U.S. House,7,REP,Grayson Hunt,76
+Christian,31. UNION CHAPEL 2,U.S. House,7,REP,Eric W. Burlison,615
+Christian,32. CASSIDY #2,U.S. House,7,REP,John Casey,84
+Christian,32. CASSIDY #2,U.S. House,7,REP,Grayson Hunt,88
+Christian,32. CASSIDY #2,U.S. House,7,REP,Eric W. Burlison,589
+Christian,33. LINCOLN #2,U.S. House,7,REP,John Casey,41
+Christian,33. LINCOLN #2,U.S. House,7,REP,Grayson Hunt,46
+Christian,33. LINCOLN #2,U.S. House,7,REP,Eric W. Burlison,271
+Christian,34. WEST FINELY 2,U.S. House,7,REP,John Casey,34
+Christian,34. WEST FINELY 2,U.S. House,7,REP,Grayson Hunt,52
+Christian,34. WEST FINELY 2,U.S. House,7,REP,Eric W. Burlison,230
+Christian,35. NORTHVIEW,U.S. House,7,REP,John Casey,43
+Christian,35. NORTHVIEW,U.S. House,7,REP,Grayson Hunt,44
+Christian,35. NORTHVIEW,U.S. House,7,REP,Eric W. Burlison,283
+Christian,ABSENTEE,U.S. House,7,REP,John Casey,143
+Christian,ABSENTEE,U.S. House,7,REP,Grayson Hunt,150
+Christian,ABSENTEE,U.S. House,7,REP,Eric W. Burlison,807
+Christian,1. E. BENTON/3. BRUNER,State House,138,REP,Tom Franiak,3
+Christian,1. E. BENTON/3. BRUNER,State House,138,REP,Burt Whaley,2
+Christian,SL 18. OF 25.SEN,State House,138,REP,Tom Franiak,96
+Christian,SL 18. OF 25.SEN,State House,138,REP,Burt Whaley,229
+Christian,9. NORTH GALLOWAY,State House,138,REP,Tom Franiak,121
+Christian,9. NORTH GALLOWAY,State House,138,REP,Burt Whaley,369
+Christian,10. SOUTH GALLOWAY,State House,138,REP,Tom Franiak,111
+Christian,10. SOUTH GALLOWAY,State House,138,REP,Burt Whaley,503
+Christian,15. NORTH LINN,State House,138,REP,Tom Franiak,65
+Christian,15. NORTH LINN,State House,138,REP,Burt Whaley,175
+Christian,26. SPARTA,State House,138,REP,Tom Franiak,82
+Christian,26. SPARTA,State House,138,REP,Burt Whaley,279
+Christian,35. NORTHVIEW,State House,138,REP,Tom Franiak,0
+Christian,35. NORTHVIEW,State House,138,REP,Burt Whaley,0
+Christian,ABSENTEE,State House,138,REP,Tom Franiak,26
+Christian,ABSENTEE,State House,138,REP,Burt Whaley,94
+Christian,13. LINCOLN #1,State House,139,REP,Sandy Karnes,234
+Christian,13. LINCOLN #1,State House,139,REP,Bob Titus,290
+Christian,19. UNION CHAPEL 1B,State House,139,REP,Sandy Karnes,77
+Christian,19. UNION CHAPEL 1B,State House,139,REP,Bob Titus,107
+Christian,20. POLK,State House,139,REP,Sandy Karnes,279
+Christian,20. POLK,State House,139,REP,Bob Titus,378
+Christian,21. UNION CHAPEL 1A,State House,139,REP,Sandy Karnes,276
+Christian,21. UNION CHAPEL 1A,State House,139,REP,Bob Titus,254
+Christian,23. GARDEN GROVE,State House,139,REP,Sandy Karnes,247
+Christian,23. GARDEN GROVE,State House,139,REP,Bob Titus,284
+Christian,24. NORTHVIEW,State House,139,REP,Sandy Karnes,265
+Christian,24. NORTHVIEW,State House,139,REP,Bob Titus,244
+Christian,28. ROSEDALE 2,State House,139,REP,Sandy Karnes,240
+Christian,28. ROSEDALE 2,State House,139,REP,Bob Titus,286
+Christian,29. NORTHVIEW,State House,139,REP,Sandy Karnes,174
+Christian,29. NORTHVIEW,State House,139,REP,Bob Titus,271
+Christian,30. ROSEDALE 1,State House,139,REP,Sandy Karnes,419
+Christian,30. ROSEDALE 1,State House,139,REP,Bob Titus,410
+Christian,31. UNION CHAPEL 2,State House,139,REP,Sandy Karnes,153
+Christian,31. UNION CHAPEL 2,State House,139,REP,Bob Titus,183
+Christian,33. LINCOLN #2,State House,139,REP,Sandy Karnes,159
+Christian,33. LINCOLN #2,State House,139,REP,Bob Titus,195
+Christian,34. WEST FINELY 2,State House,139,REP,Sandy Karnes,89
+Christian,34. WEST FINELY 2,State House,139,REP,Bob Titus,133
+Christian,35. NORTHVIEW,State House,139,REP,Sandy Karnes,175
+Christian,35. NORTHVIEW,State House,139,REP,Bob Titus,200
+Christian,ABSENTEE,State House,139,REP,Sandy Karnes,234
+Christian,ABSENTEE,State House,139,REP,Bob Titus,263
+Christian,1. E. BENTON/3. BRUNER,State House,140,REP,Jamie Ray Gragg,181
+Christian,1. E. BENTON/3. BRUNER,State House,140,REP,Angela Romine,77
+Christian,2. W. BENTON/14. LINDEN,State House,140,REP,Jamie Ray Gragg,321
+Christian,2. W. BENTON/14. LINDEN,State House,140,REP,Angela Romine,203
+Christian,5. RIVERSIDE,State House,140,REP,Jamie Ray Gragg,630
+Christian,5. RIVERSIDE,State House,140,REP,Angela Romine,460
+Christian,6. CASSIDY 1,State House,140,REP,Jamie Ray Gragg,286
+Christian,6. CASSIDY 1,State House,140,REP,Angela Romine,176
+Christian,7. WEST FINELY 1,State House,140,REP,Jamie Ray Gragg,165
+Christian,7. WEST FINELY 1,State House,140,REP,Angela Romine,86
+Christian,8. EAST FINLEY,State House,140,REP,Jamie Ray Gragg,570
+Christian,8. EAST FINLEY,State House,140,REP,Angela Romine,349
+Christian,17. McCRAKEN,State House,140,REP,Jamie Ray Gragg,291
+Christian,17. McCRAKEN,State House,140,REP,Angela Romine,148
+Christian,24. NORTHVIEW,State House,140,REP,Jamie Ray Gragg,0
+Christian,24. NORTHVIEW,State House,140,REP,Angela Romine,0
+Christian,29. NORTHVIEW,State House,140,REP,Jamie Ray Gragg,70
+Christian,29. NORTHVIEW,State House,140,REP,Angela Romine,35
+Christian,31. UNION CHAPEL 2,State House,140,REP,Jamie Ray Gragg,280
+Christian,31. UNION CHAPEL 2,State House,140,REP,Angela Romine,127
+Christian,32. CASSIDY #2,State House,140,REP,Jamie Ray Gragg,474
+Christian,32. CASSIDY #2,State House,140,REP,Angela Romine,251
+Christian,34. WEST FINELY 2,State House,140,REP,Jamie Ray Gragg,43
+Christian,34. WEST FINELY 2,State House,140,REP,Angela Romine,44
+Christian,35. NORTHVIEW,State House,140,REP,Jamie Ray Gragg,0
+Christian,35. NORTHVIEW,State House,140,REP,Angela Romine,0
+Christian,ABSENTEE,State House,140,REP,Jamie Ray Gragg,285
+Christian,ABSENTEE,State House,140,REP,Angela Romine,177
+Christian,1. E. BENTON/3. BRUNER,Associate Circuit Judge Division 3,,REP,Steven Ward,221
+Christian,2. W. BENTON/14. LINDEN,Associate Circuit Judge Division 3,,REP,Steven Ward,444
+Christian,SL 18. OF 25.SEN,Associate Circuit Judge Division 3,,REP,Steven Ward,266
+Christian,5. RIVERSIDE,Associate Circuit Judge Division 3,,REP,Steven Ward,901
+Christian,6. CASSIDY 1,Associate Circuit Judge Division 3,,REP,Steven Ward,393
+Christian,7. WEST FINELY 1,Associate Circuit Judge Division 3,,REP,Steven Ward,210
+Christian,8. EAST FINLEY,Associate Circuit Judge Division 3,,REP,Steven Ward,738
+Christian,9. NORTH GALLOWAY,Associate Circuit Judge Division 3,,REP,Steven Ward,427
+Christian,10. SOUTH GALLOWAY,Associate Circuit Judge Division 3,,REP,Steven Ward,536
+Christian,13. LINCOLN #1,Associate Circuit Judge Division 3,,REP,Steven Ward,428
+Christian,15. NORTH LINN,Associate Circuit Judge Division 3,,REP,Steven Ward,203
+Christian,17. McCRAKEN,Associate Circuit Judge Division 3,,REP,Steven Ward,365
+Christian,19. UNION CHAPEL 1B,Associate Circuit Judge Division 3,,REP,Steven Ward,144
+Christian,20. POLK,Associate Circuit Judge Division 3,,REP,Steven Ward,538
+Christian,21. UNION CHAPEL 1A,Associate Circuit Judge Division 3,,REP,Steven Ward,440
+Christian,23. GARDEN GROVE,Associate Circuit Judge Division 3,,REP,Steven Ward,429
+Christian,24. NORTHVIEW,Associate Circuit Judge Division 3,,REP,Steven Ward,443
+Christian,26. SPARTA,Associate Circuit Judge Division 3,,REP,Steven Ward,292
+Christian,28. ROSEDALE 2,Associate Circuit Judge Division 3,,REP,Steven Ward,412
+Christian,29. NORTHVIEW,Associate Circuit Judge Division 3,,REP,Steven Ward,454
+Christian,30. ROSEDALE 1,Associate Circuit Judge Division 3,,REP,Steven Ward,708
+Christian,31. UNION CHAPEL 2,Associate Circuit Judge Division 3,,REP,Steven Ward,627
+Christian,32. CASSIDY #2,Associate Circuit Judge Division 3,,REP,Steven Ward,625
+Christian,33. LINCOLN #2,Associate Circuit Judge Division 3,,REP,Steven Ward,295
+Christian,34. WEST FINELY 2,Associate Circuit Judge Division 3,,REP,Steven Ward,258
+Christian,35. NORTHVIEW,Associate Circuit Judge Division 3,,REP,Steven Ward,299
+Christian,ABSENTEE,Associate Circuit Judge Division 3,,REP,Steven Ward,881
+Christian,1. E. BENTON/3. BRUNER,Associate Circuit Judge Division 4,,REP,Doug Bacon,221
+Christian,2. W. BENTON/14. LINDEN,Associate Circuit Judge Division 4,,REP,Doug Bacon,439
+Christian,SL 18. OF 25.SEN,Associate Circuit Judge Division 4,,REP,Doug Bacon,266
+Christian,5. RIVERSIDE,Associate Circuit Judge Division 4,,REP,Doug Bacon,908
+Christian,6. CASSIDY 1,Associate Circuit Judge Division 4,,REP,Doug Bacon,397
+Christian,7. WEST FINELY 1,Associate Circuit Judge Division 4,,REP,Doug Bacon,213
+Christian,8. EAST FINLEY,Associate Circuit Judge Division 4,,REP,Doug Bacon,748
+Christian,9. NORTH GALLOWAY,Associate Circuit Judge Division 4,,REP,Doug Bacon,431
+Christian,10. SOUTH GALLOWAY,Associate Circuit Judge Division 4,,REP,Doug Bacon,530
+Christian,13. LINCOLN #1,Associate Circuit Judge Division 4,,REP,Doug Bacon,428
+Christian,15. NORTH LINN,Associate Circuit Judge Division 4,,REP,Doug Bacon,206
+Christian,17. McCRAKEN,Associate Circuit Judge Division 4,,REP,Doug Bacon,370
+Christian,19. UNION CHAPEL 1B,Associate Circuit Judge Division 4,,REP,Doug Bacon,146
+Christian,20. POLK,Associate Circuit Judge Division 4,,REP,Doug Bacon,541
+Christian,21. UNION CHAPEL 1A,Associate Circuit Judge Division 4,,REP,Doug Bacon,438
+Christian,23. GARDEN GROVE,Associate Circuit Judge Division 4,,REP,Doug Bacon,434
+Christian,24. NORTHVIEW,Associate Circuit Judge Division 4,,REP,Doug Bacon,441
+Christian,26. SPARTA,Associate Circuit Judge Division 4,,REP,Doug Bacon,301
+Christian,28. ROSEDALE 2,Associate Circuit Judge Division 4,,REP,Doug Bacon,430
+Christian,29. NORTHVIEW,Associate Circuit Judge Division 4,,REP,Doug Bacon,464
+Christian,30. ROSEDALE 1,Associate Circuit Judge Division 4,,REP,Doug Bacon,708
+Christian,31. UNION CHAPEL 2,Associate Circuit Judge Division 4,,REP,Doug Bacon,649
+Christian,32. CASSIDY #2,Associate Circuit Judge Division 4,,REP,Doug Bacon,627
+Christian,33. LINCOLN #2,Associate Circuit Judge Division 4,,REP,Doug Bacon,301
+Christian,34. WEST FINELY 2,Associate Circuit Judge Division 4,,REP,Doug Bacon,265
+Christian,35. NORTHVIEW,Associate Circuit Judge Division 4,,REP,Doug Bacon,302
+Christian,ABSENTEE,Associate Circuit Judge Division 4,,REP,Doug Bacon,891
+Christian,1. E. BENTON/3. BRUNER,Presiding Commissioner,,REP,Jered Taylor,153
+Christian,1. E. BENTON/3. BRUNER,Presiding Commissioner,,REP,Terry A. Bible,105
+Christian,2. W. BENTON/14. LINDEN,Presiding Commissioner,,REP,Jered Taylor,325
+Christian,2. W. BENTON/14. LINDEN,Presiding Commissioner,,REP,Terry A. Bible,197
+Christian,SL 18. OF 25.SEN,Presiding Commissioner,,REP,Jered Taylor,170
+Christian,SL 18. OF 25.SEN,Presiding Commissioner,,REP,Terry A. Bible,156
+Christian,5. RIVERSIDE,Presiding Commissioner,,REP,Jered Taylor,733
+Christian,5. RIVERSIDE,Presiding Commissioner,,REP,Terry A. Bible,339
+Christian,6. CASSIDY 1,Presiding Commissioner,,REP,Jered Taylor,282
+Christian,6. CASSIDY 1,Presiding Commissioner,,REP,Terry A. Bible,172
+Christian,7. WEST FINELY 1,Presiding Commissioner,,REP,Jered Taylor,150
+Christian,7. WEST FINELY 1,Presiding Commissioner,,REP,Terry A. Bible,95
+Christian,8. EAST FINLEY,Presiding Commissioner,,REP,Jered Taylor,554
+Christian,8. EAST FINLEY,Presiding Commissioner,,REP,Terry A. Bible,345
+Christian,9. NORTH GALLOWAY,Presiding Commissioner,,REP,Jered Taylor,326
+Christian,9. NORTH GALLOWAY,Presiding Commissioner,,REP,Terry A. Bible,186
+Christian,10. SOUTH GALLOWAY,Presiding Commissioner,,REP,Jered Taylor,318
+Christian,10. SOUTH GALLOWAY,Presiding Commissioner,,REP,Terry A. Bible,285
+Christian,13. LINCOLN #1,Presiding Commissioner,,REP,Jered Taylor,306
+Christian,13. LINCOLN #1,Presiding Commissioner,,REP,Terry A. Bible,197
+Christian,15. NORTH LINN,Presiding Commissioner,,REP,Jered Taylor,135
+Christian,15. NORTH LINN,Presiding Commissioner,,REP,Terry A. Bible,111
+Christian,17. McCRAKEN,Presiding Commissioner,,REP,Jered Taylor,252
+Christian,17. McCRAKEN,Presiding Commissioner,,REP,Terry A. Bible,181
+Christian,19. UNION CHAPEL 1B,Presiding Commissioner,,REP,Jered Taylor,123
+Christian,19. UNION CHAPEL 1B,Presiding Commissioner,,REP,Terry A. Bible,51
+Christian,20. POLK,Presiding Commissioner,,REP,Jered Taylor,380
+Christian,20. POLK,Presiding Commissioner,,REP,Terry A. Bible,241
+Christian,21. UNION CHAPEL 1A,Presiding Commissioner,,REP,Jered Taylor,347
+Christian,21. UNION CHAPEL 1A,Presiding Commissioner,,REP,Terry A. Bible,161
+Christian,23. GARDEN GROVE,Presiding Commissioner,,REP,Jered Taylor,305
+Christian,23. GARDEN GROVE,Presiding Commissioner,,REP,Terry A. Bible,199
+Christian,24. NORTHVIEW,Presiding Commissioner,,REP,Jered Taylor,352
+Christian,24. NORTHVIEW,Presiding Commissioner,,REP,Terry A. Bible,147
+Christian,26. SPARTA,Presiding Commissioner,,REP,Jered Taylor,215
+Christian,26. SPARTA,Presiding Commissioner,,REP,Terry A. Bible,148
+Christian,28. ROSEDALE 2,Presiding Commissioner,,REP,Jered Taylor,320
+Christian,28. ROSEDALE 2,Presiding Commissioner,,REP,Terry A. Bible,172
+Christian,29. NORTHVIEW,Presiding Commissioner,,REP,Jered Taylor,338
+Christian,29. NORTHVIEW,Presiding Commissioner,,REP,Terry A. Bible,194
+Christian,30. ROSEDALE 1,Presiding Commissioner,,REP,Jered Taylor,479
+Christian,30. ROSEDALE 1,Presiding Commissioner,,REP,Terry A. Bible,312
+Christian,31. UNION CHAPEL 2,Presiding Commissioner,,REP,Jered Taylor,519
+Christian,31. UNION CHAPEL 2,Presiding Commissioner,,REP,Terry A. Bible,205
+Christian,32. CASSIDY #2,Presiding Commissioner,,REP,Jered Taylor,483
+Christian,32. CASSIDY #2,Presiding Commissioner,,REP,Terry A. Bible,228
+Christian,33. LINCOLN #2,Presiding Commissioner,,REP,Jered Taylor,191
+Christian,33. LINCOLN #2,Presiding Commissioner,,REP,Terry A. Bible,143
+Christian,34. WEST FINELY 2,Presiding Commissioner,,REP,Jered Taylor,163
+Christian,34. WEST FINELY 2,Presiding Commissioner,,REP,Terry A. Bible,140
+Christian,35. NORTHVIEW,Presiding Commissioner,,REP,Jered Taylor,236
+Christian,35. NORTHVIEW,Presiding Commissioner,,REP,Terry A. Bible,110
+Christian,ABSENTEE,Presiding Commissioner,,REP,Jered Taylor,576
+Christian,ABSENTEE,Presiding Commissioner,,REP,Terry A. Bible,470
+Christian,1. E. BENTON/3. BRUNER,County Clerk,,REP,Paula Brumfield,218
+Christian,2. W. BENTON/14. LINDEN,County Clerk,,REP,Paula Brumfield,445
+Christian,SL 18. OF 25.SEN,County Clerk,,REP,Paula Brumfield,276
+Christian,5. RIVERSIDE,County Clerk,,REP,Paula Brumfield,895
+Christian,6. CASSIDY 1,County Clerk,,REP,Paula Brumfield,396
+Christian,7. WEST FINELY 1,County Clerk,,REP,Paula Brumfield,217
+Christian,8. EAST FINLEY,County Clerk,,REP,Paula Brumfield,735
+Christian,9. NORTH GALLOWAY,County Clerk,,REP,Paula Brumfield,419
+Christian,10. SOUTH GALLOWAY,County Clerk,,REP,Paula Brumfield,533
+Christian,13. LINCOLN #1,County Clerk,,REP,Paula Brumfield,427
+Christian,15. NORTH LINN,County Clerk,,REP,Paula Brumfield,210
+Christian,17. McCRAKEN,County Clerk,,REP,Paula Brumfield,362
+Christian,19. UNION CHAPEL 1B,County Clerk,,REP,Paula Brumfield,140
+Christian,20. POLK,County Clerk,,REP,Paula Brumfield,526
+Christian,21. UNION CHAPEL 1A,County Clerk,,REP,Paula Brumfield,434
+Christian,23. GARDEN GROVE,County Clerk,,REP,Paula Brumfield,431
+Christian,24. NORTHVIEW,County Clerk,,REP,Paula Brumfield,441
+Christian,26. SPARTA,County Clerk,,REP,Paula Brumfield,299
+Christian,28. ROSEDALE 2,County Clerk,,REP,Paula Brumfield,412
+Christian,29. NORTHVIEW,County Clerk,,REP,Paula Brumfield,460
+Christian,30. ROSEDALE 1,County Clerk,,REP,Paula Brumfield,710
+Christian,31. UNION CHAPEL 2,County Clerk,,REP,Paula Brumfield,624
+Christian,32. CASSIDY #2,County Clerk,,REP,Paula Brumfield,623
+Christian,33. LINCOLN #2,County Clerk,,REP,Paula Brumfield,294
+Christian,34. WEST FINELY 2,County Clerk,,REP,Paula Brumfield,256
+Christian,35. NORTHVIEW,County Clerk,,REP,Paula Brumfield,305
+Christian,ABSENTEE,County Clerk,,REP,Paula Brumfield,916
+Christian,1. E. BENTON/3. BRUNER,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,227
+Christian,2. W. BENTON/14. LINDEN,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,446
+Christian,SL 18. OF 25.SEN,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,275
+Christian,5. RIVERSIDE,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,903
+Christian,6. CASSIDY 1,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,397
+Christian,7. WEST FINELY 1,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,216
+Christian,8. EAST FINLEY,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,751
+Christian,9. NORTH GALLOWAY,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,434
+Christian,10. SOUTH GALLOWAY,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,538
+Christian,13. LINCOLN #1,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,437
+Christian,15. NORTH LINN,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,213
+Christian,17. McCRAKEN,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,366
+Christian,19. UNION CHAPEL 1B,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,142
+Christian,20. POLK,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,537
+Christian,21. UNION CHAPEL 1A,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,448
+Christian,23. GARDEN GROVE,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,429
+Christian,24. NORTHVIEW,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,438
+Christian,26. SPARTA,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,300
+Christian,28. ROSEDALE 2,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,423
+Christian,29. NORTHVIEW,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,467
+Christian,30. ROSEDALE 1,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,720
+Christian,31. UNION CHAPEL 2,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,645
+Christian,32. CASSIDY #2,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,630
+Christian,33. LINCOLN #2,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,298
+Christian,34. WEST FINELY 2,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,258
+Christian,35. NORTHVIEW,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,306
+Christian,ABSENTEE,Clerk of the Circuit Court,,REP,Barbara Barnett- Stillings,898
+Christian,1. E. BENTON/3. BRUNER,Recorder of Deeds,,REP,Kelly Blunt Hall,219
+Christian,2. W. BENTON/14. LINDEN,Recorder of Deeds,,REP,Kelly Blunt Hall,450
+Christian,SL 18. OF 25.SEN,Recorder of Deeds,,REP,Kelly Blunt Hall,277
+Christian,5. RIVERSIDE,Recorder of Deeds,,REP,Kelly Blunt Hall,909
+Christian,6. CASSIDY 1,Recorder of Deeds,,REP,Kelly Blunt Hall,391
+Christian,7. WEST FINELY 1,Recorder of Deeds,,REP,Kelly Blunt Hall,221
+Christian,8. EAST FINLEY,Recorder of Deeds,,REP,Kelly Blunt Hall,753
+Christian,9. NORTH GALLOWAY,Recorder of Deeds,,REP,Kelly Blunt Hall,429
+Christian,10. SOUTH GALLOWAY,Recorder of Deeds,,REP,Kelly Blunt Hall,532
+Christian,13. LINCOLN #1,Recorder of Deeds,,REP,Kelly Blunt Hall,431
+Christian,15. NORTH LINN,Recorder of Deeds,,REP,Kelly Blunt Hall,216
+Christian,17. McCRAKEN,Recorder of Deeds,,REP,Kelly Blunt Hall,375
+Christian,19. UNION CHAPEL 1B,Recorder of Deeds,,REP,Kelly Blunt Hall,141
+Christian,20. POLK,Recorder of Deeds,,REP,Kelly Blunt Hall,537
+Christian,21. UNION CHAPEL 1A,Recorder of Deeds,,REP,Kelly Blunt Hall,443
+Christian,23. GARDEN GROVE,Recorder of Deeds,,REP,Kelly Blunt Hall,427
+Christian,24. NORTHVIEW,Recorder of Deeds,,REP,Kelly Blunt Hall,440
+Christian,26. SPARTA,Recorder of Deeds,,REP,Kelly Blunt Hall,303
+Christian,28. ROSEDALE 2,Recorder of Deeds,,REP,Kelly Blunt Hall,412
+Christian,29. NORTHVIEW,Recorder of Deeds,,REP,Kelly Blunt Hall,465
+Christian,30. ROSEDALE 1,Recorder of Deeds,,REP,Kelly Blunt Hall,715
+Christian,31. UNION CHAPEL 2,Recorder of Deeds,,REP,Kelly Blunt Hall,634
+Christian,32. CASSIDY #2,Recorder of Deeds,,REP,Kelly Blunt Hall,625
+Christian,33. LINCOLN #2,Recorder of Deeds,,REP,Kelly Blunt Hall,295
+Christian,34. WEST FINELY 2,Recorder of Deeds,,REP,Kelly Blunt Hall,261
+Christian,35. NORTHVIEW,Recorder of Deeds,,REP,Kelly Blunt Hall,300
+Christian,ABSENTEE,Recorder of Deeds,,REP,Kelly Blunt Hall,892
+Christian,1. E. BENTON/3. BRUNER,Prosecuting Attorney,,REP,Kristen Tuohy Avila,217
+Christian,2. W. BENTON/14. LINDEN,Prosecuting Attorney,,REP,Kristen Tuohy Avila,442
+Christian,SL 18. OF 25.SEN,Prosecuting Attorney,,REP,Kristen Tuohy Avila,263
+Christian,5. RIVERSIDE,Prosecuting Attorney,,REP,Kristen Tuohy Avila,881
+Christian,6. CASSIDY 1,Prosecuting Attorney,,REP,Kristen Tuohy Avila,387
+Christian,7. WEST FINELY 1,Prosecuting Attorney,,REP,Kristen Tuohy Avila,211
+Christian,8. EAST FINLEY,Prosecuting Attorney,,REP,Kristen Tuohy Avila,734
+Christian,9. NORTH GALLOWAY,Prosecuting Attorney,,REP,Kristen Tuohy Avila,420
+Christian,10. SOUTH GALLOWAY,Prosecuting Attorney,,REP,Kristen Tuohy Avila,525
+Christian,13. LINCOLN #1,Prosecuting Attorney,,REP,Kristen Tuohy Avila,428
+Christian,15. NORTH LINN,Prosecuting Attorney,,REP,Kristen Tuohy Avila,207
+Christian,17. McCRAKEN,Prosecuting Attorney,,REP,Kristen Tuohy Avila,358
+Christian,19. UNION CHAPEL 1B,Prosecuting Attorney,,REP,Kristen Tuohy Avila,143
+Christian,20. POLK,Prosecuting Attorney,,REP,Kristen Tuohy Avila,532
+Christian,21. UNION CHAPEL 1A,Prosecuting Attorney,,REP,Kristen Tuohy Avila,440
+Christian,23. GARDEN GROVE,Prosecuting Attorney,,REP,Kristen Tuohy Avila,422
+Christian,24. NORTHVIEW,Prosecuting Attorney,,REP,Kristen Tuohy Avila,431
+Christian,26. SPARTA,Prosecuting Attorney,,REP,Kristen Tuohy Avila,291
+Christian,28. ROSEDALE 2,Prosecuting Attorney,,REP,Kristen Tuohy Avila,403
+Christian,29. NORTHVIEW,Prosecuting Attorney,,REP,Kristen Tuohy Avila,463
+Christian,30. ROSEDALE 1,Prosecuting Attorney,,REP,Kristen Tuohy Avila,708
+Christian,31. UNION CHAPEL 2,Prosecuting Attorney,,REP,Kristen Tuohy Avila,618
+Christian,32. CASSIDY #2,Prosecuting Attorney,,REP,Kristen Tuohy Avila,617
+Christian,33. LINCOLN #2,Prosecuting Attorney,,REP,Kristen Tuohy Avila,296
+Christian,34. WEST FINELY 2,Prosecuting Attorney,,REP,Kristen Tuohy Avila,256
+Christian,35. NORTHVIEW,Prosecuting Attorney,,REP,Kristen Tuohy Avila,299
+Christian,ABSENTEE,Prosecuting Attorney,,REP,Kristen Tuohy Avila,884
+Christian,1. E. BENTON/3. BRUNER,Collector of Revenue,,REP,Chris Snyder,223
+Christian,2. W. BENTON/14. LINDEN,Collector of Revenue,,REP,Chris Snyder,450
+Christian,SL 18. OF 25.SEN,Collector of Revenue,,REP,Chris Snyder,266
+Christian,5. RIVERSIDE,Collector of Revenue,,REP,Chris Snyder,901
+Christian,6. CASSIDY 1,Collector of Revenue,,REP,Chris Snyder,391
+Christian,7. WEST FINELY 1,Collector of Revenue,,REP,Chris Snyder,217
+Christian,8. EAST FINLEY,Collector of Revenue,,REP,Chris Snyder,742
+Christian,9. NORTH GALLOWAY,Collector of Revenue,,REP,Chris Snyder,427
+Christian,10. SOUTH GALLOWAY,Collector of Revenue,,REP,Chris Snyder,542
+Christian,13. LINCOLN #1,Collector of Revenue,,REP,Chris Snyder,429
+Christian,15. NORTH LINN,Collector of Revenue,,REP,Chris Snyder,209
+Christian,17. McCRAKEN,Collector of Revenue,,REP,Chris Snyder,368
+Christian,19. UNION CHAPEL 1B,Collector of Revenue,,REP,Chris Snyder,142
+Christian,20. POLK,Collector of Revenue,,REP,Chris Snyder,534
+Christian,21. UNION CHAPEL 1A,Collector of Revenue,,REP,Chris Snyder,441
+Christian,23. GARDEN GROVE,Collector of Revenue,,REP,Chris Snyder,420
+Christian,24. NORTHVIEW,Collector of Revenue,,REP,Chris Snyder,430
+Christian,26. SPARTA,Collector of Revenue,,REP,Chris Snyder,298
+Christian,28. ROSEDALE 2,Collector of Revenue,,REP,Chris Snyder,408
+Christian,29. NORTHVIEW,Collector of Revenue,,REP,Chris Snyder,465
+Christian,30. ROSEDALE 1,Collector of Revenue,,REP,Chris Snyder,714
+Christian,31. UNION CHAPEL 2,Collector of Revenue,,REP,Chris Snyder,623
+Christian,32. CASSIDY #2,Collector of Revenue,,REP,Chris Snyder,621
+Christian,33. LINCOLN #2,Collector of Revenue,,REP,Chris Snyder,293
+Christian,34. WEST FINELY 2,Collector of Revenue,,REP,Chris Snyder,258
+Christian,35. NORTHVIEW,Collector of Revenue,,REP,Chris Snyder,300
+Christian,ABSENTEE,Collector of Revenue,,REP,Chris Snyder,893
+Christian,1. E. BENTON/3. BRUNER,County Auditor,,REP,Amy Dent,219
+Christian,2. W. BENTON/14. LINDEN,County Auditor,,REP,Amy Dent,448
+Christian,SL 18. OF 25.SEN,County Auditor,,REP,Amy Dent,264
+Christian,5. RIVERSIDE,County Auditor,,REP,Amy Dent,892
+Christian,6. CASSIDY 1,County Auditor,,REP,Amy Dent,388
+Christian,7. WEST FINELY 1,County Auditor,,REP,Amy Dent,217
+Christian,8. EAST FINLEY,County Auditor,,REP,Amy Dent,736
+Christian,9. NORTH GALLOWAY,County Auditor,,REP,Amy Dent,428
+Christian,10. SOUTH GALLOWAY,County Auditor,,REP,Amy Dent,535
+Christian,13. LINCOLN #1,County Auditor,,REP,Amy Dent,430
+Christian,15. NORTH LINN,County Auditor,,REP,Amy Dent,211
+Christian,17. McCRAKEN,County Auditor,,REP,Amy Dent,363
+Christian,19. UNION CHAPEL 1B,County Auditor,,REP,Amy Dent,142
+Christian,20. POLK,County Auditor,,REP,Amy Dent,534
+Christian,21. UNION CHAPEL 1A,County Auditor,,REP,Amy Dent,445
+Christian,23. GARDEN GROVE,County Auditor,,REP,Amy Dent,426
+Christian,24. NORTHVIEW,County Auditor,,REP,Amy Dent,436
+Christian,26. SPARTA,County Auditor,,REP,Amy Dent,295
+Christian,28. ROSEDALE 2,County Auditor,,REP,Amy Dent,410
+Christian,29. NORTHVIEW,County Auditor,,REP,Amy Dent,465
+Christian,30. ROSEDALE 1,County Auditor,,REP,Amy Dent,710
+Christian,31. UNION CHAPEL 2,County Auditor,,REP,Amy Dent,633
+Christian,32. CASSIDY #2,County Auditor,,REP,Amy Dent,622
+Christian,33. LINCOLN #2,County Auditor,,REP,Amy Dent,297
+Christian,34. WEST FINELY 2,County Auditor,,REP,Amy Dent,258
+Christian,35. NORTHVIEW,County Auditor,,REP,Amy Dent,304
+Christian,ABSENTEE,County Auditor,,REP,Amy Dent,886
+Christian,32. CASSIDY #2,Cassidy 2 Township Committeeman,,REP,Danny Gray,569
+Christian,32. CASSIDY #2,Cassidy 2 Township Committeeman,,REP,Sunny Parvathane Ni,116
+Christian,ABSENTEE,Cassidy 2 Township Committeeman,,REP,Danny Gray,70
+Christian,ABSENTEE,Cassidy 2 Township Committeeman,,REP,Sunny Parvathane Ni,18
+Christian,1. E. BENTON/3. BRUNER,East Benton Township Committeeman,,REP,Robert Palmer,47
+Christian,1. E. BENTON/3. BRUNER,East Benton Township Committeeman,,REP,Casey Haynes,50
+Christian,ABSENTEE,East Benton Township Committeeman,,REP,Robert Palmer,0
+Christian,ABSENTEE,East Benton Township Committeeman,,REP,Casey Haynes,3
+Christian,17. McCRAKEN,Mccraken Township Committeewoman,,REP,Monica P. Stone,129
+Christian,17. McCRAKEN,Mccraken Township Committeewoman,,REP,Ruth Downey,259
+Christian,ABSENTEE,Mccraken Township Committeewoman,,REP,Monica P. Stone,16
+Christian,ABSENTEE,Mccraken Township Committeewoman,,REP,Ruth Downey,14
+Christian,9. NORTH GALLOWAY,North Galloway Twp Committeeman,,REP,Steven Perry,257
+Christian,9. NORTH GALLOWAY,North Galloway Twp Committeeman,,REP,Brent Young,209
+Christian,ABSENTEE,North Galloway Twp Committeeman,,REP,Steven Perry,30
+Christian,ABSENTEE,North Galloway Twp Committeeman,,REP,Brent Young,23
+Christian,9. NORTH GALLOWAY,North Galloway Twp Committeewoman,,REP,Lynn M. Kempen,196
+Christian,9. NORTH GALLOWAY,North Galloway Twp Committeewoman,,REP,Leslie Gault Young,230
+Christian,ABSENTEE,North Galloway Twp Committeewoman,,REP,Lynn M. Kempen,26
+Christian,ABSENTEE,North Galloway Twp Committeewoman,,REP,Leslie Gault Young,25
+Christian,24. NORTHVIEW,Northview A Township Committeewoman,,REP,Dee Fjordbak,164
+Christian,24. NORTHVIEW,Northview A Township Committeewoman,,REP,Judy Altom,250
+Christian,ABSENTEE,Northview A Township Committeewoman,,REP,Dee Fjordbak,16
+Christian,ABSENTEE,Northview A Township Committeewoman,,REP,Judy Altom,40
+Christian,35. NORTHVIEW,Northview C Township Committeeman,,REP,Brady Benson,184
+Christian,35. NORTHVIEW,Northview C Township Committeeman,,REP,Noah Prahlow,94
+Christian,ABSENTEE,Northview C Township Committeeman,,REP,Brady Benson,9
+Christian,ABSENTEE,Northview C Township Committeeman,,REP,Noah Prahlow,10
+Christian,21. UNION CHAPEL 1A,Union Chapel 1A Township Committeeman,,REP,Thomas Taylor,239
+Christian,21. UNION CHAPEL 1A,Union Chapel 1A Township Committeeman,,REP,Mark Brumfield,202
+Christian,ABSENTEE,Union Chapel 1A Township Committeeman,,REP,Thomas Taylor,24
+Christian,ABSENTEE,Union Chapel 1A Township Committeeman,,REP,Mark Brumfield,25
+Christian,21. UNION CHAPEL 1A,Union Chapel 1A Twp Committeewoman,,REP,Vanda Hires,170
+Christian,21. UNION CHAPEL 1A,Union Chapel 1A Twp Committeewoman,,REP,Pat Hackett,244
+Christian,ABSENTEE,Union Chapel 1A Twp Committeewoman,,REP,Vanda Hires,23
+Christian,ABSENTEE,Union Chapel 1A Twp Committeewoman,,REP,Pat Hackett,25
+Christian,1. E. BENTON/3. BRUNER,State Auditor,,DEM,Quentin Wilson,15
+Christian,1. E. BENTON/3. BRUNER,State Auditor,,DEM,Gregory Upchurch,12
+Christian,2. W. BENTON/14. LINDEN,State Auditor,,DEM,Quentin Wilson,68
+Christian,2. W. BENTON/14. LINDEN,State Auditor,,DEM,Gregory Upchurch,35
+Christian,SL 18. OF 25.SEN,State Auditor,,DEM,Quentin Wilson,21
+Christian,SL 18. OF 25.SEN,State Auditor,,DEM,Gregory Upchurch,9
+Christian,5. RIVERSIDE,State Auditor,,DEM,Quentin Wilson,169
+Christian,5. RIVERSIDE,State Auditor,,DEM,Gregory Upchurch,110
+Christian,6. CASSIDY 1,State Auditor,,DEM,Quentin Wilson,81
+Christian,6. CASSIDY 1,State Auditor,,DEM,Gregory Upchurch,38
+Christian,7. WEST FINELY 1,State Auditor,,DEM,Quentin Wilson,41
+Christian,7. WEST FINELY 1,State Auditor,,DEM,Gregory Upchurch,25
+Christian,8. EAST FINLEY,State Auditor,,DEM,Quentin Wilson,137
+Christian,8. EAST FINLEY,State Auditor,,DEM,Gregory Upchurch,71
+Christian,9. NORTH GALLOWAY,State Auditor,,DEM,Quentin Wilson,44
+Christian,9. NORTH GALLOWAY,State Auditor,,DEM,Gregory Upchurch,18
+Christian,10. SOUTH GALLOWAY,State Auditor,,DEM,Quentin Wilson,54
+Christian,10. SOUTH GALLOWAY,State Auditor,,DEM,Gregory Upchurch,33
+Christian,13. LINCOLN #1,State Auditor,,DEM,Quentin Wilson,82
+Christian,13. LINCOLN #1,State Auditor,,DEM,Gregory Upchurch,26
+Christian,15. NORTH LINN,State Auditor,,DEM,Quentin Wilson,28
+Christian,15. NORTH LINN,State Auditor,,DEM,Gregory Upchurch,11
+Christian,17. McCRAKEN,State Auditor,,DEM,Quentin Wilson,42
+Christian,17. McCRAKEN,State Auditor,,DEM,Gregory Upchurch,19
+Christian,19. UNION CHAPEL 1B,State Auditor,,DEM,Quentin Wilson,50
+Christian,19. UNION CHAPEL 1B,State Auditor,,DEM,Gregory Upchurch,22
+Christian,20. POLK,State Auditor,,DEM,Quentin Wilson,58
+Christian,20. POLK,State Auditor,,DEM,Gregory Upchurch,48
+Christian,21. UNION CHAPEL 1A,State Auditor,,DEM,Quentin Wilson,64
+Christian,21. UNION CHAPEL 1A,State Auditor,,DEM,Gregory Upchurch,40
+Christian,23. GARDEN GROVE,State Auditor,,DEM,Quentin Wilson,99
+Christian,23. GARDEN GROVE,State Auditor,,DEM,Gregory Upchurch,50
+Christian,24. NORTHVIEW,State Auditor,,DEM,Quentin Wilson,102
+Christian,24. NORTHVIEW,State Auditor,,DEM,Gregory Upchurch,42
+Christian,26. SPARTA,State Auditor,,DEM,Quentin Wilson,45
+Christian,26. SPARTA,State Auditor,,DEM,Gregory Upchurch,23
+Christian,28. ROSEDALE 2,State Auditor,,DEM,Quentin Wilson,69
+Christian,28. ROSEDALE 2,State Auditor,,DEM,Gregory Upchurch,47
+Christian,29. NORTHVIEW,State Auditor,,DEM,Quentin Wilson,93
+Christian,29. NORTHVIEW,State Auditor,,DEM,Gregory Upchurch,47
+Christian,30. ROSEDALE 1,State Auditor,,DEM,Quentin Wilson,150
+Christian,30. ROSEDALE 1,State Auditor,,DEM,Gregory Upchurch,110
+Christian,31. UNION CHAPEL 2,State Auditor,,DEM,Quentin Wilson,106
+Christian,31. UNION CHAPEL 2,State Auditor,,DEM,Gregory Upchurch,57
+Christian,32. CASSIDY #2,State Auditor,,DEM,Quentin Wilson,112
+Christian,32. CASSIDY #2,State Auditor,,DEM,Gregory Upchurch,51
+Christian,33. LINCOLN #2,State Auditor,,DEM,Quentin Wilson,42
+Christian,33. LINCOLN #2,State Auditor,,DEM,Gregory Upchurch,17
+Christian,34. WEST FINELY 2,State Auditor,,DEM,Quentin Wilson,51
+Christian,34. WEST FINELY 2,State Auditor,,DEM,Gregory Upchurch,31
+Christian,35. NORTHVIEW,State Auditor,,DEM,Quentin Wilson,90
+Christian,35. NORTHVIEW,State Auditor,,DEM,Gregory Upchurch,40
+Christian,ABSENTEE,State Auditor,,DEM,Quentin Wilson,223
+Christian,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,162
+Christian,1. E. BENTON/3. BRUNER,U.S. House,7,DEM,Missi Hesketh,29
+Christian,2. W. BENTON/14. LINDEN,U.S. House,7,DEM,Missi Hesketh,108
+Christian,SL 18. OF 25.SEN,U.S. House,7,DEM,Missi Hesketh,33
+Christian,5. RIVERSIDE,U.S. House,7,DEM,Missi Hesketh,284
+Christian,6. CASSIDY 1,U.S. House,7,DEM,Missi Hesketh,124
+Christian,7. WEST FINELY 1,U.S. House,7,DEM,Missi Hesketh,70
+Christian,8. EAST FINLEY,U.S. House,7,DEM,Missi Hesketh,218
+Christian,9. NORTH GALLOWAY,U.S. House,7,DEM,Missi Hesketh,63
+Christian,10. SOUTH GALLOWAY,U.S. House,7,DEM,Missi Hesketh,83
+Christian,13. LINCOLN #1,U.S. House,7,DEM,Missi Hesketh,107
+Christian,15. NORTH LINN,U.S. House,7,DEM,Missi Hesketh,42
+Christian,17. McCRAKEN,U.S. House,7,DEM,Missi Hesketh,64
+Christian,19. UNION CHAPEL 1B,U.S. House,7,DEM,Missi Hesketh,72
+Christian,20. POLK,U.S. House,7,DEM,Missi Hesketh,112
+Christian,21. UNION CHAPEL 1A,U.S. House,7,DEM,Missi Hesketh,102
+Christian,23. GARDEN GROVE,U.S. House,7,DEM,Missi Hesketh,143
+Christian,24. NORTHVIEW,U.S. House,7,DEM,Missi Hesketh,148
+Christian,26. SPARTA,U.S. House,7,DEM,Missi Hesketh,70
+Christian,28. ROSEDALE 2,U.S. House,7,DEM,Missi Hesketh,122
+Christian,29. NORTHVIEW,U.S. House,7,DEM,Missi Hesketh,146
+Christian,30. ROSEDALE 1,U.S. House,7,DEM,Missi Hesketh,260
+Christian,31. UNION CHAPEL 2,U.S. House,7,DEM,Missi Hesketh,173
+Christian,32. CASSIDY #2,U.S. House,7,DEM,Missi Hesketh,179
+Christian,33. LINCOLN #2,U.S. House,7,DEM,Missi Hesketh,65
+Christian,34. WEST FINELY 2,U.S. House,7,DEM,Missi Hesketh,79
+Christian,35. NORTHVIEW,U.S. House,7,DEM,Missi Hesketh,134
+Christian,ABSENTEE,U.S. House,7,DEM,Missi Hesketh,395
+Christian,1. E. BENTON/3. BRUNER,State House,138,DEM,Chris Daugherty,0
+Christian,SL 18. OF 25.SEN,State House,138,DEM,Chris Daugherty,31
+Christian,9. NORTH GALLOWAY,State House,138,DEM,Chris Daugherty,59
+Christian,10. SOUTH GALLOWAY,State House,138,DEM,Chris Daugherty,82
+Christian,15. NORTH LINN,State House,138,DEM,Chris Daugherty,41
+Christian,26. SPARTA,State House,138,DEM,Chris Daugherty,67
+Christian,35. NORTHVIEW,State House,138,DEM,Chris Daugherty,0
+Christian,ABSENTEE,State House,138,DEM,Chris Daugherty,51
+Christian,1. E. BENTON/3. BRUNER,State House,140,DEM,Julia E. Curran,26
+Christian,2. W. BENTON/14. LINDEN,State House,140,DEM,Julia E. Curran,108
+Christian,5. RIVERSIDE,State House,140,DEM,Julia E. Curran,279
+Christian,6. CASSIDY 1,State House,140,DEM,Julia E. Curran,124
+Christian,7. WEST FINELY 1,State House,140,DEM,Julia E. Curran,70
+Christian,8. EAST FINLEY,State House,140,DEM,Julia E. Curran,219
+Christian,17. McCRAKEN,State House,140,DEM,Julia E. Curran,64
+Christian,24. NORTHVIEW,State House,140,DEM,Julia E. Curran,0
+Christian,29. NORTHVIEW,State House,140,DEM,Julia E. Curran,36
+Christian,31. UNION CHAPEL 2,State House,140,DEM,Julia E. Curran,107
+Christian,32. CASSIDY #2,State House,140,DEM,Julia E. Curran,175
+Christian,34. WEST FINELY 2,State House,140,DEM,Julia E. Curran,26
+Christian,35. NORTHVIEW,State House,140,DEM,Julia E. Curran,0
+Christian,ABSENTEE,State House,140,DEM,Julia E. Curran,175
+Christian,10. SOUTH GALLOWAY,South Galloway Twp Committeeman,,DEM,Christophe R Guise,38
+Christian,10. SOUTH GALLOWAY,South Galloway Twp Committeeman,,DEM,David M. Lee,43
+Christian,ABSENTEE,South Galloway Twp Committeeman,,DEM,Christophe R Guise,2
+Christian,ABSENTEE,South Galloway Twp Committeeman,,DEM,David M. Lee,16
+Christian,10. SOUTH GALLOWAY,South Galloway Twp Committeewoman,,DEM,Christine Guise,31
+Christian,10. SOUTH GALLOWAY,South Galloway Twp Committeewoman,,DEM,Polly C. Dross,45
+Christian,ABSENTEE,South Galloway Twp Committeewoman,,DEM,Christine Guise,8
+Christian,ABSENTEE,South Galloway Twp Committeewoman,,DEM,Polly C. Dross,11
+Christian,1. E. BENTON/3. BRUNER,State Auditor,,LIB,Dustin Coffell,0
+Christian,2. W. BENTON/14. LINDEN,State Auditor,,LIB,Dustin Coffell,2
+Christian,SL 18. OF 25.SEN,State Auditor,,LIB,Dustin Coffell,1
+Christian,5. RIVERSIDE,State Auditor,,LIB,Dustin Coffell,10
+Christian,6. CASSIDY 1,State Auditor,,LIB,Dustin Coffell,4
+Christian,7. WEST FINELY 1,State Auditor,,LIB,Dustin Coffell,8
+Christian,8. EAST FINLEY,State Auditor,,LIB,Dustin Coffell,8
+Christian,9. NORTH GALLOWAY,State Auditor,,LIB,Dustin Coffell,4
+Christian,10. SOUTH GALLOWAY,State Auditor,,LIB,Dustin Coffell,6
+Christian,13. LINCOLN #1,State Auditor,,LIB,Dustin Coffell,0
+Christian,15. NORTH LINN,State Auditor,,LIB,Dustin Coffell,0
+Christian,17. McCRAKEN,State Auditor,,LIB,Dustin Coffell,2
+Christian,19. UNION CHAPEL 1B,State Auditor,,LIB,Dustin Coffell,1
+Christian,20. POLK,State Auditor,,LIB,Dustin Coffell,2
+Christian,21. UNION CHAPEL 1A,State Auditor,,LIB,Dustin Coffell,2
+Christian,23. GARDEN GROVE,State Auditor,,LIB,Dustin Coffell,1
+Christian,24. NORTHVIEW,State Auditor,,LIB,Dustin Coffell,4
+Christian,26. SPARTA,State Auditor,,LIB,Dustin Coffell,5
+Christian,28. ROSEDALE 2,State Auditor,,LIB,Dustin Coffell,1
+Christian,29. NORTHVIEW,State Auditor,,LIB,Dustin Coffell,12
+Christian,30. ROSEDALE 1,State Auditor,,LIB,Dustin Coffell,7
+Christian,31. UNION CHAPEL 2,State Auditor,,LIB,Dustin Coffell,0
+Christian,32. CASSIDY #2,State Auditor,,LIB,Dustin Coffell,11
+Christian,33. LINCOLN #2,State Auditor,,LIB,Dustin Coffell,4
+Christian,34. WEST FINELY 2,State Auditor,,LIB,Dustin Coffell,6
+Christian,35. NORTHVIEW,State Auditor,,LIB,Dustin Coffell,3
+Christian,ABSENTEE,State Auditor,,LIB,Dustin Coffell,3
+Christian,1. E. BENTON/3. BRUNER,U.S. House,7,LIB,Kevin Craig,0
+Christian,2. W. BENTON/14. LINDEN,U.S. House,7,LIB,Kevin Craig,2
+Christian,SL 18. OF 25.SEN,U.S. House,7,LIB,Kevin Craig,1
+Christian,5. RIVERSIDE,U.S. House,7,LIB,Kevin Craig,11
+Christian,6. CASSIDY 1,U.S. House,7,LIB,Kevin Craig,4
+Christian,7. WEST FINELY 1,U.S. House,7,LIB,Kevin Craig,7
+Christian,8. EAST FINLEY,U.S. House,7,LIB,Kevin Craig,8
+Christian,9. NORTH GALLOWAY,U.S. House,7,LIB,Kevin Craig,4
+Christian,10. SOUTH GALLOWAY,U.S. House,7,LIB,Kevin Craig,6
+Christian,13. LINCOLN #1,U.S. House,7,LIB,Kevin Craig,0
+Christian,15. NORTH LINN,U.S. House,7,LIB,Kevin Craig,0
+Christian,17. McCRAKEN,U.S. House,7,LIB,Kevin Craig,2
+Christian,19. UNION CHAPEL 1B,U.S. House,7,LIB,Kevin Craig,1
+Christian,20. POLK,U.S. House,7,LIB,Kevin Craig,1
+Christian,21. UNION CHAPEL 1A,U.S. House,7,LIB,Kevin Craig,2
+Christian,23. GARDEN GROVE,U.S. House,7,LIB,Kevin Craig,1
+Christian,24. NORTHVIEW,U.S. House,7,LIB,Kevin Craig,4
+Christian,26. SPARTA,U.S. House,7,LIB,Kevin Craig,5
+Christian,28. ROSEDALE 2,U.S. House,7,LIB,Kevin Craig,1
+Christian,29. NORTHVIEW,U.S. House,7,LIB,Kevin Craig,12
+Christian,30. ROSEDALE 1,U.S. House,7,LIB,Kevin Craig,7
+Christian,31. UNION CHAPEL 2,U.S. House,7,LIB,Kevin Craig,0
+Christian,32. CASSIDY #2,U.S. House,7,LIB,Kevin Craig,11
+Christian,33. LINCOLN #2,U.S. House,7,LIB,Kevin Craig,4
+Christian,34. WEST FINELY 2,U.S. House,7,LIB,Kevin Craig,6
+Christian,35. NORTHVIEW,U.S. House,7,LIB,Kevin Craig,3
+Christian,ABSENTEE,U.S. House,7,LIB,Kevin Craig,5
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 1,,,Yes,220
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 1,,,No,100
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 1,,,Yes,579
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 1,,,No,145
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 1,,,Yes,258
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 1,,,No,136
+Christian,5. RIVERSIDE,Constitutional Amendment 1,,,Yes,1346
+Christian,5. RIVERSIDE,Constitutional Amendment 1,,,No,255
+Christian,6. CASSIDY 1,Constitutional Amendment 1,,,Yes,553
+Christian,6. CASSIDY 1,Constitutional Amendment 1,,,No,144
+Christian,7. WEST FINELY 1,Constitutional Amendment 1,,,Yes,317
+Christian,7. WEST FINELY 1,Constitutional Amendment 1,,,No,69
+Christian,8. EAST FINLEY,Constitutional Amendment 1,,,Yes,1008
+Christian,8. EAST FINLEY,Constitutional Amendment 1,,,No,290
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 1,,,Yes,488
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 1,,,No,159
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 1,,,Yes,624
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 1,,,No,158
+Christian,13. LINCOLN #1,Constitutional Amendment 1,,,Yes,541
+Christian,13. LINCOLN #1,Constitutional Amendment 1,,,No,160
+Christian,15. NORTH LINN,Constitutional Amendment 1,,,Yes,260
+Christian,15. NORTH LINN,Constitutional Amendment 1,,,No,57
+Christian,17. McCRAKEN,Constitutional Amendment 1,,,Yes,446
+Christian,17. McCRAKEN,Constitutional Amendment 1,,,No,146
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 1,,,Yes,248
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 1,,,No,54
+Christian,20. POLK,Constitutional Amendment 1,,,Yes,675
+Christian,20. POLK,Constitutional Amendment 1,,,No,190
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 1,,,Yes,579
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 1,,,No,153
+Christian,23. GARDEN GROVE,Constitutional Amendment 1,,,Yes,609
+Christian,23. GARDEN GROVE,Constitutional Amendment 1,,,No,165
+Christian,24. NORTHVIEW,Constitutional Amendment 1,,,Yes,655
+Christian,24. NORTHVIEW,Constitutional Amendment 1,,,No,135
+Christian,26. SPARTA,Constitutional Amendment 1,,,Yes,345
+Christian,26. SPARTA,Constitutional Amendment 1,,,No,145
+Christian,28. ROSEDALE 2,Constitutional Amendment 1,,,Yes,604
+Christian,28. ROSEDALE 2,Constitutional Amendment 1,,,No,156
+Christian,29. NORTHVIEW,Constitutional Amendment 1,,,Yes,699
+Christian,29. NORTHVIEW,Constitutional Amendment 1,,,No,144
+Christian,30. ROSEDALE 1,Constitutional Amendment 1,,,Yes,1022
+Christian,30. ROSEDALE 1,Constitutional Amendment 1,,,No,241
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 1,,,Yes,870
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 1,,,No,215
+Christian,32. CASSIDY #2,Constitutional Amendment 1,,,Yes,913
+Christian,32. CASSIDY #2,Constitutional Amendment 1,,,No,180
+Christian,33. LINCOLN #2,Constitutional Amendment 1,,,Yes,417
+Christian,33. LINCOLN #2,Constitutional Amendment 1,,,No,73
+Christian,34. WEST FINELY 2,Constitutional Amendment 1,,,Yes,369
+Christian,34. WEST FINELY 2,Constitutional Amendment 1,,,No,85
+Christian,35. NORTHVIEW,Constitutional Amendment 1,,,Yes,498
+Christian,35. NORTHVIEW,Constitutional Amendment 1,,,No,119
+Christian,ABSENTEE,Constitutional Amendment 1,,,Yes,1463
+Christian,ABSENTEE,Constitutional Amendment 1,,,No,288
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 2,,,Yes,243
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 2,,,No,71
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 2,,,Yes,585
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 2,,,No,127
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 2,,,Yes,273
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 2,,,No,117
+Christian,5. RIVERSIDE,Constitutional Amendment 2,,,Yes,1269
+Christian,5. RIVERSIDE,Constitutional Amendment 2,,,No,308
+Christian,6. CASSIDY 1,Constitutional Amendment 2,,,Yes,523
+Christian,6. CASSIDY 1,Constitutional Amendment 2,,,No,157
+Christian,7. WEST FINELY 1,Constitutional Amendment 2,,,Yes,293
+Christian,7. WEST FINELY 1,Constitutional Amendment 2,,,No,92
+Christian,8. EAST FINLEY,Constitutional Amendment 2,,,Yes,1035
+Christian,8. EAST FINLEY,Constitutional Amendment 2,,,No,237
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 2,,,Yes,507
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 2,,,No,130
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 2,,,Yes,597
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 2,,,No,169
+Christian,13. LINCOLN #1,Constitutional Amendment 2,,,Yes,536
+Christian,13. LINCOLN #1,Constitutional Amendment 2,,,No,153
+Christian,15. NORTH LINN,Constitutional Amendment 2,,,Yes,264
+Christian,15. NORTH LINN,Constitutional Amendment 2,,,No,51
+Christian,17. McCRAKEN,Constitutional Amendment 2,,,Yes,444
+Christian,17. McCRAKEN,Constitutional Amendment 2,,,No,141
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 2,,,Yes,233
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 2,,,No,66
+Christian,20. POLK,Constitutional Amendment 2,,,Yes,643
+Christian,20. POLK,Constitutional Amendment 2,,,No,213
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 2,,,Yes,600
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 2,,,No,121
+Christian,23. GARDEN GROVE,Constitutional Amendment 2,,,Yes,582
+Christian,23. GARDEN GROVE,Constitutional Amendment 2,,,No,179
+Christian,24. NORTHVIEW,Constitutional Amendment 2,,,Yes,635
+Christian,24. NORTHVIEW,Constitutional Amendment 2,,,No,138
+Christian,26. SPARTA,Constitutional Amendment 2,,,Yes,390
+Christian,26. SPARTA,Constitutional Amendment 2,,,No,94
+Christian,28. ROSEDALE 2,Constitutional Amendment 2,,,Yes,589
+Christian,28. ROSEDALE 2,Constitutional Amendment 2,,,No,154
+Christian,29. NORTHVIEW,Constitutional Amendment 2,,,Yes,672
+Christian,29. NORTHVIEW,Constitutional Amendment 2,,,No,149
+Christian,30. ROSEDALE 1,Constitutional Amendment 2,,,Yes,973
+Christian,30. ROSEDALE 1,Constitutional Amendment 2,,,No,257
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 2,,,Yes,853
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 2,,,No,212
+Christian,32. CASSIDY #2,Constitutional Amendment 2,,,Yes,893
+Christian,32. CASSIDY #2,Constitutional Amendment 2,,,No,173
+Christian,33. LINCOLN #2,Constitutional Amendment 2,,,Yes,405
+Christian,33. LINCOLN #2,Constitutional Amendment 2,,,No,77
+Christian,34. WEST FINELY 2,Constitutional Amendment 2,,,Yes,362
+Christian,34. WEST FINELY 2,Constitutional Amendment 2,,,No,81
+Christian,35. NORTHVIEW,Constitutional Amendment 2,,,Yes,478
+Christian,35. NORTHVIEW,Constitutional Amendment 2,,,No,127
+Christian,ABSENTEE,Constitutional Amendment 2,,,Yes,1367
+Christian,ABSENTEE,Constitutional Amendment 2,,,No,357
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 4,,,Yes,87
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 4,,,No,235
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 4,,,Yes,219
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 4,,,No,508
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 4,,,Yes,97
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 4,,,No,304
+Christian,5. RIVERSIDE,Constitutional Amendment 4,,,Yes,434
+Christian,5. RIVERSIDE,Constitutional Amendment 4,,,No,1181
+Christian,6. CASSIDY 1,Constitutional Amendment 4,,,Yes,158
+Christian,6. CASSIDY 1,Constitutional Amendment 4,,,No,543
+Christian,7. WEST FINELY 1,Constitutional Amendment 4,,,Yes,94
+Christian,7. WEST FINELY 1,Constitutional Amendment 4,,,No,297
+Christian,8. EAST FINLEY,Constitutional Amendment 4,,,Yes,322
+Christian,8. EAST FINLEY,Constitutional Amendment 4,,,No,985
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 4,,,Yes,177
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 4,,,No,468
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 4,,,Yes,262
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 4,,,No,524
+Christian,13. LINCOLN #1,Constitutional Amendment 4,,,Yes,163
+Christian,13. LINCOLN #1,Constitutional Amendment 4,,,No,540
+Christian,15. NORTH LINN,Constitutional Amendment 4,,,Yes,84
+Christian,15. NORTH LINN,Constitutional Amendment 4,,,No,236
+Christian,17. McCRAKEN,Constitutional Amendment 4,,,Yes,176
+Christian,17. McCRAKEN,Constitutional Amendment 4,,,No,417
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 4,,,Yes,86
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 4,,,No,216
+Christian,20. POLK,Constitutional Amendment 4,,,Yes,229
+Christian,20. POLK,Constitutional Amendment 4,,,No,638
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 4,,,Yes,211
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 4,,,No,521
+Christian,23. GARDEN GROVE,Constitutional Amendment 4,,,Yes,196
+Christian,23. GARDEN GROVE,Constitutional Amendment 4,,,No,590
+Christian,24. NORTHVIEW,Constitutional Amendment 4,,,Yes,239
+Christian,24. NORTHVIEW,Constitutional Amendment 4,,,No,557
+Christian,26. SPARTA,Constitutional Amendment 4,,,Yes,136
+Christian,26. SPARTA,Constitutional Amendment 4,,,No,356
+Christian,28. ROSEDALE 2,Constitutional Amendment 4,,,Yes,193
+Christian,28. ROSEDALE 2,Constitutional Amendment 4,,,No,570
+Christian,29. NORTHVIEW,Constitutional Amendment 4,,,Yes,255
+Christian,29. NORTHVIEW,Constitutional Amendment 4,,,No,590
+Christian,30. ROSEDALE 1,Constitutional Amendment 4,,,Yes,332
+Christian,30. ROSEDALE 1,Constitutional Amendment 4,,,No,936
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 4,,,Yes,311
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 4,,,No,785
+Christian,32. CASSIDY #2,Constitutional Amendment 4,,,Yes,314
+Christian,32. CASSIDY #2,Constitutional Amendment 4,,,No,799
+Christian,33. LINCOLN #2,Constitutional Amendment 4,,,Yes,110
+Christian,33. LINCOLN #2,Constitutional Amendment 4,,,No,380
+Christian,34. WEST FINELY 2,Constitutional Amendment 4,,,Yes,115
+Christian,34. WEST FINELY 2,Constitutional Amendment 4,,,No,340
+Christian,35. NORTHVIEW,Constitutional Amendment 4,,,Yes,160
+Christian,35. NORTHVIEW,Constitutional Amendment 4,,,No,466
+Christian,ABSENTEE,Constitutional Amendment 4,,,Yes,420
+Christian,ABSENTEE,Constitutional Amendment 4,,,No,1335
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 5,,,Yes,77
+Christian,1. E. BENTON/3. BRUNER,Constitutional Amendment 5,,,No,243
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 5,,,Yes,183
+Christian,2. W. BENTON/14. LINDEN,Constitutional Amendment 5,,,No,541
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 5,,,Yes,67
+Christian,SL 18. OF 25.SEN,Constitutional Amendment 5,,,No,335
+Christian,5. RIVERSIDE,Constitutional Amendment 5,,,Yes,327
+Christian,5. RIVERSIDE,Constitutional Amendment 5,,,No,1290
+Christian,6. CASSIDY 1,Constitutional Amendment 5,,,Yes,170
+Christian,6. CASSIDY 1,Constitutional Amendment 5,,,No,536
+Christian,7. WEST FINELY 1,Constitutional Amendment 5,,,Yes,74
+Christian,7. WEST FINELY 1,Constitutional Amendment 5,,,No,318
+Christian,8. EAST FINLEY,Constitutional Amendment 5,,,Yes,242
+Christian,8. EAST FINLEY,Constitutional Amendment 5,,,No,1071
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 5,,,Yes,130
+Christian,9. NORTH GALLOWAY,Constitutional Amendment 5,,,No,519
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 5,,,Yes,208
+Christian,10. SOUTH GALLOWAY,Constitutional Amendment 5,,,No,576
+Christian,13. LINCOLN #1,Constitutional Amendment 5,,,Yes,129
+Christian,13. LINCOLN #1,Constitutional Amendment 5,,,No,575
+Christian,15. NORTH LINN,Constitutional Amendment 5,,,Yes,83
+Christian,15. NORTH LINN,Constitutional Amendment 5,,,No,236
+Christian,17. McCRAKEN,Constitutional Amendment 5,,,Yes,116
+Christian,17. McCRAKEN,Constitutional Amendment 5,,,No,478
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 5,,,Yes,76
+Christian,19. UNION CHAPEL 1B,Constitutional Amendment 5,,,No,225
+Christian,20. POLK,Constitutional Amendment 5,,,Yes,170
+Christian,20. POLK,Constitutional Amendment 5,,,No,697
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 5,,,Yes,153
+Christian,21. UNION CHAPEL 1A,Constitutional Amendment 5,,,No,580
+Christian,23. GARDEN GROVE,Constitutional Amendment 5,,,Yes,135
+Christian,23. GARDEN GROVE,Constitutional Amendment 5,,,No,651
+Christian,24. NORTHVIEW,Constitutional Amendment 5,,,Yes,202
+Christian,24. NORTHVIEW,Constitutional Amendment 5,,,No,592
+Christian,26. SPARTA,Constitutional Amendment 5,,,Yes,110
+Christian,26. SPARTA,Constitutional Amendment 5,,,No,380
+Christian,28. ROSEDALE 2,Constitutional Amendment 5,,,Yes,166
+Christian,28. ROSEDALE 2,Constitutional Amendment 5,,,No,601
+Christian,29. NORTHVIEW,Constitutional Amendment 5,,,Yes,184
+Christian,29. NORTHVIEW,Constitutional Amendment 5,,,No,663
+Christian,30. ROSEDALE 1,Constitutional Amendment 5,,,Yes,249
+Christian,30. ROSEDALE 1,Constitutional Amendment 5,,,No,1019
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 5,,,Yes,254
+Christian,31. UNION CHAPEL 2,Constitutional Amendment 5,,,No,837
+Christian,32. CASSIDY #2,Constitutional Amendment 5,,,Yes,263
+Christian,32. CASSIDY #2,Constitutional Amendment 5,,,No,848
+Christian,33. LINCOLN #2,Constitutional Amendment 5,,,Yes,98
+Christian,33. LINCOLN #2,Constitutional Amendment 5,,,No,394
+Christian,34. WEST FINELY 2,Constitutional Amendment 5,,,Yes,81
+Christian,34. WEST FINELY 2,Constitutional Amendment 5,,,No,375
+Christian,35. NORTHVIEW,Constitutional Amendment 5,,,Yes,135
+Christian,35. NORTHVIEW,Constitutional Amendment 5,,,No,490
+Christian,ABSENTEE,Constitutional Amendment 5,,,Yes,332
+Christian,ABSENTEE,Constitutional Amendment 5,,,No,1422
+Christian,19. UNION CHAPEL 1B,Question: Nixa Fpd,,,Yes,172
+Christian,19. UNION CHAPEL 1B,Question: Nixa Fpd,,,No,128
+Christian,21. UNION CHAPEL 1A,Question: Nixa Fpd,,,Yes,351
+Christian,21. UNION CHAPEL 1A,Question: Nixa Fpd,,,No,378
+Christian,23. GARDEN GROVE,Question: Nixa Fpd,,,Yes,384
+Christian,23. GARDEN GROVE,Question: Nixa Fpd,,,No,372
+Christian,24. NORTHVIEW,Question: Nixa Fpd,,,Yes,437
+Christian,24. NORTHVIEW,Question: Nixa Fpd,,,No,344
+Christian,28. ROSEDALE 2,Question: Nixa Fpd,,,Yes,382
+Christian,28. ROSEDALE 2,Question: Nixa Fpd,,,No,371
+Christian,29. NORTHVIEW,Question: Nixa Fpd,,,Yes,446
+Christian,29. NORTHVIEW,Question: Nixa Fpd,,,No,379
+Christian,30. ROSEDALE 1,Question: Nixa Fpd,,,Yes,647
+Christian,30. ROSEDALE 1,Question: Nixa Fpd,,,No,599
+Christian,31. UNION CHAPEL 2,Question: Nixa Fpd,,,Yes,532
+Christian,31. UNION CHAPEL 2,Question: Nixa Fpd,,,No,543
+Christian,35. NORTHVIEW,Question: Nixa Fpd,,,Yes,269
+Christian,35. NORTHVIEW,Question: Nixa Fpd,,,No,274
+Christian,ABSENTEE,Question: Nixa Fpd,,,Yes,352
+Christian,ABSENTEE,Question: Nixa Fpd,,,No,295

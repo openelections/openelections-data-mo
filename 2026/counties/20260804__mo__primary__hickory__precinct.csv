@@ -1,0 +1,321 @@
+county,precinct,office,district,party,candidate,votes
+Hickory,SKYLINE VOTE CENTER,State Auditor,,REP,Scott Fitzpatrick,330
+Hickory,SKYLINE VOTE CENTER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,45
+Hickory,PITTSBURG,State Auditor,,REP,Scott Fitzpatrick,292
+Hickory,PITTSBURG,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,47
+Hickory,CARSON'S CORNER,State Auditor,,REP,Scott Fitzpatrick,150
+Hickory,CARSON'S CORNER,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,24
+Hickory,HERMITAGE,State Auditor,,REP,Scott Fitzpatrick,139
+Hickory,HERMITAGE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,24
+Hickory,WHEATLAND,State Auditor,,REP,Scott Fitzpatrick,124
+Hickory,WHEATLAND,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,22
+Hickory,ELKTON,State Auditor,,REP,Scott Fitzpatrick,206
+Hickory,ELKTON,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,37
+Hickory,WEAUBLEAU/QUINCY,State Auditor,,REP,Scott Fitzpatrick,141
+Hickory,WEAUBLEAU/QUINCY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Hickory,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,156
+Hickory,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,21
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,REP,Mark Alford,298
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,REP,Heather Shelton,60
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,REP,Scott Vincent Vera,27
+Hickory,PITTSBURG,U.S. House,4,REP,Mark Alford,256
+Hickory,PITTSBURG,U.S. House,4,REP,Heather Shelton,68
+Hickory,PITTSBURG,U.S. House,4,REP,Scott Vincent Vera,24
+Hickory,CARSON'S CORNER,U.S. House,4,REP,Mark Alford,132
+Hickory,CARSON'S CORNER,U.S. House,4,REP,Heather Shelton,33
+Hickory,CARSON'S CORNER,U.S. House,4,REP,Scott Vincent Vera,14
+Hickory,HERMITAGE,U.S. House,4,REP,Mark Alford,121
+Hickory,HERMITAGE,U.S. House,4,REP,Heather Shelton,36
+Hickory,HERMITAGE,U.S. House,4,REP,Scott Vincent Vera,8
+Hickory,WHEATLAND,U.S. House,4,REP,Mark Alford,122
+Hickory,WHEATLAND,U.S. House,4,REP,Heather Shelton,24
+Hickory,WHEATLAND,U.S. House,4,REP,Scott Vincent Vera,9
+Hickory,ELKTON,U.S. House,4,REP,Mark Alford,191
+Hickory,ELKTON,U.S. House,4,REP,Heather Shelton,49
+Hickory,ELKTON,U.S. House,4,REP,Scott Vincent Vera,13
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,REP,Mark Alford,134
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,REP,Heather Shelton,29
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,REP,Scott Vincent Vera,16
+Hickory,ABSENTEE,U.S. House,4,REP,Mark Alford,143
+Hickory,ABSENTEE,U.S. House,4,REP,Heather Shelton,35
+Hickory,ABSENTEE,U.S. House,4,REP,Scott Vincent Vera,8
+Hickory,SKYLINE VOTE CENTER,State Senate,28,REP,Sam Alexander,223
+Hickory,SKYLINE VOTE CENTER,State Senate,28,REP,Brad Pollitt,107
+Hickory,SKYLINE VOTE CENTER,State Senate,28,REP,Chuck Lentz,73
+Hickory,PITTSBURG,State Senate,28,REP,Sam Alexander,199
+Hickory,PITTSBURG,State Senate,28,REP,Brad Pollitt,81
+Hickory,PITTSBURG,State Senate,28,REP,Chuck Lentz,73
+Hickory,CARSON'S CORNER,State Senate,28,REP,Sam Alexander,103
+Hickory,CARSON'S CORNER,State Senate,28,REP,Brad Pollitt,48
+Hickory,CARSON'S CORNER,State Senate,28,REP,Chuck Lentz,35
+Hickory,HERMITAGE,State Senate,28,REP,Sam Alexander,128
+Hickory,HERMITAGE,State Senate,28,REP,Brad Pollitt,31
+Hickory,HERMITAGE,State Senate,28,REP,Chuck Lentz,19
+Hickory,WHEATLAND,State Senate,28,REP,Sam Alexander,109
+Hickory,WHEATLAND,State Senate,28,REP,Brad Pollitt,33
+Hickory,WHEATLAND,State Senate,28,REP,Chuck Lentz,24
+Hickory,ELKTON,State Senate,28,REP,Sam Alexander,126
+Hickory,ELKTON,State Senate,28,REP,Brad Pollitt,80
+Hickory,ELKTON,State Senate,28,REP,Chuck Lentz,64
+Hickory,WEAUBLEAU/QUINCY,State Senate,28,REP,Sam Alexander,93
+Hickory,WEAUBLEAU/QUINCY,State Senate,28,REP,Brad Pollitt,51
+Hickory,WEAUBLEAU/QUINCY,State Senate,28,REP,Chuck Lentz,41
+Hickory,ABSENTEE,State Senate,28,REP,Sam Alexander,109
+Hickory,ABSENTEE,State Senate,28,REP,Brad Pollitt,45
+Hickory,ABSENTEE,State Senate,28,REP,Chuck Lentz,40
+Hickory,SKYLINE VOTE CENTER,State House,126,REP,Jim Kalberloh,258
+Hickory,WHEATLAND,State House,126,REP,Jim Kalberloh,134
+Hickory,WEAUBLEAU/QUINCY,State House,126,REP,Jim Kalberloh,31
+Hickory,ABSENTEE,State House,126,REP,Jim Kalberloh,54
+Hickory,SKYLINE VOTE CENTER,State House,128,REP,Christopher D. Warwick,107
+Hickory,PITTSBURG,State House,128,REP,Christopher D. Warwick,316
+Hickory,CARSON'S CORNER,State House,128,REP,Christopher D. Warwick,161
+Hickory,HERMITAGE,State House,128,REP,Christopher D. Warwick,151
+Hickory,ELKTON,State House,128,REP,Christopher D. Warwick,221
+Hickory,WEAUBLEAU/QUINCY,State House,128,REP,Christopher D. Warwick,126
+Hickory,ABSENTEE,State House,128,REP,Christopher D. Warwick,103
+Hickory,SKYLINE VOTE CENTER,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,367
+Hickory,PITTSBURG,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,329
+Hickory,CARSON'S CORNER,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,170
+Hickory,HERMITAGE,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,162
+Hickory,WHEATLAND,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,132
+Hickory,ELKTON,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,234
+Hickory,WEAUBLEAU/QUINCY,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,161
+Hickory,ABSENTEE,Presiding Commissioner of the County Commission,,REP,Robert Sawyer,172
+Hickory,SKYLINE VOTE CENTER,Clerk of the County Commission,,REP,Tamara Weidman,373
+Hickory,PITTSBURG,Clerk of the County Commission,,REP,Tamara Weidman,324
+Hickory,CARSON'S CORNER,Clerk of the County Commission,,REP,Tamara Weidman,171
+Hickory,HERMITAGE,Clerk of the County Commission,,REP,Tamara Weidman,162
+Hickory,WHEATLAND,Clerk of the County Commission,,REP,Tamara Weidman,136
+Hickory,ELKTON,Clerk of the County Commission,,REP,Tamara Weidman,227
+Hickory,WEAUBLEAU/QUINCY,Clerk of the County Commission,,REP,Tamara Weidman,167
+Hickory,ABSENTEE,Clerk of the County Commission,,REP,Tamara Weidman,178
+Hickory,SKYLINE VOTE CENTER,Circuit Clerk,,REP,Alana (Barger) Brauch,363
+Hickory,PITTSBURG,Circuit Clerk,,REP,Alana (Barger) Brauch,322
+Hickory,CARSON'S CORNER,Circuit Clerk,,REP,Alana (Barger) Brauch,166
+Hickory,HERMITAGE,Circuit Clerk,,REP,Alana (Barger) Brauch,153
+Hickory,WHEATLAND,Circuit Clerk,,REP,Alana (Barger) Brauch,130
+Hickory,ELKTON,Circuit Clerk,,REP,Alana (Barger) Brauch,221
+Hickory,WEAUBLEAU/QUINCY,Circuit Clerk,,REP,Alana (Barger) Brauch,163
+Hickory,ABSENTEE,Circuit Clerk,,REP,Alana (Barger) Brauch,169
+Hickory,SKYLINE VOTE CENTER,Recorder of Deeds,,REP,Pamela Hutton,369
+Hickory,PITTSBURG,Recorder of Deeds,,REP,Pamela Hutton,325
+Hickory,CARSON'S CORNER,Recorder of Deeds,,REP,Pamela Hutton,173
+Hickory,HERMITAGE,Recorder of Deeds,,REP,Pamela Hutton,160
+Hickory,WHEATLAND,Recorder of Deeds,,REP,Pamela Hutton,140
+Hickory,ELKTON,Recorder of Deeds,,REP,Pamela Hutton,233
+Hickory,WEAUBLEAU/QUINCY,Recorder of Deeds,,REP,Pamela Hutton,167
+Hickory,ABSENTEE,Recorder of Deeds,,REP,Pamela Hutton,173
+Hickory,SKYLINE VOTE CENTER,County Treasurer,,REP,Kenny Ratliff,356
+Hickory,PITTSBURG,County Treasurer,,REP,Kenny Ratliff,327
+Hickory,CARSON'S CORNER,County Treasurer,,REP,Kenny Ratliff,168
+Hickory,HERMITAGE,County Treasurer,,REP,Kenny Ratliff,154
+Hickory,WHEATLAND,County Treasurer,,REP,Kenny Ratliff,132
+Hickory,ELKTON,County Treasurer,,REP,Kenny Ratliff,220
+Hickory,WEAUBLEAU/QUINCY,County Treasurer,,REP,Kenny Ratliff,160
+Hickory,ABSENTEE,County Treasurer,,REP,Kenny Ratliff,168
+Hickory,SKYLINE VOTE CENTER,Prosecuting Attorney,,REP,Darla J. Mueller,366
+Hickory,PITTSBURG,Prosecuting Attorney,,REP,Darla J. Mueller,320
+Hickory,CARSON'S CORNER,Prosecuting Attorney,,REP,Darla J. Mueller,165
+Hickory,HERMITAGE,Prosecuting Attorney,,REP,Darla J. Mueller,153
+Hickory,WHEATLAND,Prosecuting Attorney,,REP,Darla J. Mueller,128
+Hickory,ELKTON,Prosecuting Attorney,,REP,Darla J. Mueller,229
+Hickory,WEAUBLEAU/QUINCY,Prosecuting Attorney,,REP,Darla J. Mueller,165
+Hickory,ABSENTEE,Prosecuting Attorney,,REP,Darla J. Mueller,165
+Hickory,SKYLINE VOTE CENTER,Collector,,REP,Karen Stokes,371
+Hickory,PITTSBURG,Collector,,REP,Karen Stokes,333
+Hickory,CARSON'S CORNER,Collector,,REP,Karen Stokes,178
+Hickory,HERMITAGE,Collector,,REP,Karen Stokes,165
+Hickory,WHEATLAND,Collector,,REP,Karen Stokes,141
+Hickory,ELKTON,Collector,,REP,Karen Stokes,241
+Hickory,WEAUBLEAU/QUINCY,Collector,,REP,Karen Stokes,172
+Hickory,ABSENTEE,Collector,,REP,Karen Stokes,173
+Hickory,SKYLINE VOTE CENTER,State Auditor,,DEM,Quentin Wilson,33
+Hickory,SKYLINE VOTE CENTER,State Auditor,,DEM,Gregory Upchurch,16
+Hickory,PITTSBURG,State Auditor,,DEM,Quentin Wilson,48
+Hickory,PITTSBURG,State Auditor,,DEM,Gregory Upchurch,27
+Hickory,CARSON'S CORNER,State Auditor,,DEM,Quentin Wilson,32
+Hickory,CARSON'S CORNER,State Auditor,,DEM,Gregory Upchurch,22
+Hickory,HERMITAGE,State Auditor,,DEM,Quentin Wilson,33
+Hickory,HERMITAGE,State Auditor,,DEM,Gregory Upchurch,11
+Hickory,WHEATLAND,State Auditor,,DEM,Quentin Wilson,12
+Hickory,WHEATLAND,State Auditor,,DEM,Gregory Upchurch,5
+Hickory,ELKTON,State Auditor,,DEM,Quentin Wilson,32
+Hickory,ELKTON,State Auditor,,DEM,Gregory Upchurch,20
+Hickory,WEAUBLEAU/QUINCY,State Auditor,,DEM,Quentin Wilson,15
+Hickory,WEAUBLEAU/QUINCY,State Auditor,,DEM,Gregory Upchurch,7
+Hickory,ABSENTEE,State Auditor,,DEM,Quentin Wilson,34
+Hickory,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,26
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,DEM,Jordan Herrera,9
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,DEM,Wayne Russell,7
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,DEM,Hartzell Gray 3rd,3
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,DEM,G Rick,2
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,DEM,Jeanette Cass,15
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,DEM,Ashleigh Rogers,12
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,DEM,Randy Miller,4
+Hickory,PITTSBURG,U.S. House,4,DEM,Jordan Herrera,15
+Hickory,PITTSBURG,U.S. House,4,DEM,Wayne Russell,6
+Hickory,PITTSBURG,U.S. House,4,DEM,Hartzell Gray 3rd,8
+Hickory,PITTSBURG,U.S. House,4,DEM,G Rick,6
+Hickory,PITTSBURG,U.S. House,4,DEM,Jeanette Cass,10
+Hickory,PITTSBURG,U.S. House,4,DEM,Ashleigh Rogers,22
+Hickory,PITTSBURG,U.S. House,4,DEM,Randy Miller,9
+Hickory,CARSON'S CORNER,U.S. House,4,DEM,Jordan Herrera,16
+Hickory,CARSON'S CORNER,U.S. House,4,DEM,Wayne Russell,5
+Hickory,CARSON'S CORNER,U.S. House,4,DEM,Hartzell Gray 3rd,4
+Hickory,CARSON'S CORNER,U.S. House,4,DEM,G Rick,0
+Hickory,CARSON'S CORNER,U.S. House,4,DEM,Jeanette Cass,11
+Hickory,CARSON'S CORNER,U.S. House,4,DEM,Ashleigh Rogers,12
+Hickory,CARSON'S CORNER,U.S. House,4,DEM,Randy Miller,6
+Hickory,HERMITAGE,U.S. House,4,DEM,Jordan Herrera,11
+Hickory,HERMITAGE,U.S. House,4,DEM,Wayne Russell,6
+Hickory,HERMITAGE,U.S. House,4,DEM,Hartzell Gray 3rd,3
+Hickory,HERMITAGE,U.S. House,4,DEM,G Rick,2
+Hickory,HERMITAGE,U.S. House,4,DEM,Jeanette Cass,6
+Hickory,HERMITAGE,U.S. House,4,DEM,Ashleigh Rogers,6
+Hickory,HERMITAGE,U.S. House,4,DEM,Randy Miller,10
+Hickory,WHEATLAND,U.S. House,4,DEM,Jordan Herrera,8
+Hickory,WHEATLAND,U.S. House,4,DEM,Wayne Russell,2
+Hickory,WHEATLAND,U.S. House,4,DEM,Hartzell Gray 3rd,0
+Hickory,WHEATLAND,U.S. House,4,DEM,G Rick,0
+Hickory,WHEATLAND,U.S. House,4,DEM,Jeanette Cass,2
+Hickory,WHEATLAND,U.S. House,4,DEM,Ashleigh Rogers,4
+Hickory,WHEATLAND,U.S. House,4,DEM,Randy Miller,2
+Hickory,ELKTON,U.S. House,4,DEM,Jordan Herrera,13
+Hickory,ELKTON,U.S. House,4,DEM,Wayne Russell,7
+Hickory,ELKTON,U.S. House,4,DEM,Hartzell Gray 3rd,1
+Hickory,ELKTON,U.S. House,4,DEM,G Rick,3
+Hickory,ELKTON,U.S. House,4,DEM,Jeanette Cass,11
+Hickory,ELKTON,U.S. House,4,DEM,Ashleigh Rogers,12
+Hickory,ELKTON,U.S. House,4,DEM,Randy Miller,7
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,DEM,Jordan Herrera,5
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,DEM,Wayne Russell,2
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,DEM,Hartzell Gray 3rd,4
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,DEM,G Rick,0
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,DEM,Jeanette Cass,6
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,DEM,Ashleigh Rogers,4
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,DEM,Randy Miller,1
+Hickory,ABSENTEE,U.S. House,4,DEM,Jordan Herrera,20
+Hickory,ABSENTEE,U.S. House,4,DEM,Wayne Russell,5
+Hickory,ABSENTEE,U.S. House,4,DEM,Hartzell Gray 3rd,2
+Hickory,ABSENTEE,U.S. House,4,DEM,G Rick,1
+Hickory,ABSENTEE,U.S. House,4,DEM,Jeanette Cass,15
+Hickory,ABSENTEE,U.S. House,4,DEM,Ashleigh Rogers,11
+Hickory,ABSENTEE,U.S. House,4,DEM,Randy Miller,6
+Hickory,SKYLINE VOTE CENTER,State Senate,28,DEM,Mike McCaffree,41
+Hickory,PITTSBURG,State Senate,28,DEM,Mike McCaffree,74
+Hickory,CARSON'S CORNER,State Senate,28,DEM,Mike McCaffree,52
+Hickory,HERMITAGE,State Senate,28,DEM,Mike McCaffree,41
+Hickory,WHEATLAND,State Senate,28,DEM,Mike McCaffree,17
+Hickory,ELKTON,State Senate,28,DEM,Mike McCaffree,53
+Hickory,WEAUBLEAU/QUINCY,State Senate,28,DEM,Mike McCaffree,22
+Hickory,ABSENTEE,State Senate,28,DEM,Mike McCaffree,60
+Hickory,SKYLINE VOTE CENTER,State House,126,DEM,Melissa Perry,22
+Hickory,WHEATLAND,State House,126,DEM,Melissa Perry,19
+Hickory,WEAUBLEAU/QUINCY,State House,126,DEM,Melissa Perry,7
+Hickory,ABSENTEE,State House,126,DEM,Melissa Perry,16
+Hickory,SKYLINE VOTE CENTER,State House,128,DEM,Michael L. Martin,20
+Hickory,PITTSBURG,State House,128,DEM,Michael L. Martin,75
+Hickory,CARSON'S CORNER,State House,128,DEM,Michael L. Martin,52
+Hickory,HERMITAGE,State House,128,DEM,Michael L. Martin,40
+Hickory,ELKTON,State House,128,DEM,Michael L. Martin,54
+Hickory,WEAUBLEAU/QUINCY,State House,128,DEM,Michael L. Martin,15
+Hickory,ABSENTEE,State House,128,DEM,Michael L. Martin,43
+Hickory,SKYLINE VOTE CENTER,Associate Circuit Judge 30th District,,DEM,James Hackett,37
+Hickory,PITTSBURG,Associate Circuit Judge 30th District,,DEM,James Hackett,70
+Hickory,CARSON'S CORNER,Associate Circuit Judge 30th District,,DEM,James Hackett,45
+Hickory,HERMITAGE,Associate Circuit Judge 30th District,,DEM,James Hackett,34
+Hickory,WHEATLAND,Associate Circuit Judge 30th District,,DEM,James Hackett,15
+Hickory,ELKTON,Associate Circuit Judge 30th District,,DEM,James Hackett,47
+Hickory,WEAUBLEAU/QUINCY,Associate Circuit Judge 30th District,,DEM,James Hackett,16
+Hickory,ABSENTEE,Associate Circuit Judge 30th District,,DEM,James Hackett,49
+Hickory,SKYLINE VOTE CENTER,State Auditor,,LIB,Dustin Coffell,2
+Hickory,PITTSBURG,State Auditor,,LIB,Dustin Coffell,5
+Hickory,CARSON'S CORNER,State Auditor,,LIB,Dustin Coffell,1
+Hickory,HERMITAGE,State Auditor,,LIB,Dustin Coffell,0
+Hickory,WHEATLAND,State Auditor,,LIB,Dustin Coffell,1
+Hickory,ELKTON,State Auditor,,LIB,Dustin Coffell,0
+Hickory,WEAUBLEAU/QUINCY,State Auditor,,LIB,Dustin Coffell,0
+Hickory,ABSENTEE,State Auditor,,LIB,Dustin Coffell,3
+Hickory,SKYLINE VOTE CENTER,U.S. House,4,LIB,Thomas Holbrook,2
+Hickory,PITTSBURG,U.S. House,4,LIB,Thomas Holbrook,5
+Hickory,CARSON'S CORNER,U.S. House,4,LIB,Thomas Holbrook,1
+Hickory,HERMITAGE,U.S. House,4,LIB,Thomas Holbrook,0
+Hickory,WHEATLAND,U.S. House,4,LIB,Thomas Holbrook,1
+Hickory,ELKTON,U.S. House,4,LIB,Thomas Holbrook,0
+Hickory,WEAUBLEAU/QUINCY,U.S. House,4,LIB,Thomas Holbrook,0
+Hickory,ABSENTEE,U.S. House,4,LIB,Thomas Holbrook,3
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 1,,,Yes,357
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 1,,,No,135
+Hickory,PITTSBURG,Constitutional Amendment 1,,,Yes,368
+Hickory,PITTSBURG,Constitutional Amendment 1,,,No,110
+Hickory,CARSON'S CORNER,Constitutional Amendment 1,,,Yes,204
+Hickory,CARSON'S CORNER,Constitutional Amendment 1,,,No,56
+Hickory,HERMITAGE,Constitutional Amendment 1,,,Yes,185
+Hickory,HERMITAGE,Constitutional Amendment 1,,,No,65
+Hickory,WHEATLAND,Constitutional Amendment 1,,,Yes,140
+Hickory,WHEATLAND,Constitutional Amendment 1,,,No,70
+Hickory,ELKTON,Constitutional Amendment 1,,,Yes,263
+Hickory,ELKTON,Constitutional Amendment 1,,,No,96
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 1,,,Yes,173
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 1,,,No,56
+Hickory,ABSENTEE,Constitutional Amendment 1,,,Yes,219
+Hickory,ABSENTEE,Constitutional Amendment 1,,,No,56
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 2,,,Yes,368
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 2,,,No,114
+Hickory,PITTSBURG,Constitutional Amendment 2,,,Yes,342
+Hickory,PITTSBURG,Constitutional Amendment 2,,,No,136
+Hickory,CARSON'S CORNER,Constitutional Amendment 2,,,Yes,185
+Hickory,CARSON'S CORNER,Constitutional Amendment 2,,,No,70
+Hickory,HERMITAGE,Constitutional Amendment 2,,,Yes,178
+Hickory,HERMITAGE,Constitutional Amendment 2,,,No,64
+Hickory,WHEATLAND,Constitutional Amendment 2,,,Yes,137
+Hickory,WHEATLAND,Constitutional Amendment 2,,,No,66
+Hickory,ELKTON,Constitutional Amendment 2,,,Yes,274
+Hickory,ELKTON,Constitutional Amendment 2,,,No,82
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 2,,,Yes,171
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 2,,,No,56
+Hickory,ABSENTEE,Constitutional Amendment 2,,,Yes,207
+Hickory,ABSENTEE,Constitutional Amendment 2,,,No,64
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 4,,,Yes,117
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 4,,,No,380
+Hickory,PITTSBURG,Constitutional Amendment 4,,,Yes,67
+Hickory,PITTSBURG,Constitutional Amendment 4,,,No,414
+Hickory,CARSON'S CORNER,Constitutional Amendment 4,,,Yes,32
+Hickory,CARSON'S CORNER,Constitutional Amendment 4,,,No,228
+Hickory,HERMITAGE,Constitutional Amendment 4,,,Yes,42
+Hickory,HERMITAGE,Constitutional Amendment 4,,,No,205
+Hickory,WHEATLAND,Constitutional Amendment 4,,,Yes,28
+Hickory,WHEATLAND,Constitutional Amendment 4,,,No,183
+Hickory,ELKTON,Constitutional Amendment 4,,,Yes,48
+Hickory,ELKTON,Constitutional Amendment 4,,,No,314
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 4,,,Yes,36
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 4,,,No,197
+Hickory,ABSENTEE,Constitutional Amendment 4,,,Yes,52
+Hickory,ABSENTEE,Constitutional Amendment 4,,,No,228
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 5,,,Yes,69
+Hickory,SKYLINE VOTE CENTER,Constitutional Amendment 5,,,No,427
+Hickory,PITTSBURG,Constitutional Amendment 5,,,Yes,55
+Hickory,PITTSBURG,Constitutional Amendment 5,,,No,426
+Hickory,CARSON'S CORNER,Constitutional Amendment 5,,,Yes,21
+Hickory,CARSON'S CORNER,Constitutional Amendment 5,,,No,240
+Hickory,HERMITAGE,Constitutional Amendment 5,,,Yes,20
+Hickory,HERMITAGE,Constitutional Amendment 5,,,No,228
+Hickory,WHEATLAND,Constitutional Amendment 5,,,Yes,25
+Hickory,WHEATLAND,Constitutional Amendment 5,,,No,187
+Hickory,ELKTON,Constitutional Amendment 5,,,Yes,29
+Hickory,ELKTON,Constitutional Amendment 5,,,No,332
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 5,,,Yes,19
+Hickory,WEAUBLEAU/QUINCY,Constitutional Amendment 5,,,No,213
+Hickory,ABSENTEE,Constitutional Amendment 5,,,Yes,43
+Hickory,ABSENTEE,Constitutional Amendment 5,,,No,238
+Hickory,SKYLINE VOTE CENTER,Hermitage R-IV Proposition Teachers,,,Yes,1
+Hickory,SKYLINE VOTE CENTER,Hermitage R-IV Proposition Teachers,,,No,2
+Hickory,PITTSBURG,Hermitage R-IV Proposition Teachers,,,Yes,187
+Hickory,PITTSBURG,Hermitage R-IV Proposition Teachers,,,No,280
+Hickory,CARSON'S CORNER,Hermitage R-IV Proposition Teachers,,,Yes,110
+Hickory,CARSON'S CORNER,Hermitage R-IV Proposition Teachers,,,No,146
+Hickory,HERMITAGE,Hermitage R-IV Proposition Teachers,,,Yes,56
+Hickory,HERMITAGE,Hermitage R-IV Proposition Teachers,,,No,61
+Hickory,ABSENTEE,Hermitage R-IV Proposition Teachers,,,Yes,55
+Hickory,ABSENTEE,Hermitage R-IV Proposition Teachers,,,No,44

@@ -1,0 +1,785 @@
+county,precinct,office,district,party,candidate,votes
+Stone,ABSENTEE,State Auditor,,REP,Scott Fitzpatrick,348
+Stone,ABSENTEE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,53
+Stone,ABSENTEE,U.S. House,7,REP,John Casey,43
+Stone,ABSENTEE,U.S. House,7,REP,Grayson Hunt,51
+Stone,ABSENTEE,U.S. House,7,REP,Eric W. Burlison,334
+Stone,ABSENTEE,State House,138,REP,Tom Franiak,84
+Stone,ABSENTEE,State House,138,REP,Burt Whaley,302
+Stone,ABSENTEE,State House,155,REP,Matthew Overcast,33
+Stone,ABSENTEE,Associate Circuit Judge Division I,,,Andrea Pate,344
+Stone,ABSENTEE,Associate Circuit Judge Division II,,,Eric Chavez,338
+Stone,ABSENTEE,Presiding Commissioner,,,Kelly Power,170
+Stone,ABSENTEE,Presiding Commissioner,,,Gordon Weathers,128
+Stone,ABSENTEE,Presiding Commissioner,,,Doug Minton,139
+Stone,ABSENTEE,County Clerk,,,Denise Dickens,336
+Stone,ABSENTEE,County Clerk,,,David Cash,109
+Stone,ABSENTEE,Clerk of the Circuit Court,,,Mechelee Lebow,365
+Stone,ABSENTEE,Recorder of Deeds,,,Amy Jo Larson,375
+Stone,ABSENTEE,County Treasurer,,,Kristi Stephens,362
+Stone,ABSENTEE,Prosecuting Attorney,,,Wesley M. Weber,346
+Stone,ABSENTEE,Collector of Revenue,,,Anna Burk,381
+Stone,ABSENTEE,Northern Road Associate Commissioner,,,Bo Jenkins,181
+Stone,ABSENTEE,Southern Road Associate Commissioner,,,Roy Campbell,172
+Stone,ABSENTEE,Flat Creek A Precinct Committeeman,,,Thomas Sherry,9
+Stone,ABSENTEE,Flat Creek A Precinct Committeeman,,,Rob Gillum,7
+Stone,ABSENTEE,Flat Creek A Precinct Committeeman,,WI,Write-Ins,1
+Stone,ABSENTEE,Ruth C Precinct Committeeman,,,Ryan Hurtgen,17
+Stone,ABSENTEE,Ruth C Precinct Committeeman,,,Gary L Clark,38
+Stone,ABSENTEE,Ruth C Precinct Committeeman,,WI,Write-Ins,0
+Stone,ABSENTEE,Ruth C Precinct Committeewoman,,,Sabrina Hurtgen,12
+Stone,ABSENTEE,Ruth C Precinct Committeewoman,,,Kathy J Clark,41
+Stone,ABSENTEE,Ruth C Precinct Committeewoman,,WI,Write-Ins,1
+Stone,ABSENTEE,State Auditor,,DEM,Quentin Wilson,70
+Stone,ABSENTEE,State Auditor,,DEM,Gregory Upchurch,65
+Stone,ABSENTEE,U.S. House,7,DEM,Missi Hesketh,138
+Stone,ABSENTEE,State House,138,DEM,Chris Daugherty,118
+Stone,ABSENTEE,State House,155,DEM,Joshua Berzins,20
+Stone,ABSENTEE,State Auditor,,LIB,Dustin Coffell,1
+Stone,ABSENTEE,U.S. House,7,LIB,Kevin Craig,1
+Stone,ABSENTEE,Constitutional Amendment 1,,,Yes,549
+Stone,ABSENTEE,Constitutional Amendment 1,,,No,90
+Stone,ABSENTEE,Constitutional Amendment 2,,,Yes,508
+Stone,ABSENTEE,Constitutional Amendment 2,,,No,113
+Stone,ABSENTEE,Constitutional Amendment 4,,,Yes,173
+Stone,ABSENTEE,Constitutional Amendment 4,,,No,462
+Stone,ABSENTEE,Constitutional Amendment 5,,,Yes,147
+Stone,ABSENTEE,Constitutional Amendment 5,,,No,496
+Stone,ABSENTEE,Question: Central Crossing Fpd,,,Yes,26
+Stone,ABSENTEE,Question: Central Crossing Fpd,,,No,9
+Stone,ABSENTEE,Question: Nixa Fpd,,,Yes,9
+Stone,ABSENTEE,Question: Nixa Fpd,,,No,3
+Stone,ALPINE,State Auditor,,REP,Scott Fitzpatrick,158
+Stone,ALPINE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,9
+Stone,ALPINE,U.S. House,7,REP,John Casey,25
+Stone,ALPINE,U.S. House,7,REP,Grayson Hunt,20
+Stone,ALPINE,U.S. House,7,REP,Eric W. Burlison,121
+Stone,ALPINE,State House,138,REP,Tom Franiak,43
+Stone,ALPINE,State House,138,REP,Burt Whaley,111
+Stone,ALPINE,Associate Circuit Judge Division I,,,Andrea Pate,134
+Stone,ALPINE,Associate Circuit Judge Division II,,,Eric Chavez,133
+Stone,ALPINE,Presiding Commissioner,,,Kelly Power,76
+Stone,ALPINE,Presiding Commissioner,,,Gordon Weathers,54
+Stone,ALPINE,Presiding Commissioner,,,Doug Minton,29
+Stone,ALPINE,County Clerk,,,Denise Dickens,85
+Stone,ALPINE,County Clerk,,,David Cash,77
+Stone,ALPINE,Clerk of the Circuit Court,,,Mechelee Lebow,135
+Stone,ALPINE,Recorder of Deeds,,,Amy Jo Larson,137
+Stone,ALPINE,County Treasurer,,,Kristi Stephens,133
+Stone,ALPINE,Prosecuting Attorney,,,Wesley M. Weber,133
+Stone,ALPINE,Collector of Revenue,,,Anna Burk,136
+Stone,ALPINE,Southern Road Associate Commissioner,,,Roy Campbell,134
+Stone,ALPINE,State Auditor,,DEM,Quentin Wilson,18
+Stone,ALPINE,State Auditor,,DEM,Gregory Upchurch,8
+Stone,ALPINE,U.S. House,7,DEM,Missi Hesketh,27
+Stone,ALPINE,State House,138,DEM,Chris Daugherty,28
+Stone,ALPINE,State Auditor,,LIB,Dustin Coffell,1
+Stone,ALPINE,U.S. House,7,LIB,Kevin Craig,1
+Stone,ALPINE,Constitutional Amendment 1,,,Yes,174
+Stone,ALPINE,Constitutional Amendment 1,,,No,46
+Stone,ALPINE,Constitutional Amendment 2,,,Yes,183
+Stone,ALPINE,Constitutional Amendment 2,,,No,35
+Stone,ALPINE,Constitutional Amendment 4,,,Yes,54
+Stone,ALPINE,Constitutional Amendment 4,,,No,166
+Stone,ALPINE,Constitutional Amendment 5,,,Yes,47
+Stone,ALPINE,Constitutional Amendment 5,,,No,177
+Stone,ALPINE,Question: Central Crossing Fpd,,,Yes,151
+Stone,ALPINE,Question: Central Crossing Fpd,,,No,71
+Stone,CASS,State Auditor,,REP,Scott Fitzpatrick,247
+Stone,CASS,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,25
+Stone,CASS,U.S. House,7,REP,John Casey,23
+Stone,CASS,U.S. House,7,REP,Grayson Hunt,29
+Stone,CASS,U.S. House,7,REP,Eric W. Burlison,235
+Stone,CASS,State House,138,REP,Tom Franiak,33
+Stone,CASS,State House,138,REP,Burt Whaley,254
+Stone,CASS,Associate Circuit Judge Division I,,,Andrea Pate,243
+Stone,CASS,Associate Circuit Judge Division II,,,Eric Chavez,242
+Stone,CASS,Presiding Commissioner,,,Kelly Power,104
+Stone,CASS,Presiding Commissioner,,,Gordon Weathers,47
+Stone,CASS,Presiding Commissioner,,,Doug Minton,118
+Stone,CASS,County Clerk,,,Denise Dickens,188
+Stone,CASS,County Clerk,,,David Cash,87
+Stone,CASS,Clerk of the Circuit Court,,,Mechelee Lebow,245
+Stone,CASS,Recorder of Deeds,,,Amy Jo Larson,246
+Stone,CASS,County Treasurer,,,Kristi Stephens,246
+Stone,CASS,Prosecuting Attorney,,,Wesley M. Weber,244
+Stone,CASS,Collector of Revenue,,,Anna Burk,249
+Stone,CASS,Northern Road Associate Commissioner,,,Bo Jenkins,247
+Stone,CASS,State Auditor,,DEM,Quentin Wilson,43
+Stone,CASS,State Auditor,,DEM,Gregory Upchurch,16
+Stone,CASS,U.S. House,7,DEM,Missi Hesketh,59
+Stone,CASS,State House,138,DEM,Chris Daugherty,59
+Stone,CASS,State Auditor,,LIB,Dustin Coffell,4
+Stone,CASS,U.S. House,7,LIB,Kevin Craig,4
+Stone,CASS,Constitutional Amendment 1,,,Yes,318
+Stone,CASS,Constitutional Amendment 1,,,No,95
+Stone,CASS,Constitutional Amendment 2,,,Yes,319
+Stone,CASS,Constitutional Amendment 2,,,No,87
+Stone,CASS,Constitutional Amendment 4,,,Yes,121
+Stone,CASS,Constitutional Amendment 4,,,No,291
+Stone,CASS,Constitutional Amendment 5,,,Yes,85
+Stone,CASS,Constitutional Amendment 5,,,No,326
+Stone,CASS,Question: Nixa Fpd,,,Yes,107
+Stone,CASS,Question: Nixa Fpd,,,No,86
+Stone,FLAT CREEK A,State Auditor,,REP,Scott Fitzpatrick,298
+Stone,FLAT CREEK A,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,53
+Stone,FLAT CREEK A,U.S. House,7,REP,John Casey,60
+Stone,FLAT CREEK A,U.S. House,7,REP,Grayson Hunt,36
+Stone,FLAT CREEK A,U.S. House,7,REP,Eric W. Burlison,270
+Stone,FLAT CREEK A,State House,138,REP,Tom Franiak,93
+Stone,FLAT CREEK A,State House,138,REP,Burt Whaley,267
+Stone,FLAT CREEK A,Associate Circuit Judge Division I,,,Andrea Pate,311
+Stone,FLAT CREEK A,Associate Circuit Judge Division II,,,Eric Chavez,316
+Stone,FLAT CREEK A,Presiding Commissioner,,,Kelly Power,202
+Stone,FLAT CREEK A,Presiding Commissioner,,,Gordon Weathers,93
+Stone,FLAT CREEK A,Presiding Commissioner,,,Doug Minton,90
+Stone,FLAT CREEK A,County Clerk,,,Denise Dickens,213
+Stone,FLAT CREEK A,County Clerk,,,David Cash,156
+Stone,FLAT CREEK A,Clerk of the Circuit Court,,,Mechelee Lebow,319
+Stone,FLAT CREEK A,Recorder of Deeds,,,Amy Jo Larson,316
+Stone,FLAT CREEK A,County Treasurer,,,Kristi Stephens,319
+Stone,FLAT CREEK A,Prosecuting Attorney,,,Wesley M. Weber,309
+Stone,FLAT CREEK A,Collector of Revenue,,,Anna Burk,323
+Stone,FLAT CREEK A,Northern Road Associate Commissioner,,,Bo Jenkins,305
+Stone,FLAT CREEK A,Flat Creek A Precinct Committeeman,,,Thomas Sherry,120
+Stone,FLAT CREEK A,Flat Creek A Precinct Committeeman,,,Rob Gillum,171
+Stone,FLAT CREEK A,Flat Creek A Precinct Committeeman,,WI,Write-Ins,11
+Stone,FLAT CREEK A,State Auditor,,DEM,Quentin Wilson,33
+Stone,FLAT CREEK A,State Auditor,,DEM,Gregory Upchurch,23
+Stone,FLAT CREEK A,U.S. House,7,DEM,Missi Hesketh,55
+Stone,FLAT CREEK A,State House,138,DEM,Chris Daugherty,53
+Stone,FLAT CREEK A,State Auditor,,LIB,Dustin Coffell,2
+Stone,FLAT CREEK A,U.S. House,7,LIB,Kevin Craig,2
+Stone,FLAT CREEK A,Constitutional Amendment 1,,,Yes,385
+Stone,FLAT CREEK A,Constitutional Amendment 1,,,No,88
+Stone,FLAT CREEK A,Constitutional Amendment 2,,,Yes,372
+Stone,FLAT CREEK A,Constitutional Amendment 2,,,No,101
+Stone,FLAT CREEK A,Constitutional Amendment 4,,,Yes,144
+Stone,FLAT CREEK A,Constitutional Amendment 4,,,No,344
+Stone,FLAT CREEK A,Constitutional Amendment 5,,,Yes,88
+Stone,FLAT CREEK A,Constitutional Amendment 5,,,No,399
+Stone,FLAT CREEK A,Question: Central Crossing Fpd,,,Yes,16
+Stone,FLAT CREEK A,Question: Central Crossing Fpd,,,No,5
+Stone,FLAT CREEK B,State Auditor,,REP,Scott Fitzpatrick,112
+Stone,FLAT CREEK B,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,17
+Stone,FLAT CREEK B,U.S. House,7,REP,John Casey,14
+Stone,FLAT CREEK B,U.S. House,7,REP,Grayson Hunt,16
+Stone,FLAT CREEK B,U.S. House,7,REP,Eric W. Burlison,106
+Stone,FLAT CREEK B,State House,138,REP,Tom Franiak,42
+Stone,FLAT CREEK B,State House,138,REP,Burt Whaley,86
+Stone,FLAT CREEK B,Associate Circuit Judge Division I,,,Andrea Pate,117
+Stone,FLAT CREEK B,Associate Circuit Judge Division II,,,Eric Chavez,117
+Stone,FLAT CREEK B,Presiding Commissioner,,,Kelly Power,71
+Stone,FLAT CREEK B,Presiding Commissioner,,,Gordon Weathers,50
+Stone,FLAT CREEK B,Presiding Commissioner,,,Doug Minton,14
+Stone,FLAT CREEK B,County Clerk,,,Denise Dickens,95
+Stone,FLAT CREEK B,County Clerk,,,David Cash,35
+Stone,FLAT CREEK B,Clerk of the Circuit Court,,,Mechelee Lebow,119
+Stone,FLAT CREEK B,Recorder of Deeds,,,Amy Jo Larson,120
+Stone,FLAT CREEK B,County Treasurer,,,Kristi Stephens,118
+Stone,FLAT CREEK B,Prosecuting Attorney,,,Wesley M. Weber,117
+Stone,FLAT CREEK B,Collector of Revenue,,,Anna Burk,124
+Stone,FLAT CREEK B,Northern Road Associate Commissioner,,,Bo Jenkins,117
+Stone,FLAT CREEK B,State Auditor,,DEM,Quentin Wilson,14
+Stone,FLAT CREEK B,State Auditor,,DEM,Gregory Upchurch,8
+Stone,FLAT CREEK B,U.S. House,7,DEM,Missi Hesketh,21
+Stone,FLAT CREEK B,State House,138,DEM,Chris Daugherty,22
+Stone,FLAT CREEK B,State Auditor,,LIB,Dustin Coffell,2
+Stone,FLAT CREEK B,U.S. House,7,LIB,Kevin Craig,2
+Stone,FLAT CREEK B,Constitutional Amendment 1,,,Yes,147
+Stone,FLAT CREEK B,Constitutional Amendment 1,,,No,28
+Stone,FLAT CREEK B,Constitutional Amendment 2,,,Yes,139
+Stone,FLAT CREEK B,Constitutional Amendment 2,,,No,33
+Stone,FLAT CREEK B,Constitutional Amendment 4,,,Yes,35
+Stone,FLAT CREEK B,Constitutional Amendment 4,,,No,142
+Stone,FLAT CREEK B,Constitutional Amendment 5,,,Yes,34
+Stone,FLAT CREEK B,Constitutional Amendment 5,,,No,143
+Stone,GRANT,State Auditor,,REP,Scott Fitzpatrick,118
+Stone,GRANT,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,26
+Stone,GRANT,U.S. House,7,REP,John Casey,25
+Stone,GRANT,U.S. House,7,REP,Grayson Hunt,13
+Stone,GRANT,U.S. House,7,REP,Eric W. Burlison,111
+Stone,GRANT,State House,138,REP,Tom Franiak,45
+Stone,GRANT,State House,138,REP,Burt Whaley,104
+Stone,GRANT,Associate Circuit Judge Division I,,,Andrea Pate,115
+Stone,GRANT,Associate Circuit Judge Division II,,,Eric Chavez,112
+Stone,GRANT,Presiding Commissioner,,,Kelly Power,54
+Stone,GRANT,Presiding Commissioner,,,Gordon Weathers,17
+Stone,GRANT,Presiding Commissioner,,,Doug Minton,87
+Stone,GRANT,County Clerk,,,Denise Dickens,93
+Stone,GRANT,County Clerk,,,David Cash,54
+Stone,GRANT,Clerk of the Circuit Court,,,Mechelee Lebow,129
+Stone,GRANT,Recorder of Deeds,,,Amy Jo Larson,128
+Stone,GRANT,County Treasurer,,,Kristi Stephens,129
+Stone,GRANT,Prosecuting Attorney,,,Wesley M. Weber,126
+Stone,GRANT,Collector of Revenue,,,Anna Burk,131
+Stone,GRANT,Northern Road Associate Commissioner,,,Bo Jenkins,128
+Stone,GRANT,State Auditor,,DEM,Quentin Wilson,1
+Stone,GRANT,State Auditor,,DEM,Gregory Upchurch,1
+Stone,GRANT,U.S. House,7,DEM,Missi Hesketh,3
+Stone,GRANT,State House,138,DEM,Chris Daugherty,4
+Stone,GRANT,State Auditor,,LIB,Dustin Coffell,1
+Stone,GRANT,U.S. House,7,LIB,Kevin Craig,1
+Stone,GRANT,Constitutional Amendment 1,,,Yes,125
+Stone,GRANT,Constitutional Amendment 1,,,No,46
+Stone,GRANT,Constitutional Amendment 2,,,Yes,116
+Stone,GRANT,Constitutional Amendment 2,,,No,50
+Stone,GRANT,Constitutional Amendment 4,,,Yes,43
+Stone,GRANT,Constitutional Amendment 4,,,No,132
+Stone,GRANT,Constitutional Amendment 5,,,Yes,30
+Stone,GRANT,Constitutional Amendment 5,,,No,144
+Stone,HURLEY,State Auditor,,REP,Scott Fitzpatrick,190
+Stone,HURLEY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,54
+Stone,HURLEY,U.S. House,7,REP,John Casey,35
+Stone,HURLEY,U.S. House,7,REP,Grayson Hunt,25
+Stone,HURLEY,U.S. House,7,REP,Eric W. Burlison,197
+Stone,HURLEY,State House,138,REP,Tom Franiak,42
+Stone,HURLEY,State House,138,REP,Burt Whaley,212
+Stone,HURLEY,Associate Circuit Judge Division I,,,Andrea Pate,190
+Stone,HURLEY,Associate Circuit Judge Division II,,,Eric Chavez,190
+Stone,HURLEY,Presiding Commissioner,,,Kelly Power,100
+Stone,HURLEY,Presiding Commissioner,,,Gordon Weathers,34
+Stone,HURLEY,Presiding Commissioner,,,Doug Minton,137
+Stone,HURLEY,County Clerk,,,Denise Dickens,117
+Stone,HURLEY,County Clerk,,,David Cash,153
+Stone,HURLEY,Clerk of the Circuit Court,,,Mechelee Lebow,200
+Stone,HURLEY,Recorder of Deeds,,,Amy Jo Larson,205
+Stone,HURLEY,County Treasurer,,,Kristi Stephens,202
+Stone,HURLEY,Prosecuting Attorney,,,Wesley M. Weber,185
+Stone,HURLEY,Collector of Revenue,,,Anna Burk,205
+Stone,HURLEY,Northern Road Associate Commissioner,,,Bo Jenkins,199
+Stone,HURLEY,State Auditor,,DEM,Quentin Wilson,1
+Stone,HURLEY,State Auditor,,DEM,Gregory Upchurch,1
+Stone,HURLEY,U.S. House,7,DEM,Missi Hesketh,4
+Stone,HURLEY,State House,138,DEM,Chris Daugherty,4
+Stone,HURLEY,State Auditor,,LIB,Dustin Coffell,3
+Stone,HURLEY,U.S. House,7,LIB,Kevin Craig,3
+Stone,HURLEY,Constitutional Amendment 1,,,Yes,174
+Stone,HURLEY,Constitutional Amendment 1,,,No,124
+Stone,HURLEY,Constitutional Amendment 2,,,Yes,197
+Stone,HURLEY,Constitutional Amendment 2,,,No,92
+Stone,HURLEY,Constitutional Amendment 4,,,Yes,70
+Stone,HURLEY,Constitutional Amendment 4,,,No,231
+Stone,HURLEY,Constitutional Amendment 5,,,Yes,49
+Stone,HURLEY,Constitutional Amendment 5,,,No,251
+Stone,LINCOLN,State Auditor,,REP,Scott Fitzpatrick,134
+Stone,LINCOLN,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,23
+Stone,LINCOLN,U.S. House,7,REP,John Casey,20
+Stone,LINCOLN,U.S. House,7,REP,Grayson Hunt,24
+Stone,LINCOLN,U.S. House,7,REP,Eric W. Burlison,125
+Stone,LINCOLN,State House,138,REP,Tom Franiak,26
+Stone,LINCOLN,State House,138,REP,Burt Whaley,138
+Stone,LINCOLN,Associate Circuit Judge Division I,,,Andrea Pate,126
+Stone,LINCOLN,Associate Circuit Judge Division II,,,Eric Chavez,123
+Stone,LINCOLN,Presiding Commissioner,,,Kelly Power,53
+Stone,LINCOLN,Presiding Commissioner,,,Gordon Weathers,37
+Stone,LINCOLN,Presiding Commissioner,,,Doug Minton,97
+Stone,LINCOLN,County Clerk,,,Denise Dickens,96
+Stone,LINCOLN,County Clerk,,,David Cash,86
+Stone,LINCOLN,Clerk of the Circuit Court,,,Mechelee Lebow,136
+Stone,LINCOLN,Recorder of Deeds,,,Amy Jo Larson,139
+Stone,LINCOLN,County Treasurer,,,Kristi Stephens,126
+Stone,LINCOLN,Prosecuting Attorney,,,Wesley M. Weber,128
+Stone,LINCOLN,Collector of Revenue,,,Anna Burk,132
+Stone,LINCOLN,Northern Road Associate Commissioner,,,Bo Jenkins,131
+Stone,LINCOLN,State Auditor,,DEM,Quentin Wilson,5
+Stone,LINCOLN,State Auditor,,DEM,Gregory Upchurch,3
+Stone,LINCOLN,U.S. House,7,DEM,Missi Hesketh,8
+Stone,LINCOLN,State House,138,DEM,Chris Daugherty,8
+Stone,LINCOLN,State Auditor,,LIB,Dustin Coffell,0
+Stone,LINCOLN,U.S. House,7,LIB,Kevin Craig,0
+Stone,LINCOLN,Constitutional Amendment 1,,,Yes,141
+Stone,LINCOLN,Constitutional Amendment 1,,,No,60
+Stone,LINCOLN,Constitutional Amendment 2,,,Yes,138
+Stone,LINCOLN,Constitutional Amendment 2,,,No,51
+Stone,LINCOLN,Constitutional Amendment 4,,,Yes,63
+Stone,LINCOLN,Constitutional Amendment 4,,,No,142
+Stone,LINCOLN,Constitutional Amendment 5,,,Yes,38
+Stone,LINCOLN,Constitutional Amendment 5,,,No,169
+Stone,McKINLEY,State Auditor,,REP,Scott Fitzpatrick,92
+Stone,McKINLEY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,18
+Stone,McKINLEY,U.S. House,7,REP,John Casey,21
+Stone,McKINLEY,U.S. House,7,REP,Grayson Hunt,10
+Stone,McKINLEY,U.S. House,7,REP,Eric W. Burlison,87
+Stone,McKINLEY,State House,138,REP,Tom Franiak,34
+Stone,McKINLEY,State House,138,REP,Burt Whaley,74
+Stone,McKINLEY,Associate Circuit Judge Division I,,,Andrea Pate,90
+Stone,McKINLEY,Associate Circuit Judge Division II,,,Eric Chavez,88
+Stone,McKINLEY,Presiding Commissioner,,,Kelly Power,62
+Stone,McKINLEY,Presiding Commissioner,,,Gordon Weathers,18
+Stone,McKINLEY,Presiding Commissioner,,,Doug Minton,36
+Stone,McKINLEY,County Clerk,,,Denise Dickens,59
+Stone,McKINLEY,County Clerk,,,David Cash,58
+Stone,McKINLEY,Clerk of the Circuit Court,,,Mechelee Lebow,89
+Stone,McKINLEY,Recorder of Deeds,,,Amy Jo Larson,92
+Stone,McKINLEY,County Treasurer,,,Kristi Stephens,89
+Stone,McKINLEY,Prosecuting Attorney,,,Wesley M. Weber,91
+Stone,McKINLEY,Collector of Revenue,,,Anna Burk,93
+Stone,McKINLEY,Northern Road Associate Commissioner,,,Bo Jenkins,89
+Stone,McKINLEY,State Auditor,,DEM,Quentin Wilson,0
+Stone,McKINLEY,State Auditor,,DEM,Gregory Upchurch,0
+Stone,McKINLEY,U.S. House,7,DEM,Missi Hesketh,0
+Stone,McKINLEY,State House,138,DEM,Chris Daugherty,0
+Stone,McKINLEY,State Auditor,,LIB,Dustin Coffell,0
+Stone,McKINLEY,U.S. House,7,LIB,Kevin Craig,0
+Stone,McKINLEY,Constitutional Amendment 1,,,Yes,84
+Stone,McKINLEY,Constitutional Amendment 1,,,No,38
+Stone,McKINLEY,Constitutional Amendment 2,,,Yes,80
+Stone,McKINLEY,Constitutional Amendment 2,,,No,34
+Stone,McKINLEY,Constitutional Amendment 4,,,Yes,28
+Stone,McKINLEY,Constitutional Amendment 4,,,No,94
+Stone,McKINLEY,Constitutional Amendment 5,,,Yes,15
+Stone,McKINLEY,Constitutional Amendment 5,,,No,108
+Stone,PIERCE,State Auditor,,REP,Scott Fitzpatrick,215
+Stone,PIERCE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,45
+Stone,PIERCE,U.S. House,7,REP,John Casey,36
+Stone,PIERCE,U.S. House,7,REP,Grayson Hunt,27
+Stone,PIERCE,U.S. House,7,REP,Eric W. Burlison,205
+Stone,PIERCE,State House,138,REP,Tom Franiak,60
+Stone,PIERCE,State House,138,REP,Burt Whaley,199
+Stone,PIERCE,Associate Circuit Judge Division I,,,Andrea Pate,206
+Stone,PIERCE,Associate Circuit Judge Division II,,,Eric Chavez,214
+Stone,PIERCE,Presiding Commissioner,,,Kelly Power,73
+Stone,PIERCE,Presiding Commissioner,,,Gordon Weathers,32
+Stone,PIERCE,Presiding Commissioner,,,Doug Minton,189
+Stone,PIERCE,County Clerk,,,Denise Dickens,158
+Stone,PIERCE,County Clerk,,,David Cash,128
+Stone,PIERCE,Clerk of the Circuit Court,,,Mechelee Lebow,231
+Stone,PIERCE,Recorder of Deeds,,,Amy Jo Larson,226
+Stone,PIERCE,County Treasurer,,,Kristi Stephens,216
+Stone,PIERCE,Prosecuting Attorney,,,Wesley M. Weber,208
+Stone,PIERCE,Collector of Revenue,,,Anna Burk,223
+Stone,PIERCE,Northern Road Associate Commissioner,,,Bo Jenkins,224
+Stone,PIERCE,State Auditor,,DEM,Quentin Wilson,17
+Stone,PIERCE,State Auditor,,DEM,Gregory Upchurch,20
+Stone,PIERCE,U.S. House,7,DEM,Missi Hesketh,35
+Stone,PIERCE,State House,138,DEM,Chris Daugherty,37
+Stone,PIERCE,State Auditor,,LIB,Dustin Coffell,0
+Stone,PIERCE,U.S. House,7,LIB,Kevin Craig,0
+Stone,PIERCE,Constitutional Amendment 1,,,Yes,242
+Stone,PIERCE,Constitutional Amendment 1,,,No,117
+Stone,PIERCE,Constitutional Amendment 2,,,Yes,264
+Stone,PIERCE,Constitutional Amendment 2,,,No,93
+Stone,PIERCE,Constitutional Amendment 4,,,Yes,99
+Stone,PIERCE,Constitutional Amendment 4,,,No,261
+Stone,PIERCE,Constitutional Amendment 5,,,Yes,51
+Stone,PIERCE,Constitutional Amendment 5,,,No,309
+Stone,PINE A,State Auditor,,REP,Scott Fitzpatrick,408
+Stone,PINE A,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,68
+Stone,PINE A,U.S. House,7,REP,John Casey,62
+Stone,PINE A,U.S. House,7,REP,Grayson Hunt,61
+Stone,PINE A,U.S. House,7,REP,Eric W. Burlison,376
+Stone,PINE A,State House,155,REP,Matthew Overcast,453
+Stone,PINE A,Associate Circuit Judge Division I,,,Andrea Pate,444
+Stone,PINE A,Associate Circuit Judge Division II,,,Eric Chavez,433
+Stone,PINE A,Presiding Commissioner,,,Kelly Power,179
+Stone,PINE A,Presiding Commissioner,,,Gordon Weathers,158
+Stone,PINE A,Presiding Commissioner,,,Doug Minton,140
+Stone,PINE A,County Clerk,,,Denise Dickens,279
+Stone,PINE A,County Clerk,,,David Cash,197
+Stone,PINE A,Clerk of the Circuit Court,,,Mechelee Lebow,446
+Stone,PINE A,Recorder of Deeds,,,Amy Jo Larson,454
+Stone,PINE A,County Treasurer,,,Kristi Stephens,447
+Stone,PINE A,Prosecuting Attorney,,,Wesley M. Weber,431
+Stone,PINE A,Collector of Revenue,,,Anna Burk,456
+Stone,PINE A,Southern Road Associate Commissioner,,,Roy Campbell,444
+Stone,PINE A,State Auditor,,DEM,Quentin Wilson,25
+Stone,PINE A,State Auditor,,DEM,Gregory Upchurch,23
+Stone,PINE A,U.S. House,7,DEM,Missi Hesketh,48
+Stone,PINE A,State House,155,DEM,Joshua Berzins,51
+Stone,PINE A,State Auditor,,LIB,Dustin Coffell,1
+Stone,PINE A,U.S. House,7,LIB,Kevin Craig,1
+Stone,PINE A,Constitutional Amendment 1,,,Yes,465
+Stone,PINE A,Constitutional Amendment 1,,,No,125
+Stone,PINE A,Constitutional Amendment 2,,,Yes,497
+Stone,PINE A,Constitutional Amendment 2,,,No,91
+Stone,PINE A,Constitutional Amendment 4,,,Yes,173
+Stone,PINE A,Constitutional Amendment 4,,,No,422
+Stone,PINE A,Constitutional Amendment 5,,,Yes,128
+Stone,PINE A,Constitutional Amendment 5,,,No,467
+Stone,PINE B,State Auditor,,REP,Scott Fitzpatrick,344
+Stone,PINE B,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,61
+Stone,PINE B,U.S. House,7,REP,John Casey,51
+Stone,PINE B,U.S. House,7,REP,Grayson Hunt,49
+Stone,PINE B,U.S. House,7,REP,Eric W. Burlison,334
+Stone,PINE B,State House,138,REP,Tom Franiak,93
+Stone,PINE B,State House,138,REP,Burt Whaley,259
+Stone,PINE B,State House,155,REP,Matthew Overcast,63
+Stone,PINE B,Associate Circuit Judge Division I,,,Andrea Pate,378
+Stone,PINE B,Associate Circuit Judge Division II,,,Eric Chavez,367
+Stone,PINE B,Presiding Commissioner,,,Kelly Power,161
+Stone,PINE B,Presiding Commissioner,,,Gordon Weathers,204
+Stone,PINE B,Presiding Commissioner,,,Doug Minton,59
+Stone,PINE B,County Clerk,,,Denise Dickens,256
+Stone,PINE B,County Clerk,,,David Cash,171
+Stone,PINE B,Clerk of the Circuit Court,,,Mechelee Lebow,378
+Stone,PINE B,Recorder of Deeds,,,Amy Jo Larson,372
+Stone,PINE B,County Treasurer,,,Kristi Stephens,376
+Stone,PINE B,Prosecuting Attorney,,,Wesley M. Weber,378
+Stone,PINE B,Collector of Revenue,,,Anna Burk,389
+Stone,PINE B,Southern Road Associate Commissioner,,,Roy Campbell,383
+Stone,PINE B,State Auditor,,DEM,Quentin Wilson,34
+Stone,PINE B,State Auditor,,DEM,Gregory Upchurch,23
+Stone,PINE B,U.S. House,7,DEM,Missi Hesketh,61
+Stone,PINE B,State House,138,DEM,Chris Daugherty,45
+Stone,PINE B,State House,155,DEM,Joshua Berzins,15
+Stone,PINE B,State Auditor,,LIB,Dustin Coffell,0
+Stone,PINE B,U.S. House,7,LIB,Kevin Craig,0
+Stone,PINE B,Constitutional Amendment 1,,,Yes,444
+Stone,PINE B,Constitutional Amendment 1,,,No,112
+Stone,PINE B,Constitutional Amendment 2,,,Yes,449
+Stone,PINE B,Constitutional Amendment 2,,,No,95
+Stone,PINE B,Constitutional Amendment 4,,,Yes,189
+Stone,PINE B,Constitutional Amendment 4,,,No,371
+Stone,PINE B,Constitutional Amendment 5,,,Yes,151
+Stone,PINE B,Constitutional Amendment 5,,,No,408
+Stone,PONCE DE LEON,State Auditor,,REP,Scott Fitzpatrick,97
+Stone,PONCE DE LEON,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,20
+Stone,PONCE DE LEON,U.S. House,7,REP,John Casey,11
+Stone,PONCE DE LEON,U.S. House,7,REP,Grayson Hunt,17
+Stone,PONCE DE LEON,U.S. House,7,REP,Eric W. Burlison,95
+Stone,PONCE DE LEON,State House,138,REP,Tom Franiak,30
+Stone,PONCE DE LEON,State House,138,REP,Burt Whaley,83
+Stone,PONCE DE LEON,Associate Circuit Judge Division I,,,Andrea Pate,92
+Stone,PONCE DE LEON,Associate Circuit Judge Division II,,,Eric Chavez,90
+Stone,PONCE DE LEON,Presiding Commissioner,,,Kelly Power,51
+Stone,PONCE DE LEON,Presiding Commissioner,,,Gordon Weathers,25
+Stone,PONCE DE LEON,Presiding Commissioner,,,Doug Minton,41
+Stone,PONCE DE LEON,County Clerk,,,Denise Dickens,71
+Stone,PONCE DE LEON,County Clerk,,,David Cash,46
+Stone,PONCE DE LEON,Clerk of the Circuit Court,,,Mechelee Lebow,97
+Stone,PONCE DE LEON,Recorder of Deeds,,,Amy Jo Larson,98
+Stone,PONCE DE LEON,County Treasurer,,,Kristi Stephens,96
+Stone,PONCE DE LEON,Prosecuting Attorney,,,Wesley M. Weber,97
+Stone,PONCE DE LEON,Collector of Revenue,,,Anna Burk,102
+Stone,PONCE DE LEON,Northern Road Associate Commissioner,,,Bo Jenkins,98
+Stone,PONCE DE LEON,State Auditor,,DEM,Quentin Wilson,14
+Stone,PONCE DE LEON,State Auditor,,DEM,Gregory Upchurch,2
+Stone,PONCE DE LEON,U.S. House,7,DEM,Missi Hesketh,16
+Stone,PONCE DE LEON,State House,138,DEM,Chris Daugherty,14
+Stone,PONCE DE LEON,State Auditor,,LIB,Dustin Coffell,0
+Stone,PONCE DE LEON,U.S. House,7,LIB,Kevin Craig,0
+Stone,PONCE DE LEON,Constitutional Amendment 1,,,Yes,118
+Stone,PONCE DE LEON,Constitutional Amendment 1,,,No,36
+Stone,PONCE DE LEON,Constitutional Amendment 2,,,Yes,112
+Stone,PONCE DE LEON,Constitutional Amendment 2,,,No,34
+Stone,PONCE DE LEON,Constitutional Amendment 4,,,Yes,42
+Stone,PONCE DE LEON,Constitutional Amendment 4,,,No,113
+Stone,PONCE DE LEON,Constitutional Amendment 5,,,Yes,36
+Stone,PONCE DE LEON,Constitutional Amendment 5,,,No,119
+Stone,RUTH A,State Auditor,,REP,Scott Fitzpatrick,580
+Stone,RUTH A,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,117
+Stone,RUTH A,U.S. House,7,REP,John Casey,91
+Stone,RUTH A,U.S. House,7,REP,Grayson Hunt,96
+Stone,RUTH A,U.S. House,7,REP,Eric W. Burlison,542
+Stone,RUTH A,State House,138,REP,Tom Franiak,133
+Stone,RUTH A,State House,138,REP,Burt Whaley,570
+Stone,RUTH A,Associate Circuit Judge Division I,,,Andrea Pate,629
+Stone,RUTH A,Associate Circuit Judge Division II,,,Eric Chavez,623
+Stone,RUTH A,Presiding Commissioner,,,Kelly Power,274
+Stone,RUTH A,Presiding Commissioner,,,Gordon Weathers,347
+Stone,RUTH A,Presiding Commissioner,,,Doug Minton,121
+Stone,RUTH A,County Clerk,,,Denise Dickens,441
+Stone,RUTH A,County Clerk,,,David Cash,287
+Stone,RUTH A,Clerk of the Circuit Court,,,Mechelee Lebow,629
+Stone,RUTH A,Recorder of Deeds,,,Amy Jo Larson,632
+Stone,RUTH A,County Treasurer,,,Kristi Stephens,615
+Stone,RUTH A,Prosecuting Attorney,,,Wesley M. Weber,608
+Stone,RUTH A,Collector of Revenue,,,Anna Burk,638
+Stone,RUTH A,Northern Road Associate Commissioner,,,Bo Jenkins,609
+Stone,RUTH A,State Auditor,,DEM,Quentin Wilson,51
+Stone,RUTH A,State Auditor,,DEM,Gregory Upchurch,42
+Stone,RUTH A,U.S. House,7,DEM,Missi Hesketh,98
+Stone,RUTH A,State House,138,DEM,Chris Daugherty,96
+Stone,RUTH A,State Auditor,,LIB,Dustin Coffell,6
+Stone,RUTH A,U.S. House,7,LIB,Kevin Craig,6
+Stone,RUTH A,Constitutional Amendment 1,,,Yes,742
+Stone,RUTH A,Constitutional Amendment 1,,,No,200
+Stone,RUTH A,Constitutional Amendment 2,,,Yes,744
+Stone,RUTH A,Constitutional Amendment 2,,,No,182
+Stone,RUTH A,Constitutional Amendment 4,,,Yes,271
+Stone,RUTH A,Constitutional Amendment 4,,,No,675
+Stone,RUTH A,Constitutional Amendment 5,,,Yes,196
+Stone,RUTH A,Constitutional Amendment 5,,,No,752
+Stone,RUTH B CITY,State Auditor,,REP,Scott Fitzpatrick,360
+Stone,RUTH B CITY,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,72
+Stone,RUTH B CITY,U.S. House,7,REP,John Casey,52
+Stone,RUTH B CITY,U.S. House,7,REP,Grayson Hunt,52
+Stone,RUTH B CITY,U.S. House,7,REP,Eric W. Burlison,366
+Stone,RUTH B CITY,State House,138,REP,Tom Franiak,90
+Stone,RUTH B CITY,State House,138,REP,Burt Whaley,374
+Stone,RUTH B CITY,Associate Circuit Judge Division I,,,Andrea Pate,404
+Stone,RUTH B CITY,Associate Circuit Judge Division II,,,Eric Chavez,408
+Stone,RUTH B CITY,Presiding Commissioner,,,Kelly Power,133
+Stone,RUTH B CITY,Presiding Commissioner,,,Gordon Weathers,277
+Stone,RUTH B CITY,Presiding Commissioner,,,Doug Minton,59
+Stone,RUTH B CITY,County Clerk,,,Denise Dickens,311
+Stone,RUTH B CITY,County Clerk,,,David Cash,146
+Stone,RUTH B CITY,Clerk of the Circuit Court,,,Mechelee Lebow,405
+Stone,RUTH B CITY,Recorder of Deeds,,,Amy Jo Larson,406
+Stone,RUTH B CITY,County Treasurer,,,Kristi Stephens,408
+Stone,RUTH B CITY,Prosecuting Attorney,,,Wesley M. Weber,398
+Stone,RUTH B CITY,Collector of Revenue,,,Anna Burk,419
+Stone,RUTH B CITY,Southern Road Associate Commissioner,,,Roy Campbell,402
+Stone,RUTH B CITY,State Auditor,,DEM,Quentin Wilson,47
+Stone,RUTH B CITY,State Auditor,,DEM,Gregory Upchurch,35
+Stone,RUTH B CITY,U.S. House,7,DEM,Missi Hesketh,85
+Stone,RUTH B CITY,State House,138,DEM,Chris Daugherty,85
+Stone,RUTH B CITY,State Auditor,,LIB,Dustin Coffell,2
+Stone,RUTH B CITY,U.S. House,7,LIB,Kevin Craig,2
+Stone,RUTH B CITY,Constitutional Amendment 1,,,Yes,544
+Stone,RUTH B CITY,Constitutional Amendment 1,,,No,120
+Stone,RUTH B CITY,Constitutional Amendment 2,,,Yes,525
+Stone,RUTH B CITY,Constitutional Amendment 2,,,No,119
+Stone,RUTH B CITY,Constitutional Amendment 4,,,Yes,161
+Stone,RUTH B CITY,Constitutional Amendment 4,,,No,506
+Stone,RUTH B CITY,Constitutional Amendment 5,,,Yes,130
+Stone,RUTH B CITY,Constitutional Amendment 5,,,No,535
+Stone,RUTH B RURAL,State Auditor,,REP,Scott Fitzpatrick,463
+Stone,RUTH B RURAL,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,86
+Stone,RUTH B RURAL,U.S. House,7,REP,John Casey,58
+Stone,RUTH B RURAL,U.S. House,7,REP,Grayson Hunt,68
+Stone,RUTH B RURAL,U.S. House,7,REP,Eric W. Burlison,456
+Stone,RUTH B RURAL,State House,138,REP,Tom Franiak,164
+Stone,RUTH B RURAL,State House,138,REP,Burt Whaley,387
+Stone,RUTH B RURAL,Associate Circuit Judge Division I,,,Andrea Pate,491
+Stone,RUTH B RURAL,Associate Circuit Judge Division II,,,Eric Chavez,501
+Stone,RUTH B RURAL,Presiding Commissioner,,,Kelly Power,224
+Stone,RUTH B RURAL,Presiding Commissioner,,,Gordon Weathers,276
+Stone,RUTH B RURAL,Presiding Commissioner,,,Doug Minton,78
+Stone,RUTH B RURAL,County Clerk,,,Denise Dickens,368
+Stone,RUTH B RURAL,County Clerk,,,David Cash,207
+Stone,RUTH B RURAL,Clerk of the Circuit Court,,,Mechelee Lebow,504
+Stone,RUTH B RURAL,Recorder of Deeds,,,Amy Jo Larson,503
+Stone,RUTH B RURAL,County Treasurer,,,Kristi Stephens,504
+Stone,RUTH B RURAL,Prosecuting Attorney,,,Wesley M. Weber,500
+Stone,RUTH B RURAL,Collector of Revenue,,,Anna Burk,511
+Stone,RUTH B RURAL,Southern Road Associate Commissioner,,,Roy Campbell,495
+Stone,RUTH B RURAL,State Auditor,,DEM,Quentin Wilson,51
+Stone,RUTH B RURAL,State Auditor,,DEM,Gregory Upchurch,45
+Stone,RUTH B RURAL,U.S. House,7,DEM,Missi Hesketh,94
+Stone,RUTH B RURAL,State House,138,DEM,Chris Daugherty,92
+Stone,RUTH B RURAL,State Auditor,,LIB,Dustin Coffell,1
+Stone,RUTH B RURAL,U.S. House,7,LIB,Kevin Craig,1
+Stone,RUTH B RURAL,Constitutional Amendment 1,,,Yes,647
+Stone,RUTH B RURAL,Constitutional Amendment 1,,,No,123
+Stone,RUTH B RURAL,Constitutional Amendment 2,,,Yes,619
+Stone,RUTH B RURAL,Constitutional Amendment 2,,,No,141
+Stone,RUTH B RURAL,Constitutional Amendment 4,,,Yes,177
+Stone,RUTH B RURAL,Constitutional Amendment 4,,,No,592
+Stone,RUTH B RURAL,Constitutional Amendment 5,,,Yes,176
+Stone,RUTH B RURAL,Constitutional Amendment 5,,,No,597
+Stone,RUTH C,State Auditor,,REP,Scott Fitzpatrick,661
+Stone,RUTH C,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,99
+Stone,RUTH C,U.S. House,7,REP,John Casey,107
+Stone,RUTH C,U.S. House,7,REP,Grayson Hunt,77
+Stone,RUTH C,U.S. House,7,REP,Eric W. Burlison,623
+Stone,RUTH C,State House,138,REP,Tom Franiak,175
+Stone,RUTH C,State House,138,REP,Burt Whaley,607
+Stone,RUTH C,Associate Circuit Judge Division I,,,Andrea Pate,688
+Stone,RUTH C,Associate Circuit Judge Division II,,,Eric Chavez,683
+Stone,RUTH C,Presiding Commissioner,,,Kelly Power,309
+Stone,RUTH C,Presiding Commissioner,,,Gordon Weathers,377
+Stone,RUTH C,Presiding Commissioner,,,Doug Minton,120
+Stone,RUTH C,County Clerk,,,Denise Dickens,522
+Stone,RUTH C,County Clerk,,,David Cash,266
+Stone,RUTH C,Clerk of the Circuit Court,,,Mechelee Lebow,693
+Stone,RUTH C,Recorder of Deeds,,,Amy Jo Larson,689
+Stone,RUTH C,County Treasurer,,,Kristi Stephens,684
+Stone,RUTH C,Prosecuting Attorney,,,Wesley M. Weber,676
+Stone,RUTH C,Collector of Revenue,,,Anna Burk,709
+Stone,RUTH C,Southern Road Associate Commissioner,,,Roy Campbell,694
+Stone,RUTH C,Ruth C Precinct Committeeman,,,Ryan Hurtgen,306
+Stone,RUTH C,Ruth C Precinct Committeeman,,,Gary L Clark,413
+Stone,RUTH C,Ruth C Precinct Committeeman,,WI,Write-Ins,2
+Stone,RUTH C,Ruth C Precinct Committeewoman,,,Sabrina Hurtgen,309
+Stone,RUTH C,Ruth C Precinct Committeewoman,,,Kathy J Clark,418
+Stone,RUTH C,Ruth C Precinct Committeewoman,,WI,Write-Ins,1
+Stone,RUTH C,State Auditor,,DEM,Quentin Wilson,55
+Stone,RUTH C,State Auditor,,DEM,Gregory Upchurch,46
+Stone,RUTH C,U.S. House,7,DEM,Missi Hesketh,105
+Stone,RUTH C,State House,138,DEM,Chris Daugherty,103
+Stone,RUTH C,State Auditor,,LIB,Dustin Coffell,3
+Stone,RUTH C,U.S. House,7,LIB,Kevin Craig,3
+Stone,RUTH C,Constitutional Amendment 1,,,Yes,836
+Stone,RUTH C,Constitutional Amendment 1,,,No,188
+Stone,RUTH C,Constitutional Amendment 2,,,Yes,838
+Stone,RUTH C,Constitutional Amendment 2,,,No,172
+Stone,RUTH C,Constitutional Amendment 4,,,Yes,314
+Stone,RUTH C,Constitutional Amendment 4,,,No,717
+Stone,RUTH C,Constitutional Amendment 5,,,Yes,281
+Stone,RUTH C,Constitutional Amendment 5,,,No,750
+Stone,RUTH C RURAL,State Auditor,,REP,Scott Fitzpatrick,95
+Stone,RUTH C RURAL,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,19
+Stone,RUTH C RURAL,U.S. House,7,REP,John Casey,16
+Stone,RUTH C RURAL,U.S. House,7,REP,Grayson Hunt,7
+Stone,RUTH C RURAL,U.S. House,7,REP,Eric W. Burlison,96
+Stone,RUTH C RURAL,State House,138,REP,Tom Franiak,14
+Stone,RUTH C RURAL,State House,138,REP,Burt Whaley,103
+Stone,RUTH C RURAL,Associate Circuit Judge Division I,,,Andrea Pate,96
+Stone,RUTH C RURAL,Associate Circuit Judge Division II,,,Eric Chavez,98
+Stone,RUTH C RURAL,Presiding Commissioner,,,Kelly Power,27
+Stone,RUTH C RURAL,Presiding Commissioner,,,Gordon Weathers,83
+Stone,RUTH C RURAL,Presiding Commissioner,,,Doug Minton,9
+Stone,RUTH C RURAL,County Clerk,,,Denise Dickens,92
+Stone,RUTH C RURAL,County Clerk,,,David Cash,21
+Stone,RUTH C RURAL,Clerk of the Circuit Court,,,Mechelee Lebow,99
+Stone,RUTH C RURAL,Recorder of Deeds,,,Amy Jo Larson,97
+Stone,RUTH C RURAL,County Treasurer,,,Kristi Stephens,98
+Stone,RUTH C RURAL,Prosecuting Attorney,,,Wesley M. Weber,97
+Stone,RUTH C RURAL,Collector of Revenue,,,Anna Burk,103
+Stone,RUTH C RURAL,Southern Road Associate Commissioner,,,Roy Campbell,99
+Stone,RUTH C RURAL,State Auditor,,DEM,Quentin Wilson,15
+Stone,RUTH C RURAL,State Auditor,,DEM,Gregory Upchurch,10
+Stone,RUTH C RURAL,U.S. House,7,DEM,Missi Hesketh,30
+Stone,RUTH C RURAL,State House,138,DEM,Chris Daugherty,29
+Stone,RUTH C RURAL,State Auditor,,LIB,Dustin Coffell,0
+Stone,RUTH C RURAL,U.S. House,7,LIB,Kevin Craig,0
+Stone,RUTH C RURAL,Constitutional Amendment 1,,,Yes,131
+Stone,RUTH C RURAL,Constitutional Amendment 1,,,No,33
+Stone,RUTH C RURAL,Constitutional Amendment 2,,,Yes,127
+Stone,RUTH C RURAL,Constitutional Amendment 2,,,No,31
+Stone,RUTH C RURAL,Constitutional Amendment 4,,,Yes,57
+Stone,RUTH C RURAL,Constitutional Amendment 4,,,No,112
+Stone,RUTH C RURAL,Constitutional Amendment 5,,,Yes,45
+Stone,RUTH C RURAL,Constitutional Amendment 5,,,No,124
+Stone,SUNSET COVE,State Auditor,,REP,Scott Fitzpatrick,95
+Stone,SUNSET COVE,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,20
+Stone,SUNSET COVE,U.S. House,7,REP,John Casey,14
+Stone,SUNSET COVE,U.S. House,7,REP,Grayson Hunt,13
+Stone,SUNSET COVE,U.S. House,7,REP,Eric W. Burlison,93
+Stone,SUNSET COVE,State House,138,REP,Tom Franiak,22
+Stone,SUNSET COVE,State House,138,REP,Burt Whaley,95
+Stone,SUNSET COVE,Associate Circuit Judge Division I,,,Andrea Pate,101
+Stone,SUNSET COVE,Associate Circuit Judge Division II,,,Eric Chavez,103
+Stone,SUNSET COVE,Presiding Commissioner,,,Kelly Power,38
+Stone,SUNSET COVE,Presiding Commissioner,,,Gordon Weathers,51
+Stone,SUNSET COVE,Presiding Commissioner,,,Doug Minton,24
+Stone,SUNSET COVE,County Clerk,,,Denise Dickens,81
+Stone,SUNSET COVE,County Clerk,,,David Cash,32
+Stone,SUNSET COVE,Clerk of the Circuit Court,,,Mechelee Lebow,103
+Stone,SUNSET COVE,Recorder of Deeds,,,Amy Jo Larson,104
+Stone,SUNSET COVE,County Treasurer,,,Kristi Stephens,103
+Stone,SUNSET COVE,Prosecuting Attorney,,,Wesley M. Weber,102
+Stone,SUNSET COVE,Collector of Revenue,,,Anna Burk,107
+Stone,SUNSET COVE,Southern Road Associate Commissioner,,,Roy Campbell,104
+Stone,SUNSET COVE,State Auditor,,DEM,Quentin Wilson,12
+Stone,SUNSET COVE,State Auditor,,DEM,Gregory Upchurch,13
+Stone,SUNSET COVE,U.S. House,7,DEM,Missi Hesketh,27
+Stone,SUNSET COVE,State House,138,DEM,Chris Daugherty,24
+Stone,SUNSET COVE,State Auditor,,LIB,Dustin Coffell,0
+Stone,SUNSET COVE,U.S. House,7,LIB,Kevin Craig,0
+Stone,SUNSET COVE,Constitutional Amendment 1,,,Yes,139
+Stone,SUNSET COVE,Constitutional Amendment 1,,,No,19
+Stone,SUNSET COVE,Constitutional Amendment 2,,,Yes,142
+Stone,SUNSET COVE,Constitutional Amendment 2,,,No,16
+Stone,SUNSET COVE,Constitutional Amendment 4,,,Yes,62
+Stone,SUNSET COVE,Constitutional Amendment 4,,,No,97
+Stone,SUNSET COVE,Constitutional Amendment 5,,,Yes,49
+Stone,SUNSET COVE,Constitutional Amendment 5,,,No,110
+Stone,UNION,State Auditor,,REP,Scott Fitzpatrick,114
+Stone,UNION,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,19
+Stone,UNION,U.S. House,7,REP,John Casey,17
+Stone,UNION,U.S. House,7,REP,Grayson Hunt,22
+Stone,UNION,U.S. House,7,REP,Eric W. Burlison,100
+Stone,UNION,State House,138,REP,Tom Franiak,20
+Stone,UNION,State House,138,REP,Burt Whaley,118
+Stone,UNION,Associate Circuit Judge Division I,,,Andrea Pate,106
+Stone,UNION,Associate Circuit Judge Division II,,,Eric Chavez,105
+Stone,UNION,Presiding Commissioner,,,Kelly Power,55
+Stone,UNION,Presiding Commissioner,,,Gordon Weathers,23
+Stone,UNION,Presiding Commissioner,,,Doug Minton,63
+Stone,UNION,County Clerk,,,Denise Dickens,101
+Stone,UNION,County Clerk,,,David Cash,40
+Stone,UNION,Clerk of the Circuit Court,,,Mechelee Lebow,108
+Stone,UNION,Recorder of Deeds,,,Amy Jo Larson,108
+Stone,UNION,County Treasurer,,,Kristi Stephens,108
+Stone,UNION,Prosecuting Attorney,,,Wesley M. Weber,104
+Stone,UNION,Collector of Revenue,,,Anna Burk,107
+Stone,UNION,Northern Road Associate Commissioner,,,Bo Jenkins,106
+Stone,UNION,State Auditor,,DEM,Quentin Wilson,7
+Stone,UNION,State Auditor,,DEM,Gregory Upchurch,4
+Stone,UNION,U.S. House,7,DEM,Missi Hesketh,11
+Stone,UNION,State House,138,DEM,Chris Daugherty,10
+Stone,UNION,State Auditor,,LIB,Dustin Coffell,1
+Stone,UNION,U.S. House,7,LIB,Kevin Craig,1
+Stone,UNION,Constitutional Amendment 1,,,Yes,120
+Stone,UNION,Constitutional Amendment 1,,,No,44
+Stone,UNION,Constitutional Amendment 2,,,Yes,119
+Stone,UNION,Constitutional Amendment 2,,,No,42
+Stone,UNION,Constitutional Amendment 4,,,Yes,41
+Stone,UNION,Constitutional Amendment 4,,,No,125
+Stone,UNION,Constitutional Amendment 5,,,Yes,22
+Stone,UNION,Constitutional Amendment 5,,,No,143
+Stone,WASHINGTON,State Auditor,,REP,Scott Fitzpatrick,230
+Stone,WASHINGTON,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,37
+Stone,WASHINGTON,U.S. House,7,REP,John Casey,33
+Stone,WASHINGTON,U.S. House,7,REP,Grayson Hunt,40
+Stone,WASHINGTON,U.S. House,7,REP,Eric W. Burlison,213
+Stone,WASHINGTON,State House,138,REP,Tom Franiak,60
+Stone,WASHINGTON,State House,138,REP,Burt Whaley,219
+Stone,WASHINGTON,Associate Circuit Judge Division I,,,Andrea Pate,229
+Stone,WASHINGTON,Associate Circuit Judge Division II,,,Eric Chavez,234
+Stone,WASHINGTON,Presiding Commissioner,,,Kelly Power,121
+Stone,WASHINGTON,Presiding Commissioner,,,Gordon Weathers,69
+Stone,WASHINGTON,Presiding Commissioner,,,Doug Minton,129
+Stone,WASHINGTON,County Clerk,,,Denise Dickens,204
+Stone,WASHINGTON,County Clerk,,,David Cash,107
+Stone,WASHINGTON,Clerk of the Circuit Court,,,Mechelee Lebow,257
+Stone,WASHINGTON,Recorder of Deeds,,,Amy Jo Larson,243
+Stone,WASHINGTON,County Treasurer,,,Kristi Stephens,229
+Stone,WASHINGTON,Prosecuting Attorney,,,Wesley M. Weber,221
+Stone,WASHINGTON,Collector of Revenue,,,Anna Burk,247
+Stone,WASHINGTON,Northern Road Associate Commissioner,,,Bo Jenkins,230
+Stone,WASHINGTON,State Auditor,,DEM,Quentin Wilson,21
+Stone,WASHINGTON,State Auditor,,DEM,Gregory Upchurch,12
+Stone,WASHINGTON,U.S. House,7,DEM,Missi Hesketh,35
+Stone,WASHINGTON,State House,138,DEM,Chris Daugherty,35
+Stone,WASHINGTON,State Auditor,,LIB,Dustin Coffell,0
+Stone,WASHINGTON,U.S. House,7,LIB,Kevin Craig,0
+Stone,WASHINGTON,Constitutional Amendment 1,,,Yes,298
+Stone,WASHINGTON,Constitutional Amendment 1,,,No,84
+Stone,WASHINGTON,Constitutional Amendment 2,,,Yes,271
+Stone,WASHINGTON,Constitutional Amendment 2,,,No,94
+Stone,WASHINGTON,Constitutional Amendment 4,,,Yes,113
+Stone,WASHINGTON,Constitutional Amendment 4,,,No,270
+Stone,WASHINGTON,Constitutional Amendment 5,,,Yes,73
+Stone,WASHINGTON,Constitutional Amendment 5,,,No,314
+Stone,WILLIAMS,State Auditor,,REP,Scott Fitzpatrick,184
+Stone,WILLIAMS,State Auditor,,REP,Gerald (Jerry) Wistrand Jr.,30
+Stone,WILLIAMS,U.S. House,7,REP,John Casey,26
+Stone,WILLIAMS,U.S. House,7,REP,Grayson Hunt,24
+Stone,WILLIAMS,U.S. House,7,REP,Eric W. Burlison,161
+Stone,WILLIAMS,State House,138,REP,Tom Franiak,0
+Stone,WILLIAMS,State House,138,REP,Burt Whaley,0
+Stone,WILLIAMS,State House,155,REP,Matthew Overcast,184
+Stone,WILLIAMS,Associate Circuit Judge Division I,,,Andrea Pate,178
+Stone,WILLIAMS,Associate Circuit Judge Division II,,,Eric Chavez,174
+Stone,WILLIAMS,Presiding Commissioner,,,Kelly Power,106
+Stone,WILLIAMS,Presiding Commissioner,,,Gordon Weathers,60
+Stone,WILLIAMS,Presiding Commissioner,,,Doug Minton,40
+Stone,WILLIAMS,County Clerk,,,Denise Dickens,127
+Stone,WILLIAMS,County Clerk,,,David Cash,81
+Stone,WILLIAMS,Clerk of the Circuit Court,,,Mechelee Lebow,180
+Stone,WILLIAMS,Recorder of Deeds,,,Amy Jo Larson,187
+Stone,WILLIAMS,County Treasurer,,,Kristi Stephens,181
+Stone,WILLIAMS,Prosecuting Attorney,,,Wesley M. Weber,180
+Stone,WILLIAMS,Collector of Revenue,,,Anna Burk,187
+Stone,WILLIAMS,Southern Road Associate Commissioner,,,Roy Campbell,179
+Stone,WILLIAMS,State Auditor,,DEM,Quentin Wilson,29
+Stone,WILLIAMS,State Auditor,,DEM,Gregory Upchurch,25
+Stone,WILLIAMS,U.S. House,7,DEM,Missi Hesketh,52
+Stone,WILLIAMS,State House,138,DEM,Chris Daugherty,0
+Stone,WILLIAMS,State House,155,DEM,Joshua Berzins,49
+Stone,WILLIAMS,State Auditor,,LIB,Dustin Coffell,0
+Stone,WILLIAMS,U.S. House,7,LIB,Kevin Craig,0
+Stone,WILLIAMS,Constitutional Amendment 1,,,Yes,241
+Stone,WILLIAMS,Constitutional Amendment 1,,,No,57
+Stone,WILLIAMS,Constitutional Amendment 2,,,Yes,231
+Stone,WILLIAMS,Constitutional Amendment 2,,,No,62
+Stone,WILLIAMS,Constitutional Amendment 4,,,Yes,71
+Stone,WILLIAMS,Constitutional Amendment 4,,,No,229
+Stone,WILLIAMS,Constitutional Amendment 5,,,Yes,66
+Stone,WILLIAMS,Constitutional Amendment 5,,,No,235
+Stone,WILLIAMS,Question: Central Crossing Fpd,,,Yes,103
+Stone,WILLIAMS,Question: Central Crossing Fpd,,,No,79
